@@ -1,0 +1,21 @@
+#Física_I
+# Sistema de Referencia
+Un sistema de referencia es un observador
+**Todo problema debe tener definido un sistema de referencia**
+![[Pasted image 20210908094846.png]]
+r = vector posicion. este varia en el tiempo a medida que se mueve el cuerpo
+El cuerpo se mueve siguiendo la trayectoria (rojo). Esta es la sucesion de puntos por la que pasa el cuerpo o punto en cuestion
+
+## Versores
+i, j y k son vectores unitarios (versores)
+i va en el eje x tiene modulo 1 y va en el sentido positivo de las x
+j va en el eje y tiene modulo 1 y va en el sentido positivo de las y
+k va en el eje z tiene modulo 1 y va en el sentido positivo de las z
+*Al ser x, y, z multiplicados por sus versores, quedan orientados en los ejes correspondientes*
+![[Pasted image 20210908095059.png]]
+![[Pasted image 20210908095108.png]]
+
+-----------------------------------------------
+
+![[Pasted image 20210908095143.png]]
+![[Pasted image 20210908095149.png]]

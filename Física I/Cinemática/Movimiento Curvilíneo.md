@@ -1,0 +1,47 @@
+#Física_I
+# Movimiento Curvilíneo
+
+![[Pasted image 20210908095722.png]]
+El punto se encuentra en la Posicion1 segun el vector $r_1$ y en la Posicion2 segun el vector $r_2$
+Desplazamiento: $\triangle r = r_2 - r_1$
+El |desplazamiento| es diferente a la trayectoria.
+Intervalo de tiempo: $\triangle t = t_2 - t_1$
+#### Velocidad Media
+Cociente entre desplazamiento y el intervalo de tiempo $\triangle t$ en el que el móvil va de $P_1$ a $P_2$:
+## $\vec v_m = \frac {\triangle r} {\triangle t}$
+
+#### Velocidad Instantanea/Vector Velocidad/Velocidad
+Para calcularla acercamos $P_2$ a $P_1$:
+![[Pasted image 20210908102240.png]]
+![[Pasted image 20210908105257.png]]
+Al diminuir el intervalo de tiempo se acercan ambos puntos. Se reduce el modulo del desplazamiento y modifica su direccion, acercandose a la tangente de la curva en $P_1$.
+Esto equivaldria a limite cuando el intervalo de tiempo tiende a 0 de la velocidad media ($v_m$)
+![[Pasted image 20210908103110.png]]
+# $\vec v =\lim_{\triangle t\to\ 0} \frac { \triangle r} {\triangle t} = \frac {dr} {dt}$ 
+tambien se puede notar como: $\vec v * dt = df$
+¿Por que se hace esto?
+[[Definición]]
+###### Rapidez
+ ### $\vec {|v|} = v = \sqrt {v_x^2 + v_y^2 +v_z^2} = rapidez = \frac {ds} {dt}$
+
+#### Aceleración
+![[Pasted image 20210908110156.png]]
+Formula:
+# $\vec {a_m} = \frac { \triangle \vec v} {\triangle t}$
+ # $\vec a =\lim_{\triangle t\to\ 0} \vec v_m = \lim_{\triangle t\to\ 0} \frac { \triangle \vec v} {\triangle t} = \frac {d\vec v} {dt}$ 
+ $\vec {|a|} = a = \sqrt {a_x^2 + a_y^2 +a_z^2}$
+ 
+ La trayectoria de la aceleracion siempre apunta hacia el interior de la concavidad de la curva que describe la partícula.
+ 
+ Siempre se puede hacer el camino inverso integrando tal que $\vec a = \frac {d\vec v} {dt}$ se puede ver como: 
+ ### $\int_{t_0}^{t} \vec a \,dt = \int_{v_0}^{v} \,d\vec v$
+ y $\vec v = \frac {d\vec r} {dt}$ se puede ver como: 
+ ### $\int_{0}^{t} \vec v \,dt = \int_{\vec r_0}^{\vec r} \,d\vec r$
+ 
+ ## Resumen de formulas: 
+## $\vec r(t)$
+## $\vec v =\frac {d\vec r} {dt}$ 
+## $\vec a = \frac {d\vec v} {dt} =\frac {d^2\vec r} {dt^2}$
+## $\int_{t_0}^{t} \vec a \,dt = \int_{v_0}^{v} \,d\vec v$
+## $\int_{t_0}^{t} \vec v \,dt = \int_{\vec r_0}^{\vec r} \,d\vec r$
+ 

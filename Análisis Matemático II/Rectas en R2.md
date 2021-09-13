@@ -1,0 +1,23 @@
+#Análisis_Matemático_II
+# Rectas en R2
+##### Ecuacion general o implicita: 
+$$Ax + By + C = 0$$
+###### obtener una recta con 2 puntos
+![[Pasted image 20210908133953.png]]
+##### Ecuación Explícita:
+$$y = \frac 3 2 * x + 2$$
+Dos rectas son perpendiculares si sus pendientes tienen la relacion $m_1=\frac 1 m$
+##### Ecuación Vectorial Paramétrica:
+$$(x, y)=    λ(α, β)+ ( Xo, Yo)$$
+Siendo $(α, β)$ el vector director y $(Xo, Yo)$$ un punto de paso
+Para obtener el vector director podemos restar 2 puntos
+Si multiplicamos nos queda, por ejemplo L= (1+λ, 2-λ)
+##### Ecuacion Paramétrica
+![[Pasted image 20210907113110.png]]
+
+
+![[Pasted image 20210907112644.png]]
+
+
+##### Intersecciones
+Para buscar intersecciones

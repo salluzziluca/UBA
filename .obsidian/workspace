@@ -4,15 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e638f4f2fffebe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Física I/Cinemática/Untitled.md",
-            "mode": "source"
+        "id": "5bb587536acd6539",
+        "type": "split",
+        "children": [
+          {
+            "id": "78d0027366b374b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
+                "mode": "source"
+              }
+            },
+            "group": "27f33c67fb335750"
+          },
+          {
+            "id": "1ec93a2ec767ef17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "27f33c67fb335750"
           }
-        }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "2c33c7d89f075dc9",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b87d0da17b55323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
+                "mode": "preview"
+              }
+            },
+            "group": "27f33c67fb335750"
+          },
+          {
+            "id": "2e737e11470fb13d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181627,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "folder",
+                "query": "aceleracion centr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,28 +127,38 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c8d607776b4c33b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
     "type": "split",
     "children": [
       {
-        "id": "e3a3a06111935fc8",
+        "id": "63a996253cd9efbb",
         "type": "tabs",
         "children": [
           {
-            "id": "49aa9d948bb1ffdf",
+            "id": "665ab3eea9f75da7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/Cinemática/Untitled.md",
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +168,46 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2951290f6d2c0036",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b593a34e27ff9c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Física I/Cinemática/1.3 Movimiento Curvilíneo.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f2e638f4f2fffebe",
+  "active": "78d0027366b374b7",
   "lastOpenFiles": [
-    "Física I/Cinemática/Untitled.md",
-    "Física I/Movimiento Circular.md",
-    "Física I/Cinemática/Definición.md",
-    "Física I/Cinemática/Movimiento Curvilíneo.md",
-    "Análisis Matemático II/Radianes.md",
-    "Física I/Cinemática/Movimiento Relativo.md",
-    "Física I/Untitled.md",
-    "Física I/Cinemática/Coordenadas Intrínsecas.md",
-    "Física I/Cinemática/Sistema de Referencia.md",
-    "Análisis Matemático II/Topología.md"
+    "Física I/Cinemática/1.3 Movimiento Curvilíneo.md",
+    "Física I/Cinemática/1.0 Cinemática.md",
+    "Física I/Cinemática/1.6 Movimiento Relativo.md",
+    "Física I/Cinemática/1.7 Movimiento Circular.md",
+    "Física I/Cinemática/1.1 Objetivo Principal.md",
+    "Física I/Física I.md",
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
+    "Análisis Matemático II/2. R3/2.0 R3.md",
+    "Física I/Laboratorio/Teoria de la Medida.md",
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
   ]
 }

@@ -15,12 +15,12 @@ Menor o igual: <=
 Igual: ==
 Diferente. !=
 ## Lógicos
-And = &&
-Or = ||
-`if (3=3 && 4=4){
+And = &
+Or = |
+`if (3==3) & (4==4):
  true
 }`
-`if (3=3 || 5=4){
+`if (3==3) | (5=4):
  true
 }`
 

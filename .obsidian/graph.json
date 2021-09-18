@@ -1,31 +1,38 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Análisis_Matemático_II ",
+      "query": "path:\"Análisis Matemático II\"",
       "color": {
         "a": 1,
-        "rgb": 15881300
+        "rgb": 16737039
       }
     },
     {
-      "query": "tag:#Física_I",
+      "query": "path:\"Física I\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#Algoritmos_y_Programación_I",
+      "query": "path:\"Algoritmos y Programación I\"",
       "color": {
         "a": 1,
         "rgb": 10356453
+      }
+    },
+    {
+      "query": "tag:#UBA",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -33,12 +40,12 @@
   "showArrow": false,
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 1.3982905982906,
-  "lineSizeMultiplier": 1.27264957264957,
-  "collapse-forces": true,
-  "centerStrength": 0.0561797752808989,
+  "lineSizeMultiplier": 1.62764705882353,
+  "collapse-forces": false,
+  "centerStrength": 0,
   "repelStrength": 9.21348314606742,
-  "linkStrength": 1,
+  "linkStrength": 0.594117647058824,
   "linkDistance": 250,
-  "scale": 0.09895430218637183,
-  "close": false
+  "scale": 0.16348370567220544,
+  "close": true
 }

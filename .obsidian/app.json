@@ -2,5 +2,5 @@
   "promptDelete": false,
   "attachmentFolderPath": "Imagenes",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "alphabetical"
 }

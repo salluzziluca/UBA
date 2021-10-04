@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "87c2d42c5f5a59de",
+        "id": "a812b5e669b3a34b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/3. Funciones/3.4 Curva.md",
+            "file": "Física I/Trabajo y Energía/Fuerzas Conservativas.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acotado",
+                "query": "dr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.4 Curva.md",
+                "file": "Física I/Trabajo y Energía/Fuerzas Conservativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +104,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.4 Curva.md"
+                "file": "Física I/Trabajo y Energía/Fuerzas Conservativas.md"
               }
+            }
+          },
+          {
+            "id": "411918a0961981bf",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb4681c025e2fc82",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ],
@@ -117,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87c2d42c5f5a59de",
+  "active": "a812b5e669b3a34b",
   "lastOpenFiles": [
-    "Análisis Matemático II/3. Funciones/3.4 Curva.md",
-    "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
-    "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
-    "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
-    "Análisis Matemático II/Análisis Matemático II.md",
-    "Análisis Matemático II/1. R2/1.0 R2.md",
-    "Análisis Matemático II/1. R2/1.9 Nomenclatura.md",
-    "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Análisis Matemático II/1. R2/1.1 Conjuntos.md",
-    "Análisis Matemático II/1. R2/1.3 Conicas.md"
+    "Física I/Trabajo y Energía/Fuerzas Conservativas.md",
+    "Física I/Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "Física I/Trabajo y Energía/Paso a paso trabajo.md",
+    "Física I/Trabajo y Energía/Fuerzas no Conservativas.md",
+    "Física I/Trabajo y Energía/3.1 Trabajo y Energía.md",
+    "Física I/Trabajo y Energía/3.2 Potencia.md",
+    "Física I/Trabajo y Energía/Trabajo de Fuerzas Centrales.md",
+    "Física I/Trabajo y Energía/Teorema de Stokes.md",
+    "Física I/Trabajo y Energía/3.0 Trabajo y Energia.md",
+    "Física I/Laboratorio/Teoria de la Medida.md"
   ]
 }

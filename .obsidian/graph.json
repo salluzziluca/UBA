@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Análisis Matemático II\"",
+      "query": "tag:#Unidad",
       "color": {
         "a": 1,
-        "rgb": 16737039
+        "rgb": 5824689
       }
     },
     {
@@ -32,7 +32,21 @@
       "query": "tag:#UBA",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16709699
+      }
+    },
+    {
+      "query": "path:\"Análisis Matemático II\"",
+      "color": {
+        "a": 1,
+        "rgb": 16737295
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -42,10 +56,10 @@
   "nodeSizeMultiplier": 1.3982905982906,
   "lineSizeMultiplier": 1.62764705882353,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.52941176470588,
-  "linkStrength": 0.658823529411765,
-  "linkDistance": 193,
-  "scale": 0.08317427835927613,
-  "close": true
+  "centerStrength": 0.170588235294118,
+  "repelStrength": 10.1176470588235,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.08317427835927751,
+  "close": false
 }

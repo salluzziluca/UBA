@@ -19,3 +19,5 @@ Ambas van de la mano, si se cumple una se cumple la otra. Es un contrato. Si el 
 ## Caja blanca y Caja Negra
 **Caja Blanca**: Se centra en cómo se hace el algoritmo, se preocupa por cumplir las post-condiciones
 **Caja Negra**: Que hace el algoritmo, lo que entra y lo que sale, no ve el procedimiento
+
+Para armar uno seguimos el paso a paso dado en [[Elaboración de Algoritmos]]

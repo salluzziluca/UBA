@@ -11,7 +11,21 @@
       "query": "tag:#Unidad",
       "color": {
         "a": 1,
-        "rgb": 5824689
+        "rgb": 8486526
+      }
+    },
+    {
+      "query": "tag:#UBA",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Materias",
+      "color": {
+        "a": 1,
+        "rgb": 12763842
       }
     },
     {
@@ -25,32 +39,18 @@
       "query": "path:\"Algoritmos y Programación I\"",
       "color": {
         "a": 1,
-        "rgb": 10356453
-      }
-    },
-    {
-      "query": "tag:#UBA",
-      "color": {
-        "a": 1,
-        "rgb": 16709699
+        "rgb": 10506976
       }
     },
     {
       "query": "path:\"Análisis Matemático II\"",
       "color": {
         "a": 1,
-        "rgb": 16737295
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 14771747
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.3982905982906,
@@ -60,6 +60,6 @@
   "repelStrength": 10.1176470588235,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.08317427835927751,
-  "close": false
+  "scale": 0.11660891579457697,
+  "close": true
 }

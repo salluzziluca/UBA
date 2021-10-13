@@ -1,4 +1,4 @@
 #Algoritmos_y_Programación_I 
+#Materias
 # Algoritmos y Programacion I
-- [[Elaboración de algoritmos]]
-- [[Estructuras Básicas]]
+- [[Elaboracion de un Programa]]

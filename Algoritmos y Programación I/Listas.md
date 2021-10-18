@@ -12,7 +12,7 @@ print('lista[0]') # va a devolver 22
 ```py
 lista = [0, 1, 2, 3]
 len(lista) # devuelve 4
-lista.append[8]
+lista.append(8)
 lista+=[12]
 print(lista)  #va a devolver[0, 1, 2, 3, 8, 12]
 lista.extend(range(4))
@@ -55,13 +55,12 @@ for i in lista:
 ```py
 	numeros = [x for x in range(1, 101)] #arma una lista del 1 al 100
 numeros = [x**2 for x in range(1, 101)] # los numeros del 1 al 100 al cuadrado
-numeros = [x**2 for x in range(1, 101), if x % 2 == 0] # lista de los numeros pares del 1 al 100
+numeros = [x**2 for x in range(1, 101) if x % 2 == 0] # lista de los numeros pares del 1 al 100}
+
+def impares_al_cuadrado(lista):
+
+ lista_impares_cuadrado=[]
+
+ lista_impares_cuadrado+=[x**2 if x%2 != 0 and x**2 not in lista_impares_cuadrado else x for x in lista] # si son impares ponelos al cuadrado, si son pares dejalos como estan, todo eso en la lista que nos den
 ``` 
 
-## Desempaquetado de tuplas
-Igual que en las listas
-
-## Tuple comprehension
-```py
-numeros = tuple((x for x in range(1, 101))) #arma una lista y castea a tupla
-``` 

@@ -477,4 +477,8 @@ input.task-list-item-checkbox:checked
 {
     fill: var(--dark3) !important;
 }
+.MJT-TEX {
+    font-size: 800%;
+}
+
 

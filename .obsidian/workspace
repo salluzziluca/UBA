@@ -4,15 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "06d05f8ec09fcbba",
+        "id": "23c2c435fc88b3e1",
         "type": "leaf",
+        "dimension": 66.79920477137176,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
+            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "dbe51c60c7c4a56d"
+      },
+      {
+        "id": "2caab05e8d35bcd4",
+        "type": "leaf",
+        "dimension": 33.20079522862823,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.713275462622442,
+              "close": false
+            }
+          }
+        },
+        "group": "dbe51c60c7c4a56d"
       }
     ],
     "direction": "vertical"
@@ -39,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorted",
+                "query": "velocidad angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
+                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md"
+                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
               }
             }
           },
@@ -123,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06d05f8ec09fcbba",
+  "active": "23c2c435fc88b3e1",
   "lastOpenFiles": [
+    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
     "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
     "Física I/4. Sistema de Partículas/Sistema de Partículas.md",
+    "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
+    "Física I/1. Cinemática/1.7 Movimiento Circular.md",
     "Física I/4. Sistema de Partículas/Paso a Paso Centro de Masa Constante.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Física I/4. Sistema de Partículas/Torque de un Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Untitled.md",
-    "Física I/3. Trabajo y Energía/Equilibrio.md",
-    "Algoritmos y Programación I/Listas.md",
-    "Física I/Untitled.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
-    "Análisis Matemático II/2. R3/2.0 R3.md",
-    "Análisis Matemático II/Análisis Matemático II.md"
+    "Física I/4. Sistema de Partículas/Impulso de un Sistema de Partículas.md"
   ]
 }

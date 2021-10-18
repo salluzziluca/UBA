@@ -21,3 +21,11 @@ sorted(tupla) #ordena la tupla pero creando una lista
 tupla = (0, 1, 2, 3)
 print(tupla[0:2]) # imprime (0, 1, 2)
 ```
+
+## Desempaquetado de tuplas
+Igual que en las listas
+
+## Tuple comprehension
+```py
+numeros = tuple((x for x in range(1, 101))) #arma una lista y castea a tupla
+``` 

@@ -1,5 +1,8 @@
 {
   "baseFontSize": 17,
-  "cssTheme": "Obsidian gruvbox",
-  "translucency": false
+  "cssTheme": "obsidian-edited-gruvox",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }

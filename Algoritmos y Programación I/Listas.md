@@ -26,10 +26,14 @@ lista.remove(2) #borra la primer concurrencia de 2
 lista.clear #borra todo
 lista.count(2) #devuelve la cantidad ed veces que aparece 2
 lista.reverse # da vuelta todos los elementos
-lista.sort() #ordena la lista
-lista_ordenada = sorted(lista) #crea una nueva lista ordenada
 ```
 
+## Sorting
+```
+lista.sort(reverse = True/False, key= ) #ordena la lista
+lista_ordenada = sorted(lista, reverse = True/False, key=) #crea una nueva lista ordenada
+```
+para crear las keys o criterios combiene usar [[Lambdas]]
 ## Slices
 ```py
 lista = [0, 1, 2, 3]

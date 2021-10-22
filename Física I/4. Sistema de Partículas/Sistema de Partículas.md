@@ -10,9 +10,14 @@ Con muchas particulas, un objeto del dia a dia como una goma de borrar, infinita
 
  ## [[Cantidad de movimiento de un Sistema de Partículas (SP)]]
 ## [[Momento cinético o momento angular de un sistema de partículas]]
+[[Energía de un Sistema de Partículas]]
 
+## Sistema aislado: 
+- La resultante de las fuerzas exteriores es nula.
+- el momento lineal $\vec P$ es cosntante
+- El centro de masas se mueve en un MRU.
 
-## Aislacion de un sistema no aislado
+### Aislacion de un sistema no aislado
 Si un sistema no está aislado pero tomamos instantes muy cercanos justo antes y despues del evento a estudiar, podemos decir que esta aislado ya que las integrales de las fuerzas externas (que son las que condicionan la variacion de la cantidad de movimiento) quedan practicamente igualadas a cero. ![[Pasted image 20211013101709.png]]
 Se pueden usar en casos de choques, explosiones, etc
 

@@ -10,6 +10,7 @@ Para saber si una fuerza es conservativa usamos el [[Teorema de Stokes]]
 $$W_{\vec F_{conservativa}} = -\triangle E_{potencial}$$ 
 Es decir, la energia potencial en el punto final menos la energia potencial en el punto inicial, porque tal y como dijimos, la fuerza conservativa solo depende de esos dos puntos.
 Luego, al hacer la suma entre la sumatoria de Energia cinética y la sumatoria de Energia potencial obtenemos el valor de la sumatoria de Energía Mecánica.
+Aca es bueno tener en cuenta en que tipo de [[Equilibrio|equilibrio]] puede llegar a encontrarse la partícula
 Ej: 
 ### Peso como fuerza coservativa: 
 ![[Pasted image 20211002220753.png]] 

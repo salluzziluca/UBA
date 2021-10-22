@@ -6,52 +6,13 @@
       {
         "id": "23c2c435fc88b3e1",
         "type": "leaf",
-        "dimension": 66.79920477137176,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
-            "mode": "preview"
+            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
+            "mode": "source"
           }
-        },
-        "group": "dbe51c60c7c4a56d"
-      },
-      {
-        "id": "2caab05e8d35bcd4",
-        "type": "leaf",
-        "dimension": 33.20079522862823,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.713275462622442,
-              "close": false
-            }
-          }
-        },
-        "group": "dbe51c60c7c4a56d"
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "velocidad angular",
+                "query": "energía cinet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 675.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -115,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
               }
             }
           },
@@ -164,15 +125,15 @@
   },
   "active": "23c2c435fc88b3e1",
   "lastOpenFiles": [
-    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
-    "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
-    "Física I/4. Sistema de Partículas/Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
-    "Física I/1. Cinemática/1.7 Movimiento Circular.md",
-    "Física I/4. Sistema de Partículas/Paso a Paso Centro de Masa Constante.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Física I/4. Sistema de Partículas/Torque de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Untitled.md",
-    "Física I/4. Sistema de Partículas/Impulso de un Sistema de Partículas.md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/5.0 Composición de Funciones y Funciones Implicitas.md",
+    "Análisis Matemático II/Análisis Matemático II.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
+    "UBA.md",
+    "Algoritmos y Programación I/Listas.md"
   ]
 }

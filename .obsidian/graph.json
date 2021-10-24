@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"Física I\"",
+      "query": "path:\"Análisis Matemático II\"",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"Análisis Matemático II\"",
+      "query": "path:\"Física I\"",
       "color": {
         "a": 1,
         "rgb": 14771747
@@ -60,6 +60,6 @@
   "repelStrength": 13.2941176470588,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.04231590268976071,
-  "close": true
+  "scale": 0.030182895067325383,
+  "close": false
 }

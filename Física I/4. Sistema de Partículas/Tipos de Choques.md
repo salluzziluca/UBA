@@ -2,7 +2,7 @@
 ![[Pasted image 20211013101935.png]]
 Choque elástico: se conserva la cantidad de movimiento y la energia mecanica
 choque inelástico: se pierde energía cinética pero los cuerpos no se van pegadso.
-Choque plástico:Un tipo de choque inelástico en el que los cuerpos se van unidos. Se pierde energía cinética-
+Choque plástico:Un tipo de choque inelástico en el que los cuerpos se van unidos. Se pierde energía cinética. Si el cuerpo 1 en movimiento choca a un cuerpo de igual masa que esta en reposo la energia cinetica disminuye en un 50%
 Choque explosivo: se gana energía
 
 ## Choques en una dimensión

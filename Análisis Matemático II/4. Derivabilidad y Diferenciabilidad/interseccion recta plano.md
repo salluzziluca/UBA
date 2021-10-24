@@ -1,0 +1,2 @@
+1. Llevamos la recta a una ecuacion parametrica de un solo valor, ej: t
+2. Luego la igualamos a un punto (t,0,0) si buscamos con el plano x, (0,t,0) is buscamos interseccion con Y y (0,0,t) si buscamps cpn Z

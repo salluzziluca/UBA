@@ -1,3 +1,4 @@
+#Unidad 
 # Sistema de Partículas
 - En cada instante se necesitan 6 valores (3 componentes para la posicion y 3 para la velocidad) ==para cada partícula==-> 6.N valores.
 - Muchos valores se calculan directamente en el [[4.1 Centro de Gravedad|centro de gravedad]] o en el [[4.1 Centro de Gravedad#Centro de masa CM|centro de masa]], otros valores son propios del sistema. 

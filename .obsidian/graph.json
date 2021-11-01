@@ -11,7 +11,7 @@
       "query": "tag:#Unidad",
       "color": {
         "a": 1,
-        "rgb": 8486526
+        "rgb": 6313815
       }
     },
     {
@@ -25,7 +25,7 @@
       "query": "tag:#Materias",
       "color": {
         "a": 1,
-        "rgb": 12763842
+        "rgb": 11247776
       }
     },
     {
@@ -50,9 +50,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.1,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.3982905982906,
   "lineSizeMultiplier": 1.62764705882353,
   "collapse-forces": false,
@@ -60,6 +60,6 @@
   "repelStrength": 13.2941176470588,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.030182895067325383,
-  "close": false
+  "scale": 0.32133638605036,
+  "close": true
 }

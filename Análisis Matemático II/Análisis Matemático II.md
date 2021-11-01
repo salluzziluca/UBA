@@ -6,3 +6,9 @@
 [[3.0 Funciones]]
 [[4.0 Derivabilidad]]
 [[5.0 Composición de Funciones y Funciones Implicitas]]
+[[6.0 Polinomio de Taylor]]
+[[7.0 Extremos]]
+
+![[S-4B-versión 1-1.pdf]]
+
+<iframe src="https://youtu.be/NnTvZWp5Q7o"></iframe>

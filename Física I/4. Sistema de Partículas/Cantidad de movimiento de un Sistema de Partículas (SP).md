@@ -4,7 +4,7 @@ Se utiliza la [[4.1 Centro de Gravedad#Velocidad del centro de masa|velocidad de
 Esto sería igual al caso en el que toda la masa estuviese concentrada en el CM y se moviera con la velocidad del CM 
 [[Demostracion de la Primera Ecuación Fundamental del Centro de Masa|Demostración]]
 
-## Primera ecuación fundamental del centro de masa
+## Primera ecuación fundamental del Sistema de Partículas
 ![[Pasted image 20211013090457.png]]
 
 ### resultados de la primera ecuación fundamental de los SP

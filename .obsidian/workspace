@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Listas.md",
-            "mode": "preview"
+            "file": "Ecuaciones Diferenciales Ordinarias (EDO).md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradiente",
+                "query": "arco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Listas.md",
+                "file": "Ecuaciones Diferenciales Ordinarias (EDO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Listas.md"
+                "file": "Ecuaciones Diferenciales Ordinarias (EDO).md"
               }
             }
           },
@@ -125,15 +125,15 @@
   },
   "active": "64ada6d472dab7a0",
   "lastOpenFiles": [
-    "Algoritmos y Programación I/Listas.md",
-    "Algoritmos y Programación I/Tupla.md",
-    "Algoritmos y Programación I/Strings.md",
-    "Análisis Matemático II/Análisis Matemático II.md",
-    "google.com.md",
-    "[Funciones implícitas (I) - FIUBA - YouTube](www.google.com).md",
-    "S-4B-versión 1-1.pdf",
-    "SEP2.pdf",
-    "Algoritmos y Programación I/Elaboracion de un Programa.md",
-    "Algoritmos y Programación I/Tipos de Conjuntos.md"
+    "Ecuaciones Diferenciales Ordinarias (EDO).md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
+    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
+    "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md",
+    "Física I/5 Cuerpo Rígido/Propiedades de la cinemática del Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md"
   ]
 }

@@ -1,4 +1,5 @@
 ![[Pasted image 20211027153129.png]]
+Para buscar puntos criticos, tengo que buscar el lugar en el que el gradiente se anule (sea (0, 0))
 ![[Pasted image 20211027153153.png]]
 PC = 0,0 y 2,0
 

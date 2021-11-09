@@ -1,4 +1,4 @@
-# Demostracion de la Primera Ecuación Fundamental del Centro de Masa
+# Demostracion de la Primera Ecuación Fundamental del Sistema de Partículas
 ![[Pasted image 20211013090846.png]]
 $\vec F_1$ y $\vec F_2$ son fuerzas externas
 $\vec F_{12}$ y $\vec F_{21}$ son fuerzas internas. Con $\vec F_{12}=- \vec F_{21}$.

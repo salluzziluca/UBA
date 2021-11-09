@@ -5,5 +5,5 @@
 - [[2.0 Dinámica]]
 - [[3.0 Trabajo y Energia]]
 - [[Sistema de Partículas]]
-- [[Cuerpo Rígido]]
+- [[5.0 Cuerpo Rígido]]
 - [[Laboratorio]]

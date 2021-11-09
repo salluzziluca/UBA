@@ -11,6 +11,7 @@ El movimiento del CR se produce apoyado sobre una superficie. EL CR ==no desliza
 
 - No hay desplazamiento relativo entre las superficies de contacto
 - La velocidad en el punto de apoyo es nula.
+- Rozamiento estatico.
 
 $$\LARGE v_{CM} = \Omega R$$
 

@@ -1,4 +1,4 @@
-# Diferencial Total
+# Total Exacta (Diferencial Total)
 Sea z=f(x,y) diferenciable en $R: (x,y)∈[a,b] x [c,d]$, entonces, su diferencial total es $dz= f_x' dx+ f_y' dy$.
 ej: 
    

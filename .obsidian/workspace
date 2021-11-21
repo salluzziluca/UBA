@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Lambdas.md",
-            "mode": "preview"
+            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "homogén",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Lambdas.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Lambdas.md"
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md"
               }
             }
           },
@@ -126,15 +125,15 @@
   },
   "active": "64ada6d472dab7a0",
   "lastOpenFiles": [
-    "Algoritmos y Programación I/Lambdas.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Lineas de Campo.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Diferencial Total.md",
-    "Física I/5 Cuerpo Rígido/Conservacion del Momento Angular.md",
-    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
-    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md"
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/Física I.md",
+    "Algoritmos y Programación I/Elaboración de Algoritmos.md",
+    "Algoritmos y Programación I/Elaboracion de un Programa.md",
+    "Algoritmos y Programación I/Algoritmos y Programacion I.md",
+    "Algoritmos y Programación I/Ordenamiento.md",
+    "Algoritmos y Programación I/Busqueda.md"
   ]
 }

@@ -26,3 +26,9 @@ $$a_n (x) y^((n))+a_(n-1) (x) y^((n-1))+…+a_1 (x) y^′+a_0 (x) y=g(x)$$
 Si l ecuacion tiene o puede llevarse a la forma: 
 $g(y)y'=h(x)$
 es una ecuación de variables separadas
+
+# Aplicaciones 
+
+las EDO tambien pueden ser [[Ecuaciones Diferenciales Homogéneas]]
+Luego, si nos dan una ecuacion del tipo  $z=f(x,y)$ la analizamos y resolvemos como una [[Total Exacta (Diferencial Total)]]
+Utilizaremos EDOS para analizar tambien [[Lineas de Campo]] y [[Curvas Ortogonales]]

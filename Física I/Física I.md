@@ -6,4 +6,5 @@
 - [[3.0 Trabajo y Energia]]
 - [[Sistema de Partículas]]
 - [[5.0 Cuerpo Rígido]]
+- [[6.0 Ondas]]
 - [[Laboratorio]]

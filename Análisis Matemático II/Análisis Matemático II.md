@@ -8,7 +8,9 @@
 [[5.0 Composición de Funciones y Funciones Implicitas]]
 [[6.0 Polinomio de Taylor]]
 [[7.0 Extremos]]
-
+[[8.0 Ecuaciones Diferenciales]]
+[[9.0 Integrales Dobles]]
+[[10.0 Integrales Triples]]
 ![[S-4B-versión 1-1.pdf]]
 
 <iframe src="https://youtu.be/NnTvZWp5Q7o"></iframe>

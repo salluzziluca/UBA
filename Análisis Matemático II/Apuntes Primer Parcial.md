@@ -25,3 +25,8 @@ Para hayar los extremos absolutos de un conjunto compacto buscamos los valores p
 Plano normal a cruva interseccion de 2 superficies:
 Encontramos la curva parametrizando las superficies, luego buscamos el t que nos de el punto pedido y la derivada de la curva , evaluamos la derivada en el punto (nos da el vector director del plano normal). Armamos la ecuacion tal que: $(x−x_0,y−y_0,z−z_0)⋅σ'(t_0)=0$ y al multiplicar nos da la respuesta
 ![[Pasted image 20211105134604.png]]
+
+
+##### interesección recta plano
+1. Llevamos la recta a una ecuacion parametrica de un solo valor, ej: t
+2. Luego la igualamos a un punto (t,0,0) si buscamos con el plano x, (0,t,0) is buscamos interseccion con Y y (0,0,t) si buscamps cpn Z

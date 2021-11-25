@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "64ada6d472dab7a0",
+        "id": "8ba6937bb5dc92ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Instancias u Objetos.md",
+            "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Instancias u Objetos.md",
+                "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Instancias u Objetos.md"
+                "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md"
               }
             }
           },
@@ -123,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64ada6d472dab7a0",
+  "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
-    "Algoritmos y Programación I/Instancias u Objetos.md",
     "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
     "Algoritmos y Programación I/Elaboracion de un Programa.md",
+    "Algoritmos y Programación I/Instancias u Objetos.md",
+    "Algoritmos y Programación I/Atributos.md",
+    "Algoritmos y Programación I/Clases.md",
     "Algoritmos y Programación I/Algoritmos y Programacion I.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
     "Física I/6. Ondas/Propagación de Onda.md",
     "Física I/6. Ondas/Onda Elástica Plana.md",
-    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
-    "Física I/6. Ondas/Definición de Onda.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/interseccion recta plano.md"
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md"
   ]
 }

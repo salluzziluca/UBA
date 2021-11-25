@@ -3,4 +3,4 @@ Mediante el uso de [[Variables|variables]], [[Estructuras Básicas|estructuras b
 Si queremos que la informacion que modificamos ocn nuestro programa/algoritmo se conserve, tenemos que usar [[Archivos|archivos]] que queden guardados una vez que nuestro script termine.
 
 ---
-Tambien, un programa puede ser elaborado siguiendo los lineamientos de la [[Programación Orientada a Objetos (OOP)]]dsdss
+Tambien, un programa puede ser elaborado siguiendo los lineamientos de la [[Programación Orientada a Objetos (OOP)]]

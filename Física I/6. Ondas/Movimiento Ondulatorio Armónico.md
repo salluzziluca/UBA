@@ -13,5 +13,5 @@ Se le agrega K(numero de onda) y omega(frecuencia angular o pulsacion) para que 
 
 ### Otras formulas
 ![[Pasted image 20211117093147.png]]
-
+![[Pasted image 20211126163140.png]]
 ![[Pasted image 20211117094915.png]]

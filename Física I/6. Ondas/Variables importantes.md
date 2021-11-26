@@ -12,4 +12,3 @@ La onda avanza $\lambda$ en un periodo T
 velocidad transversal = $v_y = -\omega A cos(Kx-\omega t)$
 $v_{y(max)}=\omega A$
 
-fuerza de restitucion (fuerza que hace, que, por ejemplo, ) = tension de la cuerda. Usualmente $v = \sqrt{}

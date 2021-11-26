@@ -1,12 +1,18 @@
 # Propagación de Onda
 ## Ondas transversales
 Se propagan entre medios solidos y  liquidos (en estos ultimos con dificultad)
+$$y(x,t)= y_0 sen(kx-wt)$$
 
 ## Ondas Longitudinales
 Se propagan en medios sólidos, gaseosos y liquidos (en estos ultimos con dificultad)
+$$\xi (x,t)= \xi_0 sen(kx-wt)$$
 
 ### Propagacion en liquidos
 El asunto cuando se propaga en liquidos es que se mueve en forma oval, ni longitudinal ni transversal, una mezcla de ambas
+
+![[Ondas en Sólidos|Propagación en Sólidos]]
+
+![[Ondas en Cuerdas|Propagación en Cuerdas]]
 
 
 

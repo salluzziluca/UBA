@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -126,6 +127,7 @@
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
     "Algoritmos y Programación I/Métodos.md",
+    "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md",
     "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
     "Algoritmos y Programación I/Elaboracion de un Programa.md",
     "Algoritmos y Programación I/Instancias u Objetos.md",
@@ -133,7 +135,6 @@
     "Algoritmos y Programación I/Clases.md",
     "Algoritmos y Programación I/Algoritmos y Programacion I.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Onda Elástica Plana.md"
+    "Física I/6. Ondas/Propagación de Onda.md"
   ]
 }

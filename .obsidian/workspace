@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
+            "file": "Algoritmos y Programación I/Métodos.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
+                "file": "Algoritmos y Programación I/Métodos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md"
+                "file": "Algoritmos y Programación I/Métodos.md"
               }
             }
           },
@@ -125,6 +125,7 @@
   },
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
+    "Algoritmos y Programación I/Métodos.md",
     "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
     "Algoritmos y Programación I/Elaboracion de un Programa.md",
     "Algoritmos y Programación I/Instancias u Objetos.md",
@@ -133,7 +134,6 @@
     "Algoritmos y Programación I/Algoritmos y Programacion I.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
     "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Onda Elástica Plana.md",
-    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md"
+    "Física I/6. Ondas/Onda Elástica Plana.md"
   ]
 }

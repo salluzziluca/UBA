@@ -10,9 +10,20 @@ item_1 = item()
 item_2 = item
 ```
 
-## Asignación de Atributos
+## Asignación de atributos
 ```py
 item_1.nombre = 'Celular'
 item_2.nombre= 'Compu'
 item_2.precio = 30000
 ```
+
+Para obtener una lista con todos los objetos usamos `Class.all`
+```py
+class Item:
+	Item.all.append(self)
+	
+print(Item.all) #todos los objetos
+```
+Esto tambien nos permite iterar entre [[Atributos|atributos]]
+Tambien podemos utilizar el [[Magic Metods (Métodos Magicos)]] `__repr__`
+

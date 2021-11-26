@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Métodos.md",
-            "mode": "source"
+            "file": "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "b727d42faa26fd47"
+      },
+      {
+        "id": "94994342ad59e234",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224422,
+              "close": false
+            }
+          }
+        },
+        "group": "b727d42faa26fd47"
       }
     ],
     "direction": "vertical"
@@ -77,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Métodos.md",
+                "file": "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Métodos.md"
+                "file": "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md"
               }
             }
           },
@@ -126,15 +163,15 @@
   },
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
-    "Algoritmos y Programación I/Métodos.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/Física I.md",
+    "Análisis Matemático II/Análisis Matemático II.md",
     "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md",
-    "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
-    "Algoritmos y Programación I/Elaboracion de un Programa.md",
     "Algoritmos y Programación I/Instancias u Objetos.md",
     "Algoritmos y Programación I/Atributos.md",
-    "Algoritmos y Programación I/Clases.md",
-    "Algoritmos y Programación I/Algoritmos y Programacion I.md",
-    "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Propagación de Onda.md"
+    "Algoritmos y Programación I/Programación Orientada a Objetos (OOP).md",
+    "Algoritmos y Programación I/Elaboracion de un Programa.md"
   ]
 }

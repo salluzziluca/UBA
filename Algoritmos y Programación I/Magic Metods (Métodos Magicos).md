@@ -34,3 +34,23 @@ print(item_2.decuento) #25
 
 - Como podemos ver con `descuento` se pueden asignar atributos por default en un valor. 
 - Aunque estemos asignando atributos dentro del constructor podemos seguir asignandolos por fuera (esto es si queremos asignar atributos propios de algun objeto.)
+
+## `__repr__`
+```py
+class Item:
+	def __init__(self, nombre, precio, cantidad, descuento = 0):
+		self.nombre = nombre
+		self.precio = precio
+		self.cantidad = cantidad
+		self.descuento = descuento
+		
+	def __repr__(self):
+		return f'Item('{self.name}, {self.price}, {self.cantidad}, {self.descuento}') #[Item('Computadora, 50000, 23, 0'), Item('Celular', 20000, 10, 25)]
+item_1 = Item('Computadora, 50000, 23')
+item_2 = Item('Celular', 20000, 10, 25) 
+item_1.flash = True
+print(item_2.nombre) #'Celular'
+print(item_2.cantidad) #10
+print(item_1.decuento) #0
+print(item_2.decuento) #25
+```

@@ -27,11 +27,14 @@ print(item_1.valor_total()) #200000
 ### Especificación y validacion atributos
 Podes (y debemos) aclararle al constructor que tipo de dato vamos a recibir en cada uno de los atributos, esto permite ordenar de una mejor manera nuestro código. Esto lo hacemos utilizando ` : tipo_de_dato` luego de el atributo. Ej: `precio: float`. 
 - Si tenemos algun atributo designado por defecto ya esta especificado su tipo
-Tambien podemos validarlos por si no queremos recibir un atributo con valor menor a cero o con alguna caracteristica indeseable. Para eso usamos `assert atributo condicion `
+Tambien podemos validarlos por si no queremos recibir un atributo con valor menor a cero o con alguna caracteristica indeseable. Para eso usamos `assert atributo condicion, f'mensaje de error'`
 
 ```py
 class Item:
 	def __init__(self, nombre: str, precio: float, cantidad: int, descuento = 0):
+		assert precio >= 0, f'El precio debe ser mayor o igual que cero, ingresaste {precio}'
+		assert cantidad >= 0 f'La cantidad debe ser mayor o igual que cero, ingresaste {cantidad}'
+		assert descuento > 0 f'El descuento debe ser mayor que cero, ingresaste {descuento}'
 		self.nombre = nombre
 		self.precio = precio
 		self.cantidad = cantidad

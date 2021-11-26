@@ -3,14 +3,13 @@
 ## Fórmula General (en funcion del tiempo)
 $$\LARGE y = f(x-vt)$$
 Esto contempla toooodos los puntos a lo largo del tiempo
-Si tienen signos distintos la onda viaja hacia la derecha, si tienen igual signo viaja hacia la izquierda
+Si tienen signos distintos la onda viaja hacia la derecha, si tienen igual signo viaja hacia la izquierda. Luego, tomamos a f(x-vt) como una funcion seno, obtenemos entonces una.
 
 ## Ecuacion de la onda armonica
-$$\LARGE A.sen 2\pi f$$
+Cuya ecuación general sería
+$$\LARGE A.sen(Kx-\omega t)$$
 
-El problema de esta formula es que evalua solo un punto, para generalizarla hay que agregarle el factor de correccion
-Nos queda:
-$$\LARGE A.sen 2\pi f(t-\frac x v)$$
+Se le agrega K(numero de onda) y omega(frecuencia angular o pulsacion) para que la ecuacion no tenga unidad. [x]=m [K]=rad/m y [t]=s [$\omega$]=rad/s
 
 ### Otras formulas
 ![[Pasted image 20211117093147.png]]

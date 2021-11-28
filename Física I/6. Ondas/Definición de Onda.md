@@ -9,6 +9,7 @@ con $$y = y(x, t) = f(x-vt)$$
 ## Tipos de ondas
 ### Ondas mecánicas
 vibran las moleculas y necesitan un medio material para propagarse
+### [[Ondas Sonoras]]
 
 ### Ondas electromagnéticas
 Vibra el campo, no necesita un medio

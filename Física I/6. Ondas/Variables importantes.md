@@ -12,3 +12,4 @@ La onda avanza $\lambda$ en un periodo T
 velocidad transversal = $v_y = -\omega A cos(Kx-\omega t)$
 $v_{y(max)}=\omega A$
 
+El conductor de un vehículo que va a un v de 30 m/s hace sonar su bocina que emite una frecuencia de 300 Hz. Si frente al vehículo hay una montaña, calcular la frecuencia del eco que recibe el conductor.	$V_{sonido} =340 m/s$

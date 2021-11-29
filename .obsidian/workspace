@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Variables importantes.md",
+            "file": "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md",
+                "file": "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md"
+                "file": "Análisis Matemático II/11. Curvas/11.0 Curvas.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
+    "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Efecto Doppler.md",
     "Física I/7. Óptica/Untitled.md",
@@ -134,7 +135,6 @@
     "Física I/Optica.md",
     "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Ondas en Sólidos.md",
-    "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/6.0 Ondas.md"
+    "Física I/6. Ondas/Energía de una Onda.md"
   ]
 }

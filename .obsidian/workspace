@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integrales de superficie.md",
-            "mode": "source"
+            "file": "Física I/6. Ondas/Variables importantes.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales de superficie.md",
+                "file": "Física I/6. Ondas/Variables importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales de superficie.md"
+                "file": "Física I/6. Ondas/Variables importantes.md"
               }
             }
           },
@@ -125,15 +126,15 @@
   },
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
-    "Integrales de superficie.md",
-    "Integrales de linea.md",
-    "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
     "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/Propagación de Onda.md",
     "Física I/6. Ondas/Efecto Doppler.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Análisis Matemático II/Integrales de superficie.md",
+    "Análisis Matemático II/Integrales de linea.md",
+    "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
     "Física I/7. Óptica/Untitled.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Física I/7. Óptica/Interferencia de Ondas.md",
-    "Física I/Optica.md",
-    "Física I/6. Ondas/Ondas Sonoras.md"
+    "Física I/7. Óptica/7.0  Óptica.md"
   ]
 }

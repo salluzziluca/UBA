@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Variables importantes.md",
+            "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md",
+                "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md"
+                "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "8ba6937bb5dc92ee",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/Propagación de Onda.md",
@@ -134,7 +135,6 @@
     "Análisis Matemático II/Integrales de superficie.md",
     "Análisis Matemático II/Integrales de linea.md",
     "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
-    "Física I/7. Óptica/Untitled.md",
-    "Física I/7. Óptica/7.0  Óptica.md"
+    "Física I/7. Óptica/Untitled.md"
   ]
 }

@@ -1,16 +1,12 @@
 # Variables importantes
-$$\LARGE y(x,t)= y_0 sen(kx-wt)$$
-![[Pasted image 20211117111141.png]]
-frecuencia = cantidad de oscilaciones en cantidad de segundos (respuesta en Hz)
-![[Pasted image 20211117111251.png]]
+$$\LARGE y(x,t)= y_0 sen(kx-\omega t)$$
+$y_o$ = Amplitud
+$K$ = Número de Onda $\LARGE \frac  {2 \pi}{\lambda}, \frac {\omega}{v}$
+$\omega$ = Frecuencia Angular o Pulsación $2\pi f$
+$f$ = Frecuencia. Cantidad de oscilaciones por segundo.[Hz]$\LARGE \frac 1 T, \frac {\omega}{2 \pi}, \frac v {\lambda}$
+$\lambda$ = Longitud de onda, la distancia entre dos crestas.
+$T$ = Período, tiempo que tarda en completar una oscilación o el tiempo en el que tarda en completar una longitud de onda
+$v$ = Velocidad de Propagación $\lambda f$
 
-$\LARGE k = \frac w v$
-$T =\frac {2 \pi}  {\omega}$
-$\omega$ = frecuencia angular o pulsacion
-$\lambda$ = la distancia entre dos crestas
-La onda avanza $\lambda$ en un periodo T  
+![[Pasted image 20211207111647.png]]
 
-velocidad transversal = $v_y = -\omega A cos(Kx-\omega t)$
-$v_{y(max)}=\omega A$
-
-El conductor de un vehículo que va a un v de 30 m/s hace sonar su bocina que emite una frecuencia de 300 Hz. Si frente al vehículo hay una montaña, calcular la frecuencia del eco que recibe el conductor.	$V_{sonido} =340 m/s$

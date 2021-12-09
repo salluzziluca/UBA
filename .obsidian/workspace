@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "potencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

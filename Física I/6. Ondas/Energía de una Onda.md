@@ -1,14 +1,20 @@
 # Energía de una Onda
 ## Energía de Oscilación
 ### Energía de oscilación instantanea
-$$\LARGE E= \frac 1 2 .M .(2\pi . f .A)^2$$
+$$\LARGE E= \frac 1 2 .M .(2\pi . f .A)^2 =$$
+$$\LARGE \frac 1 2 .\mu . \triangle x .(2\pi . f .A)^2 =$$
+$$\LARGE \frac 1 2 . v_{propagacion}. \triangle t .(2\pi . f .A)^2 $$
 ### Energía de oscilación media
-$$\LARGE \overline E= \frac 1 2 \mu . v_{propagacion} .(2\pi . f .A)^2$$
+$$\LARGE \overline E= \frac 1 2 .\mu . x .(2\pi . f .A)^2 =$$
+$$\LARGE \frac 1 2 \mu . v_{propagacion}. t .(2\pi . f .A)^2$$
 
-## Intensidad
-$$\LARGE Intensidad = I = \frac {potencia} {superficie} = \frac {\overli} {t.superficie}$$
+
+
+## Intensidad (flujo medio de energía)
+$$\LARGE Intensidad = I = \frac {potencia} {superficie} = \frac {\overline E} {t.superficie}$$
 $$\LARGE I = cte.\xi_o^2$$
 $$\LARGE I = \frac P A$$
+$$\LARGE I = \frac {Amplitud \ de \  las \  ondas \ de \ presion (\triangle P)}{2. \delta .v}$$
 siendo A el AREA
 
 La constante depende del tipo de onda y del medio 

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Física I/6. Ondas/Energía de una Onda.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [

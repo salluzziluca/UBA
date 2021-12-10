@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Energía de una Onda.md",
-            "mode": "preview"
+            "file": "Física I/6. Ondas/Efecto Doppler.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Energía de una Onda.md",
+                "file": "Física I/6. Ondas/Efecto Doppler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Energía de una Onda.md"
+                "file": "Física I/6. Ondas/Efecto Doppler.md"
               }
             }
           },
@@ -125,6 +125,7 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Efecto Doppler.md",
     "Física I/6. Ondas/Energía de una Onda.md",
     "Física I/6. Ondas/6.0 Ondas.md",
     "Física I/6. Ondas/Definición de Onda.md",
@@ -133,7 +134,6 @@
     "Algoritmos y Programación I/Lambdas.md",
     "Algoritmos y Programación I/Funciones Útiles.md",
     "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Efecto Doppler.md"
+    "Física I/6. Ondas/Propagación de Onda.md"
   ]
 }

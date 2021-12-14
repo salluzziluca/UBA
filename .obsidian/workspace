@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Difracción.md",
+            "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Difracción.md",
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Difracción.md"
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
               }
             }
           },
@@ -124,9 +124,9 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Efecto Doppler.md",
+    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
     "Vientres y Nodos.md",
     "Física I/6. Ondas/Energía de una Onda.md",

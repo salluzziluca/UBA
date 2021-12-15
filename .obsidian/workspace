@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Análisis Matemático II/Teorema de Gauss.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md",
+                "file": "Análisis Matemático II/Teorema de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md"
+                "file": "Análisis Matemático II/Teorema de Gauss.md"
               }
             }
           },
@@ -120,10 +120,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
+    "Análisis Matemático II/Teorema de Gauss.md",
+    "Análisis Matemático II/Teorema del Stokes (Rotor).md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Vientres y Nodos.md",
@@ -131,8 +134,6 @@
     "Física I/6. Ondas/Efecto Doppler.md",
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/Batido.md",
-    "Física I/7. Óptica/Interferencia de Ondas.md",
-    "Algoritmos y Programación I/Archivos.md"
+    "Física I/6. Ondas/Batido.md"
   ]
 }

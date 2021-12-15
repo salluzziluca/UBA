@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -125,6 +125,7 @@
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Efecto Doppler.md",
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
@@ -132,7 +133,6 @@
     "Física I/6. Ondas/Energía de una Onda.md",
     "Física I/6. Ondas/Batido.md",
     "Física I/7. Óptica/Interferencia de Ondas.md",
-    "Algoritmos y Programación I/Archivos.md",
-    "Algoritmos y Programación I/Merge.md"
+    "Algoritmos y Programación I/Archivos.md"
   ]
 }

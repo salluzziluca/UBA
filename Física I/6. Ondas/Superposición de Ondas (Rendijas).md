@@ -1,4 +1,5 @@
-# Superposición de Ondas (Rendijas)
+# Superposición de Ondas (Rendijas)}
+# Interferencia
 ## Calculo de "y" (pared)
 Para calcular en que parte de la tabla caen los máximos usamos la fórmula
 $$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$ Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 

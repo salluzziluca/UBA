@@ -7,11 +7,11 @@ Dan siempre imágenes virtuales, la convergencia se da "detrás" del espejo. Geo
 ### Espejos cóncavos
 
 Dan imágenes reales, la convergencia se da "adelante" del espejo.
-
+![[Pasted image 20211216125748.png]]
 ### Espejos convexos
-Generalmetne virtual, la convergencia se da detras del 
+Generalmente virtual, la convergencia se da "detrás" del espejo. La excepción se da cuando el objeto está entre el foco y el espejo (muy cerca). ![[Pasted image 20211216125737.png]]
 
 ## Campo de espejo
-Rayos luminosos que parten de los extremos del objeto iluminado y llegan al ojo. A más distancia objeto-ojo disminuye el ángulo visual.
+Rayos luminosos que parten de los extremos del objeto iluminado y llegan al ojo. A más distancia objeto-ojo disminuye el ángulo visual. La excepción se da cuando el objeto está entre el foco y el espejo (muy cerca).
 ![[Pasted image 20211216124401.png]]
 ![[Pasted image 20211216124440.png]]

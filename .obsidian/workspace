@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Ley de Snell.md",
+            "file": "Física I/6. Ondas/Ondas Sonoras.md",
             "mode": "preview"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Ley de Snell.md",
+                "file": "Física I/6. Ondas/Ondas Sonoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Ley de Snell.md"
+                "file": "Física I/6. Ondas/Ondas Sonoras.md"
               }
             }
           },
@@ -126,15 +125,15 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
-    "Física I/7. Óptica/Ley de Snell.md",
-    "Física I/7. Óptica/Espejos.md",
+    "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
-    "Física I/6. Ondas/Variables importantes.md",
-    "Física I/7. Óptica/óptica Geométrica.md",
-    "Física I/6. Ondas/Efecto Doppler.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
-    "Física I/7. Óptica/Interferencia de Ondas.md",
-    "Física I/6. Ondas/Ejercicios 3er parcial.md",
-    "Física I/6. Ondas/Difracción.md"
+    "Física I/6. Ondas/Ondas en Sólidos.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Onda Elástica Plana.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/6. Ondas/Energía de una Onda.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/6. Ondas/Ondas Superficiales.md",
+    "Física I/6. Ondas/Definición de Onda.md"
   ]
 }

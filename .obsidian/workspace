@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+            "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "armonicos",
+                "query": "separa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,11 +56,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md"
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
               }
             }
           },
@@ -125,13 +127,13 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
     "Física I/6. Ondas/Variables importantes.md",
-    "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
     "Física I/6. Ondas/Propagación de Onda.md",
     "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Vientres y Nodos.md",
     "Física I/7. Óptica/óptica Geométrica.md",
     "Física I/7. Óptica/Objetos e Imágenes.md"

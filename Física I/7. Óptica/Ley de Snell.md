@@ -4,3 +4,4 @@ El índice de refracción ($n$) de un medio respecto al vacío (indice de refrac
 Despejando tenemos $n_1.v_1=n_2.v_2=c$ y tomando $\lambda = c.f$ tenemos la 
 #### Ley de Snell generalizada
 $$\LARGE \frac {sen(i)}{sen(r)}=\frac{n_2}{n_1}=\frac {v_1}{v_2}=\frac {\lambda_1}{\lambda_2}$$
+usualmente $$\LARGE n_1.sin(\theta_1)=n_2.sen(\theta_2)$$

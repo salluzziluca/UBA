@@ -6,7 +6,8 @@ Dan siempre imágenes virtuales, la convergencia se da "detrás" del espejo. Geo
 ## Espejos esféricos
 $$\LARGE \frac 1 x + \frac 1 {x'}=\frac 1 f$$
 $$x' = \frac {f.x}{x-f}$$
-$$f=\frac R 2$$
+$$x'=x-vision\ clara$$
+$$f=distancia \ \ focal =\frac R 2$$
 $$\LARGE {Agrandamiento} =  \frac {y'} {y}=- \frac {x'} x$$
 La imagen es real si x' es positiva
 La imagen es derecha si y tiene el mismo signo que y'

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Espejos.md",
-            "mode": "source"
+            "file": "Física I/7. Óptica/Ley de Snell.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md",
+                "file": "Física I/7. Óptica/Ley de Snell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md"
+                "file": "Física I/7. Óptica/Ley de Snell.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
+    "Física I/7. Óptica/Ley de Snell.md",
     "Física I/7. Óptica/Espejos.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
     "Física I/6. Ondas/Variables importantes.md",
@@ -133,7 +134,6 @@
     "Física I/6. Ondas/Efecto Doppler.md",
     "Física I/7. Óptica/Objetos e Imágenes.md",
     "Física I/7. Óptica/Interferencia de Ondas.md",
-    "Física I/7. Óptica/Ley de Snell.md",
     "Física I/6. Ondas/Ejercicios 3er parcial.md",
     "Física I/6. Ondas/Difracción.md"
   ]

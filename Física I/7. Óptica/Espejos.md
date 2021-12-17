@@ -3,7 +3,13 @@
 ## Espejos planos
 Dan siempre imágenes virtuales, la convergencia se da "detrás" del espejo. Geométricamente hablamos de una simetría axial porque el tamaño de la imagen es igual al del objeto
 ![[Pasted image 20211216122818.png]]
-## Espejos esfericos
+## Espejos esféricos
+$$\LARGE \frac 1 x + \frac 1 {x'}=\frac 1 f$$
+$$x' = \frac {f.x}{x-f}$$
+$$f=\frac R 2$$
+$$\LARGE {Agrandamiento} =  \frac {y'} {y}=- \frac {x'} x$$
+La imagen es real si x' es positiva
+La imagen es derecha si y tiene el mismo signo que y'
 ### Espejos cóncavos
 
 Dan imágenes reales, la convergencia se da "adelante" del espejo.

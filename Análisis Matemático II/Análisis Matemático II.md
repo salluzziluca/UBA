@@ -12,7 +12,7 @@
 [[9.0 Integrales Dobles]]
 [[10.0 Integrales Triples]]
 ![[S-4B-versión 1-1.pdf]]
-[[index]]
+[[Para ordenar]]
 
 
 ---

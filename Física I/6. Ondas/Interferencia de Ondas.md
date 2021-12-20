@@ -15,3 +15,7 @@ $$\triangle r = r_2 - r_1 = (m+ \frac 1 2 ). \lambda$$
 ![[Pasted image 20211129085822.png]]
 ![[Pasted image 20211129090217.png]]
 ![[Pasted image 20211129090629.png]]
+
+## Casos Puntuales
+[[Batido]]
+[[Superposición de Ondas (Rendijas)]]

@@ -7,11 +7,8 @@
         "id": "c89159ca1e84e88b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Análisis Matemático II/12. Más integrales/index.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "$L",
+                "query": "Teorema de stokes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/12. Más integrales/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Análisis Matemático II/12. Más integrales/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,15 +118,15 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
-    "Análisis Matemático II/12. Más integrales/index.md",
-    "Análisis Matemático II/11. Curvas/11.0 Curvas.md",
-    "Análisis Matemático II/Análisis Matemático II.md",
-    "Análisis Matemático II/Notas para Primer Parcial.md",
-    "Análisis Matemático II/12. Más integrales.md",
-    "Análisis Matemático II/Integrales de linea.md",
+    "Integrales de linea.md",
+    "Análisis Matemático II/12. Más integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/12. Más integrales/Para ordenar.md",
+    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
+    "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
-    "Física I/4. Sistema de Partículas/Colisiones y Choques.md",
-    "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
-    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
+    "Física I/Física I.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/6. Ondas/Ondas Estacionarias.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md"
   ]
 }

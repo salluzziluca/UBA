@@ -1,5 +1,5 @@
 # Ondas Estacionarias
-Si tenemos una onda estacionaria $\LARGE 3.cos(5x).cos(10t)$ sus ondas progresivas de origen serán iguales pero con la mitad de la amplitud. Tendríamos:$y_- =1,5.cos(5x - 10t)$ e $y_+ =1,5.cos(5x - 10t)$ Si la estacionaria fuese con seno, también cambiarían las de origen y viceversa.
+Si tenemos una onda estacionaria $3.cos(5x).cos(10t)$ sus ondas progresivas de origen serán iguales pero con la mitad de la amplitud. Tendríamos:$y_- =1,5.cos(5x - 10t)$ e $y_+ =1,5.cos(5x - 10t)$ Si la estacionaria fuese con seno, también cambiarían las de origen y viceversa.
 
 ## Armonicos y sus frecuencias
 Las ondas van teniendo diferentes armónicos según los nodos. La frecuencia fundamental es igual a $\LARGE f_1 = \frac {v_{propagacion}}{2L}$. Luego, las demás frecuencias se van a ir multiplicando por la cantidad de nodos. 

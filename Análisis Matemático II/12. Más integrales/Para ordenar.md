@@ -1,3 +1,3 @@
 [[Integrales de superficie]]
 [[Teorema de Gauss]]
-[[Teorema de Stokes]]
+[[Teorema del Stokes (Rotor)]]

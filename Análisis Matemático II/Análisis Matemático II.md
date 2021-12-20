@@ -12,5 +12,11 @@
 [[9.0 Integrales Dobles]]
 [[10.0 Integrales Triples]]
 ![[S-4B-versión 1-1.pdf]]
+[[index]]
+
+
+---
+
+[[Notas para Primer Parcial]]
 
 <iframe src="https://youtu.be/NnTvZWp5Q7o"></iframe>

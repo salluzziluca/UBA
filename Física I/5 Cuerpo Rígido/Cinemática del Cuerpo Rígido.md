@@ -23,7 +23,7 @@ Tomando la velocidad angular en el eje de rotacion podemos calcular las velocida
 #### [[Aceleración de un Cuerpo Rígido|Aceleración]]
 
 $$\LARGE \vec a_p = \vec \gamma \times \vec r^*_{p} + \vec \omega \times (\vec \omega \times \vec r^*_{p} )$$
-Siendo $\vec \gamma \times \vec r^*_{p}$ la aceleración tangencial y $\vec \omega \times (\vec \omega \times \vec r^*_{p} )$ la aceleración normal.
+Siendo $\vec \gamma \times \vec r^*_{p}$ la aceleración tangencial y $\vec \omega \times (\vec \omega \times \vec r^*_{p} )$ la aceleración normal. Y siendo $\gamma$ velocidad angular
 ![[Pasted image 20211027093920.png]]
 ![[Pasted image 20211027094049.png]]
 #### Perfil de aceleraciones
@@ -40,4 +40,6 @@ $$\LARGE \vec v_p = \vec v_{eje} + \vec \omega x \vec r_{Pe}$$
 #### Perfil de velocidades
 ![[Pasted image 20211025085707.png]]
 Para la rototraslación, tener en cuenta los [[Tipos de Movimientos|tipos de movimientos]]
-# [[Propiedades de la cinemática del Cuerpo Rígido|Propiedades]]
+
+
+![[Propiedades de la cinemática del Cuerpo Rígido|Propiedades]]

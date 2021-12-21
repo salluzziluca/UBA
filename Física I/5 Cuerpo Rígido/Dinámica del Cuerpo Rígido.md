@@ -10,13 +10,14 @@
 ## [[Segunda Ecuación Fundamental del Sistema de Partículas]]
 La relacion entre los torques y la velocidad angular tambien se cumple.
 Aparece tambien una nueva fuerza llamada 
-#### Momento de inercia(vale en ciertas condiciones, cuando Momento Angular(L) y Velocidad angular($\Omega$) son perpendiculares) 
+#### Momento de inercia
+==(vale en ciertas condiciones, cuando Momento Angular(L) y Velocidad angular==($\Omega$) ==son perpendiculares)==
 - Nos habla sobre como está distribuida la masa del CR respecto al punto.
 - Se puede demostrar que existen para cualquier CR siempre 3 ejes principales para los cuales L es paralelo a $\Omega$
 - Se los llama ejes principales de inercia.
 - Coincide con los ejes de simetría del cuerpo.
 la cual se escribe como 
-$$\LARGE I = m.R^2$$
+$$\LARGE _{momento \ de}I_{nercia} = m.R^2$$
 Luego: $$\LARGE \vec L_o= I.\vec \omega$$
 Y podemos expresar la [[Segunda Ecuación Fundamental del Sistema de Partículas]] como:
 $$\LARGE \sum \vec t_{ext}^0=\frac {d\vec L^0}{dt}=\frac {d(I_o\vec \Omega}{dt}$$

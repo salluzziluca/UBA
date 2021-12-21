@@ -2,9 +2,9 @@
 ## Casos
 ### Traslación pura
 todos los puntos del CR tienen igual velocidad.
-$$E_c = \int dE_c = \frac 1 2 \rho . v^2 .dVol = \frac 1 2 v_{CM}^2 \int \rho.dVol$$
+$$\LARGE E_c = \int dE_c = \frac 1 2 \rho . v^2 .dVol = \frac 1 2 v_{CM}^2 \int \rho.dVol$$
 Finalmente (con $m_i=\rho.dVol$ por lo visto en [[Dinámica del Cuerpo Rígido]])
-$$\LARGE E_c = \frac 1 2 M.v_{CM}^2$$
+$$\LARGE\LARGE E_c = \frac 1 2 M.v_{CM}^2$$
 
 ### Rotación pura
 En este caso, el CR tiene un eje movil y todo el cuerpo rota alrededor del eje. Todos los puntos del CR tienen igual velocidad angular, la misma.

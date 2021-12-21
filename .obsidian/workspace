@@ -7,8 +7,11 @@
         "id": "c89159ca1e84e88b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Teorema de stokes",
+                "query": "angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md"
+              }
             }
           },
           {
@@ -118,15 +124,15 @@
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
-    "Integrales de linea.md",
-    "Análisis Matemático II/12. Más integrales/Teorema del Stokes (Rotor).md",
-    "Análisis Matemático II/12. Más integrales/Para ordenar.md",
-    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
-    "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
-    "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
-    "Física I/Física I.md",
-    "Física I/6. Ondas/6.0 Ondas.md",
-    "Física I/6. Ondas/Ondas Estacionarias.md",
-    "Física I/6. Ondas/Ondas en Cuerdas.md"
+    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md",
+    "Física I/5 Cuerpo Rígido/Conservacion del Momento Angular.md",
+    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md"
   ]
 }

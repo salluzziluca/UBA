@@ -2,7 +2,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "Imagenes",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byCreatedTimeReverse",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

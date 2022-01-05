@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c89159ca1e84e88b",
+        "id": "b0a43c2493001366",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -125,7 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c89159ca1e84e88b",
+  "active": "b0a43c2493001366",
   "lastOpenFiles": [
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/3. Funciones/3.1 Función.md",

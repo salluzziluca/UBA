@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c89159ca1e84e88b",
+        "id": "b0a43c2493001366",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "barrow",
+=======
+                "query": "campo vect",
+>>>>>>> 62ab9237f302abb0fc2f517d184796380f4dd198
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -124,9 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c89159ca1e84e88b",
+  "active": "b0a43c2493001366",
   "lastOpenFiles": [
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
+<<<<<<< HEAD
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
     "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
@@ -136,5 +142,16 @@
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
     "Análisis Matemático II/12. Más integrales/Para ordenar.md",
     "Análisis Matemático II/Análisis Matemático II.md"
+=======
+    "Análisis Matemático II/3. Funciones/3.1 Función.md",
+    "Análisis Matemático II/3. Funciones/Transformaciones Lineales.md",
+    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md",
+    "Física I/5 Cuerpo Rígido/Conservacion del Momento Angular.md",
+    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md"
+>>>>>>> 62ab9237f302abb0fc2f517d184796380f4dd198
   ]
 }

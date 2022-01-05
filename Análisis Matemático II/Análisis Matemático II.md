@@ -19,4 +19,4 @@
 
 [[Notas para Primer Parcial]]
 
-<iframe src="https://youtu.be/NnTvZWp5Q7o"></iframe>
+

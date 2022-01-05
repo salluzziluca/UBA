@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
-            "mode": "preview"
+            "file": "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angular",
+                "query": "barrow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
+                "file": "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md"
+                "file": "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md"
               }
             }
           },
@@ -120,19 +121,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c89159ca1e84e88b",
   "lastOpenFiles": [
-    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md",
-    "Física I/5 Cuerpo Rígido/Conservacion del Momento Angular.md",
-    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md"
+    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
+    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
+    "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Lineas de Campo.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
+    "Análisis Matemático II/12. Más integrales/Para ordenar.md",
+    "Análisis Matemático II/Análisis Matemático II.md"
   ]
 }

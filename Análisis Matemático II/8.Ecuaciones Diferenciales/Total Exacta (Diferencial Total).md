@@ -21,4 +21,4 @@ $f_y'(x,y)=-x^2+α'(y)=-x^2-3y+1$
 Luego, obtenemos el valor de $\alpha' (y)$.
 Para finalizar, integramos $\alpha' (y)$ con respecto a y reemplazamos en la f(x,y) que teniamos.
 $\int (-3y+1)dy=-\frac 3 2 y^2+y+c$
-$$\LARGE f(x,y)= \frac 1 3 x^3-x^2y + -\frac 3 2 y^2+y+c$
+$$\LARGE f(x,y)= \frac 1 3 x^3-x^2y + -\frac 3 2 y^2+y+c$$

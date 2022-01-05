@@ -8,6 +8,9 @@ No nos olvidemos del jacobiano
 En vez de que que x e y cambien simplemente a u y v, cambian mediante una transformación lineal, a valores no fijos. Como, por ejemplo x = v y = u-v.
 ej:
 ![[Pasted image 20220105113919.png]]
+
+## Coordenadas Polares
+
 ## Paso a Paso
 1) Observar cuales son TODOS los limites y anotarlos
 2) Dibujar los limites actuales

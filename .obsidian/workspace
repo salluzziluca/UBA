@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+            "file": "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5015a3cbdb7244ca",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+                "file": "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+                "file": "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md"
               }
             }
           }
@@ -119,8 +118,8 @@
   },
   "active": "caebfff00e04823c",
   "lastOpenFiles": [
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
     "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md"

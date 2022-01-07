@@ -1,5 +1,5 @@
 # Cambios de Variable en Integrales Triples
-![[Pasted image 20220106202524.png]]
+![[Pasted image 20220106202524.png]]z
 
 ## Coordenadas cilíndricas
 ![[Pasted image 20220106203307.png]]

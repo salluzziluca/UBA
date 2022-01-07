@@ -1,4 +1,4 @@
-# Cambios de Variable en Integrales Triples
+# Cambios de Variable en Integrales Triplesz
 ![[Pasted image 20220106202524.png]]
 
 ## Coordenadas cilíndricas

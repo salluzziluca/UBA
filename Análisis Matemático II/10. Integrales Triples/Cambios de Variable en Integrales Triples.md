@@ -1,7 +1,8 @@
 # Cambios de Variable en Integrales Triples
-![[Pasted image 20220106202524.png]]z
+![[Pasted image 20220106202524.png]]
 
 ## Coordenadas cilíndricas
+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
 ![[Pasted image 20220106203307.png]]
 $(x,y,z)=(r cos(\theta), rsin(\theta),z)$
 $$J(r, \theta, z) = r$$

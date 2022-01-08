@@ -1,0 +1,1 @@
+Una curva suave es una curva  C¹ y ademas con su derivada no nula.

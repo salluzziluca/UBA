@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-            "mode": "preview",
+            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "caebfff00e04823c",
   "lastOpenFiles": [
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
     "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
@@ -125,8 +127,6 @@
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
     "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
-    "Análisis Matemático II/2. R3/2.0 R3.md",
-    "Análisis Matemático II/Análisis Matemático II.md",
-    "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md"
+    "Análisis Matemático II/2. R3/2.0 R3.md"
   ]
 }

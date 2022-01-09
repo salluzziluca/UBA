@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
             "mode": "preview",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sort ",
+                "query": "intersecc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
+                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
               }
             }
           },
@@ -163,6 +164,8 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+    "Análisis Matemático II/1. R2/1.2 Rectas en R2.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Algoritmos y Programación I/Ordenamiento.md",
     "Algoritmos y Programación I/Metodos de Ordenamiento.md",
@@ -170,8 +173,6 @@
     "Algoritmos y Programación I/Elaboracion de un Programa.md",
     "Algoritmos y Programación I/Estructuras Básicas.md",
     "Algoritmos y Programación I/Estructuras Condicionales.md",
-    "Algoritmos y Programación I/Listas.md",
-    "Algoritmos y Programación I/Pilas y Colas.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md"
+    "Algoritmos y Programación I/Listas.md"
   ]
 }

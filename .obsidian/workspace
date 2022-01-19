@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "4f7a0bae40178391",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -124,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0a43c2493001366",
+  "active": "4f7a0bae40178391",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Algoritmos y Programación I/Pilas y Colas.md",
@@ -134,7 +147,6 @@
     "Algoritmos y Programación I/Estructuras Básicas.md",
     "Algoritmos y Programación I/Elaboracion de un Programa.md",
     "Algoritmos y Programación I/Elaboración de algoritmos.md",
-    "Algoritmos y Programación I/Ordenamiento.md",
-    "Análisis Matemático II/1. R2/1.2 Rectas en R2.md"
+    "Algoritmos y Programación I/Ordenamiento.md"
   ]
 }

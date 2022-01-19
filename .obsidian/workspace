@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
+                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "caebfff00e04823c",
   "lastOpenFiles": [
+    "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
     "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
@@ -126,7 +127,6 @@
     "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
-    "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
-    "Análisis Matemático II/2. R3/2.0 R3.md"
+    "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md"
   ]
 }

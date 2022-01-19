@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "4f7a0bae40178391",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md"
               }
             }
           },
@@ -136,10 +124,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f7a0bae40178391",
+  "active": "b0a43c2493001366",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
+    "conflict-files-obsidian-git.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Algoritmos y Programación I/Pilas y Colas.md",
     "Algoritmos y Programación I/Listas.md",

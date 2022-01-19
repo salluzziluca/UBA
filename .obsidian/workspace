@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intersecc",
+                "query": "\"lineas de campo\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md"
               }
             }
           },
@@ -122,11 +123,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Lineas de Campo.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/12. Más integrales/Teorema del Stokes (Rotor).md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
@@ -134,8 +136,6 @@
     "Algoritmos y Programación I/Pilas y Colas.md",
     "Algoritmos y Programación I/Listas.md",
     "Algoritmos y Programación I/Estructuras Condicionales.md",
-    "Algoritmos y Programación I/Estructuras Básicas.md",
-    "Algoritmos y Programación I/Elaboracion de un Programa.md",
-    "Algoritmos y Programación I/Elaboración de algoritmos.md"
+    "Algoritmos y Programación I/Estructuras Básicas.md"
   ]
 }

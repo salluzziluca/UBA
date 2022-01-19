@@ -13,4 +13,4 @@ $$g'(t)=(2t, 2, \frac 1 {2 \sqrt t})$$
 Como $\vec F(\vec g(t)) = g'(t)$, se comprueba que g es una linea de campo de F.
 
 Para encontrar las lineas de campo de una ecuacion usamos la formula:
-$$\LARGE \frac {dx}{P} = \frac {dy}{Q}$$.Luego resolvemos mediante variables separables
+$$\LARGE \frac {dx}{P} = \frac {dy}{Q}$$Luego resolvemos mediante variables separables

@@ -1,9 +1,5 @@
 # Ordenamiento
-## burbujeo
-![[Pasted image 20211028202446.png]]
+Tenemos ![[Metodos de Ordenamiento]]
 
-## Selección 
-![[Pasted image 20211028204946.png]]
 
-## Insercción
-![[Pasted image 20211028210245.png]]
+Luego, tenemos tambien estructuras de datos que simplifican el ordenamiento, como las [[Pilas y Colas|pilas o las colas]] 

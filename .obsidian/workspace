@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "797ee473811ffe97",
+    "id": "ef1e02436ac9c992",
     "type": "split",
     "children": [
       {
-        "id": "caebfff00e04823c",
+        "id": "b0a43c2493001366",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,21 +13,58 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "f8aac8e4eec21f2d"
+      },
+      {
+        "id": "ea68234bb3a3caff",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "f8aac8e4eec21f2d"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ca5a2fe7b4df0179",
+    "id": "6612a54442734667",
     "type": "split",
     "children": [
       {
-        "id": "8bd924a832b73cb1",
+        "id": "74d35282a705107a",
         "type": "tabs",
         "children": [
           {
-            "id": "ade12adde189b5ff",
+            "id": "9a79e0736b09572d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +72,12 @@
             }
           },
           {
-            "id": "6f8786a303e273ec",
+            "id": "28fc762ad0b43c67",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intersecc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,29 +87,30 @@
             }
           },
           {
-            "id": "1780e9a9b7c3f5d7",
+            "id": "c8d607776b4c33b2",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
-    "id": "5015a3cbdb7244ca",
+    "id": "436c5de0b71fa9ef",
     "type": "split",
     "children": [
       {
-        "id": "3f2719ae955797d2",
+        "id": "63a996253cd9efbb",
         "type": "tabs",
         "children": [
           {
-            "id": "37712d873f2ede49",
+            "id": "665ab3eea9f75da7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +127,7 @@
             }
           },
           {
-            "id": "99eaa0c90691dee9",
+            "id": "2951290f6d2c0036",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,13 +138,21 @@
             }
           },
           {
-            "id": "fc92284094a7d5f7",
+            "id": "0b593a34e27ff9c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Análisis Matemático II/12. Más integrales/Integrales de superficie.md"
               }
+            }
+          },
+          {
+            "id": "fb50f0fe0be36d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -116,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "caebfff00e04823c",
+  "active": "b0a43c2493001366",
   "lastOpenFiles": [
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
@@ -128,5 +174,14 @@
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
     "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md"
+    "Algoritmos y Programación I/Pilas y Colas.md",
+    "Algoritmos y Programación I/Listas.md",
+    "Algoritmos y Programación I/Estructuras Condicionales.md",
+    "Algoritmos y Programación I/Estructuras Básicas.md",
+    "Algoritmos y Programación I/Elaboracion de un Programa.md",
+    "Algoritmos y Programación I/Elaboración de algoritmos.md",
+    "Algoritmos y Programación I/Ordenamiento.md",
+    "Análisis Matemático II/1. R2/1.2 Rectas en R2.md",
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
   ]
 }

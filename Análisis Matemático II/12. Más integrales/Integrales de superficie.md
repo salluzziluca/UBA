@@ -3,5 +3,7 @@ increible
 perro gato chancoho
 mala mujer
 chanchullooo
+
+
 ## Area de una superficie
 ![[Pasted image 20211201153059.png]]

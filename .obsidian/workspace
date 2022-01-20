@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
+            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
             "mode": "source",
             "source": false
           }
@@ -57,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.8 Topología.md"
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
               }
             }
           },
@@ -128,10 +126,10 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Lineas de Campo.md",
     "Análisis Matemático II/12. Más integrales/Teorema del Stokes (Rotor).md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",

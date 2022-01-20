@@ -1,6 +1,6 @@
 # Campos de Gradiante
 Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campod e gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
-$$\vec F = \triangledown \phi$$
+$$\vec F = \triangledown \phi$$ En todos los puntos de H. 
 Tambien se dice que la funcion $\phi$ es el potencial del campo $\vec F$ 
 
 Ej: ![[Pasted image 20220120111806.png]]
@@ -14,3 +14,11 @@ $$\oint_C \vec F d\vec s = \phi(\vec B)- \phi(\vec A)=\phi(\vec A) -\phi(\vec A)
 - Si  $\phi(\vec B)= \phi(\vec A)$
 $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
 ![[Pasted image 20220120113511.png]]
+
+#### Campos conservativos
+![[Pasted image 20220120113841.png]]
+
+## Condición necesaria para que un campo sea de gradientes
+- Es necesario que la matriz jacobiana de $\vec F$  sea simetrica, más ==no es suficiente== o, dicho de otro modo, que las derivadas cruzadas sean iguales.
+	-demostracion en R²: ![[Pasted image 20220120120052.png]]
+	- demostración en R³: ![[Pasted image 20220120120148.png]]

@@ -19,6 +19,7 @@ $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
 ![[Pasted image 20220120113841.png]]
 
 ## Condición necesaria para que un campo sea de gradientes
-- Es necesario que la matriz jacobiana de $\vec F$  sea simetrica, más ==no es suficiente== o, dicho de otro modo, que las derivadas cruzadas sean iguales.
+- Es necesario que la matriz jacobiana de $\vec F$  sea continua y simetrica, más ==no es suficiente== o, dicho de otro modo, que las derivadas cruzadas sean iguales.
 	-demostracion en R²: ![[Pasted image 20220120120052.png]]
 	- demostración en R³: ![[Pasted image 20220120120148.png]]
+- Es tambien necesario que el conjunto H sea abierto y [[1.8 Topología#Simplemente Conexo|simplemente conexo]] 

@@ -1,0 +1,16 @@
+# Campos de Gradiante
+Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campod e gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
+$$\vec F = \triangledown \phi$$
+Tambien se dice que la funcion $\phi$ es el potencial del campo $\vec F$ 
+
+Ej: ![[Pasted image 20220120111806.png]]
+
+## Independencia del camino en intregral de línea de campo vectorial
+Si $\vec F$ es un campo continuo en H abierto y conexo tal que $\vec F = \triangledown \phi$ entonces en todo punto de H la circulacion de \vec F desde \vec A hasta \vec B a lo largo de cualquier curva suave a trozos no depende de la curva que se utilice y, además, 
+$$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
+Entonces:
+- Si la curva es cerrada
+$$\oint_C \vec F d\vec s = \phi(\vec B)- \phi(\vec A)=\phi(\vec A) -\phi(\vec A) = 0 $$
+- Si  $\phi(\vec B)= \phi(\vec A)$
+$$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
+![[Pasted image 20220120113511.png]]

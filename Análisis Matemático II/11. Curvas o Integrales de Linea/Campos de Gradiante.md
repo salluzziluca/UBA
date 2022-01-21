@@ -1,5 +1,5 @@
   # Campos de Gradiante
-Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campod e gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
+Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campo deq gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
 $$\vec F = \triangledown \phi$$ En todos los puntos de H. 
 Tambien se dice que la funcion $\phi$ es el potencial del campo $\vec F$ 
 
@@ -26,3 +26,7 @@ $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
 
 ## Paso a paso
 1. Fijarse que $\vec F$ sea conservativa (chequear que P'y y Q'x sean iguales)
+2. Integrar P con respecto a x, nos queda la funcion dependiente de y h(y). Obtenemos $\phi$
+3. derivar en funcion de y a $\phi$
+4. igualar $\phi'y$ a Q para obtener el valor de h(y)
+5. Luego reemplazar h(y) en $\phi$

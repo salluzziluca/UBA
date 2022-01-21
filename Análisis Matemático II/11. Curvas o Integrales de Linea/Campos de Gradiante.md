@@ -1,4 +1,4 @@
-# Campos de Gradiante
+  # Campos de Gradiante
 Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campod e gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
 $$\vec F = \triangledown \phi$$ En todos los puntos de H. 
 Tambien se dice que la funcion $\phi$ es el potencial del campo $\vec F$ 
@@ -23,3 +23,6 @@ $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
 	-demostracion en R²: ![[Pasted image 20220120120052.png]]
 	- demostración en R³: ![[Pasted image 20220120120148.png]]
 - Es tambien necesario que el conjunto H sea abierto y [[1.8 Topología#Simplemente Conexo|simplemente conexo]] 
+
+## Paso a paso
+1. Fijarse que $\vec F$ sea conservativa (chequear que P'y y Q'x sean iguales)

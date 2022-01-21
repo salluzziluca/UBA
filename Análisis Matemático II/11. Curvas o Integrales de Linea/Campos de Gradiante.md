@@ -30,3 +30,6 @@ $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)= 0$$
 3. derivar en funcion de y a $\phi$
 4. igualar $\phi'y$ a Q para obtener el valor de h(y)
 5. Luego reemplazar h(y) en $\phi$
+
+## Definiciones
+Equipotencial: de igual potencia (similar a los conjuntos de nivel)

@@ -8,7 +8,7 @@ Ej: ![[Pasted image 20220120111806.png]]
 ## Independencia del camino en intregral de línea de campo vectorial
 Si $\vec F$ es un campo continuo en H abierto y conexo tal que $\vec F = \triangledown \phi$ entonces en todo punto de H la circulacion de $\vec F$ desde $\vec A$ hasta $\vec B$ a lo largo de cualquier curva suave a trozos no depende de la curva que se utilice y, además
 $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
-Si el campo es conservativo, l: $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
+Si el campo es conservativo, lo mismo: $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
 Entonces:
 - Si la curva es cerrada
 $$\oint_C \vec F d\vec s = \phi(\vec B)- \phi(\vec A)=\phi(\vec A) -\phi(\vec A) = 0 $$

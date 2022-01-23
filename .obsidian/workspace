@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Superficie",
+                "query": "producto vectorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
     "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
@@ -136,7 +137,6 @@
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Lineas de Campo.md"
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+            "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
+                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md"
               }
             }
           },
@@ -128,8 +127,8 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
     "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
     "Análisis Matemático II/12. Integrales de superficie/Untitled.md",

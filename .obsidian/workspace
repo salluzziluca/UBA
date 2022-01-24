@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "producto vectorial",
+                "query": "producto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
             }
           },
@@ -127,11 +128,11 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Análisis Matemático II/3. Funciones/Ecuacíon de la Recta Tangente.md",
     "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
     "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
     "Análisis Matemático II/12. Integrales de superficie/Untitled.md",
     "Análisis Matemático II/Para ordenar/Para ordenar.md",

@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -128,14 +127,14 @@
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+    "Análisis Matemático II/1. R2/1.1 Conjuntos.md",
+    "Análisis Matemático II/1. R2/1.8 Topología.md",
+    "Análisis Matemático II/1. R2/1.7 Regiones en R2.md",
+    "Análisis Matemático II/1. R2/1.9 Nomenclatura.md",
+    "Análisis Matemático II/1. R2/Logaritmo.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Operador Nabla.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/13.0 Teoremas de Integrales.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de.md",
-    "Integrales de linea.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md"
   ]
 }

@@ -11,3 +11,5 @@ una $\vec f(x, y)$ tal que $Q'x(x,y)+P'y(x,y)=k$,
 $$Area(D)=\frac 1 k \oint_{\partial D⁺} \vec f . d\vec s$$
 Y, finalmente, $\vec f(x,y)=(0,x)$ 
 nos queda que 
+$$Área(D)=\oint_{\partial D^+} \vec f . d\vec s$$
+==SOLAMENTE CON $\vec f(x,y)$ CUYOS $Q'x(x,y)+P'y(x,y)=k$ DEN CONSTANTE==

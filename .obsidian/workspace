@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
-            "mode": "source",
+            "file": "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md"
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md"
               }
             }
           },
@@ -126,15 +127,15 @@
   },
   "active": "b0a43c2493001366",
   "lastOpenFiles": [
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
     "Análisis Matemático II/1. R2/1.1 Conjuntos.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Análisis Matemático II/1. R2/1.7 Regiones en R2.md",
     "Análisis Matemático II/1. R2/1.9 Nomenclatura.md",
     "Análisis Matemático II/1. R2/Logaritmo.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md"
   ]
 }

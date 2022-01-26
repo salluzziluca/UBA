@@ -11,8 +11,9 @@
 [[8.0 Ecuaciones Diferenciales]]
 [[9.0 Integrales Dobles]]
 [[10.0 Integrales Triples]]
-![[S-4B-versión 1-1.pdf]]
-[[Para ordenar]]
+[[11.0 Curvas]]
+[[12.0 Integrales de superficie]]
+[[13.0 Teoremas de Integrales]]
 
 
 ---

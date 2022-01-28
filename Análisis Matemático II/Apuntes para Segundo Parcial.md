@@ -25,7 +25,7 @@ sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$
 #### Hipotesis
 - $D \subset R^3,$ sea $\partial D$ su sup frontera, la supongo orientada al exterior
 - Si hay alguna funcion (supongamos h) dentro de $\vec F(\vec X)$ debe ser $h'$ continua $-> h\in C^1 -> \vec F \in C¹$
-- De existir la funcion potencial de \vec f, la la matriz jacobiana D\vec f es simetrica. (ej: $\vec f=(2x, 2y)$ $potencial=\phi = x^2, y^2$
+- De existir la funcion potencial de $\vec f$, la la matriz jacobiana $D\vec f$ es simetrica. (ej: $\vec f=(2x, 2y)$ $potencial=\phi = x^2, y^2$
 
 Cuando no podemos resolver el flujo de una superficie de forma "normal"  podemos intentar usando divergencia.
 Esto es equivalente a decir que el flujo de $\vec f$ a traves de la superficie frontera de D (hacia afuera) es igual a la integral triple de la [[Divergencia|divergencia]] de $\vec f$ sobre D.

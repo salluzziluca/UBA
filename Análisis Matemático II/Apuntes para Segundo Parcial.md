@@ -16,9 +16,11 @@ Siendo que la curva rodee al punto A
 Si da 0, el campo es de gradiente, si no da cero, el campo no lo es
 ## Flujo
 sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$ se llama integral de superficie o flujo del campo vectorial $\vec f$a traves de S
- $$\int\int_S \vec f.\hat n\ ds= \int\int_D \hat f(\vec F(u ,v)).\vec F'_u(u, v) \times \vec F'_v(u, v)dudv$$
+ $$\int\int_S \vec F.\hat n\ ds= \int\int_D \hat F(\vec g(u ,v)).\vec (g'_u(u, v) \times \vec g'_v(u, v))dudv$$
  Con $\hat n = \frac {\vec F'_u(u, v) \times \vec F'_v(u, v)}{||\vec F'_u(u, v) \times \vec F'_v(u, v)||}$ y  $ds=||\vec F'_u(u, v) \times \vec F'_v(u, v)||$
-## Teoremas
 
+ 
+## Teoremas
+## Gauss
 
 - De existir la funcion potencial de \vec f, la la matriz jacobiana D\vec f es simetrica. (ej: $\vec f=(2x, 2y)$ $potencial=\phi = x^2, y^2$

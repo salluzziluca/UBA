@@ -1,4 +1,7 @@
 # Teorema de la divergencia - Teorema de Gauss
+Sea D \subset R^3 un cuerpo con superficie frontera \partial D y \vec f :A ->R^3 $Siendo A un conjunto abierto que contiene a $D \cup \partial D$
+
+
 
 Cuando no podemos resolver el flujo de una superficie de forma "normal" podemos intentar usando divergencia.
 

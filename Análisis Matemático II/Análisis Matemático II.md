@@ -18,6 +18,6 @@
 
 ---
 
-[[Notas para Primer Parcial]]
+[[Apuntes para Primer Parcial]]
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circulacio",
+                "query": "potencial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
               }
             }
           },
@@ -156,6 +157,8 @@
   },
   "active": "4534a4df986349fc",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
@@ -163,8 +166,6 @@
     "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Operador Nabla.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md"
   ]
 }

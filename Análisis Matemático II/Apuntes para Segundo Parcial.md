@@ -9,7 +9,7 @@ con $\LARGE \hat T = \frac {\vec g'(t)}{||\vec g'(t)||}$
 
 
 Si vos le sacas un solo punto a este dominio ![[Pasted image 20220128122911.png]]
-la circulacion por ambas todas las curvas con el mismo sentido de circulacion vale lo mismo, si cambia de sentido cambia de singo
+la circulacion por ambas tosdas las curvas con el mismo sentido de circulacion vale lo mismo, si cambia de sentido cambia de singo
 ![[Pasted image 20220128123039.png]]
 ![[Pasted image 20220128123007.png]]
 Siendo que la curva rodee al punto A

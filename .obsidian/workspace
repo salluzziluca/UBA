@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+            "file": "Física I/2. Dinámica/2.2 Interaccion Gravitatoria.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interseccion",
+                "query": "coordenadas elipt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+                "file": "Física I/2. Dinámica/2.2 Interaccion Gravitatoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
+                "file": "Física I/2. Dinámica/2.2 Interaccion Gravitatoria.md"
               }
             }
           },
@@ -147,15 +146,15 @@
   },
   "active": "ff081497e534ea0f",
   "lastOpenFiles": [
+    "Física I/2. Dinámica/2.2 Interaccion Gravitatoria.md",
+    "Análisis Matemático II/1. R2/1.3 Conicas.md",
+    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-    "Análisis Matemático II/3. Funciones/3.4 Curva.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Operador Nabla.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md"
+    "Imagenes/Pasted image 20210906144703.png",
+    "Imagenes/Pasted image 20210906144706.png",
+    "Imagenes/Pasted image 20210906151914.png",
+    "Imagenes/Pasted image 20210906154958.png",
+    "Imagenes/Pasted image 20210906155503.png"
   ]
 }

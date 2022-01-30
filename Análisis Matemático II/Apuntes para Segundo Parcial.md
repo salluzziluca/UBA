@@ -23,8 +23,9 @@ sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$
 ## Teoremas
 ### Gauss
 #### Hipotesis
-- $D \subset R^3,$ sea $\partial D$ su sup frontera, la supongo orientada al exterior
-- Si hay alguna funcion (supongamos h) dentro de $\vec F(\vec X)$ debe ser $h'$ continua $-> h\in C^1 -> \vec F \in C¹$
+- D es un solido compacto con frontera $\partial D$
+- $\partial D$ es una superficie cerrada, suave a trozos, simple y orientable con normal saliente de D
+- Si hay alguna funcion (supongamos h) dentro de $\vec F(\vec X)$ debe ser $h'$ continua $-> h\in C^1 ->$ ya que $\vec F: H\subset R^3->R^3, \vec F \in C¹$ en D y en $\partial D$ (E, S \subset D) 
 - De existir la funcion potencial de $\vec f$, la la matriz jacobiana $D\vec f$ es simetrica. (ej: $\vec f=(2x, 2y)$ $potencial=\phi = x^2, y^2$
 
 Cuando no podemos resolver el flujo de una superficie de forma "normal"  podemos intentar usando divergencia.

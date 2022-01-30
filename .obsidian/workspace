@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+            "file": "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "ff081497e534ea0f",
   "lastOpenFiles": [
+    "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
@@ -152,7 +153,6 @@
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
     "Análisis Matemático II/13. Teoremas de Integrales/13.0 Teoremas de Integrales.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md"
   ]

@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potencial",
+                "query": "vectorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
+                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
               }
             }
           },
@@ -157,15 +158,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/1. R2/1.3 Conicas.md",
     "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
     "Análisis Matemático II/1. R2/1.7 Regiones en R2.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md"
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md"
   ]
 }

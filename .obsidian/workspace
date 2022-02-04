@@ -9,18 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c363df1fec3cde2d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
             "mode": "source",
             "source": false
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vectorial",
+                "query": "divergencia ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "146ea6bfbcd342ac",
@@ -155,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c363df1fec3cde2d",
+  "active": "ff081497e534ea0f",
   "lastOpenFiles": [
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/1. R2/1.3 Conicas.md",
-    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
-    "Análisis Matemático II/1. R2/1.7 Regiones en R2.md",
-    "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
+    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md"
   ]
 }

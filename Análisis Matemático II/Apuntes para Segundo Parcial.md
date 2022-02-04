@@ -46,3 +46,10 @@ $\vec F = \triangledown \phi$ si $\triangledown \phi (x,y) = (\phi'_x(x, y), \ph
 
 Ej: si $\vec F(x,y)=(2x, 3y^2)-> \phi (x,y) = x^2+y^3$
 $\triangledown \phi (x,y) =(2x, 3y^2)$
+
+
+La normal se saca como g'x x g'y de una superfiice
+![[Pasted image 20220204112209.png]]
+Nos dan una superficie, la parametrizamos, sacamos g'x y g'y y hacemos profucto vectorial
+
+Si tenemos dos superificies con sus normales hacemos producto vectorial entre ambas para sacar sacar el vector tangente a la interseccion

@@ -7,8 +7,12 @@
         "id": "caebfff00e04823c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "producto vectorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
+              }
             }
           }
         ]
@@ -111,15 +118,15 @@
   },
   "active": "caebfff00e04823c",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
     "Integrales de linea.md",
     "Análisis Matemático II/12. Más integrales/Integrales de superficie.md",
     "conflict-files-obsidian-git.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
     "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
-    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
-    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
-    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md"
+    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md"
   ]
 }

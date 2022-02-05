@@ -1,7 +1,7 @@
 {
   "commitMessage": "vault backup: {{date}}-Kvothe's Desktop",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 60,
+  "autoSaveInterval": 30,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,

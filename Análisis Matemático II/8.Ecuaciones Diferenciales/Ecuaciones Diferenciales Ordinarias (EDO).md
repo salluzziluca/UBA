@@ -8,7 +8,7 @@ Ej :
 
 ## Solución particular de una ecuación diferencial ordinaria.
    Solución particular (SP): es toda solución que se obtiene dándole valores determinados a las constantes.
-   
+   27 sec
 ej: 
 1.   $y=1/3 x^3+2$ es SP de $y^′=x^2$
 

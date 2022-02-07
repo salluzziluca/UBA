@@ -15,6 +15,11 @@ sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$
 - Si hay alguna funcion (supongamos h) dentro de $\vec F(\vec X)$ debe ser $h'$ continua $-> h\in C^1 ->$ ya que $\vec F: H\subset R^3->R^3, \vec F \in C¹$ en D y en $\partial D$ (E, S \subset D) 
 - De existir la funcion potencial de $\vec f$, la la matriz jacobiana $D\vec f$ es simetrica. (ej: $\vec f=(2x, 2y)$ $potencial=\phi = x^2, y^2$
 
+#### Importantes
+- Sólido compacto (cerrado y acotado)
+- frontera orientada hacia afuera y cerrada
+- $\vec f \in C^1$
+
 Cuando no podemos resolver el flujo de una superficie de forma "normal"  podemos intentar usando divergencia.
 Esto es equivalente a decir que el flujo de $\vec f$ a traves de la superficie frontera de D (hacia afuera) es igual a la integral triple de la [[Divergencia|divergencia]] de $\vec f$ sobre D.
 $$ ∯_{\partial D}\vec f . \hat n . ds = \int \int \int_D div(\vec f) dxdydz $$
@@ -57,3 +62,6 @@ La normal se saca como g'x x g'y de una superfiice
 Nos dan una superficie, la parametrizamos, sacamos g'x y g'y y hacemos profucto vectorial
 
 Si tenemos dos superificies con sus normales hacemos producto vectorial entre ambas para sacar sacar el vector tangente a la interseccion
+
+
+El jacobinao se pone si tenemos una integral en cartesianas que la pasamos a polares, si ya venimos de una parametrizacion, no se pone.

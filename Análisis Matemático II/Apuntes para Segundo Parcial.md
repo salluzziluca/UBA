@@ -8,7 +8,7 @@ sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$
 
  
 ### Teoremas
-#### Gauss
+#### Gauss (si te piden el flujo a travez de la frontera de un cuerpo)
 ##### Hipotesis
 - D es un solido compacto con frontera $\partial D$
 - $\partial D$ es una superficie cerrada, suave a trozos, simple y orientable con normal saliente de D

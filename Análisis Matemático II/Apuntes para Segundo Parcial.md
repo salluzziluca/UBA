@@ -41,11 +41,15 @@ Si da 0, el campo es de gradiente, si no da cero, el campo no lo es
 
 ### Potencial
 Si la matriz jacobiana de f en R³ es simetrica y continua entonces admite funcion potencial.
+Si el dominio de f es simplemente conexo (no se corta en ningun momento el dominio)
 $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
 $\vec F = \triangledown \phi$ si $\triangledown \phi (x,y) = (\phi'_x(x, y), \phi'_y(x, y))=\vec F(x, y)$
 
 Ej: si $\vec F(x,y)=(2x, 3y^2)-> \phi (x,y) = x^2+y^3$
 $\triangledown \phi (x,y) =(2x, 3y^2)$
+
+---
+Para ver si usamos potencial o green analizamos Q'x-P'y, si da cero
 
 
 La normal se saca como g'x x g'y de una superfiice

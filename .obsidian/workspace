@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "bd81c7fbe94c9240",
+    "id": "ef1e02436ac9c992",
     "type": "split",
     "children": [
       {
-        "id": "1b83bc22da1c5c06",
+        "id": "c363df1fec3cde2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Análisis Matemático II/apunte final pequeñito.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4dffeea02e544df9",
+    "id": "6612a54442734667",
     "type": "split",
     "children": [
       {
-        "id": "956a7abbfc0f7285",
+        "id": "74d35282a705107a",
         "type": "tabs",
         "children": [
           {
-            "id": "c672fd371d2ab148",
+            "id": "9a79e0736b09572d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "5a1b57fc205ee83f",
+            "id": "28fc762ad0b43c67",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "masa",
+                "query": "volumen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "930fbd42288a773e",
+            "id": "c8d607776b4c33b2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,19 +61,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 311.5,
     "collapsed": true
   },
   "right": {
-    "id": "7b991d2bc6d71911",
+    "id": "436c5de0b71fa9ef",
     "type": "split",
     "children": [
       {
-        "id": "54727e7e4b8d454d",
+        "id": "63a996253cd9efbb",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8fc37355b055ae",
+            "id": "665ab3eea9f75da7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -85,12 +85,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "51faa3efab18223a",
+            "id": "2951290f6d2c0036",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -101,12 +101,39 @@
             }
           },
           {
-            "id": "68b9701e60eb0a61",
+            "id": "0b593a34e27ff9c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Análisis Matemático II/apunte final pequeñito.md"
+              }
+            }
+          },
+          {
+            "id": "fb50f0fe0be36d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "146ea6bfbcd342ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a43c2493001366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,13 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b83bc22da1c5c06",
+  "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
   ]
 }

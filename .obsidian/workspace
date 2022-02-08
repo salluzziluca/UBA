@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "4f81bd13898f6267",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,9 @@
   "lastOpenFiles": [
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
   ]
 }

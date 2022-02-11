@@ -12,6 +12,7 @@ $$P'_x +Q'_y + R'_z = div(\vec f) = divergencia$$
 
  #### circulacion
 $$\int_C \vec F ds= \int_a^b \vec F (\vec g(t))\vec g'(t)dt=\int_a^b \vec F (\vec g(t)).\hat T ds $$
+con $\hat T = \frac {\vec g'(t)}{||\vec g'(t)||}$
 
 ##### green
 D region compacta de R^2 con $\partial D$ como frontera

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elipti",
+                "query": "reverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

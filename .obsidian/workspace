@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación I/Archivos.md",
+            "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
             "mode": "preview",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación I/Archivos.md",
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación I/Archivos.md"
+                "file": "Análisis Matemático II/Apuntes para Segundo Parcial.md"
               }
             }
           },
@@ -146,9 +145,9 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Algoritmos y Programación I/Archivos.md",
     "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",

@@ -24,7 +24,7 @@ si $(Q'_x(x,y)-P'_y(x,y))dxdy$ da cero, aplicamos
 
 ##### potencial
 Si la matriz jacobiana de f en R³ es simetrica y continua entonces admite funcion potencial.
-Si el dominio de f es simplemente conexo (no se corta en ningun momento el dominio)
+Si el dominio de f es abierto y simplemente conexo (no se corta en ningun momento el dominio)
 
 $$\int_{C_{AB}}\vec F d \vec s = \phi(\vec B)- \phi(\vec A)$$
 $\vec F = \triangledown \phi$ si $\triangledown \phi (x,y) = (\phi'_x(x, y), \phi'_y(x, y))=\vec F(x, y)$

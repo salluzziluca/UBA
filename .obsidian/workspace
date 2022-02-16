@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/apunte final pequeñito.md",
-            "mode": "preview",
+            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plano",
+                "query": "ortogonal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md"
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md"
               }
             }
           },
@@ -145,12 +146,12 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/Apuntes para Segundo Parcial.md",
     "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
     "Algoritmos y Programación I/Archivos.md",
     "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",

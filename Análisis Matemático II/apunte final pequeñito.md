@@ -17,7 +17,7 @@ con $\hat T = \frac {\vec g'(t)}{||\vec g'(t)||}$
 ##### green
 D region compacta de R^2 con $\partial D$ como frontera
 $\partial D$ curva cerrada positivamente orientada
-F es c1
+F es c1 y con dominio simplemente conexco
 
 $$\oint_{\partial D⁺} \vec f.d\vec s= \int \int_D (Q'_x(x,y)-P'_y(x,y))dxdy$$
 si $(Q'_x(x,y)-P'_y(x,y))dxdy$ da cero, aplicamos

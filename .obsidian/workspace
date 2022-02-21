@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Análisis Matemático II/apunte final pequeñito.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longitud frontera",
+                "query": "volum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,14 +146,14 @@
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
     "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
     "Algoritmos y Programación I/Archivos.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiante.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
   ]
 }

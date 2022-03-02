@@ -46,6 +46,10 @@ P & Q & R
 
 masa de una sup 
 $$\oint_{ H} densidad.d\vec s= \int \int_D densidad.||N||dxdy$$
+masa de un cuerpo 
+$$\int \int \int_D densidad.dx.dy.dx$$
+
+
 area de una sup
 $$\oint_{ H}d\vec s= \int \int_D||N||dxdy$$
 

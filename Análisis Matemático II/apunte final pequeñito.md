@@ -35,7 +35,7 @@ $\vec F = \triangledown \phi$ si $\triangledown \phi (x,y) = (\phi'_x(x, y), \ph
 ##### stokes
 - C es frontera de S
 - C es orientable respecto a S
-- C es curva cerrada
+- C es curva cerrada y positiva
 - S orientable 
 - $\vec f \in C^1$
 

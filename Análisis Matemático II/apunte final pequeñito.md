@@ -60,3 +60,8 @@ $$\oint_{ H}d\vec s= \int \int_D||N||dxdy$$
 ![](blob:https://web.whatsapp.com/49f03f7d-8fbc-4ab3-92ec-046278122d22)
 ![](blob:https://web.whatsapp.com/49f03f7d-8fbc-4ab3-92ec-046278122d22)
 ![[49f03f7d-8fbc-4ab3-92ec-046278122d22.jpeg]]
+
+Ecuacion homogenea
+tal que y' =f(x,y) = f(ux, uy)
+ej
+![[Pasted image 20220307121549.png]]

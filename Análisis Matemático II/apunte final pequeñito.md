@@ -65,3 +65,6 @@ Ecuacion homogenea
 tal que y' =f(x,y) = f(ux, uy)
 ej
 ![[Pasted image 20220307121549.png]]
+
+
+recta tangente a una curva y = algo es y'

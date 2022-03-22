@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/3. Funciones/3.1 Función.md",
+            "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.1 Función.md",
+                "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.1 Función.md"
+                "file": "Análisis Matemático II/1. R2/1.8 Topología.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "c271b123facabe8c",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Análisis Matemático II/3. Funciones/3.1 Función.md",
     "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
@@ -154,7 +155,6 @@
     "Análisis Matemático II/2. R3/2.0 R3.md",
     "Análisis Matemático II/1. R2/1.3 Conicas.md",
     "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
-    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
-    "Análisis Matemático II/1. R2/1.9 Nomenclatura.md"
+    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md"
   ]
 }

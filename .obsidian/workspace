@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Main.md",
+            "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Main.md",
+                "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Main.md"
+                "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md"
               }
             }
           },
@@ -146,9 +146,9 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
-    "Algorimos y Programación II/Main.md",
-    "Algorimos y Programación II/Compliación.md",
     "Algorimos y Programación II/Funcionamiento de una Computadora.md",
+    "Algorimos y Programación II/Compliación.md",
+    "Algorimos y Programación II/Main.md",
     "Física I/1. Cinemática/1.0 Cinemática.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
     "Análisis Matemático II/apunte final pequeñito.md",

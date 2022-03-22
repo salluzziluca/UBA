@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md",
+            "file": "Algorimos y Programación II/Punteros.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md",
+                "file": "Algorimos y Programación II/Punteros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Funcionamiento de una Computadora.md"
+                "file": "Algorimos y Programación II/Punteros.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Algorimos y Programación II/Punteros.md",
     "Algorimos y Programación II/Funcionamiento de una Computadora.md",
     "Algorimos y Programación II/Compliación.md",
     "Algorimos y Programación II/Main.md",
@@ -154,7 +155,6 @@
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
   ]
 }

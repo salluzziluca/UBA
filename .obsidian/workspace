@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c363df1fec3cde2d",
+        "id": "c271b123facabe8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
-            "mode": "source",
+            "file": "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
+                "file": "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md"
+                "file": "Análisis Matemático II/1. R2/1.4 Cuadráticas.md"
               }
             }
           },
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c363df1fec3cde2d",
+  "active": "c271b123facabe8c",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.4 Cuadráticas.md",
+    "Análisis Matemático II/1. R2/1.9 Nomenclatura.md",
+    "Análisis Matemático II/1. R2/1.3 Conicas.md",
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
+    "Análisis Matemático II/1. R2/1.0 R2.md",
     "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
     "Física I/1. Cinemática/1.0 Cinemática.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
     "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
-    "Análisis Matemático II/Apuntes para Segundo Parcial.md"
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md"
   ]
 }

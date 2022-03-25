@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+            "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ecuacion plano",
+                "query": "coordenadas polares",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+                "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
+                "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
-    "Análisis Matemático II/Apuntes para Segundo Parcial.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md"
+    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+    "Física I/1. Cinemática/1.7 Movimiento Circular.md",
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
+    "Algorimos y Programación II/Manejo de memoria.md",
+    "Algorimos y Programación II/Punteros.md",
+    "Algorimos y Programación II/Archivos en C.md",
+    "Algorimos y Programación II/Funcionamiento de una Computadora.md",
+    "Algorimos y Programación II/Compliación.md",
+    "Algorimos y Programación II/Main.md"
   ]
 }

@@ -8,3 +8,6 @@ La memoria se organiza para poder tener las cosas mas claras.
 ![[Pasted image 20220322182238.png]]
 
 Heap es dinamica, puede cambiar de tamaño. Las demás no.
+
+
+Hay que saber cuando usar un tipo de memoria y cuando otra

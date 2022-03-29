@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
+            "file": "Física I/Laboratorio/Teoria de la Medida.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
+                "file": "Física I/Laboratorio/Teoria de la Medida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.8 Topología.md"
+                "file": "Física I/Laboratorio/Teoria de la Medida.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Física I/Laboratorio/Teoria de la Medida.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Algorimos y Programación II/Funcionamiento de una Computadora.md",
     "Algorimos y Programación II/Manejo de memoria.md",
@@ -154,7 +155,6 @@
     "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Algorimos y Programación II/Punteros.md",
-    "Algorimos y Programación II/Archivos en C.md",
-    "Algorimos y Programación II/Compliación.md"
+    "Algorimos y Programación II/Archivos en C.md"
   ]
 }

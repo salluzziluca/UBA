@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Manejo de memoria.md",
+            "file": "Física I/Laboratorio/Teoria de la Medida.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Manejo de memoria.md",
+                "file": "Física I/Laboratorio/Teoria de la Medida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Manejo de memoria.md"
+                "file": "Física I/Laboratorio/Teoria de la Medida.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Física I/Laboratorio/Teoria de la Medida.md",
+    "Física I/Laboratorio/Laboratorio.md",
     "Algorimos y Programación II/Manejo de memoria.md",
     "Algorimos y Programación II/Casteo.md",
     "Algorimos y Programación II/Punteros.md",
-    "Física I/Laboratorio/Teoria de la Medida.md",
     "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Algorimos y Programación II/Funcionamiento de una Computadora.md",
     "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
     "Física I/1. Cinemática/1.7 Movimiento Circular.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
-    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md"
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
   ]
 }

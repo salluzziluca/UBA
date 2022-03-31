@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/Laboratorio/Teoria de la Medida.md",
+            "file": "Algorimos y Programación II/Comparación de Algoritmos.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/Laboratorio/Teoria de la Medida.md",
+                "file": "Algorimos y Programación II/Comparación de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/Laboratorio/Teoria de la Medida.md"
+                "file": "Algorimos y Programación II/Comparación de Algoritmos.md"
               }
             }
           },
@@ -145,6 +146,7 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Algorimos y Programación II/Comparación de Algoritmos.md",
     "Física I/Laboratorio/Teoria de la Medida.md",
     "Física I/Laboratorio/Laboratorio.md",
     "Algorimos y Programación II/Manejo de memoria.md",
@@ -153,7 +155,6 @@
     "Análisis Matemático II/1. R2/1.8 Topología.md",
     "Algorimos y Programación II/Funcionamiento de una Computadora.md",
     "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
-    "Física I/1. Cinemática/1.7 Movimiento Circular.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
+    "Física I/1. Cinemática/1.7 Movimiento Circular.md"
   ]
 }

@@ -22,3 +22,20 @@ Hay que probarlos en las mismas condiciones porque hay muchos factores externos.
 >Nuestro algoritmo (T(n)) es BIG O de f(n).
 
 A BIG O le sirve si de un punto en adelante la funcion es siempre la cota superior a T(n)
+
+![[Pasted image 20220331192518.png]]
+
+#### O(1)
+cantidad de instrucciones constantes
+
+#### O(n)
+instrucciones que crecen linealmente
+
+
+#### O(n²)
+Instrucciones que crecen cuadraticamente 
+
+### Reglas 
+Si $T1(n) = O(f(n)), y T2(n) = O(g(n))$
+$T1(n) + T2(n) = max(O(f(n)), O(g(n)))$
+$T1(n) ∗ T i2(n) = max(O(f(n) ∗ g(n)))$

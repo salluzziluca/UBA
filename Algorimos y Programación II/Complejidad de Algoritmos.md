@@ -35,7 +35,10 @@ instrucciones que crecen linealmente
 #### O(n²)
 Instrucciones que crecen cuadraticamente 
 
-### Reglas 
+### Propiedades 
 Si $T1(n) = O(f(n)), y T2(n) = O(g(n))$
-$T1(n) + T2(n) = max(O(f(n)), O(g(n)))$
-$T1(n) ∗ T i2(n) = max(O(f(n) ∗ g(n)))$
+1) $T1(n) + T2(n) = max(O(f(n)), O(g(n)))$
+2) $T1(n) ∗ T i2(n) = max(O(f(n) ∗ g(n)))$
+
+##### If()
+En el if, tomamos la cota de la condicion con mayor cota. Es decir, usamos la 2da propiedad

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Comparación de Algoritmos.md",
+            "file": "Algorimos y Programación II/Complejidad de Algoritmos.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Comparación de Algoritmos.md",
+                "file": "Algorimos y Programación II/Complejidad de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Comparación de Algoritmos.md"
+                "file": "Algorimos y Programación II/Complejidad de Algoritmos.md"
               }
             }
           },
@@ -146,7 +146,7 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
-    "Algorimos y Programación II/Comparación de Algoritmos.md",
+    "Algorimos y Programación II/Complejidad de Algoritmos.md",
     "Física I/Laboratorio/Teoria de la Medida.md",
     "Física I/Laboratorio/Laboratorio.md",
     "Algorimos y Programación II/Manejo de memoria.md",

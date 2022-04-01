@@ -42,3 +42,10 @@ Si $T1(n) = O(f(n)), y T2(n) = O(g(n))$
 
 ##### If()
 En el if, tomamos la cota de la condicion con mayor cota. Es decir, usamos la 2da propiedad
+
+### Recursividad
+Para algoritmos recursivos usamos la formula 
+$fac(n)=n*fac(n-1)$
+o $T(n)=n*t(n-1)$ 
+ej, busqueda binaria:
+$T(n)=1*T(n/2)+O(1)$

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Unidad",
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 500,
   "scale": 0.03273249767353488,
-  "close": false
+  "close": true
 }

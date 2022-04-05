@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
+            "file": "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
+                "file": "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md"
+                "file": "Análisis Matemático II/3. Funciones/3.5 Superficies.md"
               }
             }
           },
@@ -146,6 +145,7 @@
   },
   "active": "4e2797e57d7dc6d9",
   "lastOpenFiles": [
+    "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
     "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
     "Análisis Matemático II/3. Funciones/Límites Utiles.md",
     "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
@@ -154,7 +154,6 @@
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
     "Análisis Matemático II/3. Funciones/3.2 Conjuntos de nivel.md",
-    "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Análisis Matemático II/1. R2/1.1 Conjuntos.md"
+    "Análisis Matemático II/1. R2/1.8 Topología.md"
   ]
 }

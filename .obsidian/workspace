@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Casteo.md",
+            "file": "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coordenadas polares",
+                "query": "caja negra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Casteo.md",
+                "file": "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Casteo.md"
+                "file": "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md"
               }
             }
           },
@@ -146,15 +147,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md",
     "Algorimos y Programación II/Casteo.md",
+    "Algoritmos y Programación I/Definición de Algoritmo.md",
+    "!Definición de Algoritmo.md",
     "Algorimos y Programación II/Complejidad de Algoritmos.md",
     "Física I/Laboratorio/Teoria de la Medida.md",
     "Física I/Laboratorio/Laboratorio.md",
     "Algorimos y Programación II/Manejo de memoria.md",
     "Algorimos y Programación II/Punteros.md",
-    "Análisis Matemático II/1. R2/1.8 Topología.md",
-    "Algorimos y Programación II/Funcionamiento de una Computadora.md",
-    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
-    "Física I/1. Cinemática/1.7 Movimiento Circular.md"
+    "Análisis Matemático II/1. R2/1.8 Topología.md"
   ]
 }

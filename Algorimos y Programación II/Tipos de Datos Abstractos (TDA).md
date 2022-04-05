@@ -13,3 +13,15 @@ definimos un dato por
 
 ## RESUMIENDO
 Es una forma de simplificar un dato para su desarollo.  Nunca va a ser IGUAL a la realidad, pero se intenta.
+
+Entonces… ¿Por qué usamos TDAs
+- Manejan la Abstracción 
+La abstracción permite simplificar la realidad mediante el despojo de complejidad que no es propio del problema que estamos resolviendo.
+
+
+- Localización del Cambio 
+Cuando existen errores dentro de un programa, es más fácil detectarlo, pues la utilización de los TDAs fuerza la modularización. 
+
+
+- Encapsulamiento 
+Es la propiedad por la cual un TDA debe exponer la menor cantidad posible de informacion del como esta implementado, haciendo que el usuario se base en las funciones que él mismo entiende.

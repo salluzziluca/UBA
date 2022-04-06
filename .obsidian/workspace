@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Testeo.md",
+            "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Testeo.md",
+                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Testeo.md"
+                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
     "Algorimos y Programación II/Testeo.md",
     "Algorimos y Programación II/Complejidad de Algoritmos.md",
     "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md",
@@ -154,7 +155,6 @@
     "!Definición de Algoritmo.md",
     "Física I/Laboratorio/Teoria de la Medida.md",
     "Física I/Laboratorio/Laboratorio.md",
-    "Algorimos y Programación II/Manejo de memoria.md",
-    "Algorimos y Programación II/Punteros.md"
+    "Algorimos y Programación II/Manejo de memoria.md"
   ]
 }

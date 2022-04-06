@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/apunte final pequeñito.md",
+            "file": "Algorimos y Programación II/Testeo.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md",
+                "file": "Algorimos y Programación II/Testeo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md"
+                "file": "Algorimos y Programación II/Testeo.md"
               }
             }
           },
@@ -154,6 +153,8 @@
   },
   "active": "73ccfa947b16d6b4",
   "lastOpenFiles": [
+    "Algorimos y Programación II/Testeo.md",
+    "Algorimos y Programación II/Punteros.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Algorimos y Programación II/Main.md",
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
@@ -161,8 +162,6 @@
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
     "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
-    "Algorimos y Programación II/Testeo.md",
-    "Algorimos y Programación II/Complejidad de Algoritmos.md",
-    "Algorimos y Programación II/Tipos de Datos Abstractos (TDA).md"
+    "Algorimos y Programación II/Complejidad de Algoritmos.md"
   ]
 }

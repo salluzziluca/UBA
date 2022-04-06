@@ -4,7 +4,6 @@ Testeamos para asegurarnos de que nuestra funcion opere adecuadamente con cierto
 ### Falla
 Defecto no detectado que puede producir errores inesperados en nuestro programa
 
-
 ### Error
 estado incorrecto de nuestro programa causado por una falla
 

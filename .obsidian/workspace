@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
+            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"curva suave\"",
+                "query": "recta tangente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md"
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
               }
             }
           },
@@ -146,10 +146,10 @@
   },
   "active": "4e2797e57d7dc6d9",
   "lastOpenFiles": [
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
     "Análisis Matemático II/3. Funciones/3.4 Curva.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
     "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
     "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",

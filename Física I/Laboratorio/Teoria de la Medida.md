@@ -43,11 +43,11 @@ que se conoce este dato con una incertidumbre 1 km. Sin embargo supóngase que r
 **Exactiud**: Calidad de calibracion del mismo. Si un cronometro se adelanta 2 minutos por hora mientras que un reloj de pared solo 30 segundos, el reloj es mas exacto, pero menos preciso.
 Precisión da la calidad de la lectura en el instrumento, la exactitud compara a la lectura con un patrón de referencia. Una medición de alta calidad, como las que se utilizan para definir los estándares, es precisa y exacta.
 
-### Incertidumbre relativa y procentual.
+### Error relativo y procentual.
 
-Se calcula dividiendo la incertidumbre absoluta por el valor de la variable medida
+Se calcula dividiendo el error absoluto por el valor de la variable medida
 ## $$ \epsilon = \frac {\triangle t}{t}$$
-Si la multiplciamos por 100 obtenemos la relativa porcentual:
+Si la multiplciamos por 100 obtenemos el relativo porcentual:
 ## $$ \epsilon = \frac {\triangle t}{t}*100*$$
 
 ## Cálculo de Incertezas

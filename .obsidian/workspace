@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "5485e1203e815f04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -144,8 +156,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e2797e57d7dc6d9",
+  "active": "5485e1203e815f04",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
     "Análisis Matemático II/3. Funciones/3.4 Curva.md",
@@ -154,7 +167,6 @@
     "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
     "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
     "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
-    "Análisis Matemático II/3. Funciones/Límites Utiles.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
+    "Análisis Matemático II/3. Funciones/Límites Utiles.md"
   ]
 }

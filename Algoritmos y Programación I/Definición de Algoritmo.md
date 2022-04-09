@@ -16,8 +16,15 @@ Caracterisiticas que van a cumplir los datos de salida
 
 Ambas van de la mano, si se cumple una se cumple la otra. Es un contrato. Si el usario cumple con las pre, el dev cumple con las post.
 
-## Caja blanca y Caja Negra
+## Caja blanca 
 **Caja Blanca**: Se centra en cómo se hace el algoritmo, se preocupa por cumplir las post-condiciones
+Como hace tal cosa
+
+## Caja negra
 **Caja Negra**: Que hace el algoritmo, lo que entra y lo que sale, no ve el procedimiento
+Que hace? Que entra y que sale?
+
+
+## a
 
 Para armar uno seguimos el paso a paso dado en [[Elaboración de Algoritmos]]

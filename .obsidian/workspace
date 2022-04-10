@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Testeo.md",
+            "file": "Algorimos y Programación II/Casteo.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Testeo.md",
+                "file": "Algorimos y Programación II/Casteo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Testeo.md"
+                "file": "Algorimos y Programación II/Casteo.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "73ccfa947b16d6b4",
   "lastOpenFiles": [
+    "Algorimos y Programación II/Casteo.md",
     "Algorimos y Programación II/Testeo.md",
     "Algorimos y Programación II/Punteros.md",
     "Análisis Matemático II/apunte final pequeñito.md",
@@ -161,7 +162,6 @@
     "Física I/3. Trabajo y Energía/Paso a paso trabajo.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
-    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
-    "Algorimos y Programación II/Complejidad de Algoritmos.md"
+    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md"
   ]
 }

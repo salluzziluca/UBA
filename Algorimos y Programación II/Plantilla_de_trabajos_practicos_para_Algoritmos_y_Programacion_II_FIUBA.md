@@ -16,7 +16,7 @@
 
 
 #### 1. Introducción
-En este TP se buscaba primero terminar de afianzar los conceptos de lecturas de archivos vistos en Algoritmos y Programacion I, tema importantisimo para el desarrollo productivo como programadores
+En este TP se buscaba primero terminar de afianzar los conceptos de lecturas de archivos vistos en Algoritmos y Programacion I, tema de vital importancia para el desarrollo productivo como programadores. Asimismo y como tema central, se buscaba introducir las funcionalidades de manejo de memoria propias del lenguaje C. 
 
 #### 2. Teoría
 
@@ -29,6 +29,10 @@ Respuestas a las preguntas teóricas (si no las hay podes borrar esta sección!)
 
 
 Explicación de como se implemento el trabajo pedido, esta sección es para que puedas explicar de forma un poco mas detallada como se implemento o como planteaste el trabajo y los detalles al respecto. Estos detalles pueden ser alguna justificación de porque implementaste lo pedido de la forma que lo hiciste, con que linea se compilo el trabajo, como ejecutarlo, algún supuesto que hayas hecho, etc. (La idea no es que se explique utilizando código pero si lo ves necesario podes hacerlo.)
+
+Primero que nada, el Trabajo Practico se puede implementar con las lineas `gcc escape_pokemon.c  src/*.c -std=c99 -Wall -Wconversion -Wtype-limits -g -Werror -o  escape_pokemon`. Digo puede porque los flags son completamente opcionales a la hora de correrlo. 
+Dicho esto, yo tome una implementacion que buscaba modularizar correctamente sin volverse uno loco intentando hacer las cosas mas chicas de lo realmente posible. Me concentre sobre todo en (intentar) no tener ninguna funcion demasiado larga o dificil de leer. Es por esto que a veces se pueden encontrar diferentes llamados o declaraciones separados por espacios aunque la guia de estilo no lo recomendara. 
+Empece por la lectura de archivos (ya dentro de 
 
 
 1. Detalles de alguna función

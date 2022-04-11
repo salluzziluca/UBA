@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2797e57d7dc6d9",
+        "id": "320ec47de016ebf7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5485e1203e815f04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
             "mode": "source",
             "source": false
           }
@@ -52,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "derivadas direccionales",
-                "matchingCase": false,
+                "query": "\"energia mecánica\"",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md"
               }
             }
           },
@@ -156,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5485e1203e815f04",
+  "active": "320ec47de016ebf7",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
+    "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
+    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "conflict-files-obsidian-git.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/3. Funciones/3.4 Curva.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/Curva Suave.md",
-    "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
-    "Análisis Matemático II/3. Funciones/3.5 Superficies.md",
-    "Análisis Matemático II/3. Funciones/3.3 Límite de Funcion.md",
-    "Análisis Matemático II/3. Funciones/Límites Utiles.md"
+    "Análisis Matemático II/3. Funciones/3.4 Curva.md"
   ]
 }

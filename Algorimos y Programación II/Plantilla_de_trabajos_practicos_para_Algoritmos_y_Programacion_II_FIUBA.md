@@ -23,8 +23,9 @@ Respuestas a las preguntas teóricas (si no las hay podes borrar esta sección!)
 
 1. La lectura de archivos se realiza primero verificando que el archivo sea valido, luego, al leer una linea, que el string que devuelve tambien sea valido y, por ultimo,  parseando ese string y verificando que devolvio la cantidad de campos que le pedimos (lo cual indica, por como funcion sscanf, si el parseo fue hecho correctamete). Se asignan entonces los valores parseados y verificados a los campos correspondientes de los struct (en este caso).
 2. La memoria dinamica la manejo mediante el uso de funciones alocadoras como `malloc` `realloc` y `calloc`. Las cuales reservan una cantidad de memoria (bytes)  que nosotros le pidamos y se la asignan a un puntero. Ese puntero (el original), se encuentra en memoria estatica en el stack, pero apunta a una direccion en el heap. 
-Mediante `malloc` nosotros podemos crear un bloque fijo de memoria. Luego, con `realloc`, lo podemos modificar, pedirle mas memoria (muy util utilizado de la mano de un for o de un while). 
-Esta memoria no la podemos dejar alocada para siempre en el heap. Cuando la dejemos de utilizar, debemos devolverla. Esto puede ocurrir cuando terminamos de ejecutar nuestro programa (panorama des)
+	Mediante `malloc` nosotros podemos crear un bloque fijo de memoria. Luego, con `realloc`, lo podemos modificar, pedirle mas memoria (muy util utilizado de la mano de un for o de un while). 
+	Esta memoria no la podemos dejar alocada para siempre en el heap. Cuando la dejemos de utilizar, debemos devolverla. Esto puede ocurrir cuando terminamos de ejecutar nuestro programa (panorama deseable) o cuando la ejecución de nuestro programa se corta por algun error. Es por esto que debemos estar atentos y detectar cuales son esos casos en los que debemos, junto con el retorno de un NULL, por ejemplo, devolver el bloque de memoria correspondiente. 
+	Aclaración: Dentro de la memoria dinamica se pueden crear bloques de memoria que apunten a otros bloques mediante punteros, no estamos limitados a depender siempre de un puntero en el stack para un bloque en el heap. 
 
 ## 3. Detalles de implementación
 
@@ -73,15 +74,22 @@ printf("examinar la habitacion: %s\n", interaccion_valida(es_examinar_habitacion
 
 ### Liberación de memoria
 Por ultimo, se destruye la sala. Agradeciendole a nuestra computadora por toda la memoria que nos prestó (como nos enseñaron en el colegio). Primero se liberan las diferentes posiciones de los vectores de elementos, luego el priopio vector y por ultimo la estructura misma de la sala.
+
 ## 4. Detalles de Funciones en particular
 
-1. Detalles de alguna función
+1. `agregar_objeto_a_vector`
 
-    Algún detalle importante sobre alguna función. La idea no es que expliques todas las funciones, es para que expliques mas en detalle las funciones mas importantes del trabajo (como por ejemplo, como funciona el insertar en una posición especifica en una lista) y como funcionan, porque están implementadas de cierta forma, etc.
+    la funcion
+    ```c
+    agregar_objeto_a_vector(struct objeto ***objetos, int *cantidad_objetos, struct objeto *objeto_actual)
+    ```
+    
+	Recibe por parametro un puntero a un vector de punteros, una cantidad y un objeto que se quiere agregar a ese vector. Crea un bloque de memoria auxiliar con el tamaño del vector de punteros que se le pasa + el tamaño de un  `struct objeto*` (le suma una espacio mas al vector para el nuevo elemento). Verifica que l bloque creado no sea nulo, que la memoria estpe correctamente asignada y luego le dice a `struct objeto **objetos` que apunte al mismo lugar donde está apuntando el bloque auxiliar (esto se hace para que, si la memoria no se carga correctamente en el realloc, no se pierda lo que ya habia en el vector importante y principal.).
+	Por ultimo, carga el objeto actual en la posicion correspondiente segun cantidad_objetos y suma uno a cantidad. Devuelve 0, exitoso.
 
-2. Detalle de otra función
+2. `sala_destruir()`
 
-    Algún detalle de otra función.
+	Destruye la sala creada y alocada en memoria. La destruye de a partes, primero los vectores dinamicos y luego la estructura de la sala en si. No destruye el vector `nombre_objetos` porque este depende exclusivamente de  `sala->objetos`. No retorna nada porque es un ==**procedimiento==
 
 ## 5. Diagramas
 

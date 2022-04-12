@@ -1,9 +1,5 @@
 ## Pila
-> Es una estructura de datos de tipo LIFO (Last In First Out) que permite apilar (push) y desapilar (pop) datos.
 
-
-![[Pasted image 20211123211035.png]]
-Para apilar usamos `lista.append(x)` y para desapilar `x = lista.pop()`
 
 ## Colas 
 > Es una estructura de datos de tipo FIFO (First In First Out) que permite encolar y desencolar datos.

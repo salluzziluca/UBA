@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
+            "file": "Algorimos y Programación II/Pila.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuerza ficticia",
+                "query": "caja negra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
+                "file": "Algorimos y Programación II/Pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md"
+                "file": "Algorimos y Programación II/Pila.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
-    "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
-    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
-    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
-    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Física I/2. Dinámica/2.0 Dinámica.md",
-    "Análisis Matemático II/1. R2/1.5 Intersección.md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
-    "Análisis Matemático II/apunte final pequeñito.md"
+    "Algorimos y Programación II/Pila.md",
+    "Algoritmos y Programación I/Pilas y Colas.md",
+    "Algorimos y Programación II/Plantilla_de_trabajos_practicos_para_Algoritmos_y_Programacion_II_FIUBA.md",
+    "conflict-files-obsidian-git.md",
+    "Algorimos y Programación II/Casteo.md",
+    "Algorimos y Programación II/Testeo.md",
+    "Algorimos y Programación II/Punteros.md",
+    "Análisis Matemático II/apunte final pequeñito.md",
+    "Algorimos y Programación II/Main.md",
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
   ]
 }

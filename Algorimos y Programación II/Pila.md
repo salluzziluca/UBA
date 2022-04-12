@@ -29,3 +29,8 @@ Para ver si puedo desapilar ---> `tope=0`
 
 ### Algunas ideas
 ![[Pasted image 20220412190154.png]]
+
+#### Complejidad algorítmica
+![[Pasted image 20220412192113.png]]
+
+En el caso de push, el peor caso seria tener un elemento mas grande que el vector, por lo que hay que pedir mas memoria y mover los n elementos

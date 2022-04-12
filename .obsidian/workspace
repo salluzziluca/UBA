@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nodo Enlazado.md",
+            "file": "Cola.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodo Enlazado.md",
+                "file": "Cola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodo Enlazado.md"
+                "file": "Cola.md"
               }
             }
           },
@@ -146,15 +145,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
-    "Nodo Enlazado.md",
+    "Cola.md",
     "Algorimos y Programación II/Pila.md",
     "Algoritmos y Programación I/Pilas y Colas.md",
+    "Nodo Enlazado.md",
     "Algorimos y Programación II/Plantilla_de_trabajos_practicos_para_Algoritmos_y_Programacion_II_FIUBA.md",
     "conflict-files-obsidian-git.md",
     "Algorimos y Programación II/Casteo.md",
     "Algorimos y Programación II/Testeo.md",
     "Algorimos y Programación II/Punteros.md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Algorimos y Programación II/Main.md"
+    "Análisis Matemático II/apunte final pequeñito.md"
   ]
 }

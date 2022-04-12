@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+            "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "7dda6a0357aeabf8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ecuacion plano",
+                "query": "fuerza ficticia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+                "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/1. Cinemática/1.2 Sistema de Referencia.md"
+                "file": "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md"
               }
             }
           },
@@ -145,15 +153,15 @@
   },
   "active": "c363df1fec3cde2d",
   "lastOpenFiles": [
+    "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
+    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
+    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
     "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Física I/2. Dinámica/2.0 Dinámica.md",
     "Análisis Matemático II/1. R2/1.5 Intersección.md",
     "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Total Exacta (Diferencial Total).md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Homogéneas.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md"
+    "Análisis Matemático II/apunte final pequeñito.md"
   ]
 }

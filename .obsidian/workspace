@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md"
+                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md"
               }
             }
           },
@@ -145,12 +145,12 @@
   },
   "active": "82e772008cf2b07b",
   "lastOpenFiles": [
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Sucesivas.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Cruzadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Gradiente.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
     "Física I/2. Dinámica/2.0 Dinámica.md",

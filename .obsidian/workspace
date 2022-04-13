@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c363df1fec3cde2d",
+        "id": "d8ca7a8f9c820057",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorimos y Programación II/Pila.md",
+            "file": "Física I/2. Dinámica/2.6 Impulso.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caja negra",
+                "query": "impulso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorimos y Programación II/Pila.md",
+                "file": "Física I/2. Dinámica/2.6 Impulso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorimos y Programación II/Pila.md"
+                "file": "Física I/2. Dinámica/2.6 Impulso.md"
               }
             }
           },
@@ -143,8 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c363df1fec3cde2d",
+  "active": "d8ca7a8f9c820057",
   "lastOpenFiles": [
+    "Física I/2. Dinámica/2.6 Impulso.md",
+    "Física I/2. Dinámica/2.0 Dinámica.md",
     "Algorimos y Programación II/Pila.md",
     "Listaa.md",
     "Cola.md",
@@ -152,8 +155,6 @@
     "Nodo Enlazado.md",
     "Algorimos y Programación II/Plantilla_de_trabajos_practicos_para_Algoritmos_y_Programacion_II_FIUBA.md",
     "conflict-files-obsidian-git.md",
-    "Algorimos y Programación II/Casteo.md",
-    "Algorimos y Programación II/Testeo.md",
-    "Algorimos y Programación II/Punteros.md"
+    "Algorimos y Programación II/Casteo.md"
   ]
 }

@@ -31,6 +31,37 @@ Para ver si puedo desapilar ---> `tope=0`
 ![[Pasted image 20220412190154.png]]
 
 #### Complejidad algorítmica
+##### Vector estatico 
+- Crear:
+				O(1)
+- Destruir 
+				O(1)/O(n)
+- Push
+				O(n)
+- Pop
+				O(n)
+
+##### Vector dinámico
+- Crear:
+				O(1)
+- Destruir 
+				O(1)/O(n)
+- Push
+				O(n)
+- Pop
+				O(n)
+
+##### Nodos enlazados
+- Crear:
+				O(1)
+- Destruir 
+				O(1)/O(n)
+- Push
+				O(n)
+- Pop
+				O(n)
+
+
 ![[Pasted image 20220412192113.png]]
 
 En el caso de push, el peor caso seria tener un elemento mas grande que el vector, por lo que hay que pedir mas memoria y mover los n elementos

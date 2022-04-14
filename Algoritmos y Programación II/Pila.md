@@ -3,13 +3,13 @@
 
 
 ![[Pasted image 20211123211035.png]]
-## Operaciones
+## Operaciones o primitivas
 - Crear (create): Crear la pila
-Apilar (push) (ponerle un item en la parte de arriba de la pila)
-tope (top): sumar, restar o preguntar el tope
-destruir (destroy): destruir la pila
-desapilar (pop): desapilar un elemento de arriba de la pila
-estáVacia(isEmpty): fijarse si la pila está vacia
+- Apilar (push) (ponerle un item en la parte de arriba de la pila)
+- tope (top): sumar, restar o preguntar el tope
+- destruir (destroy): destruir la pila
+- desapilar (pop): desapilar un elemento de arriba de la pila
+- estaVacia(isEmpty): fijarse si la pila está vacia
 
 ## Implementaciones
 ### Vector estático

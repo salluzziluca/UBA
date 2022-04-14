@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/1. Cinemática/1.6 Movimiento Relativo.md",
+            "file": "Algoritmos y Programación II/Pila.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/1. Cinemática/1.6 Movimiento Relativo.md",
+                "file": "Algoritmos y Programación II/Pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/1. Cinemática/1.6 Movimiento Relativo.md"
+                "file": "Algoritmos y Programación II/Pila.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "82e772008cf2b07b",
   "lastOpenFiles": [
-    "Física I/1. Cinemática/1.6 Movimiento Relativo.md",
-    "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Sucesivas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Cruzadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md"
+    "Algoritmos y Programación II/Pila.md",
+    "Algoritmos y Programación II/Cola.md",
+    "Algoritmos y Programación I/Algoritmos y Programacion I.md",
+    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
+    "Algoritmos y Programación II/Compliación.md",
+    "Algoritmos y Programación II/Informe TP1.md",
+    "Algoritmos y Programación II/Lista.md",
+    "Algoritmos y Programación II/Manejo de Memoria.md",
+    "Algoritmos y Programación II/Nodo Enlazado.md",
+    "Algoritmos y Programación II/Punteros.md"
   ]
 }

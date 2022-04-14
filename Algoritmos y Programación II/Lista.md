@@ -1,3 +1,4 @@
+# Lista
 > Es un TDA que agrupa elementos. Sin restricciones
 
 Cada elemento tiene un sucesor y un predecesor

@@ -1,4 +1,4 @@
-> Es una TDA ddel tipo FIFO (First In First Out) que permite encolar y desencolar datos.
+ Es una TDA ddel tipo FIFO (First In First Out) que permite encolar y desencolar datos.
 
 ![[Pasted image 20211123212205.png]]
 

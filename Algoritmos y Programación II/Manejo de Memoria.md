@@ -1,3 +1,5 @@
+
+# Manejo de Memoria
 ## malloc()
 Para pedir x cantidad de memoria en el heap (dinámica) usamos malloc(valor). Ese valor va a ser la cantidad de bytes que nos de. 
 ej `void *mi_bloque = malloc(500)` o  `void *mi_bloque_2 = malloc(sizeof(int))`
@@ -22,7 +24,7 @@ int *bloque=malloc(sizeof(int));
 realloc(*bloque, 2*sizeof(int));
 ```
 
-Si el puntero que le pasamos a realloc es NULL funciona igual que [[Manejo de memoria#malloc|malloc()]]
+Si el puntero que le pasamos a realloc es NULL funciona igual que [[Manejo de Memoria#malloc|malloc()]]
 
 En el caso de [[Archivos en C|lectura de archivos en C]], no sabemos cuanta memoria vamos a necesitar. Si cada linea ocupa 200 bytes podemos ir sumando cada 2 lineas 400 bytes o asi.
 

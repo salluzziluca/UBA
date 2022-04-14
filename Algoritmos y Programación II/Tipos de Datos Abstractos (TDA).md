@@ -25,3 +25,9 @@ Cuando existen errores dentro de un programa, es más fácil detectarlo, pues la
 
 - Encapsulamiento 
 Es la propiedad por la cual un TDA debe exponer la menor cantidad posible de informacion del como esta implementado, haciendo que el usuario se base en las funciones que él mismo entiende.
+
+Tipos de TDA: 
+- [[Pila]]
+- [[Cola]]
+- [[Lista]]
+- [[Nodo Enlazado]]

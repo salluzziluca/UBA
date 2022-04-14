@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
+            "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"derivadas cruzadas\"",
+                "query": "\"radio de curvatura\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
+                "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md"
+                "file": "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md"
               }
             }
           },
@@ -145,6 +147,7 @@
   },
   "active": "82e772008cf2b07b",
   "lastOpenFiles": [
+    "Física I/1. Cinemática/1.3 Movimiento Curvilíneo.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Gradiente.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
@@ -153,7 +156,6 @@
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Cruzadas.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
-    "Física I/2. Dinámica/2.0 Dinámica.md",
-    "Física I/1. Cinemática/1.7 Movimiento Circular.md"
+    "Física I/2. Dinámica/2.0 Dinámica.md"
   ]
 }

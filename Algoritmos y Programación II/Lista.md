@@ -11,10 +11,10 @@ Cada elemento tiene un sucesor y un predecesor
 - Ver elemento (ﬁnd)
 
 ## Tipos de listas
-### Simplemente enlazada
+### Lista de nodos simplemente enlazada
 - Cada elemento apunta al sucesor
 - Cada uno con referencia al nodo siguiente
-- Lista mantiene referencia al primer nodo
+- Lista mantiene referencia al primer nodo y al ultimo, depende de implentacion.
 
 #### ¿Cuándo reservo / libero memoria?
 - Reservo memoria para cada nodo
@@ -26,6 +26,7 @@ Cada elemento tiene un sucesor y un predecesor
 Para insertar creo el nodo y lo apunto a un elemento posterior, despues apunto otro al anterior
 ![[Pasted image 20220412204311.png]]
 O usamos un aux
+
 ##### Eliminar
 ![[Pasted image 20220412204449.png]]
 ### Doblemente enlazada

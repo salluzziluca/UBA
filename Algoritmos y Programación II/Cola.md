@@ -27,5 +27,35 @@ Si esto ocurre, podemos intentar mover todo un lugar todo para atras
 Otra forma, es con una cola circular, en la que el tope siempre va a estar persiguiendo al principio
 ![[Pasted image 20220414175723.png]]
 ![[Pasted image 20220414175708.png]]
+- Crear:
+				O(1)
+- Destruir 
+				O(1)/O(n)
+- Encolar
+				O(1)
+- Desencolar
+				Desplazando elementos O(n), cola circular O(1)
 
 ### Cola con [[Nodo Enlazado|nodos en lazados]]
+![[Pasted image 20220414193059.png]]
+Tenemos una variable que apunta al principio y otra al final. 
+
+#### Encolar
+Le decimos al nodo final que apunte al proximo y luego cambiamos de nodo final.
+![[Pasted image 20220414193151.png]]
+![[Pasted image 20220414193211.png]]
+![[Pasted image 20220414193218.png]]
+
+#### Desencolar
+Guardamos el nodo principio en un auxiliar, movemos principio al proximo nodo y desencolamos el nodo auxiliar.
+![[Pasted image 20220414193348.png]]
+![[Pasted image 20220414193406.png]]
+
+- Crear:
+				O(1)
+- Destruir 
+				O(1)/O(n)
+- Encolar
+				O(1)
+- Desencolar
+				O(1)

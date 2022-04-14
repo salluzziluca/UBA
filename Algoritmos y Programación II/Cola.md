@@ -27,6 +27,5 @@ Si esto ocurre, podemos intentar mover todo un lugar todo para atras
 Otra forma, es con una cola circular, en la que el tope siempre va a estar persiguiendo al principio
 ![[Pasted image 20220414175723.png]]
 ![[Pasted image 20220414175708.png]]
-### Cola con vector dinámico
 
 ### Cola con [[Nodo Enlazado|nodos en lazados]]

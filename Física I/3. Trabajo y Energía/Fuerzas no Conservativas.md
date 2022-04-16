@@ -9,6 +9,6 @@ Si queremos saber si una fuerza es o no conservativa usamos el [[Teorema de Stok
 ![[Pasted image 20211002231307.png]]
 La cinetica, la potencial gravitatoria y la potencial elastica (si la hay) se compensan para mantener constante la energia mecánica.
 
-| Potencial Gravitatoria | Cinetica | Elástica |
+| Potencial Gravitatoria | Potencial Cinetica | Potencial Elástica |
 | ---------------------- | -------- | -------- |
 | $m.g.h$                       | $\frac 1 2.m.v^2$       |   $\frac 1 2 . k . x$       |

@@ -7,8 +7,12 @@
         "id": "7c63ac2eb6f09bd2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
   },
   "active": "7c63ac2eb6f09bd2",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Tarea para mi jermu.md",
     "a.md",
@@ -146,7 +154,6 @@
     "Untitled.md",
     "Algoritmos y Programación II/Pila.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md"
   ]
 }

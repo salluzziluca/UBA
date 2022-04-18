@@ -65,3 +65,5 @@ Para ver si puedo desapilar ---> `tope=0`
 ![[Pasted image 20220412192113.png]]
 
 En el caso de push, el peor caso seria tener un elemento mas grande que el vector, por lo que hay que pedir mas memoria y mover los n elementos
+
+<iframe src="\[https://www.notiondraw.com/\](https://www.notiondraw.com/)" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="800px" allowfullscreen></iframe> 

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82e772008cf2b07b",
+        "id": "7c63ac2eb6f09bd2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmos y Programación II/Pila.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algoritmos y Programación II/Pila.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82e772008cf2b07b",
+  "active": "7c63ac2eb6f09bd2",
   "lastOpenFiles": [
+    "Análisis Matemático II/Análisis Matemático II.md",
+    "Tarea para mi jermu.md",
+    "a.md",
+    "Excalidraw/Drawing 2022-04-18 13.34.50.excalidraw.md",
+    "Tarea para mi mujer.md",
+    "Untitled.md",
     "Algoritmos y Programación II/Pila.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
   ]
 }

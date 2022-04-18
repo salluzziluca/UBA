@@ -1,4 +1,5 @@
 # Ejercicio 1
+![[a]]
 
 ## $$ y = \frac {2x+4}{x-3}$$
 #### Dominio

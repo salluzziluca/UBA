@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/2. Dinámica/2.6 Impulso.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac {v^2} {radio}",
+                "query": "trabajo fuerza roza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/2. Dinámica/2.6 Impulso.md",
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/2. Dinámica/2.6 Impulso.md"
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
               }
             }
           },
@@ -145,15 +146,15 @@
   },
   "active": "7c63ac2eb6f09bd2",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
     "Física I/2. Dinámica/2.6 Impulso.md",
     "Física I/3. Trabajo y Energía/3.1 Potencia.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Tarea para mi jermu.md",
     "a.md",
     "Excalidraw/Drawing 2022-04-18 13.34.50.excalidraw.md",
-    "Tarea para mi mujer.md",
-    "Untitled.md"
+    "Tarea para mi mujer.md"
   ]
 }

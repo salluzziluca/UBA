@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"energia mecánica\"",
+                "query": "impul",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md"
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "320ec47de016ebf7",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
+    "Física I/2. Dinámica/2.6 Impulso.md",
+    "Física I/3. Trabajo y Energía/3.1 Potencia.md",
     "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
     "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "conflict-files-obsidian-git.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/3. Funciones/3.4 Curva.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

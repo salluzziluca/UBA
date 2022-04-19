@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7c63ac2eb6f09bd2",
+        "id": "9c7cb6bf3f0f52e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/2. Dinámica/2.0 Dinámica.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b368010f71b9aa9a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Física I/2. Dinámica/2.6 Impulso.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impulso",
+                "query": "intr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/2. Dinámica/2.6 Impulso.md",
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/2. Dinámica/2.6 Impulso.md"
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
               }
             }
           },
@@ -156,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b368010f71b9aa9a",
+  "active": "9c7cb6bf3f0f52e3",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Física I/1. Cinemática/1.0 Cinemática.md",
     "Física I/2. Dinámica/2.6 Impulso.md",
     "Física I/2. Dinámica/2.0 Dinámica.md",
     "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
     "Física I/3. Trabajo y Energía/3.1 Potencia.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Tarea para mi jermu.md",
-    "a.md",
-    "Excalidraw/Drawing 2022-04-18 13.34.50.excalidraw.md"
+    "a.md"
   ]
 }

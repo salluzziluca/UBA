@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+            "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85adcd9a8d0c0b15",
+  "active": "2a08103cf4fa3403",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "conflict-files-obsidian-git.md",
+    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Física I/3. Trabajo y Energía/3.1 Potencia.md",
-    "Física I/2. Dinámica/2.6 Impulso.md"
+    "Física I/3. Trabajo y Energía/3.1 Potencia.md"
   ]
 }

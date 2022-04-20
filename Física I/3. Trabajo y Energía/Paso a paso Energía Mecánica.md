@@ -6,7 +6,7 @@
 
 | Potencial Gravitatoria | Cinetica | Elástica |
 | ---------------------- | -------- | -------- |
-| $m.g.h$                       | $\frac 1 2.m.v^2$       |   $\frac 1 2 . k . x$       |
+| $m.g.h$                       | $\frac 1 2.m.v^2$       |   $\frac 1 2 . k . x²$       |
 
 Ej: 
 ![[Pasted image 20211002232735.png]]

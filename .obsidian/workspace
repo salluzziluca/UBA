@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "320ec47de016ebf7",
+        "id": "2a08103cf4fa3403",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "85adcd9a8d0c0b15",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "320ec47de016ebf7",
+  "active": "85adcd9a8d0c0b15",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Física I/3. Trabajo y Energía/3.1 Potencia.md",
-    "Física I/2. Dinámica/2.6 Impulso.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
-    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
-    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
-    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md"
+    "Física I/2. Dinámica/2.6 Impulso.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "2a08103cf4fa3403",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
     "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "conflict-files-obsidian-git.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",

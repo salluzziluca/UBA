@@ -7,8 +7,12 @@
         "id": "9c7cb6bf3f0f52e3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmos y Programación II/Algoritmos Recursivos.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos y Programación II/Algoritmos Recursivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmos y Programación II/Algoritmos Recursivos.md"
+              }
             }
           },
           {
@@ -138,6 +146,7 @@
   },
   "active": "9c7cb6bf3f0f52e3",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Algoritmos Recursivos.md",
     "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/3. Trabajo y Energía/Paso a paso trabajo.md",
@@ -146,7 +155,6 @@
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
     "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
-    "Física I/1. Cinemática/1.0 Cinemática.md"
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
   ]
 }

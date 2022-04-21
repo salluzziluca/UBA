@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 14771747
       }
+    },
+    {
+      "query": "path:\"Algoritmos y Programación II\"",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 13.2941176470588,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2346870788094777,
+  "scale": 0.06699983039941775,
   "close": false
 }

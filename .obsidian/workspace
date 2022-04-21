@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Algoritmos Recursivos.md",
+            "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LEY DE HO",
+                "query": "teorema maestro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Algoritmos Recursivos.md",
+                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Algoritmos Recursivos.md"
+                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "9c7cb6bf3f0f52e3",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Algoritmos Recursivos.md",
     "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
@@ -154,7 +155,6 @@
     "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
-    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md"
+    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md"
   ]
 }

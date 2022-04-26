@@ -8,3 +8,13 @@ Los nodos se dividen por niveles (1ero, 2do, 3ero, etc)
 
 Un nodo puede tener padre y puede tener hijos. El nodo raiz no tiene padres. Los nodos hoja no tienen hijos. En este grafico hay 7 nodos hoja.
 Las hojas nos ayudan a ver cuando llegamos al final de una rama
+
+## Arbol binario
+
+## Preorden (preorder)
+>Primero se visita el nodo actual, luego el subarbol izq, luego el derecho.
+![[Pasted image 20220426190605.png]]
+	recorrido A-B-D-H-I-E-C-F-G-J
+
+## Inorder
+>Primero se visita el subarbol izquierdo, luego el nodo actual, luego el subarbol derecho

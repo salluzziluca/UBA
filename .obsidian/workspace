@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Informe TP1.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Informe TP1.md",
+                "file": "Algoritmos y Programación II/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Informe TP1.md"
+                "file": "Algoritmos y Programación II/Arboles.md"
               }
             }
           },
@@ -145,6 +146,8 @@
   },
   "active": "9c7cb6bf3f0f52e3",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Arboles.md",
+    "Algoritmos y Programación II/Archivos en C.md",
     "Algoritmos y Programación II/Informe TP1.md",
     "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Algoritmos Recursivos.md",
@@ -152,8 +155,6 @@
     "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
     "Física I/3. Trabajo y Energía/Paso a paso trabajo.md",
     "Física I/3. Trabajo y Energía/Trabajo de Fuerzas Centrales.md",
-    "Física I/3. Trabajo y Energía/Teorema de Stokes.md",
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md"
+    "Física I/3. Trabajo y Energía/Teorema de Stokes.md"
   ]
 }

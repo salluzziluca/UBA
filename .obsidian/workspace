@@ -1,27 +1,15 @@
 {
   "main": {
-    "id": "ef1e02436ac9c992",
+    "id": "c5dba1f489d6d913",
     "type": "split",
     "children": [
       {
-        "id": "2a08103cf4fa3403",
+        "id": "370d00a2cb28d9a3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "85adcd9a8d0c0b15",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
             "mode": "source",
             "source": false
           }
@@ -31,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6612a54442734667",
+    "id": "f935126e3828cf85",
     "type": "split",
     "children": [
       {
-        "id": "74d35282a705107a",
+        "id": "e6903087649ada20",
         "type": "tabs",
         "children": [
           {
-            "id": "9a79e0736b09572d",
+            "id": "2b135570267ce77d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,13 +35,13 @@
             }
           },
           {
-            "id": "28fc762ad0b43c67",
+            "id": "7833dfdbd806c549",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "maxima ",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -62,7 +50,7 @@
             }
           },
           {
-            "id": "c8d607776b4c33b2",
+            "id": "effca5ccf234a970",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,35 +61,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
-    "id": "436c5de0b71fa9ef",
+    "id": "758fe385f1608cc4",
     "type": "split",
     "children": [
       {
-        "id": "63a996253cd9efbb",
+        "id": "1b4ea5c0bf720189",
         "type": "tabs",
         "children": [
           {
-            "id": "665ab3eea9f75da7",
+            "id": "a40772c3fd460b18",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
+                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2951290f6d2c0036",
+            "id": "452aa1c74735f0b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,39 +100,12 @@
             }
           },
           {
-            "id": "0b593a34e27ff9c4",
+            "id": "254e6d14aace4c81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
-              }
-            }
-          },
-          {
-            "id": "fb50f0fe0be36d5e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "146ea6bfbcd342ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0a43c2493001366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-                "mode": "source",
-                "source": false
+                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md"
               }
             }
           }
@@ -155,17 +116,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a08103cf4fa3403",
+  "active": "370d00a2cb28d9a3",
   "lastOpenFiles": [
-    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
-    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
-    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
     "conflict-files-obsidian-git.md",
-    "Física I/3. Trabajo y Energía/Fuerzas no Conservativas.md",
-    "Física I/2. Dinámica/Sistemas de Referencia No Inerciales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.4 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.5 Aproximación Lineal.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Física I/3. Trabajo y Energía/3.1 Potencia.md"
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/5.0 Composición de Funciones y Funciones Implicitas.md"
   ]
 }

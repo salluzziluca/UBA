@@ -10,11 +10,23 @@ Un nodo puede tener padre y puede tener hijos. El nodo raiz no tiene padres. Los
 Las hojas nos ayudan a ver cuando llegamos al final de una rama
 
 ## Arbol binario
+> Es un arbol en el que cada padre tiene dos hijos como maximo. 
 
 ## Preorden (preorder)
 >Primero se visita el nodo actual, luego el subarbol izq, luego el derecho.
 ![[Pasted image 20220426190605.png]]
 	recorrido A-B-D-H-I-E-C-F-G-J
+	![[Pasted image 20220426192343.png]]
 
 ## Inorder
 >Primero se visita el subarbol izquierdo, luego el nodo actual, luego el subarbol derecho
+>![[Pasted image 20220426192143.png]]
+>Recorrido: H-D-I-B-E-A-F-C-J-G
+
+## Postorder
+Primero se visita el subarbol izquierdo, luego el subarbol derecho, luego el nodo actual
+
+
+## Arboles de busqueda binario
+
+![[Pasted image 20220426194116.png]]

@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+            "file": "Algoritmos y Programación I/Listas.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "momento",
+                "query": "sortin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+                "file": "Algoritmos y Programación I/Listas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
+                "file": "Algoritmos y Programación I/Listas.md"
               }
             }
           },
@@ -159,6 +158,8 @@
   },
   "active": "c9378beb1c67592d",
   "lastOpenFiles": [
+    "Algoritmos y Programación I/Listas.md",
+    "Algoritmos y Programación I/Metodos de Ordenamiento.md",
     "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
     "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
     "Física I/2. Dinámica/Momento y Momento Angular.md",
@@ -166,8 +167,6 @@
     "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
     "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/Archivos en C.md",
-    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.md",
-    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
-    "Algoritmos y Programación II/Informe TP1.md"
+    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.md"
   ]
 }

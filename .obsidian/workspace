@@ -5,13 +5,15 @@
     "children": [
       {
         "id": "370d00a2cb28d9a3",
+        "id": "c9378beb1c67592d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
             "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
             "mode": "source",
             "source": false
+            "file": "Excalidraw/Dibujo pila desapilar.md"
           }
         }
       }
@@ -41,6 +43,7 @@
               "type": "search",
               "state": {
                 "query": "",
+                "query": "sortin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "758fe385f1608cc4",
@@ -78,6 +82,7 @@
               "type": "backlink",
               "state": {
                 "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
+                "file": "Excalidraw/Dibujo pila desapilar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,34 @@
               "type": "outline",
               "state": {
                 "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md"
+                "file": "Excalidraw/Dibujo pila desapilar.md"
+              }
+            }
+          },
+          {
+            "id": "fb50f0fe0be36d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "146ea6bfbcd342ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a43c2493001366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,5 +154,17 @@
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
     "conflict-files-obsidian-git.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/5.0 Composición de Funciones y Funciones Implicitas.md"
+  "active": "c9378beb1c67592d",
+  "lastOpenFiles": [
+    "Excalidraw/Dibujo pila desapilar.md",
+    "Excalidraw/Dibujo pila apilar.md",
+    "Excalidraw/Dibujo Pila.md",
+    "Excalidraw/Iterador.md",
+    "Algoritmos y Programación I/Listas.md",
+    "Algoritmos y Programación I/Metodos de Ordenamiento.md",
+    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
+    "Física I/2. Dinámica/Momento y Momento Angular.md",
+    "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md"
   ]
 }

@@ -7,8 +7,12 @@
         "id": "9b1e4a6fb63e5003",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmos y Programación II/Pila.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos y Programación II/Pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmos y Programación II/Pila.md"
+              }
             }
           }
         ]
@@ -110,5 +117,7 @@
     "collapsed": true
   },
   "active": "9b1e4a6fb63e5003",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Algoritmos y Programación II/Pila.md"
+  ]
 }

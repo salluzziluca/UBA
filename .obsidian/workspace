@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9b1e4a6fb63e5003",
+        "id": "0dfa3bb60214be79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Pila.md",
+            "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Pila.md",
+                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Pila.md"
+                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md"
               }
             }
           }
@@ -116,8 +116,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b1e4a6fb63e5003",
+  "active": "0dfa3bb60214be79",
   "lastOpenFiles": [
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
+    "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
     "Algoritmos y Programación II/Pila.md"
   ]
 }

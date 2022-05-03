@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/AVL.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/AVL.md",
+                "file": "Algoritmos y Programación II/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/AVL.md"
+                "file": "Algoritmos y Programación II/Arboles.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "93806cfac0b1a223",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/AVL.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/informe_tda1.md",
@@ -153,7 +154,6 @@
     "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
     "Excalidraw/Diagbrama de memoria.md",
     "Excalidraw/Dibujo Cola.md",
-    "Excalidraw/Dibujo pila desapilar.md",
-    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.md"
+    "Excalidraw/Dibujo pila desapilar.md"
   ]
 }

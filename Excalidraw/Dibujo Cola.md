@@ -8,32 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-Nodo 1 ^8P8IlEFA
-
-Nodo 2 ^Kvew9D7q
-
-Nodo 3 ^rRpc2eQP
-
-Nodo 4 ^cuaQT1g7
-
-Nodo 5 ^kM0HHNUs
-
-Lista ^VwXCdlRB
-
-inicio ^URVnYZWl
-
-fin ^Kt6nBSZm
-
-cantidad ^IPJjJXmW
-
-COLA
-
- ^PwAPkGZj
-
-lista ^c2cbHGjq
-
-Nodo 6 ^oMHzlfQF
-
 %%
 # Drawing
 ```json
@@ -44,8 +18,8 @@ Nodo 6 ^oMHzlfQF
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 148,
-			"versionNonce": 1485139288,
+			"version": 151,
+			"versionNonce": 521489375,
 			"isDeleted": false,
 			"id": "Me0C-tUC8CSMdbQvccrua",
 			"fillStyle": "hachure",
@@ -73,14 +47,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 504511064,
+			"version": 81,
+			"versionNonce": 10298769,
 			"isDeleted": false,
 			"id": "8P8IlEFA",
 			"fillStyle": "hachure",
@@ -99,7 +73,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -114,8 +88,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 164,
-			"versionNonce": 1859433512,
+			"version": 167,
+			"versionNonce": 1063155711,
 			"isDeleted": false,
 			"id": "v5vNKVH2a3EGykBtHkLKl",
 			"fillStyle": "hachure",
@@ -143,14 +117,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 294203224,
+			"version": 101,
+			"versionNonce": 1172589425,
 			"isDeleted": false,
 			"id": "Kvew9D7q",
 			"fillStyle": "hachure",
@@ -169,7 +143,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -184,8 +158,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 171,
-			"versionNonce": 488505944,
+			"version": 174,
+			"versionNonce": 837623839,
 			"isDeleted": false,
 			"id": "ocHFzFA2AmzcPKsGu24yz",
 			"fillStyle": "hachure",
@@ -213,14 +187,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 1146717272,
+			"version": 108,
+			"versionNonce": 118207825,
 			"isDeleted": false,
 			"id": "rRpc2eQP",
 			"fillStyle": "hachure",
@@ -239,7 +213,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -254,8 +228,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 143,
-			"versionNonce": 1299967784,
+			"version": 146,
+			"versionNonce": 145867839,
 			"isDeleted": false,
 			"id": "p1T_ps2ELCVCze-J-eR6g",
 			"fillStyle": "hachure",
@@ -283,14 +257,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 1146567000,
+			"version": 81,
+			"versionNonce": 1735058225,
 			"isDeleted": false,
 			"id": "cuaQT1g7",
 			"fillStyle": "hachure",
@@ -309,7 +283,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -324,8 +298,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 188,
-			"versionNonce": 1272706904,
+			"version": 191,
+			"versionNonce": 1133306975,
 			"isDeleted": false,
 			"id": "C-6dPkf2-2roOwja1M1xR",
 			"fillStyle": "hachure",
@@ -357,14 +331,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 121,
-			"versionNonce": 1154895448,
+			"version": 124,
+			"versionNonce": 862541073,
 			"isDeleted": false,
 			"id": "kM0HHNUs",
 			"fillStyle": "hachure",
@@ -383,7 +357,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -398,8 +372,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 260,
-			"versionNonce": 92854616,
+			"version": 263,
+			"versionNonce": 307167359,
 			"isDeleted": false,
 			"id": "B8sOEehoAcvnwzR_zfWYP",
 			"fillStyle": "hachure",
@@ -418,7 +392,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -447,8 +421,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 212,
-			"versionNonce": 386795560,
+			"version": 215,
+			"versionNonce": 1048480497,
 			"isDeleted": false,
 			"id": "FpFpxyXCInugCO9SxpF69",
 			"fillStyle": "hachure",
@@ -467,7 +441,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -496,8 +470,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 172,
-			"versionNonce": 785641048,
+			"version": 175,
+			"versionNonce": 1454938271,
 			"isDeleted": false,
 			"id": "uQFssxgArcaETtKPGJSCC",
 			"fillStyle": "hachure",
@@ -516,7 +490,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -545,8 +519,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 1265287976,
+			"version": 183,
+			"versionNonce": 20055249,
 			"isDeleted": false,
 			"id": "vd2BgSzY5aHiRZy4ieCyy",
 			"fillStyle": "hachure",
@@ -565,7 +539,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -594,8 +568,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 146,
-			"versionNonce": 1770244648,
+			"version": 149,
+			"versionNonce": 1719282879,
 			"isDeleted": false,
 			"id": "78ZjMQyMyTN7YFQNqD97o",
 			"fillStyle": "hachure",
@@ -619,14 +593,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 220450136,
+			"version": 102,
+			"versionNonce": 1998275249,
 			"isDeleted": false,
 			"id": "VwXCdlRB",
 			"fillStyle": "hachure",
@@ -645,7 +619,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -660,8 +634,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "text",
-			"version": 135,
-			"versionNonce": 957566040,
+			"version": 138,
+			"versionNonce": 221527263,
 			"isDeleted": false,
 			"id": "URVnYZWl",
 			"fillStyle": "hachure",
@@ -685,7 +659,7 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.678119349005424,
@@ -700,8 +674,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "text",
-			"version": 109,
-			"versionNonce": 1861247576,
+			"version": 112,
+			"versionNonce": 1021428881,
 			"isDeleted": false,
 			"id": "Kt6nBSZm",
 			"fillStyle": "hachure",
@@ -720,7 +694,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675698,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.315614617940152,
@@ -735,8 +709,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "text",
-			"version": 116,
-			"versionNonce": 8359720,
+			"version": 119,
+			"versionNonce": 1316440319,
 			"isDeleted": false,
 			"id": "IPJjJXmW",
 			"fillStyle": "hachure",
@@ -755,7 +729,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -770,8 +744,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 221,
-			"versionNonce": 133456728,
+			"version": 224,
+			"versionNonce": 1849494129,
 			"isDeleted": false,
 			"id": "W-4f8lykdOroie8Q41wSh",
 			"fillStyle": "hachure",
@@ -790,7 +764,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -823,8 +797,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 75,
-			"versionNonce": 991128104,
+			"version": 78,
+			"versionNonce": 1740886303,
 			"isDeleted": false,
 			"id": "d2zYoL9P5L1K-BuOHFTdY",
 			"fillStyle": "hachure",
@@ -843,14 +817,14 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 43,
-			"versionNonce": 232277288,
+			"version": 46,
+			"versionNonce": 1140102225,
 			"isDeleted": false,
 			"id": "UjseF74NbuUwcY6hlBRy6",
 			"fillStyle": "hachure",
@@ -874,14 +848,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 42,
-			"versionNonce": 1282663720,
+			"version": 45,
+			"versionNonce": 311055679,
 			"isDeleted": false,
 			"id": "BqUS7_mGVbP-yeTAg8l4C",
 			"fillStyle": "hachure",
@@ -900,14 +874,14 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458632,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 409,
-			"versionNonce": 1421625128,
+			"version": 413,
+			"versionNonce": 1910497841,
 			"isDeleted": false,
 			"id": "5Cgj8uWxMzFddfiS7I8PI",
 			"fillStyle": "hachure",
@@ -926,7 +900,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194459023,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -959,8 +933,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 69,
-			"versionNonce": 1913454632,
+			"version": 72,
+			"versionNonce": 103503199,
 			"isDeleted": false,
 			"id": "WNgHD0Wn41keuFyqArH94",
 			"fillStyle": "hachure",
@@ -979,14 +953,14 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 51,
-			"versionNonce": 1514071384,
+			"version": 54,
+			"versionNonce": 1155953681,
 			"isDeleted": false,
 			"id": "PwAPkGZj",
 			"fillStyle": "hachure",
@@ -1005,7 +979,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194468183,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"fontSize": 36.074380165289256,
@@ -1020,8 +994,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 98,
-			"versionNonce": 244842840,
+			"version": 101,
+			"versionNonce": 972509567,
 			"isDeleted": false,
 			"id": "3oU_KHRZbj9PAfZETNtjh",
 			"fillStyle": "hachure",
@@ -1049,14 +1023,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1463185960,
+			"version": 83,
+			"versionNonce": 16763377,
 			"isDeleted": false,
 			"id": "c2cbHGjq",
 			"fillStyle": "hachure",
@@ -1075,7 +1049,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1090,8 +1064,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "arrow",
-			"version": 149,
-			"versionNonce": 1824560472,
+			"version": 154,
+			"versionNonce": 1731119519,
 			"isDeleted": false,
 			"id": "1LN1MnM_ZJB_h5FxLhG2-",
 			"fillStyle": "hachure",
@@ -1110,7 +1084,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194459021,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1139,8 +1113,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "rectangle",
-			"version": 241,
-			"versionNonce": 1206214696,
+			"version": 244,
+			"versionNonce": 2134074321,
 			"isDeleted": false,
 			"id": "7PV-OLxZcOlrkNAAdrIAp",
 			"fillStyle": "hachure",
@@ -1172,14 +1146,14 @@ Nodo 6 ^oMHzlfQF
 					"type": "arrow"
 				}
 			],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 331,
-			"versionNonce": 1337207384,
+			"version": 336,
+			"versionNonce": 1258438079,
 			"isDeleted": false,
 			"id": "qs1NhRrvpMl5M20y2OEdZ",
 			"fillStyle": "hachure",
@@ -1198,7 +1172,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651194459023,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1227,8 +1201,8 @@ Nodo 6 ^oMHzlfQF
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 2130046248,
+			"version": 31,
+			"versionNonce": 194560433,
 			"isDeleted": false,
 			"id": "oMHzlfQF",
 			"fillStyle": "hachure",
@@ -1247,7 +1221,7 @@ Nodo 6 ^oMHzlfQF
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1651194458633,
+			"updated": 1651349675699,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,

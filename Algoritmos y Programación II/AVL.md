@@ -3,6 +3,7 @@ Es un tipo de [[Arboles#Arbol binario|arbol binario]] autobalanceado, pensado pa
 
 ![[Pasted image 20220503183147.png]]
 
+![[machete_rotaciones.jpg]]
 ## Factor de balanceo
 Es un atributo que se le agrega a cada nodo, representa la diferencia de alturas entre su subarbol derecho y su subarbol izquierdo. Puede ser -1 0 1 (arbol izquierda mas largo, iguales, arbol derecha mas largo). 
 

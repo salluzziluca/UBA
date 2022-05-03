@@ -1,6 +1,7 @@
 # Fuerzas Conservativas
 No dependen del camino recorrido.
 Dependen exclusivamente de el punto inicial y del punto final
+$$\LARGE \oint_{C^+} \vec f .d\vec s$$
 A lo largo de una curva cerrada su trabajo es 0
 Ej: peso
 
@@ -24,6 +25,7 @@ $E_{g_f} = m*g*y_f$ y la inicial: $E_{g_i} = m * g * y_i$. Esta es la energia po
 ![[Pasted image 20211002225943.png]]
 
 ---
+## Energía Mecánica
 $$E_{mecánica} = E_{cinética} + E_{potencial}$$
 
 ![[Pasted image 20210927085609.png]]

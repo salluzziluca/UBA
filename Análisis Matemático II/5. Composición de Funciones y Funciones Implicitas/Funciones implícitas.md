@@ -21,3 +21,15 @@ entonces (tesis):
 • $\LARGE f'_{(x_i)} (A_n )=- \frac {(F'_{x_i}(A)}{(F'_y(A)} ∀ i=1, 2,…, m$
 
 aBAJO VAN LAS VARIABLES DEPENDIENTE, ARRIBA (15:42)
+
+
+Para mas variabes
+
+$$F(x_0,y_0,z_0)=0$$
+$$G(x_0,y_0,z_0)=0$$
+FyG sean C¹ en un entorno de $(x_0,y_0,z_0)$
+el determinante de la matriz de las dervadas debe ser diferente a cero
+$$ \frac {dF}{dx} \frac {dF}{dy} $$
+$$ $$
+Otra notación: $\LARGE \frac {dFG}{dxy}$ 
+$$ \frac {dF}{dx} *\frac {dG}{dy} - \frac {dG}{dx} * \frac {dF}{dy} \e!= 0 $$

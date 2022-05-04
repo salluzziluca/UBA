@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Variables importantes.md",
+            "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md",
+                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md"
+                "file": "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md"
               }
             }
           },
@@ -146,6 +145,7 @@
   },
   "active": "93806cfac0b1a223",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
     "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
@@ -154,7 +154,6 @@
     "Algoritmos y Programación II/AVL.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/informe_tda1.md",
-    "Algoritmos y Programación II/Informe TP1.md",
-    "Excalidraw/Dibujo pila apilar.md"
+    "Algoritmos y Programación II/Informe TP1.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Punteros.md",
+            "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Punteros.md",
+                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Punteros.md"
+                "file": "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Punteros.md",
-    "Algoritmos y Programación II/Testeo.md",
-    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
-    "Algoritmos y Programación II/Cola.md",
-    "Algoritmos y Programación II/Casteo.md",
-    "Algoritmos y Programación II/AVL.md",
-    "Algoritmos y Programación II/Archivos en C.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Algoritmos y Programación II/Algoritmos Recursivos.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Algoritmos y Programación II/Archivos en C.md",
+    "Algoritmos y Programación II/AVL.md",
+    "Algoritmos y Programación II/Casteo.md",
+    "Algoritmos y Programación II/Cola.md",
+    "Algoritmos y Programación II/Testeo.md",
+    "Algoritmos y Programación II/Punteros.md"
   ]
 }

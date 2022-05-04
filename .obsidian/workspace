@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Arboles.md",
+            "file": "Física I/6. Ondas/Variables importantes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sortin",
+                "query": "\"frecuencia angular\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Arboles.md",
+                "file": "Física I/6. Ondas/Variables importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Arboles.md"
+                "file": "Física I/6. Ondas/Variables importantes.md"
               }
             }
           },
@@ -145,15 +146,15 @@
   },
   "active": "93806cfac0b1a223",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
+    "Física I/2. Dinámica/Momento y Momento Angular.md",
     "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/AVL.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/informe_tda1.md",
     "Algoritmos y Programación II/Informe TP1.md",
-    "Excalidraw/Dibujo pila apilar.md",
-    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
-    "Excalidraw/Diagbrama de memoria.md",
-    "Excalidraw/Dibujo Cola.md",
-    "Excalidraw/Dibujo pila desapilar.md"
+    "Excalidraw/Dibujo pila apilar.md"
   ]
 }

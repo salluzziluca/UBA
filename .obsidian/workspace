@@ -7,9 +7,11 @@
         "id": "5d8c3a2741146624",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Diagramas Física.md"
+            "file": "aux.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Diagramas Física.md",
+                "file": "aux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Diagramas Física.md"
+                "file": "aux.md"
               }
             }
           },
@@ -144,15 +146,15 @@
   },
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
+    "aux.md",
     "Excalidraw/Diagramas Física.md",
     "Algoritmos y Programación II/Arboles.md",
+    "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
     "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md",
     "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Impulso de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Algoritmos y Programación II/Algoritmos Recursivos.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md"
+    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md"
   ]
 }

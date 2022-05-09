@@ -58,7 +58,7 @@ En este trabajo se buscaba afianzar el manejo y el desarrollo de tres Tipos de D
 El archivo de pruebas se compilan utilizando las lineas `gcc -g -std=c99 -Wall -Wconversion -Wtype-limits -pedantic -Werror -O2 src/*.c pruebas.c -o pruebas 2>&1`   y luego se corre mediante el comando `./pruebas 2>&1`
 
 #### Lista
-En mi implementación prioricé la legibilidad al ahorro de líneas, hay funciones (sobre todo las más simples), que se podrían hacer en una sola línea con un retiró, pero preferí crear variables que permitieran entender mejor el paso a paso del código.
+En mi implementación prioricé la legibilidad al ahorro de líneas, hay funciones (sobre todo las más simples), que se podrían hacer en una sola línea con un return, pero preferí crear variables que permitieran entender mejor el paso a paso del código.
 Empecé haciendo las diferentes primitivas de la lista. Implementando desde lo más simple a lo más complejo. Primero creando y destruyendo la lista (con sus respectivas pruebas), para pasar luego a la adición y la sutracción de elementos (tomando en cuenta casos especiales como cantidad igual a 0). En el caso de la eliminación, implementé tanto la eliminación de nodos con elementos no cargados en memoria como de elementos que si necesitaran de su liberación para no presentar ningún error de perdida de bytes. 
 De ahí pasé a la adición y la eliminación de elementos en posiciones, iterando adecuadamente y tomando también en cuenta casos particulares como cantidad mayor a cero, posición igual a cero o posición mayor a cantidad. Para esto modularicé el llenado de nodos, ya que era algo repetitivo y que, si bien modularizarlo no hace la gran diferencia, en mi opinión mejora la legibilidad del código.
 

@@ -35,7 +35,7 @@ Un cuerpo que avanza a la vez que rota
 ![[Pasted image 20211025085013.png]]
 Para obtener la velocidad en el punto, sumamos la velocidad de traslacion del eje más la velocidad de rotación alrededor del eje 
 
-$$\LARGE \vec v_p = \vec v_{eje} + \vec \omega x \vec r_{Pe}$$
+$$\LARGE \vec v_{p/o} = \vec v_{eje} + \vec \omega \times \vec r_{P/o}$$
 
 #### Perfil de velocidades
 ![[Pasted image 20211025085707.png]]

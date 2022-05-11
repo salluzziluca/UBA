@@ -9,7 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -22,9 +21,8 @@
           "type": "markdown",
           "state": {
             "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
+            "file": "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
             "source": false
-          }
         }
       }
     ],
@@ -54,91 +52,3 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "29baea7100879bc4",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "c9d8831b4a1f4ed1",
-    "type": "split",
-    "children": [
-      {
-        "id": "ca5537a11a8e5893",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "960fb8738631da8e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "82221ad48091b31e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "988401a91d879b39",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "active": "1536f274f6d4964f",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "aux.md",
-    "Excalidraw/Dibujo pila apilar.md",
-    "Excalidraw/Dibujo Iterador.md",
-    "Excalidraw/Diagramas Física.md",
-    "Excalidraw/Drawing 2022-05-09 12.40.51.excalidraw.md",
-    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
-    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md"
-  ]
-}

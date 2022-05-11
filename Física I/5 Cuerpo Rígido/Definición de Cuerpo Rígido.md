@@ -10,7 +10,7 @@ Debido a esto, para poder estudiar el comportamiento de el CR debemos tener 6 va
 ### velocidades
 ![[Pasted image 20211027100604.png]]
 Los componentes de las velocidades de dos particulas en una recta deben ser siempre iguales (para que se mantenga la distancia constante)
-$$\LARGE (\vec r^*_Q - \vec r^*_P)(\vec v_Q - \vec v_P) = 0$$
+	$$\LARGE (\vec r^*_Q - \vec r^*_P)(\vec v_Q - \vec v_P) = 0$$
 $$\LARGE\vec v_Q-\vec v_P= \vec \omega \times(\vec r_Q -\vec r_A)$$
 ==TODO CUERPO RIGIDO DEBE CUMPLIR ESTA CONDICION==
 ![[Pasted image 20211027101101.png]]

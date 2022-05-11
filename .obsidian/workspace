@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfa3bb60214be79",
+        "id": "6364bd0c96ad3231",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1536f274f6d4964f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0dfa3bb60214be79",
+  "active": "1536f274f6d4964f",
   "lastOpenFiles": [
-    "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
-    "Algoritmos y Programación I/Atributos.md",
-    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
-    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
-    "Algoritmos y Programación II/Pila.md"
+    "conflict-files-obsidian-git.md",
+    "Algoritmos y Programación II/Arboles.md",
+    "aux.md",
+    "Excalidraw/Dibujo pila apilar.md",
+    "Excalidraw/Dibujo Iterador.md",
+    "Excalidraw/Diagramas Física.md",
+    "Excalidraw/Drawing 2022-05-09 12.40.51.excalidraw.md",
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
+    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md"
   ]
 }

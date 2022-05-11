@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/informe_tda1.md",
+            "file": "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/informe_tda1.md",
+                "file": "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/informe_tda1.md"
+                "file": "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md"
               }
             }
           },
@@ -146,6 +146,8 @@
   },
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
     "Algoritmos y Programación II/informe_tda1.md",
     "Algoritmos y Programación II/Informe TP1.md",
     "Algoritmos y Programación II/Arboles.md",
@@ -153,8 +155,6 @@
     "aux.md",
     "Excalidraw/Diagramas Física.md",
     "Física I/1. Cinemática/1.5 Coordenadas Intrínsecas.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md",
-    "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md"
+    "Algoritmos y Programación II/Algoritmos y Programación II.md"
   ]
 }

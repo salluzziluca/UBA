@@ -7,9 +7,11 @@
         "id": "5d8c3a2741146624",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md"
+            "file": "Algoritmos y Programación I/Metodos de Ordenamiento.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path",
+                "query": "burbujeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md",
+                "file": "Algoritmos y Programación I/Metodos de Ordenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md"
+                "file": "Algoritmos y Programación I/Metodos de Ordenamiento.md"
               }
             }
           },
@@ -144,15 +146,15 @@
   },
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
+    "Algoritmos y Programación I/Metodos de Ordenamiento.md",
+    "Algoritmos y Programación II/Heap.md",
+    "Algoritmos y Programación II/AVL.md",
+    "Algoritmos y Programación II/Arboles.md",
     "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md",
     "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.md",
     "Excalidraw/Drawing 2022-05-09 12.40.51.excalidraw.md",
     "Excalidraw/Drawing 2022-05-12 12.10.13.excalidraw.md",
     "Algoritmos y Programación I/Archivos.md",
-    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Cinemática del Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "Algoritmos y Programación II/informe_tda1.md"
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md"
   ]
 }

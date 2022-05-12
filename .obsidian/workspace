@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f73e70633fa6b19a",
+        "id": "855cff3228684caf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "producto vectori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
+              }
             }
           }
         ]
@@ -109,6 +117,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f73e70633fa6b19a",
-  "lastOpenFiles": []
+  "active": "855cff3228684caf",
+  "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "conflict-files-obsidian-git.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+  ]
 }

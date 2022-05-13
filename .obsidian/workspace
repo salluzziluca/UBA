@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
+            "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
+                "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md"
+                "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "855cff3228684caf",
   "lastOpenFiles": [
+    "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
@@ -127,7 +128,6 @@
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md"
   ]
 }

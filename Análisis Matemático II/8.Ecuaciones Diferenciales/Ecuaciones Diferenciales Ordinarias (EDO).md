@@ -20,7 +20,8 @@ ej:
  Se la denomina asi si se la puede llevar a la forma
     
 
-$$a_n (x) y^((n))+a_(n-1) (x) y^((n-1))+…+a_1 (x) y^′+a_0 (x) y=g(x)$$
+$$a_n (x) y^{((n))}+a_{(n-1)} (x) y^{((n-1))}+…+a_1 (x) y^′+a_0 (x) y=g(x)$$
+Si $g(x)$ es cero, es una [[Ecuaciones Diferenciales Homogéneas]]
 
 ## Variables separadas
 Si l ecuacion tiene o puede llevarse a la forma: 

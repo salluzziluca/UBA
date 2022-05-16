@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "e631e566d857ad23",
+    "id": "ef1e02436ac9c992",
     "type": "split",
     "children": [
       {
-        "id": "855cff3228684caf",
+        "id": "5d8c3a2741146624",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ecf15ee7dede871c",
+    "id": "6612a54442734667",
     "type": "split",
     "children": [
       {
-        "id": "afc064323f72832e",
+        "id": "74d35282a705107a",
         "type": "tabs",
         "children": [
           {
-            "id": "a624fb0281aae03f",
+            "id": "9a79e0736b09572d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "43b719a7f1e83051",
+            "id": "28fc762ad0b43c67",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "producto vectori",
+                "query": "burbujeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "99b72ebe2a03baee",
+            "id": "c8d607776b4c33b2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,36 +61,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
-    "id": "2b711b5043579bc7",
+    "id": "436c5de0b71fa9ef",
     "type": "split",
     "children": [
       {
-        "id": "98cc83841a42dd49",
+        "id": "63a996253cd9efbb",
         "type": "tabs",
         "children": [
           {
-            "id": "e3868deaf1f96e9b",
+            "id": "665ab3eea9f75da7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
+                "file": "Algoritmos y Programación II/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "da6cac920fa5fdcd",
+            "id": "2951290f6d2c0036",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -101,12 +100,39 @@
             }
           },
           {
-            "id": "c9d3ef8f93b5b27c",
+            "id": "0b593a34e27ff9c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Extremos Condicionados.md"
+                "file": "Algoritmos y Programación II/Arboles.md"
+              }
+            }
+          },
+          {
+            "id": "fb50f0fe0be36d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "146ea6bfbcd342ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a43c2493001366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "855cff3228684caf",
+  "active": "5d8c3a2741146624",
   "lastOpenFiles": [
-    "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "conflict-files-obsidian-git.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md"
+    "Algoritmos y Programación II/Arboles.md",
+    "Algoritmos y Programación I/Metodos de Ordenamiento.md",
+    "Algoritmos y Programación II/Heap.md",
+    "Algoritmos y Programación II/AVL.md",
+    "Excalidraw/Drawing 2022-05-05 12.34.01.excalidraw.md",
+    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-09 12.40.51.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-12 12.10.13.excalidraw.md",
+    "Algoritmos y Programación I/Archivos.md",
+    "Física I/5 Cuerpo Rígido/Definición de Cuerpo Rígido.md"
   ]
 }

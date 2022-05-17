@@ -14,8 +14,8 @@ Hay que probarlos en las mismas condiciones porque hay muchos factores externos.
 
 ## Teorema maestro 
 T(n) = aT(n/b) + f(n)
-- a equivale al tamaño del problema. 
-- n equivale a la cantidad de llamadas recursivas que realiza el algoritmo. 
+- n equivale al tamaño del problema. 
+- a equivale a la cantidad de llamadas recursivas que realiza el algoritmo. 
 - b equivale a cuanto se divide el problema para resolverlo recursivamente.
 - f(n) es el costo en tiempo de lo que cuesta dividir y combinar.
 

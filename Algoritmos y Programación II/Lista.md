@@ -42,3 +42,5 @@ Tiene una referencia al predecesor y al sucesor
 
 Cuando la lisa tiene un solo elemento, este apunta a si mismo
 ![[Pasted image 20220412210758.png]]
+
+[[informe_tda1]]

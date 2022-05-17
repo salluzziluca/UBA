@@ -31,3 +31,4 @@ Tipos de TDA:
 - [[Cola]]
 - [[Lista]]
 - [[Nodo Enlazado]]
+- [[Arboles]]

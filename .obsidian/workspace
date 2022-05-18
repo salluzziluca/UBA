@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Sorting.md",
+            "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teorema maestro",
+                "query": "\"producto vectorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Sorting.md",
+                "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Sorting.md"
+                "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md"
               }
             }
           },
@@ -145,15 +146,15 @@
   },
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
+    "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
     "Algoritmos y Programación II/Sorting.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/AVL.md",
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
     "Algoritmos y Programación II/Algoritmos Recursivos.md",
     "a.md",
-    "aux.md",
-    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
-    "Algoritmos y Programación I/Ordenamiento.md"
+    "aux.md"
   ]
 }

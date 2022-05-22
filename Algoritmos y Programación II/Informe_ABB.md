@@ -31,8 +31,20 @@ Entonces, en un árbol binario:
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
 
-### Primitivas y Complejidades Algorítmicas balanceado
-
+### Primitivas y Complejidades Algorítmicas
+Para todo tipo de árbol, las primitivas son:
+- crear 
+- destruir
+- vacío
+- insertar
+- eliminar 
+- buscar 
+- recorrer
+Crear, justamente, crea el árbol, lo genera y lo inicializa, según el criterio acordado o la implementación que se desee. En la mayoría de los casos esto significa crear la estructura con nodo raíz con elemento vacío e hijos también vacíos. 
+Destruir, borra el árbol, dependiendo del tipo de lenguaje que estemos usando para la implementación, esto puede significar liberar la memoria asignada. Para lo cual es necesario hacerlo en un orden preciso, evitando dejar nodos huérfanos.
+Vacío corrobora que el árbol no tenga elementos, esto también se puede pensar como que el tamaño actual del árbol sea cero, pero como siempre, depende de la implementación (ya que puede no tener un contador de tamaño).
+Insertar agrega elementos al árbol, dependiendo del contratro/criterio, se agregaran de diferentes formas, cambia segun el tipo de árbol. Tambien, 
+Eliminar es opuesta a agregar, ya que borra elementos del arbol
 ## 3. Detalles de implementación
 
 

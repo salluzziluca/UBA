@@ -12,6 +12,13 @@ Hay que probarlos en las mismas condiciones porque hay muchos factores externos.
 
 ![[Pasted image 20220331185438.png]]
 
+## Teorema maestro 
+T(n) = aT(n/b) + f(n)
+- n equivale al tamaño del problema. 
+- a equivale a la cantidad de llamadas recursivas que realiza el algoritmo. 
+- b equivale a cuanto se divide el problema para resolverlo recursivamente.
+- f(n) es el costo en tiempo de lo que cuesta dividir y combinar.
+
 ## Notación "BIG O"
 - Va a mostrar como se comporta el algoritmo dado el tamaño del problema (no es lo mismo ordenar 3 numeros que 30000
 - Big O= cota superior
@@ -49,3 +56,5 @@ $fac(n)=n*fac(n-1)$
 o $T(n)=n*t(n-1)$ 
 ej, busqueda binaria:
 $T(n)=1*T(n/2)+O(1)$
+
+

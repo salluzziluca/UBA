@@ -20,8 +20,9 @@
     "asted ",
     "Snell",
     "SP",
-    "MRU"
+    "MRU",
+    "TDA"
   ],
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": false
 }

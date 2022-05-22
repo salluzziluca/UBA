@@ -6,5 +6,8 @@
 ![[Pasted image 20211027155037.png]]
 $$H_n=|H|$$
 
-Si: 
+Si: x|
 ![[Pasted image 20211027155118.png]]
+
+
+![[Pasted image 20220518183412.png]]

@@ -1,4 +1,4 @@
-![[Pasted image 20211027150826.png]]
+las ![[Pasted image 20211027150826.png]]
 ![[Pasted image 20211027151719.png]]
 
 ## Generalizado

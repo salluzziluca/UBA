@@ -31,7 +31,7 @@ Entonces, en un árbol binario:
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
 
-### Primitivas y Complejidades Algóritmicas 
+### Primitivas y Complejidades Algorítmicas balanceado
 
 ## 3. Detalles de implementación
 

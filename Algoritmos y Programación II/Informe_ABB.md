@@ -15,6 +15,7 @@
 
 
 ## 1. Introducción
+El ejemplo se corre y se compila usando el comando `make valgrind-ejemplo` y las pruebas mediante el comando `make valgrind-pruebas`
 En este trabajo se buscaba afianzar los conceptos teórico-prácticos del TDA Árbol, particularmente del Árbol Binario de Búsqueda. Para esto se nos pidió implementar uno con nodos simplemente enlazados, otorgándonos un .h y un .c con todas las primitivas necesarias y dejando a nuestro criterio la creación de funciones privadas.
 
 ## 2. Teoría
@@ -147,5 +148,8 @@ Si lo recorremos con la funcion `abb_recorrer` de manera inorder, la cual almace
 
 2. Si lo recorremos de forma postorder, en cambio, obtendriamos el vector
 ![[Array recorrido posorder]]
+
+3. Diagrama de memoria de un arbol binario, con un puntero a un arbol que vive en el heap y que almacena ints que pertenecen al stack
+![[Diagrama de memoria de arbol]]
 
 

@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -146,13 +147,13 @@
   "lastOpenFiles": [
     "Algoritmos y Programación II/Arbol B.md",
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Excalidraw/Arbol B.md",
     "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
     "Excalidraw/Arbol Rojo Negro.md",
     "Algoritmos y Programación II/Testeo.md",
     "Algoritmos y Programación II/AVL.md",
-    "Algoritmos y Programación II/Informe_ABB.md",
-    "Excalidraw/Diagrama de memoria de arbol.md"
+    "Algoritmos y Programación II/Informe_ABB.md"
   ]
 }

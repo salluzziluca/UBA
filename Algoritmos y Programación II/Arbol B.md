@@ -26,3 +26,22 @@ Si ahora queremos insertar el 19, de vuelta no podemos. Por lo que, igual que la
 ![[Pasted image 20220523145617.png]]
 
 ## Eliminación
+Cuando borramos elementos, tenemos que verificar que el nodo no tenga un underflow, es decir, que tenga menos claves que la mínima (⌊k/2⌋).
+
+![[Pasted image 20220523152923.png]] 
+Al borrar el 19, vamos a tener en ese nodo solo una clave, por lo que hay que redistribuir:
+Para esto podemos usar dos convenciones:
+- subo clave más chica del hermano derecho y bajo el padre que separa ambos
+- subo clave mas grande del hermano izquierdo y bajo el padre que separa ambos
+En este ejemplo usaremos la primera
+
+![[Pasted image 20220523153001.png]]
+
+
+Si ahora queremos borrar el 20
+![[Pasted image 20220523153209.png]]
+No podemos redistribuir porque nos quedaria el nodo hermano derecho tambien con cantidad de claves menor a la minima. Tenemos entonces que concatenar.
+"Uno al nodo afectado con algún hermano y el padre que separa ambos"
+![[Pasted image 20220523153310.png]]
+
+[[machete_arbol_b.pdf]]

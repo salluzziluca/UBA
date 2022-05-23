@@ -77,11 +77,11 @@ Lo mismo ocurre con buscar, teniendo complejidad $O(n)$ en su peor caso dentro d
 Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del árbol, es decir, $O(n)$.
 
 ## 3. Detalles de implementación
-En mi implementación, decidi realizar todo de forma recursiva, ya que me pareció lo mas natural a la hora de trabajar un Arbol Binario de Búsqueda. Por otra parte opté por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos, recibiendo y devolviéndolos. De esta forma me fue más fácil operar, ya que no se genera ninguna distinción entre el nodo raíz y el resto. De esta forma, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
+En mi implementación, decidí realizar todo de forma recursiva, ya que me pareció lo más natural a la hora de trabajar un Árbol Binario de Búsqueda. Por otra parte, opté por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos. De esta manera me fue más fácil operar, puesto que no se genera ninguna distinción entre el nodo raíz y el resto. Entonces, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
 ```
 Si hay alguna condicion que no va a permitir que la primitiva se ejecute correctante
 evacuar la función devolviendo error
-sino-> ejecutar la primitiva equivalente pasandole el nodo raiz
+si no-> ejecutar la primitiva con nodos equivalente pasandole el nodo raiz
 ```
 
 Por ejemplo, la primitiva de búsqueda
@@ -93,29 +93,28 @@ return NULL;
 return nodo_buscar(arbol->nodo_raiz, elemento, arbol->comparador);
 }
 ```
-### Lectura de Archivos
 
+Luego, en cuanto al cómo se ejecutan las diferentes funciones, intenté que el paso a paso de las mismas se condijera con el pensamiento del programador a la hora de pensarla.
+De esta forma tenemos, en el caso de `abb_tamanio`
+```
+Si el arbol es nulo o el tamaño es cero->el arbol está vacio
+de lo contrario, está lleno
+```
 
-#### Lectura de lineas
+```c
+bool abb_vacio(abb_t *arbol)
+{
+if (arbol == NULL || arbol->tamanio == 0)
+return true;
 
-##### Excepciones
-
-
- ##### Corroboración
-
-
-### Creación del vector de nombres de objetos e impresion por pantalla.
-
-
-### Validacion  e impresion de interacciones
-
-
-### Liberación de memoria
-
+return false;
+}
+```
 
 ## 4. Detalles de Funciones en particular
 
-1. `agregar_objeto_a_vector`
+1. `nodo_quitar()`
+	Esta función se encarga de eliminar el elemento pedido, para esto recorre el árbol en forma N I D, es decir, preorden buscando el elemento a eliminar. Una vez encontrado, busca su predecesor inorder o, visto de otr forma su número menor más cercano. Para esto le pasa el nodo derecg
 
   
 2. `sala_destruir()`

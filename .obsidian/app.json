@@ -23,8 +23,11 @@
     "MRU",
     "TDA",
     "n",
-    "AVL"
+    "AVL",
+    "preorder",
+    "preorden"
   ],
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

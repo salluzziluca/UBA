@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -147,6 +146,7 @@
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
     "Algoritmos y Programación II/Informe_ABB.md",
+    "Algoritmos y Programación II/Arboles.md",
     "Algoritmos y Programación II/informe_tda1.md",
     "Excalidraw/Arbol binario de busqueda.md",
     "Excalidraw/Diagramas Física.svg",
@@ -154,7 +154,6 @@
     "Excalidraw/Drawing 2022-05-01 14.27.37.excalidraw.png",
     "Excalidraw/Arbol cuaternario.md",
     "Algoritmos y Programación II/AVL.md",
-    "Excalidraw/Arbol degenerado a lista.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md"
+    "Excalidraw/Arbol degenerado a lista.md"
   ]
 }

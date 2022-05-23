@@ -24,9 +24,9 @@ Un árbol puede ser definido de varias formas, la forma más sencilla es de mane
 ![[Arbol cuaternario]]
 
 #### 2.11 Árbol Binario
-Un árbol binario es un tipo de dato abstracto árbol que puede tener, entonces, de cero a dos hijos por nodo, denominados izquierdo y derecho para una mayor comprensión por parte del usuario o desarrollador.
+Un árbol binario es un tipo de dato abstracto árbol que puede tener de cero a dos hijos por nodo, denominados izquierdo y derecho para una mayor comprensión por parte del usuario o desarrollador.
 #### 2.12 Árbol binario de búsqueda
-El árbol binario no tiene mucha utilidad per se, ya que no se establece ninguna regla para la inserción de elementos. Es por esto que en el árbol binario de búsqueda se establece un contrato de comparación en el que los elemento mayores al nodo van en su nodo derecho y los menores en el nodo izquierdo. Teniendo siempre un solo valor por nodo. 
+El árbol binario no tiene mucha utilidad per se, ya que no se establece ninguna regla para la inserción de elementos. Es por esto que en el árbol binario de búsqueda se dispone de un contrato de comparación en el que los elemento mayores al nodo van en su nodo derecho y los menores en el nodo izquierdo. Teniendo siempre un solo valor por nodo. 
 Entonces, en un árbol binario:
 - Si existe nodo izquierdo, va a ser siempre menor en valor a su nodo padre.
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
@@ -48,8 +48,8 @@ Para todo tipo de árbol, las primitivas son:
 Crear, justamente, crea el árbol, lo genera y lo inicializa, según el criterio acordado o la implementación que se desee. En la mayoría de los casos esto significa crear la estructura con nodo raíz con elemento vacío e hijos también vacíos. 
 Destruir, borra el árbol, dependiendo del tipo de lenguaje que estemos usando para la implementación, esto puede significar liberar la memoria asignada. Para lo cual es necesario hacerlo en un orden preciso, evitando dejar nodos huérfanos.
 Vacío corrobora que el árbol no tenga elementos, esto también se puede pensar como que el tamaño actual del árbol sea cero, pero como siempre, depende de la implementación (ya que puede no tener un contador de tamaño).
-Insertar agrega elementos al árbol, dependiendo del contrato/criterio, se agregarán de diferentes formas, cambia según el tipo de árbol. También, según el caso, puede aumentar el contador de tamaño. Si estamos en C, por ejemplo, también se deberá reservar memoria para el nodo del nuevo elemento que estamos agregando.
-Eliminar es opuesta a agregar, ya que borra elementos del árbol y disminuye, de ser necesario, el tamaño del mismo. Siguiendo el ejemplo anterior, en programas donde la memoria se maneje manualmente, se deberá liberar la memoria reservada equivalente al nodo del elemento que estamos eliminando.
+Insertar agrega elementos al árbol, dependiendo del contrato/criterio, se agregarán de diferentes formas, cambiando según el tipo de árbol. También, según el caso, puede aumentar el contador de tamaño. Si estamos en C, por ejemplo, se deberá reservar memoria para el nodo del nuevo elemento que estamos agregando.
+Eliminar es opuesta a agregar, ya que borra elementos del árbol y disminuye, de ser necesario, el tamaño del mismo. Siguiendo el ejemplo anterior, en programas donde la memoria se maneje manualmente, si esta se encuentra reservada, se deberá liberar la cantidad equivalente al nodo del elemento que estamos eliminando.
 Buscar recorre el árbol comparando entre elementos hasta encontrar (o no) el buscado.
 Recorrer, finalmente, visita los diferentes nodos del árbol en el orden que se le especifique. Esto puede ser primero el nodo actual y después sus hijos, o primero su primer hijo, después el nodo actual y luego otro hijo, las combinaciones son infinitas si hablamos de árboles n-arios.
 Es importante aclarar que muchas de estas primitivas necesitan de un contrato o criterio para su correcto funcionamiento, ya que no se puede insertar, quitar o buscar sin saber como está ordenado y organizado internamente el árbol.
@@ -57,7 +57,7 @@ Es importante aclarar que muchas de estas primitivas necesitan de un contrato o 
 De igual manera, es imposible calcular las complejidades algorítmicas de un árbol n-ario sin ningún tipo de criterio acordado.
 
 #### 2.22 Árbol binario
-
+Un arbol binario comparte las mismas primitivas que los arboles en general, contando con la peculiaridad de que solo se pueden tener dos hijos por nodo, es decir, un maximo de 2 y un minimo de cero. Si bien esto define 
 #### 2.23 Árbol binario de búsqueda
 En este tipo de árbol encontramos ya un criterio establecido para el ordenamiento de elementos dentro de la estructura, por lo que, finalmente, las primitivas cobran total sentido.
 Tal y como se aclara en la sección 2.12 de este informe, 
@@ -114,10 +114,20 @@ return false;
 ## 4. Detalles de Funciones en particular
 
 1. `nodo_quitar()`
-	Esta función se encarga de eliminar el elemento pedido, para esto recorre el árbol en forma N I D, es decir, preorden buscando el elemento a eliminar. Una vez encontrado, busca su predecesor inorder o, visto de otr forma su número menor más cercano. Para esto le pasa el nodo derecg
+	Esta función se encarga de eliminar el elemento pedido, para esto recorre el árbol en forma N I D, es decir, preorden buscando el elemento a eliminar. Una vez encontrado y si tiene hijo izquierdo busca su predecesor inorder o, visto de otro forma su número menor más cercano. Para esto le pasa el nodo izquierdo a la función `obtener_elemento_mayor()` y esta se encarga de devolver el elemento más grande de esa rama (la cual es la rama de los números menores al nodo a eliminar). De esta manera, se reemplaza el nodo eliminado con el predecesor y el árbol queda ordenado adecuadamente. Por último, se resta un valor al tamaño del árbol y se libera el nodo donde se alojaba el elemento predecesor, ya que este pasó ahora al lugar del nodo eliminado y nos quedaría un nodo hoja vacío.
+	Caso contrario, se guarda el nodo en una variable auxiliar y reemplaza el nodo actual por el nodo derecho. Si este fuese nulo, simplemente quedaría el nodo actual como nulo. Luego, libera el nodo actual.
+	Siempre devuelve el nodo actual al finalizar la función.
+	Es gracias a esto último y a las propiedades de la recursividad que esta función mantiene ordenado el árbol. Cuando se encuentra, se elimina el elemento y se empiezan a desapilar en el stack los llamados recursivos, el retorno de la funcion siempre queda enlazado con el nodo izquierdo o derecho, respectivamente, del nodo anterior, esto se puede visualizar mejor en el extracto de código de abajo.
+```C
+if (comparacion < 0)
+	nodo->izquierda = nodo_quitar(nodo->izquierda, elemento, comparador, elemento_quitado, tamanio);
 
+else
+	nodo->derecha = nodo_quitar(nodo->derecha, elemento, comparador, elemento_quitado, tamanio);
+```
   
-2. `sala_destruir()`
+2. `nodo_destruir_todo()`
+	Esta funcion recorre de forma postorder el árbol, aplicando la funcion destructora otorgada por el usuario en cada uno de los elementos y luego liberando el nodo. Se recorre de ese modo en particular (I D N) para nunca dejar nodos huérfanos (aunque, claro está, también se podría recorrer en forma D I N).
 
 
 

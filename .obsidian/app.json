@@ -25,7 +25,10 @@
     "n",
     "AVL",
     "preorder",
-    "preorden"
+    "preorden",
+    "funcion",
+    "desapilar",
+    "stack"
   ],
   "legacyEditor": false,
   "livePreview": true,

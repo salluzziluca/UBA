@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5d8c3a2741146624",
+        "id": "300c68c7f2d175c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d8c3a2741146624",
+  "active": "300c68c7f2d175c4",
   "lastOpenFiles": [
     "Algoritmos y Programación II/Informe_ABB.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "Algoritmos y Programación II/informe_tda1.md",
+    "Excalidraw/Array recorrido inorden.md",
     "Excalidraw/Arbol binario de busqueda.md",
-    "Excalidraw/Diagramas Física.svg",
-    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
-    "Excalidraw/Drawing 2022-05-01 14.27.37.excalidraw.png",
-    "Excalidraw/Arbol cuaternario.md",
-    "Algoritmos y Programación II/AVL.md",
-    "Excalidraw/Arbol degenerado a lista.md"
+    "Excalidraw/Diagbrama de memoria.md",
+    "Excalidraw/Array recorrido posorder.md",
+    "Excalidraw/Arbol binario de busqueda chiquito.md",
+    "Algoritmos y Programación II/Testeo.md",
+    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
+    "Algoritmos y Programación II/Sorting.md",
+    "Algoritmos y Programación II/Punteros.md"
   ]
 }

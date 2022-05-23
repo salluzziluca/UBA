@@ -57,14 +57,15 @@ Es importante aclarar que muchas de estas primitivas necesitan de un contrato o 
 De igual manera, es imposible calcular las complejidades algorítmicas de un árbol n-ario sin ningún tipo de criterio acordado.
 
 #### 2.22 Árbol binario
-Un arbol binario comparte las mismas primitivas que los arboles en general, contando con la peculiaridad de que solo se pueden tener dos hijos por nodo, es decir, un maximo de 2 y un minimo de cero. Si bien esto define 
+Un árbol binario comparte las mismas primitivas que los árboles en general, contando con la peculiaridad de que solo se pueden tener dos hijos por nodo, es decir, un máximo de 2 y un mínimo de cero. Si bien esto caracteriza e individualiza más al tipo de árbol, no es suficiente para establecer un criterio de inserción, eliminación o búsqueda. Más si lo es para poder definir los diferentes tipos de recorridos.
+Recorrer es pasar por todos los nodos del árbol, y si definimos al nodo actual como N, al su hijo derecho como D y a su hijo izquierdo como N, existen 6 formas de recorrerlo: NID, IND, IDN, NDI, DNI y DIN. Siendo los 3 estándares NID (preorder), IND (inorden) y IDN (postorden). Siendo la primera una forma de copiar fielmente el árbol, la segunda una forma útil de recorrerlo de menor a mayor y la tercera una forma correcta de eliminar el árbol nodo a nodo.
 #### 2.23 Árbol binario de búsqueda
 En este tipo de árbol encontramos ya un criterio establecido para el ordenamiento de elementos dentro de la estructura, por lo que, finalmente, las primitivas cobran total sentido.
 Tal y como se aclara en la sección 2.12 de este informe, 
 - Si existe nodo izquierdo, va a ser siempre menor en valor a su nodo padre.
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
-Esto nos permite no solo entender de forma más clara como se inserta, se quita y se busca (se compara nodo a nodo y desplazándose a la rama derecha o izquierda según el resultado de la comparación), sino también poder establecer las diferentes complejidades algorítmicas de las primitivas.
+Esto nos permite no solo entender de forma más clara como se inserta, se quita y se busca (se compara nodo a nodo, desplazándose a la rama derecha o izquierda según el resultado de la comparación), sino también poder establecer las diferentes complejidades algorítmicas de las primitivas.
 
 ##### Complejidades algorítmicas 
 Crear árbol tiene complejidad $O(1)$, ya que siempre, dentro del mismo árbol, crearlo nos va a costar la misma cantidad de memoria. Si queremos crear el árbol con más elementos, deberíamos crear y luego insertar.
@@ -77,7 +78,7 @@ Lo mismo ocurre con buscar, teniendo complejidad $O(n)$ en su peor caso dentro d
 Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del árbol, es decir, $O(n)$.
 
 ## 3. Detalles de implementación
-En mi implementación, decidí realizar todo de forma recursiva, ya que me pareció lo más natural a la hora de trabajar un Árbol Binario de Búsqueda. Por otra parte, opté por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos. De esta manera me fue más fácil operar, puesto que no se genera ninguna distinción entre el nodo raíz y el resto. Entonces, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
+En mi implementación, decidí realizar todo de forma recursiva, ya que me pareció lo más natural a la hora de trabajar un Árbol Binario de Búsqueda. Por otra parte, opté por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos. De esta manera me fue más fácil operar, puesto que no se genera ninguna distinción entre el nodo raíz y el resto. Entonces, la mayoría de las primitivas de ABB se pueden abstraer al siguiente paso a paso en pseudocódigo
 ```
 Si hay alguna condicion que no va a permitir que la primitiva se ejecute correctante
 evacuar la función devolviendo error
@@ -94,7 +95,7 @@ return nodo_buscar(arbol->nodo_raiz, elemento, arbol->comparador);
 }
 ```
 
-Luego, en cuanto al cómo se ejecutan las diferentes funciones, intenté que el paso a paso de las mismas se condijera con el pensamiento del programador a la hora de pensarla.
+Luego, en cuanto al cómo se ejecutan las diferentes funciones, intenté que el paso a paso de las mismas se condijera con el pensamiento del programador a la hora de desarrollarla.
 De esta forma tenemos, en el caso de `abb_tamanio`
 ```
 Si el arbol es nulo o el tamaño es cero->el arbol está vacio
@@ -114,7 +115,7 @@ return false;
 ## 4. Detalles de Funciones en particular
 
 1. `nodo_quitar()`
-	Esta función se encarga de eliminar el elemento pedido, para esto recorre el árbol en forma N I D, es decir, preorden buscando el elemento a eliminar. Una vez encontrado y si tiene hijo izquierdo busca su predecesor inorder o, visto de otro forma su número menor más cercano. Para esto le pasa el nodo izquierdo a la función `obtener_elemento_mayor()` y esta se encarga de devolver el elemento más grande de esa rama (la cual es la rama de los números menores al nodo a eliminar). De esta manera, se reemplaza el nodo eliminado con el predecesor y el árbol queda ordenado adecuadamente. Por último, se resta un valor al tamaño del árbol y se libera el nodo donde se alojaba el elemento predecesor, ya que este pasó ahora al lugar del nodo eliminado y nos quedaría un nodo hoja vacío.
+	Esta función se encarga de eliminar el elemento pedido, para esto recorre el árbol en forma N I D, es decir, preorden buscando el elemento a eliminar. Una vez encontrado y si tiene hijo izquierdo, busca su predecesor inorder o, visto de otro forma su número menor más cercano. Para esto le pasa el nodo izquierdo a la función `obtener_elemento_mayor()`. Esta se encarga de devolver el elemento más grande de esa rama (la cual es la rama de los números menores al nodo a eliminar). De esta manera, se reemplaza el nodo eliminado con el predecesor y el árbol queda ordenado adecuadamente. Por último, se resta un valor al tamaño del árbol y se libera el nodo donde se alojaba el elemento predecesor, ya que este pasó ahora al lugar del nodo eliminado y nos quedaría un nodo hoja vacío.
 	Caso contrario, se guarda el nodo en una variable auxiliar y reemplaza el nodo actual por el nodo derecho. Si este fuese nulo, simplemente quedaría el nodo actual como nulo. Luego, libera el nodo actual.
 	Siempre devuelve el nodo actual al finalizar la función.
 	Es gracias a esto último y a las propiedades de la recursividad que esta función mantiene ordenado el árbol. Cuando se encuentra, se elimina el elemento y se empiezan a desapilar en el stack los llamados recursivos, el retorno de la funcion siempre queda enlazado con el nodo izquierdo o derecho, respectivamente, del nodo anterior, esto se puede visualizar mejor en el extracto de código de abajo.
@@ -127,7 +128,7 @@ else
 ```
   
 2. `nodo_destruir_todo()`
-	Esta funcion recorre de forma postorder el árbol, aplicando la funcion destructora otorgada por el usuario en cada uno de los elementos y luego liberando el nodo. Se recorre de ese modo en particular (I D N) para nunca dejar nodos huérfanos (aunque, claro está, también se podría recorrer en forma D I N).
+	Esta funcion recorre de forma postorder el árbol, aplicando la funcion destructora otorgada por el usuario en cada uno de los elementos y luego liberando el nodo. Se recorre de ese modo en particular (I D N) para nunca dejar nodos huérfanos (aunque, claro está, también se podría recorrer en forma D I N). Si la funcion destructora es nula, simplemente libera los nodos.
 
 
 
@@ -137,12 +138,14 @@ else
 
 
 
-1. Diagrama1
+1. Vector de elementos con recorrido inorden
+	Teniendo el siguiente árbol binario de busqueda
+	![[Arbol binario de busqueda chiquito]]
+Si lo recorremos con la funcion `abb_recorrer` de manera inorder, la cual almacena los elementos recorridos en un vector, obtendremos lo siguiente.
+    ![[Array recorrido inorden]]
 
-    ![[WhatsApp Image 2022-04-10 at 11.54.57 PM.jpeg]]
 
-
-
-2. ![[WhatsApp Image 2022-04-10 at 11.54.56 PM.jpeg]]
+2. Si lo recorremos de forma postorder, en cambio, obtendriamos el vector
+![[Array recorrido posorder]]
 
 

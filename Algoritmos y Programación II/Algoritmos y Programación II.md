@@ -8,6 +8,7 @@
 - [[Complejidad de Algoritmos|Complejidad de algoritmos]]
 - [[Tipos de Datos Abstractos (TDA)]]
 - [[Testeo]]
+- [[Sorting]]
 
 
 ### Snippets
@@ -18,4 +19,6 @@
 
 ---
 ## Informes de TPs
--[[Informe TP1]]
+- [[Informe TP1]]
+- [[informe_tda1]]
+- [[Informe_ABB]]

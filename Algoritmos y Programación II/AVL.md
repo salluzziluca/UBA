@@ -10,6 +10,10 @@ Es un atributo que se le agrega a cada nodo, representa la diferencia de alturas
 Si esta desbalanceado, hay que hacer una rotacion 
 ### Rotación a derecha 
 ![[Pasted image 20220503183402.png]]
+Chequeamos siempre de abajo para arriba
+Factor de balanceo del 7: rama izquierda menos rama derecha. 0-0 = 0. Válido
+Factor de balanceo del 7: 1-0 = 0, es válido
+Factor de balanceo del 15: 2-0 = 2, no es válido, hay que rotar
 
 Pero si el 13 ya tiene dos hijos...
 ![[Pasted image 20220503183612.png]]

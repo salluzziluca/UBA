@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/AVL.md",
+            "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/AVL.md",
+                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/AVL.md"
+                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md"
               }
             }
           },
@@ -118,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "146ea6bfbcd342ac",
@@ -141,20 +139,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "300c68c7f2d175c4",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Algoritmos y Programación II/Testeo.md",
     "Algoritmos y Programación II/AVL.md",
     "Algoritmos y Programación II/Informe_ABB.md",
     "Excalidraw/Diagrama de memoria de arbol.md",
     "Excalidraw/Array recorrido inorden.md",
     "Excalidraw/Arbol binario de busqueda.md",
     "Excalidraw/Diagbrama de memoria.md",
-    "Excalidraw/Array recorrido posorder.md",
-    "Excalidraw/Arbol binario de busqueda chiquito.md",
-    "Algoritmos y Programación II/Testeo.md",
-    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md"
+    "Excalidraw/Array recorrido posorder.md"
   ]
 }

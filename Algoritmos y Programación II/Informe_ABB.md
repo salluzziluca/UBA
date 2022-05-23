@@ -77,7 +77,7 @@ Lo mismo ocurre con buscar, teniendo complejidad $O(n)$ en su peor caso dentro d
 Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del árbol, es decir, $O(n)$.
 
 ## 3. Detalles de implementación
-En mi implementación, decidi realizar todo de forma recursiva, ya que me pareció lo mas natural a la hora de trabajar un Arbol Binario de Búsqueda opte por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos, recibiendo y devolviéndolos. De esta forma me fue más fácil operar, ya que no se genera ninguna distinción entre el nodo raíz y el resto. De esta forma, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
+En mi implementación, decidi realizar todo de forma recursiva, ya que me pareció lo mas natural a la hora de trabajar un Arbol Binario de Búsqueda. Por otra parte opté por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos, recibiendo y devolviéndolos. De esta forma me fue más fácil operar, ya que no se genera ninguna distinción entre el nodo raíz y el resto. De esta forma, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
 ```
 Si hay alguna condicion que no va a permitir que la primitiva se ejecute correctante
 evacuar la función devolviendo error

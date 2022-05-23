@@ -11,7 +11,7 @@
           "state": {
             "file": "Algoritmos y Programación II/Informe_ABB.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -147,14 +146,14 @@
   "active": "5d8c3a2741146624",
   "lastOpenFiles": [
     "Algoritmos y Programación II/Informe_ABB.md",
+    "Algoritmos y Programación II/AVL.md",
+    "Excalidraw/Arbol degenerado a lista.md",
+    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Arboles.md",
     "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
     "Algoritmos y Programación II/Sorting.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Algoritmos y Programación II/AVL.md",
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación II/Algoritmos Recursivos.md",
-    "a.md"
+    "Algoritmos y Programación II/Algoritmos Recursivos.md"
   ]
 }

@@ -22,7 +22,8 @@
     "SP",
     "MRU",
     "TDA",
-    "n"
+    "n",
+    "AVL"
   ],
   "legacyEditor": false,
   "livePreview": false

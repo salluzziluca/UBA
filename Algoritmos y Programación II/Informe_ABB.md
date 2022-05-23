@@ -31,8 +31,8 @@ Entonces, en un árbol binario:
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
 
-### Primitivas y Complejidades Algorítmicas
-#### Árbol n-ario
+### 2.2 Primitivas y Complejidades Algorítmicas
+#### 2.21 Árbol n-ario
 ##### Primitivas
 Para todo tipo de árbol, las primitivas son:
 - crear 
@@ -53,15 +53,26 @@ Es importante aclarar que muchas de estas primitivas necesitan de un contrato o 
 ##### Complejidades algorítmicas
 De igual manera, es imposible calcular las complejidades algorítmicas de un árbol n-ario sin ningún tipo de criterio acordado.
 
-#### Árbol binario
+#### 2.22 Árbol binario
 
-#### Árbol binario de búsqueda
+#### 2.23 Árbol binario de búsqueda
 En este tipo de árbol encontramos ya un criterio establecido para el ordenamiento de elementos dentro de la estructura, por lo que, finalmente, las primitivas cobran total sentido.
 Tal y como se aclara en la sección 2.12 de este informe, 
 - Si existe nodo izquierdo, va a ser siempre menor en valor a su nodo padre.
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
-Esto nos permite no solo entender de forma más clara como se inserta, se quita y se busca (se compara nodo a nodo y desplazándose a la rama derecha o izquierda según el resultado de la comparación), sino tambien poder establecer las diferentes complejidades algorítmicas de 
+Esto nos permite no solo entender de forma más clara como se inserta, se quita y se busca (se compara nodo a nodo y desplazándose a la rama derecha o izquierda según el resultado de la comparación), sino también poder establecer las diferentes complejidades algorítmicas de las primitivas.
+
+##### Complejidades algorítmicas 
+Crear árbol tiene complejidad $O(1)$, ya que siempre, dentro del mismo árbol, crearlo nos va a costar la misma cantidad de memoria. Si queremos crear el árbol con más elementos, deberíamos crear y luego insertar.
+Destruir el árbol depende de la cantidad de elementos almacenados, así que su complejidad es $O(n)$. A más elementos insertados, más memoria para borrar y, por ende, más elementos por recorrer.
+Si queremos corroborar si el árbol está o no vacío, únicamente deberíamos verificar si la variable contadora es igual o distinta de cero o, de no existir esta, simplemente se debería ver el elemento del nodo raíz. De no existir este, se puede afirmar que el árbol está vacío. Visto de otra forma: si el nodo raíz está vacío, el árbol también lo está. Esto nos lleva a una complejidad algorítmica igual a $O(1)$
+Insertar en un árbol binario de búsqueda, la complejidad de la inserción es $O(n)$, ya que estamos considerando el peor caso posible y este es cuando la estructura se degenera a lista y su funcionalidad principal (la de dividir la búsqueda para obtener una mayor eficiencia), se encuentra estropeada. De ser un árbol perfectamente balanceado de manera continua (un AVL, por ejemplo), la complejidad sería constantemente $O(log(n))$
+Similarmente, eliminar tiene una complejidad de $O(n)$, por las mismas razones que en la primita anterior, de estar este árbol degenerado y de querer nosotros obtener el último elemento de esa rama, deberíamos antes recorrer todos los elementos anteriores.
+![[Arbol degenerado a lista]]
+Lo mismo ocurre con buscar, tieniendo complejidad $O(n)$ en su peor caso dentro de esta implementación.
+Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del arbol.
+
 ## 3. Detalles de implementación
 
 

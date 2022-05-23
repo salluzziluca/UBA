@@ -27,3 +27,15 @@ Se quita siempre por arriba, solo se puede eliminar la raíz. Luego, buscamos el
 Se realizan n operaciones log(n) por lo que aproximadamente podemos decir que
 ==insertar elementos en un heap vacio uno a uno tiene complejidad algorítmica $O(n*log(n)$ ==
 Para construirlo vamos asignando numeros a cada uno de los elementos segun el nivel
+![[Pasted image 20220523190959.png]]
+
+Esto también nos permite saber cuál va a ser el hijo izquierdo y derecho de cada nodo. 
+Nodo actual = N
+Hijo izquierdo = 2N + 1
+Hijo derecho = 2N + 2
+Y para saber los padres
+Padre = $\LARGE \lfloor \frac {n-1}{2} \rfloor$ 
+
+Para construir entonces un heap desde un array voy cargando los elementos haciendo los sift ups correspondientes.
+
+Esto nos permite crear un algoritmo de ordenamiento llamado heap sort el cual nos permite pasarle un vector a heap y luego ir quitando las raices para obtenerlo ordenado

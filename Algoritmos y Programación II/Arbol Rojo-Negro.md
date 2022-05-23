@@ -1,5 +1,5 @@
 # Arbol Rojo-Negro
-Es un [[Arboles|arbol]] en cuyos nodos, ademas de almacenar su elemento y sus hijos, se almacena su color, para tenerlo balanceado de una forma mas eficiente
+Es un [[Arboles#Arbol binario|arbol binario]] en cuyos nodos, ademas de almacenar su elemento y sus hijos, se almacena su color, para tenerlo balanceado de una forma mas eficiente
 
 ## Reglas
 - La raiz siempre tiene que ser negra

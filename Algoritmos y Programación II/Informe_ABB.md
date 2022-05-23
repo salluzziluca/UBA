@@ -16,7 +16,7 @@
 
 ## 1. Introducción
 El ejemplo se corre y se compila usando el comando `make valgrind-ejemplo` y las pruebas mediante el comando `make valgrind-pruebas`
-En este trabajo se buscaba afianzar los conceptos teórico-prácticos del TDA Árbol, particularmente del Árbol Binario de Búsqueda. Para esto se nos pidió implementar uno con nodos simplemente enlazados, otorgándonos un .h y un .c con todas las primitivas necesarias y dejando a nuestro criterio la creación de funciones privadas.
+En este trabajo se buscaba afianzar los conceptos teórico-prácticos del TDA Árbol, particularmente del [[Arboles#Arboles de busqueda binario|Árbol Binario de Búsqueda]]. Para esto se nos pidió implementar uno con nodos simplemente enlazados, otorgándonos un .h y un .c con todas las primitivas necesarias y dejando a nuestro criterio la creación de funciones privadas.
 
 ## 2. Teoría
 

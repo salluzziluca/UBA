@@ -21,6 +21,7 @@ En este trabajo se buscaba afianzar los conceptos teórico-prácticos del TDA Á
 
 ### 2.1 Árboles
 Un árbol puede ser definido de varias formas, la forma más sencilla es de manera recursiva, como un conjunto de nodos enlazados. Lo conforma entonces un nodo particular, el nodo raíz (el cual se distingue del resto por no tener padre) y una cantidad n de nodos hijos. Asimismo, estos nodos hijos serán, a su vez, nodos raíces de sus propios sub-árboles. El nodo raíz de cada sub-árbol es entonces hijo del nodo raíz principal del árbol. 
+![[Arbol cuaternario]]
 
 #### 2.11 Árbol Binario
 Un árbol binario es un tipo de dato abstracto árbol que puede tener, entonces, de cero a dos hijos por nodo, denominados izquierdo y derecho para una mayor comprensión por parte del usuario o desarrollador.
@@ -30,6 +31,8 @@ Entonces, en un árbol binario:
 - Si existe nodo izquierdo, va a ser siempre menor en valor a su nodo padre.
 - Si existe nodo derecho, va a ser siempre mayor en valor a su nodo padre.
 - Los sub-árboles serán también árboles binarios de búsqueda.
+
+![[Arbol binario de busqueda]]
 
 ### 2.2 Primitivas y Complejidades Algorítmicas
 #### 2.21 Árbol n-ario
@@ -70,12 +73,26 @@ Si queremos corroborar si el árbol está o no vacío, únicamente deberíamos v
 Insertar en un árbol binario de búsqueda, la complejidad de la inserción es $O(n)$, ya que estamos considerando el peor caso posible y este es cuando la estructura se degenera a lista y su funcionalidad principal (la de dividir la búsqueda para obtener una mayor eficiencia), se encuentra estropeada. De ser un árbol perfectamente balanceado de manera continua (un AVL, por ejemplo), la complejidad sería constantemente $O(log(n))$
 Similarmente, eliminar tiene una complejidad de $O(n)$, por las mismas razones que en la primita anterior, de estar este árbol degenerado y de querer nosotros obtener el último elemento de esa rama, deberíamos antes recorrer todos los elementos anteriores.
 ![[Arbol degenerado a lista]]
-Lo mismo ocurre con buscar, tieniendo complejidad $O(n)$ en su peor caso dentro de esta implementación.
-Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del arbol.
+Lo mismo ocurre con buscar, teniendo complejidad $O(n)$ en su peor caso dentro de esta implementación.
+Finalmente, la complejidad de recorrer siempre va a depender de la cantidad de elementos dentro del árbol, es decir, $O(n)$.
 
 ## 3. Detalles de implementación
+En mi implementación, decidi realizar todo de forma recursiva, ya que me pareció lo mas natural a la hora de trabajar un Arbol Binario de Búsqueda opte por llevar la mayoría de las primitivas que recibían al árbol como parámetro "principal" a primitivas que trabajaran con nodos, recibiendo y devolviéndolos. De esta forma me fue más fácil operar, ya que no se genera ninguna distinción entre el nodo raíz y el resto. De esta forma, la mayoría de las primitivas se pueden abstraer al siguiente paso a paso en pseudocódigo
+```
+Si hay alguna condicion que no va a permitir que la primitiva se ejecute correctante
+evacuar la función devolviendo error
+sino-> ejecutar la primitiva equivalente pasandole el nodo raiz
+```
 
-
+Por ejemplo, la primitiva de búsqueda
+```c
+void *abb_buscar(abb_t *arbol, void *elemento)
+{
+if (arbol == NULL || arbol->tamanio == 0 || arbol->comparador == NULL)
+return NULL;
+return nodo_buscar(arbol->nodo_raiz, elemento, arbol->comparador);
+}
+```
 ### Lectura de Archivos
 
 

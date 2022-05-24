@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "ef1e02436ac9c992",
+    "id": "e631e566d857ad23",
     "type": "split",
     "children": [
       {
-        "id": "300c68c7f2d175c4",
+        "id": "bebfc38064ce71ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Heap.md",
+            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6612a54442734667",
+    "id": "ecf15ee7dede871c",
     "type": "split",
     "children": [
       {
-        "id": "74d35282a705107a",
+        "id": "afc064323f72832e",
         "type": "tabs",
         "children": [
           {
-            "id": "9a79e0736b09572d",
+            "id": "a624fb0281aae03f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "28fc762ad0b43c67",
+            "id": "43b719a7f1e83051",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "variables separ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,46 +50,47 @@
             }
           },
           {
-            "id": "c8d607776b4c33b2",
+            "id": "99b72ebe2a03baee",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
-    "id": "436c5de0b71fa9ef",
+    "id": "2b711b5043579bc7",
     "type": "split",
     "children": [
       {
-        "id": "63a996253cd9efbb",
+        "id": "98cc83841a42dd49",
         "type": "tabs",
         "children": [
           {
-            "id": "665ab3eea9f75da7",
+            "id": "e3868deaf1f96e9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Heap.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2951290f6d2c0036",
+            "id": "da6cac920fa5fdcd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,38 +101,12 @@
             }
           },
           {
-            "id": "0b593a34e27ff9c4",
+            "id": "c9d3ef8f93b5b27c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Heap.md"
-              }
-            }
-          },
-          {
-            "id": "fb50f0fe0be36d5e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "146ea6bfbcd342ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0a43c2493001366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-                "mode": "source",
-                "source": false
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md"
               }
             }
           }
@@ -142,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "300c68c7f2d175c4",
+  "active": "bebfc38064ce71ac",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Heap.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
+    "Algoritmos y Programación II/Informe_ABB.md",
+    "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/Arboles.md",
-    "Pasted image 20220510182114.png.md",
-    "Algoritmos y Programación II/Arbol B.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Excalidraw/Arbol B.md",
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
-    "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
-    "Excalidraw/Arbol Rojo Negro.md",
-    "Algoritmos y Programación II/Testeo.md"
+    "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md"
   ]
 }

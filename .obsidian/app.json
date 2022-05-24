@@ -20,8 +20,18 @@
     "asted ",
     "Snell",
     "SP",
-    "MRU"
+    "MRU",
+    "TDA",
+    "n",
+    "AVL",
+    "preorder",
+    "preorden",
+    "funcion",
+    "desapilar",
+    "stack",
+    "Snippets"
   ],
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

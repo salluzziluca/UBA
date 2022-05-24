@@ -15,8 +15,16 @@ Caracteristicas
 - Adaptatividad
 	Es adaptativo cuando se adapta al comun de datos
 ## Merge sort
-Divide en dos el vector y ahi analiza
+Divide en dos 
+va hacia la izquierda
+Va hacia la derecha
+mergea (ordenando)
+![[Pasted image 20220524145516.png]]
+![[Pasted image 20220524145524.png]]
+![[Pasted image 20220524145536.png]]
 
+### Complejidad algorítmica de mergesort
+$$\LARGE O(n.log(n))$$
 ## Quick Sort
 1. Inicializo el pivote y su posición
 2. Itero reubicando los mayores al pivote
@@ -26,10 +34,10 @@ Pongo un pivote al final y una posicion pivote al inicio
 ![[Pasted image 20220517192919.png]]
 Voy comparando el pivote con el punto pivote. Si es mayor (o menor, segun querramos), hago un swap. sabiendo que voy a necesitar una posicion extra para ese elemento cuando el vector se ordene.
 ![[Pasted image 20220517193051.png]]
-Cada vez que encontramos un valor que cumple con la condición, lo swapeamos
+Cada vez que encontramos un valor que cumple con la condición, lo swapeamos y adelantamos uno la posicion de pivote. Es decir, siempre detras de la posicion de pivote han de quedar numeros que cumplan con la condición.
 ![[Pasted image 20220517193240.png]]
 ![[Pasted image 20220517193224.png]]
- De esta forma, vamos a adelantar la posicion pivote, nos quedara un vector ordenado con mayores y menores al pivote 
+ finalmente swapeamos la posicion pivote con el pivote y nos quedan de un lado valores que cumplen la condicion y del otro valores que no
  ![[Pasted image 20220517193539.png]]
 
 asi, hacemos lo mismo con todas las sub-partes del vector
@@ -42,3 +50,21 @@ Siempre el pivote es el ultimo elemento y la posicion pivote el primero.
 	O(n)
 - Complejidad computacional
 	n+k
+
+
+## Counting sort
+Creamos un Array de 0 a 9
+Inicializamos todas las posiciones en 0
+Itero incrementando según la posición
+![[Pasted image 20220524153944.png]]
+![[Pasted image 20220524154006.png]]
+Al actual le sumo el anterior
+![[Pasted image 20220524154039.png]]
+Creamos un array en donde ordenar
+
+finalmente 
+
+![[Pasted image 20220524154254.png]]
+
+## Complejidad algorítmica de counting sort 
+$$\LARGE O(n)$$

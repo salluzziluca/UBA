@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
+            "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variables separ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md"
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
               }
             }
           }
@@ -119,6 +118,8 @@
   },
   "active": "bebfc38064ce71ac",
   "lastOpenFiles": [
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+    "Análisis Matemático II/9. Integrales Dobles/9.0 Integrales Dobles.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/8.0 Ecuaciones Diferenciales.md",
     "Algoritmos y Programación II/Informe_ABB.md",
     "conflict-files-obsidian-git.md",
@@ -126,8 +127,6 @@
     "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Ecuaciones Diferenciales Ordinarias (EDO).md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md"
   ]
 }

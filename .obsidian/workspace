@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "ef1e02436ac9c992",
+    "id": "6fcbf5d28feaf53a",
     "type": "split",
     "children": [
       {
-        "id": "5d8c3a2741146624",
+        "id": "d01fe3cb446d07d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6612a54442734667",
+    "id": "a06b0f87ccd87252",
     "type": "split",
     "children": [
       {
-        "id": "74d35282a705107a",
+        "id": "d3e668218d37f99c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a79e0736b09572d",
+            "id": "1f0ff475a551d0ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "28fc762ad0b43c67",
+            "id": "332773528d4c7fa9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"producto vectorial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,47 +50,46 @@
             }
           },
           {
-            "id": "c8d607776b4c33b2",
+            "id": "e00d2f83846b1c6f",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
-    "id": "436c5de0b71fa9ef",
+    "id": "bb8a3eb3df49ac66",
     "type": "split",
     "children": [
       {
-        "id": "63a996253cd9efbb",
+        "id": "f25f4516dde8df05",
         "type": "tabs",
         "children": [
           {
-            "id": "665ab3eea9f75da7",
+            "id": "bea7dcb4a257b4ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
+                "file": "Algoritmos y Programación II/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2951290f6d2c0036",
+            "id": "04810a1842f67df0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -101,39 +100,12 @@
             }
           },
           {
-            "id": "0b593a34e27ff9c4",
+            "id": "ade5cc5e7c3e2ebc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md"
-              }
-            }
-          },
-          {
-            "id": "fb50f0fe0be36d5e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "146ea6bfbcd342ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0a43c2493001366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-                "mode": "source",
-                "source": false
+                "file": "Algoritmos y Programación II/Arboles.md"
               }
             }
           }
@@ -144,17 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d8c3a2741146624",
+  "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
-    "Algoritmos y Programación II/Sorting.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Arboles.md",
-    "Algoritmos y Programación II/AVL.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación II/Algoritmos Recursivos.md",
-    "a.md",
-    "aux.md"
+    "Algoritmos y Programación II/AVL.md"
   ]
 }

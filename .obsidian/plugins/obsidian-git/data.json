@@ -1,6 +1,5 @@
 {
   "commitMessage": "vault backup: {{date}}-Kvothe's Desktop",
-  "autoCommitMessage": "vault backup: {{date}}-Kvothe's Desktop",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 30,
   "autoPullInterval": 0,
@@ -11,11 +10,6 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "syncMethod": "merge",
   "gitPath": "",
-  "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
-  "treeStructure": false,
-  "refreshSourceControl": true,
-  "basePath": ""
+  "customMessageOnAutoBackup": false
 }

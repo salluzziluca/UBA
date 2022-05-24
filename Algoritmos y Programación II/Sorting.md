@@ -47,7 +47,7 @@ Siempre el pivote es el ultimo elemento y la posicion pivote el primero.
 
 ### Caracteristicas de quick sort
 - Complejidad algorítmica
-	O(n)
+	O(n^2)
 - Complejidad computacional
 	n+k
 

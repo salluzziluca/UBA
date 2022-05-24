@@ -15,7 +15,13 @@ Caracteristicas
 - Adaptatividad
 	Es adaptativo cuando se adapta al comun de datos
 ## Merge sort
-Divide en dos el vector y ahi analiza
+Divide en dos 
+va hacia la izquierda
+Va hacia la derecha
+mergea (ordenando)
+![[Pasted image 20220524145516.png]]
+![[Pasted image 20220524145524.png]]
+![[Pasted image 20220524145536.png]]
 
 ## Quick Sort
 1. Inicializo el pivote y su posición

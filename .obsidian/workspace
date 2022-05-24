@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Heap.md",
+            "file": "Algoritmos y Programación II/Sorting.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Heap.md",
+                "file": "Algoritmos y Programación II/Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Heap.md"
+                "file": "Algoritmos y Programación II/Sorting.md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "300c68c7f2d175c4",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Sorting.md",
     "Algoritmos y Programación II/Heap.md",
     "Algoritmos y Programación II/Arboles.md",
     "Pasted image 20220510182114.png.md",
@@ -152,7 +153,6 @@
     "Excalidraw/Arbol B.md",
     "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
-    "Excalidraw/Arbol Rojo Negro.md",
-    "Algoritmos y Programación II/Testeo.md"
+    "Excalidraw/Arbol Rojo Negro.md"
   ]
 }

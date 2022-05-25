@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "6fcbf5d28feaf53a",
+    "id": "ef1e02436ac9c992",
     "type": "split",
     "children": [
       {
-        "id": "d01fe3cb446d07d0",
+        "id": "50d26088503a3eb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a06b0f87ccd87252",
+    "id": "6612a54442734667",
     "type": "split",
     "children": [
       {
-        "id": "d3e668218d37f99c",
+        "id": "74d35282a705107a",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0ff475a551d0ff",
+            "id": "9a79e0736b09572d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "332773528d4c7fa9",
+            "id": "28fc762ad0b43c67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "e00d2f83846b1c6f",
+            "id": "c8d607776b4c33b2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,18 +61,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
-    "id": "bb8a3eb3df49ac66",
+    "id": "436c5de0b71fa9ef",
     "type": "split",
     "children": [
       {
-        "id": "f25f4516dde8df05",
+        "id": "63a996253cd9efbb",
         "type": "tabs",
         "children": [
           {
-            "id": "bea7dcb4a257b4ac",
+            "id": "665ab3eea9f75da7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,12 +85,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "04810a1842f67df0",
+            "id": "2951290f6d2c0036",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,12 +101,38 @@
             }
           },
           {
-            "id": "ade5cc5e7c3e2ebc",
+            "id": "0b593a34e27ff9c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md"
+              }
+            }
+          },
+          {
+            "id": "fb50f0fe0be36d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "146ea6bfbcd342ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a43c2493001366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,16 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d01fe3cb446d07d0",
+  "active": "50d26088503a3eb2",
   "lastOpenFiles": [
     "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Algoritmos y Programación II/Cola.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/Sorting.md",
-    "Algoritmos y Programación II/Punteros.md",
-    "Algoritmos y Programación II/Arboles.md",
     "conflict-files-obsidian-git.md",
-    "Algoritmos y Programación II/AVL.md"
+    "Algoritmos y Programación II/AVL.md",
+    "Algoritmos y Programación II/Heap.md",
+    "Algoritmos y Programación II/Arboles.md",
+    "Pasted image 20220510182114.png.md",
+    "Algoritmos y Programación II/Arbol B.md",
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Excalidraw/Arbol B.md"
   ]
 }

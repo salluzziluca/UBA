@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
+            "file": "Algoritmos y Programación II/Sorting.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
+                "file": "Algoritmos y Programación II/Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md"
+                "file": "Algoritmos y Programación II/Sorting.md"
               }
             }
           }
@@ -118,8 +118,9 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/Sorting.md",
+    "Algoritmos y Programación II/Punteros.md",
+    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/Arboles.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/AVL.md"

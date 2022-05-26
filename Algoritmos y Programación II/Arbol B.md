@@ -3,7 +3,7 @@ Es un tipo de [[Arboles|arbol n-ario]]. Que se caracteriza por expandirse a lo a
 k = claves
 m = cantidad maxima de descendientes = k +1
 ⌊k/2⌋ = cantidad minima de claves
-⌈m/2⌉ = cantidad máxima de claves
+⌈m/2⌉ = cantidad minima de descendientes
  ## Caracterísiticas de arbol B
  - Poca profundidad
  - Acceso poco costoso

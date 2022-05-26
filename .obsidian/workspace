@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "50d26088503a3eb2",
+        "id": "bc9a448966152047",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "excalidraw",
           "state": {
-            "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf"
+            "file": "Excalidraw/Drawing 2022-05-26 13.13.33.excalidraw.md"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
+                "file": "Excalidraw/Drawing 2022-05-26 13.13.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf"
+                "file": "Excalidraw/Drawing 2022-05-26 13.13.33.excalidraw.md"
               }
             }
           },
@@ -141,8 +141,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50d26088503a3eb2",
+  "active": "bc9a448966152047",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-05-26 13.13.33.excalidraw.md",
     "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
     "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/AVL.md",
@@ -151,7 +152,6 @@
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/Heap.md",
     "Algoritmos y Programación II/Arboles.md",
-    "Pasted image 20220510182114.png.md",
-    "Algoritmos y Programación II/Arbol B.md"
+    "Pasted image 20220510182114.png.md"
   ]
 }

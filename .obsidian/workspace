@@ -7,11 +7,9 @@
         "id": "50d26088503a3eb2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-            "mode": "source",
-            "source": false
+            "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf"
           }
         }
       }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
+                "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md"
+                "file": "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf"
               }
             }
           },
@@ -145,15 +143,15 @@
   },
   "active": "50d26088503a3eb2",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Algoritmos y Programación II/Sorting.md",
-    "conflict-files-obsidian-git.md",
+    "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
+    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/AVL.md",
+    "Algoritmos y Programación II/Sorting.md",
+    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
+    "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/Heap.md",
     "Algoritmos y Programación II/Arboles.md",
     "Pasted image 20220510182114.png.md",
-    "Algoritmos y Programación II/Arbol B.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Excalidraw/Arbol B.md"
+    "Algoritmos y Programación II/Arbol B.md"
   ]
 }

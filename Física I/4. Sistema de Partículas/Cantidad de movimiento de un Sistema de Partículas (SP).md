@@ -8,8 +8,8 @@ Esto sería igual al caso en el que toda la masa estuviese concentrada en el CM 
 ![[Pasted image 20211013090457.png]]
 
 ### resultados de la primera ecuación fundamental de los SP
-- El movimiento del CM está determinado exclusivamente por las fuerzas externas
-- Si elsistema está aislado, las fuerzas externas son nulas, por las cantidad de movimiento del SP es constante. El vector P es una constante de movimiento. ![[Pasted image 20211013092104.png]]
+- ==El movimiento del CM está determinado exclusivamente por las fuerzas externas
+- Si el sistema está aislado, las fuerzas externas son nulas, por las cantidad de movimiento del SP es constante. El vector P es una constante de movimiento. ![[Pasted image 20211013092104.png]]
 - En un sistema aislado, la velocidad del centro de masa es constante. (un MRU) ![[Pasted image 20211013092524.png]]
 - Si en un SP aislado la velocidad del centro de masa es nula, esta seguira siendo siempre nula por lo que ==la posición del CM permanece constante en el tiempo.==
 

@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0d59095308c1c0da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmos y Programación II/Diccionarios.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "fff62d620b933a4d",
         "type": "leaf",
         "state": {
@@ -73,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "436c5de0b71fa9ef",

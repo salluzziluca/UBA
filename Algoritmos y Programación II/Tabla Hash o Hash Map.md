@@ -22,4 +22,7 @@ En la imagen de arriba, tenemos una colisión, son dos claves que hasheadas dan 
 - Para resolver colisiones buscamos nuevas posiciones para el valor
 #### Tipos de metodos de busqueda
 ![[Pasted image 20220531193829.png]]
+
+#### Rehash
 ![[Pasted image 20220531193740.png]]
+Cuando el fctor de carga es mayor a un numero elegido por nosotros, rehasheamos, aumentando la capacidad del hash

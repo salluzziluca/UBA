@@ -32,3 +32,4 @@ Tipos de TDA:
 - [[Lista]]
 - [[Nodo Enlazado]]
 - [[Arboles]]
+- [[Diccionarios]]

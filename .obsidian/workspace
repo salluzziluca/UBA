@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Hash.md",
+            "file": "Algoritmos y Programación II/Diccionarios.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fff62d620b933a4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Hash.md",
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Hash.md"
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
               }
             }
           },
@@ -143,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d59095308c1c0da",
+  "active": "fff62d620b933a4d",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Hash.md",
+    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Algoritmos y Programación II/Diccionarios.md",
+    "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
     "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
     "Física I/4. Sistema de Partículas/Colisiones y Choques.md",
     "Física I/4. Sistema de Partículas/Demostracion de la Primera Ecuación Fundamental del Centro de Masa.md",
     "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Impulso de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
-    "Física I/4. Sistema de Partículas/Segunda Ecuación Fundamental del Sistema de Partículas.md"
+    "Física I/4. Sistema de Partículas/Impulso de un Sistema de Partículas.md"
   ]
 }

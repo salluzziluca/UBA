@@ -1,4 +1,4 @@
-# Hash
+# Tabla Hash o Hash Map
 Una estructura que contiene valores. Estos valores se pueden hallar mediante claves.
 
 ![[Pasted image 20220531183348.png]]
@@ -18,4 +18,8 @@ En la imagen de arriba, tenemos una colisión, son dos claves que hasheadas dan 
 ![[Pasted image 20220531190252.png]]
 ### Hash Cerrado
 - Los elementos se guardan adentro de la estructura
-- Tipo de direccionamiento abierto
+- Tipo de direccionamiento abierto. Por ende, el tamaño de la tabla >= nro de claves
+- Para resolver colisiones buscamos nuevas posiciones para el valor
+#### Tipos de metodos de busqueda
+![[Pasted image 20220531193829.png]]
+![[Pasted image 20220531193740.png]]

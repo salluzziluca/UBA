@@ -12,6 +12,10 @@ En la imagen de arriba, tenemos una colisión, son dos claves que hasheadas dan 
 
 ## Tipos de has
 ### Hash abierto
-- Tipo de direccionamiento cerrado
+- Los elementos se guardan afuera de la estructura (por eso es abierto)
+- Tipo de direccionamiento cerrado (siempre que tengamos una colision, la clave va a terminar en el valor al que colisiona, si F hashea como 0, aunque colisione, siempre va a ir a 0)
+- Su complejidad en el peor caso (todo colisiona al mismo numero porque tenemos una funcion hash horrible) es O(n)
+![[Pasted image 20220531190252.png]]
 ### Hash Cerrado
+- Los elementos se guardan adentro de la estructura
 - Tipo de direccionamiento abierto

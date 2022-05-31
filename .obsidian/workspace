@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
+            "file": "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 201.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
+                "file": "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md"
+                "file": "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "0d59095308c1c0da",
   "lastOpenFiles": [
+    "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
     "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
@@ -152,7 +153,6 @@
     "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
     "Física I/4. Sistema de Partículas/Segunda Ecuación Fundamental del Sistema de Partículas.md",
     "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md",
-    "Algoritmos y Programación II/Arbol B.md",
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md"
+    "Algoritmos y Programación II/Arbol B.md"
   ]
 }

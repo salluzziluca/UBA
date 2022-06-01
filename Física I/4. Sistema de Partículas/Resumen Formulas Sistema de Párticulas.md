@@ -1,10 +1,14 @@
 # Resumen Formulas Sistema de Párticulas
 $$\LARGE p = m\ . v$$
 $$\LARGE L = r \times p = m(r \times v)$$
-$$ L_{sist} = L_1 + L_2 + L_n$$
-$$ L_{CM} = L_{1,CM} + L_{2,CM} + L_{n,CM}$$
+$$ L_{sist,O} = L_1 + L_2 + L_n$$
+$$ L_{sist, CM} =L_{de \ spin}= L_{1,CM} + L_{2,CM} + L_{n,CM}$$
 $$L_{n,CM} = m_n (r_{n,CM} \times v_{n,CM})$$
 $$r_{n,cm} = r_1 - r_{cm}$$
 $$v_{n,cm} = v_1 - v_{cm}$$
-$$\LARGE L_{sist}$$
+$$L_{CM,O} = M_{CM} (r_{CM} \times v_{CM})$$
+$$\LARGE L_{sist,O} = L_{sist, CM}+ L_{CM, O}$$
 $$\LARGE Impulso = \int_{t_0}^t F\  dt=p - p_0$$
+
+
+$$\LARGE E_{sist,O}= E_{sist,CM} + \frac 1 2 . M_r (v_{CM,O})²$$

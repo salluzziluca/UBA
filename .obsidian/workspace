@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
+            "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md"
+                "file": "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "fff62d620b933a4d",
   "lastOpenFiles": [
+    "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/4. Sistema de Partículas/Colisiones y Choques.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
@@ -153,7 +154,6 @@
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
     "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
     "Física I/4. Sistema de Partículas/Demostracion de la Primera Ecuación Fundamental del Centro de Masa.md",
-    "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md"
+    "Física I/4. Sistema de Partículas/Ecuaciones Fundamentales de un Sistema de Partículas.md"
   ]
 }

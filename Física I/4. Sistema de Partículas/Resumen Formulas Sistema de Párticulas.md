@@ -11,4 +11,5 @@ $$\LARGE L_{sist,O} = L_{sist, CM}+ L_{CM, O}$$
 $$\LARGE Impulso = \int_{t_0}^t F\  dt=p - p_0$$
 
 
-$$\LARGE E_{sist,O}= E_{sist,CM} + \frac 1 2 . M_r (v_{CM,O})²$$
+$$E_c = \frac 1 2 .m. (|\vec v|)²$$
+$$\LARGE E_{sist,O}= E_{sist,CM} + \frac 1 2 . M_CM (v_{CM,O})²$$

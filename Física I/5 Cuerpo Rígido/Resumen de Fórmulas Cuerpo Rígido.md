@@ -1,5 +1,5 @@
 # Resumen de Fórmulas Cuerpo Rígido
-$$velocidad \ angular = \omega$$
+$$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \gamma$$
 $$\frac {dL}{dt}= \tau$$
@@ -8,3 +8,4 @@ Si una fuerza esta aplicada sobre el centro de masa, no hace momento en él. Por
 $$v_{a}=\vec v_{CM} + v_{a,CM}= \vec v_{CM} + \omega \times R$$
 
 Condicion de rigidez = $(\vec v_a - \vec v_b).(\vec r_a - \vec r_b) = 0$
+![[Pasted image 20220602155321.png]] tomando la velocidad y posicion en el eje que los une. En este caso, en $\hat j$ 

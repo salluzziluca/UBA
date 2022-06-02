@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heapsort",
+                "query": "product",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,6 +147,7 @@
   "active": "fff62d620b933a4d",
   "lastOpenFiles": [
     "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/4. Sistema de Partículas/Colisiones y Choques.md",
@@ -153,7 +155,6 @@
     "Algoritmos y Programación II/Diccionarios.md",
     "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md",
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md",
-    "Física I/4. Sistema de Partículas/Demostracion de la Primera Ecuación Fundamental del Centro de Masa.md"
+    "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md"
   ]
 }

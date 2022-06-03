@@ -1,5 +1,7 @@
 # Hdioro
-$$Caudal = Q = \frac {vol}{tiempo}$$
+$$Caudal = Q = \frac {vol}{tiempo}= S \frac {dx}{dt} = v.S$$
+$$Pression = \frac {F}{Sup}$$
+$$P_{abs}=P_{rel}+P_{atm}$$
 ## Bernoulli
 ### Condiciones 
 - Flujo estable o estacionario (las velocidades en cada punto no dependen del tiempo).

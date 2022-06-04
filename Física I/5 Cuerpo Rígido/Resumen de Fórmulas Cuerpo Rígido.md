@@ -17,3 +17,5 @@ $$I = Momento de inercia$$
 Es diferente para cada cuerpo y cambia segun el eje que estemos tomando
 El ==teorema de steiner== permite obtener el momento de inercia de una figura respecto a cualquier eje paralelo a uno $I$ ya conocido 
 $$I_2 = I_1 + M.d^2$$
+
+$$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$

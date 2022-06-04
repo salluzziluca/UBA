@@ -19,3 +19,6 @@ El ==teorema de steiner== permite obtener el momento de inercia de una figura re
 $$I_2 = I_1 + M.d^2$$
 
 $$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$
+
+$$\sum Momentos = I_{cm}\ \gamma$$
+$$a_cm= \gamma R$$

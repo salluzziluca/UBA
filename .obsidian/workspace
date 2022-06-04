@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "436c5de0b71fa9ef",
@@ -146,13 +145,13 @@
   "active": "fff62d620b933a4d",
   "lastOpenFiles": [
     "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/hidrodinamica.md",
-    "Pasted image 20220510182114.png.md",
     "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
     "Algoritmos y Programación II/eqwqw.md",
+    "Pasted image 20220510182114.png.md",
     "Algoritmos y Programación II/Diccionarios.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/4. Sistema de Partículas/Colisiones y Choques.md"
   ]

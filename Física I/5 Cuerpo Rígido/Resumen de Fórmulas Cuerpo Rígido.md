@@ -13,4 +13,7 @@ Condicion de rigidez = $(\vec v_a - \vec v_b).(\vec r_a - \vec r_b) = 0$
 ![[Pasted image 20220602155321.png]] tomando la velocidad y posicion en el eje que los une. En este caso, en $\hat j$ 
 
 
-v_cir/x = v_x +  
+$$I = Momento de inercia$$
+Es diferente para cada cuerpo y cambia segun el eje que estemos tomando
+El ==teorema de steiner== permite obtener el momento de inercia de una figura respecto a cualquier eje paralelo a uno $I$ ya conocido 
+$$I_2 = I_1 + M.d^2$$

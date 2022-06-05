@@ -14,3 +14,4 @@ $$\LARGE Impulso= \sum \vec J_{ext} = \int_{t_0}^t F\  dt=p - p_0$$
 $$E_sist = E_p + E_c = \sum E_p + \sum E_c$$$
 $$E_{c1,O}= \frac 1 2 .m. (|\vec v_{1,O}|)²$$
 $$\LARGE E_{sist,O}= E_{sist,CM} + \frac 1 2 . M_{CM} (v_{CM,O})²$$
+$$\triangledown E = \frac 1 2 M V_{CM}^2 - \frac 1 2 m_1 . v_1^2 - \frac 1 2 m_2 . v_2^2 $$

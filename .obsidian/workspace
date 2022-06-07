@@ -7,11 +7,9 @@
         "id": "d01fe3cb446d07d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md",
+                "file": "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Complejidad de Algoritmos.md"
+                "file": "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md"
               }
             }
           }
@@ -118,6 +116,7 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md",
     "Algoritmos y Programación II/Complejidad de Algoritmos.md",
     "Algoritmos y Programación II/Cola.md",
     "Algoritmos y Programación II/Algoritmos y Programación II.md",

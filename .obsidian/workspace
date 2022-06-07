@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "constructor ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

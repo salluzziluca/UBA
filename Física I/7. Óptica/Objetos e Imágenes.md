@@ -12,5 +12,6 @@ Si por el centro del haz pasan realmente los rayos, entonces el objeto o la imag
 
 Los [[Espejos#Espejos planos|espejos planos]] crean imagenes virtuales y no reales.
 ![[Pasted image 20211216121907.png]]
+![[Pasted image 20220608085254.png]]
 Los [[Espejos#Espejos cóncavos|espejos cóncavos]] crean imagenes reales
 ![[Pasted image 20211216121910.png]]

@@ -11,7 +11,11 @@ Planos o esfericos. Estos objetos dividen dos planos. El rayo pasa de un plano a
 $$|r| = |i|$$
 Es decir, el angulo de incidencia es SIEMPRE igual en modulo al angulo reflejado
 El angulo transmitido depende del medio del que viene y del medio al que va.
-Si $i = 0 \leftrightarrow t = 0$  
+Si $i = 0 \leftrightarrow t = 0$ 
+
+### Ley de Snell
+$$n_1 sen|i| = n_2 sen|t|$$
+Siendo n el indice de refraccion de cada uno de los medios, respectivamente. Para obtener el indice de refracción "default" se lo compara con vacio. 
 ## Principios fundamentales de la óptica geométrica
 ### 1. Propagación rectilínea:
 > la luz se propaga en línea recta

@@ -1,4 +1,17 @@
 # Óptica Geométrica
+Estudiamos "rayos" de luz. Les decimos asi porque historicamente ese es su nombre.
+Los rayos viajan en linea recta hasta encontrar un objeto.
+
+Tipos de objetos:
+Planos o esfericos. Estos objetos dividen dos planos. El rayo pasa de un plano a otro.
+![[Superficie plana versus esferica]]
+
+### Incidencia de un Rayo
+![[Incidencia de un rayo]]
+$$|r| = |i|$$
+Es decir, el angulo de incidencia es SIEMPRE igual en modulo al angulo reflejado
+El angulo transmitido depende del medio del que viene y del medio al que va.
+Si $i = 0 \leftrightarrow t = 0$  
 ## Principios fundamentales de la óptica geométrica
 ### 1. Propagación rectilínea:
 > la luz se propaga en línea recta

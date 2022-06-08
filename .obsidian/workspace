@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
+            "file": "Física I/7. Óptica/óptica Geométrica.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
+                "file": "Física I/7. Óptica/óptica Geométrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
+                "file": "Física I/7. Óptica/óptica Geométrica.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Física I/7. Óptica/óptica Geométrica.md",
+    "Excalidraw/Incidencia de un rayo.md",
+    "Excalidraw/Superficie plana versus esferica.md",
+    "Física I/7. Óptica/7.0  Óptica.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Algoritmos y Programación II/Heap.md",
     "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md",
     "Algoritmos y Programación II/Arbol B.md",
     "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Algoritmos y Programación II/Cola.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
-    "Algoritmos y Programación II/Sorting.md",
-    "Algoritmos y Programación II/Punteros.md"
+    "Algoritmos y Programación II/Cola.md"
   ]
 }

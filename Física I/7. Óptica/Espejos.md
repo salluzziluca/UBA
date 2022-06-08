@@ -1,4 +1,4 @@
-	# Espejos
+# Espejos
 
 ## Espejos planos
 Dan siempre imágenes virtuales, la convergencia se da "detrás" del espejo. Geométricamente hablamos de una simetría axial porque el tamaño de la imagen es igual al del objeto

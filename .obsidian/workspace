@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -120,13 +121,13 @@
   "lastOpenFiles": [
     "Física I/7. Óptica/Espejos.md",
     "Física I/7. Óptica/Objetos e Imágenes.md",
+    "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/7. Óptica/óptica Geométrica.md",
     "Excalidraw/Incidencia de un rayo.md",
     "Excalidraw/Superficie plana versus esferica.md",
     "Física I/7. Óptica/7.0  Óptica.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Algoritmos y Programación II/Heap.md",
-    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md",
-    "Algoritmos y Programación II/Arbol B.md"
+    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md"
   ]
 }

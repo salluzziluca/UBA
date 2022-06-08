@@ -16,6 +16,8 @@ Si $i = 0 \leftrightarrow t = 0$
 ### Ley de Snell
 $$n_1 sen|i| = n_2 sen|t|$$
 Siendo n el indice de refraccion de cada uno de los medios, respectivamente. Para obtener el indice de refracción "default" se lo compara con vacio. 
+
+$$\LARGE \frac 1 x + \frac 1 {x'}=\frac 1 f=-\frac 1 {f'}$$
 ## Principios fundamentales de la óptica geométrica
 ### 1. Propagación rectilínea:
 > la luz se propaga en línea recta

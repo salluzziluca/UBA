@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Espejos.md",
+            "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md",
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md"
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
               }
             }
           }
@@ -119,14 +118,14 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Física I/7. Óptica/Espejos.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
-    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Física I/7. Óptica/óptica Geométrica.md",
+    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Física I/7. Óptica/Objetos e Imágenes.md",
+    "Física I/7. Óptica/Espejos.md",
     "Excalidraw/Incidencia de un rayo.md",
     "Excalidraw/Superficie plana versus esferica.md",
     "Física I/7. Óptica/7.0  Óptica.md",
-    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Algoritmos y Programación II/Heap.md",
     "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md"
   ]

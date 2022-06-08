@@ -4,7 +4,7 @@
 Dan siempre imágenes virtuales, la convergencia se da "detrás" del espejo. Geométricamente hablamos de una simetría axial porque el tamaño de la imagen es igual al del objeto
 ![[Pasted image 20211216122818.png]]
 ## Espejos esféricos
-$$\LARGE \frac 1 x + \frac 1 {x'}=\frac 1 f$$
+$$\LARGE \frac 1 x + \frac 1 {x'}=\frac 1 f=-\frac 1 {f'}$$
 $$x' = \frac {f.x}{x-f}$$
 $$x'=x-vision\ clara$$
 $$f=distancia \ \ focal =\frac R 2$$

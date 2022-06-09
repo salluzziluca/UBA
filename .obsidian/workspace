@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+            "file": "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "producto vectorial",
+                "query": "magic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+                "file": "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md"
+                "file": "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación I/Magic Metods (Métodos Magicos).md",
+    "Análisis Matemático II/7. Extremos/Extremos Ligados.md",
+    "Análisis Matemático II/7. Extremos/Extremos Libres.md",
+    "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
     "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Física I/7. Óptica/óptica Geométrica.md",
-    "Física I/7. Óptica/Lentes Delgadas.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
-    "Física I/7. Óptica/Espejos.md",
-    "Excalidraw/Incidencia de un rayo.md",
-    "Excalidraw/Superficie plana versus esferica.md"
+    "Física I/7. Óptica/Lentes Delgadas.md"
   ]
 }

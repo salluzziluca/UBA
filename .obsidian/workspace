@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
+            "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constructor ",
+                "query": "polinomio ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
+                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
+                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md"
               }
             }
           }
@@ -118,6 +119,7 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Física I/7. Óptica/óptica Geométrica.md",
     "Física I/7. Óptica/Lentes Delgadas.md",
@@ -126,7 +128,6 @@
     "Excalidraw/Incidencia de un rayo.md",
     "Excalidraw/Superficie plana versus esferica.md",
     "Física I/7. Óptica/7.0  Óptica.md",
-    "Algoritmos y Programación II/Heap.md",
-    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.md"
+    "Algoritmos y Programación II/Heap.md"
   ]
 }

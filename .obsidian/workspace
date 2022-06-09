@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
+            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polinomio ",
+                "query": "producto vectorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Física I/7. Óptica/óptica Geométrica.md",
@@ -127,7 +128,6 @@
     "Física I/7. Óptica/Espejos.md",
     "Excalidraw/Incidencia de un rayo.md",
     "Excalidraw/Superficie plana versus esferica.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Algoritmos y Programación II/Heap.md"
+    "Física I/7. Óptica/7.0  Óptica.md"
   ]
 }

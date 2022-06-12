@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Ley de Snell.md",
+            "file": "Física I/7. Óptica/Espejos.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Ley de Snell.md",
+                "file": "Física I/7. Óptica/Espejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Ley de Snell.md"
+                "file": "Física I/7. Óptica/Espejos.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Física I/7. Óptica/Espejos.md",
     "Física I/7. Óptica/Ley de Snell.md",
     "Física I/7. Óptica/óptica Geométrica.md",
     "Física I/7. Óptica/7.0  Óptica.md",
@@ -126,7 +127,6 @@
     "Análisis Matemático II/7. Extremos/Extremos Ligados.md",
     "Análisis Matemático II/7. Extremos/Extremos Libres.md",
     "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
-    "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
+    "Análisis Matemático II/7. Extremos/Paso a paso extremos.md"
   ]
 }

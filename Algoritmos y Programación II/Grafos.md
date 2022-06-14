@@ -78,3 +78,18 @@ Borra un vértice
 
 ## Representaciones
 ### Matriz de adyacencia
+![[Pasted image 20220614193225.png]]Para que sea simple todos los valores tienen que estar entre 0 y 1 menos la diagonal que tiene que ser siempre 0
+En un [[Grafos#Grafo dirigido| grafo dirigido]] la matriz registra solo el vértice de inicio y el vértice final.
+![[Pasted image 20220614193400.png]]
+Si el grafo tiene [[Grafos#Grafo con peso| peso]] la matriz registra eso
+![[Pasted image 20220614193516.png]]
+
+### Lista de adyacencia 
+Cada vertice contiene una lista simplemente enlazada
+![[Pasted image 20220614194257.png]]
+
+Con [[Grafos#Grafo dirigido| grafo dirigido]] respetamos las direcciones
+![[Pasted image 20220614194514.png]]
+Y si es un [[Grafos#Grafo con peso|grafo con peso]] guardamos el peso como un valor más
+![[Pasted image 20220614194559.png]]
+### Matriz de incidencia

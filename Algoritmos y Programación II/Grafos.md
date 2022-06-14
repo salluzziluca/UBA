@@ -16,9 +16,9 @@ Al menos una de sus aristas es unidireccional. (puede haber aristas bidirecciona
 
 
 ### Grafo con peso
-Todas sus aristas poseen un valor que implica un costo a la hora de tener que transitar de un vertice a otro
+Todas sus aristas poseen un valor que implica un costo a la hora de tener que transitar de un vértice a otro
 
-### Clasificacion
+### Clasificación
 podemos tener 
 - Grafos dirigidos con peso
 - Grafos dirigidos sin peso
@@ -26,8 +26,55 @@ podemos tener
 - Grafos no dirigidos sin peso
 
 ### Grafo simple
-Es aquel que no posee aristas multiples ni lazos
+Es aquel que no posee aristas múltiples ni lazos. Es decir, para un par de vértices hay una sola arista.
 ![[Pasted image 20220614185043.png]]
+
+### Grafo denso
+Un grafo es denso cuando su numero de aristas esta muy cerca del valor maximo de aristas que puede tener
+$$D = \frac {2 |E|}{|V| (|V|-1)}$$
+Si D tiende a 0 tenemos un grado disperso (siendo 0 un grafo con cero aristas)
+![[Pasted image 20220614185847.png]]
+
+
+Si D tiende a 1 tenemos un grafo denso
+![[Pasted image 20220614185833.png]]
+
+### Grafo cíclico
+Es un grafo en el que se pueden recorrer las aristas adyacentes empezando y terminando en el mismo lugar
+![[Pasted image 20220614190442.png]]
+derecha cíclico izquierda acíclico.
+
+## Camino
+Un recorrido a través de un grafo, CUALQUIERA. Pasando por sus vertices de toque
+
+### Camino Simple 
+Un camino, pero que pasa a lo sumo una vez por cada vértice
+
+## Componente Conexa
+Conjunto de vértices donde existe un camino de un vértice a otro (únicamente para  [[Grafos#Grafo no dirigido|grafos no dirigidos]]).
+
+## Grado de entrada
+Cantidad de aristas que entran al vértice (solo en [[Grafos#Grafo dirigido|grafos dirigidos]])
+
+## Grado de salida 
+Cantidad de aristas que salen del vértice(solo en [[Grafos#Grafo dirigido|grafos dirigidos]])
+
+## Grado de vertice
+En [[Grafos#Grafo no dirigido| grafos no dirigidos]] la cantidad de aristas que salen y entran al vertice (son las mismas).
+
 ## Utilización "default"
 Son utiles para hacer mapas. En este caso, queremos pasar por la mayor cantidad de paradas desde el punto A al punto B
 ![[Pasted image 20220614183846.png]]
+
+## Primitivas
+##### Crear
+##### Insertar
+inserta un vertice
+##### Insertar arista
+##### Borrar
+Borra un vértice
+##### Borrar arista
+##### Destruir
+
+## Representaciones
+### Matriz de adyacencia

@@ -93,3 +93,23 @@ Con [[Grafos#Grafo dirigido| grafo dirigido]] respetamos las direcciones
 Y si es un [[Grafos#Grafo con peso|grafo con peso]] guardamos el peso como un valor más
 ![[Pasted image 20220614194559.png]]
 ### Matriz de incidencia
+Para esto necesitamos identificar las aristas
+Si el grafo a representar es dirigido: se le asigna -1 al vértice de salida y 1 al vértice de entrada Esta matriz es Z , donde m es la cantidad de aristas y n es la cantidad de vértices. mxn 
+Por cada arista identificamos que nodos inciden con él y lo marcamos en un grafo no dirigido con 1. 
+Si el grafo fuera dirigido y con peso, en vez de utilizar el número 1 se utiliza el número del peso de cada arista.
+
+![[Pasted image 20220614200158.png]]
+
+
+Con [[Grafos#Grafo dirigido| grafo dirigido]] respetamos las direcciones
+![[Pasted image 20220614200222.png]]
+
+Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con peso|grafo con peso]] guardamos combinamos ambas cosas
+![[Pasted image 20220614200331.png]]
+
+## Tipos de recorridos
+### En profundidad: DFS (Depth First Search)
+En este caso se van a visitar los nodos hijos primero, avanzando hasta que no se pueda continuar. Luego se “vuelve” hasta un hijo donde se tenían más caminos, y se vuelve a realizar la misma lógica.
+
+### En anchura: BFS (Breath First Search)
+Se encara el recorrido del grafo en anchura, es decir, primero visita nodos hermanos/vecinos antes de visitar nodos hijos. Para su implementación se utiliza una cola

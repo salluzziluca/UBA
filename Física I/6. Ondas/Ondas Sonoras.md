@@ -29,4 +29,4 @@
   $$I = \frac P A = \frac P {4.\pi.R^2}$$
   
   ## Casos Particulares 
-  [[Efecto Doppler]]
+  ![[Efecto Doppler]]

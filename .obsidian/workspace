@@ -7,11 +7,9 @@
         "id": "d01fe3cb446d07d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Física I/7. Óptica/Espejos.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Hash.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md",
+                "file": "Excalidraw/Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Espejos.md"
+                "file": "Excalidraw/Hash.md"
               }
             }
           }
@@ -118,6 +116,8 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Excalidraw/Hash.md",
+    "Excalidraw/Dibujo Pila.md",
     "Física I/7. Óptica/Espejos.md",
     "Física I/7. Óptica/Objetos e Imágenes.md",
     "Física I/7. Óptica/óptica Geométrica.md",
@@ -125,8 +125,6 @@
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/6.0 Ondas.md",
     "Física I/7. Óptica/Ley de Snell.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Algoritmos y Programación II/Grafos.md",
-    "Análisis Matemático II/Análisis Matemático II.md"
+    "Física I/7. Óptica/7.0  Óptica.md"
   ]
 }

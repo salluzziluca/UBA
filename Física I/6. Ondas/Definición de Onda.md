@@ -6,8 +6,8 @@ Todas las ondas verifican la ==ecuación de onda==
 
 $$\LARGE \frac {\delta^2y}{\delta x^2} = \frac 1 {v^2}\frac {\delta^2y}{\delta t^2}$$
 con $$\LARGE y = y(x, t) = f(x-vt)$$
-
-![[Pasted image 20220615083554.png]]
+Tenemos la velocidad de propagacion: velocidad a la que la inf viaja
+velocidad de perturbacion: velocidad de las particulas al rededor del equilibrio
 ## Tipos de ondas
 ### Ondas mecánicas
 vibran las moleculas y necesitan un medio material para propagarse

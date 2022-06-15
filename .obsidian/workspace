@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Definición de Onda.md",
+            "file": "Física I/6. Ondas/Ondas Sonoras.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Definición de Onda.md",
+                "file": "Física I/6. Ondas/Ondas Sonoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Definición de Onda.md"
+                "file": "Física I/6. Ondas/Ondas Sonoras.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/Ondas Sonoras.md",
+    "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/6.0 Ondas.md",
     "Física I/7. Óptica/Ley de Snell.md",
     "Física I/7. Óptica/Objetos e Imágenes.md",

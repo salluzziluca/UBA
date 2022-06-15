@@ -9,7 +9,7 @@ $$x' = \frac {f.x}{x-f} = \frac {Rx}{2x-R}$$
 
 $$x'=x-vision\ clara$$
 $$f=distancia \ \ focal =\frac R 2$$
-$$\LARGE {Agrandamiento} =  \frac {y'} {y}=- \frac {x'} x$$
+$$\LARGE {Agrandamiento} =  \frac {y'} {y}=- \frac {n_1x'} {n_2x}$$
 La imagen es real si x' es positiva
 La imagen es derecha si y tiene el mismo signo que y'
 ### Espejos cóncavos

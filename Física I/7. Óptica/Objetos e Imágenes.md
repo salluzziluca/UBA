@@ -15,3 +15,7 @@ Los [[Espejos#Espejos planos|espejos planos]] crean imagenes virtuales y no real
 ![[Pasted image 20220608085254.png]]
 Los [[Espejos#Espejos cóncavos|espejos cóncavos]] crean imagenes reales
 ![[Pasted image 20211216121910.png]]
+
+### Distancia optima
+La distancia óptima o de visión clara, es la distancia mínima aproximada a la que hay que ubicarse para que un ojo normal pueda enfocar bien.
+$|x|+|x'|$ = distancia óptima.

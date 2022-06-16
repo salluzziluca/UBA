@@ -75,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Hash.md"
-              }
+              "state": {}
             }
           }
         ]

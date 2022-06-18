@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Lentes Delgadas.md",
+            "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md",
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md"
+                "file": "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
               }
             }
           }
@@ -118,13 +118,13 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/7. Óptica/Espejos.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Física I/7. Óptica/óptica Geométrica.md",
     "Excalidraw/Hash.md",
     "Excalidraw/Dibujo Pila.md",
     "Física I/7. Óptica/Objetos e Imágenes.md",
+    "Física I/7. Óptica/óptica Geométrica.md",
     "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/6.0 Ondas.md"

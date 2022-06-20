@@ -5,7 +5,7 @@ $S_1 = S_2$ ⇾ $x_2 = x_1$
 ![[Pasted image 20220608094239.png]]
 
 Facilita mucho las cuentas porque eetsá todo medido en el mismo sistema
-$$\LARGE \frac {n_2}{x'}- \frac{n_2}{x} = \frac {n_2 -n_1}{R}$$
+$$\LARGE \frac {n_2}{x'}- \frac{n_1}{x} = \frac {n_2 -n_1}{R}$$
 $$A=\LARGE \frac {x' \ n_1}{x \ n_2}$$
 
 $$\frac {−n1}{f} = \frac {n2 − n1} {R}$$

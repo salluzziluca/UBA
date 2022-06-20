@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/informe_tda3_hash.md",
+            "file": "Física I/7. Óptica/Lentes Delgadas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/informe_tda3_hash.md",
+                "file": "Física I/7. Óptica/Lentes Delgadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/informe_tda3_hash.md"
+                "file": "Física I/7. Óptica/Lentes Delgadas.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Física I/7. Óptica/Espejos.md",
+    "Algoritmos y Programación II/Algoritmos Recursivos.md",
     "Algoritmos y Programación II/informe_tda3_hash.md",
     "Algoritmos y Programación II/Informe TP1.md",
     "Excalidraw/Diagrama de memoria de hash.md",
     "Excalidraw/Arbol binario de busqueda.md",
     "Algoritmos y Programación II/Informe_ABB.md",
     "Excalidraw/Diagrama de memoria de arbol.md",
-    "Excalidraw/Diagramas Física.svg",
-    "Excalidraw/Hash.md",
-    "Excalidraw/Hash quitar.md",
-    "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
+    "Excalidraw/Diagramas Física.svg"
   ]
 }

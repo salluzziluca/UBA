@@ -4,7 +4,9 @@ Un vertice puede volver sobre si mismo (lazo), siempre y cuando esto tenga un co
 ![[Pasted image 20220614182834.png]]
 
 ## Tipos de grafos
-
+![[Pasted image 20220621185749.png]]
+![[Pasted image 20220621185947.png]]
+![[Pasted image 20220621190901.png]]
 ### Grafo no dirigido
 Todas sus aristas son bidireccionales, se pueden recorrer en cualquiera de las dos direcciones
 Puedo ir de A a B y de B a A 

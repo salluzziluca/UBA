@@ -7,9 +7,11 @@
         "id": "d01fe3cb446d07d0",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Diagrama de memoria de arbol.md"
+            "file": "Algoritmos y Programación II/Grafos.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agrandamiento",
+                "query": "grafo ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -75,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Diagrama de memoria de arbol.md",
+                "file": "Algoritmos y Programación II/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Diagrama de memoria de arbol.md"
+                "file": "Algoritmos y Programación II/Grafos.md"
               }
             }
           }
@@ -116,6 +120,8 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Grafos.md",
+    "Algoritmos y Programación II/Arboles.md",
     "Excalidraw/Diagrama de memoria de arbol.md",
     "Excalidraw/Arbol degenerado a lista.md",
     "Excalidraw/Array recorrido inorden.md",
@@ -123,8 +129,6 @@
     "Excalidraw/Arbol Rojo Negro.md",
     "Excalidraw/Arbol B.md",
     "Excalidraw/Hash.md",
-    "Excalidraw/Dibujo Cola.md",
-    "Física I/7. Óptica/Lentes Delgadas.md",
-    "Física I/7. Óptica/Espejos.md"
+    "Excalidraw/Dibujo Cola.md"
   ]
 }

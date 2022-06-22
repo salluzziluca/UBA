@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grafo ",
+                "query": "fundamentales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -120,14 +119,14 @@
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
     "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Propagación de Onda.md",
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/6.0 Ondas.md",
     "Física I/6. Ondas/Ondas Sonoras.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Interferencia de Ondas.md",
-    "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/Ondas en Sólidos.md"
+    "Física I/6. Ondas/Interferencia de Ondas.md"
   ]
 }

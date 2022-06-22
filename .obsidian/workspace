@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Ondas Superficiales.md",
+            "file": "Física I/6. Ondas/Ondas en Sólidos.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Superficiales.md",
+                "file": "Física I/6. Ondas/Ondas en Sólidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Superficiales.md"
+                "file": "Física I/6. Ondas/Ondas en Sólidos.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Ondas Superficiales.md",
+    "Física I/6. Ondas/Ondas en Sólidos.md",
     "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/6. Ondas/Ondas Superficiales.md",
     "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
-    "Física I/6. Ondas/Ondas en Sólidos.md",
     "Física I/6. Ondas/Ondas en Cuerdas.md",
     "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Ondas Sonoras.md"
   ]
 }

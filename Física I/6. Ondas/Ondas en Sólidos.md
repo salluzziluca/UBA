@@ -4,6 +4,7 @@ Estas generan deformaciones en los solidos, estogenera que se alarge, se comprim
 - si las fuerzas son mayores no recobra la forma original
 
 ## Variables
+f = n/2l v
 Traccion = T = $\frac F A$ = fuerza sobre unidad de area
 Deformación Lineal = $\Delta = \frac {\delta L} {L}$
 Modulo de Young = Y = $\LARGE \frac {\frac F A} {\frac {\delta L} {L}} = \frac {k.L} A$

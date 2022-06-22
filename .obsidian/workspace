@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Recorridos Grafos.md",
+            "file": "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Recorridos Grafos.md",
+                "file": "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Recorridos Grafos.md"
+                "file": "Física I/6. Ondas/Ondas con Condiciones de Contorno.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Recorridos Grafos.md",
-    "Algoritmos y Programación II/Grafos.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "Excalidraw/Diagrama de memoria de arbol.md",
-    "Excalidraw/Arbol degenerado a lista.md",
-    "Excalidraw/Array recorrido inorden.md",
-    "Excalidraw/Array recorrido posorder.md",
-    "Excalidraw/Arbol Rojo Negro.md",
-    "Excalidraw/Arbol B.md",
-    "Excalidraw/Hash.md"
+    "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/Difracción.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/6. Ondas/Ondas Sonoras.md",
+    "Física I/6. Ondas/Ondas Superficiales.md",
+    "Física I/6. Ondas/Interferencia de Ondas.md",
+    "Física I/6. Ondas/Energía de una Onda.md",
+    "Física I/6. Ondas/Ondas en Sólidos.md"
   ]
 }

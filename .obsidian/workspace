@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Lentes Delgadas.md",
+            "file": "Algoritmos y Programación II/Arboles.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md",
+                "file": "Algoritmos y Programación II/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md"
+                "file": "Algoritmos y Programación II/Arboles.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Arboles.md",
     "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/6. Ondas/Ondas en Sólidos.md",
     "Física I/6. Ondas/6.0 Ondas.md",
@@ -127,7 +128,6 @@
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
     "Física I/6. Ondas/Ondas Superficiales.md",
     "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
-    "Física I/6. Ondas/Ondas en Cuerdas.md",
-    "Física I/6. Ondas/Propagación de Onda.md"
+    "Física I/6. Ondas/Ondas en Cuerdas.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Arboles.md",
+            "file": "Algoritmos y Programación II/Informe TP2.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Arboles.md",
+                "file": "Algoritmos y Programación II/Informe TP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Arboles.md"
+                "file": "Algoritmos y Programación II/Informe TP2.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Informe TP2.md",
+    "Algoritmos y Programación II/Informe TP1.md",
     "Algoritmos y Programación II/Arboles.md",
     "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/6. Ondas/Ondas en Sólidos.md",
@@ -126,8 +128,6 @@
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Definición de Onda.md",
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
-    "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
-    "Física I/6. Ondas/Ondas en Cuerdas.md"
+    "Física I/6. Ondas/Ondas Superficiales.md"
   ]
 }

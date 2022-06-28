@@ -43,7 +43,9 @@
     "modularizo",
     "ehash.",
     "uizas ",
-    "esarollo "
+    "esarollo ",
+    "Warshall",
+    "Floyd"
   ],
   "legacyEditor": false,
   "livePreview": true,

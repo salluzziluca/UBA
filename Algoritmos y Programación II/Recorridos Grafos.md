@@ -27,3 +27,8 @@ Aca tengo 13 grafos que no estan contectados.
 LA lista de aristas seria [1, 1, 2, 3, 3, 3, 3, 4, 4, 5, 6, 7, 7 ,8, 9, 10, 11, etc]
 Recorriendo la lista a ver si las diferentes aristas unen dos grafos distintos. Si lo hacen, los uno.
 Empezaria uniendo 1 con 2, despues 9 con 10, 7 con 3 y asi...
+
+
+## Floyd-Warshall
+ENcuentra el camino minimo entre todos los pares. Es como aplicar [[Grafos#Dijkstra|Dijkstra]] a cada uno de los nodos
+![[Pasted image 20220628193905.png]]

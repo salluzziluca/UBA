@@ -32,3 +32,19 @@ Empezaria uniendo 1 con 2, despues 9 con 10, 7 con 3 y asi...
 ## Floyd-Warshall
 ENcuentra el camino minimo entre todos los pares. Es como aplicar [[Grafos#Dijkstra|Dijkstra]] a cada uno de los nodos
 ![[Pasted image 20220628193905.png]]
+
+Para eso vamos a elegir un V_0. Comparamos los recorridos directos de un nodo a otro con el recorrido pasando por el V_0
+![[Pasted image 20220628194151.png]]
+![[Pasted image 20220628194207.png]]
+Como ir de 4 a 2 es infinito ( no se puede llegar directamente) y ir de 4 a 1 a 2 es 10, reemplazamos el inf por el 10
+![[Pasted image 20220628194219.png]]
+
+Luego hacemos lo mismo cambiando de V_0
+![[Pasted image 20220628194240.png]]
+![[Pasted image 20220628194301.png]]
+
+Volvemos cambiar de V_0
+![[Pasted image 20220628194353.png]]
+Y una ultima vez
+![[Pasted image 20220628194402.png]]
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Variables importantes.md",
+            "file": "Algoritmos y Programación II/Recorridos Grafos.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fundamentales",
+                "query": "krus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md",
+                "file": "Algoritmos y Programación II/Recorridos Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Variables importantes.md"
+                "file": "Algoritmos y Programación II/Recorridos Grafos.md"
               }
             }
           }
@@ -118,6 +120,8 @@
   },
   "active": "d01fe3cb446d07d0",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Recorridos Grafos.md",
+    "Algoritmos y Programación II/Grafos.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Ondas en Sólidos.md",
     "Física I/6. Ondas/Ondas en Cuerdas.md",
@@ -125,8 +129,6 @@
     "Física I/6. Ondas/Onda Elástica Plana.mp4.md",
     "Física I/6. Ondas/Onda Elástica Plana.md",
     "Física I/6. Ondas/Interferencia de Ondas.md",
-    "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/Efecto Doppler.md",
-    "Física I/6. Ondas/Difracción.md"
+    "Física I/6. Ondas/Energía de una Onda.md"
   ]
 }

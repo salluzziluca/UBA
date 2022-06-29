@@ -20,3 +20,7 @@ $$\theta_n=\frac {n \lambda}{a}$$
 
 #### Constante de Red
 $\frac 1 d$ siendo d la distancia entre las rendijas
+
+
+
+![[Pasted image 20220629091622.png]]

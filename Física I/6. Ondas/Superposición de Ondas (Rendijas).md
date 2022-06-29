@@ -1,4 +1,5 @@
-# Superposición de Ondas (Rendijas)}
+# Superposición de Ondas (Rendijas)
+![[Pasted image 20220629082742.png]]
 # Interferencia
 ## Calculo de "y" (pared)
 Para calcular en que parte de la tabla caen los máximos usamos la fórmula

@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Física I/6. Ondas/Batido.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cbebeb3bfb906af9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Física I/6. Ondas/Variables importantes.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Batido.md",
+                "file": "Física I/6. Ondas/Variables importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Batido.md"
+                "file": "Física I/6. Ondas/Variables importantes.md"
               }
             }
           }
@@ -116,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbef3642170764de",
+  "active": "cbebeb3bfb906af9",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Batido.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Variables importantes.md",
-    "Algoritmos y Programación II/Informe TP2.md",
-    "Docker.md",
-    "Algoritmos y Programación II/informe_tda3_hash.md",
-    "Física I/6. Ondas/Interferencia de Ondas.md",
-    "Física I/6. Ondas/6.0 Ondas.md",
-    "Física I/6. Ondas/Difracción.md",
-    "Física I/6. Ondas/Energía de una Onda.md"
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Vientres y Nodos.md",
+    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/Onda Elástica Plana.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
+    "Física I/6. Ondas/Onda Elástica Plana.mp4.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md"
   ]
 }

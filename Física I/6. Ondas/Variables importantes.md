@@ -9,6 +9,7 @@ $T$ = Período, tiempo que tarda en completar una oscilación o el tiempo en el 
 $v_{propagación}$ = $\lambda f$, w/k $\LARGE \sqrt {\frac {Tensión}{\mu}}, \sqrt {\frac {modulo \ \ Young}{\delta}}$
 $\mu$ = densidad lineal (usualmente de sogas) $\frac {masa}{longitud}$
 $\varphi$ = Fase
-
+PAra ondas estacionarias $\LARGE f_n = n \frac v {2L}$   n = 1 frec fundamental
 ![[Pasted image 20211207111647.png]]
+
 

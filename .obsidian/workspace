@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Batido.md",
+            "file": "Física I/6. Ondas/Variables importantes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "krus",
+                "query": "tension",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Batido.md",
+                "file": "Física I/6. Ondas/Variables importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Batido.md"
+                "file": "Física I/6. Ondas/Variables importantes.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "bbef3642170764de",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Batido.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Vientres y Nodos.md",
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Ondas en Sólidos.md",
+    "Física I/6. Ondas/Batido.md",
     "Algoritmos y Programación II/Informe TP2.md",
     "Docker.md",
     "Algoritmos y Programación II/informe_tda3_hash.md",
-    "Física I/6. Ondas/Interferencia de Ondas.md",
-    "Física I/6. Ondas/6.0 Ondas.md",
-    "Física I/6. Ondas/Difracción.md",
-    "Física I/6. Ondas/Energía de una Onda.md"
+    "Física I/6. Ondas/Interferencia de Ondas.md"
   ]
 }

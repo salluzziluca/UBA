@@ -20,7 +20,9 @@ Nodos del segundo sobretono = segundos armónicos armónico
 Si el tubo es abierto: 
 	1. 1.º $n$ = 1 2.º $n$ = 2
 	2. L multiplicado por 2
+		$$\lambda = \frac {2L}{n}$$
 
 Si el tubo es cerrado: 
 	1. 1.º $n$ = 0 2.º $n$ = $2.1+1=3$ 3.° $n$ = $2.2+1=5$
 	2. L multiplicado por 4
+	$$\lambda = \frac {4L}{2n-1}$$

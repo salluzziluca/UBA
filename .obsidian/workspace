@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docker.md",
+            "file": "Algoritmos y Programación II/Informe TP2.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Algoritmos y Programación II/Informe TP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Algoritmos y Programación II/Informe TP2.md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "bbef3642170764de",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Informe TP2.md",
     "Docker.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Algoritmos y Programación II/informe_tda3_hash.md",
@@ -127,7 +127,6 @@
     "Física I/6. Ondas/6.0 Ondas.md",
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/Ondas con Condiciones de Contorno.md",
-    "Física I/6. Ondas/Onda Elástica Plana.mp4.md"
+    "Física I/6. Ondas/Ondas con Condiciones de Contorno.md"
   ]
 }

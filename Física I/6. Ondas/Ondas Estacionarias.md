@@ -20,9 +20,13 @@ Nodos del segundo sobretono = segundos armónicos armónico
 Si el tubo es abierto: 
 	1. 1.º $n$ = 1 2.º $n$ = 2
 	2. L multiplicado por 2
+		$$\LARGE f_n = n. \frac {v_{propagacion}}{2L}$$
 		$$\lambda = \frac {2L}{n}$$
+		$$f_n = n * f_1$$
 
 Si el tubo es cerrado: 
 	1. 1.º $n$ = 0 2.º $n$ = $2.1+1=3$ 3.° $n$ = $2.2+1=5$
 	2. L multiplicado por 4
+	$$\LARGE f_n = n. \frac {v_{propagacion}}{4L}$$
 	$$\lambda = \frac {4L}{2n-1}$$
+	$$f_n = (n-1) * f_1$$

@@ -9,20 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+            "file": "Algoritmos y Programación II/Informe TP2.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cbebeb3bfb906af9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Física I/6. Ondas/Variables importantes.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "krus",
+                "query": "fundamen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+                "file": "Algoritmos y Programación II/Informe TP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md"
+                "file": "Algoritmos y Programación II/Informe TP2.md"
               }
             }
           }
@@ -131,15 +118,15 @@
   },
   "active": "bbef3642170764de",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Ondas Estacionarias.md",
-    "Física I/6. Ondas/Variables importantes.md",
+    "Algoritmos y Programación II/Informe TP2.md",
     "conflict-files-obsidian-git.md",
-    "Física I/6. Ondas/Batido.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Ondas Estacionarias.md",
     "Física I/6. Ondas/Vientres y Nodos.md",
-    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/6. Ondas/Definición de Onda.md",
-    "Física I/6. Ondas/Onda Elástica Plana.md",
-    "Física I/6. Ondas/Ondas en Cuerdas.md"
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Ondas en Sólidos.md",
+    "Física I/6. Ondas/Batido.md",
+    "Docker.md"
   ]
 }

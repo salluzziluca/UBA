@@ -14,6 +14,8 @@
 | Número de padrón: | 108088 |
 | Email: | lsalluzzi@fi.uba.ar |
 
+#### Como jugar
+Para jugar con los objetos brindados por la catedra se puede ejecutar el comando make valgrind-escape_pokemon. Sino, se puede compilar manualmente utilizando `gcc -std=c99 -Wall -Wconversion -Wtype-limits -g -Werror escape_pokemon.c src/*.c -o  escape_pokemon` y luego ejecutado `./escape_pokemon ejemplo/objetos.txt ejemplo/interacciones.txt`. Reemplazando los .txt por los archivos de preferencia.
 #### 1. Introducción
 En este TP2 se nos dio mucha libertad a la hora de implementar lo pedido. De esta forma se evaluó si el alumno conocía o no los temas impartidos a lo largo del cuatrimestre y si era capaz de moverse con libertad entre ellos.
 Se le pidió, entonces, reescribir el TP1 reemplazando los vectores dinámicos por otras estructuras de datos y, adicionalmente, implementar funciones nuevas que permitieran ejecutar interacciones y desarrollar adecuadamente un "loop jugable".

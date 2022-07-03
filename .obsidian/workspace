@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bbef3642170764de",
+        "id": "756580ad973178a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+            "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md",
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Estacionarias.md"
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
               }
             }
           }
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbef3642170764de",
+  "active": "756580ad973178a8",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Interferencia de Ondas.md",
     "Física I/6. Ondas/Ondas Estacionarias.md",
     "Física I/6. Ondas/Batido.md",
     "Algoritmos y Programación II/Informe TP2.md",
     "conflict-files-obsidian-git.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/6. Ondas/Vientres y Nodos.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Ondas en Cuerdas.md",
-    "Física I/6. Ondas/Ondas en Sólidos.md",
-    "Docker.md"
+    "Física I/6. Ondas/Ondas en Sólidos.md"
   ]
 }

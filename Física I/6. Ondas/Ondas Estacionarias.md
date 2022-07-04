@@ -27,6 +27,6 @@ Si el tubo es abierto:
 Si el tubo es cerrado: 
 	1. 1.º $n$ = 0 2.º $n$ = $2.1+1=3$ 3.° $n$ = $2.2+1=5$
 	2. L multiplicado por 4
-	$$\LARGE f_n = n. \frac {v_{propagacion}}{4L}$$
+	$$\LARGE f_n =  \frac {(2*n +1)v_{propagacion}}{4L}$$
 	$$\lambda = \frac {4L}{2n-1}$$
 	$$f_n = (n-1) * f_1$$

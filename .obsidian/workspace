@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+            "file": "Física I/6. Ondas/Difracción.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+                "file": "Física I/6. Ondas/Difracción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
+                "file": "Física I/6. Ondas/Difracción.md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "756580ad973178a8",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Energía de una Onda.md",
     "Física I/6. Ondas/Ondas Sonoras.md",
@@ -127,7 +127,6 @@
     "Física I/6. Ondas/Batido.md",
     "Algoritmos y Programación II/Informe TP2.md",
     "conflict-files-obsidian-git.md",
-    "Física I/6. Ondas/Variables importantes.md",
-    "Física I/6. Ondas/Vientres y Nodos.md"
+    "Física I/6. Ondas/Variables importantes.md"
   ]
 }

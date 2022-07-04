@@ -5,3 +5,5 @@
 
 ![[Pasted image 20211215220913.png]]
 ![[Pasted image 20211215220918.png]]
+
+$$ a.sen(\alpha) = \lambda . n$$

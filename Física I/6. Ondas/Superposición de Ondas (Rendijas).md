@@ -6,7 +6,9 @@ La superposicion propianmente dicha se calcula sumando las dos ondas
 # Interferencia
 ## Calculo de "y" (pared)
 Para calcular en que parte de la tabla caen los máximos usamos la fórmula
-$$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$ Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 
+$$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$
+En una red de difraccion $d = a = \frac {unidad}{cantidad de lineas}$ 
+Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 
 Para los mínimos: 
 $$\LARGE y_{min}=\frac {(n-\frac 1 2) .\lambda . D}{N.d}$$
 siendo N la cantidad de fuentes

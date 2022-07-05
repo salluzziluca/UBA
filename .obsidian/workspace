@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Física I/7. Óptica/Lentes Delgadas.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rendij",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,13 +120,13 @@
   "lastOpenFiles": [
     "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/7. Óptica/Espejos.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Física I/7. Óptica/óptica Geométrica.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
     "Física I/7. Óptica/Ley de Snell.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "Física I/6. Ondas/Efecto Doppler.md",
+    "Física I/6. Ondas/Ondas Estacionarias.md",
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/6. Ondas/Ondas en Sólidos.md",
     "Física I/6. Ondas/Difracción.md",
-    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/6. Ondas/Ondas Estacionarias.md"
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
   ]
 }

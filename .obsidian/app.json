@@ -45,7 +45,17 @@
     "uizas ",
     "esarollo ",
     "Warshall",
-    "Floyd"
+    "Floyd",
+    "loop",
+    "hashes",
+    "string",
+    "struct",
+    "struct",
+    "struct",
+    "objetos_conocidos",
+    "strings",
+    "objeto1",
+    "objeto2"
   ],
   "legacyEditor": false,
   "livePreview": true,

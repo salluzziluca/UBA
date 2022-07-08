@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "756580ad973178a8",
+        "id": "3de38f2c9f64454c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/6.0 Ondas.md",
-            "mode": "preview",
+            "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rendij",
+                "query": "agrandamiento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/6.0 Ondas.md",
+                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/6.0 Ondas.md"
+                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md"
               }
             }
           }
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756580ad973178a8",
+  "active": "3de38f2c9f64454c",
   "lastOpenFiles": [
-    "Física I/6. Ondas/6.0 Ondas.md",
-    "Física I/6. Ondas/Batido.md",
-    "Física I/6. Ondas/Variables importantes.md",
+    "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+    "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
+    "Análisis Matemático II/7. Extremos/Evaluación de Puntos Críticos.md",
+    "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
-    "Física I/6. Ondas/Vientres y Nodos.md",
-    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Ondas Sonoras.md",
-    "Física I/6. Ondas/Ondas Estacionarias.md"
+    "conflict-files-obsidian-git.md",
+    "Análisis Matemático II/3. Funciones/3.1 Función.md",
+    "Excalidraw/Arbol binario de busqueda chiquito.md",
+    "Excalidraw/Arbol B.md",
+    "Física I/6. Ondas/Variables importantes.md"
   ]
 }

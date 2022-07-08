@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3de38f2c9f64454c",
+        "id": "83393747c0201c4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+            "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agrandamiento",
+                "query": "producto escalar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
             }
           }
@@ -116,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3de38f2c9f64454c",
+  "active": "83393747c0201c4d",
   "lastOpenFiles": [
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
     "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
     "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
     "Análisis Matemático II/7. Extremos/Evaluación de Puntos Críticos.md",
@@ -125,8 +128,6 @@
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "conflict-files-obsidian-git.md",
     "Análisis Matemático II/3. Funciones/3.1 Función.md",
-    "Excalidraw/Arbol binario de busqueda chiquito.md",
-    "Excalidraw/Arbol B.md",
-    "Física I/6. Ondas/Variables importantes.md"
+    "Excalidraw/Arbol binario de busqueda chiquito.md"
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d01fe3cb446d07d0",
+        "id": "3de38f2c9f64454c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/7. Óptica/Lentes Delgadas.md",
+            "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md",
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/7. Óptica/Lentes Delgadas.md"
+                "file": "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
               }
             }
           }
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d01fe3cb446d07d0",
+  "active": "3de38f2c9f64454c",
   "lastOpenFiles": [
-    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
+    "conflict-files-obsidian-git.md",
+    "Análisis Matemático II/3. Funciones/3.1 Función.md",
+    "Excalidraw/Arbol binario de busqueda chiquito.md",
+    "Excalidraw/Arbol B.md",
     "Física I/6. Ondas/Variables importantes.md",
-    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
-    "Física I/7. Óptica/Espejos.md",
-    "Excalidraw/Hash.md",
-    "Excalidraw/Dibujo Pila.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
-    "Física I/7. Óptica/óptica Geométrica.md",
-    "Física I/6. Ondas/Ondas Sonoras.md",
-    "Física I/6. Ondas/Definición de Onda.md"
+    "Física I/6. Ondas/Energía de una Onda.md",
+    "Física I/6. Ondas/Ondas en Cuerdas.md",
+    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Algoritmos y Programación II/Tabla Hash o Hash Map.md"
   ]
 }

@@ -1,4 +1,8 @@
-# Superposición de Ondas (Rendijas)}
+# Superposición de Ondas (Rendijas)
+![[Pasted image 20220629082742.png]]
+
+La superposicion propianmente dicha se calcula sumando las dos ondas
+![[Pasted image 20220629110332.png]]
 # Interferencia
 ## Calculo de "y" (pared)
 Para calcular en que parte de la tabla caen los máximos usamos la fórmula
@@ -19,3 +23,7 @@ $$\theta_n=\frac {n \lambda}{a}$$
 
 #### Constante de Red
 $\frac 1 d$ siendo d la distancia entre las rendijas
+
+
+
+![[Pasted image 20220629091622.png]]

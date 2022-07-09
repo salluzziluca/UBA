@@ -2,6 +2,7 @@
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \times \omega$$
+$$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \vec \omega$$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
 Esto seria lo mismo que decir que el torque de una fuerza F con respecto a un punto A es lo mismo que la posicion de esa fuerza con respecto a A producto vectorial la fuerza.
 

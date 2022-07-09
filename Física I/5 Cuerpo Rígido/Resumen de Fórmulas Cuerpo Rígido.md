@@ -2,7 +2,11 @@
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \times \omega$$
-$$\frac {dL}{dt}= \tau$$
+$$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
+Esto seria lo mismo que decir que el torque de una fuerza F con respecto a un punto A es lo mismo que la posicion de esa fuerza con respecto a A producto vectorial la fuerza.
+
+---
+
 Si una fuerza esta aplicada sobre el centro de masa, no hace momento en él. Por ende. $L = I \gamma= 0$ y $\gamma = 0$. Finalmente $\omega = cte$. También, $\tau = 0$ porque no hay variación en momento angular
 
 $$v_{a/CM}= \vec v_{CM} + \omega \times r_a$$

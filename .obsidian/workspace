@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "756580ad973178a8",
+        "id": "83393747c0201c4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
             }
           }
@@ -141,4 +142,5 @@
     "Física I/6. Ondas/Onda Elástica Plana.md",
     "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md"
   ]
+
 }

@@ -1,5 +1,6 @@
 # Resumen Formulas Sistema de Párticulas
 $$\LARGE p = m\ . v$$
+	$$\frac {d \vec p_{sist}}{dt} = \sum \vec F_{ext}$$
 $$\LARGE L = r \times p = m(r \times v)$$
 $$\frac {dL}{dt}= \tau$$
 $$ L_{sist,O} = L_1 + L_2 + L_n$$

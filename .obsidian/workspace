@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
+            "file": "Física I/5 Cuerpo Rígido/Aceleración de un Cuerpo Rígido.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
+                "file": "Física I/5 Cuerpo Rígido/Aceleración de un Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md"
+                "file": "Física I/5 Cuerpo Rígido/Aceleración de un Cuerpo Rígido.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "756580ad973178a8",
   "lastOpenFiles": [
-    "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md",
-    "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
-    "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
-    "Física I/2. Dinámica/Torque.md",
     "Física I/5 Cuerpo Rígido/Aceleración de un Cuerpo Rígido.md",
+    "Física I/4. Sistema de Partículas/4.1 Centro de Gravedad.md",
+    "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
+    "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md",
+    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Dinámica del Cuerpo Rígido.md",
+    "Física I/2. Dinámica/Torque.md",
     "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md"
   ]
 }

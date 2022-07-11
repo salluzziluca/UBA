@@ -26,6 +26,6 @@ Siendo la primer parte de la cuenta energia de traslación y la segunda energia 
 ### Movimiento de rodadura sin deslizamiento
 El movimiento del CR es la suma de los dos movimientos, de traslacion y de rotacion.
 Tambien se puiede pensar como la rotacion pura del cuerpo alrededor del CIR.
-$$\LARGE E_c = \frac 1 2 Mv_{CM}^2 + \frac 1 2 I_{CM}\Omega^2=\frac 1 2 I_{CIR}\Omega^2$$
+$$\LARGE E_c = \frac 1 2 I_{CIR}\omega_f^2 + \frac 1 2 I_{CIR}\omega_i^2= \frac 1 2 Mv_{CIR}^2$$
 
 Esto luego se aplica en la formula de [[Energía de un Cuerpo Rigido]]

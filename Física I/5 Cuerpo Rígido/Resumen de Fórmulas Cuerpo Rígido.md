@@ -2,8 +2,12 @@
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \times \omega$$
+
+$$\sum torques = I_{cm}\ \gamma$$
+$$a_cm= \gamma R$$
 $$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \times \vec \omega \times r_{cm/cir} $$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
+
 Esto seria lo mismo que decir que el torque de una fuerza F con respecto a un punto A es lo mismo que la posicion de esa fuerza con respecto a A producto vectorial la fuerza.
 
 ---
@@ -24,6 +28,3 @@ El ==teorema de steiner== permite obtener el momento de inercia de una figura re
 $$I_2 = I_1 + M.d^2$$
 
 $$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$
-
-$$\sum Momentos = I_{cm}\ \gamma$$
-$$a_cm= \gamma R$$

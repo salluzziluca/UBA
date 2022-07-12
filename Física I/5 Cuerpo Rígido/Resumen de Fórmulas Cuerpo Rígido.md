@@ -4,7 +4,7 @@ $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \times \omega$$
 
 $$\sum torques = I_{cm}\ \gamma$$
-$$a_cm= \gamma R$$
+$$a_{cm}= \gamma R$$
 $$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \times \vec \omega \times r_{cm/cir} $$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
 
@@ -22,7 +22,7 @@ Condicion de rigidez = $(\vec v_a - \vec v_b).(\vec r_a - \vec r_b) = 0$
 ![[Pasted image 20220602155321.png]] tomando la velocidad y posicion en el eje que los une. En este caso, en $\hat j$ 
 
 
-$$I = Momento de inercia$$
+$$I = Momento\  de  \ inercia$$
 Es diferente para cada cuerpo y cambia segun el eje que estemos tomando
 El ==teorema de steiner== permite obtener el momento de inercia de una figura respecto a cualquier eje paralelo a uno $I$ ya conocido 
 $$I_2 = I_1 + M.d^2$$

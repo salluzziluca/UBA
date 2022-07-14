@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
+            "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
+                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md"
+                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "2b207f778dfa6a37",
   "lastOpenFiles": [
-    "Física I/2. Dinámica/Formulas para MAS y MCU.md",
     "Física I/6. Ondas/Variables importantes.md",
+    "Física I/2. Dinámica/Formulas para MAS y MCU.md",
+    "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
     "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
     "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
     "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
     "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md",
     "Física I/Física I.md",
     "Física I/hidrodinamica.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Física I/3. Trabajo y Energía/3.1 Potencia.md"
+    "Análisis Matemático II/Apuntes para Primer Parcial.md"
   ]
 }

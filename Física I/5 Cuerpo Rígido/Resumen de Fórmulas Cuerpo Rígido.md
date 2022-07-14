@@ -1,7 +1,7 @@
 # Resumen de Fórmulas Cuerpo Rígido
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
-$$momento \ angular=L = I \times \omega$$
+$$momento \ angular=L = I \times \omega = r\times p$$
 
 $$\sum torques = I_{cm}\ \gamma$$
 $$a_{cm}= \gamma R$$

@@ -4,6 +4,7 @@ $$aceleracion \ angular=\gamma $$
 $$momento \ angular=L = I \times \omega = r\times p$$
 
 $$\sum torques = I_{cm}\ \gamma$$
+		$$\sum F_{ext} = M.\vec a_{cm}$$
 $$a_{cm}= \gamma R$$
 $$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \times \vec \omega \times r_{cm/cir} $$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
@@ -27,4 +28,8 @@ Es diferente para cada cuerpo y cambia segun el eje que estemos tomando
 El ==teorema de steiner== permite obtener el momento de inercia de una figura respecto a cualquier eje paralelo a uno $I$ ya conocido 
 $$I_2 = I_1 + M.d^2$$
 
+$$\sum W_{FNC} = \triangle E_{mec}$$
+$$E_c  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega^2 $$
 $$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$
+
+

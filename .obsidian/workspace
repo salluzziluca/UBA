@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+            "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"energia cinetica\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+                "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md"
+                "file": "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "2b207f778dfa6a37",
   "lastOpenFiles": [
-    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Física I/4. Sistema de Partículas/Colisiones y Choques.md",
+    "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
+    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
     "Física I/3. Trabajo y Energía/Paso a paso Energía Mecánica.md",
     "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
     "Física I/6. Ondas/Variables importantes.md",
     "Física I/2. Dinámica/Formulas para MAS y MCU.md",
     "Física I/6. Ondas/Superposición de Dos Movimientos Armónicos Simples.md",
-    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
-    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
-    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md"
+    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md"
   ]
 }

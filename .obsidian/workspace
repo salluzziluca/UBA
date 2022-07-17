@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",

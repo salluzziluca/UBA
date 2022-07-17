@@ -1,8 +1,8 @@
 # Resumen de Fórmulas Cuerpo Rígido
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$
-$$momento \ angular=L = I \times \omega = r\times p$$
-
+$$Momento \ cinetico \ o \ angular = L_{spin}+ L_{orbital} = I_{CM}. \omega + \vec r_{CM} \times  p$$
+con $p = M. \vec v_{CM}$ 
 $$\sum torques = I_{cm}\ \gamma$$
 		$$\sum F_{ext} = M.\vec a_{cm}$$
 $$a_{cm}= \gamma R$$

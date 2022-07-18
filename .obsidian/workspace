@@ -7,9 +7,11 @@
         "id": "83393747c0201c4d",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-07-08 11.07.36.excalidraw.md"
+            "file": "Algoritmos y Programación II/Grafos.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -55,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos y Programación II/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmos y Programación II/Grafos.md"
+              }
             }
           }
         ]
@@ -115,15 +119,15 @@
   },
   "active": "83393747c0201c4d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-07-08 11.07.36.excalidraw.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
-    "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
-    "Análisis Matemático II/7. Extremos/Criterio de la derivada segunda.md",
-    "Análisis Matemático II/7. Extremos/Evaluación de Puntos Críticos.md",
-    "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
-    "conflict-files-obsidian-git.md",
-    "Análisis Matemático II/3. Funciones/3.1 Función.md"
+    "Algoritmos y Programación II/Grafos.md",
+    "Algoritmos y Programación II/Final Acotado.md",
+    "Excalidraw/Arbol binario de busqueda.md",
+    "Excalidraw/Diagrama de memoria de arbol.md",
+    "Excalidraw/Diagbrama de memoria.md",
+    "Excalidraw/Arbol Rojo Negro.md",
+    "Excalidraw/Drawing 2022-07-18 11.40.59.excalidraw.md",
+    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
+    "Física I/Física I.md",
+    "Algoritmos y Programación I/Elaboracion de un Programa.md"
   ]
 }

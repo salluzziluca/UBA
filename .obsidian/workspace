@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Algoritmos y Programación II/Recorridos Grafos.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kruskal",
+                "query": "\"prim\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,15 +119,15 @@
   },
   "active": "2b207f778dfa6a37",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/informe_tda3_hash.md",
+    "Excalidraw/Diagrama de memoria de hash.md",
+    "Algoritmos y Programación II/AVL.md",
+    "Algoritmos y Programación II/Recorridos Grafos.md",
     "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
     "Física I/hidrodinamica.md",
     "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
     "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
     "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
-    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md",
-    "Física I/4. Sistema de Partículas/Tipos de Choques.md",
-    "Física I/4. Sistema de Partículas/Torque de un Sistema de Partículas.md",
-    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
-    "Física I/4. Sistema de Partículas/Paso a Paso Centro de Masa Constante.md"
+    "Física I/5 Cuerpo Rígido/Trabajo de las Fuerzas para el Cuerpo Rígido.md"
   ]
 }

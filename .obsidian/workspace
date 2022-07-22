@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
+            "file": "Algoritmos y Programación II/Recorridos Grafos.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heap",
+                "query": "\"prim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md",
+                "file": "Algoritmos y Programación II/Recorridos Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación II/Arbol Rojo-Negro.md"
+                "file": "Algoritmos y Programación II/Recorridos Grafos.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "2b207f778dfa6a37",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/Arbol B.md",
-    "Algoritmos y Programación II/Heap.md",
+    "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
+    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
     "Algoritmos y Programación II/Grafos.md",
+    "Algoritmos y Programación II/Heap.md",
+    "Algoritmos y Programación II/Arbol B.md",
+    "Excalidraw/Arbol Rojo Negro.md",
     "Algoritmos y Programación II/AVL.md",
     "Excalidraw/Arbol B.md",
     "Algoritmos y Programación II/Recorridos Grafos.md",
-    "Algoritmos y Programación II/informe_tda3_hash.md",
-    "Excalidraw/Diagrama de memoria de hash.md",
-    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
-    "Física I/hidrodinamica.md"
+    "Algoritmos y Programación II/informe_tda3_hash.md"
   ]
 }

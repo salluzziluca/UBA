@@ -8,4 +8,5 @@
 - [[5.0 Cuerpo Rígido]]
 - [[6.0 Ondas]]
 - [[7.0  Óptica]]
+- [[hidrodinamica]]
 - [[Laboratorio]]

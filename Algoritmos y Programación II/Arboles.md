@@ -42,7 +42,8 @@ Primero se visita el subarbol izquierdo, luego el subarbol derecho, luego el nod
 Comparo el numero a insertar con la raiz. Si es menor que la raiz, vamos a la izquierda, si es mayor, vamos al subarbol derecho. Repetimos hasta encontrar un elemento igual al que queremos insertar o llegar al fin de un subarbol. 
 Al llegar al final, creamos un nuevo nodo
 
-
-==EL TP NO ES EXACTAMENTE IGUAL; PERO BUENO==
-![[Pasted image 20220503205215.png]]
-![[Pasted image 20220503205613.png]]
+### Más arboles
+- [[Algoritmos y Programación II/Arbol B]]
+- [[Arbol Rojo-Negro]]
+- [[AVL]]
+- [[Heap]]

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b207f778dfa6a37",
+        "id": "f14949474ac13c6e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmos y Programación II/Recorridos Grafos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -57,12 +53,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Recorridos Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algoritmos y Programación II/Recorridos Grafos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -117,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b207f778dfa6a37",
+  "active": "f14949474ac13c6e",
   "lastOpenFiles": [
-    "Algoritmos y Programación II/machete_arbol_rojo_negro.pdf",
-    "Algoritmos y Programación II/Arbol Rojo-Negro.md",
-    "Algoritmos y Programación II/Grafos.md",
-    "Algoritmos y Programación II/Heap.md",
-    "Algoritmos y Programación II/Arbol B.md",
-    "Excalidraw/Arbol Rojo Negro.md",
-    "Algoritmos y Programación II/AVL.md",
-    "Excalidraw/Arbol B.md",
-    "Algoritmos y Programación II/Recorridos Grafos.md",
-    "Algoritmos y Programación II/informe_tda3_hash.md"
+    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
+    "Física I/6. Ondas/6.0 Ondas.md",
+    "Física I/Física I.md",
+    "Física I/7. Óptica/7.0  Óptica.md",
+    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Algoritmos y Programación II/Algoritmos y Programación II.md",
+    "Excalidraw/Incidencia de un rayo.md",
+    "Excalidraw/Superficie plana versus esferica.md",
+    "Excalidraw/Hash quitar.md"
   ]
 }

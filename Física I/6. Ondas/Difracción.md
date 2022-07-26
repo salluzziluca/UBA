@@ -7,3 +7,5 @@
 ![[Pasted image 20211215220918.png]]
 
 $$ a.sen(\alpha) = \lambda . n$$
+cantidad de rendijas = d/a 
+a siendo ancho de rendijas 

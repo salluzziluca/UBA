@@ -4,7 +4,7 @@ $$aceleracion \ angular=\gamma $$
 $$Momento \ cinetico \ o \ angular = L_{spin}+ L_{orbital} = I_{CM}. \omega + \vec r_{CM} \times  p$$
 con $p = M. \vec v_{CM}$ 
 $$\sum torques = I_{cm}\ \gamma$$
-		$$\sum F_{ext} = M.\vec a_{cm}$$
+$$\sum F_{ext} = M.\vec a_{cm}$$
 $$a_{cm}= \gamma R$$
 $$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \times \vec \omega \times r_{cm/cir} $$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$

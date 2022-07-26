@@ -29,6 +29,7 @@ El ==teorema de steiner== permite obtener el momento de inercia de una figura re
 $$I_2 = I_1 + M.d^2$$
 
 $$\sum W_{FNC} = \triangle E_{mec}$$
+$$\LARGE \triangle E_C = W_{todas las F(int+ext)}$$
 $$E_c  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega^2 $$
 $$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$
 

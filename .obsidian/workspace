@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cantidad de movimiento",
+                "query": "momento cinetico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,15 +119,15 @@
   },
   "active": "f14949474ac13c6e",
   "lastOpenFiles": [
-    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
+    "Física I/4. Sistema de Partículas/Momento cinético o momento angular de un sistema de partículas.md",
+    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Teorema de las Fuerzas Vivas.md",
+    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
     "Física I/4. Sistema de Partículas/Energía de un Sistema de Partículas.md",
+    "Física I/5 Cuerpo Rígido/Energía de un Cuerpo Rigido.md",
+    "Física I/5 Cuerpo Rígido/Rozamiento de un Cuerpo Rígido.md",
     "Física I/2. Dinámica/2.1 Dinámica del Punto Material.md",
     "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
-    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md",
-    "Física I/6. Ondas/6.0 Ondas.md",
-    "Física I/Física I.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Física I/7. Óptica/Lentes Delgadas.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md"
+    "Física I/5 Cuerpo Rígido/5.0 Cuerpo Rígido.md"
   ]
 }

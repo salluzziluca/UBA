@@ -12,7 +12,8 @@
  - La partícula no se desplaza en los momentos donde y = 0
   $$S = \xi (x,t)= \xi_0 sen(kx-\omega t + \varphi)$$
   donde $\xi$ es la amplitud, k el numero de onda, $\omega$ la pulsacion y $\varphi$ la fase
-  $$P = p (x,t)= p_0 sen(kx-\omega t-\frac \pi 2)$$
+  $$P = p (x,t)= p_0 sen(kx+\omega t+\varphi)$$
+  Esta seria la formula en terminos de la presion
   $$p_0=\rho .\omega .v .\xi_0$$
   
   ##### Velocidad

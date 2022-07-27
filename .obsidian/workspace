@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Ondas Sonoras.md",
+            "file": "Física I/7. Óptica/Lentes Delgadas.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "presion",
+                "query": "frau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Sonoras.md",
+                "file": "Física I/7. Óptica/Lentes Delgadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Ondas Sonoras.md"
+                "file": "Física I/7. Óptica/Lentes Delgadas.md"
               }
             }
           }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "332773528d4c7fa9",
+  "active": "f14949474ac13c6e",
   "lastOpenFiles": [
-    "Física I/6. Ondas/Ondas Estacionarias.md",
-    "Física I/6. Ondas/Ondas Sonoras.md",
-    "Física I/6. Ondas/Ondas Superficiales.md",
-    "Física I/6. Ondas/Variables importantes.md",
-    "Física I/6. Ondas/Propagación de Onda.md",
-    "Física I/6. Ondas/Vientres y Nodos.md",
-    "Física I/6. Ondas/Efecto Doppler.md",
-    "Física I/7. Óptica/Lentes Delgadas.md",
     "Física I/7. Óptica/Espejos.md",
-    "Física I/7. Óptica/Ley de Snell.md"
+    "Física I/7. Óptica/Lentes Delgadas.md",
+    "Física I/6. Ondas/Efecto Doppler.md",
+    "Física I/6. Ondas/Ondas Sonoras.md",
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Vientres y Nodos.md",
+    "Física I/6. Ondas/Ondas Superficiales.md",
+    "Física I/6. Ondas/Fraunhofer.md",
+    "Física I/6. Ondas/Ondas Estacionarias.md",
+    "Física I/6. Ondas/Propagación de Onda.md"
   ]
 }

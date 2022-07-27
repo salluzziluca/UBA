@@ -10,11 +10,11 @@
  - Las ondas de presión y densidad están desfasadas 90° con respecto a S(x,z) (desplazamiento)
  - Cuando la presión es máxima el desplazamiento es nulo.
  - La partícula no se desplaza en los momentos donde y = 0
-  $$S = \xi (x,t)= \xi_0 sen(kx-\omega t + \varphi)$$
+  $$S = A (x,t)= A_0 sen(kx-\omega t + \varphi)$$
   donde $\xi$ es la amplitud, k el numero de onda, $\omega$ la pulsacion y $\varphi$ la fase
   $$P = p (x,t)= p_0 sen(kx+\omega t+\varphi)$$
   Esta seria la formula en terminos de la presion
-  $$p_0=\rho .\omega .v .\xi_0$$
+  $$p_0=\rho .\omega .v .A_0$$
   
   ##### Velocidad
   $$v = \sqrt{\frac B \rho}$$

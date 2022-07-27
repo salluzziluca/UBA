@@ -1,5 +1,5 @@
 # Fraunhofer
-##### Máximos
+##### Máximos (interferencia)
 $$d .sin(\theta) = n .\lambda$$
-##### Mínimos
+##### Mínimos (difraccion)
 $$a .sin(\theta) = n .\lambda$$

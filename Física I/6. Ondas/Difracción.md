@@ -9,3 +9,6 @@
 $$ a.sen(\alpha) = \lambda . n$$
 cantidad de franjas brillantes(N) = d/a 
 a siendo ancho de rendijas 
+
+Distancia del centro a maximos 
+$$\frac{n \lambda D}{a}$$ siendo D la distancia de la rendija a la pantalla 

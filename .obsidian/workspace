@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/hidrodinamica.md",
+            "file": "Física I/6. Ondas/Ondas Estacionarias.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/hidrodinamica.md",
+                "file": "Física I/6. Ondas/Ondas Estacionarias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/hidrodinamica.md"
+                "file": "Física I/6. Ondas/Ondas Estacionarias.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "f14949474ac13c6e",
   "lastOpenFiles": [
-    "Física I/2. Dinámica/2.3 Dinámica del Movimiento Armónico simple.md",
-    "Física I/2. Dinámica/2.2 Interaccion Gravitatoria.md",
-    "Física I/2. Dinámica/2.4 Movimiento de un cuerpo por acción de una fuerza.md",
-    "Física I/2. Dinámica/Formulas para MAS y MCU.md",
-    "Física I/2. Dinámica/Experiencia de Mach.md",
-    "Física I/2. Dinámica/Momento y Momento Angular.md",
-    "Física I/2. Dinámica/2.6 Impulso.md",
-    "Física I/2. Dinámica/2.5 Fuerza de Rozamiento.md",
-    "Física I/2. Dinámica/2.7 Sistema de Referencia no Inercial (SRNI).md",
-    "Física I/1. Cinemática/1.0 Cinemática.md"
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Ondas Estacionarias.md",
+    "Física I/6. Ondas/Movimiento Ondulatorio Armónico.md",
+    "Física I/6. Ondas/Interferencia de Ondas.md",
+    "Física I/6. Ondas/Efecto Doppler.md",
+    "Física I/6. Ondas/Energía de una Onda.md",
+    "Física I/6. Ondas/Fraunhofer.md",
+    "Física I/6. Ondas/Difracción.md",
+    "Física I/6. Ondas/Definición de Onda.md",
+    "Física I/6. Ondas/Batido.md"
   ]
 }

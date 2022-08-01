@@ -5,7 +5,7 @@ Y tambien aumenta la intesidad del maximo segun la cantidad de rendijas $I = N²
 ## Calculo de "y" (pared)
 Para calcular en que parte de la tabla caen los máximos usamos la fórmula
 $$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$
-En una red de difraccion $d = a = \frac {unidad}{cantidad de lineas}$ 
+En una red de difraccion $d = \frac 1 k$  con $k= \frac {unidad}{cantidad de lineas}$ 
 Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 
 Para los mínimos: 
 $$\LARGE y_{min}=\frac {(n-\frac 1 2) .\lambda . D}{N.d}$$
@@ -17,3 +17,9 @@ La posición de las franjas brillantes con respecto a la franja central se calcu
 Luego, la posicion de las franjas oscuras con respecto a la central se calcula con:
 	$$\LARGE x_{min}=\frac {(n+1/2).D.\lambda}{d}$$
 	En ambos casos, n arranca en cer0
+
+
+### Cosas de redes
+Para calcular la cantidad de ordenes visibles hacemos $\lfloor \frac d {\lambda}\rfloor$ con $d = \frac 1 k$  con $k= \frac {unidad}{cantidad de lineas}$
+
+![[Pasted image 20220801144812.png]]

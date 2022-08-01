@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Fraunhofer.md",
+            "file": "Física I/6. Ondas/Interferencia.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interferencia",
+                "query": "\"red de difraccion\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Fraunhofer.md",
+                "file": "Física I/6. Ondas/Interferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Fraunhofer.md"
+                "file": "Física I/6. Ondas/Interferencia.md"
               }
             }
           }
@@ -118,6 +119,8 @@
   },
   "active": "9b8adbe7dea3f03d",
   "lastOpenFiles": [
+    "Física I/7. Óptica/7.0  Óptica.md",
+    "Física I/6. Ondas/Fraunhofer.md",
     "Física I/6. Ondas/Interferencia.md",
     "conflict-files-obsidian-git.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
@@ -125,8 +128,6 @@
     "Física I/6. Ondas/Efecto Doppler.md",
     "4.4 Diferenciabilidad.md",
     "Física I/6. Ondas/Variables importantes.md",
-    "Física I/6. Ondas/Fraunhofer.md",
-    "Física I/6. Ondas/Energía de una Onda.md",
-    "Física I/6. Ondas/Interferencia de Ondas.md"
+    "Física I/6. Ondas/Energía de una Onda.md"
   ]
 }

@@ -6,7 +6,13 @@
 ![[Pasted image 20211215220913.png]]
 ![[Pasted image 20211215220918.png]]
 
+![[Pasted image 20220801132032.png]]
+minimos
 $$ a.sen(\alpha) = \lambda . n$$
+Por trigonometria -> $sen(\alpha) = \frac {y}{D}$ 
+
+$$ a.\frac y D = \lambda . n$$
+ $$y = \frac {\lambda . n .D}{a}$$
 cantidad de franjas brillantes(N) = d/a 
 a siendo ancho de rendijas 
 

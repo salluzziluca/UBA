@@ -16,3 +16,4 @@ La posición de las franjas brillantes con respecto a la franja central se calcu
 	$$\LARGE x_{max}=\frac {n.D.\lambda}{d}$$
 Luego, la posicion de las franjas oscuras con respecto a la central se calcula con:
 	$$\LARGE x_{min}=\frac {(n+1/2).D.\lambda}{d}$$
+	En ambos casos, n arranca en cer0

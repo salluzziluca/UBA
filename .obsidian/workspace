@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Interferencia.md",
+            "file": "Física I/6. Ondas/Fraunhofer.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Interferencia.md",
+                "file": "Física I/6. Ondas/Fraunhofer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Interferencia.md"
+                "file": "Física I/6. Ondas/Fraunhofer.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "9b8adbe7dea3f03d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Física I/6. Ondas/Interferencia.md",
+    "conflict-files-obsidian-git.md",
     "Física I/6. Ondas/Superposición de Ondas (Rendijas).md",
     "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Efecto Doppler.md",

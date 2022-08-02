@@ -8,7 +8,7 @@ $$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$
 En una red de difraccion $d = \frac 1 k$  con $k= \frac {unidad}{cantidad de lineas}$ 
 Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 
 Para los mínimos: 
-$$\LARGE y_{min}=\frac {(n-\frac 1 2) .\lambda . D}{N.d}$$
+$$\LARGE y_{min}=\frac {(n+\frac 1 2) .\lambda . D}{d}$$
 siendo N la cantidad de fuentes
 ==el ancho de el maximo principal es igual a dos veces la distancia del centro al primer minimo--->==$Ancho = 2Y=2\frac {\lambda . D}{d}$
 ## a

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Interferencia.md",
+            "file": "Física I/6. Ondas/Fraunhofer.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Interferencia.md",
+                "file": "Física I/6. Ondas/Fraunhofer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Interferencia.md"
+                "file": "Física I/6. Ondas/Fraunhofer.md"
               }
             }
           }
@@ -118,9 +118,9 @@
   },
   "active": "9b8adbe7dea3f03d",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Interferencia.md",
     "Física I/6. Ondas/Fraunhofer.md",
     "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
-    "Física I/6. Ondas/Interferencia.md",
     "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md",
     "Física I/7. Óptica/7.0  Óptica.md",
     "conflict-files-obsidian-git.md",

@@ -13,7 +13,7 @@ punto.
 - La energía se conserva. 
 - Fluido incompresible densidad constante ( para algunos fenómenos los
 gases se pueden tomar como incompresibles) 
--Fluido a temperatura=cte sin convección
+- Fluido a temperatura=cte sin convección
 
 ### formula 
 $$p_1 + \rho g y_1 + \frac 1 2 \rho v_1^2=p_2 + \rho g y_2 + \frac 1 2 \rho v_2^2$$

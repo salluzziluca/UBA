@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Fraunhofer.md",
+            "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Fraunhofer.md",
+                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Fraunhofer.md"
+                "file": "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "9b8adbe7dea3f03d",
   "lastOpenFiles": [
+    "Física I/4. Sistema de Partículas/Tipos de Choques.md",
+    "Física I/4. Sistema de Partículas/Torque de un Sistema de Partículas.md",
+    "Física I/4. Sistema de Partículas/Resumen Formulas Sistema de Párticulas.md",
+    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
+    "Física I/5 Cuerpo Rígido/Tipos de Movimientos.md",
+    "Física I/6. Ondas/Variables importantes.md",
+    "Física I/6. Ondas/Fraunhofer.md",
     "Física I/6. Ondas/Energía de una Onda.md",
     "Física I/6. Ondas/Interferencia de Ondas.md",
-    "Física I/6. Ondas/Interferencia.md",
-    "Física I/6. Ondas/Efecto Doppler.md",
-    "Física I/7. Óptica/Espejos.md",
-    "Física I/7. Óptica/7.0  Óptica.md",
-    "Física I/hidrodinamica.md",
-    "Física I/7. Óptica/Objetos e Imágenes.md",
-    "Física I/7. Óptica/Ley de Snell.md",
-    "Física I/6. Ondas/Superposición de Ondas (Rendijas).md"
+    "Física I/6. Ondas/Interferencia.md"
   ]
 }

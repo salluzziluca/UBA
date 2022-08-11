@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física I/6. Ondas/Difracción.md",
+            "file": "Física I/7. Óptica/Espejos.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física I/6. Ondas/Difracción.md",
+                "file": "Física I/7. Óptica/Espejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física I/6. Ondas/Difracción.md"
+                "file": "Física I/7. Óptica/Espejos.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "9b8adbe7dea3f03d",
   "lastOpenFiles": [
+    "Física I/6. Ondas/Difracción.md",
     "Física I/6. Ondas/Interferencia.md",
     "Física I/7. Óptica/Espejos.md",
     "Física I/hidrodinamica.md",
@@ -126,7 +127,6 @@
     "Física I/7. Óptica/Ley de Snell.md",
     "Excalidraw/Drawing 2022-08-04 14.41.56.excalidraw.md",
     "Física I/6. Ondas/Fraunhofer.md",
-    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md",
-    "Física I/5 Cuerpo Rígido/Energía Cinética de un Cuerpo Rígido.md"
+    "Física I/3. Trabajo y Energía/3.0 Trabajo y Energia.md"
   ]
 }

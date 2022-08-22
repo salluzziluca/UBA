@@ -4,3 +4,4 @@
 [[Física I]]
 [[Algoritmos y Programacion I]]
 [[Algoritmos y Programación II]]
+[[Álgebra II]]

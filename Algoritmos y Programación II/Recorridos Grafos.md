@@ -4,6 +4,8 @@
 Buscar aristas con cero aristas adyacentes y recorrelo, asi obtenemos nuevos ![[Pasted image 20220621203109.png]]
 
 ## Algoritmo de Prim
+Crea un spanning tree. Una aproximacion general de los caminos mas cortos entre todos los nodos.
+
 Queremos pasar de un grafo pesado a un arbol con el minimo trabajo para la mayoria de los recorridos.
 Partiendo desde un nodo, buscamos la arista con menor peso (mas chica) y vamos agregando al arbol nodos nuevos siempre yendo al nodo que este en la direccion de la arista mas chica posible.
 Basicamente: agarro la mas corta y agrego. Buscamos la arista mas corta desde cualquier nodo, no el ultimo que agregamos

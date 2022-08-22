@@ -1,4 +1,4 @@
-	# AVL
+# AVL
 Es un tipo de [[Arboles#Arbol binario|arbol binario]] autobalanceado, pensado para que no se degenere a lista y siempre la busqueda sea O(log(n)).
 
 ![[Pasted image 20220503183147.png]]
@@ -12,7 +12,7 @@ Si esta desbalanceado, hay que hacer una rotacion
 ![[Pasted image 20220503183402.png]]
 Chequeamos siempre de abajo para arriba
 Factor de balanceo del 7: rama izquierda menos rama derecha. 0-0 = 0. Válido
-Factor de balanceo del 7: 1-0 = 0, es válido
+Factor de balanceo del 7: 0-0 = 0, es válido
 Factor de balanceo del 15: 2-0 = 2, no es válido, hay que rotar
 
 Pero si el 13 ya tiene dos hijos...

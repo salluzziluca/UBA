@@ -3,25 +3,10 @@
 
 La superposicion propianmente dicha se calcula sumando las dos ondas
 ![[Pasted image 20220629110332.png]]
-# Interferencia
-## Calculo de "y" (pared)
-Para calcular en que parte de la tabla caen los máximos usamos la fórmula
-$$\LARGE y_{max}=\frac {n .\lambda . D}{d}$$
-En una red de difraccion $d = a = \frac {unidad}{cantidad de lineas}$ 
-Siendo D la distancia entre las ranuras y la pantalla y "d" la distancia entre las dos ranuras 
-Para los mínimos: 
-$$\LARGE y_{min}=\frac {(n-\frac 1 2) .\lambda . D}{N.d}$$
-siendo N la cantidad de fuentes
-==el ancho de el maximo principal es igual a dos veces la distancia del centro al primer minimo--->==$Ancho = 2Y=2\frac {\lambda . D}{d}$
-## a
-La posición de las franjas brillantes con respecto a la franja central se calcula con: 
-	$$\LARGE x_{max}=\frac {n.D.\lambda}{d}$$
-Luego, la posicion de las franjas oscuras con respecto a la central se calcula con:
-	$$\LARGE x_{min}=\frac {(n-1/2).D.\lambda}{Nd}$$
 
 ## Separación angular
 $$\LARGE n.\lambda= d.sen(\theta_n)$$ Si $\lambda$ es mucho menor que al ángulo en sí va a ser muy pequeño, por lo que se puede realizar la aproximación de $sen(\theta_n) = \theta_n$ por lo que
-$$\theta_n=\frac {n \lambda}{a}$$
+$$\theta_n=\frac {n \lambda}{d}$$
 
 #### Constante de Red
 $\frac 1 d$ siendo d la distancia entre las rendijas

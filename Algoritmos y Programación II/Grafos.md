@@ -110,27 +110,4 @@ Con [[Grafos#Grafo dirigido| grafo dirigido]] respetamos las direcciones
 Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con peso|grafo con peso]] guardamos combinamos ambas cosas
 ![[Pasted image 20220614200331.png]]
 
-## Tipos de recorridos
-### En profundidad: DFS (Depth First Search)
-En este caso se van a visitar los nodos hijos primero, avanzando hasta que no se pueda continuar. Luego se “vuelve” hasta un hijo donde se tenían más caminos, y se vuelve a realizar la misma lógica.
-
-### En anchura: BFS (Breath First Search)
-Se encara el recorrido del grafo en anchura, es decir, primero visita nodos hermanos/vecinos antes de visitar nodos hijos. Para su implementación se utiliza una cola
-
-
-## Dijkstra
-Algoritmo dijkstra 1. 
-Se elige el vértice V sobre el cual se quiera aplicar el algoritmo 
-2. Se crean dos lista de nodos, una lista de nodos Visitados y otra listas de nodos NO Visitados, que contiene a todos los nodos del grafo.
-3. Se crea una tabla con 3 columnas, Vértice, Distancia mínima V y el nodo anterior por el cual se llegó. 
-4. Se toma el vértice V como vértice inicial y se calcula su distancia a sí mismo, que es 0. 
-5. Se actualiza la tabla, en la cual todas las distancias de los demás vértices a V se marcan como infinito. 
-6. Se visita el vértice NO VISITADO con menor distancia conocida desde el primer vértice V, que es el vértice con el que comenzamos ya que la distancia a ese es 0 y las demás infinito. 
-7. Se calcula la distancia entre los vértices sumando los pesos de cada uno con la distancia de V. 
-8. Si la distancia calculada de los vértices conocidos es menor a la que está en la tabla se actualiza y también los vértices desde donde se llegó.
-9. Se pasa el vértice V a la lista de Vértices visitados. 
-10. Se continua con el vértice no visitado con menor distancia desde ese. 
-Y así sucesivamente...
-![[Pasted image 20220614210430.png]]
-![[Pasted image 20220614210441.png]]
-De esta forma obtenemos la forma mas liviana de llegar a cada nodo
+![[Recorridos Grafos]]

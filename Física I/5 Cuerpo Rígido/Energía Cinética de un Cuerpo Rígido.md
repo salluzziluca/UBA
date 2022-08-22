@@ -1,4 +1,5 @@
  # Energía Cinética de un Cuerpo Rígido
+$$\LARGE \triangle E_C = W_{todas las F(int+ext)}$$
 ## Casos
 ### Traslación pura
 todos los puntos del CR tienen igual velocidad.

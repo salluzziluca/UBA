@@ -4,7 +4,7 @@ $$aceleracion \ angular=\gamma $$
 $$Momento \ cinetico \ o \ angular = L_{spin}+ L_{orbital} = I_{CM}. \omega + \vec r_{CM} \times  p$$
 con $p = M. \vec v_{CM}$ 
 $$\sum torques = I_{cm}\ \gamma$$
-		$$\sum F_{ext} = M.\vec a_{cm}$$
+$$\sum F_{ext} = M.\vec a_{cm}$$
 $$a_{cm}= \gamma R$$
 $$\vec a_{cm} = \vec a_{cir} + \vec \gamma \times r_{cm/cir} + \vec \omega \times \vec \omega \times r_{cm/cir} $$
 $$\frac {dL}{dt}= \tau_F^A = \vec r_{F/A} \times \vec F$$
@@ -29,7 +29,8 @@ El ==teorema de steiner== permite obtener el momento de inercia de una figura re
 $$I_2 = I_1 + M.d^2$$
 
 $$\sum W_{FNC} = \triangle E_{mec}$$
-$$E_c  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega^2 $$
-$$E  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p=const$$
+$$\LARGE \triangle E_C = W_{todas las F(int+ext)}$$
+$$E_c  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega^2 = \frac 1 2 I_{cir} \ \omega^2$$
+$$E_m  = \frac 1 2 M v_{CM}^2 + \frac 1 2 I_c \ \omega ²+E_p$$
 
 

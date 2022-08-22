@@ -9,6 +9,7 @@
 - [[Tipos de Datos Abstractos (TDA)]]
 - [[Testeo]]
 - [[Sorting]]
+- [[Grafos]]
 
 
 ### Snippets
@@ -16,9 +17,17 @@
 - [[Punteros]]
  - [[Casteo]]
 
+### Dibujos
+[[Hash]]
+[[Excalidraw/Arbol B]]
+[[Dibujo Pila]]
+[[Dibujo Cola]]
+
 
 ---
 ## Informes de TPs
 - [[Informe TP1]]
 - [[informe_tda1]]
 - [[Informe_ABB]]
+- [[informe_tda3_hash]]
+- [[Informe TP2]]

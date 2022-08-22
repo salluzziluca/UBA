@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83393747c0201c4d",
+        "id": "f7eb4ecb07cab17f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmos y Programación II/Grafos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "producto escalar",
+                "query": "kruskal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación II/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algoritmos y Programación II/Grafos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -117,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83393747c0201c4d",
+  "active": "f7eb4ecb07cab17f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
     "Algoritmos y Programación II/Grafos.md",
+    "Algoritmos y Programación II/Recorridos Grafos.md",
     "Algoritmos y Programación II/Final Acotado.md",
     "Excalidraw/Arbol binario de busqueda.md",
     "Excalidraw/Diagrama de memoria de arbol.md",
     "Excalidraw/Diagbrama de memoria.md",
     "Excalidraw/Arbol Rojo Negro.md",
-    "Excalidraw/Drawing 2022-07-18 11.40.59.excalidraw.md",
-    "Física I/4. Sistema de Partículas/4.0 Sistema de Partículas.md",
-    "Física I/Física I.md",
-    "Algoritmos y Programación I/Elaboracion de un Programa.md"
+    "Excalidraw/Drawing 2022-07-18 11.40.59.excalidraw.md"
   ]
 }

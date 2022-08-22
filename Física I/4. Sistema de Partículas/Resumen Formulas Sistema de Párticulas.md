@@ -1,7 +1,8 @@
 # Resumen Formulas Sistema de Párticulas
 $$\LARGE p = m\ . v$$
+	$$\frac {d \vec p_{sist}}{dt} = \sum \vec F_{ext}$$
 $$\LARGE L = r \times p = m(r \times v)$$
-$$\frac {dL}{dt}= \tau$$
+	$$\frac {dL}{dt}= \sum \tau$$
 $$ L_{sist,O} = L_1 + L_2 + L_n$$
 $$ L_{sist, CM} =L_{de \ spin}= L_{1,CM} + L_{2,CM} + L_{n,CM}$$
 $$L_{n,CM} = m_n (r_{n,CM} \times v_{n,CM})$$

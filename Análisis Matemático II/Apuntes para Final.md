@@ -1,4 +1,4 @@
-# Apuntes para Segundo Parcial
+# Apuntes para Final
 ## Potencial
 
 ## Flujo

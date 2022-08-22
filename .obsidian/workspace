@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/Álgebra II.md",
+            "file": "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/Álgebra II.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/Álgebra II.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "1baf4ce4825bb421",
   "lastOpenFiles": [
+    "Álgebra II/Álgebra II.md",
+    "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
     "UBA.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Docker.md",
     "4.4 Diferenciabilidad.md",
-    "Álgebra II/Álgebra II.md",
     "Álgebra.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Programación II/Tabla Hash o Hash Map.md",
-    "Algoritmos y Programación II/Grafos.md",
-    "Algoritmos y Programación II/Recorridos Grafos.md"
+    "Algoritmos y Programación II/Grafos.md"
   ]
 }

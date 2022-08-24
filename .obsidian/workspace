@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "142a82253cfd719f",
+        "id": "1baf4ce4825bb421",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/1. Desarrollo de Software/1.3 No Silver Bullet.md",
+            "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"redes\"",
+                "query": "kruskal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/1. Desarrollo de Software/1.3 No Silver Bullet.md",
+                "file": "Análisis Matemático II/1. R2/1.8 Topología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/1. Desarrollo de Software/1.3 No Silver Bullet.md"
+                "file": "Análisis Matemático II/1. R2/1.8 Topología.md"
               }
             }
           }
@@ -117,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "142a82253cfd719f",
+  "active": "1baf4ce4825bb421",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.2 Modelo.md",
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.1 Definición de Software.md",
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md",
-    "Algoritmos y Programación III/Algoritmos y Programación II.md",
-    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
-    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
     "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
+    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
     "Álgebra II/Álgebra II.md",
-    "Física I/5 Cuerpo Rígido/Resumen de Fórmulas Cuerpo Rígido.md",
-    "Física I/4. Sistema de Partículas/Tipos de Choques.md"
+    "UBA.md",
+    "Análisis Matemático II/Análisis Matemático II.md",
+    "Docker.md",
+    "4.4 Diferenciabilidad.md",
+    "Álgebra.md"
   ]
 }

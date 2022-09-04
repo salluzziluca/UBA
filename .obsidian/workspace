@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "142a82253cfd719f",
+        "id": "1baf4ce4825bb421",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
+            "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linealmente",
+                "query": "kruskal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md"
               }
             }
           }
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "142a82253cfd719f",
+  "active": "1baf4ce4825bb421",
   "lastOpenFiles": [
-    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
-    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "Álgebra II/1. Espacios Vectoriales/1.3 Generadores.md",
-    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+    "Análisis Matemático II/1. R2/1.8 Topología.md",
+    "Análisis Matemático II/2. R3/2.2 Superficies Cuádricas.md",
+    "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
     "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.3 No Silver Bullet.md",
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.2 Modelo.md",
-    "Algoritmos y Programación III/1. Desarrollo de Software/1.1 Definición de Software.md"
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+    "Álgebra II/Álgebra II.md",
+    "UBA.md",
+    "Análisis Matemático II/Análisis Matemático II.md",
+    "Docker.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.8 Operaciones Entre Subespacios.md",
+            "file": "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.8 Operaciones Entre Subespacios.md",
+                "file": "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.8 Operaciones Entre Subespacios.md"
+                "file": "Análisis Matemático II/3. Funciones/3.3.1 Continuidad.md"
               }
             }
           }
@@ -119,8 +118,8 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
-    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
     "1.8 Operaciones Entre Subespacios.md",
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Tarea para mi mujer.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",

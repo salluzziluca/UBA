@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
+            "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.3 Sistemas Orientados a Objetos.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.2 Historia de la Programación Orientada a Objetos.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.1 Paradigmos de la Programación.md",
@@ -127,7 +128,6 @@
     "1.8 Operaciones Entre Subespacios.md",
     "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
-    "Tarea para mi mujer.md",
-    "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md"
+    "Tarea para mi mujer.md"
   ]
 }

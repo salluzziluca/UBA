@@ -63,7 +63,9 @@
     "minimal",
     "Smalltalk",
     "Prolog",
-    "multiparadigma"
+    "multiparadigma",
+    "ask",
+    "t"
   ],
   "legacyEditor": false,
   "livePreview": true,

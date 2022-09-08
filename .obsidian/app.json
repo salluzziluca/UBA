@@ -60,7 +60,10 @@
     "ronskiano ",
     "default",
     "in",
-    "minimal"
+    "minimal",
+    "Smalltalk",
+    "Prolog",
+    "multiparadigma"
   ],
   "legacyEditor": false,
   "livePreview": true,

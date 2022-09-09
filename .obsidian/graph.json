@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 10506976
       }
+    },
+    {
+      "query": "path:\"Algoritmos y Programación III\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Álgebra II\"",
+      "color": {
+        "a": 1,
+        "rgb": 14771747
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +81,6 @@
   "repelStrength": 13.2941176470588,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.25884785286069434,
+  "scale": 0.40161515953592286,
   "close": false
 }

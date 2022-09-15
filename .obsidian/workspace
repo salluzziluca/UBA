@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+            "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md",
             "mode": "source",
             "source": false
           }
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md"
               }
             }
           }
@@ -119,8 +119,8 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.0 Transformaciones Lineales.md",
     "Álgebra II/Álgebra II.md",

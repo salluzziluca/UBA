@@ -34,6 +34,7 @@ Es aquel que no posee aristas múltiples ni lazos. Es decir, para un par de vér
 ### Grafo denso
 Un grafo es denso cuando su numero de aristas esta muy cerca del valor maximo de aristas que puede tener
 $$D = \frac {2 |E|}{|V| (|V|-1)}$$
+Siendo E la cantidad de aritas y V la cantidad de vertices¿
 Si D tiende a 0 tenemos un grado disperso (siendo 0 un grafo con cero aristas)
 ![[Pasted image 20220614185847.png]]
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
+            "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
+    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.9 Polimorfismo.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.8 Encapsulamiento.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
-    "Algoritmos y Programación III/En.md",
-    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
-    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md"
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
   ]
 }

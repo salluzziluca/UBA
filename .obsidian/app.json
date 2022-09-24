@@ -65,7 +65,8 @@
     "Prolog",
     "multiparadigma",
     "ask",
-    "t"
+    "t",
+    "hoc"
   ],
   "legacyEditor": false,
   "livePreview": true,

@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d24c1d11ed6e2b37",
+        "id": "6fb480944ff31c81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a738c539134d92d4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interferencia",
+                "query": "composicion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
               }
             }
           }
@@ -128,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a738c539134d92d4",
+  "active": "6fb480944ff31c81",
   "lastOpenFiles": [
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
-    "Algoritmos y Programación II/Complejidad de Algoritmos.md",
-    "conflict-files-obsidian-git.md",
-    "Física I/6. Ondas/Ondas en Cuerdas.md",
-    "Física I/6. Ondas/Onda Elástica Plana.md",
-    "Física I/6. Ondas/Fraunhofer.md",
-    "Física I/6. Ondas/Efecto Doppler.md",
-    "Física I/6. Ondas/Definición de Onda.md",
-    "Física I/6. Ondas/Batido.md",
-    "Física I/6. Ondas/6.0 Ondas.md"
+    "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
+    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.9 Polimorfismo.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.8 Encapsulamiento.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
   ]
 }

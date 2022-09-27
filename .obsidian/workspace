@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
+            "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
+    "Excalidraw/simetriaas y proyecciones.excalidraw.md",
+    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+    "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
-    "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
     "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/Tipos de Funciones.md",
     "Algoritmos y Programación III/3. Pruebas de Software/Tipos de Pruebas.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Cobertura.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Definicion de Pruebas de Software.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Herramientas Para Testear.md"
+    "Algoritmos y Programación III/3. Pruebas de Software/Cobertura.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+            "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
             "mode": "source",
             "source": false
           }
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md"
               }
             }
           }
@@ -119,12 +119,12 @@
   },
   "active": "c534c55189a35c17",
   "lastOpenFiles": [
+    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Excalidraw/simetriaas y proyecciones.excalidraw.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",

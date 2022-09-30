@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb480944ff31c81",
+        "id": "c534c55189a35c17",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.8 Operaciones Entre Subespacios.md",
+            "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.8 Operaciones Entre Subespacios.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.8 Operaciones Entre Subespacios.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
               }
             }
           }
@@ -118,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fb480944ff31c81",
+  "active": "c534c55189a35c17",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
@@ -128,7 +128,6 @@
     "Excalidraw/simetriaas y proyecciones.excalidraw.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
-    "Álgebra II/2. Transformaciones Lineales/Tipos de Funciones.md"
+    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md"
   ]
 }

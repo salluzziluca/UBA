@@ -17,7 +17,7 @@ $$Dg(x,y)= \begin{pmatrix}
 2x & 0\\  
 y & z
 \end{pmatrix}$$
-$$Dh(x,y)=Df(\vec g(u,v))Dg(u,v)$$
+$$Dh(x,y)=Df(\vec g(x,y))Dg(x,y)$$
 $$Dh(2,1)=Df(\vec g(2,1))Dg(2,1)$$
 $$Dh(2,1)=Df(4,2)Dg(2,1)$$
 $$Df(4,2)= (1+2 \ \  4)=(3 \ 4)$$

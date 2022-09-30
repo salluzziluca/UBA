@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
+            "file": "1.8 Operaciones Entre Subespacios.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KISS",
+                "query": "SUma directa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
+                "file": "1.8 Operaciones Entre Subespacios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
+                "file": "1.8 Operaciones Entre Subespacios.md"
               }
             }
           }
@@ -119,8 +120,8 @@
   },
   "active": "6fb480944ff31c81",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
     "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",

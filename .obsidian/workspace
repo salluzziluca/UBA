@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c534c55189a35c17",
+        "id": "5ba3c3f7a73549e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"plano tangente\"",
+                "query": "\"maxima derivada\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -117,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c534c55189a35c17",
+  "active": "5ba3c3f7a73549e6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
@@ -126,8 +128,6 @@
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Formas de Resolver una Composición de Funciones.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+            "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
+                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md"
               }
             }
           }
@@ -118,8 +119,8 @@
   },
   "active": "c534c55189a35c17",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Álgebra II/2. Transformaciones Lineales/2.0 Transformaciones Lineales.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Formas de Resolver una Composición de Funciones.md",

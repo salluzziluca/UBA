@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+            "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md"
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "5ba3c3f7a73549e6",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.0 Excepciones y Persistencia Básica.md",
+    "Algoritmos y Programación III/Algoritmos y Programación III.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/Apuntes para Final.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
     "Análisis Matemático II/7. Extremos/7.0 Extremos.md",
-    "Untitled.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
-    "Algoritmos y Programación III/Algoritmos y Programación III.md"
+    "Untitled.md"
   ]
 }

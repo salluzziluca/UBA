@@ -6,6 +6,7 @@ $$h=f ° g$$
 $$h(x,y)=f(g(x,y))=f(x+2y,e^xy )=(x+2y)^2 e^xy$$
 - ==$$Dh(X)=Df(g(X)) Dg(X)$$==
 - El gradiente en el punto es perpendicular a la linea/curva de nivel
+- Vector normal a una superficie parametrizada = F'u x F'v
 
 
 

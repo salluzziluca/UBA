@@ -1,8 +1,9 @@
 {
   "baseFontSize": 24,
-  "cssTheme": "obsidian-edited-gruvox",
+  "cssTheme": "obsidian-original",
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "accentColor": ""
 }

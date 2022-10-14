@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md"
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
               }
             }
           }
@@ -139,13 +138,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "332773528d4c7fa9",
+  "active": "f80cccbfc66889b9",
   "lastOpenFiles": [
-    "Análisis Matemático II/Análisis Matemático II.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
     "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
     "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.0 Excepciones y Persistencia Básica.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
+    "Análisis Matemático II/Análisis Matemático II.md",
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Análisis Matemático II/apunte final pequeñito.md",

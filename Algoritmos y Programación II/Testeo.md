@@ -21,4 +21,5 @@ Pruebas sobre el programa mientras se ejecuta
 Prueba unitaria
 Se enfoca en comprobar el funcionamiento de una uniddad.
 Prueba de integracion
-se encarga de comprobar el funcionamiento de un conjunto de unidades
+se encarga de comprobar el funcionamiento de un conjunto de unidades,
+ver [[Tipos de Pruebas]]

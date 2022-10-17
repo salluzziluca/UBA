@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Unidad",
@@ -76,11 +76,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.38264705882353,
   "lineSizeMultiplier": 1.29583333333333,
-  "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 13.2941176470588,
+  "collapse-forces": false,
+  "centerStrength": 0.166666666666667,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.042315902689759155,
+  "scale": 0.04683024442255427,
   "close": false
 }

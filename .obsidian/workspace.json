@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b446fe08f62a5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Realaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "relaciones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Realaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Realaciones.md"
               }
             }
           }
@@ -150,8 +162,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "92eaa3482fe3d85e",
+  "active": "4b446fe08f62a5a6",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.0 Patrones de Diseño.md",
@@ -160,7 +173,6 @@
     "UBA.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.0 Excepciones y Persistencia Básica.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
   ]
 }

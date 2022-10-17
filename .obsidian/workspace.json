@@ -33,8 +33,12 @@
             "id": "92eaa3482fe3d85e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
+              }
             }
           }
         ]

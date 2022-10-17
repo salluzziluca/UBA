@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "92eaa3482fe3d85e",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.0 Patrones de Diseño.md",
     "Algoritmos y Programación II/Testeo.md",
@@ -160,7 +161,6 @@
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.0 Excepciones y Persistencia Básica.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
   ]
 }

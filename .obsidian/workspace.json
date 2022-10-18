@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relaciones",
+                "query": "agregación",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
               }
             }
           }
@@ -141,15 +142,15 @@
   },
   "active": "92eaa3482fe3d85e",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
+    "Algoritmos y Programación II/Arboles.md"
   ]
 }

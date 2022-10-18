@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92b34eecb6050a97",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "4cd9638b75393a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "92eaa3482fe3d85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b446fe08f62a5a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518bc71cb32b6129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
               }
             }
           }
@@ -186,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b67aa30d724ee6cf",
+  "active": "92eaa3482fe3d85e",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
-    "Algoritmos y Programación II/Arboles.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.0 Patrones de Diseño.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/3.0 Pruebas de Software.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Definicion de Pruebas de Software.md"
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
+    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
+    "Algoritmos y Programación II/Arboles.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
   ]
 }

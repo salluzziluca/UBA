@@ -69,7 +69,9 @@
     "hoc",
     "Factory",
     "Abstract",
-    "laburar"
+    "laburar",
+    "extends",
+    "Inheritance"
   ],
   "legacyEditor": false,
   "livePreview": true,

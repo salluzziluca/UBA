@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md"
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
               }
             }
           }
@@ -129,6 +129,7 @@
   },
   "active": "1a35bb25f8b8d291",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
@@ -137,7 +138,6 @@
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
-    "Algoritmos y Programación II/Arboles.md"
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
   ]
 }

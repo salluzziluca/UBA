@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbb9017ece7a2bc",
+        "id": "4fb7cd30f0aad5ef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
+            "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md"
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
               }
             }
           }
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cbb9017ece7a2bc",
+  "active": "4fb7cd30f0aad5ef",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/3. Pruebas de Software/Herramientas Para Testear.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Definicion de Pruebas de Software.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/3.0 Pruebas de Software.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.9 Polimorfismo.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.8 Encapsulamiento.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.7 Herencia.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.6 Abstracción.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
+    "Algoritmos y Programación III/Algoritmos y Programación III.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.0 Patrones de Diseño.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
+    "Imagenes/49f03f7d-8fbc-4ab3-92ec-046278122d22.jpeg",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Algoritmos y Programación III/3. Pruebas de Software/Tipos de Pruebas.md"
   ]
 }

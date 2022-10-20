@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md"
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
               }
             }
           }
@@ -140,7 +139,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "95cf70095fae1341",
+  "active": "1a35bb25f8b8d291",
   "lastOpenFiles": [
     "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",

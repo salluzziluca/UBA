@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95cf70095fae1341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
+                "file": "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md"
               }
             }
           }
@@ -127,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1a35bb25f8b8d291",
+  "active": "95cf70095fae1341",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
+    "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.5 Resolución de Problemas Mediante el Uso de Programación Orientada a Objetos.md",
-    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
-    "Algoritmos y Programación III/3. Pruebas de Software/Pasos a la Hora de Testear.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
-    "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.4 Objetos.md"
   ]
 }

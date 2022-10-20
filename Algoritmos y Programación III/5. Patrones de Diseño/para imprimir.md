@@ -148,3 +148,23 @@ Primero modularizas los metodos de una clase y luego te fijas cuales comparte co
 
 En vez de que cada clase ejecute el metodo en cuestion, creas una clase visitante que pase por cada una de las clases involucradas y ejecute ese metodo. asi no alteramos el comportamiento original de las clases
 ![[Pasted image 20221017213802.png]]
+
+![[Pasted image 20221018120141.png]]![[Pasted image 20221020113528.png]]
+![[Pasted image 20221018120308.png]]
+# Asociación
+La clase A “tiene” a la clase B como parámetro.
+
+# Inheritance
+Tiene que haber un extends, la clase B hereda las características de la clase A.
+
+# Realización/Implementación
+La clase A implementa una interfaz o clase abstracta
+
+# Dependencia
+Es más débil que la asociación, no están tan acopladas las clases, ya que el objeto A no tiene al objeto B como atributo. Sea que lo utiliza por haberlo recibido por parámetro o por haberlo creado
+
+# Agregación
+son independientes, pero conviven juntos, en este caso ambos interaccionan y se mandan mensajes.
+
+# Composición
+Un objeto compone a otro y tienen el mismo ciclo de vida. Usualmente, solo el objeto compuesto se comunica con el que compone

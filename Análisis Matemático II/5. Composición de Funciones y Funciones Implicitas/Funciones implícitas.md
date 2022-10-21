@@ -29,7 +29,7 @@ $$F(x_0,y_0,z_0)=0$$
 $$G(x_0,y_0,z_0)=0$$
 FyG sean C¹ en un entorno de $(x_0,y_0,z_0)$
 el determinante de la matriz de las dervadas debe ser diferente a cero
-$$ \frac {dF}{dx} \frac {dF}{dy} $$
+$$ \frac {dF}{dx} \frac {dG}{dy} $$
 $$ $$
 Otra notación: $\LARGE \frac {dFG}{dxy}$ 
 $$ \frac {dF}{dx} *\frac {dG}{dy} - \frac {dG}{dx} * \frac {dF}{dy} \ne 0 $$

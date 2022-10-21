@@ -32,4 +32,4 @@ el determinante de la matriz de las dervadas debe ser diferente a cero
 $$ \frac {dF}{dx} \frac {dF}{dy} $$
 $$ $$
 Otra notación: $\LARGE \frac {dFG}{dxy}$ 
-$$ \frac {dF}{dx} *\frac {dG}{dy} - \frac {dG}{dx} * \frac {dF}{dy} \e!= 0 $$
+$$ \frac {dF}{dx} *\frac {dG}{dy} - \frac {dG}{dx} * \frac {dF}{dy} \ne 0 $$

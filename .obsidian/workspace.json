@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md"
+                "file": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
               }
             }
           }
@@ -142,6 +141,7 @@
   },
   "active": "1a35bb25f8b8d291",
   "lastOpenFiles": [
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/5.0 Composición de Funciones y Funciones Implicitas.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/para imprimir.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
@@ -150,7 +150,6 @@
     "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md",
     "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md"
+    "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
   ]
 }

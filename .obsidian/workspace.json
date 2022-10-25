@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "11a986dbdc0ae8fb",
+            "id": "8d48f462d1306784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95cf70095fae1341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md",
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
               }
             }
           }
@@ -164,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "977be345691b2a95",
+  "active": "8d48f462d1306784",
   "lastOpenFiles": [
+    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
+    "Álgebra II/3. Producto Interno/Regresion Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
     "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
-    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md",
-    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/5.0 Composición de Funciones y Funciones Implicitas.md"
+    "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Funciones implícitas.md"
   ]
 }

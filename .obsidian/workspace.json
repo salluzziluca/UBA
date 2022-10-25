@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
-                "mode": "preview",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "977be345691b2a95",
   "lastOpenFiles": [
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",

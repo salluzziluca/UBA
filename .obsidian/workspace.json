@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d48f462d1306784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"implicitas",
+                "query": "simetria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
               }
             }
           }
@@ -152,17 +141,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8d48f462d1306784",
+  "active": "977be345691b2a95",
   "lastOpenFiles": [
+    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
     "Álgebra II/Álgebra II.md",
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/Regresion Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
-    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
-    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md"
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
   ]
 }

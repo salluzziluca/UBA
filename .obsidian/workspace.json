@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
               }
             }
           },
@@ -162,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "500ecb362de050be",
   "lastOpenFiles": [
+    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+    "Álgebra II/3. Producto Interno/Regresion Lineal.md",
+    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
-    "Álgebra II/3. Producto Interno/Regresion Lineal.md",
     "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
     "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
-    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md"
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
   ]
 }

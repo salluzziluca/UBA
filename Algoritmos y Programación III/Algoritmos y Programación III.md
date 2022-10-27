@@ -4,3 +4,4 @@
 [[4.0 Principios de Diseño]]
 [[5.0 Patrones de Diseño]]
 [[6.0 Excepciones y Persistencia Básica]]
+[[7.0 Interfaces Gráficas]]

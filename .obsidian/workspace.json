@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c254a9aca1ac2755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md"
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md"
               }
             }
           }
@@ -173,8 +185,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec880241286ea8d2",
+  "active": "c254a9aca1ac2755",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.0 Interfaces Gráficas.md",
@@ -183,7 +196,6 @@
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
     "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
     "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
-    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
+    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md"
   ]
 }

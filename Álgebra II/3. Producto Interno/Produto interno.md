@@ -153,4 +153,3 @@ Si $\hat x =\hat x_p + x_n \in fil(A) \iff (\hat x_p +x_n) \perp nul(A)$. Asi en
 3) Si $rg(A) = Rg(\bar A^t A)$
 Entonces $\bar A^t A \hat x = \bar A^t b$ tiene solución única $\iff rg(A)= m$ (rango col max) $\hat x = (\bar A^t A)^{-1} . \bar A^t b$
 Si Rg(A)=n pseudo inversa de A = A^{#} $= (A^{⁻t}A)^{-1} \bar A^t$ 
-

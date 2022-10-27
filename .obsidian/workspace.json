@@ -78,9 +78,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70c1630f09fe1482",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6578d17f144fb736",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "b0bc1d5da9b19a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/Produto interno.md",
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/Produto interno.md"
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
               }
             }
           }
@@ -185,20 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "b8ca8a13c68b51d3",
+  "active": "b0bc1d5da9b19a30",
   "lastOpenFiles": [
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
+    "conflict-files-obsidian-git.md",
     "Álgebra II/3. Producto Interno/Produto interno.md",
+    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
     "Álgebra II/2. Transformaciones Lineales/Transformazzione Lineale.md",
-    "Álgebra II/2. Transformaciones Lineales/Tipos de Funciones.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
+    "Álgebra II/2. Transformaciones Lineales/Tipos de Funciones.md"
   ]
 }

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "c254a9aca1ac2755",
   "lastOpenFiles": [
+    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.0 Interfaces Gráficas.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
@@ -195,7 +196,6 @@
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
-    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/Produto interno.md"
   ]
 }

@@ -8,96 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3789769fe69a0ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.0 Interfaces Gráficas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac2deffd4467f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba4e20646925fb24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59c9ef50ef4efc80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec880241286ea8d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c254a9aca1ac2755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20093a66a7cb70b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra II/Álgebra II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "022ae952f5f44168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/4. Autovalores y Autovectores/3.1 Motivación y Fórmula General.md",
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.1 Motivación y Fórmula General.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/4. Autovalores y Autovectores/3.2 Definiciones.md",
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "626645647e1fed4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/4. Autovalores y Autovectores/3.2 Definiciones.md",
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/4. Autovalores y Autovectores/3.2 Definiciones.md"
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md"
               }
             }
           }
@@ -233,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d1888a37894395f",
+  "active": "626645647e1fed4c",
   "lastOpenFiles": [
     "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
-    "Álgebra II/4. Autovalores y Autovectores/3.2 Definiciones.md",
+    "Álgebra II/4. Autovalores y Autovectores/4.2 Definiciones.md",
     "Álgebra II/Álgebra II.md",
-    "Álgebra II/4. Autovalores y Autovectores/3.1 Motivación y Fórmula General.md",
+    "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
+    "Álgebra II/4. Autovalores y Autovectores/4.1 Motivación y Fórmula General.md",
     "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
-    "Álgebra II/Untitled.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
-    "Algoritmos y Programación III/Algoritmos y Programación III.md"
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
+    "Álgebra II/Untitled.md"
   ]
 }

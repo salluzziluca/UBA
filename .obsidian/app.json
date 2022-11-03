@@ -72,7 +72,9 @@
     "Abstract",
     "laburar",
     "extends",
-    "Inheritance"
+    "Inheritance",
+    "diagonalizable",
+    "diagonalizable"
   ],
   "legacyEditor": false,
   "livePreview": true,

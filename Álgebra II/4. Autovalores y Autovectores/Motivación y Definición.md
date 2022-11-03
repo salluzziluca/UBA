@@ -1,0 +1,13 @@
+ # Motivación 
+ Supongamos que necesitamos llevar cuenta de la cantidad de individuos de x especie en un ecosistema. Tal que
+ $1)$ $x_1 = A x_0$
+ $2)$ $x_2 = A x_1 = A^2 x_0$
+ $3)$ $x_3 = A x_2 = A^3 x_0$
+ $n)$ $x_n = A^n x_0$
+ Para poder simplificar cuentas y poder calcular todo elevando la matriz al grado necesario, necesitaríamos si o sí que la matriz fuera diagonal, de lo contrario las cuentas se volverían demasiado engorrosas ($A . A . A . A . A$)
+
+Para solucionar este problema planteamos la siguiente fórmula
+$$\LARGE A^n = Q \ D^k \ Q^{-1}$$
+Donde D es la diagonal de A tal que 
+ 
+ 

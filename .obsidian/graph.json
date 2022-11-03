@@ -32,7 +32,7 @@
       "query": "path:\"Análisis Matemático II\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14771747
       }
     },
     {
@@ -46,28 +46,28 @@
       "query": "path:\"Física I\"",
       "color": {
         "a": 1,
-        "rgb": 14771747
+        "rgb": 14701138
       }
     },
     {
       "query": "path:\"Algoritmos y Programación II\"",
       "color": {
         "a": 1,
-        "rgb": 10506976
+        "rgb": 10506967
       }
     },
     {
       "query": "path:\"Algoritmos y Programación III\"",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 11621069
       }
     },
     {
       "query": "path:\"Álgebra II\"",
       "color": {
         "a": 1,
-        "rgb": 14771747
+        "rgb": 14123862
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.02287872756504228,
+  "scale": 0.02736563349890084,
   "close": false
 }

@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20093a66a7cb70b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/Álgebra II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "022ae952f5f44168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bebfe2d298822587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/4. Autovalores y Autovectores/Motivación y Definición.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md",
+                "file": "Álgebra II/4. Autovalores y Autovectores/Motivación y Definición.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Primer Parcial.md"
+                "file": "Álgebra II/4. Autovalores y Autovectores/Motivación y Definición.md"
               }
             }
           }
@@ -185,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c254a9aca1ac2755",
+  "active": "bebfe2d298822587",
   "lastOpenFiles": [
+    "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
+    "Álgebra II/Álgebra II.md",
+    "Álgebra II/Untitled.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.0 Interfaces Gráficas.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
-    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md"
+    "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
   ]
 }

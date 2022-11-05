@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md"
+                "file": "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
               }
             }
           }
@@ -164,6 +163,7 @@
   },
   "active": "626645647e1fed4c",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
     "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
@@ -172,7 +172,6 @@
     "Álgebra II/4. Autovalores y Autovectores/4.1 Motivación y Fórmula General.md",
     "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md"
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md"
   ]
 }

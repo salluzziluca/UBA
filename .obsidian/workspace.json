@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
+                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
+                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md"
+                "file": "Análisis Matemático II/7. Extremos/Paso a paso extremos.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "022ae952f5f44168",
   "lastOpenFiles": [
+    "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
+    "Análisis Matemático II/7. Extremos/Extremos Condicionados.md",
+    "Análisis Matemático II/Apuntes para Primer Parcial.md",
+    "Análisis Matemático II/apunte final pequeñito.md",
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/3e. Cuadro de Diferenciabilidad (1).pdf",
-    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md",
-    "Análisis Matemático II/Apuntes para Final.md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Álgebra II/4. Autovalores y Autovectores/4.3 Observaciones.md",
-    "Álgebra II/4. Autovalores y Autovectores/4.0 Autovalores y Autovectores.md",
-    "Álgebra II/4. Autovalores y Autovectores/4.2 Definiciones.md"
+    "Algoritmos y Programación III/4. Principios de Diseño/4.0 Principios de Diseño.md"
   ]
 }

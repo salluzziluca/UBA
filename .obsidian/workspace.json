@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e2c8248fdb51bb85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c636d864f47310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bebfe2d298822587",
             "type": "leaf",
             "state": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md"
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md"
               }
             }
           }
@@ -161,8 +186,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbc4c2b96e1e7dca",
+  "active": "18c636d864f47310",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Derivadas Sucesivas.md",
     "Análisis Matemático II/7. Extremos/Paso a paso extremos.md",
     "Análisis Matemático II/7. Extremos/Extremos Ligados y Absolutos.md",
@@ -170,8 +197,6 @@
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.2 Derivadas Direccionales.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.0 Derivabilidad.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/Continuidad vs Derivabilidad.md"
+    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.1 Derivadas.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
+                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"base ortogonal\"",
+                "query": "suma directa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
+                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md"
+                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md"
               }
             }
           },
@@ -136,15 +135,15 @@
   },
   "active": "6c07eb9e1812573e",
   "lastOpenFiles": [
-    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
-    "Álgebra II/3. Producto Interno/Produto interno.md",
     "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
-    "Álgebra II/5. Matrices Ortogonales/5.0 Matrices Ortogonales.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.8 Recursividad.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.6 Composición de Funciones.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.4 Funciones de Primera Clase.md"
+    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+    "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
+    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.0 Transformaciones Lineales.md",
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
+    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
   ]
 }

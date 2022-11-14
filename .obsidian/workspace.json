@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"matri simetrica\"",
+                "query": "filereader",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ea8e62dcc3ee700",
+  "active": "332773528d4c7fa9",
   "lastOpenFiles": [
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",

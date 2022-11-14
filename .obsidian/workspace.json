@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ea8e62dcc3ee700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suma directa",
+                "query": "\"matri simetrica\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
+                "file": "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md"
+                "file": "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md"
               }
             }
           },
@@ -133,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c07eb9e1812573e",
+  "active": "6ea8e62dcc3ee700",
   "lastOpenFiles": [
+    "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
     "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
     "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
@@ -143,7 +157,6 @@
     "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.0 Transformaciones Lineales.md",
     "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
-    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
+    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6ea8e62dcc3ee700",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.4 Funciones de Primera Clase.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md",
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
     "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md",
-    "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
-    "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
-    "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md"
+    "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md"
   ]
 }

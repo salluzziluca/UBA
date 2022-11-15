@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filereader",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md"
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
               }
             }
           },
@@ -147,8 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "332773528d4c7fa9",
+  "active": "6ea8e62dcc3ee700",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",
     "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md",
@@ -156,8 +157,6 @@
     "Álgebra II/5. Matrices Ortogonales/5.1 Definición y Observaciones.md",
     "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Álgebra II/2. Transformaciones Lineales/2.4 Matriz de la Composición.md",
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
-    "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md"
+    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md"
   ]
 }

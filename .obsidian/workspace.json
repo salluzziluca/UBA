@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md"
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md"
               }
             }
           },
@@ -160,13 +160,13 @@
   },
   "active": "55022b5eb31d48bc",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.4 Datos Inmutables.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.4 Datos Inmutables.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md"

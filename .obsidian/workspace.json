@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md"
+                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6ea8e62dcc3ee700",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
+    "Análisis Matemático II/10. Integrales Triples/10.0 Integrales Triples.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Orden Superior.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.4 Funciones de Primera Clase.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Datos Inmutables.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Funciones Puras.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md",
-    "Álgebra II/5. Matrices Ortogonales/5.3 Matrices Simétricas.md",
-    "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md"
+    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md"
   ]
 }

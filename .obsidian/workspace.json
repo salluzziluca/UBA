@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales/5.2 Matriz Hermítica..md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.2 Matriz Hermítica..md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile and Scrum.md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17bf30352e683b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile and Scrum.md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile and Scrum.md"
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md"
               }
             }
           },
@@ -171,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9da89e1d87b84c2",
+  "active": "17bf30352e683b35",
   "lastOpenFiles": [
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md",
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.1 Definición y Observaciones.md",
+    "Agile and Scrum.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.4 Datos Inmutables.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md"
+    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md"
   ]
 }

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04fc0f9bed9c71e2",
+        "id": "c2dedc3d7ad2c524",
         "type": "tabs",
         "children": [
           {
-            "id": "6c07eb9e1812573e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.2 Matriz Hermítica..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea8e62dcc3ee700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55022b5eb31d48bc",
+            "id": "54e82238cfc35ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3d7bd9bd4b208994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c96976928335d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -135,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md"
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md"
               }
             }
           },
@@ -183,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "54e82238cfc35ff1",
   "lastOpenFiles": [
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
-    "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
-    "Análisis Matemático II/3. Funciones/3.2 Conjuntos de nivel.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.1 Definición y Observaciones.md",
-    "Agile and Scrum.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.4 Datos Inmutables.md"
+    "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.1 Excepciones.md"
   ]
 }

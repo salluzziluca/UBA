@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15c96976928335d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md"
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.5 Optimización.md"
               }
             }
           },
@@ -171,13 +183,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d7bd9bd4b208994",
+  "active": "1f0ff475a551d0ff",
   "lastOpenFiles": [
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
     "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
     "Análisis Matemático II/3. Funciones/3.0 Funciones.md",
     "Análisis Matemático II/3. Funciones/3.2 Conjuntos de nivel.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.4 Formas Cuadráticas.md",
     "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.1 Definición y Observaciones.md",
     "Agile and Scrum.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",

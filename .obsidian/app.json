@@ -74,7 +74,8 @@
     "extends",
     "Inheritance",
     "diagonalizable",
-    "diagonalizable"
+    "diagonalizable",
+    "antipatrones"
   ],
   "legacyEditor": false,
   "livePreview": true,

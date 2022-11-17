@@ -47,12 +47,8 @@
             "id": "5fccd784210951eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Agile and Scrum/Working with Agile.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -85,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curva de nivel",
+                "query": "caja blanca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Agile and Scrum/Working with Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cursos/Agile and Scrum/Working with Agile.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,15 +166,15 @@
   },
   "active": "5fccd784210951eb",
   "lastOpenFiles": [
+    "Cursos/Agile and Scrum/Working with Agile.md",
+    "Cursos/Agile and Scrum/Pair Programming.md",
+    "Cursos/Agile and Scrum/Behavior Driven Development.md",
+    "Cursos/Agile and Scrum/Minium Viable Product.md",
     "Cursos/Agile and Scrum/Agile.md",
     "Cursos/Agile and Scrum/Kanban.md",
     "Cursos/Agile and Scrum/Extreme Programming (XP).md",
     "UBA.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/Algoritmos y Programación III.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md"
+    "Algoritmos y Programación III/Algoritmos y Programación III.md"
   ]
 }

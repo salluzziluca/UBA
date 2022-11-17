@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+                "file": "Agile and Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
+                "file": "Agile and Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
+                "file": "Agile and Scrum.md"
               }
             }
           },
@@ -135,6 +136,7 @@
   },
   "active": "54e82238cfc35ff1",
   "lastOpenFiles": [
+    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
     "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
@@ -143,7 +145,6 @@
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md"
   ]
 }

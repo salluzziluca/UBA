@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md"
+                "file": "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md"
               }
             }
           },
@@ -136,11 +136,11 @@
   "active": "54e82238cfc35ff1",
   "lastOpenFiles": [
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
+    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
     "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
     "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md",

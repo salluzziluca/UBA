@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
-                "mode": "source",
+                "file": "Cursos/Agile and Scrum/Working with Agile.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+                "file": "Cursos/Agile and Scrum/Working with Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
+                "file": "Cursos/Agile and Scrum/Working with Agile.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "5fccd784210951eb",
   "lastOpenFiles": [
+    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Álgebra II/2. Transformaciones Lineales/2.1 Definición de Transformación Lineal.md",
     "Cursos/Agile and Scrum/Working with Agile.md",
     "Cursos/Agile and Scrum/Pair Programming.md",
@@ -180,7 +181,6 @@
     "Cursos/Agile and Scrum/Agile.md",
     "Cursos/Agile and Scrum/Kanban.md",
     "Cursos/Agile and Scrum/Extreme Programming (XP).md",
-    "UBA.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md"
+    "UBA.md"
   ]
 }

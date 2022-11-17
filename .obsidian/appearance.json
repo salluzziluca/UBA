@@ -2,8 +2,6 @@
   "baseFontSize": 30,
   "cssTheme": "obsidian-original",
   "translucency": false,
-  "enabledCssSnippets": [
-    "obsidian"
-  ],
+  "enabledCssSnippets": [],
   "accentColor": ""
 }

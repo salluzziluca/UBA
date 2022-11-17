@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c2dedc3d7ad2c524",
+        "id": "ce8487271ce161af",
         "type": "tabs",
         "children": [
           {
-            "id": "54e82238cfc35ff1",
+            "id": "6e71ab17ebf376fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile and Scrum.md",
+                "file": "Cursos/Agile and Scrum/Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cbf9b957e7f492b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Agile and Scrum/Extreme Programming (XP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e597db57041b7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Agile and Scrum/Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fccd784210951eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Agile and Scrum/Working with Agile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile and Scrum.md",
+                "file": "Cursos/Agile and Scrum/Working with Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile and Scrum.md"
+                "file": "Cursos/Agile and Scrum/Working with Agile.md"
               }
             }
           },
@@ -134,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54e82238cfc35ff1",
+  "active": "5fccd784210951eb",
   "lastOpenFiles": [
-    "Algoritmos y Programación III/6. Excepciones y Persistencia Básica/6.2 Persistencia.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.4 GUI en Java.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.5 M.V.C..md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.6 Funciones de Orden Superior.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+    "Cursos/Agile and Scrum/Agile.md",
+    "Cursos/Agile and Scrum/Kanban.md",
+    "Cursos/Agile and Scrum/Extreme Programming (XP).md",
+    "UBA.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.3 Programación por Eventos.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.2 Historia de las Interfaces Gráficas.md",
-    "Algoritmos y Programación III/7. Interfaces Gráficas/7.1 Tipos de Interfaces Gráficas.md"
+    "Algoritmos y Programación III/Algoritmos y Programación III.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.2 Programas como Funciones.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.0 Programación Funcional.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.3 Funciones Puras.md"
   ]
 }

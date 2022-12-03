@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md"
+                "file": "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
               }
             }
           },
@@ -134,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
@@ -144,7 +145,6 @@
     "Física I/hidrodinamica.md",
     "Cursos/Agile and Scrum/Extreme Programming (XP).md",
     "Cursos/Agile and Scrum/Scrum.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiente (Función Potencial).md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md"
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/Campos de Gradiente (Función Potencial).md"
   ]
 }

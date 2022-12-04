@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+                "file": "Análisis Matemático II/Apuntes para Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+                "file": "Análisis Matemático II/Apuntes para Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"
+                "file": "Análisis Matemático II/Apuntes para Final.md"
               }
             }
           },

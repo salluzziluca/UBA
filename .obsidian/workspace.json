@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distancia",
+                "query": "mínimos cuadrados",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
+                "file": "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md"
               }
             }
           },
@@ -136,6 +137,7 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
@@ -144,7 +146,6 @@
     "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.1 Definición y Observaciones.md"
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.0 Matrices Ortogonales, Unitarias, Simétricas y Hermíticas.md"
   ]
 }

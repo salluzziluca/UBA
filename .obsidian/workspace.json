@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
+                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
-    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
-    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
-    "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
-    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
+    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
+    "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
+    "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
+    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
+    "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Análisis Matemático II/Apuntes para Final.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
+    "Análisis Matemático II/Apuntes para Primer Parcial.md"
   ]
 }

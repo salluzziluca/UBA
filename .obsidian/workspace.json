@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md"
+                "file": "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md"
               }
             }
           },
@@ -136,6 +135,7 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
     "Álgebra II/1. Espacios Vectoriales/1.3 Generadores.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
@@ -144,7 +144,6 @@
     "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md",
     "Álgebra II/3. Producto Interno/3.3 Ortogonalidad.md",
     "Álgebra II/3. Producto Interno/3.5 Mínimos Cuadrados.md",
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
-    "Análisis Matemático II/Apuntes para Final.md"
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
   ]
 }

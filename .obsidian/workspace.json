@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md"
+                "file": "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md"
               }
             }
           },
@@ -135,15 +135,15 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+    "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
+    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
     "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md",
     "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
     "Álgebra II/1. Espacios Vectoriales/1.3 Generadores.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/3. Producto Interno/3.2 Observaciones y Características.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
-    "Álgebra II/3. Producto Interno/3.0 Producto Interno.md",
-    "Álgebra II/3. Producto Interno/3.1 Definición de Producto Interno.md"
+    "Álgebra II/3. Producto Interno/3.0 Producto Interno.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"doble inclusión\"",
+                "query": "\"Teorema de la\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md"
               }
             }
           },
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02505ee49ea3f441",
+  "active": "332773528d4c7fa9",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+    "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
+    "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
+    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
     "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
-    "Álgebra II/2. Transformaciones Lineales/2.5 Simetrias y Proyecciones Segun una Dirección.md",
-    "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
     "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md",
-    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
-    "Álgebra II/1. Espacios Vectoriales/1.3 Generadores.md"
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md"
   ]
 }

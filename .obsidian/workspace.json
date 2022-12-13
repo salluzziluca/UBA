@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,6 +143,8 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
     "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
     "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
@@ -151,8 +152,6 @@
     "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
     "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
     "Análisis Matemático II/5. Composición de Funciones y Funciones Implicitas/Composición de Funciones.md",
-    "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md",
-    "Álgebra II/2. Transformaciones Lineales/2.3 Cambio de Base de Matriz de Transformación Lineal.md",
-    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/5.6 Valores Singulares.md"
+    "Análisis Matemático II/6. Polinomio de Taylor/6.0 Polinomio de Taylor.md"
   ]
 }

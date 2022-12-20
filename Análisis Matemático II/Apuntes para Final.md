@@ -1,6 +1,50 @@
 	# Apuntes para Final
 ## Potencial
 
+
+NPC IDEALS
+d6 Good Ideal: 
+1 Beauty
+2 Charity
+3 Greater good
+4 Life
+5 Respect
+6 Self-sacrifice 
+d6 Evil ideal
+1 Domination
+2  Greed
+3  Might
+4  Pain
+5  Retribution
+6  Slaughter
+d6 Lawful Ideal 
+1 Fairness
+2 Honor
+3 Community
+4 Logic
+5 Responsibility
+6 Tradition
+Chaotic Ideal
+1 Change
+2  Creativity
+3  Freedom
+4  Independence
+5  No limits
+6  Whimsy
+d6 Neutral ideal
+1 Balance
+2 Knowledge
+3 Live and let live 
+4 Moderation
+5 Neutrality
+6 People
+Other Ideals
+1  Aspiration
+2  Discovery
+3 Glory
+4  Nation
+5  Redemption
+6  Self-knowledge
 ## Flujo
 sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$ se llama integral de superficie o flujo del campo vectorial $\vec f$a traves de S
  $$\int\int_S \vec F.\hat n\ ds= \int\int_D \hat F(\vec g(u ,v)).\vec (g'_u(u, v) \times \vec g'_v(u, v))dudv$$

@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1567cda264fc300a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md"
+                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md"
               }
             }
           },
@@ -164,8 +152,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1567cda264fc300a",
+  "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/Apuntes para Final.md",
@@ -174,7 +163,6 @@
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Física I/Laboratorio/Teoria de la Medida.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
   ]
 }

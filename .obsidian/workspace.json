@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1567cda264fc300a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longitud",
+                "query": "Familia de curvas",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md",
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/apunte final pequeñito.md"
+                "file": "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md"
               }
             }
           },
@@ -142,10 +153,21 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02505ee49ea3f441",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1567cda264fc300a",
   "lastOpenFiles": [
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/apunte final pequeñito.md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
     "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",

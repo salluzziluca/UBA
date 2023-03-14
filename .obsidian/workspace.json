@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md"
               }
             }
           },
@@ -154,6 +154,8 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
+    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
@@ -161,8 +163,6 @@
     "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md",
-    "Física I/Laboratorio/Teoria de la Medida.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md"
+    "Física I/Laboratorio/Teoria de la Medida.md"
   ]
 }

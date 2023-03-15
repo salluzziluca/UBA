@@ -1,4 +1,4 @@
-	#### Flujo 
+# Flujo 
 
  $$\int\int_S \vec F.\hat n\ ds= \int\int_D \hat F(\vec g(u ,v)).\vec (g'_u(u, v) \times \vec g'_v(u, v))dudv$$
   Con $\hat n = \frac {\vec F'_u(u, v) \times \vec F'_v(u, v)}{||\vec F'_u(u, v) \times \vec F'_v(u, v)||}$ y  $ds=||\vec F'_u(u, v) \times \vec F'_v(u, v)||$
@@ -13,7 +13,7 @@ $$P'_x +Q'_y + R'_z = div(\vec f) = divergencia$$
 
 
 se restan las tapas si el solido esta dado como una ecuacion (x^2+y² = 3) y no se restan las tapas si esta dado como una desigualdad x²+y²>=3 
- #### circulacion
+ # Circulacion
 $$\int_C \vec F ds= \int_a^b \vec F (\vec g(t))\vec g'(t)dt=\int_a^b \vec F (\vec g(t)).\hat T ds $$
 con $\hat T = \frac {\vec g'(t)}{||\vec g'(t)||}$
 

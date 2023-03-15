@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9369a52ca237e9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"plano tangente\"",
+                "query": "tag:#Producto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md"
+                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
               }
+            }
+          },
+          {
+            "id": "1be988f60aff20df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -124,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fb480944ff31c81",
+  "active": "9369a52ca237e9ed",
   "lastOpenFiles": [
-    "Análisis Matemático II/Apuntes para Primer Parcial.md",
     "Análisis Matemático II/Apuntes para Final.md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/4. Derivabilidad y Diferenciabilidad/4.3 Diferenciabilidad.md",
-    "4.4 Diferenciabilidad.md",
-    "Álgebra II/3. Producto Interno/3.4 Proyección Ortogonal.md",
-    "Álgebra II/2. Transformaciones Lineales/2.2 Matriz de Transformación Lineal.md",
-    "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
-    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
-    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md"
+    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
+    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
+    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
+    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md"
   ]
 }

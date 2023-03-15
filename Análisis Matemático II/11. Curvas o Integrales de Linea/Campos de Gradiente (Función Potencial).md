@@ -1,5 +1,4 @@
-  # Campos de Gradiante
-Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campo deq gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
+ Sea $\vec F$ una funcion vectorial en H se dice que $\vec F$ es un campo deq gradientes en H si existe una funcion escalar $\phi$ diferenciable en H tal que
 $$\vec F = \triangledown \phi$$ En todos los puntos de H. 
 Tambien se dice que la funcion $\phi$ es el potencial del campo $\vec F$ 
 

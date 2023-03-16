@@ -2,5 +2,11 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-completr",
+  "obsidian-latex-environments",
+  "obsidian-latex-suite",
+  "obsidian-outliner",
+  "obsidian-latex",
+  "obsidian-desmos"
 ]

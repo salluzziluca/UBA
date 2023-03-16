@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md"
+                "file": "Física II/0. Repaso/0.0 Repaso.md"
               }
             }
           },
@@ -154,6 +155,8 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+    "Física II/0. Repaso/0.0 Repaso.md",
     "conflict-files-obsidian-git.md",
     "Álgebra II/6. DVS/Pseudoinversa de Moore-Penrose.md",
     "Álgebra II/6. DVS/6.0 DVS.md",
@@ -176,7 +179,6 @@
     "Imagenes/Pasted image 20221201190243.png",
     "Imagenes/2.jpg",
     "Imagenes/1.jpg",
-    "Física II/0. Repaso/0.0 Repaso.md",
     "Física II/Física II.md",
     "Física II/0. Repaso",
     "Física II",

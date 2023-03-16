@@ -1,4 +1,5 @@
 Los
+Longitud
 subespacios
 subespacio
 vectoriales
@@ -6,6 +7,7 @@ vectorial
 vacio
 deben
 de
+diferenciales
 cumplir
 condiciones
 cartesianas
@@ -22,9 +24,15 @@ adicionalmente
 tres
 Sea
 Si
+Superficie
 un
 no
+ndricas
 pertenecen
 pertenece
 br
 ricas
+Volumen
+Cartesianas
+Cil
+Esf

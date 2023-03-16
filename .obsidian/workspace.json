@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -154,8 +153,12 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
-    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+    "Pasted image 20230316104738.png",
+    "Física II/Física II.md",
     "Física II/0. Repaso/0.0 Repaso.md",
+    "Pasted image 20230316104340.png",
+    "Pasted image 20230316104323.png",
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
     "conflict-files-obsidian-git.md",
     "Álgebra II/6. DVS/Pseudoinversa de Moore-Penrose.md",
     "Álgebra II/6. DVS/6.0 DVS.md",
@@ -176,9 +179,6 @@
     "Imagenes/Pasted image 20221201190836.png",
     "Imagenes/Pasted image 20221201190722.png",
     "Imagenes/Pasted image 20221201190243.png",
-    "Imagenes/2.jpg",
-    "Imagenes/1.jpg",
-    "Física II/Física II.md",
     "Física II/0. Repaso",
     "Física II",
     "4.4 Diferenciabilidad.md",

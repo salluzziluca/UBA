@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fb480944ff31c81",
+            "id": "03856f8c93039ae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9369a52ca237e9ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Producto",
+                "query": "coordenadas cilindricas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -97,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,24 +124,36 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9369a52ca237e9ed",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "03856f8c93039ae1",
   "lastOpenFiles": [
-    "Análisis Matemático II/Apuntes para Final.md",
-    "Análisis Matemático II/2. R3/2.1 Introduccion a R3.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
-    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variables en Integrales Dobles.md",
-    "Análisis Matemático II/9. Integrales Dobles/Cambio de Variabes en Integrales Simples.md",
-    "Física I/1. Cinemática/1.2 Sistema de Referencia.md",
-    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
-    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md"
+    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
+    "Física II/0. Repaso/0.0 Repaso.md",
+    "Física II/Física II.md",
+    "UBA.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "4.4 Diferenciabilidad.md",
+    "Análisis Matemático II/Apuntes para Final.md"
   ]
 }

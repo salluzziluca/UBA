@@ -57,11 +57,9 @@
             "id": "949f2d52cb90ec7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md"
               }
             }
           }
@@ -112,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
+                "file": "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md"
+                "file": "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md"
               }
             }
           },
@@ -200,8 +197,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "332773528d4c7fa9",
+  "active": "949f2d52cb90ec7d",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
+    "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
     "Pasted image 20230317105736.png",
@@ -231,9 +231,7 @@
     "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/Matrices Equivalentes.md",
     "valor singular.md",
     "semidefinida positiva.md",
-    "Untitled.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Imagenes/Pasted image 20221201223920.png",
     "Imagenes/Pasted image 20221201223849.png",
     "Imagenes/Pasted image 20221201223839.png",
@@ -242,7 +240,6 @@
     "Física II/0. Repaso",
     "Física II",
     "4.4 Diferenciabilidad.md",
-    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
-    "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md"
+    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md"
   ]
 }

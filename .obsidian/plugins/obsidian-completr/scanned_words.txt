@@ -140,6 +140,7 @@ excalidraw
 electrica
 electrico
 eso
+edges
 adicionalmente
 alguna
 al
@@ -207,6 +208,7 @@ ningun
 normales
 necesitamos
 numero
+nodes
 pertenecen
 pertenece
 pi

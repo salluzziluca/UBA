@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
+                "file": "Física II/Física II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44492f8b135c9430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa66fe974568cef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md"
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md"
               }
             }
           },
@@ -153,17 +177,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "02505ee49ea3f441",
+  "active": "aa66fe974568cef0",
   "lastOpenFiles": [
+    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+    "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+    "Física II/Física II.md",
+    "Física II/0. Repaso/0.0 Repaso.md",
+    "Física II/1. Electroestática en el Vacío",
     "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
     "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
-    "Física II/0. Repaso/0.0 Repaso.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Pasted image 20230316104738.png",
-    "Física II/Física II.md",
     "Pasted image 20230316104340.png",
     "Pasted image 20230316104323.png",
     "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
@@ -194,8 +221,6 @@
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
-    "Análisis Matemático II/Apuntes para Primer Parcial.md"
+    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md"
   ]
 }

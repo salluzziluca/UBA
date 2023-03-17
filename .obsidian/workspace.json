@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
+                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solenoidal",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md",
+                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis Matemático II/Apuntes para Final.md"
+                "file": "Física II/0. Repaso/0.0 Repaso.md"
               }
             }
           },
@@ -156,6 +155,7 @@
   },
   "active": "02505ee49ea3f441",
   "lastOpenFiles": [
+    "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
@@ -194,7 +194,6 @@
     "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-    "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md",
     "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
     "Análisis Matemático II/Apuntes para Primer Parcial.md"

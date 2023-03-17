@@ -42,9 +42,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0555fef803af1d76",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md"
+              }
+            }
+          },
+          {
+            "id": "949f2d52cb90ec7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico (caso electroestático Discreto).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico (caso electroestático Discreto).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md"
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico (caso electroestático Discreto).md"
               }
             }
           },
@@ -177,10 +199,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aa66fe974568cef0",
+  "active": "949f2d52cb90ec7d",
   "lastOpenFiles": [
-    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
+    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico (caso electroestático Discreto).md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+    "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md",
+    "Pasted image 20230317102824.png",
+    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
     "Física II/Física II.md",
     "Física II/0. Repaso/0.0 Repaso.md",
     "Física II/1. Electroestática en el Vacío",
@@ -212,15 +238,11 @@
     "Imagenes/Pasted image 20221201191333.png",
     "Imagenes/Pasted image 20221201190854.png",
     "Imagenes/Pasted image 20221201190836.png",
-    "Imagenes/Pasted image 20221201190722.png",
     "Física II/0. Repaso",
     "Física II",
     "4.4 Diferenciabilidad.md",
     "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.5 Funciones de Primera Clase.md",
-    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md",
-    "Análisis Matemático II/apunte final pequeñito.md",
-    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md"
+    "Análisis Matemático II/8.Ecuaciones Diferenciales/Curvas Ortogonales.md"
   ]
 }

@@ -2,6 +2,7 @@ Los
 Longitud
 La
 Lineas
+LI
 subespacios
 subespacio
 se
@@ -36,6 +37,10 @@ sirve
 src
 simetr
 superficiales
+sistema
+soluci
+soy
+son
 vectoriales
 vectorial
 vacio
@@ -50,6 +55,7 @@ vector
 venimos
 vez
 volum
+vectores
 deben
 de
 diferenciales
@@ -70,6 +76,10 @@ document
 distancia
 debido
 debemos
+dependencia
+default
+det
+determinante
 cumplir
 condiciones
 cartesianas
@@ -108,6 +118,11 @@ cuenta
 campos
 cargas
 continuas
+combinaci
+comprobar
+cadavector
+capaz
+cuadrada
 las
 la
 lo
@@ -117,6 +132,8 @@ lculo
 llama
 lido
 le
+linealmente
+lineal
 enunciadas
 en
 espacio
@@ -141,6 +158,8 @@ electrica
 electrico
 eso
 edges
+escribe
+esa
 adicionalmente
 alguna
 al
@@ -157,6 +176,7 @@ analizamos
 alrededor
 angulos
 aplicar
+armo
 tres
 theta
 tiene
@@ -181,6 +201,7 @@ this
 tUbp
 tener
 tricas
+triangularla
 Sea
 Si
 Superficie
@@ -209,6 +230,8 @@ normales
 necesitamos
 numero
 nodes
+ning
+nica
 pertenecen
 pertenece
 pi
@@ -241,8 +264,11 @@ particulas
 particula
 propia
 puntual
+polinomios
+particular
 br
 borde
+busco
 ricas
 respectivamente
 recorre
@@ -282,16 +308,21 @@ ESFERA
 Es
 Integrales
 Importantes
+Igualo
 Triples
 Teorema
 Teoremas
 Text
+Triangulaci
+Teniendo
+Tambien
 Dejando
 DEN
 De
 Drawing
 Discreto
 Distancias
+Derivo
 obtenemos
 orientaci
 orientable
@@ -299,6 +330,7 @@ obtener
 orientacion
 orientada
 of
+otro
 mide
 mas
 mediante
@@ -310,8 +342,10 @@ mismo
 momento
 menu
 muy
+me
 que
 queda
+quede
 hasta
 hacia
 hay
@@ -333,6 +367,9 @@ in
 img
 interesan
 integrar
+independiente
+igualar
+igualaci
 frontera
 flujo
 forma
@@ -341,6 +378,7 @@ funcion
 finalmente
 fijas
 fijo
+fila
 gira
 green
 gradiente
@@ -356,6 +394,8 @@ Final
 Flujo
 Fuerza
 Fuente
+Formas
+Forma
 Potencial
 Para
 Punto
@@ -367,6 +407,8 @@ No
 MORE
 OPTIONS
 Una
+Un
 width
 Recordemos
 Ya
+Wronskiano

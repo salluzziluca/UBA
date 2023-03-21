@@ -11,8 +11,12 @@
             "id": "82fa768dfd6f621f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md"
+              }
             }
           },
           {

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83c7faa819e80e6f",
+        "id": "ce624f6cb03ed30e",
         "type": "tabs",
         "children": [
           {
-            "id": "03856f8c93039ae1",
+            "id": "82fa768dfd6f621f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,6 +116,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad5c83cb01c7514a",
+            "type": "leaf",
+            "state": {
+              "type": "online.louis01.ava",
               "state": {}
             }
           }
@@ -144,29 +146,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "82fa768dfd6f621f",
   "lastOpenFiles": [
+    "Física II/Física II.md",
+    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+    "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Pasted image 20230317105736.png",
+    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
+    "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md",
     "Pasted image 20230317102824.png",
+    "Física II/0. Repaso/0.0 Repaso.md",
+    "Física II/1. Electroestática en el Vacío",
+    "Análisis Matemático II/Apuntes para Final.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de Green.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Rotor.md",
+    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Pasted image 20230316104738.png",
     "Pasted image 20230316104340.png",
     "Pasted image 20230316104323.png",
-    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
-    "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md",
-    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
-    "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
-    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
-    "Física II/1. Electroestática en el Vacío",
-    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
-    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
-    "Física II/0. Repaso/0.0 Repaso.md",
-    "Física II/Física II.md",
-    "UBA.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Álgebra II/1. Espacios Vectoriales/1.2 Subespacios Vectoriales.md",
+    "conflict-files-obsidian-git.md",
+    "Álgebra II/6. DVS/Pseudoinversa de Moore-Penrose.md",
+    "Álgebra II/6. DVS/6.0 DVS.md",
+    "Álgebra II/6. DVS",
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/Matrices Semejantes.md",
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/Matrices Ortogonales.md",
+    "Álgebra II/5. Matrices Ortogonales, Unitarias, Simétricas y Hermíticas/Matrices Equivalentes.md",
+    "valor singular.md",
+    "semidefinida positiva.md",
     "Untitled 2.canvas",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "Imagenes/Pasted image 20221201223920.png",
+    "Imagenes/Pasted image 20221201223849.png",
+    "Imagenes/Pasted image 20221201223839.png",
+    "Imagenes/Pasted image 20221201191333.png",
+    "Imagenes/Pasted image 20221201190854.png",
+    "Física II/0. Repaso",
+    "Física II",
     "4.4 Diferenciabilidad.md",
-    "Análisis Matemático II/Apuntes para Final.md"
+    "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md"
   ]
 }

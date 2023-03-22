@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"418f7ca8bb77ef8a","x":-279,"y":-320,"width":459,"height":653,"type":"file","file":"Análisis Matemático II/2. R3/2.1 Introduccion a R3.md"},
-		{"id":"bdeafa4b4d956974","x":360,"y":-73,"width":250,"height":160,"type":"text","text":"Queeee"}
-	],
-	"edges":[
-		{"id":"48550dea5124d9db","fromNode":"418f7ca8bb77ef8a","fromSide":"right","toNode":"bdeafa4b4d956974","toSide":"top"}
-	]
-}

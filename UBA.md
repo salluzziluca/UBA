@@ -6,4 +6,4 @@
 [[Algoritmos y Programación II/Algoritmos y Programación II]]
 [[Álgebra II]]
 [[Algoritmos y Programación III]]
-[[[Física II]]]
+[[Física II]]

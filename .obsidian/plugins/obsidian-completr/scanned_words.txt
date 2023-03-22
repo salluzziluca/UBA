@@ -41,6 +41,7 @@ sistema
 soluci
 soy
 son
+su
 vectoriales
 vectorial
 vacio
@@ -56,6 +57,7 @@ venimos
 vez
 volum
 vectores
+verificar
 deben
 de
 diferenciales
@@ -123,6 +125,7 @@ comprobar
 cadavector
 capaz
 cuadrada
+columnas
 las
 la
 lo
@@ -177,6 +180,7 @@ alrededor
 angulos
 aplicar
 armo
+armar
 tres
 theta
 tiene
@@ -269,6 +273,7 @@ particular
 br
 borde
 busco
+buscar
 ricas
 respectivamente
 recorre
@@ -331,6 +336,7 @@ orientacion
 orientada
 of
 otro
+otra
 mide
 mas
 mediante

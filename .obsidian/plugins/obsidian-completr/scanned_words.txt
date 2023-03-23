@@ -48,6 +48,7 @@ Ld
 Lo
 Luego
 Las
+LA
 subespacios
 subespacio
 se
@@ -210,6 +211,7 @@ viendo
 vamos
 ven
 vaya
+valor
 deben
 de
 diferenciales
@@ -284,6 +286,8 @@ diferencial
 du
 dv
 dieron
+depende
+dice
 cumplir
 condiciones
 cartesianas
@@ -390,6 +394,7 @@ camino
 caminos
 cantidad
 coseno
+cual
 las
 la
 lo
@@ -542,6 +547,8 @@ estamos
 evaluando
 esfera
 erficie
+encerrada
+exterior
 adicionalmente
 alguna
 al
@@ -686,6 +693,7 @@ toma
 todo
 todos
 tangencial
+total
 Sea
 Si
 Superficie
@@ -1085,6 +1093,7 @@ realiza
 recorrido
 recorridos
 regular
+radio
 Volumen
 Variable
 Ver
@@ -1202,6 +1211,7 @@ Curvas
 Curvilinea
 Curvascia
 Calculo
+CARGA
 Esf
 Entonces
 Esto
@@ -1258,6 +1268,7 @@ Ex
 Ea
 Ejercicio
 Ejemplo
+EST
 Integrales
 Importantes
 Igualo
@@ -1405,6 +1416,8 @@ Dominio
 Diferencial
 Derivar
 Dada
+DEPENDE
+DEL
 obtenemos
 orientaci
 orientable
@@ -1715,6 +1728,7 @@ interior
 izquierda
 integramos
 infinita
+independientemente
 frontera
 flujo
 forma
@@ -2020,6 +2034,8 @@ FOV
 Ff
 Funci
 Fisicamente
+FLUJO
+FUENTE
 Potencial
 Para
 Punto
@@ -2070,6 +2086,8 @@ Pzb
 Propiedades
 Paso
 Parecidas
+PRUEBA
+Por
 Hipotesis
 HbgIcQAl
 HJM
@@ -2451,6 +2469,7 @@ Rg
 Reales
 Raiz
 Repaso
+RADIO
 Ya
 YUV
 YLO
@@ -2807,6 +2826,7 @@ Qhp
 QDG
 QAfL
 QaIB
+QUE
 zt
 zN
 zB

@@ -1,4 +1,3 @@
-# Teorema de la divergencia - Teorema de Gauss
 - Sea $D \subset R^3$ un cuerpo con superficie frontera $\partial D$ y $\vec f :A ->R^3 $Siendo A un conjunto abierto que contiene a $D \cup \partial D$
 
 - D es acotada con frontera $\partial D$ de volumen nulo y se puede dividir en infinitas regiones tipo 4 en R³

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83c7faa819e80e6f",
+        "id": "ce624f6cb03ed30e",
         "type": "tabs",
         "children": [
           {
-            "id": "03856f8c93039ae1",
+            "id": "0c329c8a3fd15e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md",
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/0. Repaso/0.0 Repaso.md"
+                "file": "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md"
               }
             }
           },
@@ -122,6 +122,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad5c83cb01c7514a",
+            "type": "leaf",
+            "state": {
+              "type": "online.louis01.ava",
               "state": {}
             }
           }
@@ -144,29 +152,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "0c329c8a3fd15e39",
   "lastOpenFiles": [
-    "Pasted image 20230317105736.png",
-    "Pasted image 20230317102824.png",
-    "Pasted image 20230316104738.png",
-    "Pasted image 20230316104340.png",
-    "Pasted image 20230316104323.png",
-    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
-    "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md",
-    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
-    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
-    "Física II/1. Electroestática en el Vacío",
-    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
-    "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
-    "Física II/0. Repaso/0.0 Repaso.md",
-    "Física II/Física II.md",
-    "UBA.md",
-    "Untitled 1.canvas",
+    "Física II/1. Electroestática en el Vacío/1.3 Campos de +1 Cargas.md",
+    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
+    "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+    "Física II/1. Electroestática en el Vacío/Simetría en Campos Electricos I.md",
+    "Análisis Matemático II/12. Integrales de superficie/12.0 Integrales de superficie.md",
+    "Pasted image 20230322173847.png",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema de la divergencia - Teorema de Gauss.md",
+    "Análisis Matemático II/Apuntes para Final.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
+    "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
+    "Análisis Matemático II/13. Teoremas de Integrales/13.0 Teoremas de Integrales.md",
+    "Física II/1. Electroestática en el Vacío/Lineas de Campo +1 Carga.md",
+    "valor singular.md",
     "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Análisis Matemático II/1. R2/1.6 Algebra Vectorial.md",
+    "UBA.md",
+    "Tarea para mi jermu.md",
+    "semidefinida positiva.md",
     "4.4 Diferenciabilidad.md",
-    "Análisis Matemático II/Apuntes para Final.md"
+    "Imagenes/Pasted image 20230316104323.png",
+    "Imagenes/Pasted image 20230322164350.png",
+    "Imagenes/Pasted Image 20230322164552_452.png",
+    "Imagenes/Pasted image 20230322162726.png",
+    "Imagenes/Pasted image 20230316104340.png",
+    "Imagenes/Pasted image 20230316104738.png",
+    "[Física II.md",
+    "Algoritmos y Programación III/Algoritmos y Programación III.md",
+    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+    "Física II/1. Electroestática en el Vacío/Simetría II.md",
+    "Imagenes/Pasted image 20230322164344.png",
+    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+    "Física II/Física II.md",
+    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
+    "Untitled 1.canvas",
+    "Imagenes/Pasted image 20230317105736.png",
+    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
+    "Imagenes/Pasted image 20230317102824.png",
+    "Física II/1. Electroestática en el Vacío",
+    "Álgebra II/6. DVS",
+    "Untitled 2.canvas",
+    "Física II/0. Repaso",
+    "Física II"
   ]
 }

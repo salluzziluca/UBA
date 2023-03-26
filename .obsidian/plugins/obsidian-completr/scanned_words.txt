@@ -49,6 +49,7 @@ Lo
 Luego
 Las
 LA
+Ley
 subespacios
 subespacio
 se
@@ -630,6 +631,7 @@ aca
 area
 ayuda
 argc
+ayudandome
 tres
 theta
 tiene
@@ -702,6 +704,7 @@ todo
 todos
 tangencial
 total
+tambien
 Sea
 Si
 Superficie
@@ -984,6 +987,7 @@ paralelogramos
 posibles
 perpendicular
 parametros
+planteo
 br
 borde
 busco
@@ -1103,6 +1107,7 @@ recorrido
 recorridos
 regular
 radio
+respete
 Volumen
 Variable
 Ver
@@ -1490,6 +1495,7 @@ origen
 ordenada
 observar
 otros
+obtenido
 mide
 mas
 mediante
@@ -1742,6 +1748,7 @@ izquierda
 integramos
 infinita
 independientemente
+integra
 frontera
 flujo
 forma
@@ -1845,6 +1852,7 @@ ga
 gr
 gh
 gv
+gaussiana
 Gauss
 Green
 GC

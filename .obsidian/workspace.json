@@ -11,12 +11,8 @@
             "id": "0c329c8a3fd15e39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,10 +145,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c329c8a3fd15e39",
+  "active": "1f0ff475a551d0ff",
   "lastOpenFiles": [
-    "Física II/0. Repaso/0.0 Repaso.md",
     "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+    "Física II/0. Repaso/0.0 Repaso.md",
     "Algoritmos y Programación II/Main.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",

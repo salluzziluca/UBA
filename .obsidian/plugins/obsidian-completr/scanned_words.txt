@@ -395,6 +395,8 @@ caminos
 cantidad
 coseno
 cual
+corresponda
+calculo
 las
 la
 lo
@@ -622,6 +624,7 @@ asi
 anota
 aca
 area
+ayuda
 tres
 theta
 tiene
@@ -1212,6 +1215,7 @@ Curvilinea
 Curvascia
 Calculo
 CARGA
+Coulomb
 Esf
 Entonces
 Esto
@@ -1556,6 +1560,7 @@ mientras
 menos
 mueve
 multiplicar
+modo
 que
 queda
 quede
@@ -2088,6 +2093,7 @@ Paso
 Parecidas
 PRUEBA
 Por
+Planteo
 Hipotesis
 HbgIcQAl
 HJM

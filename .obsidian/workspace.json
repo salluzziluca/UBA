@@ -11,8 +11,12 @@
             "id": "0c329c8a3fd15e39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
   },
   "active": "0c329c8a3fd15e39",
   "lastOpenFiles": [
+    "Algoritmos y Programación II/Main.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Física II/Física II.md",
     "Física II/1. Electroestática en el Vacío/Simetría II.md",
@@ -183,7 +191,6 @@
     "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
     "Untitled 1.canvas",
     "Imagenes/Pasted image 20230317105736.png",
-    "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
     "Imagenes/Pasted image 20230317102824.png",
     "Física II/1. Electroestática en el Vacío",
     "Álgebra II/6. DVS",

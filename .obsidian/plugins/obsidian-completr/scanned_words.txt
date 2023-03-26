@@ -212,6 +212,7 @@ vamos
 ven
 vaya
 valor
+van
 deben
 de
 diferenciales
@@ -397,6 +398,9 @@ coseno
 cual
 corresponda
 calculo
+corremos
+compilado
+conformado
 las
 la
 lo
@@ -625,6 +629,7 @@ anota
 aca
 area
 ayuda
+argc
 tres
 theta
 tiene
@@ -978,6 +983,7 @@ paralelogramo
 paralelogramos
 posibles
 perpendicular
+parametros
 br
 borde
 busco
@@ -1483,6 +1489,7 @@ oO
 origen
 ordenada
 observar
+otros
 mide
 mas
 mediante
@@ -1660,6 +1667,7 @@ hkG
 hM
 hbm
 hU
+hola
 image
 iria
 incluya
@@ -1932,6 +1940,7 @@ jU
 jA
 jH
 jB
+juntos
 Aplicaci
 Apuntes
 Ambas

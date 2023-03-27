@@ -145,6 +145,8 @@ superficies
 suaves
 superfiece
 sup
+servidor
+sabiamente
 vectoriales
 vectorial
 vacio
@@ -214,6 +216,7 @@ ven
 vaya
 valor
 van
+varios
 deben
 de
 diferenciales
@@ -290,6 +293,8 @@ dv
 dieron
 depende
 dice
+development
+despreciables
 cumplir
 condiciones
 cartesianas
@@ -402,6 +407,14 @@ calculo
 corremos
 compilado
 conformado
+caracterisiticas
+correr
+cosas
+crear
+customizarlas
+crea
+customizar
+contenedores
 las
 la
 lo
@@ -556,6 +569,9 @@ esfera
 erficie
 encerrada
 exterior
+efficient
+estandar
+ejecutar
 adicionalmente
 alguna
 al
@@ -632,6 +648,9 @@ area
 ayuda
 argc
 ayudandome
+and
+app
+aislados
 tres
 theta
 tiene
@@ -705,6 +724,9 @@ todos
 tangencial
 total
 tambien
+trabajar
+tenga
+tiempo
 Sea
 Si
 Superficie
@@ -760,6 +782,7 @@ Sb
 SU
 SV
 Segun
+Sistema
 un
 una
 usando
@@ -874,6 +897,9 @@ negatividad
 ninguna
 negativa
 nada
+nuestro
+nuestras
+nuestra
 pertenecen
 pertenece
 pi
@@ -988,6 +1014,10 @@ posibles
 perpendicular
 parametros
 planteo
+predictable
+permite
+pensados
+partir
 br
 borde
 busco
@@ -1108,6 +1138,8 @@ recorridos
 regular
 radio
 respete
+redistribuye
+recursos
 Volumen
 Variable
 Ver
@@ -1227,6 +1259,8 @@ Curvascia
 Calculo
 CARGA
 Coulomb
+Contenedores
+Cerrado
 Esf
 Entonces
 Esto
@@ -1284,6 +1318,7 @@ Ea
 Ejercicio
 Ejemplo
 EST
+Emula
 Integrales
 Importantes
 Igualo
@@ -1341,6 +1376,7 @@ It
 Imagen
 Igualamos
 Integral
+Imagenes
 Triples
 Teorema
 Teoremas
@@ -1433,6 +1469,9 @@ Derivar
 Dada
 DEPENDE
 DEL
+Docker
+Dockerfile
+Dockercompose
 obtenemos
 orientaci
 orientable
@@ -1496,6 +1535,7 @@ ordenada
 observar
 otros
 obtenido
+original
 mide
 mas
 mediante
@@ -1574,6 +1614,8 @@ menos
 mueve
 multiplicar
 modo
+makes
+mismas
 que
 queda
 quede
@@ -1622,6 +1664,7 @@ qyil
 qE
 qMD
 qVl
+queremos
 hasta
 hacia
 hay
@@ -2111,6 +2154,7 @@ Parecidas
 PRUEBA
 Por
 Planteo
+Podemos
 Hipotesis
 HbgIcQAl
 HJM
@@ -2338,6 +2382,7 @@ OzU
 OÜ
 OMi
 Ordenada
+Operativo
 Una
 Un
 UI

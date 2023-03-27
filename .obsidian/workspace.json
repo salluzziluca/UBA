@@ -11,8 +11,12 @@
             "id": "0c329c8a3fd15e39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md"
+              }
             }
           },
           {
@@ -145,16 +152,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f0ff475a551d0ff",
+  "active": "0c329c8a3fd15e39",
   "lastOpenFiles": [
+    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+    "Docker.md",
     "Física II/0. Repaso/0.0 Repaso.md",
     "Algoritmos y Programación II/Main.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
     "Algoritmos y Programación III/8. Programación Funcional/8.1 Características.md",
     "Física II/Física II.md",
     "Física II/1. Electroestática en el Vacío/Simetría II.md",
-    "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.3 Campos de +1 Cargas.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
     "Física II/1. Electroestática en el Vacío/Simetría en Campos Electricos I.md",
@@ -180,7 +188,6 @@
     "Imagenes/Pasted image 20230316104738.png",
     "[Física II.md",
     "Algoritmos y Programación III/Algoritmos y Programación III.md",
-    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
     "Imagenes/Pasted image 20230322164344.png",
     "Untitled 1.canvas",
     "Imagenes/Pasted image 20230317105736.png",

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "divergencia",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,9 +155,10 @@
   },
   "active": "0c329c8a3fd15e39",
   "lastOpenFiles": [
+    "Análisis Matemático II/apunte final pequeñito.md",
+    "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
     "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
-    "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
     "Docker.md",
     "Física II/0. Repaso/0.0 Repaso.md",
     "Algoritmos y Programación II/Main.md",
@@ -187,7 +189,6 @@
     "Imagenes/Pasted image 20230316104340.png",
     "Imagenes/Pasted image 20230316104738.png",
     "[Física II.md",
-    "Algoritmos y Programación III/Algoritmos y Programación III.md",
     "Imagenes/Pasted image 20230322164344.png",
     "Untitled 1.canvas",
     "Imagenes/Pasted image 20230317105736.png",

@@ -298,6 +298,7 @@ development
 despreciables
 dado
 desigualdad
+densidad
 cumplir
 condiciones
 cartesianas
@@ -734,6 +735,7 @@ trabajar
 tenga
 tiempo
 tapas
+trica
 Sea
 Si
 Superficie
@@ -1484,6 +1486,7 @@ DEL
 Docker
 Dockerfile
 Dockercompose
+Donde
 obtenemos
 orientaci
 orientable

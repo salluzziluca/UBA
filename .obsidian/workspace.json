@@ -11,9 +11,11 @@
             "id": "0c329c8a3fd15e39",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png"
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png",
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png"
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md"
               }
             }
           },
@@ -152,14 +154,26 @@
   },
   "active": "0c329c8a3fd15e39",
   "lastOpenFiles": [
+    "valor singular.md",
+    "Cursos/Docker.md",
+    "4.4 Diferenciabilidad.md",
+    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
+    "Excalidraw/Drawing 2022-05-01 14.27.37.excalidraw.png",
+    "Excalidraw/Drawing 2022-05-23 15.23.43.excalidraw.png",
+    "Excalidraw/Drawing 2022-05-23 15.23.43.excalidraw.svg",
+    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.png",
+    "Excalidraw/Drawing 2022-07-08 11.07.36.excalidraw.md",
+    "Excalidraw/Drawing 2022-07-18 11.40.59.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-04 14.41.56.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-26 14.04.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
     "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.svg",
-    "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png",
     "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png",
     "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
     "Análisis Matemático II/apunte final pequeñito.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
     "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
-    "Docker.md",
     "Física II/0. Repaso/0.0 Repaso.md",
     "Algoritmos y Programación II/Main.md",
     "Análisis Matemático II/10. Integrales Triples/Cambios de Variable en Integrales Triples.md",
@@ -174,20 +188,9 @@
     "Análisis Matemático II/Apuntes para Final.md",
     "Análisis Matemático II/13. Teoremas de Integrales/Teorema del Stokes (Rotor).md",
     "Análisis Matemático II/11. Curvas o Integrales de Linea/11.0 Curvas.md",
-    "Análisis Matemático II/13. Teoremas de Integrales/13.0 Teoremas de Integrales.md",
-    "Física II/1. Electroestática en el Vacío/Lineas de Campo +1 Carga.md",
-    "valor singular.md",
     "Untitled.canvas",
-    "UBA.md",
-    "Tarea para mi jermu.md",
-    "semidefinida positiva.md",
     "Imagenes/Pasted image 20230316104323.png",
     "Imagenes/Pasted image 20230322164350.png",
-    "Imagenes/Pasted Image 20230322164552_452.png",
-    "Imagenes/Pasted image 20230322162726.png",
-    "Imagenes/Pasted image 20230316104340.png",
-    "Imagenes/Pasted image 20230316104738.png",
-    "Imagenes/Pasted image 20230322164344.png",
     "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío",
     "Álgebra II/6. DVS",

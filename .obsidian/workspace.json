@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92d0f9f3569f91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,11 +209,15 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7417447062d2c074",
+  "active": "a92d0f9f3569f91c",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
     "Álgebra II/Álgebra II.md",
     "UBA.md",
@@ -210,7 +227,6 @@
     "Algoritmos y Programación II/Algoritmos y Programación II.md",
     "Algoritmos y Programación I/Algoritmos y Programacion I.md",
     "Álgebra II/1. Espacios Vectoriales/1.5 Bases.md",
-    "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
     "Excalidraw/Drawing 2023-03-29 16.11.12.excalidraw.md",
     "Pasted Image 20230329161128_143.png",

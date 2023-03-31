@@ -222,6 +222,7 @@ Lzk
 LKO
 LZW
 LZQ
+Lineal
 subespacios
 subespacio
 se
@@ -522,6 +523,7 @@ sl
 shl
 suma
 sica
+seria
 vectoriales
 vectorial
 vacio
@@ -1045,6 +1047,13 @@ dg
 dq
 dimension
 denotado
+despejamos
+definir
+desacoplamos
+deber
+debera
+dimensi
+directa
 cumplir
 condiciones
 cartesianas
@@ -1358,6 +1367,9 @@ cU
 cumple
 cambio
 coordenada
+col
+conjuntos
+contenerlos
 las
 la
 lo
@@ -1846,6 +1858,7 @@ eq
 ep
 equivalentes
 elemento
+ellas
 adicionalmente
 alguna
 al
@@ -2116,6 +2129,8 @@ aCJ
 azC
 aJ
 addd
+ambos
+abarcar
 tres
 theta
 tiene
@@ -2391,6 +2406,7 @@ tVf
 tCN
 tengo
 tico
+tratarse
 Sea
 Si
 Superficie
@@ -2621,6 +2637,9 @@ Spn
 SWS
 SQWU
 Snippets
+Subespacios
+Sean
+Suma
 un
 una
 usando
@@ -2890,6 +2909,7 @@ uhPh
 uVx
 uHt
 upla
+uno
 no
 ndricas
 nulo
@@ -3129,6 +3149,7 @@ nNn
 nicos
 nueva
 neutro
+necesariamente
 pertenecen
 pertenece
 pi
@@ -3441,6 +3462,11 @@ paS
 pNa
 pTH
 puedo
+posible
+planteamos
+pertenezcan
+pertenezca
+poder
 br
 borde
 busco
@@ -4410,6 +4436,7 @@ CUt
 Cv
 CUn
 Conmutativad
+Caracteristicas
 Esf
 Entonces
 Esto
@@ -4635,6 +4662,9 @@ Ema
 Existe
 Espacio
 Espacios
+Estos
+Entre
+Este
 Integrales
 Importantes
 Igualo
@@ -4892,6 +4922,7 @@ IDATG
 IO
 II
 Informes
+Independencia
 Triples
 Teorema
 Teoremas
@@ -5137,6 +5168,7 @@ TBm
 TQY
 Temas
 TPs
+Tener
 Dejando
 DEN
 De
@@ -5902,6 +5934,7 @@ mZS
 mZk
 mk
 mbO
+minimal
 que
 queda
 quede
@@ -6567,6 +6600,7 @@ ie
 iZE
 iRUE
 iR
+incluir
 frontera
 flujo
 forma
@@ -6837,6 +6871,8 @@ frt
 fMu
 fgE
 formaremos
+fil
+filas
 gira
 green
 gradiente
@@ -7094,6 +7130,10 @@ gJhh
 gp
 gy
 gN
+generadores
+generador
+generados
+gen
 Gauss
 Green
 GC
@@ -7346,6 +7386,7 @@ GJH
 GEh
 GURjmIF
 GUUU
+Generadores
 jacobiana
 jacobinao
 jue
@@ -7813,6 +7854,8 @@ Aae
 Adicionalmente
 Asociatividad
 Algoritmos
+Asi
+Aunque
 Final
 Flujo
 Fuerza
@@ -8030,6 +8073,8 @@ FYa
 Fe
 Fbj
 Fk
+Finalmente
+Fundamentales
 Potencial
 Para
 Punto
@@ -8282,6 +8327,8 @@ Pj
 PiGu
 Programaci
 Programacion
+Primero
+Puesto
 Hipotesis
 HbgIcQAl
 HJM
@@ -9371,6 +9418,7 @@ OWb
 Omu
 OF
 Observaciones
+Operaciones
 Una
 Un
 UI
@@ -10797,6 +10845,7 @@ xUp
 xg
 xSm
 xsF
+ximo
 JyvZ
 JY
 JX
@@ -12396,6 +12445,7 @@ BJh
 Bp
 BPP
 Bqz
+Bases
 äU
 XJV
 XT

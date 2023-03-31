@@ -520,6 +520,8 @@ sKM
 sfk
 sl
 shl
+suma
+sica
 vectoriales
 vectorial
 vacio
@@ -1041,6 +1043,8 @@ dHY
 dHv
 dg
 dq
+dimension
+denotado
 cumplir
 condiciones
 cartesianas
@@ -1351,6 +1355,9 @@ ca
 cGk
 cWH
 cU
+cumple
+cambio
+coordenada
 las
 la
 lo
@@ -1572,6 +1579,8 @@ lYD
 lMV
 lQj
 ls
+lgebra
+lisis
 enunciadas
 en
 espacio
@@ -1835,6 +1844,8 @@ eW
 eYh
 eq
 ep
+equivalentes
+elemento
 adicionalmente
 alguna
 al
@@ -2378,6 +2389,8 @@ tii
 tVV
 tVf
 tCN
+tengo
+tico
 Sea
 Si
 Superficie
@@ -2607,6 +2620,7 @@ SdyXx
 Spn
 SWS
 SQWU
+Snippets
 un
 una
 usando
@@ -2875,6 +2889,7 @@ uNS
 uhPh
 uVx
 uHt
+upla
 no
 ndricas
 nulo
@@ -3111,6 +3126,9 @@ nSr
 nnn
 ngggU
 nNn
+nicos
+nueva
+neutro
 pertenecen
 pertenece
 pi
@@ -3422,6 +3440,7 @@ paV
 paS
 pNa
 pTH
+puedo
 br
 borde
 busco
@@ -3924,6 +3943,7 @@ ro
 rff
 rVX
 rQX
+relacionadas
 Volumen
 Variable
 Ver
@@ -4151,6 +4171,8 @@ VaZ
 VYe
 Vpb
 VWg
+Vectorial
+Vectoriales
 Cartesianas
 Cil
 Cambios
@@ -4387,6 +4409,7 @@ Cyhw
 CUt
 Cv
 CUn
+Conmutativad
 Esf
 Entonces
 Esto
@@ -4609,6 +4632,9 @@ EYC
 Ed
 Edc
 Ema
+Existe
+Espacio
+Espacios
 Integrales
 Importantes
 Igualo
@@ -4864,6 +4890,8 @@ IrT
 Ij
 IDATG
 IO
+II
+Informes
 Triples
 Teorema
 Teoremas
@@ -5107,6 +5135,8 @@ Tn
 TO
 TBm
 TQY
+Temas
+TPs
 Dejando
 DEN
 De
@@ -5345,6 +5375,8 @@ DXBD
 DUe
 DxUG
 DszQ
+Definicion
+Dibujos
 obtenemos
 orientaci
 orientable
@@ -5602,6 +5634,7 @@ oo
 oooU
 oA
 oHSj
+opuesto
 mide
 mas
 mediante
@@ -6803,6 +6836,7 @@ fxQ
 frt
 fMu
 fgE
+formaremos
 gira
 green
 gradiente
@@ -7776,6 +7810,9 @@ Ae
 APdO
 Afc
 Aae
+Adicionalmente
+Asociatividad
+Algoritmos
 Final
 Flujo
 Fuerza
@@ -8243,6 +8280,8 @@ PKj
 PkR
 Pj
 PiGu
+Programaci
+Programacion
 Hipotesis
 HbgIcQAl
 HJM
@@ -9099,6 +9138,10 @@ MiR
 Mmz
 MLe
 Musr
+Matriz
+Mediante
+Materias
+Matem
 OPTIONS
 OV
 OP
@@ -9327,6 +9370,7 @@ OhF
 OWb
 Omu
 OF
+Observaciones
 Una
 Un
 UI

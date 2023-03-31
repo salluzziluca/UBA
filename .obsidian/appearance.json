@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 27,
-  "cssTheme": "obsidian-original",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
   "translucency": false,
   "enabledCssSnippets": [],
   "accentColor": ""

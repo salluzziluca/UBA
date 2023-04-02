@@ -1881,6 +1881,8 @@ exclusivamente
 energia
 encontrarse
 elastica
+electroestatico
+electroestatica
 adicionalmente
 alguna
 al
@@ -2665,6 +2667,7 @@ Snippets
 Subespacios
 Sean
 Suma
+Similara
 un
 una
 usando
@@ -6647,6 +6650,7 @@ iR
 incluir
 inicial
 integrando
+inversa
 frontera
 flujo
 forma

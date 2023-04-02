@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3a54487deb3321d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "250cbd8d201d320c",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -226,10 +238,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "44e8c70d48ca4cb8",
+  "active": "3a54487deb3321d0",
   "lastOpenFiles": [
-    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
+    "Pasted image 20230402192234.png",
+    "Pasted image 20230402192227.png",
+    "Excalidraw/Superficies Equipotenciales.md",
     "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+    "Pasted image 20230402191602.png",
+    "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
     "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
     "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
     "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
@@ -258,13 +274,9 @@
     "Excalidraw/Drawing 2022-07-08 11.07.36.excalidraw.md",
     "Excalidraw/Drawing 2022-07-18 11.40.59.excalidraw.md",
     "Excalidraw/Drawing 2022-08-04 14.41.56.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-26 14.04.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-17 12.15.07.excalidraw.md",
     "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.svg",
     "Excalidraw/Drawing 2023-03-29 13.47.37.excalidraw.png",
-    "Pasted image 20230322173847.png",
     "Untitled.canvas",
-    "Imagenes/Pasted image 20230316104323.png",
     "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío",
     "Álgebra II/6. DVS",

@@ -526,6 +526,7 @@ sica
 seria
 saber
 significa
+sin
 vectoriales
 vectorial
 vacio
@@ -1063,6 +1064,8 @@ dijimos
 deriva
 donde
 definimos
+divisi
+desplazamos
 cumplir
 condiciones
 cartesianas
@@ -1387,6 +1390,10 @@ claramente
 conservativas
 conservaci
 conservativo
+cuentas
+cuales
+circunferencias
+componente
 las
 la
 lo
@@ -2434,6 +2441,7 @@ tengo
 tico
 tratarse
 tica
+tomamos
 Sea
 Si
 Superficie
@@ -2938,6 +2946,9 @@ uVx
 uHt
 upla
 uno
+ultimo
+usar
+unico
 no
 ndricas
 nulo
@@ -3500,6 +3511,7 @@ part
 ponemos
 posicion
 poner
+puntuales
 br
 borde
 busco
@@ -4005,6 +4017,8 @@ rVX
 rQX
 relacionadas
 relacionada
+realizar
+radial
 Volumen
 Variable
 Ver
@@ -4705,6 +4719,7 @@ Este
 Energia
 Energ
 Esta
+Equipotenciales
 Integrales
 Importantes
 Igualo
@@ -5980,6 +5995,7 @@ mZk
 mk
 mbO
 minimal
+movamos
 que
 queda
 quede
@@ -6189,6 +6205,7 @@ qpp
 quou
 qP
 quiera
+querramos
 hasta
 hacia
 hay
@@ -6419,6 +6436,8 @@ hMV
 hz
 hQW
 hacer
+haremos
+hora
 image
 iria
 incluya
@@ -6651,6 +6670,8 @@ incluir
 inicial
 integrando
 inversa
+infinito
+importa
 frontera
 flujo
 forma
@@ -6925,6 +6946,7 @@ fil
 filas
 final
 fuerzas
+facilitarnos
 gira
 green
 gradiente
@@ -7912,6 +7934,7 @@ Algoritmos
 Asi
 Aunque
 Aca
+ACOTADA
 Final
 Flujo
 Fuerza

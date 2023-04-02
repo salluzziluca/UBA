@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d081c29ec53200cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Conductor con una burbuja.md"
+              }
+            }
+          },
+          {
             "id": "da1ecd878c5097d3",
             "type": "leaf",
             "state": {
@@ -226,12 +236,14 @@
   },
   "active": "5c9048161e39bae0",
   "lastOpenFiles": [
+    "Excalidraw/Conductor.md",
+    "Excalidraw/Conductor con una burbuja.md",
+    "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
+    "Pasted image 20230402204216.png",
     "Pasted image 20230402203205.png",
     "Pasted image 20230402203203.png",
     "Pasted image 20230402203201.png",
     "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
-    "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
-    "Excalidraw/Conductor.md",
     "Pasted image 20230402201117.png",
     "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
     "Física II/2. Conductores y Capacitores/2.0 Conductores y Capacitores.md",
@@ -262,8 +274,6 @@
     "Cursos/Docker.md",
     "4.4 Diferenciabilidad.md",
     "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
-    "Excalidraw/Drawing 2022-05-01 14.27.37.excalidraw.png",
-    "Excalidraw/Drawing 2022-05-23 15.23.43.excalidraw.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío",

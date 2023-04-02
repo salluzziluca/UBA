@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "da1ecd878c5097d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d32328f113d2e43",
             "type": "leaf",
             "state": {
@@ -29,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Conductor.md",
+                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Conductor.md"
+                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md"
               }
             }
           },
@@ -165,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Conductor.md",
+                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,8 +224,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8d32328f113d2e43",
+  "active": "5c9048161e39bae0",
   "lastOpenFiles": [
+    "Pasted image 20230402203205.png",
+    "Pasted image 20230402203203.png",
+    "Pasted image 20230402203201.png",
+    "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
     "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
     "Excalidraw/Conductor.md",
     "Pasted image 20230402201117.png",
@@ -243,16 +258,12 @@
     "Álgebra II/1. Espacios Vectoriales/1.1 Definición de Espacio Vectorial.md",
     "Excalidraw/Drawing 2023-03-29 16.11.12.excalidraw.md",
     "Pasted Image 20230329161128_143.png",
-    "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
     "valor singular.md",
     "Cursos/Docker.md",
     "4.4 Diferenciabilidad.md",
     "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
     "Excalidraw/Drawing 2022-05-01 14.27.37.excalidraw.png",
     "Excalidraw/Drawing 2022-05-23 15.23.43.excalidraw.png",
-    "Excalidraw/Drawing 2022-05-23 15.23.43.excalidraw.svg",
-    "Excalidraw/Drawing 2022-06-07 14.39.01.excalidraw.png",
-    "Excalidraw/Drawing 2022-07-08 11.07.36.excalidraw.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío",

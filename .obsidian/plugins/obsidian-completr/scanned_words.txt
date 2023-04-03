@@ -794,6 +794,8 @@ veF
 vO
 vinculada
 variacion
+verde
+violeta
 deben
 de
 diferenciales
@@ -1074,6 +1076,8 @@ disposici
 desplazan
 deberia
 dle
+diferencia
+dificil
 cumplir
 condiciones
 cartesianas
@@ -1639,6 +1643,7 @@ lisis
 lado
 libertad
 libres
+lineas
 enunciadas
 en
 espacio
@@ -2190,6 +2195,7 @@ altura
 atraidos
 anula
 aislada
+azul
 tres
 theta
 tiene
@@ -2470,6 +2476,7 @@ tica
 tomamos
 transmitir
 tomo
+tomar
 Sea
 Si
 Superficie
@@ -4055,6 +4062,7 @@ radial
 reacomodarse
 reacomodan
 reordena
+rojo
 Volumen
 Variable
 Ver
@@ -5509,6 +5517,7 @@ Dependen
 Del
 DESCONOCIDAS
 Desde
+Dipolos
 obtenemos
 orientaci
 orientable

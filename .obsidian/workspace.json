@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
+                "file": "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d081c29ec53200cf",
+            "id": "a6af3d3c4e44d7b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Conductor con una burbuja.md"
+                "file": "Excalidraw/Drawing 2023-04-03 16.46.22.excalidraw.md"
               }
             }
           },
@@ -40,18 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d32328f113d2e43",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Conductor.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
+                "file": "Excalidraw/Drawing 2023-04-03 16.46.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md"
+                "file": "Excalidraw/Drawing 2023-04-03 16.46.22.excalidraw.md"
               }
             }
           },
@@ -186,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
+                "file": "Excalidraw/Drawing 2023-04-03 16.46.22.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,11 +226,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5c9048161e39bae0",
+  "active": "a6af3d3c4e44d7b4",
   "lastOpenFiles": [
+    "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
+    "Excalidraw/Drawing 2023-04-03 16.46.22.excalidraw.md",
+    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
+    "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+    "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
     "Excalidraw/Conductor.md",
     "Excalidraw/Conductor con una burbuja.md",
-    "Física II/2. Conductores y Capacitores/2.1 Conductores.md",
     "Pasted image 20230402204216.png",
     "Pasted image 20230402203205.png",
     "Pasted image 20230402203203.png",
@@ -247,7 +243,6 @@
     "Pasted image 20230402201117.png",
     "Física I/5 Cuerpo Rígido/Teoremas de  conservación para Cuerpo Rígido.md",
     "Física II/2. Conductores y Capacitores/2.0 Conductores y Capacitores.md",
-    "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
     "Física II/2. Conductores y Capacitores",
     "Física II/1. Electroestática en el Vacío/Untitled",
     "Pasted image 20230402192234.png",
@@ -255,7 +250,6 @@
     "Excalidraw/Superficies Equipotenciales.md",
     "Pasted image 20230402191602.png",
     "Física I/3. Trabajo y Energía/Fuerzas Conservativas.md",
-    "Física II/1. Electroestática en el Vacío/1.0 Electroestática en el Vacío.md",
     "Álgebra II/1. Espacios Vectoriales/Erpasio vetoriale.md",
     "Álgebra II/1. Espacios Vectoriales/1.6 Coordenadas.md",
     "Álgebra II/1. Espacios Vectoriales/1.0 Espacios Vectoriales.md",
@@ -271,8 +265,6 @@
     "Excalidraw/Drawing 2023-03-29 16.11.12.excalidraw.md",
     "Pasted Image 20230329161128_143.png",
     "valor singular.md",
-    "Cursos/Docker.md",
-    "4.4 Diferenciabilidad.md",
     "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -531,6 +531,8 @@ suficientemente
 separarse
 siguiente
 superficial
+secundaria
+superpongan
 vectoriales
 vectorial
 vacio
@@ -796,6 +798,8 @@ vinculada
 variacion
 verde
 violeta
+vac
+varias
 deben
 de
 diferenciales
@@ -1417,6 +1421,7 @@ cumplan
 conductores
 cambiase
 cambiar
+convertir
 las
 la
 lo
@@ -1644,6 +1649,8 @@ lado
 libertad
 libres
 lineas
+luz
+lleve
 enunciadas
 en
 espacio
@@ -1920,6 +1927,7 @@ electr
 electricidad
 electrones
 ende
+electromagn
 adicionalmente
 alguna
 al
@@ -2477,6 +2485,8 @@ tomamos
 transmitir
 tomo
 tomar
+ticas
+tambi
 Sea
 Si
 Superficie
@@ -2712,6 +2722,7 @@ Sean
 Suma
 Similara
 Sus
+SLRnbF
 un
 una
 usando
@@ -2985,6 +2996,7 @@ uno
 ultimo
 usar
 unico
+usa
 no
 ndricas
 nulo
@@ -3227,6 +3239,10 @@ neutro
 necesariamente
 negativas
 nosotros
+necesita
+nicas
+necesitan
+neamente
 pertenecen
 pertenece
 pi
@@ -3551,6 +3567,13 @@ posicion
 poner
 puntuales
 positivas
+poco
+planteando
+plantearlo
+propagar
+primaria
+paredes
+pido
 br
 borde
 busco
@@ -4063,6 +4086,8 @@ reacomodarse
 reacomodan
 reordena
 rojo
+reproducirse
+rectil
 Volumen
 Variable
 Ver
@@ -5777,6 +5802,8 @@ oA
 oHSj
 opuesto
 ocurre
+onda
+ondas
 mide
 mas
 mediante
@@ -6049,6 +6076,8 @@ movamos
 material
 modifica
 moverse
+mec
+maneja
 que
 queda
 quede
@@ -6492,6 +6521,8 @@ hQW
 hacer
 haremos
 hora
+historia
+haya
 image
 iria
 incluya
@@ -6729,6 +6760,8 @@ importa
 inestables
 interno
 imposible
+importante
+interfieran
 frontera
 flujo
 forma
@@ -7004,6 +7037,7 @@ filas
 final
 fuerzas
 facilitarnos
+frente
 gira
 green
 gradiente
@@ -8212,6 +8246,7 @@ Fk
 Finalmente
 Fundamentales
 Fuerzas
+Fermat
 Potencial
 Para
 Punto
@@ -8468,6 +8503,7 @@ Primero
 Puesto
 Peso
 Puedo
+Principio
 Hipotesis
 HbgIcQAl
 HJM
@@ -8672,6 +8708,7 @@ HCF
 HHJ
 HJw
 Hw
+Huygens
 ya
 yRZ
 yD
@@ -9097,6 +9134,8 @@ NNNJD
 NMj
 Nho
 NY
+Newton
+NpXkBtKb
 MORE
 MYk
 MDD

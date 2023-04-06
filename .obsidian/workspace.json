@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,11 +204,14 @@
   },
   "active": "5c9048161e39bae0",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+    "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
+    "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.1 Ley de Coulomb.md",
     "Física II/1. Electroestática en el Vacío/Campo Electrico Sumidero.md",
     "Física II/1. Electroestática en el Vacío/Campo Electrico Fuente.md",
-    "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
     "Excalidraw/Superficies Equipotenciales.md",
     "Física I/7. Óptica/7.0  Óptica.md",
     "Física II/1. Electroestática en el Vacío/1.4 Ley de Gauss.md",
@@ -237,9 +240,6 @@
     "UBA.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Física I/Física I.md",
-    "Física II/Física II.md",
-    "Algoritmos y Programación II/Algoritmos y Programación II.md",
-    "Algoritmos y Programación I/Algoritmos y Programacion I.md",
     "Pasted Image 20230329161128_143.png",
     "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
     "Untitled.canvas",

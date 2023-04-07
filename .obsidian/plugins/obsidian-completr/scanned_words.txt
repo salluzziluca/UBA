@@ -2723,6 +2723,7 @@ Suma
 Similara
 Sus
 SLRnbF
+SCI
 un
 una
 usando
@@ -3243,6 +3244,7 @@ necesita
 nicas
 necesitan
 neamente
+nul
 pertenecen
 pertenece
 pi
@@ -7301,6 +7303,7 @@ generados
 gen
 gravitoria
 gido
+general
 Gauss
 Green
 GC

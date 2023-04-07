@@ -533,6 +533,7 @@ siguiente
 superficial
 secundaria
 superpongan
+servir
 vectoriales
 vectorial
 vacio
@@ -1422,6 +1423,7 @@ conductores
 cambiase
 cambiar
 convertir
+cosa
 las
 la
 lo
@@ -1928,6 +1930,8 @@ electricidad
 electrones
 ende
 electromagn
+ecuaciones
+estan
 adicionalmente
 alguna
 al
@@ -2204,6 +2208,7 @@ atraidos
 anula
 aislada
 azul
+abajo
 tres
 theta
 tiene
@@ -2487,6 +2492,7 @@ tomo
 tomar
 ticas
 tambi
+tendra
 Sea
 Si
 Superficie
@@ -2724,6 +2730,7 @@ Similara
 Sus
 SLRnbF
 SCI
+SUBESPACIOS
 un
 una
 usando
@@ -3576,6 +3583,7 @@ propagar
 primaria
 paredes
 pido
+ponerlos
 br
 borde
 busco
@@ -4090,6 +4098,9 @@ reordena
 rojo
 reproducirse
 rectil
+restricciones
+revisar
+recordar
 Volumen
 Variable
 Ver
@@ -6764,6 +6775,7 @@ interno
 imposible
 importante
 interfieran
+impuestas
 frontera
 flujo
 forma
@@ -7304,6 +7316,7 @@ gen
 gravitoria
 gido
 general
+grande
 Gauss
 Green
 GC
@@ -9601,6 +9614,7 @@ Omu
 OF
 Observaciones
 Operaciones
+Otra
 Una
 Un
 UI
@@ -10345,6 +10359,7 @@ RrJcRjhcYI
 RXX
 RWt
 RgA
+Recordar
 Ya
 YUV
 YLO
@@ -12628,6 +12643,7 @@ Bp
 BPP
 Bqz
 Bases
+BASES
 äU
 XJV
 XT

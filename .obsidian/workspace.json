@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb8a3eb3df49ac66",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md"
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
+                "file": "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,9 +205,9 @@
   },
   "active": "5c9048161e39bae0",
   "lastOpenFiles": [
+    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Pasted image 20230406203507.png",
     "Álgebra II/1. Espacios Vectoriales/1.8 Operaciones Entre Subespacios.md",
-    "Álgebra II/1. Espacios Vectoriales/1.7 Subespacios Fundamentales de una Matriz.md",
     "Álgebra II/1. Espacios Vectoriales/1.4 Independencia Lineal.md",
     "Física II/1. Electroestática en el Vacío/1.5 Potencial Electroestático.md",
     "Física II/1. Electroestática en el Vacío/1.2 Campo Eléctrico caso electroestático.md",
@@ -241,7 +242,6 @@
     "UBA.md",
     "Análisis Matemático II/Análisis Matemático II.md",
     "Pasted Image 20230329161128_143.png",
-    "Excalidraw/Drawing 2022-04-26 20.20.38.excalidraw.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Física II/1. Electroestática en el Vacío",

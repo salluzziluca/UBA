@@ -1,19 +1,19 @@
 {
-  "commitMessage": "vault backup: {{date}}-Kvothe's Desktop",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": true,
+  "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "vault backup: {{date}}-Kvothe's Desktop"
+  "autoCommitMessage": "vault backup: {{date}}"
 }

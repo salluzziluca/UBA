@@ -534,6 +534,7 @@ superficial
 secundaria
 superpongan
 servir
+siempre
 vectoriales
 vectorial
 vacio
@@ -801,6 +802,8 @@ verde
 violeta
 vac
 varias
+velocidad
+variable
 deben
 de
 diferenciales
@@ -1083,6 +1086,9 @@ deberia
 dle
 diferencia
 dificil
+desplazamiento
+directamente
+definen
 cumplir
 condiciones
 cartesianas
@@ -1424,6 +1430,9 @@ cambiase
 cambiar
 convertir
 cosa
+corto
+clasifican
+cuestion
 las
 la
 lo
@@ -1653,6 +1662,7 @@ libres
 lineas
 luz
 lleve
+limites
 enunciadas
 en
 espacio
@@ -1932,6 +1942,9 @@ ende
 electromagn
 ecuaciones
 estan
+explica
+estemos
+energ
 adicionalmente
 alguna
 al
@@ -2209,6 +2222,7 @@ anula
 aislada
 azul
 abajo
+areas
 tres
 theta
 tiene
@@ -2493,6 +2507,9 @@ tomar
 ticas
 tambi
 tendra
+trayectoria
+trabajos
+triangulos
 Sea
 Si
 Superficie
@@ -3584,6 +3601,7 @@ primaria
 paredes
 pido
 ponerlos
+propiedades
 br
 borde
 busco
@@ -3833,6 +3851,7 @@ bY
 bNV
 bueno
 burbuja
+bajo
 ricas
 respectivamente
 recorre
@@ -4101,6 +4120,7 @@ rectil
 restricciones
 revisar
 recordar
+rea
 Volumen
 Variable
 Ver
@@ -4330,6 +4350,7 @@ Vpb
 VWg
 Vectorial
 Vectoriales
+Variables
 Cartesianas
 Cil
 Cambios
@@ -4572,6 +4593,7 @@ Conservativas
 Cuerpo
 Conductor
 Cargado
+Constantes
 Esf
 Entonces
 Esto
@@ -4805,6 +4827,7 @@ Energ
 Esta
 Equipotenciales
 Equipotencialidad
+Estas
 Integrales
 Importantes
 Igualo
@@ -5311,6 +5334,7 @@ TPs
 Tener
 Tendriamos
 Todo
+Trabajo
 Dejando
 DEN
 De
@@ -5556,6 +5580,7 @@ Del
 DESCONOCIDAS
 Desde
 Dipolos
+Definici
 obtenemos
 orientaci
 orientable
@@ -6091,6 +6116,8 @@ modifica
 moverse
 mec
 maneja
+muchos
+marcar
 que
 queda
 quede
@@ -6536,6 +6563,7 @@ haremos
 hora
 historia
 haya
+hablando
 image
 iria
 incluya
@@ -6776,6 +6804,8 @@ imposible
 importante
 interfieran
 impuestas
+instantaneo
+infinitesimales
 frontera
 flujo
 forma
@@ -7052,6 +7082,7 @@ final
 fuerzas
 facilitarnos
 frente
+formula
 gira
 green
 gradiente
@@ -7317,6 +7348,7 @@ gravitoria
 gido
 general
 grande
+grados
 Gauss
 Green
 GC
@@ -8520,6 +8552,7 @@ Puesto
 Peso
 Puedo
 Principio
+Pero
 Hipotesis
 HbgIcQAl
 HJM
@@ -9877,6 +9910,7 @@ UOyL
 Up
 UKt
 UG
+Unidad
 width
 wxTE
 wS

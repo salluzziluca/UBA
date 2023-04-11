@@ -1,4 +1,4 @@
-Si ponemos dos chapas cargadas enfrentadas tal que:
+[]()Si ponemos dos chapas cargadas enfrentadas tal que:
 ![[chapas enfrentadas]]
 con cada una de sus superficies generando un campo electrico en ambas direcciones, tendremos dos casos dependiendo de las cargas de las chapas.
 

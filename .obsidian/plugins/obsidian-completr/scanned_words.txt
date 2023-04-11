@@ -536,6 +536,7 @@ secundaria
 superpongan
 servir
 siempre
+sacarle
 vectoriales
 vectorial
 vacio
@@ -1952,6 +1953,8 @@ explica
 estemos
 energ
 enfrentadas
+ejemplo
+electroes
 adicionalmente
 alguna
 al
@@ -3612,6 +3615,8 @@ paredes
 pido
 ponerlos
 propiedades
+pila
+pasarselos
 br
 borde
 busco
@@ -4132,6 +4137,7 @@ revisar
 recordar
 rea
 resto
+reacciones
 Volumen
 Variable
 Ver
@@ -4839,6 +4845,7 @@ Esta
 Equipotenciales
 Equipotencialidad
 Estas
+ESTOOo
 Integrales
 Importantes
 Igualo
@@ -6340,6 +6347,7 @@ qP
 quiera
 querramos
 quitamos
+quimicas
 hasta
 hacia
 hay
@@ -6575,6 +6583,7 @@ hora
 historia
 haya
 hablando
+hace
 image
 iria
 incluya
@@ -10411,6 +10420,7 @@ RXX
 RWt
 RgA
 Recordar
+REVISAR
 Ya
 YUV
 YLO

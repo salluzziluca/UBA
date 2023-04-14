@@ -665,6 +665,7 @@ segundo
 seguiriamo
 sumando
 seguimos
+sufre
 vectoriales
 vectorial
 vacio
@@ -1332,6 +1333,9 @@ dref
 dstsd
 dar
 distinto
+dialectrico
+dial
+desplazar
 cumplir
 condiciones
 cartesianas
@@ -1716,6 +1720,9 @@ cum
 ctica
 comparamos
 comparando
+conduce
+ctico
+capacidad
 las
 la
 lo
@@ -1994,6 +2001,8 @@ lpnO
 llr
 ljp
 ldata
+libre
+ley
 enunciadas
 en
 espacio
@@ -2328,6 +2337,8 @@ eLJ
 esds
 encotraramos
 ejeplo
+efectos
+electron
 adicionalmente
 alguna
 al
@@ -2672,6 +2683,7 @@ aparecer
 alguno
 acumulacion
 apareo
+aislante
 tres
 theta
 tiene
@@ -3296,6 +3308,7 @@ STS
 Saw
 SHM
 SUt
+SIMPLIFICABA
 un
 una
 usando
@@ -3950,6 +3963,7 @@ nYE
 nam
 nunca
 nuevo
+neo
 pertenecen
 pertenece
 pi
@@ -4329,6 +4343,11 @@ pqv
 pzt
 pages
 primera
+partes
+posee
+principio
+proceso
+polarizacion
 br
 borde
 busco
@@ -4620,6 +4639,7 @@ bQEYHu
 baS
 bYS
 bgAZ
+bordes
 ricas
 respectivamente
 recorre
@@ -4937,6 +4957,7 @@ rPf
 rac
 rxq
 rZB
+respeten
 Volumen
 Variable
 Ver
@@ -5827,6 +5848,7 @@ ER
 Egm
 Eenq
 Edge
+ERA
 Integrales
 Importantes
 Igualo
@@ -6437,6 +6459,7 @@ TWtr
 TGz
 TPq
 Tenemos
+TENSOR
 Dejando
 DEN
 De
@@ -6742,6 +6765,7 @@ Dmc
 DNojdz
 DYDM
 DVR
+Dipolar
 obtenemos
 orientaci
 orientable
@@ -7062,6 +7086,8 @@ oWyv
 oqXu
 oNR
 ordenados
+ocurrira
+orientaran
 mide
 mas
 mediante
@@ -7400,6 +7426,8 @@ minf
 meta
 mdir
 more
+mateiral
+moleculas
 que
 queda
 quede
@@ -7957,6 +7985,7 @@ hZO
 hALh
 hdlr
 hstsc
+homog
 image
 iria
 incluya
@@ -8258,6 +8287,7 @@ ifC
 ieg
 iqd
 ilst
+isotropo
 frontera
 flujo
 forma
@@ -8915,6 +8945,7 @@ gin
 gkE
 gNq
 gyaW
+generalizada
 Gauss
 Green
 GC
@@ -10450,6 +10481,8 @@ PJy
 PRB
 PaaQ
 Presentaciones
+Polarizacion
+POR
 Hipotesis
 HbgIcQAl
 HJM
@@ -11564,6 +11597,8 @@ Mnb
 MGmr
 Mzs
 Microsoft
+Momento
+MATEIRAL
 OPTIONS
 OV
 OP
@@ -15680,6 +15715,7 @@ BmY
 BFK
 Bvs
 BBA
+BUSCAR
 äU
 äoS
 XJV

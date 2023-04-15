@@ -279,6 +279,7 @@ Llw
 Lqp
 LHT
 LHK
+Lineales
 subespacios
 subespacio
 se
@@ -666,6 +667,7 @@ seguiriamo
 sumando
 seguimos
 sufre
+sub
 vectoriales
 vectorial
 vacio
@@ -1723,6 +1725,7 @@ comparando
 conduce
 ctico
 capacidad
+cleo
 las
 la
 lo
@@ -3013,6 +3016,7 @@ tkk
 tQy
 tengamos
 terminar
+transformaci
 Sea
 Si
 Superficie
@@ -6461,6 +6465,8 @@ TGz
 TPq
 Tenemos
 TENSOR
+Transformaciones
+Transformaci
 Dejando
 DEN
 De

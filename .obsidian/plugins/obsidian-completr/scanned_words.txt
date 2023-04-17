@@ -280,6 +280,7 @@ Lqp
 LHT
 LHK
 Lineales
+Localizo
 subespacios
 subespacio
 se
@@ -668,6 +669,7 @@ sumando
 seguimos
 sufre
 sub
+serie
 vectoriales
 vectorial
 vacio
@@ -985,6 +987,7 @@ vide
 vmhd
 volver
 vsc
+voltaje
 deben
 de
 diferenciales
@@ -1338,6 +1341,8 @@ distinto
 dialectrico
 dial
 desplazar
+disminuyendo
+diferentes
 cumplir
 condiciones
 cartesianas
@@ -1726,6 +1731,9 @@ conduce
 ctico
 capacidad
 cleo
+circuitos
+capacitores
+circuito
 las
 la
 lo
@@ -3017,6 +3025,7 @@ tQy
 tengamos
 terminar
 transformaci
+tipos
 Sea
 Si
 Superficie
@@ -4352,6 +4361,7 @@ posee
 principio
 proceso
 polarizacion
+paralelo
 br
 borde
 busco
@@ -5566,6 +5576,7 @@ CEF
 Category
 Comparamos
 Condiciones
+Circuitos
 Esf
 Entonces
 Esto
@@ -5854,6 +5865,7 @@ Egm
 Eenq
 Edge
 ERA
+Existen
 Integrales
 Importantes
 Igualo
@@ -6165,6 +6177,7 @@ IQJ
 IhhW
 IXl
 IQM
+Identifico
 Triples
 Teorema
 Teoremas
@@ -7435,6 +7448,7 @@ mdir
 more
 mateiral
 moleculas
+medida
 que
 queda
 quede
@@ -7694,6 +7708,7 @@ qEA
 qSP
 qwcJ
 quedamos
+quizas
 hasta
 hacia
 hay
@@ -7993,6 +8008,7 @@ hALh
 hdlr
 hstsc
 homog
+hizo
 image
 iria
 incluya

@@ -670,6 +670,8 @@ seguimos
 sufre
 sub
 serie
+sino
+saltear
 vectoriales
 vectorial
 vacio
@@ -988,6 +990,7 @@ vmhd
 volver
 vsc
 voltaje
+verdad
 deben
 de
 diferenciales
@@ -1734,6 +1737,8 @@ cleo
 circuitos
 capacitores
 circuito
+condici
+condicion
 las
 la
 lo
@@ -2350,6 +2355,7 @@ encotraramos
 ejeplo
 efectos
 electron
+else
 adicionalmente
 alguna
 al
@@ -4363,6 +4369,7 @@ principio
 proceso
 polarizacion
 paralelo
+programa
 br
 borde
 busco
@@ -5579,6 +5586,7 @@ Comparamos
 Condiciones
 Circuitos
 CeaVhwuC
+Condicionales
 Esf
 Entonces
 Esto
@@ -5868,6 +5876,7 @@ Eenq
 Edge
 ERA
 Existen
+Estructuras
 Integrales
 Importantes
 Igualo
@@ -8313,6 +8322,7 @@ ieg
 iqd
 ilst
 isotropo
+indica
 frontera
 flujo
 forma

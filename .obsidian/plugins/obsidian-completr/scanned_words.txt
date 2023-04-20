@@ -672,6 +672,7 @@ sub
 serie
 sino
 saltear
+siendo
 vectoriales
 vectorial
 vacio

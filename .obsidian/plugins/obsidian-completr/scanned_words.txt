@@ -673,6 +673,8 @@ serie
 sino
 saltear
 siendo
+stica
+sobreyectiva
 vectoriales
 vectorial
 vacio
@@ -1350,6 +1352,9 @@ diferentes
 devuelve
 dinamica
 dem
+distingue
+direcci
+dim
 cumplir
 condiciones
 cartesianas
@@ -1746,6 +1751,11 @@ condicion
 computadora
 comunicaci
 claras
+combinar
+completo
+cualquiera
+calculos
+caracter
 las
 la
 lo
@@ -2027,6 +2037,7 @@ ldata
 libre
 ley
 lineales
+lculos
 enunciadas
 en
 espacio
@@ -3048,6 +3059,7 @@ transformaci
 tipos
 transformaciones
 tama
+trazo
 Sea
 Si
 Superficie
@@ -3344,6 +3356,7 @@ Saw
 SHM
 SUt
 SIMPLIFICABA
+Seg
 un
 una
 usando
@@ -3999,6 +4012,8 @@ nam
 nunca
 nuevo
 neo
+ndole
+nucleo
 pertenecen
 pertenece
 pi
@@ -4386,6 +4401,9 @@ polarizacion
 paralelo
 programa
 posiciones
+paralela
+proyecci
+proyecta
 br
 borde
 busco
@@ -4678,6 +4696,9 @@ baS
 bYS
 bgAZ
 bordes
+bases
+buscando
+biyectiva
 ricas
 respectivamente
 recorre
@@ -4996,6 +5017,8 @@ rac
 rxq
 rZB
 respeten
+rest
+reflexion
 Volumen
 Variable
 Ver
@@ -5605,6 +5628,8 @@ CeaVhwuC
 Condicionales
 Composici
 CPU
+Cambio
+Comentarios
 Esf
 Entonces
 Esto
@@ -5895,6 +5920,7 @@ Edge
 ERA
 Existen
 Estructuras
+Epimorfismo
 Integrales
 Importantes
 Igualo
@@ -6207,6 +6233,9 @@ IhhW
 IXl
 IQM
 Identifico
+Idem
+Isomorfismo
+Inyectiva
 Triples
 Teorema
 Teoremas
@@ -6509,6 +6538,9 @@ Tenemos
 TENSOR
 Transformaciones
 Transformaci
+Tambi
+Tomo
+Tipos
 Dejando
 DEN
 De
@@ -6815,6 +6847,7 @@ DNojdz
 DYDM
 DVR
 Dipolar
+Direcci
 obtenemos
 orientaci
 orientable
@@ -7741,6 +7774,8 @@ qSP
 qwcJ
 quedamos
 quizas
+quiero
+quien
 hasta
 hacia
 hay
@@ -8346,6 +8381,7 @@ isotropo
 indica
 isomorfismo
 inversible
+inyectiva
 frontera
 flujo
 forma
@@ -10232,6 +10268,7 @@ FRC
 Fiz
 Fmk
 FEDEE
+Funciones
 Potencial
 Para
 Punto
@@ -10542,6 +10579,8 @@ PaaQ
 Presentaciones
 Polarizacion
 POR
+Proyecciones
+Proyecta
 Hipotesis
 HbgIcQAl
 HJM
@@ -11662,6 +11701,7 @@ Microsoft
 Momento
 MATEIRAL
 Memoria
+Monomorfismo
 OPTIONS
 OV
 OP
@@ -12866,6 +12906,7 @@ RRV
 RIT
 RzkD
 RAM
+Respecto
 Ya
 YUV
 YLO
@@ -15782,6 +15823,8 @@ BFK
 Bvs
 BBA
 BUSCAR
+Base
+BASE
 äU
 äoS
 XJV

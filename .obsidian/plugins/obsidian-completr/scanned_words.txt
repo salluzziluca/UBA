@@ -1347,6 +1347,9 @@ dial
 desplazar
 disminuyendo
 diferentes
+devuelve
+dinamica
+dem
 cumplir
 condiciones
 cartesianas
@@ -1740,6 +1743,9 @@ capacitores
 circuito
 condici
 condicion
+computadora
+comunicaci
+claras
 las
 la
 lo
@@ -2360,6 +2366,7 @@ electron
 else
 espacios
 epimorfismo
+elllos
 adicionalmente
 alguna
 al
@@ -2707,6 +2714,7 @@ apareo
 aislante
 aLzQ
 aplicada
+almacena
 tres
 theta
 tiene
@@ -3039,6 +3047,7 @@ terminar
 transformaci
 tipos
 transformaciones
+tama
 Sea
 Si
 Superficie
@@ -4376,6 +4385,7 @@ proceso
 polarizacion
 paralelo
 programa
+posiciones
 br
 borde
 busco
@@ -5594,6 +5604,7 @@ Circuitos
 CeaVhwuC
 Condicionales
 Composici
+CPU
 Esf
 Entonces
 Esto
@@ -7126,6 +7137,7 @@ oNR
 ordenados
 ocurrira
 orientaran
+organiza
 mide
 mas
 mediante
@@ -7468,6 +7480,7 @@ mateiral
 moleculas
 medida
 monomorfismo
+memoria
 que
 queda
 quede
@@ -8671,6 +8684,7 @@ fBv
 fZm
 fsYk
 free
+funciona
 gira
 green
 gradiente
@@ -10798,6 +10812,8 @@ HWy
 HwO
 HGR
 Hbum
+Heap
+Hay
 ya
 yRZ
 yD
@@ -11645,6 +11661,7 @@ Mzs
 Microsoft
 Momento
 MATEIRAL
+Memoria
 OPTIONS
 OV
 OP
@@ -11925,6 +11942,7 @@ OmfS
 Onv
 OJw
 OCJ
+Organizacion
 Una
 Un
 UI
@@ -12847,6 +12865,7 @@ RZI
 RRV
 RIT
 RzkD
+RAM
 Ya
 YUV
 YLO

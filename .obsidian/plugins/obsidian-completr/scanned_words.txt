@@ -2020,6 +2020,7 @@ ljp
 ldata
 libre
 ley
+lineales
 enunciadas
 en
 espacio
@@ -2357,6 +2358,8 @@ ejeplo
 efectos
 electron
 else
+espacios
+epimorfismo
 adicionalmente
 alguna
 al
@@ -2703,6 +2706,7 @@ acumulacion
 apareo
 aislante
 aLzQ
+aplicada
 tres
 theta
 tiene
@@ -3034,6 +3038,7 @@ tengamos
 terminar
 transformaci
 tipos
+transformaciones
 Sea
 Si
 Superficie
@@ -5588,6 +5593,7 @@ Condiciones
 Circuitos
 CeaVhwuC
 Condicionales
+Composici
 Esf
 Entonces
 Esto
@@ -7461,6 +7467,7 @@ more
 mateiral
 moleculas
 medida
+monomorfismo
 que
 queda
 quede
@@ -8324,6 +8331,8 @@ iqd
 ilst
 isotropo
 indica
+isomorfismo
+inversible
 frontera
 flujo
 forma

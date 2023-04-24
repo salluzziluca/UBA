@@ -12958,6 +12958,7 @@ RzkD
 RAM
 Respecto
 Realizaci
+Resistencias
 Ya
 YUV
 YLO

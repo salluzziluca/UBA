@@ -1357,6 +1357,7 @@ dem
 distingue
 direcci
 dim
+denomina
 cumplir
 condiciones
 cartesianas
@@ -1766,6 +1767,8 @@ compone
 ciclo
 compuesto
 comunica
+calor
+cilindrico
 las
 la
 lo
@@ -2389,6 +2392,10 @@ espacios
 epimorfismo
 elllos
 extends
+extrae
+entrega
+elementoo
+entregado
 adicionalmente
 alguna
 al
@@ -3076,6 +3083,7 @@ transformaciones
 tama
 trazo
 tienen
+transforma
 Sea
 Si
 Superficie
@@ -4422,6 +4430,8 @@ paralela
 proyecci
 proyecta
 par
+potencia
+perdida
 br
 borde
 busco
@@ -5039,6 +5049,8 @@ respeten
 rest
 reflexion
 recibido
+rapidez
+resistencia
 Volumen
 Variable
 Ver

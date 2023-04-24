@@ -675,6 +675,7 @@ saltear
 siendo
 stica
 sobreyectiva
+sticas
 vectoriales
 vectorial
 vacio
@@ -994,6 +995,7 @@ volver
 vsc
 voltaje
 verdad
+vida
 deben
 de
 diferenciales
@@ -1756,6 +1758,14 @@ completo
 cualquiera
 calculos
 caracter
+clase
+clases
+creado
+conviven
+compone
+ciclo
+compuesto
+comunica
 las
 la
 lo
@@ -2378,6 +2388,7 @@ else
 espacios
 epimorfismo
 elllos
+extends
 adicionalmente
 alguna
 al
@@ -2726,6 +2737,10 @@ aislante
 aLzQ
 aplicada
 almacena
+abstracta
+asociaci
+acopladas
+atributo
 tres
 theta
 tiene
@@ -3060,6 +3075,7 @@ tipos
 transformaciones
 tama
 trazo
+tienen
 Sea
 Si
 Superficie
@@ -3691,6 +3707,7 @@ upR
 uum
 uxn
 udta
+utiliza
 no
 ndricas
 nulo
@@ -4404,6 +4421,7 @@ posiciones
 paralela
 proyecci
 proyecta
+par
 br
 borde
 busco
@@ -4699,6 +4717,7 @@ bordes
 bases
 buscando
 biyectiva
+bil
 ricas
 respectivamente
 recorre
@@ -5019,6 +5038,7 @@ rZB
 respeten
 rest
 reflexion
+recibido
 Volumen
 Variable
 Ver
@@ -6236,6 +6256,8 @@ Identifico
 Idem
 Isomorfismo
 Inyectiva
+Inheritance
+Implementaci
 Triples
 Teorema
 Teoremas
@@ -6541,6 +6563,7 @@ Transformaci
 Tambi
 Tomo
 Tipos
+Tiene
 Dejando
 DEN
 De
@@ -6848,6 +6871,7 @@ DYDM
 DVR
 Dipolar
 Direcci
+Dependencia
 obtenemos
 orientaci
 orientable
@@ -7171,6 +7195,7 @@ ordenados
 ocurrira
 orientaran
 organiza
+objeto
 mide
 mas
 mediante
@@ -7514,6 +7539,9 @@ moleculas
 medida
 monomorfismo
 memoria
+metro
+mandan
+mensajes
 que
 queda
 quede
@@ -8076,6 +8104,9 @@ hdlr
 hstsc
 homog
 hizo
+haber
+hereda
+haberlo
 image
 iria
 incluya
@@ -8382,6 +8413,10 @@ indica
 isomorfismo
 inversible
 inyectiva
+implementa
+interfaz
+independientes
+interaccionan
 frontera
 flujo
 forma
@@ -9980,6 +10015,8 @@ ART
 Archivos
 ACD
 Apareo
+Asociaci
+Agregaci
 Final
 Flujo
 Fuerza
@@ -12306,6 +12343,7 @@ UOQ
 Uym
 UoZ
 UNO
+Usualmente
 width
 wxTE
 wS
@@ -12907,6 +12945,7 @@ RIT
 RzkD
 RAM
 Respecto
+Realizaci
 Ya
 YUV
 YLO

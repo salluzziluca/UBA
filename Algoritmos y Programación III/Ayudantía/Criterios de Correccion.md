@@ -3,14 +3,14 @@
 - [x] Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
 - [x] Las **tareas** pueden marcarse como **completadas**.
 - Los **eventos** pueden ser:
-- [ ] De día completo
+- [x] De día completo
 - [ ] Comenzar en una fecha y hora y tener una duración arbitrarios.
 
 En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 6.  Las **tareas** no tienen duración, pudiendo ser:
 
-- [ ] De día completo
+- [x] De día completo
 - [ ] Tener una fecha y hora de vencimiento.
 
 8.  Los **eventos** se pueden **repetir**:

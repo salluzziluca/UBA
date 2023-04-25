@@ -1338,6 +1338,7 @@ distinto
 dialectrico
 dial
 desplazar
+denomina
 cumplir
 condiciones
 cartesianas
@@ -1726,6 +1727,9 @@ conduce
 ctico
 capacidad
 cleo
+circuito
+calor
+cilindrico
 las
 la
 lo
@@ -2342,6 +2346,10 @@ encotraramos
 ejeplo
 efectos
 electron
+extrae
+entrega
+elementoo
+entregado
 adicionalmente
 alguna
 al
@@ -3017,6 +3025,7 @@ tQy
 tengamos
 terminar
 transformaci
+transforma
 Sea
 Si
 Superficie
@@ -4352,6 +4361,8 @@ posee
 principio
 proceso
 polarizacion
+potencia
+perdida
 br
 borde
 busco
@@ -4962,6 +4973,8 @@ rac
 rxq
 rZB
 respeten
+rapidez
+resistencia
 Volumen
 Variable
 Ver

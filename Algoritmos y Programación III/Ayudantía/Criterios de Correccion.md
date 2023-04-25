@@ -17,16 +17,16 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 8.  Los **eventos** se pueden **repetir**:
 
-1.  Con frecuencia diaria, semanal, mensual o anual.
-2.  En caso de frecuencia diaria, es posible definir un intervalo (ej: “cada 3 días”).
-3.  En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
-4.  La repetición puede ser:
+- [ ] Con frecuencia diaria, semanal, mensual o anual.
+- [ ] En caso de frecuencia diaria, es posible definir un intervalo (ej: “cada 3 días”)
+- [ ]  En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
+- La repetición puede ser:
 
-1.  Infinita.
-2.  Terminar en una fecha determinada (ej: hasta el 13 de enero).
-3.  Terminar luego de una cantidad de repeticiones dada (ej: luego de 20 ocurrencias).
+- [ ] infinita
+- [ ]  Terminar en una fecha determinada (ej: hasta el 13 de enero)
+- [ ] Terminar luego de una cantidad de repeticiones dada (ej: luego de 20 ocurrencias).
 
-6.  Al modificar o eliminar un evento con repetición, el cambio o eliminación se aplica a todas sus repeticiones.
+- [ ] Al modificar o eliminar un evento con repetición, el cambio o eliminación se aplica a todas sus repeticiones.
 
 10.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**:
 

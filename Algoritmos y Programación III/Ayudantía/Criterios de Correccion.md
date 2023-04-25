@@ -20,9 +20,9 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 - [x] En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
 - La repetición puede ser:
 
-- [ ] infinita
-- [ ] Terminar en una fecha determinada (ej: hasta el 13 de enero)
-- [ ] Terminar luego de una cantidad de repeticiones dada (ej: luego de 20 ocurrencias).
+- [x] infinita
+- [x] Terminar en una fecha determinada (ej: hasta el 13 de enero)
+- [x] Terminar luego de una cantidad de repeticiones dada (ej: luego de 20 ocurrencias).
 
 - [ ] Al modificar o eliminar un evento con repetición, el cambio o eliminación se aplica a todas sus repeticiones.
 

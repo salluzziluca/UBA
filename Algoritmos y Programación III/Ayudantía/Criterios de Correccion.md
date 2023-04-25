@@ -39,19 +39,22 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 - [ ]  Reproducir un sonido
 - [ ] Enviar un email.
 
-
+## Pautas 
 
 - [ ]   Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
 - [ ]   Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
 - [ ]   Las pruebas tienen que pasar.
 - [ ]   Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
-- [ ]   Prohibido:
+
+## Otros errores que generan reentrega
 
 - [ ]   Variables globales / Singleton
 - [ ]   Clases o métodos demasiado largos
 - [ ]   Código spaghetti
-- [ ]   Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
+- [ ]   Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
 
-- [ ]   En caso de que la entrega no cumpla alguno de los requisitos mínimos, pedir reentrega.
+## Checklist post correccion
+
+- [ ]   En caso de que la entrega no cumpla alguno de los requisitos mínimos, pedir reentrega enviando mensaje por Slack/Mail/Github
 - [ ]   En caso de pedir reentrega, especificar los requisitos mínimos no cumplidos y dar una fecha límite.
-- [ ]   La corrección no lleva nota, en la planilla marcar Aprobado o Reentrega. (Habrá una nota única al final de las 3 etapas).
+- [ ]   La corrección de esta etapa no lleva nota, en la planilla marcar Aprobado o Reentrega.

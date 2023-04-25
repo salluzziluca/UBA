@@ -42,7 +42,7 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 - [ ]   Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
 - [ ]   Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
-- [ ]   Las pruebas tienen que pasar.
+- [x]   Las pruebas tienen que pasar.
 - [ ]   Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
 
 ## Otros errores que generan reentrega

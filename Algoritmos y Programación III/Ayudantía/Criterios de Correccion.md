@@ -11,7 +11,7 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 6.  Las **tareas** no tienen duración, pudiendo ser:
 
 - [x] De día completo
-- [ ] Tener una fecha y hora de vencimiento.
+- [x] Tener una fecha y hora de vencimiento.
 
 8.  Los **eventos** se pueden **repetir**:
 

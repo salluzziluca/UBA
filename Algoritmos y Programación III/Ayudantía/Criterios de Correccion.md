@@ -15,9 +15,9 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 8.  Los **eventos** se pueden **repetir**:
 
-- [ ] Con frecuencia diaria, semanal, mensual o anual.
+- [x] Con frecuencia diaria, semanal, mensual o anual.
 - [ ] En caso de frecuencia diaria, es posible definir un intervalo (ej: “cada 3 días”)
-- [ ] En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
+- [x] En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
 - La repetición puede ser:
 
 - [ ] infinita

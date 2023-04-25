@@ -34,9 +34,9 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 3.  El efecto producido al dispararse la alarma es configurable:
 
-- [ ] Mostrar una notificación
-- [ ]  Reproducir un sonido
-- [ ] Enviar un email.
+- [x] Mostrar una notificación
+- [x]  Reproducir un sonido
+- [x] Enviar un email.
 
 ## Pautas 
 

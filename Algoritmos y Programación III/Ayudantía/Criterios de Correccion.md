@@ -26,11 +26,10 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 - [ ] Al modificar o eliminar un evento con repetición, el cambio o eliminación se aplica a todas sus repeticiones.
 
-10.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**:
+1.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**
+2. La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
-- [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
-
-- [ ] Una fecha y hora absoluta
+- [x] Una fecha y hora absoluta
 - [ ] Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
 
 3.  El efecto producido al dispararse la alarma es configurable:

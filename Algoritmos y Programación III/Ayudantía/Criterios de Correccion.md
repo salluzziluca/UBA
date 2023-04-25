@@ -30,13 +30,13 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 10.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**:
 
-1.  La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
+- [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
-1.  Una fecha y hora absoluta
-2.  Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
+- [ ] Una fecha y hora absolut
+- [ ]  Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
 
 3.  El efecto producido al dispararse la alarma es configurable:
 
-1.  Mostrar una notificación.
-2.  Reproducir un sonido.
-3.  Enviar un email.
+- [ ] Mostrar una notificación
+- [ ]  Reproducir un sonido
+- [ ] Enviar un email.

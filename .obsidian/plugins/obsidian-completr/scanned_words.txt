@@ -996,6 +996,7 @@ vsc
 voltaje
 verdad
 vida
+varia
 deben
 de
 diferenciales
@@ -1358,6 +1359,7 @@ distingue
 direcci
 dim
 denomina
+define
 cumplir
 condiciones
 cartesianas
@@ -1769,6 +1771,8 @@ compuesto
 comunica
 calor
 cilindrico
+corriente
+conductividad
 las
 la
 lo
@@ -3084,6 +3088,7 @@ tama
 trazo
 tienen
 transforma
+transporte
 Sea
 Si
 Superficie
@@ -4039,6 +4044,7 @@ nuevo
 neo
 ndole
 nucleo
+neto
 pertenecen
 pertenece
 pi
@@ -4432,6 +4438,9 @@ proyecta
 par
 potencia
 perdida
+pasan
+protones
+portadores
 br
 borde
 busco
@@ -5051,6 +5060,7 @@ reflexion
 recibido
 rapidez
 resistencia
+resistividad
 Volumen
 Variable
 Ver
@@ -5662,6 +5672,7 @@ Composici
 CPU
 Cambio
 Comentarios
+Corriente
 Esf
 Entonces
 Esto
@@ -6884,6 +6895,7 @@ DVR
 Dipolar
 Direcci
 Dependencia
+Densidad
 obtenemos
 orientaci
 orientable
@@ -7554,6 +7566,7 @@ memoria
 metro
 mandan
 mensajes
+materiales
 que
 queda
 quede
@@ -11751,6 +11764,7 @@ Momento
 MATEIRAL
 Memoria
 Monomorfismo
+MUCHOI
 OPTIONS
 OV
 OP

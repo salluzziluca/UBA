@@ -4,7 +4,7 @@
 - [x] Las **tareas** pueden marcarse como **completadas**.
 - Los **eventos** pueden ser:
 - [x] De día completo
-- [ ] Comenzar en una fecha y hora y tener una duración arbitrarios.
+- [x] Comenzar en una fecha y hora y tener una duración arbitrarios.
 
 En ambos casos, el evento puede comenzar en un día y terminar en otro.
 

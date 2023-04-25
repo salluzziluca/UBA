@@ -1,8 +1,9 @@
 ## Etapa 1
-[ ] En un **calendario** se pueden crear, modificar y eliminar **************eventos************** y **************tareas**************.
-2.  Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
-3.  Las **tareas** pueden marcarse como **completadas**.
-4.  Los **eventos** pueden ser:
+- [ ] En un **calendario** se pueden crear, modificar y eliminar **************eventos************** y **************tareas**************
+- [ ]  Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
+- [ ] Las **tareas** pueden marcarse como **completadas**.
+- [ ] 
+- [ ] Los **eventos** pueden ser:
 
 1.  De día completo.
 2.  Comenzar en una fecha y hora y tener una duración arbitrarios.

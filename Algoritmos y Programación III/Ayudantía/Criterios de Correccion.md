@@ -1,25 +1,25 @@
 ## Etapa 1
 - [ ] En un **calendario** se pueden crear, modificar y eliminar **************eventos************** y **************tareas**************
-- [ ]  Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
+- [ ] Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
 - [ ] Las **tareas** pueden marcarse como **completadas**.
 - [ ] 
 - [ ] 
 - Los **eventos** pueden ser:
 - [ ] De día completo
-- [ ]  Comenzar en una fecha y hora y tener una duración arbitrarios.
+- [ ] Comenzar en una fecha y hora y tener una duración arbitrarios.
 
 En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 6.  Las **tareas** no tienen duración, pudiendo ser:
 
 - [ ] De día completo
-- [ ]  Tener una fecha y hora de vencimiento.
+- [ ] Tener una fecha y hora de vencimiento.
 
 8.  Los **eventos** se pueden **repetir**:
 
 - [ ] Con frecuencia diaria, semanal, mensual o anual.
 - [ ] En caso de frecuencia diaria, es posible definir un intervalo (ej: “cada 3 días”)
-- [ ]  En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
+- [ ] En caso de frecuencia semanal, es posible definir los días de la semana (ej: “todos los martes y jueves”).
 - La repetición puede ser:
 
 - [ ] infinita

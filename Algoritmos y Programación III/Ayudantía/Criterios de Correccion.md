@@ -26,7 +26,8 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 - [ ] Al modificar o eliminar un evento con repetición, el cambio o eliminación se aplica a todas sus repeticiones.
 
-10.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**:
+1.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**
+2. La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
 - [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
@@ -35,15 +36,15 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 3.  El efecto producido al dispararse la alarma es configurable:
 
-- [ ] Mostrar una notificación
-- [ ]  Reproducir un sonido
-- [ ] Enviar un email.
+- [x] Mostrar una notificación
+- [x]  Reproducir un sonido
+- [x] Enviar un email.
 
 ## Pautas 
 
 - [ ]   Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
-- [ ]   Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
-- [ ]   Las pruebas tienen que pasar.
+- [x]   Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
+- [x]   Las pruebas tienen que pasar.
 - [ ]   Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
 
 ## Otros errores que generan reentrega

@@ -30,7 +30,7 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 - [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
-- [ ] Una fecha y hora absoluta
+- [x] Una fecha y hora absoluta
 - [ ] Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
 
 3.  El efecto producido al dispararse la alarma es configurable:

@@ -29,6 +29,8 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 1.  En un **evento** o **tarea** se pueden configurar una o más **alarmas**
 2. La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
+- [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
+
 - [x] Una fecha y hora absoluta
 - [ ] Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
 

@@ -22,7 +22,7 @@
 
 - [ ] Los **eventos** se pueden **repetir** con frecuencia diaria, semanal, mensual o anual.
 - [x] En caso de frecuencia diaria, es posible definir un intervalo (ej: "cada 3 días")
-- [ ] En caso de frecuencia semanal, es posible definir los días de la semana (ej: "todos los martes y jueves").
+- [x] En caso de frecuencia semanal, es posible definir los días de la semana (ej: "todos los martes y jueves").
 - [ ] La repetición puede ser infinita
 - [ ] La repetición puede terminar en una fecha determinada (ej: hasta el 13 de enero)
 - [ ] La repetición puede terminar luego de una cantidad de repeticiones dada (ej: luego de 20 ocurrencias).

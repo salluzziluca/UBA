@@ -33,10 +33,10 @@
 - [x] En un **evento** o **tarea** se pueden configurar una o más **alarmas**:
 - [x] La alarma se dispara en un instante de tiempo, que se puede determinar segun una fecha y hora absolutas
 - [ ] La alarma se dispara en un instante de tiempo, que se puede determinar segun un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: "30 minutos antes").
-- [ ] El efecto producido al dispararse la alarma es configurable:
-- [ ] Se puede mostrar una notificación
-- [ ] Se puede reproducir un sonido
-- [ ] Se puede enviar un email.
+- [x] El efecto producido al dispararse la alarma es configurable:
+- [x] Se puede mostrar una notificación
+- [x] Se puede reproducir un sonido
+- [x] Se puede enviar un email.
 
 ## Pautas generales
 

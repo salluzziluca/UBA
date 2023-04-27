@@ -4,7 +4,7 @@
 
 - [x] En un **calendario** se pueden crear, modificar y eliminar **eventos** y **tareas**
 - [x] Tanto los **eventos** como **tareas** pueden tener un **título** y una **descripción**.
-- [ ] Las **tareas** pueden marcarse como **completadas**.
+- [x] Las **tareas** pueden marcarse como **completadas**.
 
 ### Evento
 

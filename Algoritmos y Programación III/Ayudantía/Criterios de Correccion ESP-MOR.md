@@ -40,16 +40,16 @@
 
 ## Pautas generales
 
-- [ ] Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
+- [x] Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
 - [ ] Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
 - [ ] Las pruebas tienen que pasar.
-- [ ] Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
+- [x] Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
 
 ## Otros errores que generan reentrega
 
-- [ ] Variables globales / Singleton
-- [ ] Clases o métodos demasiado largos
-- [ ] Código spaghetti
+- [x] Variables globales / Singleton
+- [x] Clases o métodos demasiado largos
+- [x] Código spaghetti
 - [ ] Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
 
 ## Checklist post correccion

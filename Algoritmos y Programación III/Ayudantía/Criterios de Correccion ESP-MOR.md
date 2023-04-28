@@ -9,8 +9,8 @@
 ### Evento
 
 - [ ] Hay **eventos** de día completo
-- [ ] Hay **eventos** que comienzan en una fecha y hora y tener una duración arbitrarios.
-- [ ] En ambos casos, el evento puede comenzar en un día y terminar en otro.
+- [x] Hay **eventos** que comienzan en una fecha y hora y tener una duración arbitrarios.
+- [x] En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 ### Tareas
 

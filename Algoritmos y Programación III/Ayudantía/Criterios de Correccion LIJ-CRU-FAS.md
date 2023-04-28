@@ -41,19 +41,19 @@
 ## Pautas generales
 
 - [x] Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
-- [ ] Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
-- [ ] Las pruebas tienen que pasar.
-- [ ] Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
+- [x] Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
+- [x] Las pruebas tienen que pasar.
+- [x] Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).
 
 ## Otros errores que generan reentrega
 
-- [ ] Variables globales / Singleton
-- [ ] Clases o métodos demasiado largos
-- [ ] Código spaghetti
-- [ ] Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
+- [x] Variables globales / Singleton
+- [x] Clases o métodos demasiado largos
+- [x] Código spaghetti
+- [x] Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
 
 ## Checklist post correccion
 
-- [ ] En caso de que la entrega no cumpla alguno de los requisitos mínimos, pedir reentrega enviando mensaje por Slack/Mail/Github
-- [ ] En caso de pedir reentrega, especificar los requisitos mínimos no cumplidos y dar una fecha límite.
-- [ ] La corrección de esta etapa no lleva nota, en la planilla marcar Aprobado o Reentrega.
+- [x] En caso de que la entrega no cumpla alguno de los requisitos mínimos, pedir reentrega enviando mensaje por Slack/Mail/Github
+- [x] En caso de pedir reentrega, especificar los requisitos mínimos no cumplidos y dar una fecha límite.
+- [x] La corrección de esta etapa no lleva nota, en la planilla marcar Aprobado o Reentrega.

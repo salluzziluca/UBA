@@ -1774,6 +1774,7 @@ cumplidos
 correcci
 corriente
 conductividad
+comienzan
 las
 la
 lo
@@ -2415,6 +2416,7 @@ errores
 enviando
 especificar
 etapa
+enviar
 adicionalmente
 alguna
 al
@@ -2770,6 +2772,7 @@ alarmas
 alarma
 absoluta
 aunque
+absolutas
 tres
 theta
 tiene
@@ -5102,6 +5105,7 @@ relativamente
 reentrega
 requisitos
 resistividad
+reproducir
 Volumen
 Variable
 Ver
@@ -5711,6 +5715,7 @@ Comenzar
 Clases
 Checklist
 Corriente
+Calendario
 Esf
 Entonces
 Esto
@@ -6001,6 +6006,7 @@ Edge
 ERA
 Etapa
 Enviar
+Evento
 Integrales
 Importantes
 Igualo
@@ -6619,6 +6625,7 @@ Transformaci
 This
 Tanto
 Terminar
+Tareas
 Dejando
 DEN
 De
@@ -7603,6 +7610,7 @@ minutos
 mensaje
 mite
 materiales
+mostrar
 que
 queda
 quede
@@ -9132,6 +9140,7 @@ generalizada
 gica
 generan
 globales
+generales
 Gauss
 Green
 GC
@@ -10075,6 +10084,7 @@ ACD
 Apareo
 Additional
 Aprobado
+Alarmas
 Final
 Flujo
 Fuerza
@@ -10946,6 +10956,7 @@ HWy
 HwO
 HGR
 Hbum
+Hay
 ya
 yRZ
 yD
@@ -13004,6 +13015,7 @@ RIT
 RzkD
 Reproducir
 Reentrega
+Repeticiones
 Ya
 YUV
 YLO

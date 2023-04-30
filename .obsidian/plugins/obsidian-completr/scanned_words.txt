@@ -674,6 +674,7 @@ semanal
 semana
 sonido
 spaghetti
+serie
 vectoriales
 vectorial
 vacio
@@ -995,6 +996,7 @@ viewing
 vencimiento
 violen
 varia
+voltaje
 deben
 de
 diferenciales
@@ -1364,6 +1366,7 @@ demasiados
 dise
 demasiado
 define
+despejar
 cumplir
 condiciones
 cartesianas
@@ -1775,6 +1778,7 @@ correcci
 corriente
 conductividad
 comienzan
+circuitos
 las
 la
 lo
@@ -4476,6 +4480,7 @@ planilla
 pasan
 protones
 portadores
+paralelo
 br
 borde
 busco
@@ -4773,6 +4778,7 @@ below
 blocks
 bien
 buen
+buscando
 ricas
 respectivamente
 recorre
@@ -5106,6 +5112,7 @@ reentrega
 requisitos
 resistividad
 reproducir
+resistencias
 Volumen
 Variable
 Ver
@@ -6933,6 +6940,7 @@ DYDM
 DVR
 Dipolar
 Densidad
+Divido
 obtenemos
 orientaci
 orientable
@@ -7611,6 +7619,9 @@ mensaje
 mite
 materiales
 mostrar
+mallas
+mal
+malla
 que
 queda
 quede
@@ -10686,6 +10697,7 @@ Polarizacion
 POR
 Please
 Pautas
+Podria
 Hipotesis
 HbgIcQAl
 HJM
@@ -13016,6 +13028,8 @@ RzkD
 Reproducir
 Reentrega
 Repeticiones
+Resistencias
+Resolucion
 Ya
 YUV
 YLO

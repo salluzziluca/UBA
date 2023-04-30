@@ -7131,6 +7131,7 @@ DMZ
 DBm
 DKB
 Dfe
+Divido
 obtenemos
 orientaci
 orientable
@@ -7830,6 +7831,7 @@ mite
 mode
 main
 mostrar
+mallas
 que
 queda
 quede
@@ -8718,6 +8720,7 @@ izL
 iBE
 itl
 instante
+intento
 frontera
 flujo
 forma
@@ -13349,6 +13352,7 @@ ROB
 Reproducir
 Reentrega
 Repeticiones
+Resolucion
 Ya
 YUV
 YLO

@@ -675,6 +675,7 @@ semana
 sonido
 spaghetti
 serie
+sum
 vectoriales
 vectorial
 vacio
@@ -1367,6 +1368,7 @@ dise
 demasiado
 define
 despejar
+disipada
 cumplir
 condiciones
 cartesianas
@@ -2421,6 +2423,7 @@ enviando
 especificar
 etapa
 enviar
+entregada
 adicionalmente
 alguna
 al
@@ -2777,6 +2780,9 @@ alarma
 absoluta
 aunque
 absolutas
+absorbida
+aquellas
+absorben
 tres
 theta
 tiene
@@ -4078,6 +4084,7 @@ notificaci
 nimos
 nota
 neto
+negativo
 pertenecen
 pertenece
 pi
@@ -4481,6 +4488,7 @@ pasan
 protones
 portadores
 paralelo
+pilas
 br
 borde
 busco
@@ -10698,6 +10706,7 @@ POR
 Please
 Pautas
 Podria
+Potencia
 Hipotesis
 HbgIcQAl
 HJM

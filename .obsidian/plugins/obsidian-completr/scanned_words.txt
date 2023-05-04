@@ -1001,6 +1001,7 @@ varia
 voltaje
 veo
 vDArz
+voltimetro
 deben
 de
 diferenciales
@@ -1373,6 +1374,7 @@ define
 despejar
 disipada
 disipa
+dibujo
 cumplir
 condiciones
 cartesianas
@@ -1786,6 +1788,8 @@ conductividad
 comienzan
 circuitos
 cLPoxZm
+corrientes
+creo
 las
 la
 lo
@@ -4497,6 +4501,7 @@ protones
 portadores
 paralelo
 pilas
+plantean
 br
 borde
 busco
@@ -4795,6 +4800,8 @@ blocks
 bien
 buen
 buscando
+bifurcacion
+bifurca
 ricas
 respectivamente
 recorre
@@ -5129,6 +5136,7 @@ requisitos
 resistividad
 reproducir
 resistencias
+razon
 Volumen
 Variable
 Ver

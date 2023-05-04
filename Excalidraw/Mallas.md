@@ -38,7 +38,7 @@ I5 ^EeAbdDY7
 
 I6 ^Wk6i95bB
 
-I6 ^EG9z9I5g
+I7 ^EG9z9I5g
 
 %%
 # Drawing
@@ -3545,8 +3545,8 @@ I6 ^EG9z9I5g
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 2047729393,
+			"version": 242,
+			"versionNonce": 789201247,
 			"isDeleted": false,
 			"id": "EG9z9I5g",
 			"fillStyle": "hachure",
@@ -3559,23 +3559,23 @@ I6 ^EG9z9I5g
 			"y": 153.38855653477358,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 23.699981689453125,
+			"width": 21.659988403320312,
 			"height": 25,
 			"seed": 1907275007,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1683211346636,
+			"updated": 1683211350731,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "I6",
-			"rawText": "I6",
+			"text": "I7",
+			"rawText": "I7",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "I6",
+			"originalText": "I7",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},

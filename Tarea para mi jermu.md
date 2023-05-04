@@ -1,5 +1,5 @@
 # Ejercicio 1
-![[a]]
+![[Física II/5. Fuerzas Eléctricas y Magnéticas Sobre Cargas en Movimiento/5.1 Campo Magnético]]
 
 ## $$ y = \frac {2x+4}{x-3}$$
 #### Dominio

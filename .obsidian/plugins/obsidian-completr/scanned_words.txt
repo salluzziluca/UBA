@@ -2792,6 +2792,7 @@ absolutas
 absorbida
 aquellas
 absorben
+afectadas
 tres
 theta
 tiene
@@ -4502,6 +4503,8 @@ portadores
 paralelo
 pilas
 plantean
+paralelos
+perpendiculares
 br
 borde
 busco
@@ -5137,6 +5140,7 @@ resistividad
 reproducir
 resistencias
 razon
+recto
 Volumen
 Variable
 Ver
@@ -7647,6 +7651,10 @@ mostrar
 mallas
 mal
 malla
+magn
+movimiento
+magnetico
+maxima
 que
 queda
 quede
@@ -8510,6 +8518,8 @@ ilst
 isotropo
 instante
 independientes
+iman
+imantado
 frontera
 flujo
 forma

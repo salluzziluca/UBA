@@ -1380,6 +1380,7 @@ disipada
 disipa
 dibujo
 definida
+descubrio
 cumplir
 condiciones
 cartesianas
@@ -2806,6 +2807,7 @@ absorbida
 aquellas
 absorben
 afectadas
+afecta
 tres
 theta
 tiene
@@ -8569,6 +8571,7 @@ independientes
 iman
 imantado
 igualdad
+imanes
 frontera
 flujo
 forma

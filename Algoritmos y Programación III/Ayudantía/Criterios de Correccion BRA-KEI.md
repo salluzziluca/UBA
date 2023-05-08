@@ -32,7 +32,7 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 - [ ] La alarma se dispara en un instante de tiempo, que se puede determinar de dos maneras:
 
 - [x] Una fecha y hora absoluta
-- [ ] Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
+- [x] Un intervalo de tiempo relativo a la fecha y hora del evento/tarea (ej: “30 minutos antes”).
 
 3.  El efecto producido al dispararse la alarma es configurable:
 
@@ -42,7 +42,7 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 
 ## Pautas 
 
-- [ ]   Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
+- [x]   Se espera que el código sea razonablemente elegante y legible, y que no violen demasiados principios de diseño.
 - [x]   Se espera que haya pruebas unitarias para la lógica con al menos 50% de cobertura, y tienen que estar relativamente bien planteadas.
 - [x]   Las pruebas tienen que pasar.
 - [ ]   Se espera que hagan un buen uso del paradigma de objetos y de los patrones de diseño (aunque no es obligatorio que usen ningún patrón).

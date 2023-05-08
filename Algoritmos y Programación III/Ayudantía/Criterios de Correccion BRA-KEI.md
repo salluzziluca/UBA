@@ -50,9 +50,9 @@ En ambos casos, el evento puede comenzar en un día y terminar en otro.
 ## Otros errores que generan reentrega
 
 - [x]   Variables globales / Singleton
-- [ ]   Clases o métodos demasiado largos
-- [ ]   Código spaghetti
-- [ ]   Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
+- [x]   Clases o métodos demasiado largos
+- [x]   Código spaghetti
+- [x]   Invocaciones a `LocalDateTime.now()` o `System.out` o cualquier otro método o variable estática
 
 ## Checklist post correccion
 

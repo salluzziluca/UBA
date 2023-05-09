@@ -691,6 +691,9 @@ subscribers
 subcomportamientos
 setea
 subclases
+sino
+sumidero
+solenoidal
 vectoriales
 vectorial
 vacio
@@ -1020,6 +1023,7 @@ var
 variar
 violar
 visitante
+ventaja
 deben
 de
 diferenciales
@@ -1849,6 +1853,7 @@ compartir
 codigo
 creas
 curvatura
+couloumb
 las
 la
 lo
@@ -2139,6 +2144,7 @@ llevar
 lenguaje
 literalmente
 lista
+lorentz
 enunciadas
 en
 espacio

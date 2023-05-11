@@ -1855,6 +1855,8 @@ codigo
 creas
 curvatura
 couloumb
+canonicos
+columna
 las
 la
 lo
@@ -6231,6 +6233,7 @@ Error
 Esa
 Evita
 Encapsula
+Eso
 Integrales
 Importantes
 Igualo
@@ -16260,6 +16263,7 @@ BBA
 BUSCAR
 Bunyakovsky
 Base
+Busco
 äU
 äoS
 XJV

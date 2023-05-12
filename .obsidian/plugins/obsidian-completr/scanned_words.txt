@@ -695,6 +695,8 @@ sino
 sumidero
 solenoidal
 stica
+solucion
+sean
 vectoriales
 vectorial
 vacio
@@ -11288,6 +11290,7 @@ HGR
 Hbum
 Hay
 Herm
+Haciendo
 ya
 yRZ
 yD

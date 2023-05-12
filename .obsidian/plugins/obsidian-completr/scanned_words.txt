@@ -694,6 +694,7 @@ subclases
 sino
 sumidero
 solenoidal
+stica
 vectoriales
 vectorial
 vacio
@@ -1410,6 +1411,8 @@ dicha
 dicho
 diferentes
 delegando
+distingue
+direcci
 cumplir
 condiciones
 cartesianas
@@ -1857,6 +1860,7 @@ curvatura
 couloumb
 canonicos
 columna
+caracter
 las
 la
 lo
@@ -3256,6 +3260,7 @@ torre
 tarde
 ticamente
 toda
+trazo
 Sea
 Si
 Superficie
@@ -3562,6 +3567,7 @@ SOLO
 Schmidt
 State
 Strategy
+Seg
 un
 una
 usando
@@ -4238,6 +4244,7 @@ ngulo
 notifica
 notificados
 notify
+ndole
 pertenecen
 pertenece
 pi
@@ -4662,6 +4669,8 @@ podes
 pasos
 point
 pase
+paralela
+proyecta
 br
 borde
 busco
@@ -5312,6 +5321,8 @@ regex
 refiere
 refieran
 redefinan
+rest
+reflexion
 Volumen
 Variable
 Ver
@@ -5936,6 +5947,7 @@ Cosas
 Chain
 Crea
 Command
+Comentarios
 Esf
 Entonces
 Esto
@@ -6551,6 +6563,7 @@ Interno
 Inequality
 Interpreter
 Iterator
+Idem
 Triples
 Teorema
 Teoremas
@@ -6859,6 +6872,7 @@ Terminar
 Tareas
 Tensi
 Template
+Tomo
 Dejando
 DEN
 De
@@ -7173,6 +7187,7 @@ Distancia
 Describe
 Dado
 Define
+Direcci
 obtenemos
 orientaci
 orientable
@@ -8141,6 +8156,7 @@ qSP
 qwcJ
 quedamos
 quieren
+quien
 hasta
 hacia
 hay
@@ -10999,6 +11015,7 @@ Proporciona
 Promueve
 Permite
 Parecer
+Proyecta
 Hipotesis
 HbgIcQAl
 HJM
@@ -13344,6 +13361,7 @@ Resistencias
 Resolucion
 Responsibilty
 Representa
+Respecto
 Ya
 YUV
 YLO
@@ -16264,6 +16282,7 @@ BUSCAR
 Bunyakovsky
 Base
 Busco
+BASE
 äU
 äoS
 XJV

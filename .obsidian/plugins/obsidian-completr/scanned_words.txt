@@ -697,6 +697,7 @@ solenoidal
 stica
 solucion
 sean
+sobreyectiva
 vectoriales
 vectorial
 vacio
@@ -1415,6 +1416,7 @@ diferentes
 delegando
 distingue
 direcci
+dim
 cumplir
 condiciones
 cartesianas
@@ -1863,6 +1865,9 @@ couloumb
 canonicos
 columna
 caracter
+combinar
+cualquiera
+calculos
 las
 la
 lo
@@ -2154,6 +2159,8 @@ lenguaje
 literalmente
 lista
 lorentz
+lineales
+lculos
 enunciadas
 en
 espacio
@@ -2533,6 +2540,8 @@ estrategias
 esqueleto
 estructura
 ejecute
+espacios
+epimorfismo
 adicionalmente
 alguna
 al
@@ -2916,6 +2925,7 @@ agrupar
 algunos
 allegadas
 alteramos
+aplicada
 tres
 theta
 tiene
@@ -3263,6 +3273,7 @@ tarde
 ticamente
 toda
 trazo
+transformaciones
 Sea
 Si
 Superficie
@@ -4973,6 +4984,8 @@ buen
 buscando
 bifurcacion
 bifurca
+bases
+biyectiva
 ricas
 respectivamente
 recorre
@@ -5950,6 +5963,8 @@ Chain
 Crea
 Command
 Comentarios
+Cambio
+Composici
 Esf
 Entonces
 Esto
@@ -6248,6 +6263,7 @@ Esa
 Evita
 Encapsula
 Eso
+Epimorfismo
 Integrales
 Importantes
 Igualo
@@ -6566,6 +6582,8 @@ Inequality
 Interpreter
 Iterator
 Idem
+Isomorfismo
+Inyectiva
 Triples
 Teorema
 Teoremas
@@ -6875,6 +6893,8 @@ Tareas
 Tensi
 Template
 Tomo
+Tambi
+Tipos
 Dejando
 DEN
 De
@@ -7898,6 +7918,7 @@ modularizarlas
 modularizas
 metodos
 metodo
+monomorfismo
 que
 queda
 quede
@@ -8159,6 +8180,7 @@ qwcJ
 quedamos
 quieren
 quien
+quiero
 hasta
 hacia
 hay
@@ -8780,6 +8802,9 @@ interact
 interacci
 intercambiables
 involucradas
+isomorfismo
+inversible
+inyectiva
 frontera
 flujo
 forma
@@ -10697,6 +10722,7 @@ FEDEE
 For
 Ftotal
 Formula
+Funciones
 Potencial
 Para
 Punto
@@ -12147,6 +12173,7 @@ MCU
 Mediador
 Memento
 Method
+Monomorfismo
 OPTIONS
 OV
 OP

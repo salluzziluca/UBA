@@ -283,6 +283,7 @@ Lineales
 LMSpu
 Linealmente
 Literalmente
+Localizo
 subespacios
 subespacio
 se
@@ -1417,6 +1418,7 @@ delegando
 distingue
 direcci
 dim
+disminuyendo
 cumplir
 condiciones
 cartesianas
@@ -1868,6 +1870,7 @@ caracter
 combinar
 cualquiera
 calculos
+capacitores
 las
 la
 lo
@@ -3274,6 +3277,7 @@ ticamente
 toda
 trazo
 transformaciones
+tipos
 Sea
 Si
 Superficie
@@ -5965,6 +5969,7 @@ Command
 Comentarios
 Cambio
 Composici
+Circuitos
 Esf
 Entonces
 Esto
@@ -6264,6 +6269,7 @@ Evita
 Encapsula
 Eso
 Epimorfismo
+Existen
 Integrales
 Importantes
 Igualo
@@ -6584,6 +6590,8 @@ Iterator
 Idem
 Isomorfismo
 Inyectiva
+Identifico
+Intersecci
 Triples
 Teorema
 Teoremas
@@ -7919,6 +7927,7 @@ modularizas
 metodos
 metodo
 monomorfismo
+medida
 que
 queda
 quede
@@ -8181,6 +8190,7 @@ quedamos
 quieren
 quien
 quiero
+quizas
 hasta
 hacia
 hay
@@ -12783,6 +12793,7 @@ Uym
 UoZ
 UNO
 Uniforme
+Union
 width
 wxTE
 wS

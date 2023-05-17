@@ -1871,6 +1871,7 @@ combinar
 cualquiera
 calculos
 capacitores
+caracteristicas
 las
 la
 lo
@@ -5970,6 +5971,7 @@ Comentarios
 Cambio
 Composici
 Circuitos
+Cuadrados
 Esf
 Entonces
 Esto
@@ -11054,6 +11056,7 @@ Promueve
 Permite
 Parecer
 Proyecta
+Proyecci
 Hipotesis
 HbgIcQAl
 HJM
@@ -12469,6 +12472,7 @@ Ortogonal
 Otras
 Observer
 Ondas
+Ortogonalidad
 Una
 Un
 UI

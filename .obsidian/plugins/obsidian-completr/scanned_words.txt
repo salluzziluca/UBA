@@ -284,6 +284,7 @@ LMSpu
 Linealmente
 Literalmente
 Localizo
+Least
 subespacios
 subespacio
 se
@@ -699,6 +700,9 @@ stica
 solucion
 sean
 sobreyectiva
+strangers
+simples
+separar
 vectoriales
 vectorial
 vacio
@@ -1419,6 +1423,10 @@ distingue
 direcci
 dim
 disminuyendo
+duplicaci
+datos
+documentaci
+delimitados
 cumplir
 condiciones
 cartesianas
@@ -1872,6 +1880,10 @@ cualquiera
 calculos
 capacitores
 caracteristicas
+conocido
+claro
+correctamente
+capas
 las
 la
 lo
@@ -2546,6 +2558,7 @@ estructura
 ejecute
 espacios
 epimorfismo
+expuesta
 adicionalmente
 alguna
 al
@@ -2930,6 +2943,11 @@ algunos
 allegadas
 alteramos
 aplicada
+atributos
+argumentos
+almacendo
+agregues
+agregalas
 tres
 theta
 tiene
@@ -3279,6 +3297,7 @@ toda
 trazo
 transformaciones
 tipos
+talk
 Sea
 Si
 Superficie
@@ -3586,6 +3605,10 @@ Schmidt
 State
 Strategy
 Seg
+Simple
+Stupid
+SoC
+Separation
 un
 una
 usando
@@ -4263,6 +4286,7 @@ notifica
 notificados
 notify
 ndole
+necesarias
 pertenecen
 pertenece
 pi
@@ -4689,6 +4713,13 @@ point
 pase
 paralela
 proyecta
+pieza
+piezas
+pedo
+pasados
+parametro
+publica
+programa
 br
 borde
 busco
@@ -5343,6 +5374,10 @@ refieran
 redefinan
 rest
 reflexion
+recibidos
+retornado
+reduccion
+refactorizar
 Volumen
 Variable
 Ver
@@ -5972,6 +6007,8 @@ Cambio
 Composici
 Circuitos
 Cuadrados
+Commitment
+Concerns
 Esf
 Entonces
 Esto
@@ -6272,6 +6309,9 @@ Encapsula
 Eso
 Epimorfismo
 Existen
+Esper
+EDP
+Explicit
 Integrales
 Importantes
 Igualo
@@ -7220,6 +7260,10 @@ Describe
 Dado
 Define
 Direcci
+Demeter
+Dont
+DRY
+Dependencies
 obtenemos
 orientaci
 orientable
@@ -7558,6 +7602,8 @@ organizador
 otras
 operaci
 opera
+oculta
+optimizar
 mide
 mas
 mediante
@@ -8817,6 +8863,11 @@ involucradas
 isomorfismo
 inversible
 inyectiva
+invocar
+instanciados
+informaci
+interfaz
+intereses
 frontera
 flujo
 forma
@@ -9165,6 +9216,8 @@ fKOeT
 formulas
 familia
 formas
+funcione
+funcionalidad
 gira
 green
 gradiente
@@ -9813,6 +9866,7 @@ Google
 Github
 Generalizaci
 Gram
+Gonna
 jacobiana
 jacobinao
 jue
@@ -10443,6 +10497,7 @@ AMsxnuyz
 Aceleracion
 Aceleraci
 Angular
+Ain
 Final
 Flujo
 Fuerza
@@ -11057,6 +11112,8 @@ Permite
 Parecer
 Proyecta
 Proyecci
+PoLK
+Principle
 Hipotesis
 HbgIcQAl
 HJM
@@ -11879,6 +11936,7 @@ NNEZ
 NFm
 Not
 Nodos
+Need
 MORE
 MYk
 MDD
@@ -12187,6 +12245,7 @@ Mediador
 Memento
 Method
 Monomorfismo
+Mantener
 OPTIONS
 OV
 OP
@@ -12473,6 +12532,7 @@ Otras
 Observer
 Ondas
 Ortogonalidad
+Optimization
 Una
 Un
 UI
@@ -13408,6 +13468,7 @@ Resolucion
 Responsibilty
 Representa
 Respecto
+Repeat
 Ya
 YUV
 YLO
@@ -13688,6 +13749,9 @@ YWl
 YxE
 YHT
 YtJ
+Yourself
+YAGNI
+You
 Wronskiano
 WkpoNL
 WQsX
@@ -15181,6 +15245,10 @@ KCq
 Kns
 Kcn
 KXGMf
+KISS
+Keep
+KOP
+Knuth
 kt
 ku
 kSe

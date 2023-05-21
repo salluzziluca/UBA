@@ -572,6 +572,8 @@ sube
 subo
 salir
 sub
+sumidero
+solenoidal
 vectoriales
 vectorial
 vacio
@@ -850,6 +852,7 @@ vacia
 variable
 varia
 variar
+ventaja
 deben
 de
 diferenciales
@@ -1159,6 +1162,8 @@ desencolar
 destruye
 decimos
 desencolamos
+descubrio
+dipolar
 cumplir
 condiciones
 cartesianas
@@ -2422,6 +2427,7 @@ apunta
 apunte
 auxiliar
 analoga
+afecta
 tres
 theta
 tiene
@@ -6556,6 +6562,9 @@ maxima
 minima
 movemos
 magnetoest
+magnetico
+movimiento
+magn
 que
 queda
 quede
@@ -7281,6 +7290,7 @@ insertar
 izquierdo
 insertan
 inutilizables
+imanes
 frontera
 flujo
 forma

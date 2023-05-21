@@ -6,3 +6,6 @@
 [[6.0 Excepciones y Persistencia Básica]]
 [[7.0 Interfaces Gráficas]]
 [[8.0 Programación Funcional]]
+
+---
+[[ayudantia]]

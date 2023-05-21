@@ -1,4 +1,4 @@
-Sea $V-R$ un espacio vectorial, un Producto Interno (PI) es una funcion del tipo $< \  , \ > : V \times V -> R$ si cumple:
+Ser $V-R$ un espacio vectorial, un Producto Interno (PI) es una funcion del tipo $< \  , \ > : V \times V -> R$ si cumple:
 1) $<u,v> = <v,u>$
 2) $<\alpha u+ \beta v, w> = \alpha <u,w> +  \beta <v,w>$
 3) $<u,v> \geq 0$ y $<u, u> = 0 \iff u = 0_v$ 

@@ -571,6 +571,7 @@ subdividir
 sube
 subo
 salir
+sub
 vectoriales
 vectorial
 vacio
@@ -1547,6 +1548,7 @@ chequea
 cola
 circular
 cambiamos
+cleo
 las
 la
 lo
@@ -2709,6 +2711,7 @@ tx
 tC
 tenerlo
 tope
+transformaci
 Sea
 Si
 Superficie
@@ -5713,6 +5716,7 @@ Tomando
 Tipo
 Tenemos
 TDA
+Transformaci
 Dejando
 DEN
 De

@@ -5,3 +5,4 @@
 [[4.0 Corriente Continua]]
 [[5.0 Fuerzas Eléctricas y Magnéticas Sobre Cargas en Movimiento]]
 [[6.0 Magnetoestática]]
+[[7.0 Materiales Magnéticos]]

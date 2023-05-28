@@ -2062,6 +2062,8 @@ cll
 cqV
 concatenada
 contrario
+considerar
+culpa
 las
 la
 lo
@@ -2807,6 +2809,8 @@ engorrosas
 existen
 estudio
 entender
+espira
+externo
 adicionalmente
 alguna
 al
@@ -3225,6 +3229,8 @@ algebr
 ante
 aumenta
 aproximarlo
+actuando
+alinearlo
 tres
 theta
 tiene
@@ -3619,6 +3625,7 @@ tLCf
 tmS
 traza
 ticos
+tiende
 Sea
 Si
 Superficie
@@ -4715,6 +4722,7 @@ nUU
 nNG
 necesario
 necesitar
+neta
 pertenecen
 pertenece
 pi
@@ -5175,6 +5183,7 @@ primeros
 presencia
 paramagn
 podamos
+pensamos
 br
 borde
 busco
@@ -5893,6 +5902,7 @@ rFWg
 regggYY
 rmula
 reduce
+relacionamos
 Volumen
 Variable
 Ver
@@ -8834,6 +8844,7 @@ mKJB
 multiplicidad
 magnetismo
 materia
+modelo
 que
 queda
 quede
@@ -17657,6 +17668,7 @@ QqC
 Qaf
 QLs
 QwlIv
+Que
 zt
 zN
 zB

@@ -1569,6 +1569,7 @@ dYA
 diagonal
 descomponemos
 doble
+diamagn
 cumplir
 condiciones
 cartesianas
@@ -2382,6 +2383,7 @@ lIs
 lOO
 lUU
 lambda
+ligeramente
 enunciadas
 en
 espacio
@@ -2803,6 +2805,8 @@ ecosistema
 elevando
 engorrosas
 existen
+estudio
+entender
 adicionalmente
 alguna
 al
@@ -3218,6 +3222,9 @@ autoespacio
 autovectores
 asociados
 algebr
+ante
+aumenta
+aproximarlo
 tres
 theta
 tiene
@@ -3611,6 +3618,7 @@ tirr
 tLCf
 tmS
 traza
+ticos
 Sea
 Si
 Superficie
@@ -5163,6 +5171,10 @@ pUAf
 pkjE
 polinomio
 palabras
+primeros
+presencia
+paramagn
+podamos
 br
 borde
 busco
@@ -5880,6 +5892,7 @@ rcc
 rFWg
 regggYY
 rmula
+reduce
 Volumen
 Variable
 Ver
@@ -8057,6 +8070,7 @@ DUU
 DNRg
 DJn
 DyQ
+Diamagn
 obtenemos
 orientaci
 orientable
@@ -8818,6 +8832,8 @@ mpp
 mwe
 mKJB
 multiplicidad
+magnetismo
+materia
 que
 queda
 quede
@@ -9815,6 +9831,7 @@ ifV
 iny
 individuos
 ica
+intentaremos
 frontera
 flujo
 forma
@@ -10190,6 +10207,7 @@ fQYT
 fkc
 fuera
 formada
+ferromagn
 gira
 green
 gradiente
@@ -11619,6 +11637,7 @@ AiQZ
 Avw
 AWu
 Algebraica
+Analizados
 Final
 Flujo
 Fuerza
@@ -11961,6 +11980,7 @@ FLT
 FKKKyy
 FzM
 FvE
+Ferromagn
 Potencial
 Para
 Punto
@@ -12315,6 +12335,7 @@ PDNN
 PDnN
 Pnk
 Proyecciones
+Paramagn
 Hipotesis
 HbgIcQAl
 HJM

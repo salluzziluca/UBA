@@ -783,6 +783,7 @@ swx
 solucionar
 stico
 soluciones
+siento
 vectoriales
 vectorial
 vacio
@@ -2811,6 +2812,7 @@ estudio
 entender
 espira
 externo
+elementales
 adicionalmente
 alguna
 al
@@ -7331,6 +7333,7 @@ IREEEee
 ISS
 Iuj
 Iet
+Intensidad
 Triples
 Teorema
 Teoremas
@@ -8081,6 +8084,7 @@ DNRg
 DJn
 DyQ
 Diamagn
+Definimos
 obtenemos
 orientaci
 orientable
@@ -8845,6 +8849,8 @@ multiplicidad
 magnetismo
 materia
 modelo
+momentos
+magnetizacion
 que
 queda
 quede
@@ -9843,6 +9849,7 @@ iny
 individuos
 ica
 intentaremos
+induccion
 frontera
 flujo
 forma
@@ -11992,6 +11999,7 @@ FKKKyy
 FzM
 FvE
 Ferromagn
+FINALMENTE
 Potencial
 Para
 Punto

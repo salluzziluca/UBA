@@ -574,6 +574,8 @@ salir
 sub
 sumidero
 solenoidal
+sufre
+siendo
 vectoriales
 vectorial
 vacio
@@ -1164,6 +1166,9 @@ decimos
 desencolamos
 descubrio
 dipolar
+dialectrico
+dial
+desplazar
 cumplir
 condiciones
 cartesianas
@@ -1558,6 +1563,11 @@ cambiamos
 cleo
 contexto
 couloumb
+ctrico
+corriente
+conduce
+ctico
+capacidad
 las
 la
 lo
@@ -1806,6 +1816,7 @@ llenar
 llenas
 lugar
 ley
+libre
 enunciadas
 en
 espacio
@@ -2108,6 +2119,8 @@ eficiente
 encolar
 estar
 estemos
+efectos
+electron
 adicionalmente
 alguna
 al
@@ -2428,6 +2441,9 @@ apunte
 auxiliar
 analoga
 afecta
+acorde
+afectadas
+aislante
 tres
 theta
 tiene
@@ -2725,6 +2741,7 @@ tC
 tenerlo
 tope
 transformaci
+tender
 Sea
 Si
 Superficie
@@ -2974,6 +2991,7 @@ SLjf
 SrI
 Sabemos
 Similar
+SIMPLIFICABA
 un
 una
 usando
@@ -3523,6 +3541,7 @@ nima
 negros
 negras
 nulls
+neo
 pertenecen
 pertenece
 pi
@@ -3884,6 +3903,11 @@ podriamos
 persiguiendo
 principio
 permeabilidad
+paralelos
+perpendiculares
+posee
+proceso
+polarizacion
 br
 borde
 busco
@@ -4149,6 +4173,7 @@ bajan
 borramos
 borrar
 balanceado
+bordes
 ricas
 respectivamente
 recorre
@@ -4437,6 +4462,8 @@ redistribuir
 rojos
 referimos
 rebalancea
+recto
+respeten
 Volumen
 Variable
 Ver
@@ -5185,6 +5212,7 @@ Evaluamos
 ERRR
 Eliminaci
 Encolar
+ERA
 Integrales
 Importantes
 Igualo
@@ -5731,6 +5759,7 @@ Tipo
 Tenemos
 TDA
 Transformaci
+TENSOR
 Dejando
 DEN
 De
@@ -5995,6 +6024,7 @@ DSXX
 Destruir
 Desencolar
 Desplazando
+Dipolar
 obtenemos
 orientaci
 orientable
@@ -6271,6 +6301,8 @@ omd
 ordenadas
 overflow
 otras
+ocurrira
+orientaran
 mide
 mas
 mediante
@@ -6565,6 +6597,8 @@ magnetoest
 magnetico
 movimiento
 magn
+mateiral
+moleculas
 que
 queda
 quede
@@ -7031,6 +7065,7 @@ hoja
 hermano
 hijos
 hojas
+homog
 image
 iria
 incluya
@@ -7291,6 +7326,9 @@ izquierdo
 insertan
 inutilizables
 imanes
+iman
+imantado
+isotropo
 frontera
 flujo
 forma
@@ -7851,6 +7889,7 @@ gyF
 gXpH
 gn
 gObbbp
+generalizada
 Gauss
 Green
 GC
@@ -9108,6 +9147,8 @@ Positividad
 PXXHYYYk
 PVR
 Poca
+Polarizacion
+POR
 Hipotesis
 HbgIcQAl
 HJM
@@ -10015,6 +10056,8 @@ MPXT
 MAc
 Mxb
 Mqq
+Momento
+MATEIRAL
 OPTIONS
 OV
 OP
@@ -13409,6 +13452,7 @@ BJyJ
 BIS
 BUKhc
 BTt
+BUSCAR
 äU
 äI
 XJV

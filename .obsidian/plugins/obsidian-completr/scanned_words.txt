@@ -1561,6 +1561,7 @@ contexto
 couloumb
 corriente
 concatenada
+ctrico
 las
 la
 lo
@@ -2434,6 +2435,7 @@ afecta
 aquella
 adentro
 amperiana
+acorde
 tres
 theta
 tiene
@@ -2731,6 +2733,7 @@ tC
 tenerlo
 tope
 transformaci
+tender
 Sea
 Si
 Superficie
@@ -10021,6 +10024,7 @@ MPXT
 MAc
 Mxb
 Mqq
+Momento
 OPTIONS
 OV
 OP

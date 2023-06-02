@@ -580,6 +580,7 @@ superposicion
 sino
 serie
 sum
+siendo
 vectoriales
 vectorial
 vacio
@@ -1179,6 +1180,9 @@ dibujo
 despejar
 disipada
 disipa
+dialectrico
+dial
+desplazar
 cumplir
 condiciones
 cartesianas
@@ -1586,6 +1590,9 @@ corrientes
 creo
 circuito
 completo
+conduce
+ctico
+capacidad
 las
 la
 lo
@@ -1836,6 +1843,7 @@ lugar
 ley
 ligeramente
 lorentz
+libre
 enunciadas
 en
 espacio
@@ -2146,6 +2154,7 @@ externo
 elementales
 efecto
 entregada
+efectos
 adicionalmente
 alguna
 al
@@ -2481,6 +2490,7 @@ afectadas
 absorbida
 aquellas
 absorben
+aislante
 tres
 theta
 tiene
@@ -3032,6 +3042,7 @@ SrI
 Sabemos
 Similar
 Solo
+SIMPLIFICABA
 un
 una
 usando
@@ -3585,6 +3596,7 @@ nulls
 neta
 necesito
 negativo
+neo
 pertenecen
 pertenece
 pi
@@ -3958,6 +3970,10 @@ paralelo
 plantean
 pilas
 potencia
+posee
+proceso
+polarizacion
+polarizaci
 br
 borde
 busco
@@ -4226,6 +4242,7 @@ balanceado
 bifurcacion
 bifurca
 buscando
+bordes
 ricas
 respectivamente
 recorre
@@ -4520,6 +4537,7 @@ recto
 razon
 resistencia
 resistencias
+respeten
 Volumen
 Variable
 Ver
@@ -5269,6 +5287,7 @@ Evaluamos
 ERRR
 Eliminaci
 Encolar
+ERA
 Integrales
 Importantes
 Igualo
@@ -5817,6 +5836,7 @@ Tenemos
 TDA
 Transformaci
 Tensi
+TENSOR
 Dejando
 DEN
 De
@@ -6084,6 +6104,8 @@ Desplazando
 Diamagn
 Definimos
 Divido
+Dipolar
+Densidad
 obtenemos
 orientaci
 orientable
@@ -6361,6 +6383,8 @@ ordenadas
 overflow
 otras
 obtiene
+ocurrira
+orientaran
 mide
 mas
 mediante
@@ -6664,6 +6688,8 @@ magnetizacion
 mallas
 mal
 malla
+mateiral
+moleculas
 que
 queda
 quede
@@ -7132,6 +7158,7 @@ hijos
 hojas
 hablando
 har
+homog
 image
 iria
 incluya
@@ -7398,6 +7425,7 @@ induccion
 iman
 imantado
 independientes
+isotropo
 frontera
 flujo
 forma
@@ -7959,6 +7987,7 @@ gyF
 gXpH
 gn
 gObbbp
+generalizada
 Gauss
 Green
 GC
@@ -9223,6 +9252,8 @@ Poca
 Paramagn
 Podria
 Potencia
+Polarizacion
+POR
 Hipotesis
 HbgIcQAl
 HJM
@@ -10132,6 +10163,7 @@ MAc
 Mxb
 Mqq
 Momento
+MATEIRAL
 OPTIONS
 OV
 OP
@@ -13528,6 +13560,7 @@ BJyJ
 BIS
 BUKhc
 BTt
+BUSCAR
 äU
 äI
 XJV

@@ -578,6 +578,8 @@ siento
 sufre
 superposicion
 sino
+serie
+sum
 vectoriales
 vectorial
 vacio
@@ -858,6 +860,9 @@ varia
 variar
 ventaja
 volumetrica
+voltimetro
+veo
+voltaje
 deben
 de
 diferenciales
@@ -1170,6 +1175,10 @@ desencolamos
 descubrio
 dipolar
 diamagn
+dibujo
+despejar
+disipada
+disipa
 cumplir
 condiciones
 cartesianas
@@ -1571,6 +1580,12 @@ comportamiento
 casos
 considerar
 culpa
+curvatura
+circuitos
+corrientes
+creo
+circuito
+completo
 las
 la
 lo
@@ -2130,6 +2145,7 @@ espira
 externo
 elementales
 efecto
+entregada
 adicionalmente
 alguna
 al
@@ -2461,6 +2477,10 @@ angular
 actuando
 alinearlo
 aclaran
+afectadas
+absorbida
+aquellas
+absorben
 tres
 theta
 tiene
@@ -3011,6 +3031,7 @@ SLjf
 SrI
 Sabemos
 Similar
+Solo
 un
 una
 usando
@@ -3562,6 +3583,8 @@ negros
 negras
 nulls
 neta
+necesito
+negativo
 pertenecen
 pertenece
 pi
@@ -3929,6 +3952,12 @@ paramagn
 podamos
 pensamos
 ppio
+paralelos
+perpendiculares
+paralelo
+plantean
+pilas
+potencia
 br
 borde
 busco
@@ -4194,6 +4223,9 @@ bajan
 borramos
 borrar
 balanceado
+bifurcacion
+bifurca
+buscando
 ricas
 respectivamente
 recorre
@@ -4485,6 +4517,9 @@ rebalancea
 reduce
 relacionamos
 recto
+razon
+resistencia
+resistencias
 Volumen
 Variable
 Ver
@@ -5781,6 +5816,7 @@ Tipo
 Tenemos
 TDA
 Transformaci
+Tensi
 Dejando
 DEN
 De
@@ -6047,6 +6083,7 @@ Desencolar
 Desplazando
 Diamagn
 Definimos
+Divido
 obtenemos
 orientaci
 orientable
@@ -6624,6 +6661,9 @@ materia
 modelo
 momentos
 magnetizacion
+mallas
+mal
+malla
 que
 queda
 quede
@@ -7091,6 +7131,7 @@ hermano
 hijos
 hojas
 hablando
+har
 image
 iria
 incluya
@@ -7354,6 +7395,9 @@ imanes
 intentaremos
 interact
 induccion
+iman
+imantado
+independientes
 frontera
 flujo
 forma
@@ -9177,6 +9221,8 @@ PXXHYYYk
 PVR
 Poca
 Paramagn
+Podria
+Potencia
 Hipotesis
 HbgIcQAl
 HJM
@@ -9840,6 +9886,7 @@ NDV
 Nse
 Negatividad
 Negro
+Nodos
 MORE
 MYk
 MDD
@@ -11098,6 +11145,8 @@ RJl
 RiZ
 Rojo
 Reglas
+Resistencias
+Resolucion
 Ya
 YUV
 YLO

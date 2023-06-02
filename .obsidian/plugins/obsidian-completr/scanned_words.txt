@@ -574,6 +574,10 @@ salir
 sub
 sumidero
 solenoidal
+siento
+sufre
+superposicion
+sino
 vectoriales
 vectorial
 vacio
@@ -1165,6 +1169,7 @@ decimos
 desencolamos
 descubrio
 dipolar
+diamagn
 cumplir
 condiciones
 cartesianas
@@ -1562,6 +1567,10 @@ couloumb
 corriente
 concatenada
 ctrico
+comportamiento
+casos
+considerar
+culpa
 las
 la
 lo
@@ -1810,6 +1819,8 @@ llenar
 llenas
 lugar
 ley
+ligeramente
+lorentz
 enunciadas
 en
 espacio
@@ -2112,6 +2123,13 @@ eficiente
 encolar
 estar
 estemos
+estudio
+entender
+electron
+espira
+externo
+elementales
+efecto
 adicionalmente
 alguna
 al
@@ -2436,6 +2454,13 @@ aquella
 adentro
 amperiana
 acorde
+ante
+aumenta
+aproximarlo
+angular
+actuando
+alinearlo
+aclaran
 tres
 theta
 tiene
@@ -2734,6 +2759,9 @@ tenerlo
 tope
 transformaci
 tender
+tipos
+ticos
+tiende
 Sea
 Si
 Superficie
@@ -3266,6 +3294,7 @@ uSu
 uKh
 underflow
 usaremos
+uniforme
 no
 ndricas
 nulo
@@ -3532,6 +3561,7 @@ nima
 negros
 negras
 nulls
+neta
 pertenecen
 pertenece
 pi
@@ -3893,6 +3923,12 @@ podriamos
 persiguiendo
 principio
 permeabilidad
+primeros
+presencia
+paramagn
+podamos
+pensamos
+ppio
 br
 borde
 busco
@@ -4446,6 +4482,9 @@ redistribuir
 rojos
 referimos
 rebalancea
+reduce
+relacionamos
+recto
 Volumen
 Variable
 Ver
@@ -4946,6 +4985,7 @@ Claves
 Crear
 Cantidad
 Cola
+Cosas
 Esf
 Entonces
 Esto
@@ -5477,6 +5517,7 @@ Inv
 Insercion
 Inserci
 Implementaciones
+Intensidad
 Triples
 Teorema
 Teoremas
@@ -6004,6 +6045,8 @@ DSXX
 Destruir
 Desencolar
 Desplazando
+Diamagn
+Definimos
 obtenemos
 orientaci
 orientable
@@ -6280,6 +6323,7 @@ omd
 ordenadas
 overflow
 otras
+obtiene
 mide
 mas
 mediante
@@ -6574,6 +6618,12 @@ magnetoest
 magnetico
 movimiento
 magn
+magnetismo
+materiales
+materia
+modelo
+momentos
+magnetizacion
 que
 queda
 quede
@@ -7040,6 +7090,7 @@ hoja
 hermano
 hijos
 hojas
+hablando
 image
 iria
 incluya
@@ -7300,6 +7351,9 @@ izquierdo
 insertan
 inutilizables
 imanes
+intentaremos
+interact
+induccion
 frontera
 flujo
 forma
@@ -7586,6 +7640,7 @@ fyl
 fvk
 fWP
 fija
+ferromagn
 gira
 green
 gradiente
@@ -8619,6 +8674,7 @@ Asintota
 Arbol
 Acceso
 Altura
+Analizados
 Final
 Flujo
 Fuerza
@@ -8849,6 +8905,9 @@ FN
 FYE
 FIFO
 First
+Ferromagn
+FINALMENTE
+Ftotal
 Potencial
 Para
 Punto
@@ -9117,6 +9176,7 @@ Positividad
 PXXHYYYk
 PVR
 Poca
+Paramagn
 Hipotesis
 HbgIcQAl
 HJM

@@ -866,6 +866,7 @@ volumetrica
 voltimetro
 veo
 voltaje
+viceversa
 deben
 de
 diferenciales
@@ -1188,6 +1189,7 @@ desplazar
 direcciones
 dependiendo
 disminuyendo
+dar
 cumplir
 condiciones
 cartesianas
@@ -1601,6 +1603,8 @@ capacidad
 chapas
 cargadas
 capacitores
+can
+canonicos
 las
 la
 lo
@@ -2165,6 +2169,7 @@ entregada
 efectos
 enfrentadas
 electroes
+encontrar
 adicionalmente
 alguna
 al
@@ -3055,6 +3060,8 @@ Sabemos
 Similar
 Solo
 SIMPLIFICABA
+SOLO
+Schmidt
 un
 una
 usando
@@ -3987,6 +3994,8 @@ proceso
 polarizacion
 polarizaci
 pasarselos
+proyecci
+proyeccion
 br
 borde
 busco
@@ -4553,6 +4562,7 @@ resistencias
 respeten
 resto
 reacciones
+reescribe
 Volumen
 Variable
 Ver
@@ -5055,6 +5065,7 @@ Cantidad
 Cola
 Cosas
 Circuitos
+CUANDO
 Esf
 Entonces
 Esto
@@ -5305,6 +5316,8 @@ Eliminaci
 Encolar
 ERA
 Existen
+Eso
+Esa
 Integrales
 Importantes
 Igualo
@@ -6124,6 +6137,7 @@ Definimos
 Divido
 Dipolar
 Densidad
+Distancia
 obtenemos
 orientaci
 orientable
@@ -6403,6 +6417,8 @@ otras
 obtiene
 ocurrira
 orientaran
+ortogonal
+ortogonales
 mide
 mas
 mediante
@@ -7447,6 +7463,7 @@ iman
 imantado
 independientes
 isotropo
+igualdad
 frontera
 flujo
 forma
@@ -8273,6 +8290,7 @@ Gjh
 GTV
 GYI
 Guardamos
+Gram
 jacobiana
 jacobinao
 jue
@@ -9003,6 +9021,7 @@ First
 Ferromagn
 FINALMENTE
 Ftotal
+Formula
 Potencial
 Para
 Punto
@@ -9276,6 +9295,7 @@ Podria
 Potencia
 Polarizacion
 POR
+PIC
 Hipotesis
 HbgIcQAl
 HJM
@@ -13583,6 +13603,8 @@ BIS
 BUKhc
 BTt
 BUSCAR
+Busco
+Base
 äU
 äI
 XJV

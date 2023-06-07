@@ -583,6 +583,8 @@ serie
 sum
 siendo
 sacarle
+singular
+singulares
 vectoriales
 vectorial
 vacio
@@ -1190,6 +1192,9 @@ direcciones
 dependiendo
 disminuyendo
 dar
+diagonalizada
+descripciones
+distintas
 cumplir
 condiciones
 cartesianas
@@ -1605,6 +1610,8 @@ cargadas
 capacitores
 can
 canonicos
+cuadratica
+construir
 las
 la
 lo
@@ -2170,6 +2177,9 @@ efectos
 enfrentadas
 electroes
 encontrar
+existen
+encontrado
+espacios
 adicionalmente
 alguna
 al
@@ -2507,6 +2517,9 @@ aquellas
 absorben
 aislante
 aislado
+autovalor
+autovectores
+asociados
 tres
 theta
 tiene
@@ -3996,6 +4009,8 @@ polarizaci
 pasarselos
 proyecci
 proyeccion
+pedir
+pensarse
 br
 borde
 busco
@@ -4265,6 +4280,8 @@ bifurcacion
 bifurca
 buscando
 bordes
+bases
+bar
 ricas
 respectivamente
 recorre
@@ -4563,6 +4580,7 @@ respeten
 resto
 reacciones
 reescribe
+regulares
 Volumen
 Variable
 Ver
@@ -5066,6 +5084,7 @@ Cola
 Cosas
 Circuitos
 CUANDO
+Cambio
 Esf
 Entonces
 Esto
@@ -5318,6 +5337,8 @@ ERA
 Existen
 Eso
 Esa
+Escribimos
+EBF
 Integrales
 Importantes
 Igualo
@@ -6138,6 +6159,7 @@ Divido
 Dipolar
 Densidad
 Distancia
+Dos
 obtenemos
 orientaci
 orientable
@@ -6419,6 +6441,10 @@ ocurrira
 orientaran
 ortogonal
 ortogonales
+ortogonalmente
+ordenar
+ortonormal
+ortonormales
 mide
 mas
 mediante
@@ -6724,6 +6750,7 @@ mal
 malla
 mateiral
 moleculas
+matrices
 que
 queda
 quede
@@ -7751,6 +7778,8 @@ fvk
 fWP
 fija
 ferromagn
+formada
+fundamentales
 gira
 green
 gradiente
@@ -8788,6 +8817,7 @@ Arbol
 Acceso
 Altura
 Analizados
+Algo
 Final
 Flujo
 Fuerza
@@ -9510,6 +9540,7 @@ HmE
 HBf
 HQA
 HNN
+Hemos
 ya
 yRZ
 yD
@@ -13606,6 +13637,7 @@ BTt
 BUSCAR
 Busco
 Base
+BON
 äU
 äI
 XJV

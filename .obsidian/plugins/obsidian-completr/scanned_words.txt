@@ -9296,6 +9296,7 @@ Potencia
 Polarizacion
 POR
 PIC
+Precision
 Hipotesis
 HbgIcQAl
 HJM

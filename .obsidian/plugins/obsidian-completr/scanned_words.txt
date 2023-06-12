@@ -585,6 +585,7 @@ siendo
 sacarle
 singular
 singulares
+sigma
 vectoriales
 vectorial
 vacio
@@ -1195,6 +1196,7 @@ dar
 diagonalizada
 descripciones
 distintas
+dicen
 cumplir
 condiciones
 cartesianas
@@ -1612,6 +1614,7 @@ can
 canonicos
 cuadratica
 construir
+cuanto
 las
 la
 lo
@@ -1863,6 +1866,7 @@ ley
 ligeramente
 lorentz
 libre
+lambda
 enunciadas
 en
 espacio
@@ -3359,6 +3363,8 @@ uKh
 underflow
 usaremos
 uniforme
+utiliza
+unitarias
 no
 ndricas
 nulo
@@ -4581,6 +4587,7 @@ resto
 reacciones
 reescribe
 regulares
+relacionar
 Volumen
 Variable
 Ver
@@ -5085,6 +5092,8 @@ Cosas
 Circuitos
 CUANDO
 Cambio
+Considerando
+Col
 Esf
 Entonces
 Esto
@@ -6160,6 +6169,7 @@ Dipolar
 Densidad
 Distancia
 Dos
+DVS
 obtenemos
 orientaci
 orientable
@@ -6751,6 +6761,7 @@ malla
 mateiral
 moleculas
 matrices
+multiplicarlos
 que
 queda
 quede
@@ -7780,6 +7791,7 @@ fija
 ferromagn
 formada
 fundamentales
+frac
 gira
 green
 gradiente
@@ -8056,6 +8068,7 @@ gn
 gObbbp
 generalizada
 generando
+geq
 Gauss
 Green
 GC
@@ -9052,6 +9065,7 @@ Ferromagn
 FINALMENTE
 Ftotal
 Formula
+Fil
 Potencial
 Para
 Punto
@@ -13638,6 +13652,7 @@ BUSCAR
 Busco
 Base
 BON
+BOG
 äU
 äI
 XJV

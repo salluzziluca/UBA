@@ -9,14 +9,14 @@ Requisitos mínimos para aprobar:
 
 - [ ] Crear un evento con repetición cada 2 días
 - [ ] Crear una tarea de día completo
-- Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
-- Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual".
-- Crear una alarma. Verificar que se dispara. 
+- [ ] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
+- [ ] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
+- [ ] Crear una alarma. Verificar que se dispara. 
 
 - Con respecto al código:
 
-- Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
-- Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
+- [ ] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
+- [ ] Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
 ## Etapa 1
 
 ### Calendario

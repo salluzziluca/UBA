@@ -2,6 +2,7 @@
 
 
 - las tareas no se pueden completar o des-completar. 
+- No pude crear eventos con repeticion porque no se que parametro hay que ingresar en esa box
 
 ## Etapa 1
 

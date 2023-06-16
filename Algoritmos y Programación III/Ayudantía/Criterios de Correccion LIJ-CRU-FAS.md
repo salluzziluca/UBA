@@ -1,3 +1,8 @@
+## Etapa 2
+
+
+- las tareas no se pueden completar o des-completar. 
+
 ## Etapa 1
 
 ### Calendario

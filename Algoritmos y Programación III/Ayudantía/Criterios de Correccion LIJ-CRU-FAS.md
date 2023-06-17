@@ -5,7 +5,7 @@
 - ![[Pasted image 20230617102911.png]]![[Pasted image 20230617102929.png]]
 - A la hora de crear una tarea de dia completo me exije poner hora y minuto, no creo que sea necesario
  ![[Pasted image 20230617103130.png]]
-- No me deja agregar alarmas porque me pone que tengo un error de parametro, pero si m
+- No me deja agregar alarmas porque me pone que tengo un error de parametro, pero si me permite crear el evento/tarea
 Requisitos mínimos para aprobar:  
 
 - Ejecutar el programa y probarlo. Al menos probar lo siguiente:

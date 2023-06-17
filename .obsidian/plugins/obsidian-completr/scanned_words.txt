@@ -590,6 +590,7 @@ semanal
 semana
 sonido
 spaghetti
+separadas
 vectoriales
 vectorial
 vacio
@@ -877,6 +878,8 @@ viceversa
 volumetricas
 vencimiento
 violen
+vista
+violaciones
 deben
 de
 diferenciales
@@ -1218,6 +1221,7 @@ digo
 demasiados
 dise
 demasiado
+directorio
 cumplir
 condiciones
 cartesianas
@@ -1648,6 +1652,9 @@ correccion
 cumpla
 cumplidos
 correcci
+correctamente
+capas
+capa
 las
 la
 lo
@@ -2582,6 +2589,7 @@ alarma
 absolutas
 aunque
 alguno
+aprobar
 tres
 theta
 tiene
@@ -4095,6 +4103,12 @@ paradigma
 patrones
 patr
 planilla
+pude
+parametro
+probarlo
+probar
+principal
+persistieron
 br
 borde
 busco
@@ -4368,6 +4382,7 @@ bases
 bar
 bien
 buen
+box
 ricas
 respectivamente
 recorre
@@ -4678,6 +4693,7 @@ razonablemente
 relativamente
 reentrega
 requisitos
+repeticion
 Volumen
 Variable
 Ver
@@ -4918,6 +4934,7 @@ Vertical
 VJKK
 Vac
 Variables
+Verificar
 Cartesianas
 Cil
 Cambios
@@ -5188,6 +5205,7 @@ Col
 Calendario
 Clases
 Checklist
+Cerrar
 Esf
 Entonces
 Esto
@@ -5444,6 +5462,7 @@ Escribimos
 EBF
 Etapa
 Evento
+Ejecutar
 Integrales
 Importantes
 Igualo
@@ -6873,6 +6892,7 @@ mostrar
 mensaje
 mite
 marcar
+muestra
 que
 queda
 quede
@@ -7346,6 +7366,7 @@ har
 homog
 hizo
 hagan
+haber
 image
 iria
 incluya
@@ -7616,6 +7637,7 @@ isotropo
 igualdad
 identidad
 instante
+ingresar
 frontera
 flujo
 forma
@@ -8189,6 +8211,7 @@ generales
 gica
 generan
 globales
+graves
 Gauss
 Green
 GC
@@ -8454,6 +8477,7 @@ GYI
 Guardamos
 Gram
 Github
+GUI
 jacobiana
 jacobinao
 jue
@@ -10379,6 +10403,7 @@ Mqq
 Momento
 MATEIRAL
 Mail
+Mostrar
 OPTIONS
 OV
 OP
@@ -11397,6 +11422,7 @@ Resistencias
 Resolucion
 Repeticiones
 Reentrega
+Requisitos
 Ya
 YUV
 YLO

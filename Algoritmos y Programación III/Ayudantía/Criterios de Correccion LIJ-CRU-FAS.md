@@ -18,8 +18,8 @@ Requisitos mínimos para aprobar:
 
 - Con respecto al código:
 
-- [ ] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
-- [ ] Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
+- [x] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
+- [x] Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
 ## Etapa 1
 
 ### Calendario

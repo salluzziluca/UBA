@@ -12,7 +12,7 @@ Requisitos mínimos para aprobar:
 
 - [ ] Crear un evento con repetición cada 2 días
 - [ ] Crear una tarea de día completo
-- [ ] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
+- [x] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
 - [x] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
 - [ ] Crear una alarma. Verificar que se dispara. 
 

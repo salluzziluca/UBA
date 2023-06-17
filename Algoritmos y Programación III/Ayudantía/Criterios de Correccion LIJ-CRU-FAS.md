@@ -2,6 +2,7 @@
 
 
 - No pude crear eventos con repeticion porque no se que parametro hay que ingresar en esa box
+- ![[Pasted image 20230617102911.png]]
 Requisitos mínimos para aprobar:  
 
 - Ejecutar el programa y probarlo. Al menos probar lo siguiente:

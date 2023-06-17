@@ -3,7 +3,8 @@
 
 - No pude crear eventos con repeticion porque no se que parametro hay que ingresar en esa box
 - ![[Pasted image 20230617102911.png]]![[Pasted image 20230617102929.png]]
-- A la hora de crear una tarea de dia co
+- A la hora de crear una tarea de dia completo me exije poner hora y minuto, no creo que sea necesario
+ ![[Pasted image 20230617103130.png]]
 Requisitos mínimos para aprobar:  
 
 - Ejecutar el programa y probarlo. Al menos probar lo siguiente:
@@ -11,7 +12,7 @@ Requisitos mínimos para aprobar:
 - [ ] Crear un evento con repetición cada 2 días
 - [ ] Crear una tarea de día completo
 - [ ] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
-- [ ] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
+- [x] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
 - [ ] Crear una alarma. Verificar que se dispara. 
 
 - Con respecto al código:

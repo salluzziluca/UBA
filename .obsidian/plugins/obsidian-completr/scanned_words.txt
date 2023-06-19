@@ -1222,6 +1222,8 @@ demasiados
 dise
 demasiado
 directorio
+dia
+deja
 cumplir
 condiciones
 cartesianas
@@ -2241,6 +2243,8 @@ entrega
 enviando
 especificar
 etapa
+exije
+error
 adicionalmente
 alguna
 al
@@ -2590,6 +2594,7 @@ absolutas
 aunque
 alguno
 aprobar
+agregar
 tres
 theta
 tiene
@@ -3711,6 +3716,7 @@ neo
 notificaci
 nimos
 nota
+necesario
 pertenecen
 pertenece
 pi
@@ -6893,6 +6899,7 @@ mensaje
 mite
 marcar
 muestra
+minuto
 que
 queda
 quede

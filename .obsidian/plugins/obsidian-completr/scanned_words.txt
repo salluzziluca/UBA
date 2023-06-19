@@ -880,6 +880,7 @@ vencimiento
 violen
 vista
 violaciones
+visible
 deben
 de
 diferenciales
@@ -1657,6 +1658,8 @@ correcci
 correctamente
 capas
 capa
+conlleva
+colaterales
 las
 la
 lo
@@ -2245,6 +2248,7 @@ especificar
 etapa
 exije
 error
+entorno
 adicionalmente
 alguna
 al
@@ -2595,6 +2599,8 @@ aunque
 alguno
 aprobar
 agregar
+argumentos
+ambiente
 tres
 theta
 tiene
@@ -2901,6 +2907,7 @@ tareas
 tulo
 terminar
 tarea
+transparencia
 Sea
 Si
 Superficie
@@ -4115,6 +4122,7 @@ probarlo
 probar
 principal
 persistieron
+pura
 br
 borde
 busco
@@ -4700,6 +4708,10 @@ relativamente
 reentrega
 requisitos
 repeticion
+retorna
+referencial
+reemplazar
+retorno
 Volumen
 Variable
 Ver
@@ -5755,6 +5767,7 @@ Implementaciones
 Intensidad
 Identifico
 Invocaciones
+IMPURA
 Triples
 Teorema
 Teoremas
@@ -6294,6 +6307,7 @@ Densidad
 Distancia
 Dos
 DVS
+Determinismo
 obtenemos
 orientaci
 orientable
@@ -7645,6 +7659,7 @@ igualdad
 identidad
 instante
 ingresar
+invoca
 frontera
 flujo
 forma
@@ -8986,6 +9001,8 @@ Analizados
 Algo
 Alarmas
 Aprobado
+Ante
+Ausencia
 Final
 Flujo
 Fuerza
@@ -9497,6 +9514,7 @@ POR
 PIC
 Precision
 Pautas
+Print
 Hipotesis
 HbgIcQAl
 HJM
@@ -11430,6 +11448,7 @@ Resolucion
 Repeticiones
 Reentrega
 Requisitos
+Recibe
 Ya
 YUV
 YLO

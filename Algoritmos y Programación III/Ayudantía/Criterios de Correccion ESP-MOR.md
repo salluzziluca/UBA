@@ -1,7 +1,7 @@
 ## Etapa2 
 Ejecutar el programa y probarlo. Al menos probar lo siguiente:
 
-- [ ] Crear un evento con repetición cada 2 días
+- [x] Crear un evento con repetición cada 2 días
 - [x] Crear una tarea de día completo
 - [ ] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
 - [ ] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
@@ -9,7 +9,7 @@ Ejecutar el programa y probarlo. Al menos probar lo siguiente:
 
 - Con respecto al código:
 
-- [ ] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
+- [x] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
 - [ ] Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
 ## Etapa 1
 

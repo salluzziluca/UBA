@@ -587,6 +587,7 @@ semanal
 semana
 sonido
 spaghetti
+separadas
 vectoriales
 vectorial
 vacio
@@ -873,6 +874,8 @@ voltaje
 viceversa
 vencimiento
 violen
+vista
+violaciones
 deben
 de
 diferenciales
@@ -1207,6 +1210,7 @@ digo
 demasiados
 dise
 demasiado
+directorio
 cumplir
 condiciones
 cartesianas
@@ -1634,6 +1638,9 @@ correccion
 cumpla
 cumplidos
 correcci
+correctamente
+capas
+capa
 las
 la
 lo
@@ -4071,6 +4078,11 @@ patrones
 patr
 pedir
 planilla
+pudiendo
+probarlo
+probar
+principal
+persistieron
 br
 borde
 busco
@@ -4889,6 +4901,7 @@ Vertical
 VJKK
 Vac
 Variables
+Verificar
 Cartesianas
 Cil
 Cambios
@@ -5156,6 +5169,8 @@ CUANDO
 Calendario
 Clases
 Checklist
+Comenzar
+Cerrar
 Esf
 Entonces
 Esto
@@ -5410,6 +5425,8 @@ Eso
 Esa
 Etapa
 Evento
+Enviar
+Ejecutar
 Integrales
 Importantes
 Igualo
@@ -5963,6 +5980,7 @@ Tensi
 TENSOR
 Tanto
 Tareas
+Terminar
 Dejando
 DEN
 De
@@ -6831,6 +6849,8 @@ mostrar
 mensaje
 mite
 marcar
+maneras
+muestra
 que
 queda
 quede
@@ -7304,6 +7324,7 @@ har
 homog
 hizo
 hagan
+haber
 image
 iria
 incluya
@@ -8142,6 +8163,7 @@ generales
 gica
 generan
 globales
+graves
 Gauss
 Green
 GC
@@ -8407,6 +8429,7 @@ GYI
 Guardamos
 Gram
 Github
+GUI
 jacobiana
 jacobinao
 jue
@@ -10328,6 +10351,7 @@ Mqq
 Momento
 MATEIRAL
 Mail
+Mostrar
 OPTIONS
 OV
 OP
@@ -11346,6 +11370,7 @@ Resistencias
 Resolucion
 Repeticiones
 Reentrega
+Reproducir
 Ya
 YUV
 YLO

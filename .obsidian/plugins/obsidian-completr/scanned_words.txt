@@ -1225,6 +1225,7 @@ demasiado
 directorio
 dia
 deja
+denomina
 cumplir
 condiciones
 cartesianas
@@ -1660,6 +1661,8 @@ capas
 capa
 conlleva
 colaterales
+calor
+cilindrico
 las
 la
 lo
@@ -2249,6 +2252,9 @@ etapa
 exije
 error
 entorno
+extrae
+elementoo
+entregado
 adicionalmente
 alguna
 al
@@ -2908,6 +2914,7 @@ tulo
 terminar
 tarea
 transparencia
+transforma
 Sea
 Si
 Superficie
@@ -4123,6 +4130,7 @@ probar
 principal
 persistieron
 pura
+perdida
 br
 borde
 busco
@@ -4712,6 +4720,7 @@ retorna
 referencial
 reemplazar
 retorno
+rapidez
 Volumen
 Variable
 Ver

@@ -583,6 +583,9 @@ serie
 sum
 siendo
 sacarle
+singular
+singulares
+sigma
 semanal
 semana
 sonido
@@ -872,10 +875,12 @@ voltimetro
 veo
 voltaje
 viceversa
+volumetricas
 vencimiento
 violen
 vista
 violaciones
+visible
 deben
 de
 diferenciales
@@ -1199,6 +1204,13 @@ direcciones
 dependiendo
 disminuyendo
 dar
+diagonalizada
+descripciones
+distintas
+dicen
+define
+distribucion
+desidades
 descripci
 duraci
 diaria
@@ -1211,6 +1223,8 @@ demasiados
 dise
 demasiado
 directorio
+dia
+deja
 cumplir
 condiciones
 cartesianas
@@ -1626,6 +1640,9 @@ cargadas
 capacitores
 can
 canonicos
+cuadratica
+construir
+cuanto
 calendario
 completadas
 comienzan
@@ -1641,6 +1658,8 @@ correcci
 correctamente
 capas
 capa
+conlleva
+colaterales
 las
 la
 lo
@@ -1892,6 +1911,7 @@ ley
 ligeramente
 lorentz
 libre
+lambda
 legible
 largos
 lleva
@@ -2209,6 +2229,9 @@ efectos
 enfrentadas
 electroes
 encontrar
+existen
+encontrado
+espacios
 eliminar
 eventos
 evento
@@ -2223,6 +2246,9 @@ entrega
 enviando
 especificar
 etapa
+exije
+error
+entorno
 adicionalmente
 alguna
 al
@@ -2560,6 +2586,9 @@ aquellas
 absorben
 aislante
 aislado
+autovalor
+autovectores
+asociados
 arbitrarios
 anual
 aplica
@@ -2568,6 +2597,10 @@ alarma
 absolutas
 aunque
 alguno
+aprobar
+agregar
+argumentos
+ambiente
 tres
 theta
 tiene
@@ -2874,6 +2907,7 @@ tareas
 tulo
 terminar
 tarea
+transparencia
 Sea
 Si
 Superficie
@@ -3413,6 +3447,7 @@ uKh
 underflow
 usaremos
 uniforme
+utiliza
 unitarias
 usen
 no
@@ -3688,6 +3723,7 @@ neo
 notificaci
 nimos
 nota
+necesario
 pertenecen
 pertenece
 pi
@@ -4068,6 +4104,9 @@ polarizaci
 pasarselos
 proyecci
 proyeccion
+pedir
+pensarse
+pseudoinversa
 producido
 principios
 pruebas
@@ -4076,13 +4115,14 @@ pasar
 paradigma
 patrones
 patr
-pedir
 planilla
-pudiendo
+pude
+parametro
 probarlo
 probar
 principal
 persistieron
+pura
 br
 borde
 busco
@@ -4352,8 +4392,11 @@ bifurcacion
 bifurca
 buscando
 bordes
+bases
+bar
 bien
 buen
+box
 ricas
 respectivamente
 recorre
@@ -4652,6 +4695,9 @@ respeten
 resto
 reacciones
 reescribe
+regulares
+relacionar
+rho
 repetir
 repetici
 repeticiones
@@ -4661,6 +4707,11 @@ razonablemente
 relativamente
 reentrega
 requisitos
+repeticion
+retorna
+referencial
+reemplazar
+retorno
 Volumen
 Variable
 Ver
@@ -5166,10 +5217,12 @@ Cola
 Cosas
 Circuitos
 CUANDO
+Cambio
+Considerando
+Col
 Calendario
 Clases
 Checklist
-Comenzar
 Cerrar
 Esf
 Entonces
@@ -5423,9 +5476,10 @@ ERA
 Existen
 Eso
 Esa
+Escribimos
+EBF
 Etapa
 Evento
-Enviar
 Ejecutar
 Integrales
 Importantes
@@ -5713,6 +5767,7 @@ Implementaciones
 Intensidad
 Identifico
 Invocaciones
+IMPURA
 Triples
 Teorema
 Teoremas
@@ -5980,7 +6035,6 @@ Tensi
 TENSOR
 Tanto
 Tareas
-Terminar
 Dejando
 DEN
 De
@@ -6251,6 +6305,9 @@ Divido
 Dipolar
 Densidad
 Distancia
+Dos
+DVS
+Determinismo
 obtenemos
 orientaci
 orientable
@@ -6532,6 +6589,10 @@ ocurrira
 orientaran
 ortogonal
 ortogonales
+ortogonalmente
+ordenar
+ortonormal
+ortonormales
 ocurrencias
 objetos
 obligatorio
@@ -6840,6 +6901,8 @@ mal
 malla
 mateiral
 moleculas
+matrices
+multiplicarlos
 modificar
 marcarse
 mensual
@@ -6849,8 +6912,8 @@ mostrar
 mensaje
 mite
 marcar
-maneras
 muestra
+minuto
 que
 queda
 quede
@@ -7593,7 +7656,10 @@ imantado
 independientes
 isotropo
 igualdad
+identidad
 instante
+ingresar
+invoca
 frontera
 flujo
 forma
@@ -7881,6 +7947,9 @@ fvk
 fWP
 fija
 ferromagn
+formada
+fundamentales
+frac
 fecha
 frecuencia
 gira
@@ -8159,6 +8228,7 @@ gn
 gObbbp
 generalizada
 generando
+geq
 generales
 gica
 generan
@@ -8928,8 +8998,11 @@ Arbol
 Acceso
 Altura
 Analizados
+Algo
 Alarmas
 Aprobado
+Ante
+Ausencia
 Final
 Flujo
 Fuerza
@@ -9164,6 +9237,7 @@ Ferromagn
 FINALMENTE
 Ftotal
 Formula
+Fil
 Potencial
 Para
 Punto
@@ -9438,7 +9512,9 @@ Potencia
 Polarizacion
 POR
 PIC
+Precision
 Pautas
+Print
 Hipotesis
 HbgIcQAl
 HJM
@@ -9652,6 +9728,7 @@ HmE
 HBf
 HQA
 HNN
+Hemos
 Hay
 ya
 yRZ
@@ -11370,7 +11447,8 @@ Resistencias
 Resolucion
 Repeticiones
 Reentrega
-Reproducir
+Requisitos
+Recibe
 Ya
 YUV
 YLO
@@ -12081,6 +12159,7 @@ xr
 xar
 xo
 xPU
+xisten
 JyvZ
 JY
 JX
@@ -13755,6 +13834,8 @@ BTt
 BUSCAR
 Busco
 Base
+BON
+BOG
 äU
 äI
 XJV

@@ -1926,6 +1926,7 @@ lambda
 legible
 largos
 lleva
+llaman
 enunciadas
 en
 espacio
@@ -2618,6 +2619,7 @@ agregar
 argumentos
 ambiente
 aBAJO
+aquellos
 tres
 theta
 tiene
@@ -3182,6 +3184,7 @@ SOLO
 Schmidt
 Singleton
 Slack
+Son
 un
 una
 usando
@@ -11487,6 +11490,7 @@ Reentrega
 Requisitos
 Recibe
 Regla
+Recursivos
 Ya
 YUV
 YLO

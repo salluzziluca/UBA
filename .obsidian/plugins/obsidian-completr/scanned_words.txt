@@ -878,6 +878,7 @@ violen
 vista
 violaciones
 volumetricas
+velocidad
 deben
 de
 diferenciales
@@ -1215,6 +1216,8 @@ demasiado
 directorio
 distribucion
 desidades
+define
+denomina
 cumplir
 condiciones
 cartesianas
@@ -1645,6 +1648,9 @@ correcci
 correctamente
 capas
 capa
+conductividad
+calor
+cilindrico
 las
 la
 lo
@@ -2227,6 +2233,9 @@ entrega
 enviando
 especificar
 etapa
+extrae
+elementoo
+entregado
 adicionalmente
 alguna
 al
@@ -2878,6 +2887,8 @@ tareas
 tulo
 terminar
 tarea
+transporte
+transforma
 Sea
 Si
 Superficie
@@ -3692,6 +3703,7 @@ neo
 notificaci
 nimos
 nota
+neto
 pertenecen
 pertenece
 pi
@@ -4087,6 +4099,9 @@ probarlo
 probar
 principal
 persistieron
+protones
+portadores
+perdida
 br
 borde
 busco
@@ -4666,6 +4681,8 @@ relativamente
 reentrega
 requisitos
 rho
+resistividad
+rapidez
 Volumen
 Variable
 Ver
@@ -5176,6 +5193,7 @@ Clases
 Checklist
 Comenzar
 Cerrar
+Corriente
 Esf
 Entonces
 Esto
@@ -9444,6 +9462,7 @@ Polarizacion
 POR
 PIC
 Pautas
+Precision
 Hipotesis
 HbgIcQAl
 HJM
@@ -10357,6 +10376,7 @@ Momento
 MATEIRAL
 Mail
 Mostrar
+MUCHOI
 OPTIONS
 OV
 OP
@@ -12086,6 +12106,7 @@ xr
 xar
 xo
 xPU
+xisten
 JyvZ
 JY
 JX

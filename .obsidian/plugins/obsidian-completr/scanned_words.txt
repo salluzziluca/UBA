@@ -588,6 +588,7 @@ semana
 sonido
 spaghetti
 separadas
+sigma
 vectoriales
 vectorial
 vacio
@@ -876,6 +877,7 @@ vencimiento
 violen
 vista
 violaciones
+volumetricas
 deben
 de
 diferenciales
@@ -1211,6 +1213,8 @@ demasiados
 dise
 demasiado
 directorio
+distribucion
+desidades
 cumplir
 condiciones
 cartesianas
@@ -4661,6 +4665,7 @@ razonablemente
 relativamente
 reentrega
 requisitos
+rho
 Volumen
 Variable
 Ver

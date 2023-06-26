@@ -593,6 +593,8 @@ spaghetti
 separadas
 sean
 solucionar
+stico
+soluciones
 vectoriales
 vectorial
 vacio
@@ -1235,6 +1237,7 @@ dervadas
 diferente
 diagonal
 descomponemos
+doble
 cumplir
 condiciones
 cartesianas
@@ -2629,6 +2632,10 @@ ambiente
 aBAJO
 aquellos
 amos
+autovector
+asociado
+autoespacio
+algebr
 tres
 theta
 tiene
@@ -2938,6 +2945,7 @@ tarea
 transparencia
 transforma
 tesis
+traza
 Sea
 Si
 Superficie
@@ -4160,6 +4168,7 @@ pura
 perdida
 problemas
 pudiendo
+palabras
 br
 borde
 busco
@@ -4434,6 +4443,7 @@ bar
 bien
 buen
 box
+bas
 ricas
 respectivamente
 recorre
@@ -5529,6 +5539,7 @@ Etapa
 Evento
 Ejecutar
 Enviar
+EN
 Integrales
 Importantes
 Igualo
@@ -6970,6 +6981,7 @@ muestra
 minuto
 meter
 maneras
+multiplicidad
 que
 queda
 quede
@@ -7719,6 +7731,8 @@ ingresar
 invoca
 impl
 individuos
+ica
+inversible
 frontera
 flujo
 forma
@@ -8296,6 +8310,7 @@ generan
 globales
 graves
 grado
+geom
 Gauss
 Green
 GC
@@ -9066,6 +9081,7 @@ Aprobado
 Ante
 Ausencia
 ARRIBA
+Algebraica
 Final
 Flujo
 Fuerza
@@ -10494,6 +10510,7 @@ MATEIRAL
 Mail
 Mostrar
 Motivaci
+Multiplicidad
 OPTIONS
 OV
 OP

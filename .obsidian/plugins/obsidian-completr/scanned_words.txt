@@ -592,6 +592,7 @@ sonido
 spaghetti
 separadas
 sean
+solucionar
 vectoriales
 vectorial
 vacio
@@ -883,6 +884,7 @@ vista
 violaciones
 visible
 variabes
+volver
 deben
 de
 diferenciales
@@ -1231,6 +1233,8 @@ denomina
 diferenciable
 dervadas
 diferente
+diagonal
+descomponemos
 cumplir
 condiciones
 cartesianas
@@ -2266,6 +2270,10 @@ elementoo
 entregado
 encontramos
 explicita
+especie
+ecosistema
+elevando
+engorrosas
 adicionalmente
 alguna
 al
@@ -2620,6 +2628,7 @@ argumentos
 ambiente
 aBAJO
 aquellos
+amos
 tres
 theta
 tiene
@@ -3185,6 +3194,7 @@ Schmidt
 Singleton
 Slack
 Son
+Supongamos
 un
 una
 usando
@@ -3747,6 +3757,7 @@ nimos
 nota
 necesario
 notaci
+necesitar
 pertenecen
 pertenece
 pi
@@ -4741,6 +4752,7 @@ retorno
 rapidez
 reemplazamos
 rimUSK
+rmula
 Volumen
 Variable
 Ver
@@ -6072,6 +6084,7 @@ TENSOR
 Tanto
 Tareas
 Terminar
+Tal
 Dejando
 DEN
 De
@@ -7705,6 +7718,7 @@ instante
 ingresar
 invoca
 impl
+individuos
 frontera
 flujo
 forma
@@ -7998,6 +8012,7 @@ frac
 fecha
 frecuencia
 fijarse
+fuera
 gira
 green
 gradiente
@@ -8280,6 +8295,7 @@ gica
 generan
 globales
 graves
+grado
 Gauss
 Green
 GC
@@ -10477,6 +10493,7 @@ Momento
 MATEIRAL
 Mail
 Mostrar
+Motivaci
 OPTIONS
 OV
 OP

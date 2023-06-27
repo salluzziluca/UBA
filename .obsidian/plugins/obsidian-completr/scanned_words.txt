@@ -595,6 +595,8 @@ sean
 solucionar
 stico
 soluciones
+superior
+suman
 vectoriales
 vectorial
 vacio
@@ -1238,6 +1240,9 @@ diferente
 diagonal
 descomponemos
 doble
+distintos
+definici
+diag
 cumplir
 condiciones
 cartesianas
@@ -1678,6 +1683,7 @@ cilindrico
 citas
 citamente
 cadena
+coefcicientes
 las
 la
 lo
@@ -2946,6 +2952,9 @@ transparencia
 transforma
 tesis
 traza
+traiangular
+triangular
+teniendo
 Sea
 Si
 Superficie
@@ -4169,6 +4178,7 @@ perdida
 problemas
 pudiendo
 palabras
+parece
 br
 borde
 busco
@@ -6096,6 +6106,9 @@ Tanto
 Tareas
 Terminar
 Tal
+Traza
+Transformacion
+Tendr
 Dejando
 DEN
 De
@@ -6982,6 +6995,7 @@ minuto
 meter
 maneras
 multiplicidad
+multipliciacion
 que
 queda
 quede
@@ -7733,6 +7747,7 @@ impl
 individuos
 ica
 inversible
+inferior
 frontera
 flujo
 forma
@@ -9595,6 +9610,7 @@ PIC
 Precision
 Pautas
 Print
+Podia
 Hipotesis
 HbgIcQAl
 HJM

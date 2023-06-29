@@ -893,6 +893,7 @@ visible
 variabes
 volver
 valida
+vemos
 deben
 de
 diferenciales
@@ -1247,6 +1248,7 @@ doble
 distintos
 definici
 diag
+distinto
 cumplir
 condiciones
 cartesianas
@@ -1691,6 +1693,7 @@ coefcicientes
 coeficientes
 cuadaradas
 conserva
+corresponde
 las
 la
 lo
@@ -2290,6 +2293,7 @@ especie
 ecosistema
 elevando
 engorrosas
+espectral
 adicionalmente
 alguna
 al
@@ -2962,6 +2966,7 @@ traza
 traiangular
 triangular
 teniendo
+tnemos
 Sea
 Si
 Superficie
@@ -6397,6 +6402,7 @@ Despejamos
 Dini
 DEPENDIENTE
 DIXVuxf
+DISTINTOS
 obtenemos
 orientaci
 orientable

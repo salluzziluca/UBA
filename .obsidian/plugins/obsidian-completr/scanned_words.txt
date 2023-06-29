@@ -598,6 +598,8 @@ soluciones
 superior
 suman
 simetricas
+sim
+suele
 vectoriales
 vectorial
 vacio
@@ -890,6 +892,7 @@ violaciones
 visible
 variabes
 volver
+valida
 deben
 de
 diferenciales
@@ -1685,6 +1688,9 @@ citas
 citamente
 cadena
 coefcicientes
+coeficientes
+cuadaradas
+conserva
 las
 la
 lo
@@ -3500,6 +3506,7 @@ uniforme
 utiliza
 unitarias
 usen
+unitaria
 no
 ndricas
 nulo
@@ -4180,6 +4187,7 @@ problemas
 pudiendo
 palabras
 parece
+propiedad
 br
 borde
 busco
@@ -4774,6 +4782,7 @@ rapidez
 reemplazamos
 rimUSK
 rmula
+reales
 Volumen
 Variable
 Ver
@@ -6110,6 +6119,7 @@ Tal
 Traza
 Transformacion
 Tendr
+Toda
 Dejando
 DEN
 De
@@ -7472,6 +7482,7 @@ hizo
 hagan
 haber
 hip
+herm
 image
 iria
 incluya

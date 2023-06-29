@@ -597,6 +597,7 @@ stico
 soluciones
 superior
 suman
+simetricas
 vectoriales
 vectorial
 vacio

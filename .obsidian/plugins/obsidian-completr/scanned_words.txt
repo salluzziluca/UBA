@@ -600,6 +600,7 @@ suman
 simetricas
 sim
 suele
+sera
 vectoriales
 vectorial
 vacio
@@ -1694,6 +1695,8 @@ coeficientes
 cuadaradas
 conserva
 corresponde
+consideremos
+calcula
 las
 la
 lo
@@ -3788,6 +3791,7 @@ nota
 necesario
 notaci
 necesitar
+ngulo
 pertenecen
 pertenece
 pi
@@ -4788,6 +4792,7 @@ reemplazamos
 rimUSK
 rmula
 reales
+rotaci
 Volumen
 Variable
 Ver
@@ -6403,6 +6408,8 @@ Dini
 DEPENDIENTE
 DIXVuxf
 DISTINTOS
+Diremos
+Det
 obtenemos
 orientaci
 orientable

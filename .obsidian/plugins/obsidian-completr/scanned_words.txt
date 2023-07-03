@@ -4203,6 +4203,7 @@ parece
 propiedad
 protones
 portadores
+peroo
 br
 borde
 busco
@@ -7028,6 +7029,7 @@ meter
 maneras
 multiplicidad
 multipliciacion
+mama
 que
 queda
 quede
@@ -9130,6 +9132,7 @@ Ante
 Ausencia
 ARRIBA
 Algebraica
+Ayuda
 Final
 Flujo
 Fuerza
@@ -9644,6 +9647,7 @@ Precision
 Pautas
 Print
 Podia
+Perro
 Hipotesis
 HbgIcQAl
 HJM

@@ -895,6 +895,7 @@ variabes
 volver
 valida
 vemos
+velocidad
 deben
 de
 diferenciales
@@ -1697,6 +1698,7 @@ conserva
 corresponde
 consideremos
 calcula
+conductividad
 las
 la
 lo
@@ -2970,6 +2972,7 @@ traiangular
 triangular
 teniendo
 tnemos
+transporte
 Sea
 Si
 Superficie
@@ -3792,6 +3795,7 @@ necesario
 notaci
 necesitar
 ngulo
+neto
 pertenecen
 pertenece
 pi
@@ -4197,6 +4201,8 @@ pudiendo
 palabras
 parece
 propiedad
+protones
+portadores
 br
 borde
 busco
@@ -4793,6 +4799,7 @@ rimUSK
 rmula
 reales
 rotaci
+resistividad
 Volumen
 Variable
 Ver
@@ -5311,6 +5318,7 @@ Cerrar
 Cauchy
 Composici
 Comenzar
+Corriente
 Esf
 Entonces
 Esto
@@ -10552,6 +10560,7 @@ Mail
 Mostrar
 Motivaci
 Multiplicidad
+MUCHOI
 OPTIONS
 OV
 OP

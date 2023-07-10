@@ -602,6 +602,7 @@ simetricas
 sim
 suele
 sera
+solenoide
 vectoriales
 vectorial
 vacio
@@ -1261,6 +1262,7 @@ descubre
 disminuye
 disminuya
 deforman
+depender
 cumplir
 condiciones
 cartesianas
@@ -1713,6 +1715,7 @@ cercanos
 cierra
 creara
 comparadas
+concatenado
 las
 la
 lo
@@ -2314,6 +2317,7 @@ ecosistema
 elevando
 engorrosas
 espectral
+espiras
 adicionalmente
 alguna
 al
@@ -2676,6 +2680,10 @@ algebr
 abre
 aumento
 aditivo
+alterna
+aproximar
+autoinducida
+autoinductancia
 tres
 theta
 tiene
@@ -7810,6 +7818,7 @@ inferior
 induce
 inducida
 inducido
+ideal
 frontera
 flujo
 forma
@@ -9162,6 +9171,7 @@ Ausencia
 ARRIBA
 Algebraica
 Ayuda
+Autoinductancia
 Final
 Flujo
 Fuerza
@@ -9399,6 +9409,7 @@ Formula
 Fil
 FyG
 Faraday
+FEM
 Potencial
 Para
 Punto

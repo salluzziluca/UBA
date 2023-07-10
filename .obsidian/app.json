@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "spellcheckLanguages": [
+    "es-AR"
+  ],
+  "spellcheck": true
 }

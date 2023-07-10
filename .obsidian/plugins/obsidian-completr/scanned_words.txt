@@ -235,6 +235,7 @@ LY
 LnM
 LZ
 Localizo
+Lens
 subespacios
 subespacio
 se
@@ -896,6 +897,9 @@ volver
 valida
 vemos
 velocidad
+var
+viajan
+velocidades
 deben
 de
 diferenciales
@@ -1251,6 +1255,12 @@ distintos
 definici
 diag
 distinto
+descubri
+desplaza
+descubre
+disminuye
+disminuya
+deforman
 cumplir
 condiciones
 cartesianas
@@ -1699,6 +1709,10 @@ corresponde
 consideremos
 calcula
 conductividad
+cercanos
+cierra
+creara
+comparadas
 las
 la
 lo
@@ -1955,6 +1969,7 @@ legible
 largos
 lleva
 llaman
+llave
 enunciadas
 en
 espacio
@@ -2658,6 +2673,9 @@ autovector
 asociado
 autoespacio
 algebr
+abre
+aumento
+aditivo
 tres
 theta
 tiene
@@ -4204,6 +4222,7 @@ propiedad
 protones
 portadores
 peroo
+produce
 br
 borde
 busco
@@ -4479,6 +4498,7 @@ bien
 buen
 box
 bas
+bajas
 ricas
 respectivamente
 recorre
@@ -4801,6 +4821,7 @@ rmula
 reales
 rotaci
 resistividad
+rigidos
 Volumen
 Variable
 Ver
@@ -5320,6 +5341,7 @@ Cauchy
 Composici
 Comenzar
 Corriente
+Cualquiera
 Esf
 Entonces
 Esto
@@ -6707,6 +6729,8 @@ ortonormales
 ocurrencias
 objetos
 obligatorio
+oponerse
+oponga
 mide
 mas
 mediante
@@ -7783,6 +7807,9 @@ individuos
 ica
 inversible
 inferior
+induce
+inducida
+inducido
 frontera
 flujo
 forma
@@ -8077,6 +8104,8 @@ fecha
 frecuencia
 fijarse
 fuera
+frenar
+fem
 gira
 green
 gradiente
@@ -9369,6 +9398,7 @@ Ftotal
 Formula
 Fil
 FyG
+Faraday
 Potencial
 Para
 Punto

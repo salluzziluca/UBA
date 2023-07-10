@@ -6,3 +6,4 @@
 [[5.0 Fuerzas Eléctricas y Magnéticas Sobre Cargas en Movimiento]]
 [[6.0 Magnetoestática]]
 [[7.0 Materiales Magnéticos]]
+[[8.0 Inducción Electromagnética]]

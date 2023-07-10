@@ -2,8 +2,8 @@
   "serverUrl": "https://api.languagetool.org",
   "urlMode": "standard",
   "glassBg": false,
-  "shouldAutoCheck": true,
-  "pickyMode": true,
-  "staticLanguage": "es-AR",
-  "englishVeriety": "en-GB"
+  "shouldAutoCheck": false,
+  "autoCheckDelay": 3000,
+  "pickyMode": false,
+  "staticLanguage": "es-AR"
 }

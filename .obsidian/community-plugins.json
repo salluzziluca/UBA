@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "obsidian-languagetool-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-completr",
   "obsidian-latex-environments",
@@ -9,5 +8,6 @@
   "obsidian-latex",
   "obsidian-desmos",
   "darlal-switcher-plus",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-languagetool-plugin"
 ]

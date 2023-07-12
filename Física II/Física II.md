@@ -6,4 +6,6 @@
 [[5.0 Fuerzas Eléctricas y Magnéticas Sobre Cargas en Movimiento]]
 [[6.0 Magnetoestática]]
 [[7.0 Materiales Magnéticos]]
-[[8.1 Definición]]
+[[8.0 Inducción Electromagnética]]
+[[9.0 Regimen Transitorio]]
+[[10.0 Corriente Alterna]]

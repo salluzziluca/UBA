@@ -236,6 +236,7 @@ LnM
 LZ
 Localizo
 Lens
+Lenz
 subespacios
 subespacio
 se
@@ -1266,6 +1267,7 @@ deforman
 depender
 durante
 descarga
+dependiente
 cumplir
 condiciones
 cartesianas
@@ -2329,6 +2331,7 @@ escribir
 electromotriz
 eficaz
 energ
+electromagnetica
 adicionalmente
 alguna
 al
@@ -5370,6 +5373,7 @@ Comenzar
 Corriente
 Cualquiera
 Circuito
+Cada
 Esf
 Entonces
 Esto
@@ -5916,6 +5920,7 @@ Intensidad
 Identifico
 Invocaciones
 IMPURA
+Inductancias
 Triples
 Teorema
 Teoremas
@@ -7083,6 +7088,7 @@ multiplicidad
 multipliciacion
 mama
 media
+mutua
 que
 queda
 quede
@@ -7840,6 +7846,7 @@ induce
 inducida
 inducido
 ideal
+inductancia
 frontera
 flujo
 forma
@@ -8420,6 +8427,7 @@ globales
 graves
 grado
 geom
+generaran
 Gauss
 Green
 GC
@@ -10628,6 +10636,7 @@ Mostrar
 Motivaci
 Multiplicidad
 MUCHOI
+Mutuas
 OPTIONS
 OV
 OP

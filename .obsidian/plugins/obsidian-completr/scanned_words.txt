@@ -1264,6 +1264,8 @@ disminuye
 disminuya
 deforman
 depender
+durante
+descarga
 cumplir
 condiciones
 cartesianas
@@ -1718,6 +1720,9 @@ creara
 comparadas
 concatenado
 convenci
+caracterizado
+capacitor
+cargar
 las
 la
 lo
@@ -2321,6 +2326,9 @@ engorrosas
 espectral
 espiras
 escribir
+electromotriz
+eficaz
+energ
 adicionalmente
 alguna
 al
@@ -3003,6 +3011,8 @@ triangular
 teniendo
 tnemos
 transporte
+tension
+transferencia
 Sea
 Si
 Superficie
@@ -4236,6 +4246,7 @@ protones
 portadores
 peroo
 produce
+periodo
 br
 borde
 busco
@@ -4836,6 +4847,8 @@ reales
 rotaci
 resistividad
 rigidos
+realizado
+recuperado
 Volumen
 Variable
 Ver
@@ -5356,6 +5369,7 @@ Composici
 Comenzar
 Corriente
 Cualquiera
+Circuito
 Esf
 Entonces
 Esto
@@ -7068,6 +7082,7 @@ maneras
 multiplicidad
 multipliciacion
 mama
+media
 que
 queda
 quede
@@ -9178,6 +9193,7 @@ ARRIBA
 Algebraica
 Ayuda
 Autoinductancia
+Alterna
 Final
 Flujo
 Fuerza

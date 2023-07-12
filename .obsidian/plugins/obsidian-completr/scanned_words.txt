@@ -4852,6 +4852,7 @@ resistividad
 rigidos
 realizado
 recuperado
+resonacia
 Volumen
 Variable
 Ver
@@ -9202,6 +9203,7 @@ Algebraica
 Ayuda
 Autoinductancia
 Alterna
+Adem
 Final
 Flujo
 Fuerza

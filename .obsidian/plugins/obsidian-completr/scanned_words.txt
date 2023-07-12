@@ -603,6 +603,7 @@ sim
 suele
 sera
 solenoide
+segunda
 vectoriales
 vectorial
 vacio
@@ -1716,6 +1717,7 @@ cierra
 creara
 comparadas
 concatenado
+convenci
 las
 la
 lo
@@ -2318,6 +2320,7 @@ elevando
 engorrosas
 espectral
 espiras
+escribir
 adicionalmente
 alguna
 al
@@ -2684,6 +2687,7 @@ alterna
 aproximar
 autoinducida
 autoinductancia
+aclara
 tres
 theta
 tiene
@@ -3544,6 +3548,7 @@ utiliza
 unitarias
 usen
 unitaria
+utilizada
 no
 ndricas
 nulo
@@ -4507,6 +4512,7 @@ buen
 box
 bas
 bajas
+bobina
 ricas
 respectivamente
 recorre

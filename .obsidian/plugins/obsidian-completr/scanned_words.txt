@@ -3016,6 +3016,7 @@ tnemos
 transporte
 tension
 transferencia
+tratar
 Sea
 Si
 Superficie

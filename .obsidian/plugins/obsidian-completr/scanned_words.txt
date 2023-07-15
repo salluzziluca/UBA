@@ -1725,6 +1725,8 @@ convenci
 caracterizado
 capacitor
 cargar
+coeficiente
+conveccion
 las
 la
 lo
@@ -2699,6 +2701,7 @@ aproximar
 autoinducida
 autoinductancia
 aclara
+aire
 tres
 theta
 tiene
@@ -3017,6 +3020,7 @@ transporte
 tension
 transferencia
 tratar
+termina
 Sea
 Si
 Superficie
@@ -5376,6 +5380,8 @@ Corriente
 Cualquiera
 Circuito
 Cada
+Conducci
+Convecci
 Esf
 Entonces
 Esto

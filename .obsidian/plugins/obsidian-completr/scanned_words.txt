@@ -1728,6 +1728,7 @@ capacitor
 cargar
 coeficiente
 conveccion
+consumida
 las
 la
 lo
@@ -2704,6 +2705,7 @@ autoinducida
 autoinductancia
 aclara
 aire
+activa
 tres
 theta
 tiene
@@ -3847,6 +3849,7 @@ notaci
 necesitar
 ngulo
 neto
+nadie
 pertenecen
 pertenece
 pi
@@ -4860,6 +4863,7 @@ rigidos
 realizado
 recuperado
 resonacia
+reactiva
 Volumen
 Variable
 Ver
@@ -7319,6 +7323,7 @@ qAkk
 quedaria
 quimicas
 quizas
+quiere
 hasta
 hacia
 hay

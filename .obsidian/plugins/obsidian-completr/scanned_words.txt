@@ -4260,6 +4260,7 @@ portadores
 peroo
 produce
 periodo
+pot
 br
 borde
 busco

@@ -605,6 +605,7 @@ suele
 sera
 solenoide
 segunda
+seccion
 vectoriales
 vectorial
 vacio
@@ -2334,6 +2335,7 @@ electromotriz
 eficaz
 energ
 electromagnetica
+escapa
 adicionalmente
 alguna
 al

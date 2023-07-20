@@ -2706,6 +2706,7 @@ autoinductancia
 aclara
 aire
 activa
+aparente
 tres
 theta
 tiene

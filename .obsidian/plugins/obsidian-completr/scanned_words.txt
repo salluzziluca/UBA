@@ -594,6 +594,8 @@ singulares
 sim
 suele
 sera
+semejantes
+simetricas
 vectoriales
 vectorial
 vacio
@@ -1670,6 +1672,8 @@ cuadaradas
 conserva
 consideremos
 calcula
+cuadradas
+cumplen
 las
 la
 lo
@@ -3737,6 +3741,7 @@ nimos
 nota
 neto
 ngulo
+notamos
 pertenecen
 pertenece
 pi
@@ -6611,6 +6616,7 @@ ordenar
 ortonormal
 ortonormales
 ortogonalmente
+operador
 mide
 mas
 mediante
@@ -7672,6 +7678,7 @@ independientes
 isotropo
 igualdad
 instante
+inversible
 frontera
 flujo
 forma

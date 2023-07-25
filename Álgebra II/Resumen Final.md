@@ -9,3 +9,5 @@ $$\lambda=q(v)$$con v autovalor de A
 Dos matrices son simetricas si $A = Q A_{2} Q^{-1}$ Y/o 
 si $A_{1} = BJB^{-1}$ y $A_{2} = PJP^{-1}$ 
 Luego, para buscar Q tal que $A_1 = A = Q A_{2} Q^{-1}$, $Q=B.P^{-1}$
+
+Se dice que una matriz P es ortogonal si $P^{-1} =P^T \iff P P^T = I_n$

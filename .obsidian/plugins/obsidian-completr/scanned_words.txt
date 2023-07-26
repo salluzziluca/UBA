@@ -607,6 +607,7 @@ solenoide
 segunda
 seccion
 secundarios
+seran
 vectoriales
 vectorial
 vacio
@@ -1273,6 +1274,8 @@ durante
 descarga
 dependiente
 difraccion
+dividimos
+division
 cumplir
 condiciones
 cartesianas
@@ -4274,6 +4277,7 @@ pot
 principales
 pared
 posici
+perdidos
 br
 borde
 busco
@@ -4883,6 +4887,7 @@ rendijas
 red
 ranuras
 redes
+rendija
 Volumen
 Variable
 Ver
@@ -5666,6 +5671,7 @@ Evento
 Ejecutar
 Enviar
 EN
+Ergo
 Integrales
 Importantes
 Igualo
@@ -6800,6 +6806,7 @@ oponerse
 oponga
 oscuras
 ordenes
+observan
 mide
 mas
 mediante
@@ -7129,6 +7136,9 @@ maximos
 minimos
 maximo
 minimo
+miembro
+multiplos
+mata
 que
 queda
 quede
@@ -7890,6 +7900,7 @@ ideal
 inductancia
 inducci
 intesidad
+interferencia
 frontera
 flujo
 forma
@@ -9487,6 +9498,7 @@ Fil
 FyG
 Faraday
 FEM
+Fraunhofer
 Potencial
 Para
 Punto

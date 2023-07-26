@@ -606,6 +606,7 @@ sera
 solenoide
 segunda
 seccion
+secundarios
 vectoriales
 vectorial
 vacio
@@ -904,6 +905,8 @@ velocidad
 var
 viajan
 velocidades
+veces
+visibles
 deben
 de
 diferenciales
@@ -1269,6 +1272,7 @@ depender
 durante
 descarga
 dependiente
+difraccion
 cumplir
 condiciones
 cartesianas
@@ -1729,6 +1733,9 @@ cargar
 coeficiente
 conveccion
 consumida
+caen
+central
+cer
 las
 la
 lo
@@ -2707,6 +2714,7 @@ aclara
 aire
 activa
 aparente
+arranca
 tres
 theta
 tiene
@@ -3026,6 +3034,7 @@ tension
 transferencia
 tratar
 termina
+tabla
 Sea
 Si
 Superficie
@@ -4262,6 +4271,9 @@ peroo
 produce
 periodo
 pot
+principales
+pared
+posici
 br
 borde
 busco
@@ -4539,6 +4551,7 @@ box
 bas
 bajas
 bobina
+brillantes
 ricas
 respectivamente
 recorre
@@ -4866,6 +4879,10 @@ realizado
 recuperado
 resonacia
 reactiva
+rendijas
+red
+ranuras
+redes
 Volumen
 Variable
 Ver
@@ -5937,6 +5954,7 @@ Identifico
 Invocaciones
 IMPURA
 Inductancias
+Interferencia
 Triples
 Teorema
 Teoremas
@@ -6780,6 +6798,8 @@ objetos
 obligatorio
 oponerse
 oponga
+oscuras
+ordenes
 mide
 mas
 mediante
@@ -7105,6 +7125,10 @@ multipliciacion
 mama
 media
 mutua
+maximos
+minimos
+maximo
+minimo
 que
 queda
 quede
@@ -7865,6 +7889,7 @@ inducido
 ideal
 inductancia
 inducci
+intesidad
 frontera
 flujo
 forma
@@ -8161,6 +8186,9 @@ fijarse
 fuera
 frenar
 fem
+fuentes
+franjas
+franja
 gira
 green
 gradiente
@@ -10899,6 +10927,7 @@ OPQQ
 OOUU
 Out
 Otros
+Ondas
 Una
 Un
 UI
@@ -12391,6 +12420,7 @@ xar
 xo
 xPU
 xisten
+ximos
 JyvZ
 JY
 JX

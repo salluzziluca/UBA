@@ -19,3 +19,7 @@ con $v1 \perp v2$
 $$tr(A)=1+2\cos(\alpha)$$
 ## Simetría
 Si $\det(A)=-1$ es una rotacion. Si -1 o 1 es un autovalor de la matriz, su respectivo polinomio asociado será el eje de rotacion. Luego, el subespacio sobre el que se realiza la simetria es te generaod por v2, v3. Siendo $v_{1}\perp v_2$ y $v_3=v_1 \times v_2$
+
+
+
+Una matriz es diagonalizable si y solo si es simetrica

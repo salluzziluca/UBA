@@ -2347,6 +2347,7 @@ eficaz
 energ
 electromagnetica
 escapa
+estas
 adicionalmente
 alguna
 al
@@ -4888,6 +4889,8 @@ red
 ranuras
 redes
 rendija
+rotacion
+respectivo
 Volumen
 Variable
 Ver
@@ -8485,6 +8488,7 @@ graves
 grado
 geom
 generaran
+generaod
 Gauss
 Green
 GC
@@ -11721,6 +11725,7 @@ Regla
 Recursivos
 Reproducir
 RC
+Rotacion
 Ya
 YUV
 YLO

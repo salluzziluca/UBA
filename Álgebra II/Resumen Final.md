@@ -1,6 +1,7 @@
 - A es inversible si todos sus autovalores tienen mg = ma
 - A es inversible si todos sus autovalores sin diferentes
-$\det= \lambda_{1}.\dots.\lambda_{n}$
+- A es simetrica si a autovalores distintos corresponden autovectores o
+$\det= \lambda_{1}*\dots*\lambda_{n}$
 $Av_2=\lambda_2 v_2$
 $A²-3A+2I =\begin{matrix} 3\  3  \\ 3 \ 3\end{matrix}=B=q(A)$  con $q(x) =x^2-3x+2$.
 Luego, si $\lambda$ autovalor de q(A), es decir, autovalor de B, se cumple que

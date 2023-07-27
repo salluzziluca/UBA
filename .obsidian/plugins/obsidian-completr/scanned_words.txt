@@ -1276,6 +1276,7 @@ dependiente
 difraccion
 dividimos
 division
+das
 cumplir
 condiciones
 cartesianas
@@ -1739,6 +1740,7 @@ consumida
 caen
 central
 cer
+componentes
 las
 la
 lo
@@ -2348,6 +2350,9 @@ energ
 electromagnetica
 escapa
 estas
+encajas
+existence
+expande
 adicionalmente
 alguna
 al
@@ -2719,6 +2724,7 @@ aire
 activa
 aparente
 arranca
+ashdas
 tres
 theta
 tiene
@@ -3296,6 +3302,7 @@ Singleton
 Slack
 Son
 Supongamos
+Schwarz
 un
 una
 usando
@@ -3585,6 +3592,7 @@ unitarias
 usen
 unitaria
 utilizada
+unitario
 no
 ndricas
 nulo
@@ -5135,6 +5143,7 @@ Verificar
 VAN
 VARIABLES
 VQqQGVr
+Vector
 Cartesianas
 Cil
 Cambios
@@ -7142,6 +7151,8 @@ minimo
 miembro
 multiplos
 mata
+multiplicacion
+multiplicaciones
 que
 queda
 quede
@@ -9264,6 +9275,7 @@ Ayuda
 Autoinductancia
 Alterna
 Adem
+Algebra
 Final
 Flujo
 Fuerza
@@ -9782,6 +9794,8 @@ Pautas
 Print
 Podia
 Perro
+Producto
+Proyeccion
 Hipotesis
 HbgIcQAl
 HJM
@@ -10448,6 +10462,7 @@ Nse
 Negatividad
 Negro
 Nodos
+Norma
 MORE
 MYk
 MDD
@@ -10700,6 +10715,8 @@ Motivaci
 Multiplicidad
 MUCHOI
 Mutuas
+Magnitudes
+Modulo
 OPTIONS
 OV
 OP
@@ -10944,6 +10961,7 @@ OOUU
 Out
 Otros
 Ondas
+Ortogonales
 Una
 Un
 UI
@@ -11726,6 +11744,7 @@ Recursivos
 Reproducir
 RC
 Rotacion
+Resta
 Ya
 YUV
 YLO

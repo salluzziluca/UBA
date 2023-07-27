@@ -12,4 +12,6 @@ Luego, para buscar Q tal que $A_1 = A = Q A_{2} Q^{-1}$, $Q=B.P^{-1}$
 
 Se dice que una matriz P es ortogonal si $P^{-1} =P^T \iff P P^T = I_n$
 ## Rotaciones y Simetrías
-si $det(A)=1$ es una rotacion, el eje de rotación es el generado por el vect
+si $det(A)=1$ es una rotacion, el eje de rotación es el generado por el vector asociado al autovalor 1. 
+Para obtener el angulo planteo estas dos ecuaciones
+$$\det(v_{1} \ v_{2} \ Av_{2})$$

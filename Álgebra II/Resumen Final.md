@@ -32,4 +32,4 @@ $$U \Sigma V^T$$
 Pseudo inversa
 $$V \Sigma U^t$$
 
-Si nos dicen que $\max_{||x||=1}||Ax||=25\sqrt{ 2 }$ quiere decir que $25\sqrt{ 2 }$ es el mayor valor singular de A. Si es $min_{||x||=1}, es el minimo$
+Si nos dicen que $\max_{||x||=1}||Ax||=25\sqrt{ 2 }$ quiere decir que $25\sqrt{ 2 }$ es el mayor valor singular de A. Si es $min_{||x||=1}$, es el minimo

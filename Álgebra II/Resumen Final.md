@@ -31,3 +31,5 @@ DVS:
 $$U \Sigma V^T$$
 Pseudo inversa
 $$V \Sigma U^t$$
+
+Si nos dicen que $\max_{||x||=1}||Ax||=25\sqrt{ 2 }$ quiere decir que 

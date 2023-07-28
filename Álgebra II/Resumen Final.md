@@ -29,8 +29,7 @@ Una matriz es diagonalizable si y solo si es simetrica
 
 DVS: 
 $rg(A)$= cantidad de valores singulares
-$$U \Sigma V^T$$
-![[Pasted image 20230728161829.png]]
+$$U \Sigma V^T$$![[Pasted image 20230728161941.png]]
 Pseudo inversa
 $$V \Sigma U^t$$
 

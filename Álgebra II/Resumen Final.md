@@ -25,3 +25,6 @@ Si $\det(A)=-1$ es una rotacion. Si -1 o 1 es un autovalor de la matriz, su resp
 
 
 Una matriz es diagonalizable si y solo si es simetrica
+
+
+DVS: 

@@ -5974,6 +5974,7 @@ Invocaciones
 IMPURA
 Inductancias
 Interferencia
+Intersecci
 Triples
 Teorema
 Teoremas
@@ -11232,6 +11233,7 @@ UEh
 UEl
 Uox
 Uno
+Union
 width
 wxTE
 wS

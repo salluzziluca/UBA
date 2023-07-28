@@ -28,3 +28,6 @@ Una matriz es diagonalizable si y solo si es simetrica
 
 
 DVS: 
+$$U \Sigma V^T$$
+Pseudo inversa
+$$V \Sigma U^t^tŧŧŧ$$

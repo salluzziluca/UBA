@@ -237,6 +237,7 @@ LZ
 Localizo
 Lens
 Lenz
+Linealmente
 subespacios
 subespacio
 se
@@ -608,6 +609,7 @@ segunda
 seccion
 secundarios
 seran
+subconjunto
 vectoriales
 vectorial
 vacio
@@ -1742,6 +1744,9 @@ central
 cer
 componentes
 corresponden
+conjugado
+caracteristicas
+cuadrados
 las
 la
 lo
@@ -1999,6 +2004,7 @@ largos
 lleva
 llaman
 llave
+llegamos
 enunciadas
 en
 espacio
@@ -2354,6 +2360,7 @@ estas
 encajas
 existence
 expande
+encuentro
 adicionalmente
 alguna
 al
@@ -3304,6 +3311,8 @@ Slack
 Son
 Supongamos
 Schwarz
+Ser
+Simetrica
 un
 una
 usando
@@ -3873,6 +3882,8 @@ necesitar
 ngulo
 neto
 nadie
+norma
+nico
 pertenecen
 pertenece
 pi
@@ -4288,6 +4299,7 @@ principales
 pared
 posici
 perdidos
+pseudo
 br
 borde
 busco
@@ -4900,6 +4912,7 @@ redes
 rendija
 rotacion
 respectivo
+rango
 Volumen
 Variable
 Ver
@@ -5425,6 +5438,11 @@ Circuito
 Cada
 Conducci
 Convecci
+Complejos
+Cualquier
+Complemento
+Can
+Cuadrados
 Esf
 Entonces
 Esto
@@ -5685,6 +5703,8 @@ Ejecutar
 Enviar
 EN
 Ergo
+ENTONCES
+ENTONCESSSS
 Integrales
 Importantes
 Igualo
@@ -5975,6 +5995,8 @@ IMPURA
 Inductancias
 Interferencia
 Intersecci
+Interno
+Inequality
 Triples
 Teorema
 Teoremas
@@ -6528,6 +6550,8 @@ DIXVuxf
 DISTINTOS
 Diremos
 Det
+Dependientes
+Desigualdad
 obtenemos
 orientaci
 orientable
@@ -7155,6 +7179,7 @@ multiplos
 mata
 multiplicacion
 multiplicaciones
+max
 que
 queda
 quede
@@ -8768,6 +8793,7 @@ Guardamos
 Gram
 Github
 GUI
+Generalizaci
 jacobiana
 jacobinao
 jue
@@ -9799,6 +9825,7 @@ Perro
 Producto
 Proyeccion
 Pseudo
+Proyecci
 Hipotesis
 HbgIcQAl
 HJM
@@ -10014,6 +10041,7 @@ HQA
 HNN
 Hemos
 Hay
+Herm
 ya
 yRZ
 yD
@@ -10965,6 +10993,8 @@ Out
 Otros
 Ondas
 Ortogonales
+Ortogonalidad
+Ortogonal
 Una
 Un
 UI
@@ -14137,6 +14167,7 @@ Busco
 Base
 BON
 BOG
+Bunyakovsky
 äU
 äI
 XJV

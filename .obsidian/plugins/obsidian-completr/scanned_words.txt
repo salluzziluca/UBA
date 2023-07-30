@@ -610,6 +610,8 @@ seccion
 secundarios
 seran
 subconjunto
+stica
+sobreyectiva
 vectoriales
 vectorial
 vacio
@@ -1280,6 +1282,9 @@ difraccion
 dividimos
 division
 das
+distingue
+direcci
+dim
 cumplir
 condiciones
 cartesianas
@@ -1748,6 +1753,9 @@ corresponden
 conjugado
 caracteristicas
 cuadrados
+combinar
+cualquiera
+calculos
 las
 la
 lo
@@ -2007,6 +2015,8 @@ llaman
 llave
 llegamos
 left
+lineales
+lculos
 enunciadas
 en
 espacio
@@ -2363,6 +2373,7 @@ encajas
 existence
 expande
 encuentro
+epimorfismo
 adicionalmente
 alguna
 al
@@ -2737,6 +2748,7 @@ arranca
 ashdas
 alpha
 arcos
+aplicada
 tres
 theta
 tiene
@@ -3058,6 +3070,8 @@ tratar
 termina
 tabla
 times
+transformaciones
+trazo
 Sea
 Si
 Superficie
@@ -3318,6 +3332,7 @@ Supongamos
 Schwarz
 Ser
 Simetrica
+Seg
 un
 una
 usando
@@ -3890,6 +3905,8 @@ nadie
 norma
 nico
 neq
+ndole
+nucleo
 pertenecen
 pertenece
 pi
@@ -4307,6 +4324,8 @@ posici
 perdidos
 pseudo
 perp
+paralela
+proyecta
 br
 borde
 busco
@@ -4585,6 +4604,7 @@ bas
 bajas
 bobina
 brillantes
+biyectiva
 ricas
 respectivamente
 recorre
@@ -4921,6 +4941,8 @@ rotacion
 respectivo
 rango
 right
+rest
+reflexion
 Volumen
 Variable
 Ver
@@ -5451,6 +5473,7 @@ Cualquier
 Complemento
 Can
 Cuadrados
+Comentarios
 Esf
 Entonces
 Esto
@@ -5713,6 +5736,7 @@ EN
 Ergo
 ENTONCES
 ENTONCESSSS
+Epimorfismo
 Integrales
 Importantes
 Igualo
@@ -6005,6 +6029,9 @@ Interferencia
 Intersecci
 Interno
 Inequality
+Idem
+Isomorfismo
+Inyectiva
 Triples
 Teorema
 Teoremas
@@ -6278,6 +6305,8 @@ Traza
 Transformacion
 Tendr
 Toda
+Tambi
+Tomo
 Dejando
 DEN
 De
@@ -6560,6 +6589,7 @@ Diremos
 Det
 Dependientes
 Desigualdad
+Direcci
 obtenemos
 orientaci
 orientable
@@ -7188,6 +7218,7 @@ mata
 multiplicacion
 multiplicaciones
 max
+monomorfismo
 que
 queda
 quede
@@ -7409,6 +7440,8 @@ quedaria
 quimicas
 quizas
 quiere
+quiero
+quien
 hasta
 hacia
 hay
@@ -7951,6 +7984,8 @@ inducci
 intesidad
 interferencia
 iff
+isomorfismo
+inyectiva
 frontera
 flujo
 forma
@@ -9836,6 +9871,8 @@ Producto
 Proyeccion
 Pseudo
 Proyecci
+Proyecciones
+Proyecta
 Hipotesis
 HbgIcQAl
 HJM
@@ -10758,6 +10795,7 @@ MUCHOI
 Mutuas
 Magnitudes
 Modulo
+Monomorfismo
 OPTIONS
 OV
 OP
@@ -11789,6 +11827,7 @@ Reproducir
 RC
 Rotacion
 Resta
+Respecto
 Ya
 YUV
 YLO
@@ -14178,6 +14217,7 @@ Base
 BON
 BOG
 Bunyakovsky
+BASE
 äU
 äI
 XJV

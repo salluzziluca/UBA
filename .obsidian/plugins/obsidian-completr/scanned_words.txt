@@ -910,6 +910,7 @@ viajan
 velocidades
 veces
 visibles
+vec
 deben
 de
 diferenciales
@@ -2005,6 +2006,7 @@ lleva
 llaman
 llave
 llegamos
+left
 enunciadas
 en
 espacio
@@ -2733,6 +2735,8 @@ activa
 aparente
 arranca
 ashdas
+alpha
+arcos
 tres
 theta
 tiene
@@ -3053,6 +3057,7 @@ transferencia
 tratar
 termina
 tabla
+times
 Sea
 Si
 Superficie
@@ -3884,6 +3889,7 @@ neto
 nadie
 norma
 nico
+neq
 pertenecen
 pertenece
 pi
@@ -4300,6 +4306,7 @@ pared
 posici
 perdidos
 pseudo
+perp
 br
 borde
 busco
@@ -4913,6 +4920,7 @@ rendija
 rotacion
 respectivo
 rango
+right
 Volumen
 Variable
 Ver
@@ -7942,6 +7950,7 @@ inductancia
 inducci
 intesidad
 interferencia
+iff
 frontera
 flujo
 forma
@@ -8241,6 +8250,7 @@ fem
 fuentes
 franjas
 franja
+forall
 gira
 green
 gradiente

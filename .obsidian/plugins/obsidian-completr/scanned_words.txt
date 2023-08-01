@@ -612,6 +612,7 @@ seran
 subconjunto
 stica
 sobreyectiva
+solucion
 vectoriales
 vectorial
 vacio

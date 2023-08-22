@@ -40,3 +40,5 @@ El rango de representacion de un procesador de:
 
 
 # Decimales (representacion de numeros con parte fraccionaria)
+### sistemas de punto fijo
+la coma siempre esta en el

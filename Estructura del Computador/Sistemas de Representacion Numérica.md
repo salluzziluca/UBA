@@ -60,4 +60,4 @@ parte binaria
 $$0,32*2=0.64$$ $$0.64*2=1.28$$
 $$0.28*2=0.56$$
 $$0.56*2=1.18$$
-Finalmente, la parte decimal se podria escribir como 0101, con un $2$
+Finalmente, la parte decimal se podria escribir como 0101, con un $2^{-4}$ de error

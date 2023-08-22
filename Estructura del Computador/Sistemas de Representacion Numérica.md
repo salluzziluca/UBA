@@ -63,4 +63,4 @@ $$0.56*2=1.18$$
 Finalmente, la parte decimal se podria escribir como 0101, con un $2^{-4}$ de error (cota, error maximo
 
 # Representacion de numeros con signo
-el numero negativo lo represento como lo que le falta al numero para llegar total que tengo. ej: si tengo 
+el numero negativo lo represento como lo que le falta al numero para llegar total que tengo. ej: si tengo rango 99

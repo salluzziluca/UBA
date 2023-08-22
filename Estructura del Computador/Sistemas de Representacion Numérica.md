@@ -9,5 +9,6 @@ identico a actual, cantidad de simbolos limitadas, posicional y decimal. Es deci
 # Sistema numerico posicional
 queda definido por 
 - simbolos
-- cantidad de simbolos
-- peso de cada posici
+- cantidad de simbolos (base)
+- peso de cada posicion(potencias crecientes de la base)
+- cantidad de posiciones

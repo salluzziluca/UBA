@@ -15,3 +15,10 @@ queda definido por
 
 En decimal: $digito_{0}.base_{0}+D_{1}.b_{1}$
 siendo $b_{0}=10^0, b_{1}=10^1, etc$
+
+>42 en binario
+
+los pesos en binario son 
+| ---- | ----- | ----- |
+| ---- | ----- | ----- |
+|      |       |       |

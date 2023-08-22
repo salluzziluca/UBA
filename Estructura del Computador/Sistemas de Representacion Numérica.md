@@ -12,3 +12,5 @@ queda definido por
 - cantidad de simbolos (base)
 - peso de cada posicion(potencias crecientes de la base)
 - cantidad de posiciones
+
+En decimal: 

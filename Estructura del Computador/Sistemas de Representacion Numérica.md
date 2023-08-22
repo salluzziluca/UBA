@@ -42,4 +42,6 @@ El rango de representacion de un procesador de:
 # Decimales (representacion de numeros con parte fraccionaria)
 ### sistemas de punto fijo
 la coma siempre esta en el mismo lugar. ej: el decimal. 
-$$\sum^{n}_{i=0}di.bi+\sum^{n}_{i=1}di.$$
+$$\sum^{n}_{i=0}di.bi+\sum^{n}_{i=1}di.b^{-1}$$
+### sistemas de punto flotante
+cuando opero con binarios y tengo por ej 8 bits, yo puedo e

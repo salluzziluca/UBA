@@ -5,3 +5,9 @@ Genero nuevos simbolos que representan diferentes numeros. Si palo es 1, talon e
 
 ## Sistema arabigo
 identico a actual, cantidad de simbolos limitadas, posicional y decimal. Es decir, de base 10.
+
+# Sistema numerico posicional
+queda definido por 
+- simbolos
+- cantidad de simbolos
+- peso de cada posici

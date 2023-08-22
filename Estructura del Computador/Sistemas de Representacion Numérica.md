@@ -39,4 +39,4 @@ El rango de representacion de un procesador de:
 - 32 bits: 2^32= mucho
 
 
-# 
+# Decimales (representacion de numeros con parte fraccionaria)

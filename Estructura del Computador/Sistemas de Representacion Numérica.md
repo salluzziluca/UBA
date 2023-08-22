@@ -45,6 +45,8 @@ la coma siempre esta en el mismo lugar. ej: el decimal.
 $$\sum^{n}_{i=0}di.bi+\sum^{n}_{i=1}di.b^{-1}$$
 ### sistemas de punto flotante
 cuando opero con binarios y tengo por ej 8 bits, yo puedo elegir que la parte fraccionaria empiece a partir de cualquiera de las posiciones
-| 4   | 2   | 1   | 0.5 |     0.125| 
-| --- | --- | --- | --- | --- |
-|     |1     | 1    | 1    |0     |
+| 4   | 2   | 1   | 0.5 | 0.25 | 0.125 |
+| --- | --- | --- | --- | ---- | ----- |
+| 0   | 1   | 1   | 1   | 0    | 0     |
+| 
+Estariamos hablando del 3.5, pero esos mismos espacios

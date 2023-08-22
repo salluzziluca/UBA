@@ -52,4 +52,8 @@ cuando opero con binarios y tengo por ej 8 bits, yo puedo elegir que la parte fr
 Estariamos hablando del 3.5, pero esos mismos espacios los podriamos haber asignado a otros pesos, segun conveniencia
 
 Para pasar de decima a binario un numero fraccionario:
-1) busco la parte decimal de 
+1) paso a binario la parte entera
+2) la parte decimal la divido n veces por dos, ahora ej
+11, 32 a binario
+parte entera 1011
+parte binaria

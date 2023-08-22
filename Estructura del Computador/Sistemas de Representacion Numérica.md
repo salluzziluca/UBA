@@ -53,7 +53,8 @@ Estariamos hablando del 3.5, pero esos mismos espacios los podriamos haber asign
 
 Para pasar de decima a binario un numero fraccionario:
 1) paso a binario la parte entera
-2) la parte decimal la divido n veces por dos, ahora ej
+2) la parte decimal la mutiplico n veces por dos, ahora ej
 11, 32 a binario
 parte entera 1011
 parte binaria
+$$0,32*2=0.64$$ $$0.64*2=1.28$$

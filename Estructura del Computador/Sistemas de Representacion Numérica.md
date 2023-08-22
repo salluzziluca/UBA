@@ -78,4 +78,4 @@ como tiene un bit mas, se hace la cuenta anterior y se le suma 1
 
 ==agregar foto del twos complement ones complement==
 
-El complemento a la base es reversible, ya que puedo buscar de vuelta e complemento y sumar 1
+El complemento a la base es reversible, ya que puedo buscar de vuelta e complemento y restar 1

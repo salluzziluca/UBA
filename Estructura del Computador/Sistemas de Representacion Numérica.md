@@ -4,4 +4,4 @@ Un sistema numerico tiene conjunto de simbolos y reglas para su organizacion.
 Genero nuevos simbolos que representan diferentes numeros. Si palo es 1, talon es 10, etc. 21 es dos talones y una vara.
 
 ## Sistema arabigo
-identico a actual, cantidad de simbolos limitadas, posicional y decimal.
+identico a actual, cantidad de simbolos limitadas, posicional y decimal. Es decir, de base 10.

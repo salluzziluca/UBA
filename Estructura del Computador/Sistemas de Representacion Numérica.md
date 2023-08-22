@@ -63,8 +63,12 @@ $$0.56*2=1.18$$
 Finalmente, la parte decimal se podria escribir como 0101, con un $2^{-4}$ de error (cota, error maximo
 
 # Representacion de numeros con signo
+
+## complemento a la base menos 1
 el numero negativo lo represento como lo que le falta al numero para llegar total que tengo disponible (rango)
 
 ej en binario:
 00110101=53
 el -53 va a ser el contrario, 11001010. A esto se lo llama complemento a la base menos 1
+
+## complemento a la base 

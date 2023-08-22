@@ -1,4 +1,14 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

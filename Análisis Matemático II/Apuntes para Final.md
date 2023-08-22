@@ -1,5 +1,5 @@
-	# Apuntes para Final
 ## Potencial
+
 
 ## Flujo
 sea $\vec f:H \subset R³ -> R³$ un campo vectorial continuo en $H \subset R³$ se llama integral de superficie o flujo del campo vectorial $\vec f$a traves de S

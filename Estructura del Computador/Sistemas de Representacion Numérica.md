@@ -67,3 +67,4 @@ el numero negativo lo represento como lo que le falta al numero para llegar tota
 
 ej en binario:
 00110101=53
+el -53 va a ser el contrario, 11001010. A esto se lo llama complemento a la base

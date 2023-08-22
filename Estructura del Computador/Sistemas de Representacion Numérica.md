@@ -41,4 +41,5 @@ El rango de representacion de un procesador de:
 
 # Decimales (representacion de numeros con parte fraccionaria)
 ### sistemas de punto fijo
-la coma siempre esta en el mismo lugar. ej: el decimal
+la coma siempre esta en el mismo lugar. ej: el decimal. 
+$$\sum^{n}_{#}$$

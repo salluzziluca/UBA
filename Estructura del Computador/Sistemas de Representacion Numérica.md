@@ -72,4 +72,6 @@ ej en binario:
 el -53 va a ser el contrario, 11001010. A esto se lo llama complemento a la base menos 1
 
 ## complemento a la base 
-en vez de tener como referencia el 11111111, va a tener el numero siguiente, el 10000000
+en vez de tener como referencia el 11111111, va a tener el numero siguiente, el 100000000.
+como tiene un bit mas, se hace la cuenta anterior y se le suma 1
+11001011

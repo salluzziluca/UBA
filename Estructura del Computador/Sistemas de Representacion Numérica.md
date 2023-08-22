@@ -29,4 +29,4 @@ los pesos en binario son
 - entre do bases diferentes a 10-> paso por 10 jeje
 - Bases potencias-> agrupar o desagrupar
 
-ej: a ojo para saber cuantos digitos va a tener un numero en binario 
+ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos (1, 2, 4, 8, 16, 32, 64, 128, 256, 1029)

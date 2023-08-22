@@ -28,3 +28,5 @@ los pesos en binario son
 - De base 10 a cualquier base -> busco los pesos y lo hago a ojo o divido n veces por la base
 - entre do bases diferentes a 10-> paso por 10 jeje
 - Bases potencias-> agrupar o desagrupar
+
+ej: a ojo para saber cuantos digitos va a tener un numero en binario 

@@ -79,3 +79,6 @@ como tiene un bit mas, se hace la cuenta anterior y se le suma 1
 ==agregar foto del twos complement ones complement==
 
 El complemento a la base es reversible, ya que puedo buscar de vuelta e complemento y restar 1
+
+
+==cuando uno se pasa, puede haber overflow o llevarse el extra al carry==

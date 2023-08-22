@@ -44,4 +44,7 @@ El rango de representacion de un procesador de:
 la coma siempre esta en el mismo lugar. ej: el decimal. 
 $$\sum^{n}_{i=0}di.bi+\sum^{n}_{i=1}di.b^{-1}$$
 ### sistemas de punto flotante
-cuando opero con binarios y tengo por ej 8 bits, yo puedo e
+cuando opero con binarios y tengo por ej 8 bits, yo puedo elegir que la parte fraccionaria empiece a partir de cualquiera de las posiciones
+|  | --- | --- |
+| --- | --- | --- |
+|     |     |     |

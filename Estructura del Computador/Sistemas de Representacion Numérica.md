@@ -77,3 +77,5 @@ como tiene un bit mas, se hace la cuenta anterior y se le suma 1
 11001011
 
 ==agregar foto del twos complement ones complement==
+
+El complemento a 

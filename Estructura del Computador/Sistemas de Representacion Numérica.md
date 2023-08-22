@@ -34,5 +34,5 @@ ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos
 
 # Rango de representacion
 El rango de representacion de un procesador de:
-- 8 bits: 8256
+- 8 bits: $2^8=256$
 - 

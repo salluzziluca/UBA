@@ -24,4 +24,4 @@ los pesos en binario son
 | 0   | 0   | 1   | 0   | 1   | 0   |  1   | 0   |
 
 
-- De cualquier base a base 10 -> multiplico las potencias
+- De cualquier base a base 10 -> multiplico las potencias (en el ej de arriba $1*32+8*1+2*1$)

@@ -33,4 +33,6 @@ ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos
 ==Los digitos de la derecha se llaman "mas significativos
 
 # Rango de representacion
-El rango de representacion de 
+El rango de representacion de un procesador de:
+- 8 bits: 8256
+- 

@@ -65,6 +65,7 @@ en vez de tener como referencia el 11111111, va a tener el numero siguiente, el 
 como tiene un bit mas, se hace la cuenta anterior y se le suma 1
 11001011
 
+![[Pasted image 20230823143152.png]]
 ==agregar foto del twos complement ones complement==
 
 El complemento a la base es reversible, ya que puedo buscar de vuelta e complemento y restar 1

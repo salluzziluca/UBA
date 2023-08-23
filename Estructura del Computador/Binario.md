@@ -22,11 +22,10 @@ ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos
 ==Los digitos de la derecha se llaman "mas significativos"
 
 # Rango de representacion
-El rango de representacion de un procesador de:
+El rango de representación de un procesador de:
 - 8 bits: $2^8=256$
 - 16 bits: $2^{16}=65536$
 - 32 bits: 2^32= mucho
-
 
 # Decimales (representacion de numeros con parte fraccionaria)
 ### sistemas de punto fijo

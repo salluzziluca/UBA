@@ -613,6 +613,11 @@ subconjunto
 stica
 sobreyectiva
 solucion
+simbolos
+sumo
+significativos
+sistemas
+signo
 vectoriales
 vectorial
 vacio
@@ -914,6 +919,8 @@ velocidades
 veces
 visibles
 vec
+vara
+voy
 deben
 de
 diferenciales
@@ -1286,6 +1293,13 @@ das
 distingue
 direcci
 dim
+decimal
+divido
+desagrupar
+digitos
+doy
+decima
+disponible
 cumplir
 condiciones
 cartesianas
@@ -1757,6 +1771,14 @@ cuadrados
 combinar
 cualquiera
 calculos
+crecientes
+cuantos
+coma
+conveniencia
+cota
+complemento
+complement
+carry
 las
 la
 lo
@@ -2018,6 +2040,8 @@ llegamos
 left
 lineales
 lculos
+limitadas
+llevarse
 enunciadas
 en
 espacio
@@ -2375,6 +2399,9 @@ existence
 expande
 encuentro
 epimorfismo
+elegir
+empiece
+extra
 adicionalmente
 alguna
 al
@@ -2750,6 +2777,10 @@ ashdas
 alpha
 arcos
 aplicada
+aditivos
+arabigo
+agrupar
+asignado
 tres
 theta
 tiene
@@ -3073,6 +3104,9 @@ tabla
 times
 transformaciones
 trazo
+talon
+talones
+twos
 Sea
 Si
 Superficie
@@ -3334,6 +3368,7 @@ Schwarz
 Ser
 Simetrica
 Seg
+Sistemas
 un
 una
 usando
@@ -3908,6 +3943,8 @@ nico
 neq
 ndole
 nucleo
+numerico
+nuevos
 pertenecen
 pertenece
 pi
@@ -4327,6 +4364,13 @@ pseudo
 perp
 paralela
 proyecta
+palo
+posicional
+potencias
+posiciones
+pesos
+procesador
+podria
 br
 borde
 busco
@@ -4606,6 +4650,11 @@ bajas
 bobina
 brillantes
 biyectiva
+binario
+bits
+binarios
+binaria
+bit
 ricas
 respectivamente
 recorre
@@ -4944,6 +4993,13 @@ rango
 right
 rest
 reflexion
+reglas
+representan
+representacion
+represento
+referencia
+reversible
+restar
 Volumen
 Variable
 Ver
@@ -5738,6 +5794,7 @@ Ergo
 ENTONCES
 ENTONCESSSS
 Epimorfismo
+Estariamos
 Integrales
 Importantes
 Igualo
@@ -6591,6 +6648,7 @@ Det
 Dependientes
 Desigualdad
 Direcci
+Decimales
 obtenemos
 orientaci
 orientable
@@ -6884,6 +6942,10 @@ oponga
 oscuras
 ordenes
 observan
+organizacion
+ojo
+opero
+ones
 mide
 mas
 mediante
@@ -7220,6 +7282,9 @@ multiplicacion
 multiplicaciones
 max
 monomorfismo
+multiplico
+miro
+mutiplico
 que
 queda
 quede
@@ -7699,6 +7764,7 @@ hagan
 haber
 hip
 herm
+hago
 image
 iria
 incluya
@@ -7987,6 +8053,7 @@ interferencia
 iff
 isomorfismo
 inyectiva
+identico
 frontera
 flujo
 forma
@@ -8287,6 +8354,11 @@ fuentes
 franjas
 franja
 forall
+fraccionaria
+flotante
+fraccionario
+falta
+foto
 gira
 green
 gradiente
@@ -8840,6 +8912,7 @@ Gram
 Github
 GUI
 Generalizaci
+Genero
 jacobiana
 jacobinao
 jue
@@ -9049,6 +9122,7 @@ jgUNxAw
 jjj
 jk
 jueves
+jeje
 Aplicaci
 Apuntes
 Ambas
@@ -11829,6 +11903,8 @@ RC
 Rotacion
 Resta
 Respecto
+Rango
+Representacion
 Ya
 YUV
 YLO

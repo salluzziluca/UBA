@@ -2,9 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "spellcheckLanguages": [
-    "es-AR"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,

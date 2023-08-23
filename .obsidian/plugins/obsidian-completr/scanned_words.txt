@@ -625,6 +625,7 @@ sC
 sTnW
 sTg
 sLi
+seguir
 vectoriales
 vectorial
 vacio
@@ -1793,6 +1794,9 @@ complement
 carry
 cmE
 cuw
+conozco
+compuesto
+caras
 las
 la
 lo
@@ -2425,6 +2429,7 @@ eUFx
 eyP
 eBi
 eDH
+experimento
 adicionalmente
 alguna
 al
@@ -3405,6 +3410,7 @@ SIDAT
 SlD
 SuJ
 STu
+SON
 un
 una
 usando
@@ -4419,6 +4425,7 @@ pqq
 pil
 pKa
 pyw
+pares
 br
 borde
 busco
@@ -5058,6 +5065,8 @@ rl
 rGq
 rUa
 rAXb
+resultados
+reduciendo
 Volumen
 Variable
 Ver
@@ -5596,6 +5605,7 @@ Cuadrados
 Comentarios
 Cb
 CYR
+Contiene
 Esf
 Entonces
 Esto
@@ -5864,6 +5874,9 @@ EVPP
 EQW
 Eat
 EsM
+Experimento
+Eventos
+Elementales
 Integrales
 Importantes
 Igualo
@@ -7030,6 +7043,7 @@ ocF
 oob
 oCab
 orQ
+ocurrir
 mide
 mas
 mediante
@@ -7370,6 +7384,7 @@ multiplico
 miro
 mutiplico
 mTg
+muestral
 que
 queda
 quede
@@ -8150,6 +8165,8 @@ ilY
 iTHG
 inE
 iG
+irreductibles
+impares
 frontera
 flujo
 forma
@@ -9540,6 +9557,7 @@ AJY
 Axl
 Axm
 AiX
+Aleatorio
 Final
 Flujo
 Fuerza

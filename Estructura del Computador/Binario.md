@@ -7,7 +7,6 @@ sus pesos son
 
 >42 en binario
 
-los pesos en binario son 
 
 | 128 | 64  | 32  | 16  | 8   | 4   | 2    | 1   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,4 +19,4 @@ los pesos en binario son
 - Bases potencias-> agrupar o desagrupar
 
 ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos (256, 128, 64, 32, 16,  8, 4, 2, 1) y me doy cuenta de que si o si voy a tener que incluir el 256. Por lo que voy a tener 9 digitos. 
-==Los digitos de la derecha se llaman "mas significativos
+==Los digitos de la derecha se llaman "mas significativos"

@@ -27,7 +27,7 @@ El rango de representación de un procesador de:
 - 16 bits: $2^{16}=65536$
 - 32 bits: 2^32= mucho
 
-# Decimales (representacion de numeros con parte fraccionaria)
+# Decimales (representación de números con parte fraccionaria)
 ### sistemas de punto fijo
 la coma siempre esta en el mismo lugar. ej: el decimal. 
 $$\sum^{n}_{i=0}di.bi+\sum^{n}_{i=1}di.b^{-1}$$

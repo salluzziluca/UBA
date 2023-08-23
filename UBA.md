@@ -8,3 +8,4 @@
 [[Algoritmos y Programación III]]
 [[Física II]]
 [[Estructura del Computador]]
+[[Probabilidad y Estadística B]]

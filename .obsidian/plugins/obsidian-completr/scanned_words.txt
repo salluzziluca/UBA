@@ -240,6 +240,7 @@ Lenz
 Linealmente
 LLX
 LQb
+Laplace
 subespacios
 subespacio
 se
@@ -2433,6 +2434,7 @@ eBi
 eDH
 experimento
 estaba
+equiprobable
 adicionalmente
 alguna
 al
@@ -4432,6 +4434,7 @@ pyw
 pares
 podr
 profe
+probabilidad
 br
 borde
 busco
@@ -5074,6 +5077,7 @@ rAXb
 resultados
 reduciendo
 representaci
+realizo
 Volumen
 Variable
 Ver
@@ -7394,6 +7398,7 @@ mutiplico
 mTg
 muestral
 meros
+muestras
 que
 queda
 quede
@@ -8488,6 +8493,7 @@ fzS
 fJR
 fr
 fuC
+formula
 gira
 green
 gradiente
@@ -9809,6 +9815,7 @@ Fraunhofer
 FSv
 FkZ
 FVXA
+Frecuencia
 Potencial
 Para
 Punto
@@ -12084,6 +12091,7 @@ Rango
 Representacion
 Rx
 Rc
+Relativa
 Ya
 YUV
 YLO

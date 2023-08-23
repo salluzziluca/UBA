@@ -9,3 +9,4 @@
 [[Física II]]
 [[Estructura del Computador]]
 [[Probabilidad y Estadística B]]
+[[Organizacion de Datos]]

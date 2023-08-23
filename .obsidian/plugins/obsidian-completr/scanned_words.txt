@@ -628,6 +628,10 @@ sTg
 sLi
 seguir
 seg
+subconjuntos
+sucesi
+siguientes
+sucesion
 vectoriales
 vectorial
 vacio
@@ -1316,6 +1320,7 @@ dTN
 dIWr
 dkG
 diapos
+diremos
 cumplir
 condiciones
 cartesianas
@@ -1800,6 +1805,8 @@ cuw
 conozco
 compuesto
 caras
+continuidad
+complementario
 las
 la
 lo
@@ -2435,6 +2442,7 @@ eDH
 experimento
 estaba
 equiprobable
+excluyentes
 adicionalmente
 alguna
 al
@@ -4435,6 +4443,10 @@ pares
 podr
 profe
 probabilidad
+probabilidades
+propiedades
+perteneciente
+pertenecientes
 br
 borde
 busco
@@ -6754,6 +6766,7 @@ Decimales
 DJALT
 DZj
 DTZb
+Dado
 obtenemos
 orientaci
 orientable
@@ -7056,6 +7069,7 @@ oob
 oCab
 orQ
 ocurrir
+ocurri
 mide
 mas
 mediante
@@ -7399,6 +7413,7 @@ mTg
 muestral
 meros
 muestras
+mutualmente
 que
 queda
 quede
@@ -8494,6 +8509,8 @@ fJR
 fr
 fuC
 formula
+familia
+funci
 gira
 green
 gradiente
@@ -9573,6 +9590,7 @@ Axl
 Axm
 AiX
 Aleatorio
+Axioma
 Final
 Flujo
 Fuerza
@@ -10103,6 +10121,7 @@ Proyecciones
 Proyecta
 PXX
 PiDy
+Probabilidad
 Hipotesis
 HbgIcQAl
 HJM

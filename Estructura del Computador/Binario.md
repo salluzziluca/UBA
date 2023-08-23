@@ -1,0 +1,1 @@
+El sistema binario es un [[Sistema Numerico Posicional|sistema numérico posicional]] 

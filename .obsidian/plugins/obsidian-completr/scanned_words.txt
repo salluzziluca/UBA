@@ -626,6 +626,7 @@ sTnW
 sTg
 sLi
 seguir
+seg
 vectoriales
 vectorial
 vacio
@@ -1313,6 +1314,7 @@ disponible
 dTN
 dIWr
 dkG
+diapos
 cumplir
 condiciones
 cartesianas
@@ -2430,6 +2432,7 @@ eyP
 eBi
 eDH
 experimento
+estaba
 adicionalmente
 alguna
 al
@@ -3142,6 +3145,7 @@ tOI
 tSD
 tLl
 tPa
+table
 Sea
 Si
 Superficie
@@ -4426,6 +4430,8 @@ pil
 pKa
 pyw
 pares
+podr
+profe
 br
 borde
 busco
@@ -5067,6 +5073,7 @@ rUa
 rAXb
 resultados
 reduciendo
+representaci
 Volumen
 Variable
 Ver
@@ -5877,6 +5884,7 @@ EsM
 Experimento
 Eventos
 Elementales
+Estar
 Integrales
 Importantes
 Igualo
@@ -7385,6 +7393,7 @@ miro
 mutiplico
 mTg
 muestral
+meros
 que
 queda
 quede

@@ -7,3 +7,4 @@
 [[Álgebra II]]
 [[Algoritmos y Programación III]]
 [[Física II]]
+[[Estructura del Computador]]

@@ -19,4 +19,6 @@ Slack
 3. Machine learning tabular
 4. machine learning avanzado (opcional)
 
-La reentrega es SI H
+La reentrega es SI HICISTE algo
+
+los tps se suben a Gradescope

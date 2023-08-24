@@ -17,5 +17,4 @@ Slack
 1. Visualizacion
 2. Pandas y spark
 3. Machine learning tabular
-4. machine le
-5. 
+4. machine learning avanzado (opcional)

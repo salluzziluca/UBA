@@ -21,12 +21,12 @@ Ej: 42 en binario
 ej: a ojo para saber cuantos digitos va a tener el 262 en binario miro los pesos (256, 128, 64, 32, 16,  8, 4, 2, 1) y me doy cuenta de que si o si voy a tener que incluir el 256. Por lo que voy a tener 9 digitos. 
 ==Los digitos de la derecha se llaman "mas significativos"
 
-# Rango de representacion
+## Rango de representacion
 El rango de representación de un procesador de:
 - 8 bits: $2^8=256$
 - 16 bits: $2^{16}=65536$
 - 32 bits: 2^32= mucho
-
+----
 # Decimales (representación de números con parte fraccionaria)
 ### sistemas de punto fijo
 la coma siempre esta en el mismo lugar. ej: el decimal. 
@@ -51,6 +51,7 @@ $$0.28*2=0.56$$
 $$0.56*2=1.18$$
 Finalmente, la parte decimal se podria escribir como 0101, con un $2^{-4}$ de error (cota, error maximo
 
+---
 # Representacion de numeros con signo
 
 ## complemento a la base menos 1

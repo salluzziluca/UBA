@@ -71,5 +71,8 @@ como tiene un bit mas, se hace la cuenta anterior y se le suma 1
 
 El complemento a la base es reversible, ya que puedo buscar de vuelta e complemento y restar 1
 
+---
+# Suma de numeros binarios
+Al sumar binarios nos puede pasar que nos pasemos de la cantidad de bits totales que tenemos disponibles. En un procesador de 8 podemos llegar a tener un 1 en la posicion 9
 
 ==cuando uno se pasa, puede haber overflow o llevarse el extra al carry==

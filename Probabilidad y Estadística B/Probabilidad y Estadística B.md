@@ -1,1 +1,1 @@
-[[1.2 Definición de Probabilidad]]
+[[1.1 Definición de Probabilidad]]

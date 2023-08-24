@@ -18,3 +18,5 @@ Slack
 2. Pandas y spark
 3. Machine learning tabular
 4. machine learning avanzado (opcional)
+
+La reentrega es SI H

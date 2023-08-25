@@ -633,6 +633,8 @@ sucesi
 siguientes
 sucesion
 salgan
+scanned
+strongly
 vectoriales
 vectorial
 vacio
@@ -938,6 +940,7 @@ vara
 voy
 vHW
 vju
+viewing
 deben
 de
 diferenciales
@@ -1325,6 +1328,8 @@ diremos
 disitntas
 dej
 disponibles
+deleted
+desired
 cumplir
 condiciones
 cartesianas
@@ -1815,6 +1820,11 @@ calculan
 combinatorio
 clase
 cruces
+commit
+commands
+completr
+conflicted
+conflicts
 las
 la
 lo
@@ -2085,6 +2095,8 @@ lqv
 libros
 lso
 letras
+list
+listed
 enunciadas
 en
 espacio
@@ -2458,6 +2470,8 @@ estantes
 esima
 embocar
 enunciado
+each
+every
 adicionalmente
 alguna
 al
@@ -2841,6 +2855,9 @@ akd
 aSD
 aCY
 anagrama
+automatically
+available
+above
 tres
 theta
 tiene
@@ -3173,6 +3190,8 @@ tLl
 tPa
 table
 tablita
+them
+txt
 Sea
 Si
 Superficie
@@ -3442,6 +3461,7 @@ SlD
 SuJ
 STu
 SON
+Source
 un
 una
 usando
@@ -3737,6 +3757,8 @@ uK
 uY
 urnas
 urna
+using
+use
 no
 ndricas
 nulo
@@ -4469,6 +4491,7 @@ pertenecientes
 permutaciones
 palitos
 palos
+plugins
 br
 borde
 busco
@@ -4759,6 +4782,9 @@ bUs
 bola
 bolas
 bolitas
+before
+below
+blocks
 ricas
 respectivamente
 recorre
@@ -5116,6 +5142,9 @@ reduciendo
 representaci
 realizo
 repetidos
+resolve
+recommend
+replace
 Volumen
 Variable
 Ver
@@ -5658,6 +5687,7 @@ CYR
 Contiene
 Combinaciones
 Caso
+Conflicts
 Esf
 Entonces
 Esto
@@ -6228,6 +6258,7 @@ Inyectiva
 Irv
 Ize
 IbB
+Instructions
 Triples
 Teorema
 Teoremas
@@ -6508,6 +6539,7 @@ Tq
 TZW
 TbQ
 TrA
+This
 Dejando
 DEN
 De
@@ -7101,6 +7133,8 @@ orQ
 ocurrir
 ocurri
 ordenados
+obsidian
+occurrence
 mide
 mas
 mediante
@@ -7445,6 +7479,7 @@ muestral
 meros
 muestras
 mutualmente
+mode
 que
 queda
 quede
@@ -8547,6 +8582,10 @@ funci
 formarse
 formar
 fuesen
+followed
+file
+for
+following
 gira
 green
 gradiente
@@ -9627,6 +9666,7 @@ Axm
 AiX
 Aleatorio
 Axioma
+Additional
 Final
 Flujo
 Fuerza
@@ -9870,6 +9910,7 @@ FSv
 FkZ
 FVXA
 Frecuencia
+For
 Potencial
 Para
 Punto
@@ -10159,6 +10200,7 @@ PXX
 PiDy
 Probabilidad
 Permutaciones
+Please
 Hipotesis
 HbgIcQAl
 HJM
@@ -10844,6 +10886,7 @@ NNp
 Nü
 NrJ
 NwF
+Not
 MORE
 MYk
 MDD
@@ -11887,6 +11930,9 @@ wGg
 wLj
 wXWvl
 wAj
+will
+words
+with
 Recordemos
 RA
 RF

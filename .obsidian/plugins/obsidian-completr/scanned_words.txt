@@ -632,6 +632,7 @@ subconjuntos
 sucesi
 siguientes
 sucesion
+salgan
 vectoriales
 vectorial
 vacio
@@ -1321,6 +1322,9 @@ dIWr
 dkG
 diapos
 diremos
+disitntas
+dej
+disponibles
 cumplir
 condiciones
 cartesianas
@@ -1807,6 +1811,10 @@ compuesto
 caras
 continuidad
 complementario
+calculan
+combinatorio
+clase
+cruces
 las
 la
 lo
@@ -2074,6 +2082,9 @@ lWm
 lCN
 ll
 lqv
+libros
+lso
+letras
 enunciadas
 en
 espacio
@@ -2443,6 +2454,10 @@ experimento
 estaba
 equiprobable
 excluyentes
+estantes
+esima
+embocar
+enunciado
 adicionalmente
 alguna
 al
@@ -2825,6 +2840,7 @@ asignado
 akd
 aSD
 aCY
+anagrama
 tres
 theta
 tiene
@@ -3156,6 +3172,7 @@ tSD
 tLl
 tPa
 table
+tablita
 Sea
 Si
 Superficie
@@ -3718,6 +3735,8 @@ unitario
 uOm
 uK
 uY
+urnas
+urna
 no
 ndricas
 nulo
@@ -4447,6 +4466,9 @@ probabilidades
 propiedades
 perteneciente
 pertenecientes
+permutaciones
+palitos
+palos
 br
 borde
 busco
@@ -4734,6 +4756,9 @@ bit
 be
 bQt
 bUs
+bola
+bolas
+bolitas
 ricas
 respectivamente
 recorre
@@ -5090,6 +5115,7 @@ resultados
 reduciendo
 representaci
 realizo
+repetidos
 Volumen
 Variable
 Ver
@@ -5340,6 +5366,7 @@ VKb
 Vl
 VrN
 VuJ
+Variaciones
 Cartesianas
 Cil
 Cambios
@@ -5629,6 +5656,8 @@ Comentarios
 Cb
 CYR
 Contiene
+Combinaciones
+Caso
 Esf
 Entonces
 Esto
@@ -6767,6 +6796,7 @@ DJALT
 DZj
 DTZb
 Dado
+Dados
 obtenemos
 orientaci
 orientable
@@ -7070,6 +7100,7 @@ oCab
 orQ
 ocurrir
 ocurri
+ordenados
 mide
 mas
 mediante
@@ -8196,6 +8227,8 @@ inE
 iG
 irreductibles
 impares
+iguales
+indistinguibles
 frontera
 flujo
 forma
@@ -8511,6 +8544,9 @@ fuC
 formula
 familia
 funci
+formarse
+formar
+fuesen
 gira
 green
 gradiente
@@ -10122,6 +10158,7 @@ Proyecta
 PXX
 PiDy
 Probabilidad
+Permutaciones
 Hipotesis
 HbgIcQAl
 HJM
@@ -12837,6 +12874,8 @@ xtO
 xms
 xeoS
 xBrc
+xxx
+xxxxxxxx
 JyvZ
 JY
 JX

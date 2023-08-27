@@ -81,7 +81,14 @@
       "query": "path:\"Estructura del Computador\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14980169
+      }
+    },
+    {
+      "query": "path:\"Organización de Datos\"",
+      "color": {
+        "a": 1,
+        "rgb": 2633442
       }
     }
   ],
@@ -95,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.017578125,
+  "scale": 0.0263671875,
   "close": false
 }

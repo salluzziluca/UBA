@@ -638,6 +638,8 @@ scanned
 strongly
 spam
 squeda
+spark
+suben
 vectoriales
 vectorial
 vacio
@@ -944,6 +946,7 @@ voy
 vHW
 vju
 viewing
+vistas
 deben
 de
 diferenciales
@@ -1836,6 +1839,7 @@ clasificaci
 clustering
 contenido
 consultas
+cmplejidad
 las
 la
 lo
@@ -2108,6 +2112,7 @@ lso
 letras
 list
 listed
+learning
 enunciadas
 en
 espacio
@@ -2874,6 +2879,7 @@ automatically
 available
 above
 analista
+avanzado
 tres
 theta
 tiene
@@ -3210,6 +3216,8 @@ them
 txt
 tasar
 tasadas
+tabular
+tps
 Sea
 Si
 Superficie
@@ -4519,6 +4527,7 @@ pensar
 papeleras
 preguntas
 polar
+previos
 br
 borde
 busco
@@ -5427,6 +5436,7 @@ Vl
 VrN
 VuJ
 Variaciones
+Visualizacion
 Cartesianas
 Cil
 Cambios
@@ -5719,6 +5729,7 @@ Contiene
 Combinaciones
 Caso
 Conflicts
+Conocimientos
 Esf
 Entonces
 Esto
@@ -6572,6 +6583,7 @@ TZW
 TbQ
 TrA
 This
+Teoricas
 Dejando
 DEN
 De
@@ -7168,6 +7180,7 @@ ocurri
 ordenados
 obsidian
 occurrence
+opcional
 mide
 mas
 mediante
@@ -7515,6 +7528,7 @@ mutualmente
 mode
 matematica
 muchas
+machine
 que
 queda
 quede
@@ -8623,6 +8637,7 @@ followed
 file
 for
 following
+factorizacion
 gira
 green
 gradiente
@@ -8912,6 +8927,7 @@ generaod
 goi
 gzfB
 gusta
+grabadas
 Gauss
 Green
 GC
@@ -9180,6 +9196,7 @@ Github
 GUI
 Generalizaci
 Genero
+Gradescope
 jacobiana
 jacobinao
 jue
@@ -9707,6 +9724,8 @@ Axioma
 Additional
 Analyst
 Areas
+Administrativa
+AVA
 Final
 Flujo
 Fuerza
@@ -10242,6 +10261,7 @@ Probabilidad
 Permutaciones
 Please
 Problemas
+Pandas
 Hipotesis
 HbgIcQAl
 HJM
@@ -10464,6 +10484,7 @@ HkC
 HX
 HEy
 Hci
+HICISTE
 ya
 yRZ
 yD

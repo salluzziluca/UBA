@@ -74,7 +74,7 @@
       "query": "path:\"Estructura del Computador\"",
       "color": {
         "a": 1,
-        "rgb": 14980169
+        "rgb": 12854290
       }
     },
     {
@@ -95,7 +95,7 @@
       "query": "path:\"Probabilidad y Estadística\"\"",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14717522
       }
     }
   ],
@@ -109,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.03955078125,
+  "scale": 0.017578125,
   "close": false
 }

@@ -64,13 +64,6 @@
       }
     },
     {
-      "query": "path:\"Álgebra II\"",
-      "color": {
-        "a": 1,
-        "rgb": 14123862
-      }
-    },
-    {
       "query": "path:\"Física II\"",
       "color": {
         "a": 1,
@@ -90,6 +83,20 @@
         "a": 1,
         "rgb": 2633442
       }
+    },
+    {
+      "query": "path:\"Álgebra II\"",
+      "color": {
+        "a": 1,
+        "rgb": 15104563
+      }
+    },
+    {
+      "query": "path:\"Probabilidad y Estadística\"\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -102,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0263671875,
+  "scale": 0.03955078125,
   "close": false
 }

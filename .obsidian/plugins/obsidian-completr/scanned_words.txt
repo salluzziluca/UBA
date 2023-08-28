@@ -640,6 +640,8 @@ spam
 squeda
 spark
 suben
+sumar
+signed
 vectoriales
 vectorial
 vacio
@@ -3224,6 +3226,7 @@ tabular
 tps
 tengamos
 tablas
+totales
 Sea
 Si
 Superficie
@@ -3794,6 +3797,7 @@ urnas
 urna
 using
 use
+unsigned
 no
 ndricas
 nulo
@@ -4538,6 +4542,7 @@ polar
 previos
 pedirle
 practicas
+pasemos
 br
 borde
 busco
@@ -8654,6 +8659,7 @@ file
 for
 following
 factorizacion
+flag
 gira
 green
 gradiente
@@ -8944,6 +8950,7 @@ goi
 gzfB
 gusta
 grabadas
+guarda
 Gauss
 Green
 GC

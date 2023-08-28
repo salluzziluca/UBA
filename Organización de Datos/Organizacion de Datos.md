@@ -1,3 +1,7 @@
+[[1.0 Data Science]]
+[[2.0 Análisis Exploratorio de Datos]]
+
+---
 Administrativa
 ## Conocimientos previos
 archivos 

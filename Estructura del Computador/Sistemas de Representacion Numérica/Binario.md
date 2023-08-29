@@ -93,3 +93,4 @@ hay que tener cuidado con el orden de las operaciones porque podemos generar un 
 
 ## Extension de signo
 Cua do um tiene numeros con signo de menos bits de el total, tiene  que completar con el resto de posiciones.
+![[extension de signo]]

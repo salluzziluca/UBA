@@ -13,3 +13,6 @@ Lo que no está estandarizado es lo siguiente:
 - numeros normalizados
 - Formato para guardar exponente (signed int)
 - valores "especiales"
+
+
+Para la representacion del exponente se una a cosa esa del 7 ya qe premite una comparacion mas sencila

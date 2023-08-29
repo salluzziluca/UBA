@@ -17,4 +17,6 @@ Lo que no está estandarizado es lo siguiente:
 
 Para la representacion del exponente se una a cosa esa del 7 ya qe premite una comparacion mas sencila. El problema de este sistema es que podemos tener tanto overflow como underflow. 
 Cuando hay overflow decimos que es infinito
-Cuando estamos en underflow decimos que 
+Cuando estamos en underflow decimos que es 0
+
+listafuiba7670@gmail.com

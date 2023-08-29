@@ -88,3 +88,5 @@ si dio 1 el resultado es neg, sino es pos
 
 # Resta en binario
 sumo igual me chupa un huevo
+
+hay que tener cuidado con el orden de las operaciones porque podemos generar un overflow

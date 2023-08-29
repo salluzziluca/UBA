@@ -5,3 +5,4 @@ de un total de n bits:
 - x bits para a mantisa
 - y bits para el exponente (magnitud  y signo)
 ## Estandar IEEE 754
+En

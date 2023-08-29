@@ -78,4 +78,4 @@ Al sumar binarios nos puede pasar que nos pasemos de la cantidad de bits totales
 
 Cuando en un procesador hago esa suma, se lo guarda en un flag, este puede ser un overflow (signed) o un carry (unsigned)
 
-Cuando un 
+Cuando a un procesador se le pide una suma, devuelve el valor final y un carry, si este es 1 es que nos pasamos, si es 0 no hay nada

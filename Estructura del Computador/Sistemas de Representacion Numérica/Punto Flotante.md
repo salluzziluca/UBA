@@ -15,4 +15,4 @@ Lo que no está estandarizado es lo siguiente:
 - valores "especiales"
 
 
-Para la representacion del exponente se una a cosa esa del 7 ya qe premite una comparacion mas sencila. El problema de este sistema es que podemos
+Para la representacion del exponente se una a cosa esa del 7 ya qe premite una comparacion mas sencila. El problema de este sistema es que podemos tener tanto overflow como underflow

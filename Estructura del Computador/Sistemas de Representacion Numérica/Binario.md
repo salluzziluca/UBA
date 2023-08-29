@@ -76,8 +76,6 @@ El complemento a la base es reversible, ya que puedo buscar de vuelta e compleme
 Al sumar binarios nos puede pasar que nos pasemos de la cantidad de bits totales que tenemos disponibles. En un procesador de 8 podemos llegar a tener un 1 en la posicion 9
 ![[Pasted image 20230824115044.png]]
 
-Cuando en un procesador hago esa suma, se lo guarda en un flag, este puede ser un overflow (signed) o un carry (unsigned)
-
 Cuando a un procesador se le pide una suma, devuelve el valor final, un carry y un overflow. si el carry es 1 es que nos pasamos, si es 0 no hay nada. Idem con overflow para signed .
 
 El overflow funciona de la siguiente forma: compara el carry de entrada con el carry de salida de la ultima posición. Si son iguales da 0, sino da 1

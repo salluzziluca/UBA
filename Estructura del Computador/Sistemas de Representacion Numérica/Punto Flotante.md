@@ -22,6 +22,6 @@ Cuando estamos en underflow decimos que es 0
 si divido por infinto nos da cero, pero no se puede representar en punto flotante asi que el sistema lo declara como nAn
 
 El espaciado entre ==punto fijo== es de $2^{-143}$
-El espaciado en punto flotante es de $2^{97}$, es menos pre
+El espaciado en punto flotante es de $2^{97}$, es menos preciso pero permite representar valores altisimos y bajisimos en un mismo sistema
 
 listafuiba6670@gmail.com

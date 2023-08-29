@@ -87,3 +87,4 @@ si el flag z (zero) es 1 -> el resultado es cero. Sino, es cualquier otra cosa
 si dio 1 el resultado es neg, sino es pos
 
 # Resta en binario
+sumo igual me chupa un huevo

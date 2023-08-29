@@ -84,4 +84,4 @@ El overflow funciona de la siguiente forma: compara el carry de entrada con el c
 si el flag z (zero) es 1 -> el resultado es cero. Sino, es cualquier otra cosa
 
 ### N flag
-si dio 1 el resultado es neg, sinoes pp
+si dio 1 el resultado es neg, sino es pos

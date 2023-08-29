@@ -79,3 +79,6 @@ Al sumar binarios nos puede pasar que nos pasemos de la cantidad de bits totales
 Cuando a un procesador se le pide una suma, devuelve el valor final, un carry y un overflow. si el carry es 1 es que nos pasamos, si es 0 no hay nada. Idem con overflow para signed .
 
 El overflow funciona de la siguiente forma: compara el carry de entrada con el carry de salida de la ultima posición. Si son iguales da 0, sino da 1
+
+### Z flag
+si el flag z (zero) es 1 -> el resultado es cero. Sino, es cualquier otra cosa

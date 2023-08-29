@@ -19,6 +19,6 @@ Para la representacion del exponente se una a cosa esa del 7 ya qe premite una c
 Cuando hay overflow decimos que es infinito
 Cuando estamos en underflow decimos que es 0
 
-si divido por infinto nos da cero, pero no se puede representar en punto flotante asi que el sistema lo decla
+si divido por infinto nos da cero, pero no se puede representar en punto flotante asi que el sistema lo declara como NaN
 
 listafuiba6670@gmail.com

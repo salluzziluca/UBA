@@ -90,3 +90,5 @@ si dio 1 el resultado es neg, sino es pos
 sumo igual me chupa un huevo
 
 hay que tener cuidado con el orden de las operaciones porque podemos generar un overflow
+
+## Extension de signo

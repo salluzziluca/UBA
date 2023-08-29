@@ -37,7 +37,7 @@ cuando opero con binarios y tengo por ej 8 bits, yo puedo elegir que la parte fr
 | 4   | 2   | 1   | 0.5 | 0.25 | 0.125 |
 | --- | --- | --- | --- | ---- | ----- |
 | 0   | 1   | 1   | 1   | 0    | 0     |
-
+como corri la coma dos lugares, estoy dividiendo el numero por 
 Estaríamos hablando del 3.5, pero esos mismos espacios los podríamos haber asignado a otros pesos, según conveniencia
 
 Para pasar de decima a binario un numero fraccionario:

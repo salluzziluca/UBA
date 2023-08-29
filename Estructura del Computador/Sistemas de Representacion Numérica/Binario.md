@@ -92,3 +92,4 @@ sumo igual me chupa un huevo
 hay que tener cuidado con el orden de las operaciones porque podemos generar un overflow
 
 ## Extension de signo
+Cua do um tiene numeros con signo de menos bits de el total, tiene  que completar c

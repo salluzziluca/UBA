@@ -12,4 +12,4 @@ Lo que no está estandarizado es lo siguiente:
 -  que base utiliza?
 - numeros normalizados
 - Formato para guardar exponente (signed int)
-- valores "seciales"
+- valores "especiales"

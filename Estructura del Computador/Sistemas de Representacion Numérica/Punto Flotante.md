@@ -1,0 +1,1 @@
+numero representado = $Mx \ base^{}exp[}$

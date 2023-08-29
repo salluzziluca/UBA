@@ -1309,6 +1309,8 @@ decimal
 decima
 disponible
 diapos
+dividiendo
+dio
 cumplir
 condiciones
 cartesianas
@@ -1792,6 +1794,11 @@ complemento
 complement
 carry
 crecientes
+corri
+compara
+chupa
+cuidado
+completar
 las
 la
 lo
@@ -2421,6 +2428,7 @@ enunciado
 elegir
 empiece
 estaba
+estoy
 adicionalmente
 alguna
 al
@@ -3392,6 +3400,7 @@ Ser
 Simetrica
 Seg
 Sistemas
+Sino
 un
 una
 usando
@@ -3685,6 +3694,7 @@ unitario
 urnas
 urna
 unsigned
+ultima
 no
 ndricas
 nulo
@@ -3971,6 +3981,7 @@ ndole
 nucleo
 numerico
 nuevos
+neg
 pertenecen
 pertenece
 pi
@@ -4404,6 +4415,8 @@ profe
 pasemos
 palo
 posicional
+pide
+pos
 br
 borde
 busco
@@ -5572,6 +5585,7 @@ Cuadrados
 Comentarios
 Combinaciones
 Caso
+Cua
 Esf
 Entonces
 Esto
@@ -5836,6 +5850,7 @@ ENTONCES
 ENTONCESSSS
 Epimorfismo
 Estar
+Extension
 Integrales
 Importantes
 Igualo
@@ -6989,6 +7004,7 @@ ojo
 opero
 ones
 organizacion
+operaciones
 mide
 mas
 mediante
@@ -7809,6 +7825,7 @@ haber
 hip
 herm
 hago
+huevo
 image
 iria
 incluya
@@ -14111,6 +14128,7 @@ zvv
 zAIY
 zFVg
 zIA
+zero
 Be
 BZ
 BD

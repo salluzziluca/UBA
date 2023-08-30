@@ -598,6 +598,7 @@ semejantes
 simetricas
 subconjuntos
 salgan
+sucesion
 vectoriales
 vectorial
 vacio
@@ -2280,6 +2281,7 @@ estantes
 esima
 embocar
 enunciado
+excluyentes
 adicionalmente
 alguna
 al
@@ -2632,6 +2634,7 @@ autovector
 asociado
 autoespacio
 anagrama
+aditividad
 tres
 theta
 tiene
@@ -2942,6 +2945,7 @@ transporte
 transforma
 tnemos
 tablita
+tales
 Sea
 Si
 Superficie
@@ -6969,6 +6973,7 @@ maneras
 muestra
 matrices
 meter
+mutuamente
 que
 queda
 quede

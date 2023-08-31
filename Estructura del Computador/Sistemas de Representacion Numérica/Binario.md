@@ -37,7 +37,7 @@ cuando opero con binarios y tengo por ej 8 bits, yo puedo elegir que la parte fr
 | 4   | 2   | 1   | 0.5 | 0.25 | 0.125 |
 | --- | --- | --- | --- | ---- | ----- |
 | 0   | 1   | 1   | 1   | 0    | 0     |
-
+como corri la coma dos lugares, estoy dividiendo el numero por $2^5$
 Estaríamos hablando del 3.5, pero esos mismos espacios los podríamos haber asignado a otros pesos, según conveniencia
 
 Para pasar de decima a binario un numero fraccionario:
@@ -76,4 +76,21 @@ El complemento a la base es reversible, ya que puedo buscar de vuelta e compleme
 Al sumar binarios nos puede pasar que nos pasemos de la cantidad de bits totales que tenemos disponibles. En un procesador de 8 podemos llegar a tener un 1 en la posicion 9
 ![[Pasted image 20230824115044.png]]
 
-Cuando en un procesador hago esa suma, se lo guarda en un flag, este puede ser un overflow (signed) o un carry (unsigned)
+Cuando a un procesador se le pide una suma, devuelve el valor final, un carry y un overflow. si el carry es 1 es que nos pasamos, si es 0 no hay nada. Idem con overflow para signed .
+
+El overflow funciona de la siguiente forma: compara el carry de entrada con el carry de salida de la ultima posición. Si son iguales da 0, sino da 1
+
+### Z flag
+si el flag z (zero) es 1 -> el resultado es cero. Sino, es cualquier otra cosa
+
+### N flag
+si dio 1 el resultado es neg, sino es pos
+
+# Resta en binario
+sumo igual me chupa un huevo
+
+hay que tener cuidado con el orden de las operaciones porque podemos generar un overflow
+
+## Extension de signo
+Cua do um tiene numeros con signo de menos bits de el total, tiene  que completar con el resto de posiciones.
+![[extension de signo]]

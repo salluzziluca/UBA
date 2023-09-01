@@ -626,6 +626,7 @@ simbolos
 sencila
 scanned
 strongly
+sucesion
 vectoriales
 vectorial
 vacio
@@ -2452,6 +2453,7 @@ especiales
 espaciado
 each
 every
+excluyentes
 adicionalmente
 alguna
 al
@@ -2836,6 +2838,7 @@ altisimos
 automatically
 available
 above
+aditividad
 tres
 theta
 tiene
@@ -3167,6 +3170,7 @@ talon
 talones
 them
 txt
+tales
 Sea
 Si
 Superficie
@@ -7401,6 +7405,7 @@ mutiplico
 mantisa
 magnitud
 mode
+mutuamente
 que
 queda
 quede

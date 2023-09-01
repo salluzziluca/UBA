@@ -632,6 +632,7 @@ seguir
 sucesi
 siguientes
 stisface
+satisface
 vectoriales
 vectorial
 vacio

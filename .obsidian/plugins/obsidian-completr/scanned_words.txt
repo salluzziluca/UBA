@@ -623,6 +623,7 @@ signo
 sumar
 signed
 simbolos
+sencila
 vectoriales
 vectorial
 vacio
@@ -1311,6 +1312,7 @@ disponible
 diapos
 dividiendo
 dio
+declara
 cumplir
 condiciones
 cartesianas
@@ -1799,6 +1801,8 @@ compara
 chupa
 cuidado
 completar
+comparacion
+com
 las
 la
 lo
@@ -2064,6 +2068,7 @@ libros
 lso
 letras
 limitadas
+listafuiba
 enunciadas
 en
 espacio
@@ -2429,6 +2434,10 @@ elegir
 empiece
 estaba
 estoy
+exponente
+estandarizado
+especiales
+espaciado
 adicionalmente
 alguna
 al
@@ -2809,6 +2818,7 @@ agrupar
 asignado
 aditivos
 arabigo
+altisimos
 tres
 theta
 tiene
@@ -3982,6 +3992,7 @@ nucleo
 numerico
 nuevos
 neg
+normalizados
 pertenecen
 pertenece
 pi
@@ -4417,6 +4428,8 @@ palo
 posicional
 pide
 pos
+premite
+preciso
 br
 borde
 busco
@@ -4704,6 +4717,7 @@ bits
 binarios
 binaria
 bit
+bajisimos
 ricas
 respectivamente
 recorre
@@ -5051,6 +5065,8 @@ reversible
 restar
 reglas
 representan
+representado
+representar
 Volumen
 Variable
 Ver
@@ -5851,6 +5867,7 @@ ENTONCESSSS
 Epimorfismo
 Estar
 Extension
+Estandar
 Integrales
 Importantes
 Igualo
@@ -6146,6 +6163,7 @@ Inequality
 Idem
 Isomorfismo
 Inyectiva
+IEEE
 Triples
 Teorema
 Teoremas
@@ -7345,6 +7363,8 @@ multiplico
 miro
 meros
 mutiplico
+mantisa
+magnitud
 que
 queda
 quede
@@ -8117,6 +8137,8 @@ inyectiva
 iguales
 indistinguibles
 identico
+int
+infinto
 frontera
 flujo
 forma
@@ -8713,6 +8735,7 @@ geom
 generaran
 generaod
 guarda
+gmail
 Gauss
 Green
 GC
@@ -9731,6 +9754,7 @@ FyG
 Faraday
 FEM
 Fraunhofer
+Formato
 Potencial
 Para
 Punto

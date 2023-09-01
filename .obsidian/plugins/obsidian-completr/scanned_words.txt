@@ -624,6 +624,8 @@ sumar
 signed
 simbolos
 sencila
+scanned
+strongly
 vectoriales
 vectorial
 vacio
@@ -927,6 +929,7 @@ visibles
 vec
 voy
 vara
+viewing
 deben
 de
 diferenciales
@@ -1313,6 +1316,8 @@ diapos
 dividiendo
 dio
 declara
+deleted
+desired
 cumplir
 condiciones
 cartesianas
@@ -1803,6 +1808,11 @@ cuidado
 completar
 comparacion
 com
+commit
+commands
+completr
+conflicted
+conflicts
 las
 la
 lo
@@ -2069,6 +2079,8 @@ lso
 letras
 limitadas
 listafuiba
+list
+listed
 enunciadas
 en
 espacio
@@ -2438,6 +2450,8 @@ exponente
 estandarizado
 especiales
 espaciado
+each
+every
 adicionalmente
 alguna
 al
@@ -2819,6 +2833,9 @@ asignado
 aditivos
 arabigo
 altisimos
+automatically
+available
+above
 tres
 theta
 tiene
@@ -3148,6 +3165,8 @@ table
 totales
 talon
 talones
+them
+txt
 Sea
 Si
 Superficie
@@ -3411,6 +3430,7 @@ Simetrica
 Seg
 Sistemas
 Sino
+Source
 un
 una
 usando
@@ -3705,6 +3725,8 @@ urnas
 urna
 unsigned
 ultima
+using
+use
 no
 ndricas
 nulo
@@ -4430,6 +4452,7 @@ pide
 pos
 premite
 preciso
+plugins
 br
 borde
 busco
@@ -4718,6 +4741,10 @@ binarios
 binaria
 bit
 bajisimos
+be
+before
+below
+blocks
 ricas
 respectivamente
 recorre
@@ -5067,6 +5094,9 @@ reglas
 representan
 representado
 representar
+resolve
+recommend
+replace
 Volumen
 Variable
 Ver
@@ -5602,6 +5632,7 @@ Comentarios
 Combinaciones
 Caso
 Cua
+Conflicts
 Esf
 Entonces
 Esto
@@ -6164,6 +6195,7 @@ Idem
 Isomorfismo
 Inyectiva
 IEEE
+Instructions
 Triples
 Teorema
 Teoremas
@@ -6439,6 +6471,7 @@ Tendr
 Toda
 Tambi
 Tomo
+This
 Dejando
 DEN
 De
@@ -7023,6 +7056,8 @@ opero
 ones
 organizacion
 operaciones
+obsidian
+occurrence
 mide
 mas
 mediante
@@ -7365,6 +7400,7 @@ meros
 mutiplico
 mantisa
 magnitud
+mode
 que
 queda
 quede
@@ -8448,6 +8484,10 @@ fraccionario
 falta
 foto
 flag
+followed
+file
+for
+following
 gira
 green
 gradiente
@@ -9515,6 +9555,7 @@ Autoinductancia
 Alterna
 Adem
 Algebra
+Additional
 Final
 Flujo
 Fuerza
@@ -9755,6 +9796,7 @@ Faraday
 FEM
 Fraunhofer
 Formato
+For
 Potencial
 Para
 Punto
@@ -10041,6 +10083,7 @@ Proyecci
 Proyecciones
 Proyecta
 Permutaciones
+Please
 Hipotesis
 HbgIcQAl
 HJM
@@ -10709,6 +10752,7 @@ Negatividad
 Negro
 Nodos
 Norma
+Not
 MORE
 MYk
 MDD
@@ -11740,6 +11784,9 @@ write
 wGg
 wLj
 wXWvl
+will
+words
+with
 Recordemos
 RA
 RF

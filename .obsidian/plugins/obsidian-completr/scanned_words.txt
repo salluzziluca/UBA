@@ -4480,6 +4480,7 @@ probabilidades
 propiedades
 perteneciente
 pertenecientes
+partici
 br
 borde
 busco
@@ -6792,6 +6793,7 @@ Direcci
 Dados
 Decimales
 Dado
+Decimos
 obtenemos
 orientaci
 orientable
@@ -14490,6 +14492,7 @@ BON
 BOG
 Bunyakovsky
 BASE
+Bayes
 äU
 äI
 XJV

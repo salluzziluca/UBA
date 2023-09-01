@@ -631,6 +631,7 @@ sucesion
 seguir
 sucesi
 siguientes
+stisface
 vectoriales
 vectorial
 vacio
@@ -1824,6 +1825,8 @@ compuesto
 caras
 continuidad
 complementario
+condicional
+cap
 las
 la
 lo
@@ -2851,6 +2854,7 @@ automatically
 available
 above
 aditividad
+axiomas
 tres
 theta
 tiene
@@ -7090,6 +7094,7 @@ obsidian
 occurrence
 ocurrir
 ocurri
+ocurrido
 mide
 mas
 mediante

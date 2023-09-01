@@ -633,6 +633,7 @@ sucesi
 siguientes
 stisface
 satisface
+sucesos
 vectoriales
 vectorial
 vacio
@@ -1828,6 +1829,7 @@ continuidad
 complementario
 condicional
 cap
+coincide
 las
 la
 lo
@@ -2470,6 +2472,7 @@ every
 excluyentes
 experimento
 equiprobable
+esas
 adicionalmente
 alguna
 al
@@ -4481,6 +4484,7 @@ propiedades
 perteneciente
 pertenecientes
 partici
+prob
 br
 borde
 busco
@@ -8221,6 +8225,7 @@ int
 infinto
 irreductibles
 impares
+intersecci
 frontera
 flujo
 forma

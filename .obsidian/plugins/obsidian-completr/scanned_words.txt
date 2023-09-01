@@ -1343,6 +1343,7 @@ desired
 dividiendo
 dio
 declara
+desviados
 cumplir
 condiciones
 cartesianas
@@ -1855,6 +1856,7 @@ cuidado
 completar
 comparacion
 com
+conviene
 las
 la
 lo
@@ -4569,6 +4571,8 @@ pide
 pos
 premite
 preciso
+pivot
+pivotear
 br
 borde
 busco
@@ -6925,6 +6929,7 @@ Dado
 Dados
 Data
 DataFrames
+Datos
 obtenemos
 orientaci
 orientable
@@ -7233,6 +7238,7 @@ obsidian
 occurrence
 opcional
 operaciones
+outlier
 mide
 mas
 mediante
@@ -8699,6 +8705,7 @@ for
 following
 factorizacion
 flag
+formateados
 gira
 green
 gradiente
@@ -8991,6 +8998,7 @@ gusta
 grabadas
 guarda
 gmail
+groupby
 Gauss
 Green
 GC

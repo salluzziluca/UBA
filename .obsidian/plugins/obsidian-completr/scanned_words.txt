@@ -238,6 +238,7 @@ Localizo
 Lens
 Lenz
 Linealmente
+Laplace
 subespacios
 subespacio
 se
@@ -627,6 +628,9 @@ sencila
 scanned
 strongly
 sucesion
+seguir
+sucesi
+siguientes
 vectoriales
 vectorial
 vacio
@@ -1319,6 +1323,7 @@ dio
 declara
 deleted
 desired
+diremos
 cumplir
 condiciones
 cartesianas
@@ -1814,6 +1819,11 @@ commands
 completr
 conflicted
 conflicts
+conozco
+compuesto
+caras
+continuidad
+complementario
 las
 la
 lo
@@ -2454,6 +2464,8 @@ espaciado
 each
 every
 excluyentes
+experimento
+equiprobable
 adicionalmente
 alguna
 al
@@ -3435,6 +3447,7 @@ Seg
 Sistemas
 Sino
 Source
+SON
 un
 una
 usando
@@ -4457,6 +4470,11 @@ pos
 premite
 preciso
 plugins
+probabilidad
+probabilidades
+propiedades
+perteneciente
+pertenecientes
 br
 borde
 busco
@@ -5101,6 +5119,9 @@ representar
 resolve
 recommend
 replace
+resultados
+reduciendo
+realizo
 Volumen
 Variable
 Ver
@@ -5637,6 +5658,7 @@ Combinaciones
 Caso
 Cua
 Conflicts
+Contiene
 Esf
 Entonces
 Esto
@@ -5903,6 +5925,9 @@ Epimorfismo
 Estar
 Extension
 Estandar
+Experimento
+Eventos
+Elementales
 Integrales
 Importantes
 Igualo
@@ -6761,6 +6786,7 @@ Desigualdad
 Direcci
 Dados
 Decimales
+Dado
 obtenemos
 orientaci
 orientable
@@ -7062,6 +7088,8 @@ organizacion
 operaciones
 obsidian
 occurrence
+ocurrir
+ocurri
 mide
 mas
 mediante
@@ -7406,6 +7434,9 @@ mantisa
 magnitud
 mode
 mutuamente
+muestral
+muestras
+mutualmente
 que
 queda
 quede
@@ -8180,6 +8211,8 @@ indistinguibles
 identico
 int
 infinto
+irreductibles
+impares
 frontera
 flujo
 forma
@@ -8493,6 +8526,9 @@ followed
 file
 for
 following
+formula
+familia
+funci
 gira
 green
 gradiente
@@ -9561,6 +9597,8 @@ Alterna
 Adem
 Algebra
 Additional
+Aleatorio
+Axioma
 Final
 Flujo
 Fuerza
@@ -9802,6 +9840,7 @@ FEM
 Fraunhofer
 Formato
 For
+Frecuencia
 Potencial
 Para
 Punto
@@ -10089,6 +10128,7 @@ Proyecciones
 Proyecta
 Permutaciones
 Please
+Probabilidad
 Hipotesis
 HbgIcQAl
 HJM
@@ -12050,6 +12090,7 @@ Resta
 Respecto
 Rango
 Representacion
+Relativa
 Ya
 YUV
 YLO

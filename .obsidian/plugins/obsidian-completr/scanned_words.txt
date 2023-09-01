@@ -634,6 +634,8 @@ siguientes
 stisface
 satisface
 sucesos
+subarboles
+subarbol
 vectoriales
 vectorial
 vacio
@@ -938,6 +940,8 @@ vec
 voy
 vara
 viewing
+vertice
+visita
 deben
 de
 diferenciales
@@ -1327,6 +1331,7 @@ declara
 deleted
 desired
 diremos
+dividen
 cumplir
 condiciones
 cartesianas
@@ -1830,6 +1835,9 @@ complementario
 condicional
 cap
 coincide
+conectados
+conectada
+copia
 las
 la
 lo
@@ -2098,6 +2106,8 @@ limitadas
 listafuiba
 list
 listed
+llamado
+listo
 enunciadas
 en
 espacio
@@ -2473,6 +2483,7 @@ excluyentes
 experimento
 equiprobable
 esas
+ero
 adicionalmente
 alguna
 al
@@ -2859,6 +2870,8 @@ available
 above
 aditividad
 axiomas
+ayudan
+arboles
 tres
 theta
 tiene
@@ -4040,6 +4053,9 @@ numerico
 nuevos
 neg
 normalizados
+normalmente
+niveles
+nuevo
 pertenecen
 pertenece
 pi
@@ -4485,6 +4501,8 @@ perteneciente
 pertenecientes
 partici
 prob
+padres
+preorder
 br
 borde
 busco
@@ -4777,6 +4795,9 @@ be
 before
 below
 blocks
+borrado
+busqueda
+buscado
 ricas
 respectivamente
 recorre
@@ -5132,6 +5153,7 @@ replace
 resultados
 reduciendo
 realizo
+rama
 Volumen
 Variable
 Ver
@@ -5669,6 +5691,9 @@ Caso
 Cua
 Conflicts
 Contiene
+Coleccion
+Comparamos
+Comparo
 Esf
 Entonces
 Esto
@@ -6235,6 +6260,8 @@ Isomorfismo
 Inyectiva
 IEEE
 Instructions
+Inorder
+Inserccion
 Triples
 Teorema
 Teoremas
@@ -7449,6 +7476,8 @@ mutuamente
 muestral
 muestras
 mutualmente
+manera
+multiples
 que
 queda
 quede
@@ -8226,6 +8255,7 @@ infinto
 irreductibles
 impares
 intersecci
+izq
 frontera
 flujo
 forma
@@ -8542,6 +8572,8 @@ following
 formula
 familia
 funci
+fiel
+fin
 gira
 green
 gradiente
@@ -9612,6 +9644,7 @@ Algebra
 Additional
 Aleatorio
 Axioma
+Arboles
 Final
 Flujo
 Fuerza
@@ -10142,6 +10175,8 @@ Proyecta
 Permutaciones
 Please
 Probabilidad
+Preorden
+Postorder
 Hipotesis
 HbgIcQAl
 HJM
@@ -12104,6 +12139,8 @@ Respecto
 Rango
 Representacion
 Relativa
+Recorrido
+Repetimos
 Ya
 YUV
 YLO
@@ -14498,6 +14535,8 @@ BOG
 Bunyakovsky
 BASE
 Bayes
+Borra
+Busqueda
 äU
 äI
 XJV

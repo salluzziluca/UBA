@@ -643,6 +643,7 @@ suben
 sumar
 signed
 sencila
+secuencia
 vectoriales
 vectorial
 vacio
@@ -2517,6 +2518,7 @@ exponente
 estandarizado
 especiales
 espaciado
+explote
 adicionalmente
 alguna
 al
@@ -2906,6 +2908,7 @@ above
 analista
 avanzado
 altisimos
+asigna
 tres
 theta
 tiene

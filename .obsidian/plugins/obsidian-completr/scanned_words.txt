@@ -10566,6 +10566,7 @@ HX
 HEy
 Hci
 HICISTE
+Hexadecimal
 ya
 yRZ
 yD

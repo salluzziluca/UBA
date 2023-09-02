@@ -242,6 +242,7 @@ LLX
 LQb
 Laplace
 Learning
+LaKJuE
 subespacios
 subespacio
 se
@@ -2909,6 +2910,7 @@ analista
 avanzado
 altisimos
 asigna
+aliases
 tres
 theta
 tiene
@@ -5490,6 +5492,7 @@ VuJ
 Variaciones
 Visualizacion
 Vamos
+VFV
 Cartesianas
 Cil
 Cambios
@@ -10337,6 +10340,7 @@ Permutaciones
 Please
 Problemas
 Pandas
+Pei
 Hipotesis
 HbgIcQAl
 HJM
@@ -12815,6 +12819,8 @@ Wur
 WHC
 WcK
 WsN
+WoOR
+WAqg
 xpqa
 xDD
 xZ
@@ -14051,6 +14057,7 @@ kIDAT
 keNum
 kAa
 kIr
+kGZZ
 Qa
 Qe
 QUU

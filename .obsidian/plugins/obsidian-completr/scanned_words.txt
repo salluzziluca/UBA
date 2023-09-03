@@ -645,6 +645,7 @@ sumar
 signed
 sencila
 secuencia
+sencilla
 vectoriales
 vectorial
 vacio
@@ -1860,6 +1861,7 @@ comparacion
 com
 conviene
 cssclasses
+comparaci
 las
 la
 lo

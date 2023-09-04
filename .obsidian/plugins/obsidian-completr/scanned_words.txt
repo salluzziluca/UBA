@@ -243,6 +243,8 @@ LQb
 Laplace
 Learning
 LaKJuE
+Lineplot
+Lollipop
 subespacios
 subespacio
 se
@@ -648,6 +650,8 @@ secuencia
 sencilla
 satisface
 sucesos
+simples
+separar
 vectoriales
 vectorial
 vacio
@@ -956,6 +960,8 @@ vju
 viewing
 vistas
 visualizar
+visuales
+visualizaciones
 deben
 de
 diferenciales
@@ -1350,6 +1356,14 @@ dio
 declara
 desviados
 dibujar
+definidos
+distribuci
+dato
+diome
+discreta
+dispersan
+diagram
+distribuyen
 cumplir
 condiciones
 cartesianas
@@ -1867,6 +1881,15 @@ cssclasses
 comparaci
 condicional
 coincide
+contar
+complejidad
+continuos
+cantidades
+claras
+cuartiles
+chart
+cloud
+coloreado
 las
 la
 lo
@@ -2529,6 +2552,8 @@ especiales
 espaciado
 explote
 esas
+esqueleto
+espejado
 adicionalmente
 alguna
 al
@@ -2923,6 +2948,8 @@ aliases
 asdsa
 aditividad
 axiomas
+agrupados
+ayudar
 tres
 theta
 tiene
@@ -3266,6 +3293,7 @@ tablas
 totales
 tales
 teoremateorema
+tiles
 Sea
 Si
 Superficie
@@ -3540,6 +3568,9 @@ Science
 Scientist
 Series
 Sino
+Stacked
+Scatter
+Sankey
 un
 una
 usando
@@ -4595,6 +4626,10 @@ pivot
 pivotear
 prob
 partici
+plot
+parten
+porcentaje
+plots
 br
 borde
 busco
@@ -4889,6 +4924,8 @@ before
 below
 blocks
 bajisimos
+barras
+bigotes
 ricas
 respectivamente
 recorre
@@ -5256,6 +5293,8 @@ recomendar
 relacionan
 representado
 representar
+relacion
+regresion
 Volumen
 Variable
 Ver
@@ -5510,6 +5549,8 @@ Variaciones
 Visualizacion
 Vamos
 VFV
+Violin
+Venn
 Cartesianas
 Cil
 Cambios
@@ -5804,6 +5845,7 @@ Caso
 Conflicts
 Conocimientos
 Cua
+Choropleth
 Esf
 Entonces
 Esto
@@ -6661,6 +6703,8 @@ TbQ
 TrA
 This
 Teoricas
+Tienen
+Tree
 Dejando
 DEN
 De
@@ -6954,6 +6998,8 @@ Data
 DataFrames
 Datos
 Decimos
+Density
+Diagrama
 obtenemos
 orientaci
 orientable
@@ -7264,6 +7310,9 @@ opcional
 operaciones
 outlier
 ocurrido
+objetivos
+obviamente
+outliers
 mide
 mas
 mediante
@@ -7615,6 +7664,12 @@ machine
 mantisa
 magnitud
 mutuamente
+metaforas
+met
+mejor
+mediana
+map
+mapa
 que
 queda
 quede
@@ -8733,6 +8788,7 @@ following
 factorizacion
 flag
 formateados
+foras
 gira
 green
 gradiente
@@ -10363,6 +10419,10 @@ Please
 Problemas
 Pandas
 Pei
+Plot
+Pie
+Plots
+Permite
 Hipotesis
 HbgIcQAl
 HJM
@@ -10587,6 +10647,8 @@ HEy
 Hci
 HICISTE
 Hexadecimal
+Histograma
+Heatmap
 ya
 yRZ
 yD
@@ -11311,6 +11373,7 @@ MuJ
 MoN
 MW
 Machine
+Muestra
 OPTIONS
 OV
 OP
@@ -12360,6 +12423,8 @@ Rx
 Rc
 Relativa
 Roles
+Regression
+Radar
 Ya
 YUV
 YLO
@@ -12844,6 +12909,7 @@ WcK
 WsN
 WoOR
 WAqg
+Word
 xpqa
 xDD
 xZ
@@ -14790,6 +14856,8 @@ BcA
 BNE
 Buenas
 Bayes
+Box
+Bar
 äU
 äI
 XJV

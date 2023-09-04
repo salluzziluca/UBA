@@ -3265,6 +3265,7 @@ tengamos
 tablas
 totales
 tales
+teoremateorema
 Sea
 Si
 Superficie

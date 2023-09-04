@@ -1349,6 +1349,7 @@ dividiendo
 dio
 declara
 desviados
+dibujar
 cumplir
 condiciones
 cartesianas
@@ -3837,6 +3838,7 @@ using
 use
 unsigned
 ultima
+utilizado
 no
 ndricas
 nulo
@@ -4591,6 +4593,7 @@ preciso
 pivot
 pivotear
 prob
+partici
 br
 borde
 busco
@@ -6949,6 +6952,7 @@ Dados
 Data
 DataFrames
 Datos
+Decimos
 obtenemos
 orientaci
 orientable
@@ -9021,6 +9025,7 @@ grabadas
 guarda
 gmail
 groupby
+geometrica
 Gauss
 Green
 GC
@@ -14783,6 +14788,7 @@ BASE
 BcA
 BNE
 Buenas
+Bayes
 äU
 äI
 XJV

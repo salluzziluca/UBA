@@ -1890,6 +1890,7 @@ cuartiles
 chart
 cloud
 coloreado
+concepto
 las
 la
 lo
@@ -2554,6 +2555,8 @@ explote
 esas
 esqueleto
 espejado
+exitosa
+estructura
 adicionalmente
 alguna
 al
@@ -2950,6 +2953,7 @@ aditividad
 axiomas
 agrupados
 ayudar
+apariencia
 tres
 theta
 tiene
@@ -3294,6 +3298,7 @@ totales
 tales
 teoremateorema
 tiles
+til
 Sea
 Si
 Superficie
@@ -3871,6 +3876,7 @@ use
 unsigned
 ultima
 utilizado
+usada
 no
 ndricas
 nulo
@@ -4926,6 +4932,7 @@ blocks
 bajisimos
 barras
 bigotes
+belleza
 ricas
 respectivamente
 recorre
@@ -5551,6 +5558,8 @@ Vamos
 VFV
 Violin
 Venn
+Visualizaci
+Visual
 Cartesianas
 Cil
 Cambios
@@ -7670,6 +7679,7 @@ mejor
 mediana
 map
 mapa
+metaforicos
 que
 queda
 quede
@@ -8463,6 +8473,8 @@ indexadas
 int
 infinto
 intersecci
+informaci
+interesante
 frontera
 flujo
 forma
@@ -8789,6 +8801,7 @@ factorizacion
 flag
 formateados
 foras
+fora
 gira
 green
 gradiente
@@ -10649,6 +10662,7 @@ HICISTE
 Hexadecimal
 Histograma
 Heatmap
+Historia
 ya
 yRZ
 yD
@@ -11374,6 +11388,7 @@ MoN
 MW
 Machine
 Muestra
+Met
 OPTIONS
 OV
 OP
@@ -11625,6 +11640,7 @@ OuJ
 OhP
 OTJ
 Oiu
+Objetivo
 Una
 Un
 UI

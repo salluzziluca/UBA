@@ -647,6 +647,7 @@ sencila
 secuencia
 sencilla
 satisface
+sucesos
 vectoriales
 vectorial
 vacio
@@ -1864,6 +1865,7 @@ conviene
 cssclasses
 comparaci
 condicional
+coincide
 las
 la
 lo
@@ -2525,6 +2527,7 @@ estandarizado
 especiales
 espaciado
 explote
+esas
 adicionalmente
 alguna
 al
@@ -4587,6 +4590,7 @@ premite
 preciso
 pivot
 pivotear
+prob
 br
 borde
 busco
@@ -8398,6 +8402,7 @@ indice
 indexadas
 int
 infinto
+intersecci
 frontera
 flujo
 forma

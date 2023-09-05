@@ -1,1 +1,2 @@
-[[1.1 Sistemas de Representacion Numérica]]
+[[1.0 Sistema de Representación numérica]]
+[[2.0 Álgebra de Bool]]

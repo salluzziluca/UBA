@@ -600,6 +600,12 @@ subconjuntos
 salgan
 sucesion
 stisface
+scanned
+strongly
+satisface
+sucesi
+siguientes
+sucesos
 vectoriales
 vectorial
 vacio
@@ -892,6 +898,7 @@ volumetricas
 velocidad
 vemos
 valida
+viewing
 deben
 de
 diferenciales
@@ -1238,6 +1245,9 @@ distinto
 disitntas
 dej
 disponibles
+deleted
+desired
+diremos
 cumplir
 condiciones
 cartesianas
@@ -1687,6 +1697,15 @@ clase
 cruces
 condicional
 cap
+commit
+commands
+completr
+conflicted
+conflicts
+corresponden
+continuidad
+complementario
+coincide
 las
 la
 lo
@@ -1945,6 +1964,8 @@ lambda
 libros
 lso
 letras
+list
+listed
 enunciadas
 en
 espacio
@@ -2285,6 +2306,9 @@ esima
 embocar
 enunciado
 excluyentes
+each
+every
+esas
 adicionalmente
 alguna
 al
@@ -2639,6 +2663,9 @@ autoespacio
 anagrama
 aditividad
 axiomas
+automatically
+available
+above
 tres
 theta
 tiene
@@ -2950,6 +2977,8 @@ transforma
 tnemos
 tablita
 tales
+them
+txt
 Sea
 Si
 Superficie
@@ -3205,6 +3234,7 @@ SOLO
 Schmidt
 Singleton
 Slack
+Source
 un
 una
 usando
@@ -3494,6 +3524,8 @@ usen
 unitaria
 urnas
 urna
+using
+use
 no
 ndricas
 nulo
@@ -4176,6 +4208,12 @@ palitos
 posiciones
 palos
 probabilidad
+plugins
+probabilidades
+propiedades
+perteneciente
+pertenecientes
+prob
 br
 borde
 busco
@@ -4452,6 +4490,10 @@ bar
 bola
 bolas
 bolitas
+be
+before
+below
+blocks
 ricas
 respectivamente
 recorre
@@ -4766,6 +4808,9 @@ regulares
 reales
 rotaci
 repetidos
+resolve
+recommend
+replace
 Volumen
 Variable
 Ver
@@ -5281,6 +5326,7 @@ Corriente
 Cambio
 Combinaciones
 Caso
+Conflicts
 Esf
 Entonces
 Esto
@@ -5825,6 +5871,7 @@ Implementaciones
 Intensidad
 Identifico
 Invocaciones
+Instructions
 Triples
 Teorema
 Teoremas
@@ -6095,6 +6142,7 @@ Tareas
 Terminar
 Toda
 Transformacion
+This
 Dejando
 DEN
 De
@@ -6370,6 +6418,7 @@ DISTINTOS
 Diremos
 Det
 Dados
+Dado
 obtenemos
 orientaci
 orientable
@@ -6661,6 +6710,9 @@ ortogonalmente
 operador
 ordenados
 ocurrido
+obsidian
+occurrence
+ocurri
 mide
 mas
 mediante
@@ -6980,6 +7032,8 @@ muestra
 matrices
 meter
 mutuamente
+mode
+mutualmente
 que
 queda
 quede
@@ -7728,6 +7782,7 @@ instante
 inversible
 iguales
 indistinguibles
+intersecci
 frontera
 flujo
 forma
@@ -8022,6 +8077,13 @@ fundamentales
 formarse
 formar
 fuesen
+followed
+file
+for
+following
+familia
+funci
+formula
 gira
 green
 gradiente
@@ -9070,6 +9132,9 @@ Analizados
 Alarmas
 Aprobado
 Algo
+Additional
+Algebra
+Axioma
 Final
 Flujo
 Fuerza
@@ -9304,6 +9369,7 @@ Ferromagn
 FINALMENTE
 Ftotal
 Formula
+For
 Potencial
 Para
 Punto
@@ -9581,6 +9647,8 @@ PIC
 Pautas
 Precision
 Permutaciones
+Please
+Probabilidad
 Hipotesis
 HbgIcQAl
 HJM
@@ -10247,6 +10315,7 @@ Nse
 Negatividad
 Negro
 Nodos
+Not
 MORE
 MYk
 MDD
@@ -11267,6 +11336,9 @@ write
 wGg
 wLj
 wXWvl
+will
+words
+with
 Recordemos
 RA
 RF

@@ -636,6 +636,7 @@ satisface
 sucesos
 subarboles
 subarbol
+similar
 vectoriales
 vectorial
 vacio
@@ -2873,6 +2874,8 @@ aditividad
 axiomas
 ayudan
 arboles
+algebra
+absorbente
 tres
 theta
 tiene
@@ -5696,6 +5699,7 @@ Contiene
 Coleccion
 Comparamos
 Comparo
+Compuerta
 Esf
 Entonces
 Esto
@@ -8258,6 +8262,7 @@ irreductibles
 impares
 intersecci
 izq
+idempotencia
 frontera
 flujo
 forma
@@ -9647,6 +9652,7 @@ Additional
 Aleatorio
 Axioma
 Arboles
+Absorcion
 Final
 Flujo
 Fuerza
@@ -10848,6 +10854,8 @@ Negro
 Nodos
 Norma
 Not
+NAND
+NOR
 MORE
 MYk
 MDD
@@ -14774,5 +14782,6 @@ XVTf
 XW
 XBLHb
 Xwk
+XOR
 üav
 öV

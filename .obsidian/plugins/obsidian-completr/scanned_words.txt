@@ -610,6 +610,7 @@ siguientes
 sucesos
 simples
 separar
+secuencia
 vectoriales
 vectorial
 vacio
@@ -1263,6 +1264,7 @@ discreta
 dispersan
 diagram
 distribuyen
+desviados
 cumplir
 condiciones
 cartesianas
@@ -1732,6 +1734,9 @@ cuanto
 chart
 cloud
 coloreado
+conformados
+cargar
+conviene
 las
 la
 lo
@@ -1992,6 +1997,8 @@ lso
 letras
 list
 listed
+labura
+listas
 enunciadas
 en
 espacio
@@ -2337,6 +2344,9 @@ every
 esas
 esqueleto
 espejado
+extraer
+estas
+explote
 adicionalmente
 alguna
 al
@@ -2697,6 +2707,7 @@ above
 agrupados
 aquellos
 ayudar
+asigna
 tres
 theta
 tiene
@@ -3011,6 +3022,9 @@ tales
 them
 txt
 tiles
+tengamos
+tablas
+table
 Sea
 Si
 Superficie
@@ -3839,6 +3853,7 @@ nota
 neto
 ngulo
 notamos
+nuestros
 pertenecen
 pertenece
 pi
@@ -4255,6 +4270,11 @@ plot
 parten
 porcentaje
 plots
+pedirle
+practicas
+preguntas
+pivot
+pivotear
 br
 borde
 busco
@@ -5102,6 +5122,7 @@ Verificar
 Variaciones
 Violin
 Venn
+Vamos
 Cartesianas
 Cil
 Cambios
@@ -6473,6 +6494,8 @@ Dados
 Dado
 Density
 Diagrama
+DataFrames
+Datos
 obtenemos
 orientaci
 orientable
@@ -6770,6 +6793,7 @@ ocurri
 objetivos
 obviamente
 outliers
+outlier
 mide
 mas
 mediante
@@ -7319,6 +7343,7 @@ qAkk
 quedaria
 quimicas
 quizas
+quiero
 hasta
 hacia
 hay
@@ -7575,6 +7600,7 @@ hagan
 haber
 herm
 hago
+herramientas
 image
 iria
 incluya
@@ -7848,6 +7874,8 @@ inversible
 iguales
 indistinguibles
 intersecci
+indice
+indexadas
 frontera
 flujo
 forma
@@ -8150,6 +8178,7 @@ familia
 funci
 formula
 foras
+formateados
 gira
 green
 gradiente
@@ -8431,6 +8460,7 @@ gica
 generan
 globales
 graves
+groupby
 Gauss
 Green
 GC
@@ -9719,6 +9749,7 @@ Plot
 Pie
 Plots
 Permite
+Pandas
 Hipotesis
 HbgIcQAl
 HJM
@@ -14054,6 +14085,7 @@ Base
 BON
 Box
 Bar
+Buenas
 äU
 äI
 XJV

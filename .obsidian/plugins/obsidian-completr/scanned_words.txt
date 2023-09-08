@@ -652,6 +652,7 @@ satisface
 sucesos
 simples
 separar
+sdecir
 vectoriales
 vectorial
 vacio
@@ -1364,6 +1365,7 @@ discreta
 dispersan
 diagram
 distribuyen
+discretas
 cumplir
 condiciones
 cartesianas
@@ -1891,6 +1893,7 @@ chart
 cloud
 coloreado
 concepto
+contituyen
 las
 la
 lo
@@ -2954,6 +2957,9 @@ axiomas
 agrupados
 ayudar
 apariencia
+aleatoria
+aleatorias
+asociamos
 tres
 theta
 tiene
@@ -4173,6 +4179,7 @@ noticia
 nuestros
 neg
 normalizados
+numerable
 pertenecen
 pertenece
 pi
@@ -4636,6 +4643,9 @@ plot
 parten
 porcentaje
 plots
+proba
+props
+probabiilidad
 br
 borde
 busco
@@ -5560,6 +5570,7 @@ Violin
 Venn
 Visualizaci
 Visual
+VAD
 Cartesianas
 Cil
 Cambios
@@ -7009,6 +7020,7 @@ Datos
 Decimos
 Density
 Diagrama
+Def
 obtenemos
 orientaci
 orientable
@@ -7680,6 +7692,7 @@ mediana
 map
 mapa
 metaforicos
+monotona
 que
 queda
 quede
@@ -8802,6 +8815,7 @@ flag
 formateados
 foras
 fora
+finito
 gira
 green
 gradiente
@@ -10436,6 +10450,7 @@ Plot
 Pie
 Plots
 Permite
+Proposici
 Hipotesis
 HbgIcQAl
 HJM

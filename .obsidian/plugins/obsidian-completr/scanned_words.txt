@@ -611,6 +611,7 @@ sucesos
 simples
 separar
 secuencia
+sdecir
 vectoriales
 vectorial
 vacio
@@ -1266,6 +1267,7 @@ diagram
 distribuyen
 desviados
 descargas
+discretas
 cumplir
 condiciones
 cartesianas
@@ -1739,6 +1741,7 @@ conformados
 cargar
 conviene
 category
+contituyen
 las
 la
 lo
@@ -2713,6 +2716,9 @@ asigna
 astype
 ahorrar
 asocia
+aleatoria
+aleatorias
+asociamos
 tres
 theta
 tiene
@@ -3860,6 +3866,7 @@ neto
 ngulo
 notamos
 nuestros
+numerable
 pertenecen
 pertenece
 pi
@@ -4282,6 +4289,9 @@ preguntas
 pivot
 pivotear
 paga
+proba
+props
+probabiilidad
 br
 borde
 busco
@@ -4890,6 +4900,7 @@ reviews
 reshapear
 reduciendo
 reconvertirlo
+resultados
 Volumen
 Variable
 Ver
@@ -5135,6 +5146,7 @@ Variaciones
 Violin
 Venn
 Vamos
+VAD
 Cartesianas
 Cil
 Cambios
@@ -6508,6 +6520,7 @@ Density
 Diagrama
 DataFrames
 Datos
+Def
 obtenemos
 orientaci
 orientable
@@ -7135,6 +7148,8 @@ maximo
 minimo
 map
 mapa
+muestral
+monotona
 que
 queda
 quede
@@ -8193,6 +8208,7 @@ funci
 formula
 foras
 formateados
+finito
 gira
 green
 gradiente
@@ -9766,6 +9782,7 @@ Plots
 Permite
 Pandas
 Pregunta
+Proposici
 Hipotesis
 HbgIcQAl
 HJM
@@ -11710,6 +11727,7 @@ Reproducir
 Regla
 Regression
 Radar
+Rango
 Ya
 YUV
 YLO

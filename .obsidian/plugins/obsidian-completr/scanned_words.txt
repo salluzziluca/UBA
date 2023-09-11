@@ -245,6 +245,8 @@ Learning
 LaKJuE
 Lineplot
 Lollipop
+Lenguaje
+Lemmatization
 subespacios
 subespacio
 se
@@ -654,6 +656,12 @@ simples
 separar
 sdecir
 similar
+stemming
+sacado
+similaridad
+significado
+stopwords
+sobtre
 vectoriales
 vectorial
 vacio
@@ -964,6 +972,10 @@ vistas
 visualizar
 visuales
 visualizaciones
+vayan
+vacias
+voz
+vecto
 deben
 de
 diferenciales
@@ -1367,6 +1379,10 @@ dispersan
 diagram
 distribuyen
 discretas
+detr
+documentos
+docus
+diccionario
 cumplir
 condiciones
 cartesianas
@@ -1895,6 +1911,18 @@ cloud
 coloreado
 concepto
 contituyen
+computadora
+calculamos
+comer
+comemos
+caballo
+caballeria
+caball
+canto
+canta
+cantamos
+cantan
+cant
 las
 la
 lo
@@ -2171,6 +2199,9 @@ learning
 labura
 listas
 listafuiba
+linguistica
+lenguaje
+lemma
 enunciadas
 en
 espacio
@@ -2561,6 +2592,8 @@ esqueleto
 espejado
 exitosa
 estructura
+entienda
+emocion
 adicionalmente
 alguna
 al
@@ -2963,6 +2996,11 @@ aleatorias
 asociamos
 algebra
 absorbente
+armamos
+aparece
+alto
+articulos
+analisis
 tres
 theta
 tiene
@@ -3308,6 +3346,15 @@ tales
 teoremateorema
 tiles
 til
+texto
+temas
+textos
+twitter
+traducci
+tokenizar
+term
+token
+tokens
 Sea
 Si
 Superficie
@@ -3585,6 +3632,7 @@ Sino
 Stacked
 Scatter
 Sankey
+Stopwords
 un
 una
 usando
@@ -3886,6 +3934,8 @@ unsigned
 ultima
 utilizado
 usada
+usualmente
+unidades
 no
 ndricas
 nulo
@@ -4182,6 +4232,7 @@ nuestros
 neg
 normalizados
 numerable
+normalizar
 pertenecen
 pertenece
 pi
@@ -4648,6 +4699,12 @@ plots
 proba
 props
 probabiilidad
+pagina
+primeras
+palabra
+preposiciones
+procesamiento
+plaabras
 br
 borde
 busco
@@ -5314,6 +5371,7 @@ representado
 representar
 relacion
 regresion
+repetidas
 Volumen
 Variable
 Ver
@@ -5573,6 +5631,7 @@ Venn
 Visualizaci
 Visual
 VAD
+Vectorizer
 Cartesianas
 Cil
 Cambios
@@ -5869,6 +5928,7 @@ Conocimientos
 Cua
 Choropleth
 Compuerta
+Count
 Esf
 Entonces
 Esto
@@ -6144,6 +6204,7 @@ Estar
 Engineer
 Extension
 Estandar
+Entender
 Integrales
 Importantes
 Igualo
@@ -6444,6 +6505,7 @@ Ize
 IbB
 Instructions
 IEEE
+IDF
 Triples
 Teorema
 Teoremas
@@ -6728,6 +6790,8 @@ This
 Teoricas
 Tienen
 Tree
+Tokenizar
+Term
 Dejando
 DEN
 De
@@ -7024,6 +7088,7 @@ Decimos
 Density
 Diagrama
 Def
+Detectar
 obtenemos
 orientaci
 orientable
@@ -7696,6 +7761,8 @@ map
 mapa
 metaforicos
 monotona
+muchos
+mensajes
 que
 queda
 quede
@@ -7924,6 +7991,7 @@ qAK
 qQTabU
 qcu
 qd
+query
 hasta
 hacia
 hay
@@ -8185,6 +8253,9 @@ hzw
 hd
 herramientas
 huevo
+humano
+hecho
+hablamos
 image
 iria
 incluya
@@ -8492,6 +8563,7 @@ intersecci
 informaci
 interesante
 idempotencia
+inverse
 frontera
 flujo
 forma
@@ -8820,6 +8892,8 @@ formateados
 foras
 fora
 finito
+foros
+frequency
 gira
 green
 gradiente
@@ -10158,6 +10232,7 @@ FVXA
 Frecuencia
 For
 Formato
+Frequency
 Potencial
 Para
 Punto
@@ -10456,6 +10531,7 @@ Pie
 Plots
 Permite
 Proposici
+Procesamiento
 Hipotesis
 HbgIcQAl
 HJM
@@ -11149,6 +11225,9 @@ NwF
 Not
 NAND
 NOR
+Natural
+NLP
+Normalizacion
 MORE
 MYk
 MDD
@@ -11411,6 +11490,7 @@ MW
 Machine
 Muestra
 Met
+Moderar
 OPTIONS
 OV
 OP
@@ -14896,6 +14976,9 @@ Buenas
 Bayes
 Box
 Bar
+Busqueda
+Bag
+BOW
 äU
 äI
 XJV

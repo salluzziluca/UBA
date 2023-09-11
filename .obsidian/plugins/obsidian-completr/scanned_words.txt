@@ -653,6 +653,7 @@ sucesos
 simples
 separar
 sdecir
+similar
 vectoriales
 vectorial
 vacio
@@ -2960,6 +2961,8 @@ apariencia
 aleatoria
 aleatorias
 asociamos
+algebra
+absorbente
 tres
 theta
 tiene
@@ -5865,6 +5868,7 @@ Conflicts
 Conocimientos
 Cua
 Choropleth
+Compuerta
 Esf
 Entonces
 Esto
@@ -8487,6 +8491,7 @@ infinto
 intersecci
 informaci
 interesante
+idempotencia
 frontera
 flujo
 forma
@@ -9907,6 +9912,7 @@ Analyst
 Areas
 Administrativa
 AVA
+Absorcion
 Final
 Flujo
 Fuerza
@@ -11141,6 +11147,8 @@ Nü
 NrJ
 NwF
 Not
+NAND
+NOR
 MORE
 MYk
 MDD
@@ -15132,5 +15140,6 @@ XKL
 XXPc
 Xhn
 Xu
+XOR
 üav
 öV

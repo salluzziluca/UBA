@@ -667,6 +667,7 @@ sobtre
 sujetos
 sustituir
 simplificacion
+solamente
 vectoriales
 vectorial
 vacio
@@ -983,6 +984,7 @@ voz
 vecto
 validez
 verdad
+valen
 deben
 de
 diferenciales
@@ -1933,6 +1935,7 @@ cantan
 cant
 conjuntod
 combinacional
+combinaciones
 las
 la
 lo
@@ -2610,6 +2613,7 @@ expresi
 expresar
 expresiones
 excluyente
+expresion
 adicionalmente
 alguna
 al
@@ -3020,6 +3024,8 @@ analisis
 afectar
 algebraicas
 atomos
+asegura
+adyacentes
 tres
 theta
 tiene
@@ -4729,6 +4735,7 @@ plaabras
 probabilida
 probas
 puro
+pegados
 br
 borde
 busco
@@ -7792,6 +7799,7 @@ mensajes
 maxiterminos
 miniterminos
 medir
+minivalores
 que
 queda
 quede
@@ -8928,6 +8936,7 @@ frequency
 funciones
 fiable
 fico
+formal
 gira
 green
 gradiente
@@ -10569,6 +10578,7 @@ Plots
 Permite
 Proposici
 Procesamiento
+Pero
 Hipotesis
 HbgIcQAl
 HJM
@@ -12585,6 +12595,7 @@ Relativa
 Roles
 Regression
 Radar
+Represento
 Ya
 YUV
 YLO

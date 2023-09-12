@@ -1388,6 +1388,7 @@ detr
 documentos
 docus
 diccionario
+discontinuidad
 cumplir
 condiciones
 cartesianas
@@ -1928,6 +1929,7 @@ canta
 cantamos
 cantan
 cant
+conjuntod
 las
 la
 lo
@@ -2207,6 +2209,7 @@ listafuiba
 linguistica
 lenguaje
 lemma
+les
 enunciadas
 en
 espacio
@@ -2603,6 +2606,7 @@ equivalencia
 expresi
 expresar
 expresiones
+excluyente
 adicionalmente
 alguna
 al
@@ -3012,6 +3016,7 @@ articulos
 analisis
 afectar
 algebraicas
+atomos
 tres
 theta
 tiene
@@ -3366,6 +3371,7 @@ tokenizar
 term
 token
 tokens
+tomos
 Sea
 Si
 Superficie
@@ -3644,6 +3650,7 @@ Stacked
 Scatter
 Sankey
 Stopwords
+Soporte
 un
 una
 usando
@@ -4716,6 +4723,8 @@ palabra
 preposiciones
 procesamiento
 plaabras
+probabilida
+probas
 br
 borde
 busco
@@ -7778,6 +7787,7 @@ muchos
 mensajes
 maxiterminos
 miniterminos
+medir
 que
 queda
 quede
@@ -8579,6 +8589,7 @@ informaci
 interesante
 idempotencia
 inverse
+intervalos
 frontera
 flujo
 forma
@@ -11509,6 +11520,7 @@ Muestra
 Met
 Moderar
 Morgan
+Mixta
 OPTIONS
 OV
 OP

@@ -248,6 +248,7 @@ Lollipop
 Lenguaje
 Lemmatization
 Leyes
+Logica
 subespacios
 subespacio
 se
@@ -665,6 +666,7 @@ stopwords
 sobtre
 sujetos
 sustituir
+simplificacion
 vectoriales
 vectorial
 vacio
@@ -1930,6 +1932,7 @@ cantamos
 cantan
 cant
 conjuntod
+combinacional
 las
 la
 lo
@@ -4725,6 +4728,7 @@ procesamiento
 plaabras
 probabilida
 probas
+puro
 br
 borde
 busco
@@ -8017,6 +8021,7 @@ qQTabU
 qcu
 qd
 query
+quine
 hasta
 hacia
 hay
@@ -8921,6 +8926,8 @@ finito
 foros
 frequency
 funciones
+fiable
+fico
 gira
 green
 gradiente
@@ -9485,6 +9492,7 @@ GUI
 Generalizaci
 Genero
 Gradescope
+Gr
 jacobiana
 jacobinao
 jue
@@ -10015,6 +10023,7 @@ Areas
 Administrativa
 AVA
 Absorcion
+Algebraico
 Final
 Flujo
 Fuerza
@@ -11521,6 +11530,9 @@ Met
 Moderar
 Morgan
 Mixta
+Metodos
+Mapa
+McCluskey
 OPTIONS
 OV
 OP
@@ -14050,6 +14062,7 @@ Kgk
 KWo
 KIh
 KIz
+Karnaugh
 kt
 ku
 kSe

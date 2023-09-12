@@ -1393,6 +1393,8 @@ documentos
 docus
 diccionario
 discontinuidad
+dejaria
+dont
 cumplir
 condiciones
 cartesianas
@@ -1936,6 +1938,7 @@ cant
 conjuntod
 combinacional
 combinaciones
+care
 las
 la
 lo
@@ -2614,6 +2617,8 @@ expresar
 expresiones
 excluyente
 expresion
+efectivamente
+escencial
 adicionalmente
 alguna
 al
@@ -3026,6 +3031,7 @@ algebraicas
 atomos
 asegura
 adyacentes
+abarquen
 tres
 theta
 tiene
@@ -4736,6 +4742,7 @@ probabilida
 probas
 puro
 pegados
+primos
 br
 borde
 busco
@@ -6539,6 +6546,7 @@ Instructions
 IEEE
 IDF
 Involuci
+Implicante
 Triples
 Teorema
 Teoremas
@@ -7435,6 +7443,7 @@ ocurrido
 objetivos
 obviamente
 outliers
+obtengo
 mide
 mas
 mediante
@@ -8603,6 +8612,7 @@ interesante
 idempotencia
 inverse
 intervalos
+implicantes
 frontera
 flujo
 forma
@@ -8937,6 +8947,7 @@ funciones
 fiable
 fico
 formal
+factor
 gira
 green
 gradiente
@@ -10033,6 +10044,7 @@ Administrativa
 AVA
 Absorcion
 Algebraico
+Aquel
 Final
 Flujo
 Fuerza
@@ -12596,6 +12608,8 @@ Roles
 Regression
 Radar
 Represento
+Relleno
+Redondeo
 Ya
 YUV
 YLO

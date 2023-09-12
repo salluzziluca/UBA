@@ -247,6 +247,7 @@ Lineplot
 Lollipop
 Lenguaje
 Lemmatization
+Leyes
 subespacios
 subespacio
 se
@@ -662,6 +663,8 @@ similaridad
 significado
 stopwords
 sobtre
+sujetos
+sustituir
 vectoriales
 vectorial
 vacio
@@ -976,6 +979,8 @@ vayan
 vacias
 voz
 vecto
+validez
+verdad
 deben
 de
 diferenciales
@@ -2594,6 +2599,10 @@ exitosa
 estructura
 entienda
 emocion
+equivalencia
+expresi
+expresar
+expresiones
 adicionalmente
 alguna
 al
@@ -3001,6 +3010,8 @@ aparece
 alto
 articulos
 analisis
+afectar
+algebraicas
 tres
 theta
 tiene
@@ -5372,6 +5383,7 @@ representar
 relacion
 regresion
 repetidas
+representando
 Volumen
 Variable
 Ver
@@ -6506,6 +6518,7 @@ IbB
 Instructions
 IEEE
 IDF
+Involuci
 Triples
 Teorema
 Teoremas
@@ -7763,6 +7776,8 @@ metaforicos
 monotona
 muchos
 mensajes
+maxiterminos
+miniterminos
 que
 queda
 quede
@@ -8894,6 +8909,7 @@ fora
 finito
 foros
 frequency
+funciones
 gira
 green
 gradiente
@@ -9188,6 +9204,7 @@ guarda
 gmail
 groupby
 geometrica
+gicas
 Gauss
 Green
 GC
@@ -11491,6 +11508,7 @@ Machine
 Muestra
 Met
 Moderar
+Morgan
 OPTIONS
 OV
 OP

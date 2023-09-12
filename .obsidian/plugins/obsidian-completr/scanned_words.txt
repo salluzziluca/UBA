@@ -2004,6 +2004,7 @@ list
 listed
 labura
 listas
+lambra
 enunciadas
 en
 espacio
@@ -2352,6 +2353,7 @@ espejado
 extraer
 estas
 explote
+exponencial
 adicionalmente
 alguna
 al
@@ -3867,6 +3869,7 @@ ngulo
 notamos
 nuestros
 numerable
+ndar
 pertenecen
 pertenece
 pi
@@ -4292,6 +4295,7 @@ paga
 proba
 props
 probabiilidad
+param
 br
 borde
 busco
@@ -4901,6 +4905,7 @@ reshapear
 reduciendo
 reconvertirlo
 resultados
+riesgo
 Volumen
 Variable
 Ver
@@ -5147,6 +5152,7 @@ Violin
 Venn
 Vamos
 VAD
+VAC
 Cartesianas
 Cil
 Cambios
@@ -6521,6 +6527,7 @@ Diagrama
 DataFrames
 Datos
 Def
+Distribucion
 obtenemos
 orientaci
 orientable
@@ -8492,6 +8499,7 @@ globales
 graves
 groupby
 guarda
+gamma
 Gauss
 Green
 GC
@@ -8758,6 +8766,7 @@ Guardamos
 Gram
 Github
 GUI
+Gamma
 jacobiana
 jacobinao
 jue
@@ -9497,6 +9506,7 @@ FINALMENTE
 Ftotal
 Formula
 For
+Funcion
 Potencial
 Para
 Punto

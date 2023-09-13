@@ -669,6 +669,7 @@ sustituir
 simplificacion
 solamente
 software
+simular
 vectoriales
 vectorial
 vacio
@@ -1397,6 +1398,9 @@ diccionario
 discontinuidad
 dejaria
 dont
+despejo
+defino
+dist
 cumplir
 condiciones
 cartesianas
@@ -1941,6 +1945,8 @@ conjuntod
 combinacional
 combinaciones
 care
+consideramos
+cuya
 las
 la
 lo
@@ -2222,6 +2228,7 @@ lenguaje
 lemma
 les
 limites
+lambra
 enunciadas
 en
 espacio
@@ -2622,6 +2629,8 @@ excluyente
 expresion
 efectivamente
 escencial
+encontre
+exponencial
 adicionalmente
 alguna
 al
@@ -3036,6 +3045,8 @@ asegura
 adyacentes
 abarquen
 apropiado
+acumulan
+azar
 tres
 theta
 tiene
@@ -3670,6 +3681,7 @@ Scatter
 Sankey
 Stopwords
 Soporte
+Simulacion
 un
 una
 usando
@@ -4271,6 +4283,7 @@ normalizados
 numerable
 normalizar
 necesite
+ndar
 pertenecen
 pertenece
 pi
@@ -4749,6 +4762,7 @@ puro
 pegados
 primos
 pocas
+param
 br
 borde
 busco
@@ -5417,6 +5431,7 @@ relacion
 regresion
 repetidas
 representando
+riesgo
 Volumen
 Variable
 Ver
@@ -5677,6 +5692,7 @@ Visualizaci
 Visual
 VAD
 Vectorizer
+VAC
 Cartesianas
 Cil
 Cambios
@@ -5974,6 +5990,7 @@ Cua
 Choropleth
 Compuerta
 Count
+Continua
 Esf
 Entonces
 Esto
@@ -6553,6 +6570,7 @@ IEEE
 IDF
 Involuci
 Implicante
+Inversa
 Triples
 Teorema
 Teoremas
@@ -7136,6 +7154,7 @@ Density
 Diagrama
 Def
 Detectar
+Distribucion
 obtenemos
 orientaci
 orientable
@@ -9253,6 +9272,8 @@ gmail
 groupby
 geometrica
 gicas
+generalizar
+gamma
 Gauss
 Green
 GC
@@ -9523,6 +9544,7 @@ Generalizaci
 Genero
 Gradescope
 Gr
+Gamma
 jacobiana
 jacobinao
 jue
@@ -10301,6 +10323,7 @@ Frecuencia
 For
 Formato
 Frequency
+Funcion
 Potencial
 Para
 Punto
@@ -12090,6 +12113,7 @@ Union
 Uw
 Ucee
 UMr
+Uniforme
 width
 wxTE
 wS

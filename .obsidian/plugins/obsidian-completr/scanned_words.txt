@@ -668,6 +668,7 @@ sujetos
 sustituir
 simplificacion
 solamente
+software
 vectoriales
 vectorial
 vacio
@@ -985,6 +986,7 @@ vecto
 validez
 verdad
 valen
+valgan
 deben
 de
 diferenciales
@@ -2219,6 +2221,7 @@ linguistica
 lenguaje
 lemma
 les
+limites
 enunciadas
 en
 espacio
@@ -3032,6 +3035,7 @@ atomos
 asegura
 adyacentes
 abarquen
+apropiado
 tres
 theta
 tiene
@@ -4266,6 +4270,7 @@ neg
 normalizados
 numerable
 normalizar
+necesite
 pertenecen
 pertenece
 pi
@@ -4743,6 +4748,7 @@ probas
 puro
 pegados
 primos
+pocas
 br
 borde
 busco
@@ -7444,6 +7450,7 @@ objetivos
 obviamente
 outliers
 obtengo
+organiza
 mide
 mas
 mediante
@@ -8613,6 +8620,8 @@ idempotencia
 inverse
 intervalos
 implicantes
+implementarlo
+impone
 frontera
 flujo
 forma
@@ -8948,6 +8957,7 @@ fiable
 fico
 formal
 factor
+facil
 gira
 green
 gradiente
@@ -12610,6 +12620,7 @@ Radar
 Represento
 Relleno
 Redondeo
+REsulta
 Ya
 YUV
 YLO

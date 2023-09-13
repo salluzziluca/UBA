@@ -1,12 +1,12 @@
 [
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "obsidian-completr",
-  "obsidian-latex-environments",
-  "obsidian-latex-suite",
-  "obsidian-outliner",
-  "obsidian-latex",
   "obsidian-desmos",
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite",
+  "obsidian-latex-environments",
+  "obsidian-latex",
+  "obsidian-git",
   "darlal-switcher-plus",
-  "obsidian-git"
+  "obsidian-outliner"
 ]

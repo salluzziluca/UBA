@@ -670,6 +670,7 @@ simplificacion
 solamente
 software
 simular
+sii
 vectoriales
 vectorial
 vacio
@@ -1401,6 +1402,11 @@ dont
 despejo
 defino
 dist
+decreiente
+discreto
+definidas
+dadas
+deproba
 cumplir
 condiciones
 cartesianas
@@ -1947,6 +1953,8 @@ combinaciones
 care
 consideramos
 cuya
+conunta
+conjunta
 las
 la
 lo
@@ -2631,6 +2639,7 @@ efectivamente
 escencial
 encontre
 exponencial
+exepriment
 adicionalmente
 alguna
 al
@@ -3047,6 +3056,7 @@ abarquen
 apropiado
 acumulan
 azar
+aleatorio
 tres
 theta
 tiene
@@ -3402,6 +3412,7 @@ term
 token
 tokens
 tomos
+tendr
 Sea
 Si
 Superficie
@@ -4763,6 +4774,7 @@ pegados
 primos
 pocas
 param
+par
 br
 borde
 busco
@@ -5060,6 +5072,7 @@ bajisimos
 barras
 bigotes
 belleza
+bidimensional
 ricas
 respectivamente
 recorre
@@ -7155,6 +7168,7 @@ Diagrama
 Def
 Detectar
 Distribucion
+Debe
 obtenemos
 orientaci
 orientable
@@ -7835,6 +7849,7 @@ maxiterminos
 miniterminos
 medir
 minivalores
+marginales
 que
 queda
 quede
@@ -8641,6 +8656,7 @@ intervalos
 implicantes
 implementarlo
 impone
+idependientes
 frontera
 flujo
 forma

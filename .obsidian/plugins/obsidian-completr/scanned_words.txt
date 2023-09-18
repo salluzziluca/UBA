@@ -6870,6 +6870,7 @@ Tienen
 Tree
 Tokenizar
 Term
+Truncamiento
 Dejando
 DEN
 De
@@ -7484,6 +7485,7 @@ obviamente
 outliers
 obtengo
 organiza
+omega
 mide
 mas
 mediante

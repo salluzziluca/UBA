@@ -672,6 +672,7 @@ software
 simular
 sii
 sort
+subdivide
 vectoriales
 vectorial
 vacio
@@ -1409,6 +1410,12 @@ discreto
 definidas
 dadas
 deproba
+driver
+devuelven
+demores
+demos
+devolver
+duplicados
 cumplir
 condiciones
 cartesianas
@@ -1961,6 +1968,13 @@ clusters
 computadoras
 combina
 costosa
+category
+comunicaci
+convierten
+count
+collect
+criterio
+countByKey
 las
 la
 lo
@@ -2648,6 +2662,10 @@ exponencial
 exepriment
 excesivos
 equipo
+executors
+externos
+existente
+elimina
 adicionalmente
 alguna
 al
@@ -3066,6 +3084,10 @@ acumulan
 azar
 aleatorio
 analizar
+astype
+ahorrar
+asocia
+automaticamente
 tres
 theta
 tiene
@@ -3423,6 +3445,9 @@ tokens
 tomos
 tendr
 tona
+traduccion
+takeOrderer
+takeSample
 Sea
 Si
 Superficie
@@ -4306,6 +4331,7 @@ numerable
 normalizar
 necesite
 ndar
+nuevo
 pertenecen
 pertenece
 pi
@@ -4787,6 +4813,7 @@ pocas
 param
 par
 procesa
+particionadas
 br
 borde
 busco
@@ -5085,6 +5112,8 @@ barras
 bigotes
 belleza
 bidimensional
+bool
+booleano
 ricas
 respectivamente
 recorre
@@ -5459,6 +5488,11 @@ representando
 riesgo
 reducer
 registros
+reshapear
+reconvertirlo
+reemplazo
+registro
+resgistros
 Volumen
 Variable
 Ver
@@ -6018,6 +6052,9 @@ Choropleth
 Compuerta
 Count
 Continua
+Colecciones
+Creados
+Crean
 Esf
 Entonces
 Esto
@@ -6885,6 +6922,7 @@ Tree
 Tokenizar
 Term
 Truncamiento
+Transformaciones
 Dejando
 DEN
 De
@@ -7184,6 +7222,10 @@ Def
 Detectar
 Distribucion
 Debe
+Distributed
+Datasets
+Devuelve
+Distinct
 obtenemos
 orientaci
 orientable
@@ -8102,6 +8144,7 @@ qd
 query
 quine
 quina
+quinas
 hasta
 hacia
 hay
@@ -9016,6 +9059,11 @@ fico
 formal
 factor
 facil
+freante
+fallos
+first
+func
+filtra
 gira
 green
 gradiente
@@ -9585,6 +9633,7 @@ Genero
 Gradescope
 Gr
 Gamma
+GroupByKey
 jacobiana
 jacobinao
 jue
@@ -9800,6 +9849,8 @@ jWQ
 jel
 jUu
 jn
+jobs
+job
 Aplicaci
 Apuntes
 Ambas
@@ -10117,6 +10168,7 @@ AVA
 Absorcion
 Algebraico
 Aquel
+Acciones
 Final
 Flujo
 Fuerza
@@ -10364,6 +10416,8 @@ For
 Formato
 Frequency
 Funcion
+Filter
+FlatMap
 Potencial
 Para
 Punto
@@ -11628,6 +11682,7 @@ Mixta
 Metodos
 Mapa
 McCluskey
+Map
 OPTIONS
 OV
 OP
@@ -12685,6 +12740,11 @@ Represento
 Relleno
 Redondeo
 REsulta
+Resilent
+RDDs
+Reconstruidos
+RDD
+ReduceByKey
 Ya
 YUV
 YLO
@@ -14408,6 +14468,7 @@ keNum
 kAa
 kIr
 kGZZ
+key
 Qa
 Qe
 QUU

@@ -671,6 +671,7 @@ solamente
 software
 simular
 sii
+sort
 vectoriales
 vectorial
 vacio
@@ -989,6 +990,7 @@ validez
 verdad
 valen
 valgan
+vol
 deben
 de
 diferenciales
@@ -1955,6 +1957,10 @@ consideramos
 cuya
 conunta
 conjunta
+clusters
+computadoras
+combina
+costosa
 las
 la
 lo
@@ -2640,6 +2646,8 @@ escencial
 encontre
 exponencial
 exepriment
+excesivos
+equipo
 adicionalmente
 alguna
 al
@@ -3057,6 +3065,7 @@ apropiado
 acumulan
 azar
 aleatorio
+analizar
 tres
 theta
 tiene
@@ -3694,6 +3703,7 @@ Sankey
 Stopwords
 Soporte
 Simulacion
+Shuffle
 un
 una
 usando
@@ -4776,6 +4786,7 @@ primos
 pocas
 param
 par
+procesa
 br
 borde
 busco
@@ -5446,6 +5457,8 @@ regresion
 repetidas
 representando
 riesgo
+reducer
+registros
 Volumen
 Variable
 Ver
@@ -7487,6 +7500,8 @@ outliers
 obtengo
 organiza
 omega
+opera
+operaci
 mide
 mas
 mediante
@@ -7854,6 +7869,8 @@ medir
 minivalores
 marginales
 mon
+menes
+maquinas
 que
 queda
 quede
@@ -8084,6 +8101,7 @@ qcu
 qd
 query
 quine
+quina
 hasta
 hacia
 hay
@@ -8661,6 +8679,7 @@ implicantes
 implementarlo
 impone
 idependientes
+intermedio
 frontera
 flujo
 forma
@@ -9294,6 +9313,7 @@ geometrica
 gicas
 generalizar
 gamma
+grandes
 Gauss
 Green
 GC

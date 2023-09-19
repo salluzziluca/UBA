@@ -240,6 +240,7 @@ Lenz
 Linealmente
 Laplace
 Leyes
+Logica
 subespacios
 subespacio
 se
@@ -642,6 +643,9 @@ simular
 sii
 sujetos
 sustituir
+simplificacion
+solamente
+software
 vectoriales
 vectorial
 vacio
@@ -950,6 +954,8 @@ vertice
 visita
 validez
 verdad
+valen
+valgan
 deben
 de
 diferenciales
@@ -1350,6 +1356,8 @@ definidas
 dadas
 deproba
 discretas
+dejaria
+dont
 cumplir
 condiciones
 cartesianas
@@ -1860,6 +1868,9 @@ consideramos
 cuya
 conunta
 conjunta
+combinacional
+combinaciones
+care
 las
 la
 lo
@@ -2130,6 +2141,7 @@ list
 listed
 llamado
 listo
+limites
 enunciadas
 en
 espacio
@@ -2512,6 +2524,9 @@ equivalencia
 expresi
 expresar
 expresiones
+expresion
+efectivamente
+escencial
 adicionalmente
 alguna
 al
@@ -2908,6 +2923,10 @@ aleatorio
 aleatorias
 afectar
 algebraicas
+asegura
+adyacentes
+abarquen
+apropiado
 tres
 theta
 tiene
@@ -3242,6 +3261,7 @@ txt
 tales
 tendr
 tablas
+tabular
 Sea
 Si
 Superficie
@@ -4095,6 +4115,7 @@ normalizados
 normalmente
 niveles
 nuevo
+necesite
 pertenecen
 pertenece
 pi
@@ -4544,6 +4565,10 @@ padres
 preorder
 proba
 par
+puro
+pocas
+pegados
+primos
 br
 borde
 busco
@@ -6311,6 +6336,7 @@ Inorder
 Inserccion
 Inversa
 Involuci
+Implicante
 Triples
 Teorema
 Teoremas
@@ -7180,6 +7206,8 @@ occurrence
 ocurrir
 ocurri
 ocurrido
+obtengo
+organiza
 mide
 mas
 mediante
@@ -7533,6 +7561,8 @@ monotona
 marginales
 maxiterminos
 miniterminos
+minivalores
+mapa
 que
 queda
 quede
@@ -7756,6 +7786,7 @@ quizas
 quiere
 quiero
 quien
+quine
 hasta
 hacia
 hay
@@ -8313,6 +8344,9 @@ intersecci
 izq
 idempotencia
 idependientes
+implicantes
+implementarlo
+impone
 frontera
 flujo
 forma
@@ -8632,6 +8666,11 @@ funci
 fiel
 fin
 funciones
+fiable
+formal
+fico
+facil
+factor
 gira
 green
 gradiente
@@ -9190,6 +9229,7 @@ Github
 GUI
 Generalizaci
 Genero
+Gr
 jacobiana
 jacobinao
 jue
@@ -9706,6 +9746,8 @@ Aleatorio
 Axioma
 Arboles
 Absorcion
+Algebraico
+Aquel
 Final
 Flujo
 Fuerza
@@ -10239,6 +10281,7 @@ Please
 Probabilidad
 Preorden
 Postorder
+Pero
 Hipotesis
 HbgIcQAl
 HJM
@@ -11166,6 +11209,9 @@ Magnitudes
 Modulo
 Monomorfismo
 Morgan
+Metodos
+Mapa
+McCluskey
 OPTIONS
 OV
 OP
@@ -12207,6 +12253,10 @@ Representacion
 Relativa
 Recorrido
 Repetimos
+Represento
+Relleno
+Redondeo
+REsulta
 Ya
 YUV
 YLO
@@ -13660,6 +13710,7 @@ KH
 KZZZ
 KWTc
 Krrr
+Karnaugh
 kt
 ku
 kSe

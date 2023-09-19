@@ -2,3 +2,5 @@ acotada
 acotado
 \oldstyle
 nAn
+numero
+numeros

@@ -4040,7 +4040,6 @@ nos
 ningun
 normales
 necesitamos
-numero
 nodes
 ning
 nica
@@ -4289,7 +4288,6 @@ neee
 nZk
 nAC
 ntota
-numeros
 nunca
 nodos
 nodo

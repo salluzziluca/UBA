@@ -647,6 +647,7 @@ simplificacion
 solamente
 software
 secuencial
+salidas
 vectoriales
 vectorial
 vacio
@@ -2929,6 +2930,8 @@ asegura
 adyacentes
 abarquen
 apropiado
+asincr
+asicr
 tres
 theta
 tiene
@@ -4118,6 +4121,7 @@ normalmente
 niveles
 nuevo
 necesite
+negada
 pertenecen
 pertenece
 pi
@@ -8674,6 +8678,8 @@ formal
 fico
 facil
 factor
+flip
+flop
 gira
 green
 gradiente
@@ -9994,6 +10000,8 @@ Formato
 For
 Frecuencia
 Funcion
+Flip
+Flop
 Potencial
 Para
 Punto

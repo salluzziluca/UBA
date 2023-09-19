@@ -646,6 +646,7 @@ sustituir
 simplificacion
 solamente
 software
+secuencial
 vectoriales
 vectorial
 vacio
@@ -1358,6 +1359,7 @@ deproba
 discretas
 dejaria
 dont
+dependan
 cumplir
 condiciones
 cartesianas
@@ -5222,6 +5224,7 @@ reduciendo
 realizo
 rama
 representando
+realimentaci
 Volumen
 Variable
 Ver

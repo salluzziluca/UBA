@@ -2675,6 +2675,8 @@ externos
 existente
 elimina
 extends
+esperado
+esperanza
 adicionalmente
 alguna
 al
@@ -4825,6 +4827,8 @@ param
 par
 procesa
 particionadas
+promedio
+ponderado
 br
 borde
 busco
@@ -6344,6 +6348,7 @@ Engineer
 Extension
 Estandar
 Entender
+Esperanza
 Integrales
 Importantes
 Igualo
@@ -7243,6 +7248,7 @@ Datasets
 Devuelve
 Distinct
 Dependencia
+Discreta
 obtenemos
 orientaci
 orientable
@@ -10196,6 +10202,7 @@ Aquel
 Acciones
 Asociaci
 Agregaci
+Aleatoria
 Final
 Flujo
 Fuerza
@@ -10745,6 +10752,8 @@ Permite
 Proposici
 Procesamiento
 Pero
+Propiedad
+Prop
 Hipotesis
 HbgIcQAl
 HJM

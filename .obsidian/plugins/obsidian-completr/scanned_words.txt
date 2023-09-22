@@ -994,6 +994,7 @@ valen
 valgan
 vol
 vida
+varianza
 deben
 de
 diferenciales
@@ -1983,6 +1984,9 @@ conviven
 compone
 ciclo
 comunica
+covarianza
+coef
+correlacion
 las
 la
 lo
@@ -2677,6 +2681,7 @@ elimina
 extends
 esperado
 esperanza
+esperanzas
 adicionalmente
 alguna
 al
@@ -6072,6 +6077,10 @@ Continua
 Colecciones
 Creados
 Crean
+Covarianza
+Cov
+Coeficiente
+Correlaci
 Esf
 Entonces
 Esto
@@ -10203,6 +10212,7 @@ Acciones
 Asociaci
 Agregaci
 Aleatoria
+Aplicacion
 Final
 Flujo
 Fuerza
@@ -11719,6 +11729,7 @@ Metodos
 Mapa
 McCluskey
 Map
+Mas
 OPTIONS
 OV
 OP
@@ -11971,6 +11982,7 @@ OhP
 OTJ
 Oiu
 Objetivo
+Orden
 Una
 Un
 UI

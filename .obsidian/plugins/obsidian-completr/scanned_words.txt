@@ -995,6 +995,7 @@ valgan
 vol
 vida
 varianza
+variabilidad
 deben
 de
 diferenciales
@@ -1419,6 +1420,7 @@ demores
 demos
 devolver
 duplicados
+dispersa
 cumplir
 condiciones
 cartesianas
@@ -1987,6 +1989,7 @@ comunica
 covarianza
 coef
 correlacion
+cuan
 las
 la
 lo
@@ -7258,6 +7261,7 @@ Devuelve
 Distinct
 Dependencia
 Discreta
+Desvio
 obtenemos
 orientaci
 orientable

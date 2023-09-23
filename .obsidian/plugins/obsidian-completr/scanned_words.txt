@@ -674,6 +674,7 @@ sii
 sort
 subdivide
 sticas
+sabemos
 vectoriales
 vectorial
 vacio
@@ -1990,6 +1991,7 @@ covarianza
 coef
 correlacion
 cuan
+cjto
 las
 la
 lo
@@ -2272,6 +2274,7 @@ lemma
 les
 limites
 lambra
+listo
 enunciadas
 en
 espacio

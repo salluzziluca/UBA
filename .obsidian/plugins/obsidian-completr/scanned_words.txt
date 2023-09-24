@@ -3474,6 +3474,7 @@ tona
 traduccion
 takeOrderer
 takeSample
+truncada
 Sea
 Si
 Superficie

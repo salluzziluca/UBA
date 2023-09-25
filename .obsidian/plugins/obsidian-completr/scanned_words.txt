@@ -1422,6 +1422,7 @@ demos
 devolver
 duplicados
 dispersa
+descargas
 cumplir
 condiciones
 cartesianas
@@ -3475,6 +3476,7 @@ traduccion
 takeOrderer
 takeSample
 truncada
+tome
 Sea
 Si
 Superficie
@@ -4841,6 +4843,7 @@ procesa
 particionadas
 promedio
 ponderado
+paga
 br
 borde
 busco
@@ -5522,6 +5525,8 @@ reemplazo
 registro
 resgistros
 recibido
+relaciona
+reviews
 Volumen
 Variable
 Ver
@@ -8454,6 +8459,7 @@ hecho
 hablamos
 hereda
 haberlo
+heatmap
 image
 iria
 incluya
@@ -10772,6 +10778,7 @@ Procesamiento
 Pero
 Propiedad
 Prop
+Pregunta
 Hipotesis
 HbgIcQAl
 HJM

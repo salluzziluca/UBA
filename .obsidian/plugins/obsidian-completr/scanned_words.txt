@@ -680,6 +680,7 @@ secuencial
 salidas
 sincr
 select
+string
 vectoriales
 vectorial
 vacio
@@ -1431,6 +1432,7 @@ descargas
 doatos
 dependan
 desconecta
+ddice
 cumplir
 condiciones
 cartesianas
@@ -2004,6 +2006,10 @@ cjto
 clock
 controladas
 conecta
+compleja
+codificar
+correspondiente
+compresion
 las
 la
 lo
@@ -2703,6 +2709,7 @@ esperanzas
 explica
 evidencia
 esclavo
+elegimos
 adicionalmente
 alguna
 al
@@ -3131,6 +3138,11 @@ acopladas
 atributo
 asincr
 asicr
+asignando
+aparecen
+agregando
+anotando
+arim
 tres
 theta
 tiene
@@ -3777,6 +3789,7 @@ Soporte
 Simulacion
 Shuffle
 Shanon
+Sigo
 un
 una
 usando
@@ -4080,6 +4093,8 @@ utilizado
 usada
 usualmente
 unidades
+uniendo
+unos
 no
 ndricas
 nulo
@@ -4379,6 +4394,7 @@ necesite
 ndar
 nuevo
 negada
+normalizada
 pertenecen
 pertenece
 pi
@@ -4867,6 +4883,7 @@ paga
 programas
 pines
 pin
+pongo
 br
 borde
 busco
@@ -5168,6 +5185,7 @@ bidimensional
 bool
 booleano
 bil
+bajando
 ricas
 respectivamente
 recorre
@@ -6122,6 +6140,9 @@ Correlaci
 Creado
 Claude
 Chip
+Codificacion
+Compresion
+Complejidad
 Esf
 Entonces
 Esto
@@ -6399,6 +6420,7 @@ Extension
 Estandar
 Entender
 Esperanza
+Estamos
 Integrales
 Importantes
 Igualo
@@ -8495,6 +8517,7 @@ hablamos
 hereda
 haberlo
 heatmap
+hipotesis
 image
 iria
 incluya
@@ -8812,6 +8835,7 @@ intermedio
 implementa
 interfaz
 interaccionan
+izq
 frontera
 flujo
 forma
@@ -9157,6 +9181,7 @@ formato
 fen
 flip
 flop
+flechas
 gira
 green
 gradiente
@@ -10268,6 +10293,7 @@ Agregaci
 Aleatoria
 Aplicacion
 Actualizamos
+Armo
 Final
 Flujo
 Fuerza
@@ -11049,6 +11075,7 @@ Hexadecimal
 Histograma
 Heatmap
 Historia
+Huffman
 ya
 yRZ
 yD
@@ -14332,6 +14359,7 @@ KWo
 KIh
 KIz
 Karnaugh
+Kolmogrov
 kt
 ku
 kSe

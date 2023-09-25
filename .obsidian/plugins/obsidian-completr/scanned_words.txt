@@ -3477,6 +3477,7 @@ takeOrderer
 takeSample
 truncada
 tome
+transmitiendo
 Sea
 Si
 Superficie
@@ -3758,6 +3759,7 @@ Stopwords
 Soporte
 Simulacion
 Shuffle
+Shanon
 un
 una
 usando
@@ -5527,6 +5529,7 @@ resgistros
 recibido
 relaciona
 reviews
+realmente
 Volumen
 Variable
 Ver
@@ -6093,6 +6096,8 @@ Covarianza
 Cov
 Coeficiente
 Correlaci
+Creado
+Claude
 Esf
 Entonces
 Esto
@@ -6676,6 +6681,7 @@ Implicante
 Inversa
 Inheritance
 Implementaci
+Informaci
 Triples
 Teorema
 Teoremas
@@ -15248,6 +15254,7 @@ Bar
 Busqueda
 Bag
 BOW
+Bits
 äU
 äI
 XJV

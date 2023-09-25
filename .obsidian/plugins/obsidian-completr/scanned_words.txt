@@ -1423,6 +1423,7 @@ devolver
 duplicados
 dispersa
 descargas
+doatos
 cumplir
 condiciones
 cartesianas
@@ -2689,6 +2690,8 @@ extends
 esperado
 esperanza
 esperanzas
+explica
+evidencia
 adicionalmente
 alguna
 al
@@ -3478,6 +3481,7 @@ takeSample
 truncada
 tome
 transmitiendo
+terminan
 Sea
 Si
 Superficie
@@ -4846,6 +4850,7 @@ particionadas
 promedio
 ponderado
 paga
+programas
 br
 borde
 busco
@@ -5530,6 +5535,7 @@ recibido
 relaciona
 reviews
 realmente
+repetimos
 Volumen
 Variable
 Ver
@@ -6682,6 +6688,7 @@ Inversa
 Inheritance
 Implementaci
 Informaci
+Iteramos
 Triples
 Teorema
 Teoremas
@@ -7967,6 +7974,7 @@ menes
 maquinas
 metro
 mandan
+miramos
 que
 queda
 quede
@@ -8199,6 +8207,7 @@ query
 quine
 quina
 quinas
+queriamos
 hasta
 hacia
 hay
@@ -9124,6 +9133,8 @@ fallos
 first
 func
 filtra
+formato
+fen
 gira
 green
 gradiente
@@ -10233,6 +10244,7 @@ Asociaci
 Agregaci
 Aleatoria
 Aplicacion
+Actualizamos
 Final
 Flujo
 Fuerza
@@ -12816,6 +12828,7 @@ Reconstruidos
 RDD
 ReduceByKey
 Realizaci
+Recolectamos
 Ya
 YUV
 YLO

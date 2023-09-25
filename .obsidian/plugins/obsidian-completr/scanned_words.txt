@@ -249,6 +249,7 @@ Lenguaje
 Lemmatization
 Leyes
 Logica
+Logramos
 subespacios
 subespacio
 se
@@ -675,6 +676,10 @@ sort
 subdivide
 sticas
 sabemos
+secuencial
+salidas
+sincr
+select
 vectoriales
 vectorial
 vacio
@@ -1424,6 +1429,8 @@ duplicados
 dispersa
 descargas
 doatos
+dependan
+desconecta
 cumplir
 condiciones
 cartesianas
@@ -1994,6 +2001,9 @@ coef
 correlacion
 cuan
 cjto
+clock
+controladas
+conecta
 las
 la
 lo
@@ -2692,6 +2702,7 @@ esperanza
 esperanzas
 explica
 evidencia
+esclavo
 adicionalmente
 alguna
 al
@@ -3118,6 +3129,8 @@ abstracta
 asociaci
 acopladas
 atributo
+asincr
+asicr
 tres
 theta
 tiene
@@ -4365,6 +4378,7 @@ normalizar
 necesite
 ndar
 nuevo
+negada
 pertenecen
 pertenece
 pi
@@ -4851,6 +4865,8 @@ promedio
 ponderado
 paga
 programas
+pines
+pin
 br
 borde
 busco
@@ -5536,6 +5552,7 @@ relaciona
 reviews
 realmente
 repetimos
+realimentaci
 Volumen
 Variable
 Ver
@@ -6104,6 +6121,7 @@ Coeficiente
 Correlaci
 Creado
 Claude
+Chip
 Esf
 Entonces
 Esto
@@ -7603,6 +7621,7 @@ omega
 opera
 operaci
 objeto
+oscilaciones
 mide
 mas
 mediante
@@ -7975,6 +7994,7 @@ maquinas
 metro
 mandan
 miramos
+maestro
 que
 queda
 quede
@@ -9135,6 +9155,8 @@ func
 filtra
 formato
 fen
+flip
+flop
 gira
 green
 gradiente
@@ -9433,6 +9455,7 @@ gicas
 generalizar
 gamma
 grandes
+generen
 Gauss
 Green
 GC
@@ -10494,6 +10517,8 @@ Frequency
 Funcion
 Filter
 FlatMap
+Flip
+Flop
 Potencial
 Para
 Punto

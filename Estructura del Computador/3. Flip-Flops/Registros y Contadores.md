@@ -26,4 +26,4 @@ Para saber cuando se llega a 16 bits, utilizamos...
 
 ## Contadores
 Los contadores tienen $2^{flip-flop}$ estados. Siempre avanza secuencialmente.
-Si yo necesito 10 estados lo minimo que puedo usar son 4 flipflops, por lo que me sobran 6 estados
+Si yo necesito 10 estados lo minimo que puedo usar son 4 flipflops, por lo que me sobran 6 estados.

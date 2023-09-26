@@ -17,3 +17,5 @@ Es la memoria interna del procesador, muy acotada (64,32,16 u 8 bits).
 Suponiendo que la entrada SI siempre sea 1
 
 ## Carga de datos en paralelo
+![[Pasted image 20230926171353.png]]
+Dependiendo del valor de LD la entrada/salida es en serie o paralelo

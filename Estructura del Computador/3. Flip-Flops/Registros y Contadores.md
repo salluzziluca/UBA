@@ -16,4 +16,4 @@ Es la memoria interna del procesador, muy acotada (64,32,16 u 8 bits).
 
 Suponiendo que la entrada SI siempre sea 1
 
-##
+## Carga de datos en paralelo

@@ -25,3 +25,4 @@ Por ejemplo: una impresora recibe informacion en serie de la pc y al llegar a 16
 Para saber cuando se llega a 16 bits, utilizamos...
 
 ## Contadores
+Los contadores tienen $2^{flip-flop}$ estados. Siempre avanza secuencialmente

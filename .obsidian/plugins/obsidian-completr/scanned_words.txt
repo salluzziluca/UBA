@@ -654,6 +654,8 @@ sincr
 select
 secuencialmente
 sobran
+sincronicos
+sincronizadamente
 vectoriales
 vectorial
 vacio
@@ -1886,6 +1888,7 @@ clock
 controladas
 conecta
 contadores
+corespondiente
 las
 la
 lo
@@ -2544,6 +2547,7 @@ efectivamente
 escencial
 esclavo
 estados
+entradas
 adicionalmente
 alguna
 al
@@ -3283,6 +3287,7 @@ tales
 tendr
 tablas
 tabular
+transiciones
 Sea
 Si
 Superficie

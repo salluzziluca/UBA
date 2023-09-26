@@ -2011,6 +2011,7 @@ compleja
 codificar
 correspondiente
 compresion
+creciente
 las
 la
 lo
@@ -5576,6 +5577,7 @@ realmente
 repetimos
 realimentaci
 repiten
+restringida
 Volumen
 Variable
 Ver
@@ -7024,6 +7026,7 @@ Term
 Truncamiento
 Transformaciones
 Tiene
+Tchevychev
 Dejando
 DEN
 De
@@ -9188,6 +9191,7 @@ fen
 flip
 flop
 flechas
+finita
 gira
 green
 gradiente
@@ -11821,6 +11825,7 @@ Mapa
 McCluskey
 Map
 Mas
+Markov
 OPTIONS
 OV
 OP

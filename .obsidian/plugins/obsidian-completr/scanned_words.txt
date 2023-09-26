@@ -241,6 +241,7 @@ Linealmente
 Laplace
 Leyes
 Logica
+Logramos
 subespacios
 subespacio
 se
@@ -648,6 +649,8 @@ solamente
 software
 secuencial
 salidas
+sincr
+select
 vectoriales
 vectorial
 vacio
@@ -1361,6 +1364,7 @@ discretas
 dejaria
 dont
 dependan
+desconecta
 cumplir
 condiciones
 cartesianas
@@ -1874,6 +1878,9 @@ conjunta
 combinacional
 combinaciones
 care
+clock
+controladas
+conecta
 las
 la
 lo
@@ -2530,6 +2537,7 @@ expresiones
 expresion
 efectivamente
 escencial
+esclavo
 adicionalmente
 alguna
 al
@@ -3838,7 +3846,6 @@ nos
 ningun
 normales
 necesitamos
-numero
 nodes
 ning
 nica
@@ -4087,7 +4094,6 @@ neee
 nZk
 nAC
 ntota
-numeros
 nunca
 nodos
 nodo
@@ -4575,6 +4581,8 @@ puro
 pocas
 pegados
 primos
+pines
+pin
 br
 borde
 busco
@@ -5773,6 +5781,7 @@ Comparamos
 Comparo
 Compuerta
 Continua
+Chip
 Esf
 Entonces
 Esto
@@ -7215,6 +7224,7 @@ ocurri
 ocurrido
 obtengo
 organiza
+oscilaciones
 mide
 mas
 mediante
@@ -7570,6 +7580,7 @@ maxiterminos
 miniterminos
 minivalores
 mapa
+maestro
 que
 queda
 quede
@@ -8970,6 +8981,7 @@ guarda
 gmail
 generalizar
 gicas
+generen
 Gauss
 Green
 GC

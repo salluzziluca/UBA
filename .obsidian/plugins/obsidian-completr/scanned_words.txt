@@ -681,6 +681,7 @@ salidas
 sincr
 select
 string
+secuencias
 vectoriales
 vectorial
 vacio
@@ -3143,6 +3144,7 @@ aparecen
 agregando
 anotando
 arim
+apuntan
 tres
 theta
 tiene
@@ -5186,6 +5188,8 @@ bool
 booleano
 bil
 bajando
+basan
+buscan
 ricas
 respectivamente
 recorre
@@ -5571,6 +5575,7 @@ reviews
 realmente
 repetimos
 realimentaci
+repiten
 Volumen
 Variable
 Ver
@@ -6143,6 +6148,7 @@ Chip
 Codificacion
 Compresion
 Complejidad
+Compresores
 Esf
 Entonces
 Esto

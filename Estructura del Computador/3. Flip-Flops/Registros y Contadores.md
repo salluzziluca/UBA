@@ -6,7 +6,7 @@ Es la memoria interna del procesador, muy acotada (64,32,16 u 8 bits).
 ### Registros de desplazamiento
 ![[Pasted image 20230926165555.png]]
 
-| Q0  | Q2  | Q1  | Q0  |
+| Q0  | Q1  | Q2  | Q3  |
 | --- | --- | --- | --- |
 | 0   | 0   | 0   | 0   |
 | 1   | 0   | 0   | 0   |

@@ -34,5 +34,7 @@ Los contadores tienen $2^{flip-flop}$ estados. Siempre avanza secuencialmente.
 | 3             | 4              |
 | 4             | 5              |
 | 5             | 6              |
-|               |                |
+| 6             | 7              |
+| 7             | 0               |
+
 Si yo necesito 10 estados lo minimo que puedo usar son 4 flipflops, por lo que me sobran 6 estados.

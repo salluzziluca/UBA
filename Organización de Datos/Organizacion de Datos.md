@@ -1,6 +1,9 @@
 [[1.0 Data Science]]
 [[2.0 Análisis Exploratorio de Datos]]
+[[3.0 Visualizaciones]]
 [[4.0 Procesamiento Natural del Lenguaje]]
+[[5.0 Spark]]
+[[6.0 Inteligencia Artifical]]
 
 ---
 Administrativa

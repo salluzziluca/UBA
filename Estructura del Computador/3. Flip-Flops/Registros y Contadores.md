@@ -19,3 +19,7 @@ Suponiendo que la entrada SI siempre sea 1
 ## Carga de datos en paralelo
 ![[Pasted image 20230926171353.png]]
 Dependiendo del valor de LD la entrada/salida es en serie o paralelo
+
+Por ejemplo: una impresora recibe informacion en serie de la pc y al llegar a 16 bits, cambia y los hace salir (internamente) en paralelo.
+
+Para 

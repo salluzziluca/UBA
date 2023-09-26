@@ -44,4 +44,5 @@ Si yo necesito 10 estados lo minimo que puedo usar son 4 flipflops, por lo que m
 ## Contadores sincronicos
 Dependen del clock para asi cambiar de estados sincronizadamente
 Para armar uno planteo la tabla de transiciones, las entradas (T) seran 0 si su Q corespondiente no cambia o 1 si cambia![[Pasted image 20230926184954.png]]
-Luego armo un [[2.3 Diseño y Análisis de Circuitos#Mapa de Karnaugh|karnaugh]]
+Luego armo un [[2.3 Diseño y Análisis de Circuitos#Mapa de Karnaugh|karnaugh]] por cada T y obtenemos la formula necesaria para cada entrada.
+![[Pasted image 20230926185146.png]]

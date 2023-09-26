@@ -40,3 +40,6 @@ Los contadores tienen $2^{flip-flop}$ estados. Cuenta hasta 2^{n-1} (porque tien
 Si yo necesito 10 estados lo minimo que puedo usar son 4 flipflops, por lo que me sobran 6 estados
 
 ![[Pasted image 20230926174155.png]]
+
+## Contadores sincronicos
+Dependen del clock para asi cambiar de estados sincronizadamente

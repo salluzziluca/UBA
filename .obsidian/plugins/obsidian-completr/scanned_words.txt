@@ -242,6 +242,7 @@ Laplace
 Leyes
 Logica
 Logramos
+LD
 subespacios
 subespacio
 se
@@ -651,6 +652,8 @@ secuencial
 salidas
 sincr
 select
+secuencialmente
+sobran
 vectoriales
 vectorial
 vacio
@@ -1365,6 +1368,7 @@ dejaria
 dont
 dependan
 desconecta
+desplazamiento
 cumplir
 condiciones
 cartesianas
@@ -1881,6 +1885,7 @@ care
 clock
 controladas
 conecta
+contadores
 las
 la
 lo
@@ -2538,6 +2543,7 @@ expresion
 efectivamente
 escencial
 esclavo
+estados
 adicionalmente
 alguna
 al
@@ -2940,6 +2946,8 @@ abarquen
 apropiado
 asincr
 asicr
+almacenamiento
+avanza
 tres
 theta
 tiene
@@ -3541,6 +3549,7 @@ Sino
 Source
 SON
 Simulacion
+Suponiendo
 un
 una
 usando
@@ -3838,6 +3847,7 @@ ultima
 using
 use
 utilizado
+utilizamos
 no
 ndricas
 nulo
@@ -5237,6 +5247,7 @@ realizo
 rama
 representando
 realimentaci
+recibe
 Volumen
 Variable
 Ver
@@ -5782,6 +5793,8 @@ Comparo
 Compuerta
 Continua
 Chip
+Contadores
+Cuenta
 Esf
 Entonces
 Esto
@@ -6051,6 +6064,7 @@ Estandar
 Experimento
 Eventos
 Elementales
+Estado
 Integrales
 Importantes
 Igualo
@@ -6918,6 +6932,7 @@ Dado
 Decimos
 Def
 Debe
+Dependiendo
 obtenemos
 orientaci
 orientable
@@ -8365,6 +8380,9 @@ idependientes
 implicantes
 implementarlo
 impone
+interna
+impresora
+internamente
 frontera
 flujo
 forma
@@ -8691,6 +8709,7 @@ facil
 factor
 flip
 flop
+flipflops
 gira
 green
 gradiente
@@ -9769,6 +9788,7 @@ Arboles
 Absorcion
 Algebraico
 Aquel
+Actual
 Final
 Flujo
 Fuerza
@@ -10305,6 +10325,7 @@ Probabilidad
 Preorden
 Postorder
 Pero
+Proximo
 Hipotesis
 HbgIcQAl
 HJM
@@ -12280,6 +12301,8 @@ Represento
 Relleno
 Redondeo
 REsulta
+Registro
+Registros
 Ya
 YUV
 YLO

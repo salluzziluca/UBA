@@ -15,3 +15,5 @@ Es la memoria interna del procesador, muy acotada (64,32,16 u 8 bits).
 |  1   |   1  |  1   | 1    |
 
 Suponiendo que la entrada SI siempre sea 1
+
+##

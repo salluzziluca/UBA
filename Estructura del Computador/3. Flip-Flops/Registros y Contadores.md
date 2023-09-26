@@ -5,6 +5,11 @@ Es la memoria interna del procesador, muy acotada (64,32,16 u 8 bits).
 
 ### Registros de desplazamiento
 
-| Q3   | Q2   | Q1   | 0   |
+| Q3  | Q2  | Q1  | Q0  |
 | --- | --- | --- | --- |
-|     |     |     |     |
+| 0   | 0   | 0   | 0   |
+| 1   | 0   | 0   | 0   |
+| 1   | 1   | 0   | 0   |
+| 1   | 1   | 1   | 0   |
+|  1   |   1  |  1   | 1    |
+1

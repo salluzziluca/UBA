@@ -22,4 +22,6 @@ Dependiendo del valor de LD la entrada/salida es en serie o paralelo
 
 Por ejemplo: una impresora recibe informacion en serie de la pc y al llegar a 16 bits, cambia y los hace salir (internamente) en paralelo.
 
-Para 
+Para saber cuando se llega a 16 bits, utilizamos...
+
+## Contadores

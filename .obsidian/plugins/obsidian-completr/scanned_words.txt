@@ -967,6 +967,8 @@ validez
 verdad
 valen
 valgan
+variabilidad
+varianza
 deben
 de
 diferenciales
@@ -1373,6 +1375,7 @@ dependan
 desconecta
 desplazamiento
 dicha
+dispersa
 cumplir
 condiciones
 cartesianas
@@ -1894,6 +1897,10 @@ corespondiente
 cuadratico
 cercania
 constante
+cuan
+covarianza
+coef
+correlacion
 las
 la
 lo
@@ -2553,6 +2560,8 @@ escencial
 esclavo
 estados
 entradas
+esperanza
+esperanzas
 adicionalmente
 alguna
 al
@@ -2957,6 +2966,7 @@ asincr
 asicr
 almacenamiento
 avanza
+analizar
 tres
 theta
 tiene
@@ -5261,6 +5271,7 @@ rama
 representando
 realimentaci
 recibe
+relacion
 Volumen
 Variable
 Ver
@@ -5808,6 +5819,10 @@ Continua
 Chip
 Contadores
 Cuenta
+Covarianza
+Cov
+Coeficiente
+Correlaci
 Esf
 Entonces
 Esto
@@ -6947,6 +6962,7 @@ Decimos
 Def
 Debe
 Dependiendo
+Desvio
 obtenemos
 orientaci
 orientable
@@ -9804,6 +9820,7 @@ Absorcion
 Algebraico
 Aquel
 Actual
+Aplicacion
 Final
 Flujo
 Fuerza
@@ -11272,6 +11289,7 @@ Metodos
 Mapa
 McCluskey
 Mejor
+Mas
 OPTIONS
 OV
 OP
@@ -11519,6 +11537,7 @@ Ondas
 Ortogonales
 Ortogonalidad
 Ortogonal
+Orden
 Una
 Un
 UI

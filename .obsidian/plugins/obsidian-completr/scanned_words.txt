@@ -1901,6 +1901,7 @@ cuan
 covarianza
 coef
 correlacion
+creciente
 las
 la
 lo
@@ -5272,6 +5273,7 @@ representando
 realimentaci
 recibe
 relacion
+restringida
 Volumen
 Variable
 Ver
@@ -6672,6 +6674,7 @@ Toda
 Tambi
 Tomo
 This
+Tchevychev
 Dejando
 DEN
 De
@@ -8741,6 +8744,7 @@ factor
 flip
 flop
 flipflops
+finita
 gira
 green
 gradiente
@@ -11290,6 +11294,7 @@ Mapa
 McCluskey
 Mejor
 Mas
+Markov
 OPTIONS
 OV
 OP

@@ -656,6 +656,7 @@ secuencialmente
 sobran
 sincronicos
 sincronizadamente
+sirva
 vectoriales
 vectorial
 vacio
@@ -1371,6 +1372,7 @@ dont
 dependan
 desconecta
 desplazamiento
+dicha
 cumplir
 condiciones
 cartesianas
@@ -1889,6 +1891,9 @@ controladas
 conecta
 contadores
 corespondiente
+cuadratico
+cercania
+constante
 las
 la
 lo
@@ -4599,6 +4604,8 @@ pegados
 primos
 pines
 pin
+predecir
+predictor
 br
 borde
 busco
@@ -6071,6 +6078,7 @@ Experimento
 Eventos
 Elementales
 Estado
+ECM
 Integrales
 Importantes
 Igualo
@@ -7602,6 +7610,7 @@ miniterminos
 minivalores
 mapa
 maestro
+min
 que
 queda
 quede
@@ -11262,6 +11271,7 @@ Morgan
 Metodos
 Mapa
 McCluskey
+Mejor
 OPTIONS
 OV
 OP

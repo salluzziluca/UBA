@@ -657,6 +657,10 @@ sobran
 sincronicos
 sincronizadamente
 subdivide
+save
+saveAsPickleFile
+sort
+shuffle
 vectoriales
 vectorial
 vacio
@@ -1905,6 +1909,8 @@ criterio
 countByKey
 combina
 comparta
+cachear
+cache
 las
 la
 lo
@@ -2176,6 +2182,7 @@ listed
 llamado
 listo
 limites
+llamar
 enunciadas
 en
 espacio
@@ -2568,6 +2575,7 @@ executors
 externos
 existente
 elimina
+evitar
 adicionalmente
 alguna
 al
@@ -2973,6 +2981,12 @@ asicr
 almacenamiento
 avanza
 automaticamente
+armamos
+ayude
+accion
+asdas
+aplicando
+acuerdo
 tres
 theta
 tiene
@@ -3311,6 +3325,7 @@ tabular
 transiciones
 takeOrderer
 takeSample
+transformacion
 Sea
 Si
 Superficie
@@ -4623,6 +4638,12 @@ pines
 pin
 particionadas
 procesar
+poquitos
+podes
+particion
+particiones
+pidamos
+particionador
 br
 borde
 busco
@@ -4921,6 +4942,9 @@ buscado
 bidimensional
 bool
 booleano
+biscamos
+balanceada
+balancea
 ricas
 respectivamente
 recorre
@@ -5284,6 +5308,8 @@ registros
 reemplazo
 registro
 resgistros
+rdd
+repartition
 Volumen
 Variable
 Ver
@@ -5834,6 +5860,7 @@ Cuenta
 Colecciones
 Creados
 Crean
+Cachea
 Esf
 Entonces
 Esto
@@ -7284,6 +7311,7 @@ ocurrido
 obtengo
 organiza
 oscilaciones
+ordena
 mide
 mas
 mediante
@@ -7640,6 +7668,8 @@ miniterminos
 minivalores
 mapa
 maestro
+maps
+muuuuuuy
 que
 queda
 quede
@@ -8428,6 +8458,8 @@ impone
 interna
 impresora
 internamente
+inncesarios
+intermedio
 frontera
 flujo
 forma
@@ -9533,6 +9565,8 @@ jueves
 jeje
 jobs
 job
+justo
+junta
 Aplicaci
 Apuntes
 Ambas
@@ -11313,6 +11347,7 @@ Metodos
 Mapa
 McCluskey
 Map
+Metodo
 OPTIONS
 OV
 OP
@@ -12365,6 +12400,9 @@ RDDs
 Reconstruidos
 RDD
 ReduceByKey
+Reshuffle
+RepartitionAndSortWithinPartitions
+Reparticiona
 Ya
 YUV
 YLO

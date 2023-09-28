@@ -1904,6 +1904,7 @@ collect
 criterio
 countByKey
 combina
+comparta
 las
 la
 lo

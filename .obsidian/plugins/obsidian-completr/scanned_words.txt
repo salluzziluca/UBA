@@ -972,6 +972,7 @@ validez
 verdad
 valen
 valgan
+varianza
 deben
 de
 diferenciales
@@ -1913,6 +1914,9 @@ comparta
 cachear
 cache
 cjto
+covarianza
+coef
+correlacion
 las
 la
 lo
@@ -2580,6 +2584,7 @@ elimina
 evitar
 esperado
 esperanza
+esperanzas
 adicionalmente
 alguna
 al
@@ -5318,6 +5323,7 @@ registro
 resgistros
 rdd
 repartition
+relacion
 Volumen
 Variable
 Ver
@@ -5869,6 +5875,10 @@ Colecciones
 Creados
 Crean
 Cachea
+Covarianza
+Cov
+Coeficiente
+Correlaci
 Esf
 Entonces
 Esto
@@ -9888,6 +9898,7 @@ Aquel
 Actual
 Acciones
 Aleatoria
+Aplicacion
 Final
 Flujo
 Fuerza
@@ -11361,6 +11372,7 @@ Mapa
 McCluskey
 Map
 Metodo
+Mas
 OPTIONS
 OV
 OP
@@ -11608,6 +11620,7 @@ Ondas
 Ortogonales
 Ortogonalidad
 Ortogonal
+Orden
 Una
 Un
 UI

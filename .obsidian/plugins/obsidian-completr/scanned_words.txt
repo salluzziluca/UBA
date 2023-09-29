@@ -661,6 +661,7 @@ save
 saveAsPickleFile
 sort
 shuffle
+sabemos
 vectoriales
 vectorial
 vacio
@@ -1911,6 +1912,7 @@ combina
 comparta
 cachear
 cache
+cjto
 las
 la
 lo
@@ -2576,6 +2578,8 @@ externos
 existente
 elimina
 evitar
+esperado
+esperanza
 adicionalmente
 alguna
 al
@@ -2987,6 +2991,7 @@ accion
 asdas
 aplicando
 acuerdo
+atomos
 tres
 theta
 tiene
@@ -3326,6 +3331,7 @@ transiciones
 takeOrderer
 takeSample
 transformacion
+truncada
 Sea
 Si
 Superficie
@@ -4644,6 +4650,8 @@ particion
 particiones
 pidamos
 particionador
+promedio
+ponderado
 br
 borde
 busco
@@ -6131,6 +6139,7 @@ Experimento
 Eventos
 Elementales
 Estado
+Esperanza
 Integrales
 Importantes
 Igualo
@@ -7004,6 +7013,7 @@ Distributed
 Datasets
 Devuelve
 Distinct
+Discreta
 obtenemos
 orientaci
 orientable
@@ -9877,6 +9887,7 @@ Algebraico
 Aquel
 Actual
 Acciones
+Aleatoria
 Final
 Flujo
 Fuerza
@@ -10416,6 +10427,8 @@ Preorden
 Postorder
 Pero
 Proximo
+Propiedad
+Prop
 Hipotesis
 HbgIcQAl
 HJM

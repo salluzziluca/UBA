@@ -662,6 +662,7 @@ saveAsPickleFile
 sort
 shuffle
 sabemos
+sirva
 vectoriales
 vectorial
 vacio
@@ -1386,6 +1387,7 @@ demos
 devolver
 duplicados
 dispersa
+dicha
 cumplir
 condiciones
 cartesianas
@@ -1921,6 +1923,9 @@ coef
 correlacion
 creciente
 cuan
+cuadratico
+cercania
+constante
 las
 la
 lo
@@ -4662,6 +4667,8 @@ pidamos
 particionador
 promedio
 ponderado
+predecir
+predictor
 br
 borde
 busco
@@ -6156,6 +6163,7 @@ Eventos
 Elementales
 Estado
 Esperanza
+ECM
 Integrales
 Importantes
 Igualo
@@ -7698,6 +7706,7 @@ mapa
 maestro
 maps
 muuuuuuy
+min
 que
 queda
 quede
@@ -11383,6 +11392,7 @@ Map
 Metodo
 Mas
 Markov
+Mejor
 OPTIONS
 OV
 OP

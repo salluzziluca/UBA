@@ -973,6 +973,7 @@ verdad
 valen
 valgan
 varianza
+variabilidad
 deben
 de
 diferenciales
@@ -1384,6 +1385,7 @@ demores
 demos
 devolver
 duplicados
+dispersa
 cumplir
 condiciones
 cartesianas
@@ -1917,6 +1919,8 @@ cjto
 covarianza
 coef
 correlacion
+creciente
+cuan
 las
 la
 lo
@@ -2997,6 +3001,7 @@ asdas
 aplicando
 acuerdo
 atomos
+analizar
 tres
 theta
 tiene
@@ -5324,6 +5329,7 @@ resgistros
 rdd
 repartition
 relacion
+restringida
 Volumen
 Variable
 Ver
@@ -6729,6 +6735,7 @@ Tambi
 Tomo
 This
 Transformaciones
+Tchevychev
 Dejando
 DEN
 De
@@ -7024,6 +7031,7 @@ Datasets
 Devuelve
 Distinct
 Discreta
+Desvio
 obtenemos
 orientaci
 orientable
@@ -8812,6 +8820,7 @@ fallos
 first
 func
 filtra
+finita
 gira
 green
 gradiente
@@ -11373,6 +11382,7 @@ McCluskey
 Map
 Metodo
 Mas
+Markov
 OPTIONS
 OV
 OP

@@ -5001,6 +5001,7 @@ booleano
 biscamos
 balanceada
 balancea
+buscamos
 ricas
 respectivamente
 recorre

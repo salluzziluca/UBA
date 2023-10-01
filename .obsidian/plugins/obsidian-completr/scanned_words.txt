@@ -663,6 +663,7 @@ sort
 shuffle
 sabemos
 sirva
+sdecir
 vectoriales
 vectorial
 vacio
@@ -1389,6 +1390,9 @@ devolver
 duplicados
 dispersa
 dicha
+discreta
+distribuci
+discontinuidad
 cumplir
 condiciones
 cartesianas
@@ -1931,6 +1935,8 @@ cantidades
 clusters
 computadoras
 costosa
+contituyen
+conjuntod
 las
 la
 lo
@@ -2203,6 +2209,7 @@ llamado
 listo
 limites
 llamar
+les
 enunciadas
 en
 espacio
@@ -2601,6 +2608,7 @@ esperanza
 esperanzas
 excesivos
 equipo
+excluyente
 adicionalmente
 alguna
 al
@@ -3014,6 +3022,9 @@ aplicando
 acuerdo
 atomos
 analizar
+asigna
+aleatoria
+asociamos
 tres
 theta
 tiene
@@ -3354,6 +3365,7 @@ takeOrderer
 takeSample
 transformacion
 truncada
+tomos
 Sea
 Si
 Superficie
@@ -3622,6 +3634,7 @@ SON
 Simulacion
 Suponiendo
 Shuffle
+Soporte
 un
 una
 usando
@@ -4210,6 +4223,7 @@ niveles
 nuevo
 necesite
 negada
+numerable
 pertenecen
 pertenece
 pi
@@ -4678,6 +4692,10 @@ ponderado
 predecir
 predictor
 procesa
+props
+probabiilidad
+probabilida
+probas
 br
 borde
 busco
@@ -7723,6 +7741,7 @@ menes
 map
 muchos
 maquinas
+medir
 que
 queda
 quede
@@ -8515,6 +8534,7 @@ internamente
 inncesarios
 intermedio
 informaci
+intervalos
 frontera
 flujo
 forma
@@ -8848,6 +8868,7 @@ first
 func
 filtra
 finita
+finito
 gira
 green
 gradiente
@@ -10477,6 +10498,7 @@ Pero
 Proximo
 Propiedad
 Prop
+Proposici
 Hipotesis
 HbgIcQAl
 HJM
@@ -11412,6 +11434,7 @@ Metodo
 Mas
 Markov
 Mejor
+Mixta
 OPTIONS
 OV
 OP

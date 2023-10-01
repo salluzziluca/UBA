@@ -2210,6 +2210,7 @@ listo
 limites
 llamar
 les
+lambra
 enunciadas
 en
 espacio
@@ -2609,6 +2610,7 @@ esperanzas
 excesivos
 equipo
 excluyente
+exponencial
 adicionalmente
 alguna
 al
@@ -4224,6 +4226,7 @@ nuevo
 necesite
 negada
 numerable
+ndar
 pertenecen
 pertenece
 pi
@@ -4696,6 +4699,7 @@ props
 probabiilidad
 probabilida
 probas
+param
 br
 borde
 busco
@@ -5365,6 +5369,7 @@ repartition
 relacion
 restringida
 reducer
+riesgo
 Volumen
 Variable
 Ver
@@ -6772,6 +6777,7 @@ Tomo
 This
 Transformaciones
 Tchevychev
+Truncamiento
 Dejando
 DEN
 De
@@ -7068,6 +7074,7 @@ Devuelve
 Distinct
 Discreta
 Desvio
+Distribucion
 obtenemos
 orientaci
 orientable
@@ -7378,6 +7385,7 @@ oscilaciones
 ordena
 opera
 operaci
+omega
 mide
 mas
 mediante
@@ -9161,6 +9169,8 @@ generalizar
 gicas
 generen
 grandes
+geometrica
+gamma
 Gauss
 Green
 GC
@@ -9431,6 +9441,7 @@ Generalizaci
 Genero
 Gr
 GroupByKey
+Gamma
 jacobiana
 jacobinao
 jue

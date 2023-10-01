@@ -975,6 +975,7 @@ valen
 valgan
 varianza
 variabilidad
+vol
 deben
 de
 diferenciales
@@ -1926,6 +1927,10 @@ cuan
 cuadratico
 cercania
 constante
+cantidades
+clusters
+computadoras
+costosa
 las
 la
 lo
@@ -2594,6 +2599,8 @@ evitar
 esperado
 esperanza
 esperanzas
+excesivos
+equipo
 adicionalmente
 alguna
 al
@@ -3614,6 +3621,7 @@ Source
 SON
 Simulacion
 Suponiendo
+Shuffle
 un
 una
 usando
@@ -4669,6 +4677,7 @@ promedio
 ponderado
 predecir
 predictor
+procesa
 br
 borde
 busco
@@ -5337,6 +5346,7 @@ rdd
 repartition
 relacion
 restringida
+reducer
 Volumen
 Variable
 Ver
@@ -7348,6 +7358,8 @@ obtengo
 organiza
 oscilaciones
 ordena
+opera
+operaci
 mide
 mas
 mediante
@@ -7707,6 +7719,10 @@ maestro
 maps
 muuuuuuy
 min
+menes
+map
+muchos
+maquinas
 que
 queda
 quede
@@ -7932,6 +7948,7 @@ quiero
 quien
 quine
 quinas
+quina
 hasta
 hacia
 hay
@@ -8497,6 +8514,7 @@ impresora
 internamente
 inncesarios
 intermedio
+informaci
 frontera
 flujo
 forma
@@ -9121,6 +9139,7 @@ gmail
 generalizar
 gicas
 generen
+grandes
 Gauss
 Green
 GC

@@ -667,6 +667,7 @@ sirva
 sdecir
 subsistema
 sustituto
+sticas
 vectoriales
 vectorial
 vacio
@@ -980,6 +981,7 @@ valgan
 varianza
 variabilidad
 vol
+vida
 deben
 de
 diferenciales
@@ -1956,6 +1958,10 @@ controlar
 cliente
 comunique
 comunica
+creado
+conviven
+compone
+ciclo
 las
 la
 lo
@@ -2639,6 +2645,7 @@ extender
 ejecuci
 extraen
 encarga
+extends
 adicionalmente
 alguna
 al
@@ -3063,6 +3070,10 @@ alternativa
 agregarle
 alto
 acceso
+abstracta
+asociaci
+acopladas
+atributo
 tres
 theta
 tiene
@@ -5053,6 +5064,7 @@ biscamos
 balanceada
 balancea
 buscamos
+bil
 ricas
 respectivamente
 recorre
@@ -5426,6 +5438,7 @@ rbol
 representarse
 responsabilidades
 representante
+recibido
 Volumen
 Variable
 Ver
@@ -6559,6 +6572,8 @@ Inserccion
 Inversa
 Involuci
 Implicante
+Inheritance
+Implementaci
 Triples
 Teorema
 Teoremas
@@ -6838,6 +6853,7 @@ This
 Transformaciones
 Tchevychev
 Truncamiento
+Tiene
 Dejando
 DEN
 De
@@ -7138,6 +7154,7 @@ Distribucion
 Desacopla
 Decorador
 Define
+Dependencia
 obtenemos
 orientaci
 orientable
@@ -7820,6 +7837,9 @@ micamente
 matter
 mutar
 mputo
+metro
+mandan
+mensajes
 que
 queda
 quede
@@ -8307,6 +8327,8 @@ huevo
 habla
 haces
 herencia
+hereda
+haberlo
 image
 iria
 incluya
@@ -8624,6 +8646,8 @@ implementaci
 individuales
 involucre
 intr
+implementa
+interaccionan
 frontera
 flujo
 forma
@@ -10060,6 +10084,8 @@ Aleatoria
 Aplicacion
 Adapter
 ADAPTADOR
+Asociaci
+Agregaci
 Final
 Flujo
 Fuerza
@@ -12063,6 +12089,7 @@ Uno
 Union
 Uniforme
 Usa
+Usualmente
 width
 wxTE
 wS
@@ -12601,6 +12628,7 @@ ReduceByKey
 Reshuffle
 RepartitionAndSortWithinPartitions
 Reparticiona
+Realizaci
 Ya
 YUV
 YLO

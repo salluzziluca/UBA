@@ -991,6 +991,10 @@ vol
 vida
 violar
 visitante
+variantes
+variante
+versiones
+variaciones
 deben
 de
 diferenciales
@@ -1417,6 +1421,11 @@ directamente
 deshacer
 dicho
 delegando
+devuelvan
+director
+decidan
+delegue
+decide
 cumplir
 condiciones
 cartesianas
@@ -1985,6 +1994,20 @@ compartir
 codigo
 cuestion
 creas
+concreta
+concreto
+construcci
+complejo
+correspondientes
+construyendo
+construcciones
+creaci
+correspondiente
+crearlos
+creador
+copiando
+clonado
+clonacion
 las
 la
 lo
@@ -2262,6 +2285,7 @@ lambra
 laburar
 lenguaje
 literalmente
+logica
 enunciadas
 en
 espacio
@@ -2684,6 +2708,10 @@ estrategias
 esqueleto
 estructura
 ejecute
+empezamos
+escenarios
+especifica
+exitosa
 adicionalmente
 alguna
 al
@@ -3125,6 +3153,11 @@ algoritmos
 algunos
 allegadas
 alteramos
+abstraemos
+ayudar
+atado
+aquel
+ahi
 tres
 theta
 tiene
@@ -3473,6 +3506,8 @@ torre
 tarde
 ticamente
 toda
+tenes
+trata
 Sea
 Si
 Superficie
@@ -3744,6 +3779,7 @@ Shuffle
 Soporte
 State
 Strategy
+Separa
 un
 una
 usando
@@ -4044,6 +4080,8 @@ utilizado
 utilizamos
 unificada
 unos
+utilizando
+util
 no
 ndricas
 nulo
@@ -4832,6 +4870,17 @@ posta
 publisher
 point
 pase
+pensar
+page
+pedidos
+ptero
+productos
+protot
+pica
+prototipo
+prototype
+privados
+proporciona
 br
 borde
 busco
@@ -5135,6 +5184,12 @@ balanceada
 balancea
 buscamos
 bil
+brica
+bricas
+botones
+boton
+builder
+bici
 ricas
 respectivamente
 recorre
@@ -5518,6 +5573,9 @@ regex
 refiere
 refieran
 redefinan
+relacionados
+representaciones
+reutilizar
 Volumen
 Variable
 Ver
@@ -6081,6 +6139,8 @@ Combina
 Chain
 Crea
 Command
+Creaci
+Comportamiento
 Esf
 Entonces
 Esto
@@ -6355,6 +6415,9 @@ Esperanza
 ECM
 Evita
 Encapsula
+Entrega
+Especifica
+Estructurales
 Integrales
 Importantes
 Igualo
@@ -7243,6 +7306,7 @@ Desacopla
 Decorador
 Define
 Dependencia
+Describe
 obtenemos
 orientaci
 orientable
@@ -7934,6 +7998,9 @@ modifique
 modularizarlas
 modularizas
 metodos
+mac
+metros
+moto
 que
 queda
 quede
@@ -8161,6 +8228,7 @@ quine
 quinas
 quina
 quieren
+quienes
 hasta
 hacia
 hay
@@ -8426,6 +8494,8 @@ hereda
 haberlo
 handelea
 humano
+hacen
+helic
 image
 iria
 incluya
@@ -8750,6 +8820,10 @@ interpretar
 interacci
 intercambiables
 involucradas
+inicio
+instanciar
+internos
+instancia
 frontera
 flujo
 forma
@@ -9088,6 +9162,7 @@ flexible
 funcionalidad
 funcionalidades
 fino
+familias
 gira
 green
 gradiente
@@ -9387,6 +9462,8 @@ grano
 gastan
 gram
 git
+gestionar
+global
 Gauss
 Green
 GC
@@ -9658,6 +9735,7 @@ Genero
 Gr
 GroupByKey
 Gamma
+Garantiza
 jacobiana
 jacobinao
 jue
@@ -10190,6 +10268,7 @@ Adapter
 ADAPTADOR
 Asociaci
 Agregaci
+Abstract
 Final
 Flujo
 Fuerza
@@ -10438,6 +10517,7 @@ Flop
 Filter
 FlatMap
 Flyweight
+Factory
 Potencial
 Para
 Punto
@@ -10739,6 +10819,8 @@ Proporciona
 Proxy
 Promueve
 Parecer
+Patrones
+Prototype
 Hipotesis
 HbgIcQAl
 HJM
@@ -12200,6 +12282,7 @@ Union
 Uniforme
 Usa
 Usualmente
+Utilizamos
 width
 wxTE
 wS
@@ -12463,6 +12546,7 @@ will
 words
 with
 what
+windows
 Recordemos
 RA
 RF
@@ -15140,6 +15224,7 @@ Bayes
 Borra
 Busqueda
 Bridge
+Builder
 äU
 äI
 XJV

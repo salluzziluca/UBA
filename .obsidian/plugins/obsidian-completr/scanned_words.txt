@@ -245,6 +245,7 @@ Logramos
 LD
 LISTOOO
 Literalmente
+Least
 subespacios
 subespacio
 se
@@ -675,6 +676,9 @@ subscribers
 subcomportamientos
 setea
 subclases
+strangers
+simples
+separar
 vectoriales
 vectorial
 vacio
@@ -1426,6 +1430,9 @@ director
 decidan
 delegue
 decide
+duplicaci
+documentaci
+delimitados
 cumplir
 condiciones
 cartesianas
@@ -2008,6 +2015,8 @@ creador
 copiando
 clonado
 clonacion
+conocido
+claro
 las
 la
 lo
@@ -2712,6 +2721,7 @@ empezamos
 escenarios
 especifica
 exitosa
+expuesta
 adicionalmente
 alguna
 al
@@ -3158,6 +3168,10 @@ ayudar
 atado
 aquel
 ahi
+atributos
+almacendo
+agregues
+agregalas
 tres
 theta
 tiene
@@ -3508,6 +3522,7 @@ ticamente
 toda
 tenes
 trata
+talk
 Sea
 Si
 Superficie
@@ -3780,6 +3795,10 @@ Soporte
 State
 Strategy
 Separa
+Simple
+Stupid
+SoC
+Separation
 un
 una
 usando
@@ -4381,6 +4400,7 @@ nseca
 notifica
 notificados
 notify
+necesarias
 pertenecen
 pertenece
 pi
@@ -4881,6 +4901,11 @@ prototipo
 prototype
 privados
 proporciona
+pieza
+piezas
+pedo
+pasados
+publica
 br
 borde
 busco
@@ -5576,6 +5601,10 @@ redefinan
 relacionados
 representaciones
 reutilizar
+recibidos
+retornado
+reduccion
+refactorizar
 Volumen
 Variable
 Ver
@@ -6141,6 +6170,8 @@ Crea
 Command
 Creaci
 Comportamiento
+Commitment
+Concerns
 Esf
 Entonces
 Esto
@@ -6418,6 +6449,9 @@ Encapsula
 Entrega
 Especifica
 Estructurales
+Esper
+EDP
+Explicit
 Integrales
 Importantes
 Igualo
@@ -7307,6 +7341,10 @@ Decorador
 Define
 Dependencia
 Describe
+Demeter
+Dont
+DRY
+Dependencies
 obtenemos
 orientaci
 orientable
@@ -7620,6 +7658,8 @@ operaci
 omega
 objeto
 organizador
+oculta
+optimizar
 mide
 mas
 mediante
@@ -8824,6 +8864,9 @@ inicio
 instanciar
 internos
 instancia
+invocar
+instanciados
+intereses
 frontera
 flujo
 forma
@@ -9163,6 +9206,7 @@ funcionalidad
 funcionalidades
 fino
 familias
+funcione
 gira
 green
 gradiente
@@ -9736,6 +9780,7 @@ Gr
 GroupByKey
 Gamma
 Garantiza
+Gonna
 jacobiana
 jacobinao
 jue
@@ -10269,6 +10314,7 @@ ADAPTADOR
 Asociaci
 Agregaci
 Abstract
+Ain
 Final
 Flujo
 Fuerza
@@ -10821,6 +10867,8 @@ Promueve
 Parecer
 Patrones
 Prototype
+PoLK
+Principle
 Hipotesis
 HbgIcQAl
 HJM
@@ -11492,6 +11540,7 @@ Norma
 Not
 NAND
 NOR
+Need
 MORE
 MYk
 MDD
@@ -11760,6 +11809,7 @@ Mixta
 Mediador
 Memento
 Method
+Mantener
 OPTIONS
 OV
 OP
@@ -12009,6 +12059,7 @@ Ortogonalidad
 Ortogonal
 Orden
 Observer
+Optimization
 Una
 Un
 UI
@@ -12825,6 +12876,7 @@ Reparticiona
 Realizaci
 Responsibilty
 Representa
+Repeat
 Ya
 YUV
 YLO
@@ -13057,6 +13109,9 @@ YOUO
 YDr
 YWB
 YZu
+Yourself
+YAGNI
+You
 Wronskiano
 WkpoNL
 WQsX
@@ -14279,6 +14334,10 @@ KZZZ
 KWTc
 Krrr
 Karnaugh
+KISS
+Keep
+KOP
+Knuth
 kt
 ku
 kSe

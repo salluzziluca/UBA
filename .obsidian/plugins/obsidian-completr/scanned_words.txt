@@ -10578,6 +10578,7 @@ HNN
 Hemos
 Hay
 Herm
+Hexadecimal
 ya
 yRZ
 yD

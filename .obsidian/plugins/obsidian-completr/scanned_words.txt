@@ -2563,6 +2563,8 @@ estados
 entradas
 esperanza
 esperanzas
+extiendo
+efect
 adicionalmente
 alguna
 al
@@ -3869,6 +3871,7 @@ using
 use
 utilizado
 utilizamos
+unos
 no
 ndricas
 nulo
@@ -4617,6 +4620,7 @@ pines
 pin
 predecir
 predictor
+pongo
 br
 borde
 busco
@@ -5274,6 +5278,7 @@ realimentaci
 recibe
 relacion
 restringida
+recibo
 Volumen
 Variable
 Ver
@@ -6096,6 +6101,7 @@ Eventos
 Elementales
 Estado
 ECM
+Extiendo
 Integrales
 Importantes
 Igualo

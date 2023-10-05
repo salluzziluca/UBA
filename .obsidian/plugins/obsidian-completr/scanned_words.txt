@@ -659,6 +659,7 @@ sincronizadamente
 sirva
 sort
 subdivide
+sencilla
 vectoriales
 vectorial
 vacio
@@ -1924,6 +1925,7 @@ collect
 criterio
 countByKey
 comparta
+comparaci
 las
 la
 lo

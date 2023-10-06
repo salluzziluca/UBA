@@ -657,6 +657,9 @@ sobran
 sincronicos
 sincronizadamente
 sirva
+sort
+subdivide
+sencilla
 vectoriales
 vectorial
 vacio
@@ -969,6 +972,7 @@ valen
 valgan
 variabilidad
 varianza
+vol
 deben
 de
 diferenciales
@@ -1376,6 +1380,12 @@ desconecta
 desplazamiento
 dicha
 dispersa
+driver
+devuelven
+demores
+demos
+devolver
+duplicados
 cumplir
 condiciones
 cartesianas
@@ -1902,6 +1912,20 @@ covarianza
 coef
 correlacion
 creciente
+cantidades
+clusters
+computadoras
+combina
+costosa
+comunicaci
+convierten
+clustering
+count
+collect
+criterio
+countByKey
+comparta
+comparaci
 las
 la
 lo
@@ -2565,6 +2589,12 @@ esperanza
 esperanzas
 extiendo
 efect
+excesivos
+equipo
+executors
+externos
+existente
+elimina
 adicionalmente
 alguna
 al
@@ -2970,6 +3000,9 @@ asicr
 almacenamiento
 avanza
 analizar
+armamos
+ayude
+automaticamente
 tres
 theta
 tiene
@@ -3306,6 +3339,8 @@ tendr
 tablas
 tabular
 transiciones
+takeOrderer
+takeSample
 Sea
 Si
 Superficie
@@ -3573,6 +3608,7 @@ Source
 SON
 Simulacion
 Suponiendo
+Shuffle
 un
 una
 usando
@@ -4621,6 +4657,9 @@ pin
 predecir
 predictor
 pongo
+procesar
+procesa
+particionadas
 br
 borde
 busco
@@ -4917,6 +4956,9 @@ borrado
 busqueda
 buscado
 bidimensional
+biscamos
+bool
+booleano
 ricas
 respectivamente
 recorre
@@ -5279,6 +5321,11 @@ recibe
 relacion
 restringida
 recibo
+reducer
+registros
+reemplazo
+registro
+resgistros
 Volumen
 Variable
 Ver
@@ -5830,6 +5877,9 @@ Covarianza
 Cov
 Coeficiente
 Correlaci
+Colecciones
+Creados
+Crean
 Esf
 Entonces
 Esto
@@ -6681,6 +6731,7 @@ Tambi
 Tomo
 This
 Tchevychev
+Transformaciones
 Dejando
 DEN
 De
@@ -6972,6 +7023,10 @@ Def
 Debe
 Dependiendo
 Desvio
+Distributed
+Datasets
+Devuelve
+Distinct
 obtenemos
 orientaci
 orientable
@@ -7279,6 +7334,8 @@ ocurrido
 obtengo
 organiza
 oscilaciones
+opera
+operaci
 mide
 mas
 mediante
@@ -7636,6 +7693,10 @@ minivalores
 mapa
 maestro
 min
+menes
+map
+muchos
+maquinas
 que
 queda
 quede
@@ -7860,6 +7921,8 @@ quiere
 quiero
 quien
 quine
+quina
+quinas
 hasta
 hacia
 hay
@@ -8423,6 +8486,8 @@ impone
 interna
 impresora
 internamente
+informaci
+intermedio
 frontera
 flujo
 forma
@@ -8751,6 +8816,11 @@ flip
 flop
 flipflops
 finita
+freante
+fallos
+first
+func
+filtra
 gira
 green
 gradiente
@@ -9042,6 +9112,7 @@ gmail
 generalizar
 gicas
 generen
+grandes
 Gauss
 Green
 GC
@@ -9311,6 +9382,7 @@ GUI
 Generalizaci
 Genero
 Gr
+GroupByKey
 jacobiana
 jacobinao
 jue
@@ -9521,6 +9593,8 @@ jjj
 jk
 jueves
 jeje
+jobs
+job
 Aplicaci
 Apuntes
 Ambas
@@ -9831,6 +9905,7 @@ Algebraico
 Aquel
 Actual
 Aplicacion
+Acciones
 Final
 Flujo
 Fuerza
@@ -10076,6 +10151,8 @@ Frecuencia
 Funcion
 Flip
 Flop
+Filter
+FlatMap
 Potencial
 Para
 Punto
@@ -11302,6 +11379,8 @@ McCluskey
 Mejor
 Mas
 Markov
+Metodo
+Map
 OPTIONS
 OV
 OP
@@ -12350,6 +12429,11 @@ Redondeo
 REsulta
 Registro
 Registros
+Resilent
+RDDs
+Reconstruidos
+RDD
+ReduceByKey
 Ya
 YUV
 YLO
@@ -14045,6 +14129,7 @@ kYw
 kgV
 kB
 kIDAT
+key
 Qa
 Qe
 QUU

@@ -1927,6 +1927,7 @@ criterio
 countByKey
 comparta
 comparaci
+cachear
 las
 la
 lo
@@ -2198,6 +2199,7 @@ listed
 llamado
 listo
 limites
+llamar
 enunciadas
 en
 espacio
@@ -3005,6 +3007,7 @@ armamos
 ayude
 automaticamente
 adbd
+accion
 tres
 theta
 tiene
@@ -3343,6 +3346,7 @@ tabular
 transiciones
 takeOrderer
 takeSample
+transformacion
 Sea
 Si
 Superficie
@@ -4664,6 +4668,8 @@ pongo
 procesar
 procesa
 particionadas
+poquitos
+podes
 br
 borde
 busco
@@ -7701,6 +7707,8 @@ menes
 map
 muchos
 maquinas
+maps
+muuuuuuy
 que
 queda
 quede
@@ -8492,6 +8500,7 @@ impresora
 internamente
 informaci
 intermedio
+inncesarios
 frontera
 flujo
 forma
@@ -9600,6 +9609,7 @@ jueves
 jeje
 jobs
 job
+justo
 Aplicaci
 Apuntes
 Ambas

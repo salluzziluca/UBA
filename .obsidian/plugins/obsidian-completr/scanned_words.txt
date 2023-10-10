@@ -1982,6 +1982,7 @@ cXb
 ccAs
 cSV
 cjT
+corriendo
 las
 la
 lo
@@ -2672,6 +2673,7 @@ eCF
 etW
 eVJ
 eng
+exp
 adicionalmente
 alguna
 al
@@ -4340,6 +4342,7 @@ npm
 nxL
 nTY
 nxI
+normalizo
 pertenecen
 pertenece
 pi
@@ -6067,6 +6070,7 @@ CfiRW
 Ciee
 Cpj
 CdM
+Cuento
 Esf
 Entonces
 Esto

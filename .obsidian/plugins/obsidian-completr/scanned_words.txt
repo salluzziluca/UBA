@@ -620,6 +620,8 @@ subsamplear
 segunda
 search
 squeda
+suficiente
+solucionar
 vectoriales
 vectorial
 vacio
@@ -919,6 +921,7 @@ visualizar
 vida
 valitadion
 validacion
+volvemos
 deben
 de
 diferenciales
@@ -1791,6 +1794,9 @@ correspondiente
 combinacion
 combinaciones
 cross
+conseguir
+complejo
+correcto
 las
 la
 lo
@@ -2420,6 +2426,9 @@ entrenamiento
 encontramos
 extremo
 entrenar
+error
+expresiva
+expresivo
 adicionalmente
 alguna
 al
@@ -2796,6 +2805,9 @@ azar
 aumentando
 achicarla
 anomal
+alto
+ajusta
+alucina
 tres
 theta
 tiene
@@ -3122,6 +3134,7 @@ tanta
 tuning
 test
 train
+tecnica
 Sea
 Si
 Superficie
@@ -3383,6 +3396,7 @@ Stacked
 Scatter
 Series
 Sankey
+Suele
 un
 una
 usando
@@ -3676,6 +3690,7 @@ using
 use
 utiliza
 utilizan
+underfitting
 no
 ndricas
 nulo
@@ -4395,6 +4410,8 @@ parametro
 probando
 partimos
 particiones
+produce
+penaliza
 br
 borde
 busco
@@ -5021,6 +5038,8 @@ rows
 refinar
 rangos
 rotando
+ressultado
+regularizamos
 Volumen
 Variable
 Ver
@@ -6967,6 +6986,7 @@ oversampleando
 optimizacion
 optimos
 optimo
+overfitting
 mide
 mas
 mediante
@@ -7797,6 +7817,7 @@ hacerlo
 hiperparametros
 hiper
 hipers
+haciendo
 image
 iria
 incluya
@@ -8677,6 +8698,7 @@ gamma
 gatito
 gicamente
 grid
+grados
 Gauss
 Green
 GC
@@ -8946,6 +8968,7 @@ GUI
 Gamma
 GroupByKey
 Grid
+Generaliza
 jacobiana
 jacobinao
 jue
@@ -11145,6 +11168,7 @@ OPQQ
 OOUU
 Out
 Otros
+Overfitting
 Una
 Un
 UI
@@ -11415,6 +11439,7 @@ UEl
 Uox
 Uno
 Usualmente
+Underfitting
 width
 wxTE
 wS
@@ -11936,6 +11961,7 @@ RDD
 ReduceByKey
 Realizaci
 Random
+Regularizacion
 Ya
 YUV
 YLO

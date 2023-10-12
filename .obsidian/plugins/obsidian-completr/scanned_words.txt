@@ -618,6 +618,8 @@ supervisado
 set
 subsamplear
 segunda
+search
+squeda
 vectoriales
 vectorial
 vacio
@@ -915,6 +917,8 @@ visuales
 visualizaciones
 visualizar
 vida
+valitadion
+validacion
 deben
 de
 diferenciales
@@ -1285,6 +1289,8 @@ divdimos
 dependan
 desbalanceado
 deteccion
+decidimos
+dist
 cumplir
 condiciones
 cartesianas
@@ -1782,6 +1788,9 @@ conozcamos
 cronol
 complicado
 correspondiente
+combinacion
+combinaciones
+cross
 las
 la
 lo
@@ -2405,6 +2414,12 @@ extends
 etiquetas
 entrear
 evaluarlo
+elegida
+entranado
+entrenamiento
+encontramos
+extremo
+entrenar
 adicionalmente
 alguna
 al
@@ -3104,6 +3119,9 @@ transformaciones
 takeOrderer
 takeSample
 tanta
+tuning
+test
+train
 Sea
 Si
 Superficie
@@ -4370,6 +4388,13 @@ predecir
 parezca
 perdemos
 predecido
+parametrizan
+probamos
+pro
+parametro
+probando
+partimos
+particiones
 br
 borde
 busco
@@ -4657,6 +4682,8 @@ bool
 booleano
 bil
 balancearlo
+busqueda
+bayesiana
 ricas
 respectivamente
 recorre
@@ -4991,6 +5018,9 @@ resgistros
 recibido
 regresi
 rows
+refinar
+rangos
+rotando
 Volumen
 Variable
 Ver
@@ -5238,6 +5268,7 @@ Venn
 Vamos
 VAD
 VAC
+Validation
 Cartesianas
 Cil
 Cambios
@@ -5776,6 +5807,8 @@ Ejecutar
 EBF
 Escribimos
 Engineering
+Entrenar
+Establecemos
 Integrales
 Importantes
 Igualo
@@ -6342,6 +6375,8 @@ Transformaciones
 Tiene
 Training
 Test
+Tuning
+Train
 Dejando
 DEN
 De
@@ -6929,6 +6964,9 @@ outliers
 outlier
 objeto
 oversampleando
+optimizacion
+optimos
+optimo
 mide
 mas
 mediante
@@ -7267,6 +7305,10 @@ minoritaria
 minoria
 mayoritaria
 muchos
+minimizar
+maximizar
+metrica
+mejores
 que
 queda
 quede
@@ -7489,6 +7531,7 @@ quimicas
 quizas
 quiero
 quinas
+quedamos
 hasta
 hacia
 hay
@@ -7751,6 +7794,9 @@ hereda
 haberlo
 habr
 hacerlo
+hiperparametros
+hiper
+hipers
 image
 iria
 incluya
@@ -8032,6 +8078,7 @@ interfaz
 interaccionan
 invitar
 inventamos
+invertir
 frontera
 flujo
 forma
@@ -8342,6 +8389,7 @@ first
 func
 filtra
 features
+fold
 gira
 green
 gradiente
@@ -8628,6 +8676,7 @@ guarda
 gamma
 gatito
 gicamente
+grid
 Gauss
 Green
 GC
@@ -8896,6 +8945,7 @@ Github
 GUI
 Gamma
 GroupByKey
+Grid
 jacobiana
 jacobinao
 jue
@@ -11885,6 +11935,7 @@ Reconstruidos
 RDD
 ReduceByKey
 Realizaci
+Random
 Ya
 YUV
 YLO
@@ -13338,6 +13389,7 @@ KH
 KZZZ
 KWTc
 Krrr
+Kfold
 kt
 ku
 kSe
@@ -14279,6 +14331,8 @@ BON
 Box
 Bar
 Buenas
+Buscamos
+Bayesiana
 äU
 äI
 XJV

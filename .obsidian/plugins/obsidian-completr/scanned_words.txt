@@ -614,6 +614,10 @@ secuencia
 sdecir
 subdivide
 sticas
+supervisado
+set
+subsamplear
+segunda
 vectoriales
 vectorial
 vacio
@@ -1277,6 +1281,10 @@ demores
 demos
 devolver
 duplicados
+divdimos
+dependan
+desbalanceado
+deteccion
 cumplir
 condiciones
 cartesianas
@@ -1767,6 +1775,13 @@ compone
 ciclo
 compuesto
 comunica
+clasificacion
+categoricos
+creacion
+conozcamos
+cronol
+complicado
+correspondiente
 las
 la
 lo
@@ -2030,6 +2045,9 @@ listed
 labura
 listas
 lambra
+labels
+label
+lables
 enunciadas
 en
 espacio
@@ -2384,6 +2402,9 @@ externos
 existente
 elimina
 extends
+etiquetas
+entrear
+evaluarlo
 adicionalmente
 alguna
 al
@@ -2756,6 +2777,10 @@ abstracta
 asociaci
 acopladas
 atributo
+azar
+aumentando
+achicarla
+anomal
 tres
 theta
 tiene
@@ -3078,6 +3103,7 @@ traduccion
 transformaciones
 takeOrderer
 takeSample
+tanta
 Sea
 Si
 Superficie
@@ -3631,6 +3657,7 @@ urna
 using
 use
 utiliza
+utilizan
 no
 ndricas
 nulo
@@ -3908,6 +3935,7 @@ nuestros
 numerable
 ndar
 nuevo
+numericos
 pertenecen
 pertenece
 pi
@@ -4337,6 +4365,11 @@ param
 particionadas
 procesar
 par
+permita
+predecir
+parezca
+perdemos
+predecido
 br
 borde
 busco
@@ -4623,6 +4656,7 @@ box
 bool
 booleano
 bil
+balancearlo
 ricas
 respectivamente
 recorre
@@ -4955,6 +4989,8 @@ reemplazo
 registro
 resgistros
 recibido
+regresi
+rows
 Volumen
 Variable
 Ver
@@ -5739,6 +5775,7 @@ Enviar
 Ejecutar
 EBF
 Escribimos
+Engineering
 Integrales
 Importantes
 Igualo
@@ -6303,6 +6340,8 @@ Tienen
 Tree
 Transformaciones
 Tiene
+Training
+Test
 Dejando
 DEN
 De
@@ -6889,6 +6928,7 @@ obviamente
 outliers
 outlier
 objeto
+oversampleando
 mide
 mas
 mediante
@@ -7223,6 +7263,10 @@ monotona
 metro
 mandan
 mensajes
+minoritaria
+minoria
+mayoritaria
+muchos
 que
 queda
 quede
@@ -7705,6 +7749,8 @@ herramientas
 hecho
 hereda
 haberlo
+habr
+hacerlo
 image
 iria
 incluya
@@ -7984,6 +8030,8 @@ int
 implementa
 interfaz
 interaccionan
+invitar
+inventamos
 frontera
 flujo
 forma
@@ -8293,6 +8341,7 @@ fallos
 first
 func
 filtra
+features
 gira
 green
 gradiente
@@ -8577,6 +8626,8 @@ graves
 groupby
 guarda
 gamma
+gatito
+gicamente
 Gauss
 Green
 GC
@@ -9354,6 +9405,7 @@ Axioma
 Acciones
 Asociaci
 Agregaci
+Aprendizaje
 Final
 Flujo
 Fuerza
@@ -9592,6 +9644,7 @@ For
 Funcion
 Filter
 FlatMap
+Features
 Potencial
 Para
 Punto
@@ -9878,6 +9931,7 @@ Permite
 Pandas
 Pregunta
 Proposici
+Problemas
 Hipotesis
 HbgIcQAl
 HJM
@@ -13743,6 +13797,7 @@ QPP
 QoKS
 QA
 QVWEbZ
+Queremos
 zt
 zN
 zB

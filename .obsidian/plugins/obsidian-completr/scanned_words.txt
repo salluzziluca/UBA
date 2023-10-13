@@ -237,6 +237,7 @@ LZ
 Localizo
 Lineplot
 Lollipop
+Least
 subespacios
 subespacio
 se
@@ -622,6 +623,8 @@ search
 squeda
 suficiente
 solucionar
+strangers
+sean
 vectoriales
 vectorial
 vacio
@@ -1294,6 +1297,9 @@ desbalanceado
 deteccion
 decidimos
 dist
+duplicaci
+documentaci
+delimitados
 cumplir
 condiciones
 cartesianas
@@ -1797,6 +1803,9 @@ cross
 conseguir
 complejo
 correcto
+conocido
+codigo
+claro
 las
 la
 lo
@@ -2429,6 +2438,8 @@ entrenar
 error
 expresiva
 expresivo
+estructura
+expuesta
 adicionalmente
 alguna
 al
@@ -2808,6 +2819,11 @@ anomal
 alto
 ajusta
 alucina
+atributos
+argumentos
+almacendo
+agregues
+agregalas
 tres
 theta
 tiene
@@ -3135,6 +3151,8 @@ tuning
 test
 train
 tecnica
+talk
+toda
 Sea
 Si
 Superficie
@@ -3397,6 +3415,10 @@ Scatter
 Series
 Sankey
 Suele
+Simple
+Stupid
+SoC
+Separation
 un
 una
 usando
@@ -3969,6 +3991,7 @@ numerable
 ndar
 nuevo
 numericos
+necesarias
 pertenecen
 pertenece
 pi
@@ -4412,6 +4435,11 @@ partimos
 particiones
 produce
 penaliza
+pieza
+piezas
+pedo
+pasados
+publica
 br
 borde
 busco
@@ -5040,6 +5068,10 @@ rangos
 rotando
 ressultado
 regularizamos
+recibidos
+retornado
+reduccion
+refactorizar
 Volumen
 Variable
 Ver
@@ -5567,6 +5599,8 @@ Colecciones
 Creados
 Crean
 Composici
+Commitment
+Concerns
 Esf
 Entonces
 Esto
@@ -5828,6 +5862,9 @@ Escribimos
 Engineering
 Entrenar
 Establecemos
+Esper
+EDP
+Explicit
 Integrales
 Importantes
 Igualo
@@ -6683,6 +6720,10 @@ Datasets
 Devuelve
 Distinct
 Dependencia
+Demeter
+Dont
+DRY
+Dependencies
 obtenemos
 orientaci
 orientable
@@ -6987,6 +7028,8 @@ optimizacion
 optimos
 optimo
 overfitting
+oculta
+optimizar
 mide
 mas
 mediante
@@ -7329,6 +7372,7 @@ minimizar
 maximizar
 metrica
 mejores
+metodos
 que
 queda
 quede
@@ -8100,6 +8144,11 @@ interaccionan
 invitar
 inventamos
 invertir
+invocar
+instanciados
+interna
+informaci
+intereses
 frontera
 flujo
 forma
@@ -8411,6 +8460,8 @@ func
 filtra
 features
 fold
+funcione
+funcionalidad
 gira
 green
 gradiente
@@ -8969,6 +9020,7 @@ Gamma
 GroupByKey
 Grid
 Generaliza
+Gonna
 jacobiana
 jacobinao
 jue
@@ -9479,6 +9531,7 @@ Acciones
 Asociaci
 Agregaci
 Aprendizaje
+Ain
 Final
 Flujo
 Fuerza
@@ -10005,6 +10058,9 @@ Pandas
 Pregunta
 Proposici
 Problemas
+PoLK
+Principle
+Promueve
 Hipotesis
 HbgIcQAl
 HJM
@@ -10674,6 +10730,7 @@ Negatividad
 Negro
 Nodos
 Not
+Need
 MORE
 MYk
 MDD
@@ -10925,6 +10982,7 @@ Mostrar
 MUCHOI
 Muestra
 Map
+Mantener
 OPTIONS
 OV
 OP
@@ -11169,6 +11227,7 @@ OOUU
 Out
 Otros
 Overfitting
+Optimization
 Una
 Un
 UI
@@ -11962,6 +12021,7 @@ ReduceByKey
 Realizaci
 Random
 Regularizacion
+Repeat
 Ya
 YUV
 YLO
@@ -12194,6 +12254,9 @@ YOUO
 YDr
 YWB
 YZu
+Yourself
+YAGNI
+You
 Wronskiano
 WkpoNL
 WQsX
@@ -13416,6 +13479,10 @@ KZZZ
 KWTc
 Krrr
 Kfold
+KISS
+Keep
+KOP
+Knuth
 kt
 ku
 kSe

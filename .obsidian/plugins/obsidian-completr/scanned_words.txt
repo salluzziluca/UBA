@@ -925,6 +925,8 @@ vida
 valitadion
 validacion
 volvemos
+veces
+verifico
 deben
 de
 diferenciales
@@ -1300,6 +1302,8 @@ dist
 duplicaci
 documentaci
 delimitados
+dije
+diferenciable
 cumplir
 condiciones
 cartesianas
@@ -1806,6 +1810,11 @@ correcto
 conocido
 codigo
 claro
+ceros
+comprar
+cambiando
+corte
+cuandos
 las
 la
 lo
@@ -2440,6 +2449,8 @@ expresiva
 expresivo
 estructura
 expuesta
+eran
+esten
 adicionalmente
 alguna
 al
@@ -2824,6 +2835,9 @@ argumentos
 almacendo
 agregues
 agregalas
+acierta
+aumentarle
+absolute
 tres
 theta
 tiene
@@ -3153,6 +3167,9 @@ train
 tecnica
 talk
 toda
+tantas
+teniendo
+tengan
 Sea
 Si
 Superficie
@@ -3419,6 +3436,7 @@ Simple
 Stupid
 SoC
 Separation
+Squared
 un
 una
 usando
@@ -3713,6 +3731,8 @@ use
 utiliza
 utilizan
 underfitting
+unos
+usuario
 no
 ndricas
 nulo
@@ -4440,6 +4460,9 @@ piezas
 pedo
 pasados
 publica
+predicci
+precision
+probas
 br
 borde
 busco
@@ -4729,6 +4752,7 @@ bil
 balancearlo
 busqueda
 bayesiana
+binaria
 ricas
 respectivamente
 recorre
@@ -5072,6 +5096,9 @@ recibidos
 retornado
 reduccion
 refactorizar
+representa
+realmente
+rescat
 Volumen
 Variable
 Ver
@@ -5601,6 +5628,8 @@ Crean
 Composici
 Commitment
 Concerns
+Clasificaci
+Cuantos
 Esf
 Entonces
 Esto
@@ -5865,6 +5894,7 @@ Establecemos
 Esper
 EDP
 Explicit
+Error
 Integrales
 Importantes
 Igualo
@@ -7030,6 +7060,8 @@ optimo
 overfitting
 oculta
 optimizar
+originales
+opuestas
 mide
 mas
 mediante
@@ -7373,6 +7405,9 @@ maximizar
 metrica
 mejores
 metodos
+mauor
+mean
+modulo
 que
 queda
 quede
@@ -7596,6 +7631,7 @@ quizas
 quiero
 quinas
 quedamos
+quue
 hasta
 hacia
 hay
@@ -9532,6 +9568,8 @@ Asociaci
 Agregaci
 Aprendizaje
 Ain
+Accuracy
+AUC
 Final
 Flujo
 Fuerza
@@ -10061,6 +10099,7 @@ Problemas
 PoLK
 Principle
 Promueve
+Precisi
 Hipotesis
 HbgIcQAl
 HJM
@@ -10983,6 +11022,8 @@ MUCHOI
 Muestra
 Map
 Mantener
+MAE
+Mean
 OPTIONS
 OV
 OP
@@ -12022,6 +12063,9 @@ Realizaci
 Random
 Regularizacion
 Repeat
+Recall
+ROC
+Regresi
 Ya
 YUV
 YLO

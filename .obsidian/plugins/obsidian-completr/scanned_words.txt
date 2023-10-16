@@ -626,6 +626,7 @@ solucionar
 strangers
 sean
 sensible
+sangre
 vectoriales
 vectorial
 vacio
@@ -1824,6 +1825,8 @@ chico
 comparando
 correlacion
 clasificador
+comio
+coeficiente
 las
 la
 lo
@@ -2462,6 +2465,8 @@ eran
 esten
 euclideana
 edad
+expresar
+ejercicio
 adicionalmente
 alguna
 al
@@ -2849,6 +2854,8 @@ agregalas
 acierta
 aumentarle
 absolute
+azucar
+aleatorio
 tres
 theta
 tiene
@@ -4479,6 +4486,7 @@ predicci
 precision
 probas
 pruebo
+persona
 br
 borde
 busco
@@ -8807,6 +8815,7 @@ gatito
 gicamente
 grid
 grados
+glucosa
 Gauss
 Green
 GC
@@ -14011,6 +14020,7 @@ QoKS
 QA
 QVWEbZ
 Queremos
+Quremos
 zt
 zN
 zB

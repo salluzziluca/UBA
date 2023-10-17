@@ -48,3 +48,6 @@ si  dice cc es porque altera los flags
 El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente
 
 ## Sintaxis
+```asm
+lab_1: adcc, %r1, %r2, %r3   !comentario
+```

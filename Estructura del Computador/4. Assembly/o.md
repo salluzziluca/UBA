@@ -14,4 +14,4 @@ Hay dos formas de ordenar la informacion
 ## Espacio direccionable
 deerminado por el tamaaño del Registro del procesador
 $2^n$ con n= tamaño
-Luego mediante un mapa de memoria representamos la asignacion del mism
+Luego mediante un mapa de memoria representamos la asignacion del mismo.

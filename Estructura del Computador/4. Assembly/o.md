@@ -44,3 +44,4 @@ de 0 a 2^{31}-1 RAM.
 si  dice cc es porque altera los flags
 
 ## Registros
+![[Pasted image 20231017171718.png]]

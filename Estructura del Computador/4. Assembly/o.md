@@ -56,4 +56,6 @@ bin-> termina con b
 
 ## Directivas del ensamblador
 le dicen al ensamblador como procesar una sección del programa
-lasinstrucciones son especificas de un procesador, las pseudo-instrucciones o directivas son especificas
+lasinstrucciones son especificas de un procesador, las pseudo-instrucciones o directivas son especificas de un programa ensamblador. 
+Alguas generan informacion   en la memoria, otras no
+![[Pasted image 20231017175405.png]]

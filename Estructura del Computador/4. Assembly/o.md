@@ -39,10 +39,10 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 de 0 a 2^{31}-1 RAM.
 
 
-## Algunas instrucciones de ARC ![[Pasted image 20231017172014.png]]
-El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente
+## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
 si  dice cc es porque altera los flags
 
 ## Registros
 ![[Pasted image 20231017171718.png]]
+El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente

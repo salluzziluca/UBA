@@ -21,3 +21,7 @@ el mapa de memoria es especifico de un sistema (dos sistemas con el mismo proces
 # Arqitectura ARC ( A Risc Computer)
 Espacio de direcciones: 2^{32}
 big endian
+![[Pasted image 20231017164636.png]]
+
+### Set de instrucciones
+es un subconjunto de SPARC

@@ -28,4 +28,4 @@ es un subconjunto de SPARC
 todas las instrucciones ocupan 32 bits
 32 registros de 32 bits
 Program Status Register guarda los flags
-Solo dos instrucciones acceden a memoria principal (RAM): read and write)
+Solo dos instrucciones acceden a memoria principal (RAM): read and write

@@ -55,3 +55,5 @@ hexa-> 0x o terminar con h
 bin-> termina con b
 
 ## Directivas del ensamblador
+le dicen al ensamblador como procesar una sección del programa
+lasinstrucciones son especificas de un procesador, las pseudo-instrucciones o directivas son especificas

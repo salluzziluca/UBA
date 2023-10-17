@@ -46,3 +46,5 @@ si  dice cc es porque altera los flags
 ## Registros
 ![[Pasted image 20231017171718.png]]
 El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente
+
+## Sintaxis

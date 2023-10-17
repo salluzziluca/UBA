@@ -34,4 +34,4 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 ![[Pasted image 20231017165203.png]]
 0-2047 OS
 2048-2^{31}-1 Memoria de usuario: Memoria ocupada por codigo de maquina y variables y system stack
-2^{31}-1 - 2^{32}-1
+2^{31}-1 - 2^{32}-1 I/O

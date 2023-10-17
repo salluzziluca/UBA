@@ -25,3 +25,5 @@ big endian
 
 ### Set de instrucciones
 es un subconjunto de SPARC
+todas las instrucciones ocupan 32 bits
+32 registros de 32 bi

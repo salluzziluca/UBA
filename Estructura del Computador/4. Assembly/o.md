@@ -12,3 +12,5 @@ Hay dos formas de ordenar la informacion
 - Little-endian: el byte menos significativo en la direccion mas baja
 - Big-endian: el byte menos significativo en la direccion mas alta
 ## Espacio direccionable
+deerminado por el tamaaño del Registro del procesador
+$2^n$

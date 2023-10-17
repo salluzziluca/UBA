@@ -18,3 +18,4 @@ Luego mediante un mapa de memoria representamos la asignacion del mismo.
 el tamaño del espacio direccionable es especifico del procesdor
 el mapa de memoria es especifico de un sistema (dos sistemas con el mismo procesador no tienen el mismo mapa de memoria)
 
+# Arqitectura ARC ( risc computer)

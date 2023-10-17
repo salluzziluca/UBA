@@ -7,3 +7,6 @@ La memoria esta organizada en tablas cuyas filas son cada una de 8 bits
 | 1   |     |     |     |     |     |     |     |     |
 | 2   |     |     |     |     |     |     |     |     |
 | 3    |     |     |     |     |     |     |     |     |
+
+Hay dos formas de ordenar la informacion
+- Little-endia: el byte menos significativo en la direccion as baja

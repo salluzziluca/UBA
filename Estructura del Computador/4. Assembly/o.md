@@ -51,4 +51,7 @@ El 15 guarda el registro desde el que llamamos la funcion en la que estamos actu
 ```asm
 lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 ```
-hexa->
+hexa-> 0x o terminar con h
+bin-> termina con b
+
+## Directivas del ensamblador

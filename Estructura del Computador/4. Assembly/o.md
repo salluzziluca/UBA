@@ -32,4 +32,5 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 
 ## Mapa de memoria
 ![[Pasted image 20231017165203.png]]
-0-20
+0-2047 OS
+2048-x Memoria ocupada por codigo de maquina y variables

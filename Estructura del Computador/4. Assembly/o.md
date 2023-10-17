@@ -41,3 +41,4 @@ de 0 a 2^{31}-1 RAM.
 
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
+si  dice cc es porque altera los flags

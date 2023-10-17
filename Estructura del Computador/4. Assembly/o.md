@@ -58,4 +58,6 @@ bin-> termina con b
 le dicen al ensamblador como procesar una sección del programa
 lasinstrucciones son especificas de un procesador, las pseudo-instrucciones o directivas son especificas de un programa ensamblador. 
 Alguas generan informacion   en la memoria, otras no
-![[Pasted image 20231017175405.png]]q
+![[Pasted image 20231017175405.png]]
+
+## Subrutina

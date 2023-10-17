@@ -36,4 +36,7 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 2048-2^{31}-1 Memoria de usuario: Memoria ocupada por codigo de maquina y variables.  system stack
 2^{31}-1 - 2^{32}-1 I/O
 
-de 0 a 2^{31}
+de 0 a 2^{31}-1 RAM.
+
+
+## Algunas instrucciones de ARC 

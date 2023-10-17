@@ -29,3 +29,7 @@ todas las instrucciones ocupan 32 bits
 32 registros de 32 bits
 Program Status Register guarda los flags
 Solo dos instrucciones acceden a memoria principal (RAM): read and write
+
+## Mapa de memoria
+![[Pasted image 20231017165203.png]]
+0-20

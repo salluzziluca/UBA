@@ -49,5 +49,6 @@ El 15 guarda el registro desde el que llamamos la funcion en la que estamos actu
 
 ## Sintaxis
 ```asm
-lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda envr3
+lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 ```
+hexa->

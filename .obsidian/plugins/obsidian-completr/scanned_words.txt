@@ -680,6 +680,7 @@ sC
 sDY
 spUC
 ssk
+sdecir
 vectoriales
 vectorial
 vacio
@@ -1432,6 +1433,9 @@ djN
 dxf
 dZe
 ddt
+discreta
+distribuci
+discontinuidad
 cumplir
 condiciones
 cartesianas
@@ -1983,6 +1987,8 @@ ccAs
 cSV
 cjT
 corriendo
+contituyen
+conjuntod
 las
 la
 lo
@@ -2267,6 +2273,8 @@ lzl
 lCRl
 lccx
 lmd
+lambra
+les
 enunciadas
 en
 espacio
@@ -2674,6 +2682,8 @@ etW
 eVJ
 eng
 exp
+exponencial
+excluyente
 adicionalmente
 alguna
 al
@@ -3093,6 +3103,10 @@ ap
 aeD
 aSeg
 acC
+asigna
+aleatoria
+asociamos
+atomos
 tres
 theta
 tiene
@@ -3440,6 +3454,7 @@ tgn
 tnh
 tCH
 tuNA
+tomos
 Sea
 Si
 Superficie
@@ -3723,6 +3738,7 @@ STX
 SMc
 SNq
 SPP
+Soporte
 un
 una
 usando
@@ -4343,6 +4359,8 @@ nxL
 nTY
 nxI
 normalizo
+ndar
+numerable
 pertenecen
 pertenece
 pi
@@ -4816,6 +4834,11 @@ pvjd
 pZU
 pggY
 pbmlL
+param
+props
+probabiilidad
+probabilida
+probas
 br
 borde
 busco
@@ -5509,6 +5532,7 @@ rux
 rco
 rguh
 rcm
+riesgo
 Volumen
 Variable
 Ver
@@ -7264,6 +7288,7 @@ DOX
 DaL
 DLFt
 Dom
+Distribucion
 obtenemos
 orientaci
 orientable
@@ -7957,6 +7982,7 @@ mVL
 mzc
 mSp
 mjd
+medir
 que
 queda
 quede
@@ -8778,6 +8804,7 @@ isL
 iM
 iRu
 iXS
+intervalos
 frontera
 flujo
 forma
@@ -9129,6 +9156,7 @@ fINZ
 fnX
 fQI
 fcc
+finito
 gira
 green
 gradiente
@@ -9436,6 +9464,7 @@ gcV
 gNm
 gj
 gDu
+gamma
 Gauss
 Green
 GC
@@ -9718,6 +9747,7 @@ GiB
 GiS
 GiO
 GzI
+Gamma
 jacobiana
 jacobinao
 jue
@@ -10828,6 +10858,7 @@ Pyt
 Pkc
 Pz
 Pje
+Proposici
 Hipotesis
 HbgIcQAl
 HJM
@@ -11806,6 +11837,7 @@ MAE
 MOG
 MzNF
 MRs
+Mixta
 OPTIONS
 OV
 OP

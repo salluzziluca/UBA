@@ -681,6 +681,7 @@ sDY
 spUC
 ssk
 sdecir
+sop
 vectoriales
 vectorial
 vacio
@@ -1005,6 +1006,7 @@ vxGg
 vhL
 vrl
 vwwZ
+vibariadas
 deben
 de
 diferenciales
@@ -1436,6 +1438,7 @@ ddt
 discreta
 distribuci
 discontinuidad
+derivadas
 cumplir
 condiciones
 cartesianas
@@ -3455,6 +3458,8 @@ tnh
 tCH
 tuNA
 tomos
+tranformacion
+tranformaciones
 Sea
 Si
 Superficie
@@ -3739,6 +3744,7 @@ SMc
 SNq
 SPP
 Soporte
+Suponga
 un
 una
 usando
@@ -4839,6 +4845,10 @@ props
 probabiilidad
 probabilida
 probas
+parciales
+particion
+particicon
+pedacito
 br
 borde
 busco
@@ -5153,6 +5163,8 @@ bg
 blSy
 bon
 bPZ
+buscamos
+biyectivas
 ricas
 respectivamente
 recorre
@@ -8805,6 +8817,7 @@ iM
 iRu
 iXS
 intervalos
+inversas
 frontera
 flujo
 forma
@@ -9465,6 +9478,7 @@ gNm
 gj
 gDu
 gamma
+generalizado
 Gauss
 Green
 GC
@@ -9976,6 +9990,7 @@ jRq
 jGn
 jhCkf
 jYt
+jacobiano
 Aplicaci
 Apuntes
 Ambas
@@ -13930,6 +13945,7 @@ JNvH
 JBs
 JSp
 JXzBx
+Jacobiano
 Za
 ZJ
 ZQw

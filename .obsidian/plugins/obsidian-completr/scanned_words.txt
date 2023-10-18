@@ -6992,6 +6992,7 @@ TP
 Tsc
 Tdn
 TZn
+Truncamiento
 Dejando
 DEN
 De
@@ -7615,6 +7616,7 @@ old
 oFYxH
 oOF
 obH
+omega
 mide
 mas
 mediante

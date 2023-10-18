@@ -9481,6 +9481,7 @@ gj
 gDu
 gamma
 generalizado
+geometrica
 Gauss
 Green
 GC

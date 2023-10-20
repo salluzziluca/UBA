@@ -1007,6 +1007,7 @@ vhL
 vrl
 vwwZ
 vibariadas
+voum
 deben
 de
 diferenciales
@@ -2278,6 +2279,7 @@ lccx
 lmd
 lambra
 les
+lugo
 enunciadas
 en
 espacio
@@ -2687,6 +2689,7 @@ eng
 exp
 exponencial
 excluyente
+evalua
 adicionalmente
 alguna
 al
@@ -3110,6 +3113,11 @@ asigna
 aleatoria
 asociamos
 atomos
+anotarlos
+actuales
+algun
+aparaece
+admiten
 tres
 theta
 tiene
@@ -3461,6 +3469,7 @@ tomos
 tranformacion
 tranformaciones
 tona
+tomarla
 Sea
 Si
 Superficie
@@ -4368,6 +4377,7 @@ nxI
 normalizo
 ndar
 numerable
+notas
 pertenecen
 pertenece
 pi
@@ -4850,6 +4860,8 @@ parciales
 particion
 particicon
 pedacito
+parecen
+primeras
 br
 borde
 busco
@@ -6108,6 +6120,7 @@ Ciee
 Cpj
 CdM
 Cuento
+Calcular
 Esf
 Entonces
 Esto
@@ -6994,6 +7007,7 @@ Tsc
 Tdn
 TZn
 Truncamiento
+TODOS
 Dejando
 DEN
 De
@@ -7303,6 +7317,7 @@ DaL
 DLFt
 Dom
 Distribucion
+Dibujar
 obtenemos
 orientaci
 orientable
@@ -7999,6 +8014,7 @@ mSp
 mjd
 medir
 mon
+modulo
 que
 queda
 quede
@@ -8499,6 +8515,7 @@ hLS
 hx
 hPyT
 hCAw
+haciendo
 image
 iria
 incluya
@@ -9174,6 +9191,7 @@ fnX
 fQI
 fcc
 finito
+fijos
 gira
 green
 gradiente
@@ -10578,6 +10596,7 @@ Fox
 Fya
 FnXs
 Fjl
+Fijarse
 Potencial
 Para
 Punto
@@ -11858,6 +11877,7 @@ MOG
 MzNF
 MRs
 Mixta
+Masa
 OPTIONS
 OV
 OP
@@ -12118,6 +12138,7 @@ OM
 ODTvF
 OLq
 OKY
+Observar
 Una
 Un
 UI
@@ -12952,6 +12973,7 @@ Rxn
 ROp
 Rc
 RZvJ
+Reescribir
 Ya
 YUV
 YLO
@@ -13951,6 +13973,7 @@ JBs
 JSp
 JXzBx
 Jacobiano
+Jacobiana
 Za
 ZJ
 ZQw

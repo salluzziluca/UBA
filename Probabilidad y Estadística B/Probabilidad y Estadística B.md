@@ -1,2 +1,2 @@
-[[1.1 Definición de Probabilidad]]
+[[1.0]]
 [[2.0  Variables Aleatorias]]

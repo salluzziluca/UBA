@@ -2001,6 +2001,7 @@ conviven
 compone
 ciclo
 comunica
+condicionada
 las
 la
 lo
@@ -10929,6 +10930,7 @@ Pkc
 Pz
 Pje
 Proposici
+Prop
 Hipotesis
 HbgIcQAl
 HJM

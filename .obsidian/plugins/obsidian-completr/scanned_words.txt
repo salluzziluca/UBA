@@ -3483,6 +3483,7 @@ tranformacion
 tranformaciones
 tona
 tomarla
+teoremateorema
 Sea
 Si
 Superficie

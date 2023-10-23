@@ -35,3 +35,6 @@ donde alpha controla la cantidad de regularizacion a usar
 - El ruido degrada la calidad del encoding
 - Es necesario encontrar la cantiidad de ruido adecuada (hiper-parámetro)
 -  En general se una en conjunto con LOOCV (leave one out cross validation)
+
+###### Expanding Mean
+Es necesario tener el D F 

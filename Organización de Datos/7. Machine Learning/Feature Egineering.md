@@ -21,3 +21,6 @@ Tenemos tantas columnas binarias como posibles valores tenia mi variable categó
 ##### Binary encoding
 en vez de una columna por valor, voy a tener $\log_{2}(cantidad \ de \ valores \ posibles \ de \ la \ variable)$
 ![[Pasted image 20231023102812.png]]
+
+##### Mean encoding
+- Codificar las variables categoricas en base a los lables 

@@ -256,6 +256,7 @@ Lel
 Lr
 LYP
 Lv
+Limitaciones
 subespacios
 subespacio
 se
@@ -683,6 +684,11 @@ ssk
 sdecir
 sop
 sticas
+set
+seguramente
+split
+sucesor
+simples
 vectoriales
 vectorial
 vacio
@@ -1010,6 +1016,7 @@ vwwZ
 vibariadas
 voum
 vida
+ventajas
 deben
 de
 diferenciales
@@ -1442,6 +1449,8 @@ discreta
 distribuci
 discontinuidad
 derivadas
+datasets
+decision
 cumplir
 condiciones
 cartesianas
@@ -2002,6 +2011,16 @@ compone
 ciclo
 comunica
 condicionada
+cierto
+clasificar
+caja
+categ
+complete
+complejos
+combinamos
+clasificador
+combinacion
+clasificadores
 las
 la
 lo
@@ -2289,6 +2308,8 @@ lmd
 lambra
 les
 lugo
+locales
+logr
 enunciadas
 en
 espacio
@@ -2700,6 +2721,8 @@ exponencial
 excluyente
 evalua
 extends
+entrop
+entrenamiento
 adicionalmente
 alguna
 al
@@ -3132,6 +3155,11 @@ abstracta
 asociaci
 acopladas
 atributo
+acuerdo
+aparece
+acepta
+atributos
+algoritmos
 tres
 theta
 tiene
@@ -3485,6 +3513,7 @@ tranformaciones
 tona
 tomarla
 teoremateorema
+tama
 Sea
 Si
 Superficie
@@ -3770,6 +3799,9 @@ SNq
 SPP
 Soporte
 Suponga
+Simples
+Selecci
+Selecciona
 un
 una
 usando
@@ -4393,6 +4425,9 @@ normalizo
 ndar
 numerable
 notas
+nuestros
+num
+normalizar
 pertenecen
 pertenece
 pi
@@ -4877,6 +4912,13 @@ particicon
 pedacito
 parecen
 primeras
+paras
+poca
+preparaci
+performance
+ptimo
+ptimos
+precision
 br
 borde
 busco
@@ -5194,6 +5236,7 @@ bPZ
 buscamos
 biyectivas
 bil
+bootstrapping
 ricas
 respectivamente
 recorre
@@ -5575,6 +5618,12 @@ rguh
 rcm
 riesgo
 recibido
+ramas
+ricos
+rboles
+relacionados
+repite
+recursivamente
 Volumen
 Variable
 Ver
@@ -5826,6 +5875,7 @@ VAC
 VVCE
 VoU
 VSf
+Ventajas
 Cartesianas
 Cil
 Cambios
@@ -6420,6 +6470,8 @@ EUJ
 EnRj
 EDh
 Eki
+Encontrar
+Ensambles
 Integrales
 Importantes
 Igualo
@@ -6731,6 +6783,7 @@ IDATL
 IDATwN
 Inheritance
 Implementaci
+Informaci
 Triples
 Teorema
 Teoremas
@@ -7655,6 +7708,7 @@ oOF
 obH
 omega
 objeto
+overfitting
 mide
 mas
 mediante
@@ -8040,6 +8094,8 @@ modulo
 metro
 mandan
 mensajes
+mejor
+mejores
 que
 queda
 quede
@@ -8869,6 +8925,7 @@ inversas
 implementa
 interfaz
 interaccionan
+interpretar
 frontera
 flujo
 forma
@@ -9222,6 +9279,9 @@ fQI
 fcc
 finito
 fijos
+feature
+features
+faltantes
 gira
 green
 gradiente
@@ -9532,6 +9592,7 @@ gDu
 gamma
 generalizado
 geometrica
+greedy
 Gauss
 Green
 GC
@@ -9815,6 +9876,8 @@ GiS
 GiO
 GzI
 Gamma
+Greedy
+Ganancia
 jacobiana
 jacobinao
 jue
@@ -10361,6 +10424,8 @@ AuV
 AhC
 Asociaci
 Agregaci
+Ayudan
+Aplicar
 Final
 Flujo
 Fuerza
@@ -10629,6 +10694,7 @@ Fya
 FnXs
 Fjl
 Fijarse
+Funcionan
 Potencial
 Para
 Punto
@@ -10931,6 +10997,7 @@ Pz
 Pje
 Proposici
 Prop
+Promediar
 Hipotesis
 HbgIcQAl
 HJM
@@ -11634,6 +11701,7 @@ NOR
 NvR
 Nkkk
 NFZT
+Nuestro
 MORE
 MYk
 MDD
@@ -13009,6 +13077,7 @@ Rc
 RZvJ
 Reescribir
 Realizaci
+Requiere
 Ya
 YUV
 YLO
@@ -15517,6 +15586,10 @@ BPy
 BeA
 BZm
 BB
+Buena
+Bagging
+Bag
+Boosting
 äU
 äI
 XJV

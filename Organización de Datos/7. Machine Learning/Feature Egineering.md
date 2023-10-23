@@ -30,3 +30,8 @@ Una forma de no usar el label del registro en si es hacen un ==Cross Validation 
 ###### Smoothing
 $$\frac{mean(target)*nrows+globalmean*\alpha}{nrows+\alpha}$$
 donde alpha controla la cantidad de regularizacion a usar
+
+###### Adding noise
+- El ruido degrada la calidad del encoding
+- Es necesario encontrar la cantiidad de ruido adecuada (hiper-parámetro)
+-  En general se una en conjunto con LOOCV (leave one out cross validation)

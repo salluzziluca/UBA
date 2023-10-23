@@ -19,7 +19,7 @@ Tenemos que codificar variables categóricas
 Tenemos tantas columnas binarias como posibles valores tenia mi variable categórica original
 
 ##### Binary encoding
-en vez de una columna por valor, voy a tener $\log_{2}(cantidad \ de \ valores \ posibles \ de \ la \ variable)$
+en vez de una columna por valor, voy a tener $\log_{2}(cantidad \ de \ valores \ posibles \ de \ la \ variable)$. Cada variable toma un valor en [[1.3 Binario|binario]]
 ![[Pasted image 20231023102812.png]]
 
 ##### Mean encoding

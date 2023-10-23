@@ -696,6 +696,11 @@ significativo
 system
 stack
 secci
+sensible
+selecciono
+sangre
+spark
+suben
 vectoriales
 vectorial
 vacio
@@ -1025,6 +1030,8 @@ voum
 vida
 ventajas
 voto
+vecinos
+vistas
 deben
 de
 diferenciales
@@ -1464,6 +1471,8 @@ decisi
 direccionable
 deerminado
 directivas
+distencia
+distancias
 cumplir
 condiciones
 cartesianas
@@ -2042,6 +2051,12 @@ critico
 clasficiaci
 cuyas
 codigo
+chico
+comparando
+clasficican
+comio
+categoria
+cmplejidad
 las
 la
 lo
@@ -2333,6 +2348,8 @@ locales
 logr
 llamamos
 lasinstrucciones
+logistica
+learning
 enunciadas
 en
 espacio
@@ -2753,6 +2770,9 @@ endian
 especifico
 ensamblador
 especificas
+euclideana
+edad
+ejercicio
 adicionalmente
 alguna
 al
@@ -3199,6 +3219,8 @@ asignacion
 acceden
 altera
 actualmente
+azucar
+avanzado
 tres
 theta
 tiene
@@ -3558,6 +3580,9 @@ tomados
 trade
 tenere
 tamaa
+tomaria
+toman
+tps
 Sea
 Si
 Superficie
@@ -4480,6 +4505,8 @@ notas
 nuestros
 num
 normalizar
+nearest
+neighbors
 pertenecen
 pertenece
 pi
@@ -4978,6 +5005,9 @@ predicci
 prediccion
 periferios
 procesdor
+pruebo
+persona
+previos
 br
 borde
 busco
@@ -5690,6 +5720,8 @@ recursivamente
 regresi
 regularizacion
 representamos
+ruidosas
+regresion
 Volumen
 Variable
 Ver
@@ -5943,6 +5975,7 @@ VoU
 VSf
 Ventajas
 Voting
+Visualizacion
 Cartesianas
 Cil
 Cambios
@@ -6257,6 +6290,8 @@ Cuento
 Calcular
 Complejidad
 Computer
+Cover
+Conocimientos
 Esf
 Entonces
 Esto
@@ -7151,6 +7186,7 @@ TZn
 Truncamiento
 TODOS
 Tiene
+Teoricas
 Dejando
 DEN
 De
@@ -7784,6 +7820,10 @@ off
 organizada
 ocupan
 ocupada
+outlier
+observacion
+ordeno
+opcional
 mide
 mas
 mediante
@@ -8173,6 +8213,8 @@ mejor
 mejores
 metros
 maquina
+mayoria
+machine
 que
 queda
 quede
@@ -9005,6 +9047,7 @@ interfaz
 interaccionan
 interpretar
 instrucciones
+infinitos
 frontera
 flujo
 forma
@@ -9363,6 +9406,7 @@ features
 faltantes
 fisicamente
 flags
+factorizacion
 gira
 green
 gradiente
@@ -9675,6 +9719,8 @@ generalizado
 geometrica
 greedy
 guardan
+glucosa
+grabadas
 Gauss
 Green
 GC
@@ -9960,6 +10006,7 @@ GzI
 Gamma
 Greedy
 Ganancia
+Gradescope
 jacobiana
 jacobinao
 jue
@@ -10514,6 +10561,8 @@ Arqitectura
 ARC
 Algunas
 Alguas
+Administrativa
+AVA
 Final
 Flujo
 Fuerza
@@ -11090,6 +11139,7 @@ Promediar
 Promediamos
 Prob
 Program
+Pandas
 Hipotesis
 HbgIcQAl
 HJM
@@ -11317,6 +11367,8 @@ HZT
 HAbo
 HX
 Hiper
+Hart
+HICISTE
 ya
 yRZ
 yD
@@ -12074,6 +12126,7 @@ Mixta
 Masa
 Majority
 Memoria
+Machine
 OPTIONS
 OV
 OP
@@ -13179,6 +13232,8 @@ Resultado
 Random
 Risc
 Register
+Regresion
+Regresi
 Ya
 YUV
 YLO
@@ -14704,6 +14759,7 @@ Knl
 KtpQ
 KiR
 Ku
+KNN
 kt
 ku
 kSe
@@ -15189,6 +15245,7 @@ QPtTsC
 QJOT
 Qco
 QFn
+Quremos
 zt
 zN
 zB

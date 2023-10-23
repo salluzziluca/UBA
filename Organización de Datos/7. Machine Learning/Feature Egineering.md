@@ -29,3 +29,4 @@ Una forma de no usar el label del registro en si es hacen un ==Cross Validation 
 
 ###### Smoothing
 $$\frac{mean(target)*nrows+globalmean*\alpha}{nrows+\alpha}$$
+donde alpha controla la cantidad de regularizacion a usar

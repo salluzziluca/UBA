@@ -41,3 +41,8 @@ Es necesario tener el DF ordenado (por tiempo)
 - Minimiza el filtraddo del target al set de entrenamiento
 - La calidadd del encoding es irregular
 - Es el metoddo usado por Cat Boost
+
+## Interacción entre features
+Podemos: 
+1. Crear un nuevo feature que sea la concatenacion de los features y encodear ese resultado
+2. Encodear cada feat individualmente y luego generar el producto entre encodings

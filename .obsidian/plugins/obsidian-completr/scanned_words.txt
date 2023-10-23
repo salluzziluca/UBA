@@ -257,6 +257,7 @@ Lr
 LYP
 Lv
 Limitaciones
+Little
 subespacios
 subespacio
 se
@@ -690,6 +691,11 @@ split
 sucesor
 simples
 suis
+seguarda
+significativo
+system
+stack
+secci
 vectoriales
 vectorial
 vacio
@@ -1455,6 +1461,9 @@ datasets
 decision
 den
 decisi
+direccionable
+deerminado
+directivas
 cumplir
 condiciones
 cartesianas
@@ -2031,6 +2040,8 @@ coon
 construyen
 critico
 clasficiaci
+cuyas
+codigo
 las
 la
 lo
@@ -2320,6 +2331,8 @@ les
 lugo
 locales
 logr
+llamamos
+lasinstrucciones
 enunciadas
 en
 espacio
@@ -2736,6 +2749,10 @@ entrenamiento
 escala
 entrenados
 entrena
+endian
+especifico
+ensamblador
+especificas
 adicionalmente
 alguna
 al
@@ -3176,6 +3193,12 @@ algoritmos
 analiza
 aprenda
 aprender
+accedo
+alta
+asignacion
+acceden
+altera
+actualmente
 tres
 theta
 tiene
@@ -3533,6 +3556,8 @@ tama
 tuvo
 tomados
 trade
+tenere
+tamaa
 Sea
 Si
 Superficie
@@ -3823,6 +3848,11 @@ Selecci
 Selecciona
 Stacked
 Separar
+Set
+SPARC
+Status
+Sintaxis
+Subrutina
 un
 una
 usando
@@ -4136,6 +4166,7 @@ uKKy
 uCR
 uCC
 uFp
+usuario
 no
 ndricas
 nulo
@@ -4945,6 +4976,8 @@ promedio
 ponderado
 predicci
 prediccion
+periferios
+procesdor
 br
 borde
 busco
@@ -5264,6 +5297,9 @@ biyectivas
 bil
 bootstrapping
 bootstrap
+baja
+big
+bin
 ricas
 respectivamente
 recorre
@@ -5653,6 +5689,7 @@ repite
 recursivamente
 regresi
 regularizacion
+representamos
 Volumen
 Variable
 Ver
@@ -6219,6 +6256,7 @@ CdM
 Cuento
 Calcular
 Complejidad
+Computer
 Esf
 Entonces
 Esto
@@ -7424,6 +7462,7 @@ Dom
 Distribucion
 Dibujar
 Dependencia
+Directivas
 obtenemos
 orientaci
 orientable
@@ -7742,6 +7781,9 @@ omega
 objeto
 overfitting
 off
+organizada
+ocupan
+ocupada
 mide
 mas
 mediante
@@ -8130,6 +8172,7 @@ mensajes
 mejor
 mejores
 metros
+maquina
 que
 queda
 quede
@@ -8633,6 +8676,7 @@ hCAw
 haciendo
 hereda
 haberlo
+hexa
 image
 iria
 incluya
@@ -8960,6 +9004,7 @@ implementa
 interfaz
 interaccionan
 interpretar
+instrucciones
 frontera
 flujo
 forma
@@ -9316,6 +9361,8 @@ fijos
 feature
 features
 faltantes
+fisicamente
+flags
 gira
 green
 gradiente
@@ -9627,6 +9674,7 @@ gamma
 generalizado
 geometrica
 greedy
+guardan
 Gauss
 Green
 GC
@@ -10462,6 +10510,10 @@ Ayudan
 Aplicar
 Averaging
 Ajuste
+Arqitectura
+ARC
+Algunas
+Alguas
 Final
 Flujo
 Fuerza
@@ -11037,6 +11089,7 @@ Prop
 Promediar
 Promediamos
 Prob
+Program
 Hipotesis
 HbgIcQAl
 HJM
@@ -12020,6 +12073,7 @@ MRs
 Mixta
 Masa
 Majority
+Memoria
 OPTIONS
 OV
 OP
@@ -13123,6 +13177,8 @@ Realizaci
 Requiere
 Resultado
 Random
+Risc
+Register
 Ya
 YUV
 YLO
@@ -15638,6 +15694,7 @@ Boosting
 Blending
 Boost
 Bosteo
+Big
 äU
 äI
 XJV

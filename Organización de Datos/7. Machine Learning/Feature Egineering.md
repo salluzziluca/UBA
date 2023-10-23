@@ -23,4 +23,6 @@ en vez de una columna por valor, voy a tener $\log_{2}(cantidad \ de \ valores \
 ![[Pasted image 20231023102812.png]]
 
 ##### Mean encoding
-- Codificar las variables categoricas en base a los labels. Se filtra info de los lables, lo cual puede llegar a traer problemas de overfitting, ya que el modelo podria intentar adivinar 
+- Codificar las variables categoricas en base a los labels. Se filtra info de los lables, lo cual puede llegar a traer problemas de overfitting, ya que el modelo podria intentar adivinar por el mean el label. 
+- ![[Pasted image 20231023103834.png]]
+- ![[Pasted image 20231023103840.png]]

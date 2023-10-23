@@ -6,4 +6,5 @@ que no existian en nuestro set de datos y que nosotros decidimos agregar:
 - Features basados en texto (contains, tf-ldf, etc)
 
 ## Transformación de features existentes
-- Log transformation: Transforma una funcion de tipo exponencian en una normal (la normal)
+- Log transformation: Transforma una funcion de tipo exponencial en una normal (la normaliza)
+- 

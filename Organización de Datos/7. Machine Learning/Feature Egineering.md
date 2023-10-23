@@ -46,3 +46,8 @@ Es necesario tener el DF ordenado (por tiempo)
 Podemos: 
 1. Crear un nuevo feature que sea la concatenacion de los features y encodear ese resultado
 2. Encodear cada feat individualmente y luego generar el producto entre encodings.
+Posibles interacciones:
+-  multiplicacion
+- suma
+- diferencia
+- division (==RATIO==)

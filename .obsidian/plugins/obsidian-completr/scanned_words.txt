@@ -689,6 +689,7 @@ seguramente
 split
 sucesor
 simples
+suis
 vectoriales
 vectorial
 vacio
@@ -1017,6 +1018,7 @@ vibariadas
 voum
 vida
 ventajas
+voto
 deben
 de
 diferenciales
@@ -1451,6 +1453,8 @@ discontinuidad
 derivadas
 datasets
 decision
+den
+decisi
 cumplir
 condiciones
 cartesianas
@@ -2021,6 +2025,12 @@ combinamos
 clasificador
 combinacion
 clasificadores
+correlaci
+clasificaci
+coon
+construyen
+critico
+clasficiaci
 las
 la
 lo
@@ -2723,6 +2733,9 @@ evalua
 extends
 entrop
 entrenamiento
+escala
+entrenados
+entrena
 adicionalmente
 alguna
 al
@@ -3160,6 +3173,9 @@ aparece
 acepta
 atributos
 algoritmos
+analiza
+aprenda
+aprender
 tres
 theta
 tiene
@@ -3514,6 +3530,9 @@ tona
 tomarla
 teoremateorema
 tama
+tuvo
+tomados
+trade
 Sea
 Si
 Superficie
@@ -3802,6 +3821,8 @@ Suponga
 Simples
 Selecci
 Selecciona
+Stacked
+Separar
 un
 una
 usando
@@ -4919,6 +4940,11 @@ performance
 ptimo
 ptimos
 precision
+peor
+promedio
+ponderado
+predicci
+prediccion
 br
 borde
 busco
@@ -5237,6 +5263,7 @@ buscamos
 biyectivas
 bil
 bootstrapping
+bootstrap
 ricas
 respectivamente
 recorre
@@ -5624,6 +5651,8 @@ rboles
 relacionados
 repite
 recursivamente
+regresi
+regularizacion
 Volumen
 Variable
 Ver
@@ -5876,6 +5905,7 @@ VVCE
 VoU
 VSf
 Ventajas
+Voting
 Cartesianas
 Cil
 Cambios
@@ -6188,6 +6218,7 @@ Cpj
 CdM
 Cuento
 Calcular
+Complejidad
 Esf
 Entonces
 Esto
@@ -6472,6 +6503,7 @@ EDh
 Eki
 Encontrar
 Ensambles
+Entrena
 Integrales
 Importantes
 Igualo
@@ -7709,6 +7741,7 @@ obH
 omega
 objeto
 overfitting
+off
 mide
 mas
 mediante
@@ -8096,6 +8129,7 @@ mandan
 mensajes
 mejor
 mejores
+metros
 que
 queda
 quede
@@ -10426,6 +10460,8 @@ Asociaci
 Agregaci
 Ayudan
 Aplicar
+Averaging
+Ajuste
 Final
 Flujo
 Fuerza
@@ -10695,6 +10731,7 @@ FnXs
 Fjl
 Fijarse
 Funcionan
+Forest
 Potencial
 Para
 Punto
@@ -10998,6 +11035,8 @@ Pje
 Proposici
 Prop
 Promediar
+Promediamos
+Prob
 Hipotesis
 HbgIcQAl
 HJM
@@ -11224,6 +11263,7 @@ HRe
 HZT
 HAbo
 HX
+Hiper
 ya
 yRZ
 yD
@@ -11979,6 +12019,7 @@ MzNF
 MRs
 Mixta
 Masa
+Majority
 OPTIONS
 OV
 OP
@@ -12240,6 +12281,7 @@ ODTvF
 OLq
 OKY
 Observar
+Omega
 Una
 Un
 UI
@@ -12518,6 +12560,7 @@ UVV
 UAC
 Utm
 Usualmente
+Usa
 width
 wxTE
 wS
@@ -13078,6 +13121,8 @@ RZvJ
 Reescribir
 Realizaci
 Requiere
+Resultado
+Random
 Ya
 YUV
 YLO
@@ -15590,6 +15635,9 @@ Buena
 Bagging
 Bag
 Boosting
+Blending
+Boost
+Bosteo
 äU
 äI
 XJV

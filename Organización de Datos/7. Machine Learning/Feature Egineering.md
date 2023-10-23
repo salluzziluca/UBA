@@ -15,3 +15,5 @@ que no existian en nuestro set de datos y que nosotros decidimos agregar:
 #### Encoding de variables categóricas
 ##### One Hot Encoding
 Tenemos que codificar variables categóricas
+![[Pasted image 20231023101943.png]]
+Tenemos tantas columnas binarias como posibles valore

@@ -51,3 +51,6 @@ Posibles interacciones:
 - suma
 - diferencia
 - division (==RATIO==)
+
+#### Multiples interacciones
+![[Pasted image 20231023105403.png]]

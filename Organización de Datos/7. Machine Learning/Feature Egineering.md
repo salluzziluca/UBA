@@ -7,4 +7,4 @@ que no existian en nuestro set de datos y que nosotros decidimos agregar:
 
 ## Transformación de features existentes
 - Log transformation: Transforma una funcion de tipo exponencial en una normal (la normaliza)
-- 
+- $x = \sqrt{x}$, $x=\sin⁻1(x)$, $x=x^{-1}$

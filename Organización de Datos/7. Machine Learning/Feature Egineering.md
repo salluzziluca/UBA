@@ -37,4 +37,7 @@ donde alpha controla la cantidad de regularizacion a usar
 -  En general se una en conjunto con LOOCV (leave one out cross validation)
 
 ###### Expanding Mean
-Es necesario tener el D F 
+Es necesario tener el DF ordenado (por tiempo)
+- Minimiza el filtraddo del target al set de entrenamiento
+- La calidadd del encoding es irregular
+- Es el metoddo usado por Cat Boost

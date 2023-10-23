@@ -12,4 +12,6 @@ que no existian en nuestro set de datos y que nosotros decidimos agregar:
 - Normalizar y estandarizar (restar promedio, dividir por std)
 - Normalizar por rango 
 - Binning: podemos crear bins en los que repartimos nuestra variable numerica para transformarla en categoricas ![[Pasted image 20231023101543.png]]
-#### Encoding de vari
+#### Encoding de variables categóricas
+##### One Hot Encoding
+Tenemos que codificar variables categóricas

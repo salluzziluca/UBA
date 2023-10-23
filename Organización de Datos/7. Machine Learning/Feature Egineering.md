@@ -19,4 +19,4 @@ Tenemos que codificar variables categóricas
 Tenemos tantas columnas binarias como posibles valores tenia mi variable categórica original
 
 ##### Binary encoding
-en vez de una columna por valor, paso todos l
+en vez de una columna por valor, voy a tener $\log_{2}(cantidad \ de \ valores \ de \ la \ var)$

@@ -258,6 +258,8 @@ LYP
 Lv
 Limitaciones
 Little
+Llamaremos
+LLamaremos
 subespacios
 subespacio
 se
@@ -2057,6 +2059,7 @@ clasficican
 comio
 categoria
 cmplejidad
+condicinal
 las
 la
 lo
@@ -5977,6 +5980,7 @@ VSf
 Ventajas
 Voting
 Visualizacion
+Varianza
 Cartesianas
 Cil
 Cambios
@@ -6293,6 +6297,7 @@ Complejidad
 Computer
 Cover
 Conocimientos
+Condicional
 Esf
 Entonces
 Esto
@@ -8219,6 +8224,7 @@ mayoria
 machine
 mezcladora
 mezcla
+medibles
 que
 queda
 quede
@@ -8452,6 +8458,7 @@ qAY
 qFpco
 qjM
 qaz
+qque
 hasta
 hacia
 hay

@@ -1393,6 +1393,7 @@ direccionable
 deerminado
 directivas
 dato
+diciendo
 cumplir
 condiciones
 cartesianas
@@ -2593,6 +2594,7 @@ endian
 especifico
 ensamblador
 especificas
+esty
 adicionalmente
 alguna
 al
@@ -3009,6 +3011,8 @@ actualmente
 apuntan
 aclarar
 always
+acceder
+acceda
 tres
 theta
 tiene
@@ -3924,6 +3928,7 @@ utilizamos
 unos
 usuario
 utilizando
+utilizo
 no
 ndricas
 nulo

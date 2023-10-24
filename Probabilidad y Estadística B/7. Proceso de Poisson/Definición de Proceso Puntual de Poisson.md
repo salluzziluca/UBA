@@ -14,3 +14,6 @@ La variable aleatoria N(t)("cantidad de eventos en un int de longitud t") tiene 
 
 
 Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024122330.png]]
+
+
+### Adelgazamiento o Coloreo

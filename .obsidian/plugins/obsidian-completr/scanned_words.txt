@@ -664,6 +664,7 @@ significativo
 system
 stack
 secci
+sabemos
 vectoriales
 vectorial
 vacio
@@ -977,6 +978,7 @@ valgan
 variabilidad
 varianza
 vibariadas
+vive
 deben
 de
 diferenciales
@@ -1389,6 +1391,7 @@ derivadas
 direccionable
 deerminado
 directivas
+dato
 cumplir
 condiciones
 cartesianas
@@ -1917,6 +1920,7 @@ correlacion
 creciente
 cuyas
 codigo
+cuestion
 las
 la
 lo
@@ -2999,6 +3003,8 @@ asignacion
 acceden
 altera
 actualmente
+apuntan
+aclarar
 tres
 theta
 tiene
@@ -4669,6 +4675,7 @@ pedacito
 periferios
 procesdor
 procesar
+pointero
 br
 borde
 busco
@@ -10444,6 +10451,7 @@ Postorder
 Pero
 Proximo
 Program
+Puntero
 Hipotesis
 HbgIcQAl
 HJM

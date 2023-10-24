@@ -63,3 +63,5 @@ Alguas generan informacion   en la memoria, otras no
 
 ## Subrutina
 Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl
+
+## Macro

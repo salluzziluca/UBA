@@ -243,6 +243,7 @@ Leyes
 Logica
 Logramos
 LD
+Little
 subespacios
 subespacio
 se
@@ -658,6 +659,11 @@ sincronicos
 sincronizadamente
 sirva
 sop
+seguarda
+significativo
+system
+stack
+secci
 vectoriales
 vectorial
 vacio
@@ -1380,6 +1386,9 @@ dicha
 dispersa
 discreta
 derivadas
+direccionable
+deerminado
+directivas
 cumplir
 condiciones
 cartesianas
@@ -1906,6 +1915,8 @@ covarianza
 coef
 correlacion
 creciente
+cuyas
+codigo
 las
 la
 lo
@@ -2177,6 +2188,8 @@ listed
 llamado
 listo
 limites
+llamamos
+lasinstrucciones
 enunciadas
 en
 espacio
@@ -2569,6 +2582,10 @@ esperanza
 esperanzas
 extiendo
 efect
+endian
+especifico
+ensamblador
+especificas
 adicionalmente
 alguna
 al
@@ -2976,6 +2993,12 @@ avanza
 analizar
 armamos
 ayude
+accedo
+alta
+asignacion
+acceden
+altera
+actualmente
 tres
 theta
 tiene
@@ -3314,6 +3337,9 @@ tabular
 transiciones
 tranformacion
 tranformaciones
+tenere
+tamaa
+tama
 Sea
 Si
 Superficie
@@ -3582,6 +3608,11 @@ SON
 Simulacion
 Suponiendo
 Suponga
+Set
+SPARC
+Status
+Sintaxis
+Subrutina
 un
 una
 usando
@@ -3881,6 +3912,7 @@ use
 utilizado
 utilizamos
 unos
+usuario
 no
 ndricas
 nulo
@@ -4634,6 +4666,9 @@ parciales
 particion
 particicon
 pedacito
+periferios
+procesdor
+procesar
 br
 borde
 busco
@@ -4933,6 +4968,9 @@ bidimensional
 biscamos
 buscamos
 biyectivas
+baja
+big
+bin
 ricas
 respectivamente
 recorre
@@ -5295,6 +5333,9 @@ recibe
 relacion
 restringida
 recibo
+representamos
+registros
+registro
 Volumen
 Variable
 Ver
@@ -5846,6 +5887,7 @@ Covarianza
 Cov
 Coeficiente
 Correlaci
+Computer
 Esf
 Entonces
 Esto
@@ -6988,6 +7030,7 @@ Def
 Debe
 Dependiendo
 Desvio
+Directivas
 obtenemos
 orientaci
 orientable
@@ -7295,6 +7338,9 @@ ocurrido
 obtengo
 organiza
 oscilaciones
+organizada
+ocupan
+ocupada
 mide
 mas
 mediante
@@ -7652,6 +7698,7 @@ minivalores
 mapa
 maestro
 min
+maquina
 que
 queda
 quede
@@ -8134,6 +8181,7 @@ hip
 herm
 hago
 huevo
+hexa
 image
 iria
 incluya
@@ -8440,6 +8488,7 @@ interna
 impresora
 internamente
 inversas
+instrucciones
 frontera
 flujo
 forma
@@ -8768,6 +8817,8 @@ flip
 flop
 flipflops
 finita
+fisicamente
+flags
 gira
 green
 gradiente
@@ -9060,6 +9111,7 @@ generalizar
 gicas
 generen
 generalizado
+guardan
 Gauss
 Green
 GC
@@ -9850,6 +9902,10 @@ Algebraico
 Aquel
 Actual
 Aplicacion
+Arqitectura
+ARC
+Algunas
+Alguas
 Final
 Flujo
 Fuerza
@@ -10387,6 +10443,7 @@ Preorden
 Postorder
 Pero
 Proximo
+Program
 Hipotesis
 HbgIcQAl
 HJM
@@ -11322,6 +11379,7 @@ Mejor
 Mas
 Markov
 Metodo
+Memoria
 OPTIONS
 OV
 OP
@@ -12370,6 +12428,8 @@ Redondeo
 REsulta
 Registro
 Registros
+Risc
+Register
 Ya
 YUV
 YLO
@@ -14768,6 +14828,7 @@ BASE
 Bayes
 Borra
 Busqueda
+Big
 äU
 äI
 XJV

@@ -665,6 +665,7 @@ system
 stack
 secci
 sabemos
+subrutina
 vectoriales
 vectorial
 vacio
@@ -1921,6 +1922,8 @@ creciente
 cuyas
 codigo
 cuestion
+call
+conceptualmente
 las
 la
 lo
@@ -3005,6 +3008,7 @@ altera
 actualmente
 apuntan
 aclarar
+always
 tres
 theta
 tiene
@@ -3919,6 +3923,7 @@ utilizado
 utilizamos
 unos
 usuario
+utilizando
 no
 ndricas
 nulo
@@ -4978,6 +4983,7 @@ biyectivas
 baja
 big
 bin
+branch
 ricas
 respectivamente
 recorre
@@ -9119,6 +9125,7 @@ gicas
 generen
 generalizado
 guardan
+guardando
 Gauss
 Green
 GC
@@ -9599,6 +9606,7 @@ jk
 jueves
 jeje
 jacobiano
+jpml
 Aplicaci
 Apuntes
 Ambas

@@ -17,4 +17,5 @@ Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024
 
 
 ### Adelgazamiento o Coloreo
+Cada vez que ocurre un evento se lo clasifica como de tipo I con proba p o de tipo III 
 ![[Coloreo]]

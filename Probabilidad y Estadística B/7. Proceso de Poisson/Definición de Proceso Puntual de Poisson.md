@@ -22,4 +22,4 @@ En este caso $\varPi_{1}(\lambda p)$ y $\varPi_{2}(\lambda(1-p))$
 ![[Coloreo]]
 
 
-Teorema. bajo la condicion de que ocurrieran exactamente n arribos en el intervalo $[0,t]$, los tiempos de los n arribos $S_{1}, S_{2}, \dots, S_{n}$
+Teorema. bajo la condicion de que ocurrieran exactamente n arribos en el intervalo $[0,t]$, los tiempos de los n arribos $S_{1}, S_{2}, \dots, S_{n}$, consideradas como variables aleatorias desordenadas, son independientes y están distribuiidas uniformemente sobre $[]$

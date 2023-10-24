@@ -703,6 +703,7 @@ selecciono
 sangre
 spark
 suben
+superpuestos
 vectoriales
 vectorial
 vacio
@@ -1475,6 +1476,7 @@ deerminado
 directivas
 distencia
 distancias
+despreciable
 cumplir
 condiciones
 cartesianas
@@ -2060,6 +2062,7 @@ comio
 categoria
 cmplejidad
 condicinal
+consecutivos
 las
 la
 lo
@@ -2777,6 +2780,9 @@ especificas
 euclideana
 edad
 ejercicio
+enumeardo
+eventoo
+esimo
 adicionalmente
 alguna
 al
@@ -3225,6 +3231,8 @@ altera
 actualmente
 azucar
 avanzado
+aleatorios
+aplicaciones
 tres
 theta
 tiene
@@ -4196,6 +4204,8 @@ uCR
 uCC
 uFp
 usuario
+ubicoado
+ubicacion
 no
 ndricas
 nulo
@@ -5012,6 +5022,7 @@ procesdor
 pruebo
 persona
 previos
+pasada
 br
 borde
 busco
@@ -5981,6 +5992,7 @@ Ventajas
 Voting
 Visualizacion
 Varianza
+Vamos
 Cartesianas
 Cil
 Cambios
@@ -6298,6 +6310,7 @@ Computer
 Cover
 Conocimientos
 Condicional
+Coloreo
 Esf
 Entonces
 Esto
@@ -9059,6 +9072,7 @@ interaccionan
 interpretar
 instrucciones
 infinitos
+independdientes
 frontera
 flujo
 forma
@@ -10574,6 +10588,7 @@ Algunas
 Alguas
 Administrativa
 AVA
+Adelgazamiento
 Final
 Flujo
 Fuerza
@@ -11151,6 +11166,10 @@ Promediamos
 Prob
 Program
 Pandas
+Proceso
+Puntual
+Poisson
+Propiedad
 Hipotesis
 HbgIcQAl
 HJM

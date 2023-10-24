@@ -17,3 +17,4 @@ Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024
 
 
 ### Adelgazamiento o Coloreo
+![[Coloreo]]

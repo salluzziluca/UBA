@@ -65,4 +65,10 @@ Alguas generan informacion   en la memoria, otras no
 Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl
 
 ## Macro
-Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentos
+Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
+
+## Localización de variables
+- registros
+- Segmento de datos (RAM)
+- Stack (RAM)
+- 

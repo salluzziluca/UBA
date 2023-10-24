@@ -4,4 +4,5 @@ Un Proceso Puntual Aleatorio es un conjunto enumeardo de puntos aleatorios ubico
 
 Vamos a llamar $N(t)$ al numero de eventos durante un intervalo especifico [0,t]
 1. El numero de evento durante intervalos de tiempo no superpuestos son VA independdientes![[Pasted image 20231024114629.png]]
-2. La proba de cada eventoo en particular es la misma para todos los intervalos de longitud $t$, independientemente de la ubicacion de cada intervalo y de la historia pasada del sistmea
+2. La proba de cada eventoo en particular es la misma para todos los intervalos de longitud $t$, independientemente de la ubicacion de cada intervalo y de la historia pasada del sistema. ![[Pasted image 20231024114959.png]]
+3. La proba de obtener 2 o mas eventos en un intervalo lo suficientemente pequeño es despreciable

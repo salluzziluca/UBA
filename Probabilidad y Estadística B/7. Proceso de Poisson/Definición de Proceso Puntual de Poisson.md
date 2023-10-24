@@ -8,3 +8,6 @@ Vamos a llamar $N(t)$ al numero de eventos durante un intervalo especifico [0,t]
 3. La proba de obtener 2 o mas eventos en un intervalo lo suficientemente pequeño es despreciable
 
 La funcion de proba de N(t) está dada por $$p_N(n)=\frac{(\lambda t)^{n}}{n!}.e^{-\lambda t}$$ Con $n \in \mathbb{N}_{0}$. Donde lambda>0, entonces N(t) tiene distribución de Poisson de parametro $\mu=\lambda t$
+
+#### propiedades
+1. La variable 

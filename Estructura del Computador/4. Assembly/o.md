@@ -43,6 +43,7 @@ de 0 a 2^{31}-1 RAM.
 ![[Pasted image 20231017170626.png]]
 si  dice cc es porque altera los flags
 el branch always y el call son conceptualmente diferentes, el call se utiliza para una subrutina, guardando la posicion actual para luego volver utilizando ^'jpml 
+Para acceder a memoria, utilizo ld %rn, de esa forma le esty diciendo al programa que acceda a la direccion rn en memoria
 
 ## Registros
 ![[Pasted image 20231017171718.png]]

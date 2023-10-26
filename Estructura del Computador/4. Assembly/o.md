@@ -42,10 +42,11 @@ de 0 a 2^{31}-1 RAM.
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
 si  dice cc es porque altera los flags
-
-## Registros
+el branch always y el call son conceptualmente diferentes, el call se utiliza para una subrutina, guardando la posicion actual para luego volver utilizando ^'jpml 
+Para acceder a memoria, utilizo ld %rn, de esa forma le esty diciendo al programa que acceda a la direccion rn en memoria. Es decir, si en rn yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
+ñ¿-+# Registros
 ![[Pasted image 20231017171718.png]]
-El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente
+El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
 
 ## Sintaxis
 ```asm
@@ -61,3 +62,12 @@ Alguas generan informacion   en la memoria, otras no
 ![[Pasted image 20231017175405.png]]
 
 ## Subrutina
+Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl
+
+## Macro
+Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
+
+## Localización de variables
+- registros
+- Segmento de datos (RAM)
+- Stack (RAM)

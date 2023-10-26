@@ -1477,6 +1477,8 @@ directivas
 distencia
 distancias
 despreciable
+desordenadas
+distribuiidas
 cumplir
 condiciones
 cartesianas
@@ -2063,6 +2065,8 @@ categoria
 cmplejidad
 condicinal
 consecutivos
+clasifica
+consideradas
 las
 la
 lo
@@ -2783,6 +2787,7 @@ ejercicio
 enumeardo
 eventoo
 esimo
+exactamente
 adicionalmente
 alguna
 al
@@ -3233,6 +3238,7 @@ azucar
 avanzado
 aleatorios
 aplicaciones
+arribos
 tres
 theta
 tiene
@@ -3595,6 +3601,7 @@ tamaa
 tomaria
 toman
 tps
+tiempos
 Sea
 Si
 Superficie
@@ -4206,6 +4213,7 @@ uFp
 usuario
 ubicoado
 ubicacion
+uniformemente
 no
 ndricas
 nulo
@@ -7844,6 +7852,7 @@ outlier
 observacion
 ordeno
 opcional
+ocurrieran
 mide
 mas
 mediante

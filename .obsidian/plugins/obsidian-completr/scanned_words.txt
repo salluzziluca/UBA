@@ -260,6 +260,8 @@ Limitaciones
 Little
 Llamaremos
 LLamaremos
+Lineplot
+Lollipop
 subespacios
 subespacio
 se
@@ -704,6 +706,7 @@ sangre
 spark
 suben
 superpuestos
+separar
 vectoriales
 vectorial
 vacio
@@ -1035,6 +1038,9 @@ ventajas
 voto
 vecinos
 vistas
+visuales
+visualizaciones
+visualizar
 deben
 de
 diferenciales
@@ -1479,6 +1485,12 @@ distancias
 despreciable
 desordenadas
 distribuiidas
+definidos
+dato
+diome
+dispersan
+diagram
+distribuyen
 cumplir
 condiciones
 cartesianas
@@ -2067,6 +2079,16 @@ condicinal
 consecutivos
 clasifica
 consideradas
+concepto
+contar
+ciencia
+complejidad
+continuos
+claras
+cuartiles
+chart
+cloud
+coloreado
 las
 la
 lo
@@ -2788,6 +2810,10 @@ enumeardo
 eventoo
 esimo
 exactamente
+exitosa
+estructura
+esqueleto
+espejado
 adicionalmente
 alguna
 al
@@ -3239,6 +3265,9 @@ avanzado
 aleatorios
 aplicaciones
 arribos
+apariencia
+agrupados
+ayudar
 tres
 theta
 tiene
@@ -3602,6 +3631,8 @@ tomaria
 toman
 tps
 tiempos
+til
+tiles
 Sea
 Si
 Superficie
@@ -3897,6 +3928,9 @@ SPARC
 Status
 Sintaxis
 Subrutina
+Scatter
+Series
+Sankey
 un
 una
 usando
@@ -4214,6 +4248,7 @@ usuario
 ubicoado
 ubicacion
 uniformemente
+usada
 no
 ndricas
 nulo
@@ -5031,6 +5066,10 @@ pruebo
 persona
 previos
 pasada
+plot
+parten
+porcentaje
+plots
 br
 borde
 busco
@@ -5353,6 +5392,9 @@ bootstrap
 baja
 big
 bin
+belleza
+barras
+bigotes
 ricas
 respectivamente
 recorre
@@ -5745,6 +5787,7 @@ regularizacion
 representamos
 ruidosas
 regresion
+relacionan
 Volumen
 Variable
 Ver
@@ -6001,6 +6044,10 @@ Voting
 Visualizacion
 Varianza
 Vamos
+Visualizaci
+Visual
+Violin
+Venn
 Cartesianas
 Cil
 Cambios
@@ -6319,6 +6366,7 @@ Cover
 Conocimientos
 Condicional
 Coloreo
+Choropleth
 Esf
 Entonces
 Esto
@@ -7214,6 +7262,8 @@ Truncamiento
 TODOS
 Tiene
 Teoricas
+Tienen
+Tree
 Dejando
 DEN
 De
@@ -7527,6 +7577,9 @@ Dibujar
 Dependencia
 Directivas
 Defiinimos
+Datos
+Density
+Diagrama
 obtenemos
 orientaci
 orientable
@@ -7853,6 +7906,9 @@ observacion
 ordeno
 opcional
 ocurrieran
+objetivos
+obviamente
+outliers
 mide
 mas
 mediante
@@ -8247,6 +8303,10 @@ machine
 mezcladora
 mezcla
 medibles
+metaforicos
+metaforas
+met
+mediana
 que
 queda
 quede
@@ -9082,6 +9142,7 @@ interpretar
 instrucciones
 infinitos
 independdientes
+interesante
 frontera
 flujo
 forma
@@ -9441,6 +9502,8 @@ faltantes
 fisicamente
 flags
 factorizacion
+fora
+foras
 gira
 green
 gradiente
@@ -11179,6 +11242,10 @@ Proceso
 Puntual
 Poisson
 Propiedad
+Plot
+Pie
+Plots
+Permite
 Hipotesis
 HbgIcQAl
 HJM
@@ -11408,6 +11475,9 @@ HX
 Hiper
 Hart
 HICISTE
+Historia
+Histograma
+Heatmap
 ya
 yRZ
 yD
@@ -12167,6 +12237,8 @@ Majority
 Memoria
 Machine
 Mezcladora
+Met
+Muestra
 OPTIONS
 OV
 OP
@@ -12429,6 +12501,7 @@ OLq
 OKY
 Observar
 Omega
+Objetivo
 Una
 Un
 UI
@@ -13274,6 +13347,8 @@ Risc
 Register
 Regresion
 Regresi
+Regression
+Radar
 Ya
 YUV
 YLO
@@ -13769,6 +13844,7 @@ WyR
 WuQ
 WPa
 WMK
+Word
 xpqa
 xDD
 xZ
@@ -15792,6 +15868,8 @@ Blending
 Boost
 Bosteo
 Big
+Box
+Bar
 äU
 äI
 XJV

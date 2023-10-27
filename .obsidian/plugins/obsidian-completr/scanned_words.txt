@@ -1491,6 +1491,8 @@ diome
 dispersan
 diagram
 distribuyen
+debil
+distribuidas
 cumplir
 condiciones
 cartesianas
@@ -2089,6 +2091,7 @@ cuartiles
 chart
 cloud
 coloreado
+ciertas
 las
 la
 lo
@@ -3268,6 +3271,10 @@ arribos
 apariencia
 agrupados
 ayudar
+aproximacion
+alcanza
+asimetricas
+ahi
 tres
 theta
 tiene
@@ -6367,6 +6374,7 @@ Conocimientos
 Condicional
 Coloreo
 Choropleth
+Central
 Esf
 Entonces
 Esto
@@ -7580,6 +7588,8 @@ Defiinimos
 Datos
 Density
 Diagrama
+Distribuci
+Depdende
 obtenemos
 orientaci
 orientable
@@ -8307,6 +8317,9 @@ metaforicos
 metaforas
 met
 mediana
+multivariada
+mites
+markov
 que
 queda
 quede
@@ -9143,6 +9156,9 @@ instrucciones
 infinitos
 independdientes
 interesante
+indep
+identicamente
+iniformes
 frontera
 flujo
 forma
@@ -11957,6 +11973,7 @@ Nkkk
 NFZT
 Nuestro
 Notacion
+Normal
 MORE
 MYk
 MDD
@@ -12240,6 +12257,7 @@ Machine
 Mezcladora
 Met
 Muestra
+Multivariada
 OPTIONS
 OV
 OP

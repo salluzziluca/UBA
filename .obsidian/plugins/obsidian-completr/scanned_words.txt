@@ -9124,7 +9124,6 @@ impares
 intersecci
 izq
 idempotencia
-idependientes
 implicantes
 implementarlo
 impone

@@ -707,6 +707,7 @@ spark
 suben
 superpuestos
 separar
+sabemos
 vectoriales
 vectorial
 vacio
@@ -2092,6 +2093,7 @@ chart
 cloud
 coloreado
 ciertas
+cjto
 las
 la
 lo
@@ -2817,6 +2819,7 @@ exitosa
 estructura
 esqueleto
 espejado
+esperado
 adicionalmente
 alguna
 al
@@ -3640,6 +3643,7 @@ tps
 tiempos
 til
 tiles
+truncada
 Sea
 Si
 Superficie
@@ -6660,6 +6664,7 @@ Eki
 Encontrar
 Ensambles
 Entrena
+Esperanza
 Integrales
 Importantes
 Igualo
@@ -7590,6 +7595,7 @@ Density
 Diagrama
 Distribuci
 Depdende
+Discreta
 obtenemos
 orientaci
 orientable
@@ -10677,6 +10683,7 @@ Alguas
 Administrativa
 AVA
 Adelgazamiento
+Aleatoria
 Final
 Flujo
 Fuerza

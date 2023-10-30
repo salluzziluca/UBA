@@ -2826,6 +2826,7 @@ esperado
 experimentos
 ensayos
 exito
+exitos
 adicionalmente
 alguna
 al
@@ -5809,6 +5810,7 @@ ruidosas
 regresion
 relacionan
 referiremos
+repetiir
 Volumen
 Variable
 Ver
@@ -7937,6 +7939,7 @@ ocurrieran
 objetivos
 obviamente
 outliers
+obtenidos
 mide
 mas
 mediante

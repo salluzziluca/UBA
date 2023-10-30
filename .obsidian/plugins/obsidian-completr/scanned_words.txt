@@ -2390,6 +2390,7 @@ lasinstrucciones
 logistica
 learning
 llamaremos
+lograr
 enunciadas
 en
 espacio
@@ -2824,6 +2825,7 @@ espejado
 esperado
 experimentos
 ensayos
+exito
 adicionalmente
 alguna
 al
@@ -5412,6 +5414,7 @@ bin
 belleza
 barras
 bigotes
+bernoulli
 ricas
 respectivamente
 recorre
@@ -6386,6 +6389,7 @@ Condicional
 Coloreo
 Choropleth
 Central
+CAntidad
 Esf
 Entonces
 Esto

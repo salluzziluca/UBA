@@ -1494,6 +1494,7 @@ diagram
 distribuyen
 debil
 distribuidas
+dicotom
 cumplir
 condiciones
 cartesianas
@@ -2094,6 +2095,7 @@ cloud
 coloreado
 ciertas
 cjto
+cte
 las
 la
 lo
@@ -2820,6 +2822,8 @@ estructura
 esqueleto
 espejado
 esperado
+experimentos
+ensayos
 adicionalmente
 alguna
 al
@@ -3644,6 +3648,8 @@ tiempos
 til
 tiles
 truncada
+tiro
+tiros
 Sea
 Si
 Superficie
@@ -5799,6 +5805,7 @@ representamos
 ruidosas
 regresion
 relacionan
+referiremos
 Volumen
 Variable
 Ver
@@ -6665,6 +6672,7 @@ Encontrar
 Ensambles
 Entrena
 Esperanza
+Esas
 Integrales
 Importantes
 Igualo
@@ -14126,6 +14134,8 @@ xTp
 xLt
 xAk
 xEnD
+xito
+xitos
 JyvZ
 JY
 JX
@@ -15896,6 +15906,7 @@ Bosteo
 Big
 Box
 Bar
+Bernoulli
 äU
 äI
 XJV

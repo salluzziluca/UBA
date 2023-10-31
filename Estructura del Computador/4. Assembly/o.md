@@ -91,8 +91,10 @@ RISC (reduced instruction set computer) = le doy mas laburo al programador pero 
 
 
 
-## Compiladores
+# Compiladores
 Ir de codigo fuente a codigo assembler
+
+## frontend
 
 ### Analisis léxico 
 Analizar las palabras y ver si pertenecen al lenguaje o no (las agrega a la tabla de simbolos)simbolos
@@ -102,3 +104,8 @@ analiza la estructura de la cadena de palabras
 
 ### analisis semántico
 Asociar a cada variable: tipo, ambito, congruencias
+
+## Backend
+### mapeo de acciones
+
+### generacion de codigo

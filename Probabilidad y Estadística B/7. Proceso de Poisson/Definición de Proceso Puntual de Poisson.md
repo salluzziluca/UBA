@@ -14,7 +14,8 @@ Ya que $N(t) \sim Poi(\lambda t)$Con $n \in \mathbb{N}_{0}$. Donde lambda>0, ent
 Para intervalos: ![[Pasted image 20231031122145.png]]
 
 Propiedad:
-La variable aleatoria N(t)("cantidad de eventos en un int de longitud t") tiene distribucion de Poisson $\iff$ la variable T("tiempo entre 2 eventos consecutivos") tiene distribución exponencial
+La variable aleatoria N(t)("cantidad de eventos en un int de longitud t") tiene distribucion de Poisson $\iff$ la variable T("tiempo entre 2 eventos consecutivos") tiene distribución exponencial. 
+Ej: tiempo entre evento 1 y 2 menor a 2 minutos: $T_{12}>2$ con T
 
 
 Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024122330.png]]

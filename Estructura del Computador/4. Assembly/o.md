@@ -76,4 +76,8 @@ Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
 ## Arquitectura del set de instrucciones
 Set = Conjunto de instrucciones + registros disponibles
 
-Caracterstiacas
+caracteristicas:
+- tamaño de instruccionestipo de operaciones admitidas
+- tipos de operandos
+- tipos de resulttados
+- formas de indicar la ubi de los daos

@@ -80,4 +80,4 @@ caracteristicas:
 - tamaño de instruccionestipo de operaciones admitidas
 - tipos de operandos
 - tipos de resulttados
-- formas de indicar la ubi de los daos
+- formas de indicar la ubi de los datos = "modos de direccionamiento"

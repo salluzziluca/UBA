@@ -93,3 +93,6 @@ RISC (reduced instruction set computer) = le doy mas laburo al programador pero 
 
 ## Compiladores
 Ir de codigo fuente a codigo assembler
+
+### Analisis léxico 
+Analizar laspalabras

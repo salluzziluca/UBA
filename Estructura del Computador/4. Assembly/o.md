@@ -82,4 +82,4 @@ caracteristicas:
 - tipos de resulttados
 - formas de indicar la ubi de los datos = "modos de direccionamiento"
 
-CISC era un modelo de intstruccioes muy complejas ya que habia poca memoria, valia la pena bajar una sola instr
+CISC era un modelo de intstruccioes muy complejas ya que habia poca memoria, valia la pena bajar una sola instruccion muy grosa y listo

@@ -128,4 +128,4 @@ Su laburo es mucho más sencilo que el del compilador, es menos Complejos
 
 Proceso de ensamblado en 2 pasadas:
 1. Detecta identificadores y les asigna una posicion de memoria. Crea la tabla de simbolos
-	1. Cada instruccion es convertida a codigo de maquina. Cada identificador es reemplazado por su ubicacion en memoria (usando la tabla de simbolos). Cada linea es procesada completamente antes de avanzar a la sig.  Genera el codigo obj y el listado
+2. Cada instruccion es convertida a codigo de maquina. Cada identificador es reemplazado por su ubicacion en memoria (usando la tabla de simbolos). Cada linea es procesada completamente antes de avanzar a la sig.  Genera el codigo obj y el listado

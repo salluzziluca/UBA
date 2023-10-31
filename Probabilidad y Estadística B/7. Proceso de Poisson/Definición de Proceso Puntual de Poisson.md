@@ -7,7 +7,10 @@ Vamos a llamar $N(t)$ al numero de eventos durante un intervalo especifico [0,t]
 2. La proba de cada eventoo en particular es la misma para todos los intervalos de longitud $t$, independientemente de la ubicacion de cada intervalo y de la historia pasada del sistema. ![[Pasted image 20231024114959.png]]
 3. La proba de obtener 2 o mas eventos en un intervalo lo suficientemente pequeño es despreciable
 
-La funcion de proba de N(t) está dada por $$p_N(n)=\frac{(\lambda t)^{n}}{n!}.e^{-\lambda t}$$ Con $n \in \mathbb{N}_{0}$. Donde lambda>0, entonces N(t) tiene distribución de Poisson de parametro $\mu=\lambda t$
+La funcion de proba de N(t) está dada por $$p_N(n)=\frac{(\lambda t)^{n}}{n!}.e^{-\lambda t}$$
+Ya que Con $n \in \mathbb{N}_{0}$. Donde lambda>0, entonces N(t) tiene distribución de Poisson de parametro $\mu=\lambda t$
+
+
 
 Propiedad:
 La variable aleatoria N(t)("cantidad de eventos en un int de longitud t") tiene distribucion de Poisson $\iff$ la variable T("tiempo entre 2 eventos consecutivos") tiene distribución exponencial

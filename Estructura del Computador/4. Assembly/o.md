@@ -71,3 +71,9 @@ Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
 - registros
 - Segmento de datos (RAM)
 - Stack (RAM)
+
+
+## Arquitectura del set de instrucciones
+Set = Conjunto de instrucciones + registros disponibles
+
+Caracterstiacas

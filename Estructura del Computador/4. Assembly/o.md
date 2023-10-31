@@ -87,3 +87,9 @@ CISC era un modelo de intstruccioes muy complejas ya que habia poca memoria, val
 RISC (reduced instruction set computer) = le doy mas laburo al programador pero las instrucciones son mas faciles
 
 ![[Pasted image 20231031173830.png]]
+
+
+
+
+## Compiladores
+Ir de codigo fuente a codigo assembler

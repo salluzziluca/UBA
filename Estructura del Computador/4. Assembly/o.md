@@ -95,4 +95,9 @@ RISC (reduced instruction set computer) = le doy mas laburo al programador pero 
 Ir de codigo fuente a codigo assembler
 
 ### Analisis léxico 
-Analizar laspalabras
+Analizar las palabras y ver si pertenecen al lenguaje o no (las agrega a la tabla de simbolos)simbolos
+
+### Analisis sintáctico
+analiza la estructura de la cadena de palabras
+
+### analisis semántico

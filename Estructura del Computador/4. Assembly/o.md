@@ -113,6 +113,8 @@ Asociar a cada variable: tipo, ambito, congruencias
 #### Estructuras decontrol de flujo del programa
 
 #### Donde almacenar RAM
-Las variables estaticas (globales) permanecen a lo largo del tiempo de ejecución de la app
+Las variables estaticas (globales) permanecen a lo largo del tiempo de ejecución de la app-> se guarda en posición de memoria conocida e tiempo de compilación
+
+Las variales locales se guardan en el stack
 
 ### generacion de codigo

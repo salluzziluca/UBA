@@ -81,3 +81,5 @@ caracteristicas:
 - tipos de operandos
 - tipos de resulttados
 - formas de indicar la ubi de los datos = "modos de direccionamiento"
+
+CISC era un modelo de intstruccioes muy complejas ya que habia poca memoria, valia la pena bajar una sola instr

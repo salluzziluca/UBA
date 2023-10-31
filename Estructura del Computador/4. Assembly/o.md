@@ -101,3 +101,4 @@ Analizar las palabras y ver si pertenecen al lenguaje o no (las agrega a la tabl
 analiza la estructura de la cadena de palabras
 
 ### analisis semántico
+Asociar a cada variable: tipo, ambito, congruencias

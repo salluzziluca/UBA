@@ -108,4 +108,6 @@ Asociar a cada variable: tipo, ambito, congruencias
 ## Backend
 ### mapeo de acciones
 
+#### Operaciones ariméticas
+
 ### generacion de codigo

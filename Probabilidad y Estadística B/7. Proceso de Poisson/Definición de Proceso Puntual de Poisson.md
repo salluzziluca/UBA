@@ -18,7 +18,7 @@ La variable aleatoria N(t)("cantidad de eventos en un int de longitud t") tiene 
 
 
 Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024122330.png]]
-
+![[Pasted image 20231031114824.png]]
 
 ### Adelgazamiento o Coloreo
 Cada vez que ocurre un evento se lo clasifica como de tipo I con proba p o de tipo $II$ con proba $1-p$

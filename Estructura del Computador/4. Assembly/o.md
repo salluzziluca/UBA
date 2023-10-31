@@ -115,6 +115,6 @@ Asociar a cada variable: tipo, ambito, congruencias
 #### Donde almacenar RAM
 Las variables estaticas (globales) permanecen a lo largo del tiempo de ejecución de la app-> se guarda en posición de memoria conocida e tiempo de compilación
 
-Las variales locales se guardan en el stack
+Las variales locales se guardan en el stack y desaparecen cuando termina el procedimiento que las llama 
 
 ### generacion de codigo

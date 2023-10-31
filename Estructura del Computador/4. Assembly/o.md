@@ -123,4 +123,7 @@ lo pasa a assembler
 
 
 # ensamblador
-Su laburo es mucho más sencilo que el del compilador, es menos complejo
+Su laburo es mucho más sencilo que el del compilador, es menos Complejos
+
+
+Proceso de ensamblado en 2 pasadas: Detecta identificadores y les asigna una posicion de memri

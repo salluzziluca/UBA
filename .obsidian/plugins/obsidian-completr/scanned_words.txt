@@ -244,6 +244,7 @@ Logica
 Logramos
 LD
 Little
+Localizaci
 subespacios
 subespacio
 se
@@ -980,6 +981,7 @@ variabilidad
 varianza
 vibariadas
 vive
+vuelvo
 deben
 de
 diferenciales
@@ -2198,6 +2200,7 @@ listo
 limites
 llamamos
 lasinstrucciones
+llamar
 enunciadas
 en
 espacio
@@ -3013,6 +3016,7 @@ aclarar
 always
 acceder
 acceda
+argumentosw
 tres
 theta
 tiene
@@ -3354,6 +3358,7 @@ tranformaciones
 tenere
 tamaa
 tama
+traer
 Sea
 Si
 Superficie
@@ -3627,6 +3632,8 @@ SPARC
 Status
 Sintaxis
 Subrutina
+Segmento
+Stack
 un
 una
 usando
@@ -4220,6 +4227,7 @@ nuevo
 necesite
 negada
 necesaria
+nombre
 pertenecen
 pertenece
 pi
@@ -4686,6 +4694,7 @@ periferios
 procesdor
 procesar
 pointero
+ponerle
 br
 borde
 busco
@@ -4989,6 +4998,7 @@ baja
 big
 bin
 branch
+backupeo
 ricas
 respectivamente
 recorre
@@ -9612,6 +9622,7 @@ jueves
 jeje
 jacobiano
 jpml
+jmpl
 Aplicaci
 Apuntes
 Ambas
@@ -11401,6 +11412,7 @@ Mas
 Markov
 Metodo
 Memoria
+Macro
 OPTIONS
 OV
 OP

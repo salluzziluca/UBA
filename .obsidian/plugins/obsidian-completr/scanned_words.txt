@@ -988,6 +988,7 @@ vibariadas
 vive
 vuelvo
 valia
+variales
 deben
 de
 diferenciales
@@ -1408,6 +1409,8 @@ dejamos
 down
 direccionamiento
 decontrol
+desaparecen
+dor
 cumplir
 condiciones
 cartesianas
@@ -1950,6 +1953,8 @@ correspondientes
 complejas
 computer
 congruencias
+conocida
+compilaci
 las
 la
 lo
@@ -2229,6 +2234,7 @@ ltimo
 log
 laburo
 lenguaje
+locales
 enunciadas
 en
 espacio
@@ -2628,6 +2634,8 @@ especificas
 esty
 era
 estructura
+estaticas
+ejecuci
 adicionalmente
 alguna
 al
@@ -4744,6 +4752,7 @@ pasarle
 poca
 pena
 programador
+permanecen
 br
 borde
 busco

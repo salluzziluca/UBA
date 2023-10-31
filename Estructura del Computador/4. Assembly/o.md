@@ -118,3 +118,9 @@ Las variables estaticas (globales) permanecen a lo largo del tiempo de ejecució
 Las variales locales se guardan en el stack y desaparecen cuando termina el procedimiento que las llama 
 
 ### generacion de codigo
+
+lo pasa a assembler
+
+
+# ensamblador
+Su laburo es mucho más sencilo que el del compilador, es menos complejo

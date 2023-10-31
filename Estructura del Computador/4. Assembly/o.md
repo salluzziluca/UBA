@@ -110,5 +110,8 @@ Asociar a cada variable: tipo, ambito, congruencias
 
 #### Operaciones ariméticas/lógicas
 
+#### Estructuras decontrol de flujo del programa
+
+
 
 ### generacion de codigo

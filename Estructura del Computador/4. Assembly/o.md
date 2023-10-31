@@ -84,4 +84,4 @@ caracteristicas:
 
 CISC era un modelo de intstruccioes muy complejas ya que habia poca memoria, valia la pena bajar una sola instruccion muy grosa y listo
 
-RISC (reduced instruccio)
+RISC (reduced instruction set computer) = le doy mas laburo al programador pero las instrucciones son mas faciles

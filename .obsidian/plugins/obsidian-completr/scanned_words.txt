@@ -1320,6 +1320,8 @@ durante
 despreciable
 desordenadas
 distribuiidas
+debil
+distribuidas
 cumplir
 condiciones
 cartesianas
@@ -1843,6 +1845,7 @@ consecutivos
 clasifica
 consideradas
 condicinal
+ciertas
 las
 la
 lo
@@ -2883,6 +2886,10 @@ aleatorio
 aleatorios
 aplicaciones
 arribos
+aproximacion
+alcanza
+asimetricas
+ahi
 tres
 theta
 tiene
@@ -3217,6 +3224,7 @@ teniendo
 tengan
 tomaria
 tiempos
+tendr
 Sea
 Si
 Superficie
@@ -5692,6 +5700,7 @@ Cover
 Coloreo
 Cada
 Condicional
+Central
 Esf
 Entonces
 Esto
@@ -6817,6 +6826,8 @@ Demeter
 Dont
 DRY
 Dependencies
+Distribuci
+Depdende
 obtenemos
 orientaci
 orientable
@@ -7477,6 +7488,11 @@ mean
 modulo
 mayoria
 medibles
+metros
+multivariada
+mites
+meros
+markov
 que
 queda
 quede
@@ -8259,6 +8275,9 @@ ideal
 infinitos
 intervalos
 independdientes
+indep
+identicamente
+iniformes
 frontera
 flujo
 forma
@@ -8863,6 +8882,7 @@ gicamente
 grid
 grados
 glucosa
+grandes
 Gauss
 Green
 GC
@@ -10854,6 +10874,8 @@ Negro
 Nodos
 Not
 Need
+Notacion
+Normal
 MORE
 MYk
 MDD
@@ -11108,6 +11130,7 @@ Map
 Mantener
 MAE
 Mean
+Multivariada
 OPTIONS
 OV
 OP

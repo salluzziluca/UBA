@@ -25,7 +25,6 @@ Definimos G: "tiempo hasta el k-esimo evento de Poisson"![[Pasted image 20231024
 Cada vez que ocurre un evento se lo clasifica como de tipo I con proba p o de tipo $II$ con proba $1-p$
 En este caso $\varPi_{1}(\lambda p)$ y $\varPi_{2}(\lambda(1-p))$
 
-	![[Coloreo]]
 Teorema. bajo la condicion de que ocurrieran exactamente n arribos en el intervalo $[0,t]$, los tiempos de los n arribos $S_{1}, S_{2}, \dots, S_{n}$, consideradas como variables aleatorias desordenadas, son independientes y están distribuiidas uniformemente sobre $[0,t]$   
 
 

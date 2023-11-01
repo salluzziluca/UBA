@@ -238,6 +238,8 @@ Localizo
 Lineplot
 Lollipop
 Least
+Llamaremos
+LLamaremos
 subespacios
 subespacio
 se
@@ -933,6 +935,8 @@ veces
 verifico
 vecinos
 voy
+var
+varianza
 deben
 de
 diferenciales
@@ -1838,6 +1842,7 @@ coeficiente
 consecutivos
 clasifica
 consideradas
+condicinal
 las
 la
 lo
@@ -2105,6 +2110,7 @@ labels
 label
 lables
 llamar
+llamaremos
 enunciadas
 en
 espacio
@@ -2484,6 +2490,7 @@ especifico
 eventoo
 esimo
 exactamente
+esperanza
 adicionalmente
 alguna
 al
@@ -5397,6 +5404,7 @@ Vamos
 VAD
 VAC
 Validation
+Varianza
 Cartesianas
 Cil
 Cambios
@@ -5683,6 +5691,7 @@ Cuantos
 Cover
 Coloreo
 Cada
+Condicional
 Esf
 Entonces
 Esto
@@ -7467,6 +7476,7 @@ mauor
 mean
 modulo
 mayoria
+medibles
 que
 queda
 quede
@@ -7691,6 +7701,7 @@ quiero
 quinas
 quedamos
 quue
+qque
 hasta
 hacia
 hay
@@ -8561,6 +8572,8 @@ features
 fold
 funcione
 funcionalidad
+funciones
+finita
 gira
 green
 gradiente

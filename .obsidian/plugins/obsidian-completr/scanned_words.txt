@@ -263,6 +263,7 @@ LLamaremos
 Lineplot
 Lollipop
 Locales
+Learning
 subespacios
 subespacio
 se
@@ -710,6 +711,8 @@ superpuestos
 separar
 sabemos
 sEL
+spam
+squeda
 vectoriales
 vectorial
 vacio
@@ -1046,6 +1049,7 @@ visualizaciones
 visualizar
 versor
 versores
+verifico
 deben
 de
 diferenciales
@@ -1508,6 +1512,7 @@ dibujando
 direccionales
 derivando
 derivamos
+dije
 cumplir
 condiciones
 cartesianas
@@ -2117,6 +2122,16 @@ criticos
 crece
 correspondiente
 ctica
+ceros
+comprar
+cambiando
+corte
+cuandos
+computacion
+computacional
+conocimiento
+contenido
+consultas
 las
 la
 lo
@@ -2412,6 +2427,8 @@ logistica
 learning
 llamaremos
 lograr
+label
+labels
 enunciadas
 en
 espacio
@@ -2852,6 +2869,11 @@ explica
 evidencia
 elegimos
 ejes
+eran
+esten
+encarga
+extraer
+engineer
 adicionalmente
 alguna
 al
@@ -3315,6 +3337,10 @@ ateriormente
 avanzamos
 acotadas
 alto
+acierta
+aumentarle
+absolute
+analista
 tres
 theta
 tiene
@@ -3685,6 +3711,10 @@ tiro
 tiros
 terminan
 tela
+tantas
+tengan
+tasar
+tasadas
 Sea
 Si
 Superficie
@@ -3983,6 +4013,9 @@ Subrutina
 Scatter
 Series
 Sankey
+Squared
+Science
+Scientist
 un
 una
 usando
@@ -4617,6 +4650,8 @@ normalizar
 nearest
 neighbors
 nimo
+negocios
+noticia
 pertenecen
 pertenece
 pi
@@ -5127,6 +5162,11 @@ programas
 pendientes
 pendiente
 pensando
+predecido
+pensar
+papeleras
+preguntas
+polar
 br
 borde
 busco
@@ -5851,6 +5891,11 @@ repetiir
 repetimos
 rectas
 rico
+representa
+realmente
+rescat
+recomendaci
+recomendar
 Volumen
 Variable
 Ver
@@ -6433,6 +6478,8 @@ Choropleth
 Central
 CAntidad
 Competencia
+Clasificaci
+Cuantos
 Esf
 Entonces
 Esto
@@ -6723,6 +6770,8 @@ Esas
 Estamos
 Ecuaci
 Expl
+Error
+Engineer
 Integrales
 Importantes
 Igualo
@@ -7660,6 +7709,7 @@ Discreta
 Derivada
 Direccional
 Derivadas
+Data
 obtenemos
 orientaci
 orientable
@@ -7991,6 +8041,8 @@ obviamente
 outliers
 obtenidos
 otorgado
+originales
+opuestas
 mide
 mas
 mediante
@@ -8398,6 +8450,10 @@ multiplicamos
 multiplicado
 mirar
 mins
+mauor
+mean
+matematica
+muchas
 que
 queda
 quede
@@ -8633,6 +8689,7 @@ qjM
 qaz
 qque
 queriamos
+quue
 hasta
 hacia
 hay
@@ -9243,6 +9300,8 @@ iniformes
 implicita
 intersecciones
 iid
+investigacion
+interesantes
 frontera
 flujo
 forma
@@ -9921,6 +9980,7 @@ guardan
 glucosa
 grabadas
 global
+gusta
 Gauss
 Green
 GC
@@ -10766,6 +10826,10 @@ AVA
 Adelgazamiento
 Aleatoria
 Actualizamos
+Accuracy
+AUC
+Analyst
+Areas
 Final
 Flujo
 Fuerza
@@ -11354,6 +11418,8 @@ Permite
 Param
 Parciales
 Parcial
+Precisi
+Problemas
 Hipotesis
 HbgIcQAl
 HJM
@@ -12351,6 +12417,7 @@ Met
 Muestra
 Multivariada
 Mientras
+Mean
 OPTIONS
 OV
 OP
@@ -13463,6 +13530,9 @@ Regression
 Radar
 Recolectamos
 Rectas
+Recall
+ROC
+Roles
 Ya
 YUV
 YLO
@@ -15987,6 +16057,7 @@ Big
 Box
 Bar
 Bernoulli
+Buscamos
 äU
 äI
 XJV

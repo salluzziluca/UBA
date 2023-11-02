@@ -1495,6 +1495,7 @@ distribuyen
 debil
 distribuidas
 dicotom
+doatos
 cumplir
 condiciones
 cartesianas
@@ -2096,6 +2097,8 @@ coloreado
 ciertas
 cjto
 cte
+calculamos
+compleja
 las
 la
 lo
@@ -2827,6 +2830,9 @@ experimentos
 ensayos
 exito
 exitos
+explica
+evidencia
+elegimos
 adicionalmente
 alguna
 al
@@ -3285,6 +3291,7 @@ aproximacion
 alcanza
 asimetricas
 ahi
+asignando
 tres
 theta
 tiene
@@ -3653,6 +3660,7 @@ tiles
 truncada
 tiro
 tiros
+terminan
 Sea
 Si
 Superficie
@@ -5090,6 +5098,7 @@ plot
 parten
 porcentaje
 plots
+programas
 br
 borde
 busco
@@ -5811,6 +5820,7 @@ regresion
 relacionan
 referiremos
 repetiir
+repetimos
 Volumen
 Variable
 Ver
@@ -6679,6 +6689,7 @@ Ensambles
 Entrena
 Esperanza
 Esas
+Estamos
 Integrales
 Importantes
 Igualo
@@ -6991,6 +7002,7 @@ IDATwN
 Inheritance
 Implementaci
 Informaci
+Iteramos
 Triples
 Teorema
 Teoremas
@@ -8342,6 +8354,7 @@ multivariada
 mites
 markov
 mezclas
+miramos
 que
 queda
 quede
@@ -8576,6 +8589,7 @@ qFpco
 qjM
 qaz
 qque
+queriamos
 hasta
 hacia
 hay
@@ -8847,6 +8861,7 @@ haciendo
 hereda
 haberlo
 hexa
+hipotesis
 image
 iria
 incluya
@@ -9541,6 +9556,8 @@ flags
 factorizacion
 fora
 foras
+formato
+fen
 gira
 green
 gradiente
@@ -10699,6 +10716,7 @@ Administrativa
 AVA
 Adelgazamiento
 Aleatoria
+Actualizamos
 Final
 Flujo
 Fuerza
@@ -13390,6 +13408,7 @@ Regresion
 Regresi
 Regression
 Radar
+Recolectamos
 Ya
 YUV
 YLO

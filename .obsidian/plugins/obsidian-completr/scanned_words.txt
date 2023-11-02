@@ -262,6 +262,7 @@ Llamaremos
 LLamaremos
 Lineplot
 Lollipop
+Locales
 subespacios
 subespacio
 se
@@ -708,6 +709,7 @@ suben
 superpuestos
 separar
 sabemos
+sEL
 vectoriales
 vectorial
 vacio
@@ -1042,6 +1044,8 @@ vistas
 visuales
 visualizaciones
 visualizar
+versor
+versores
 deben
 de
 diferenciales
@@ -1496,6 +1500,14 @@ debil
 distribuidas
 dicotom
 doatos
+director
+direccional
+dividida
+dirreccional
+dibujando
+direccionales
+derivando
+derivamos
 cumplir
 condiciones
 cartesianas
@@ -2099,6 +2111,12 @@ cjto
 cte
 calculamos
 compleja
+cita
+citado
+criticos
+crece
+correspondiente
+ctica
 las
 la
 lo
@@ -2833,6 +2851,7 @@ exitos
 explica
 evidencia
 elegimos
+ejes
 adicionalmente
 alguna
 al
@@ -3292,6 +3311,10 @@ alcanza
 asimetricas
 ahi
 asignando
+ateriormente
+avanzamos
+acotadas
+alto
 tres
 theta
 tiene
@@ -3661,6 +3684,7 @@ truncada
 tiro
 tiros
 terminan
+tela
 Sea
 Si
 Superficie
@@ -4592,6 +4616,7 @@ num
 normalizar
 nearest
 neighbors
+nimo
 pertenecen
 pertenece
 pi
@@ -5099,6 +5124,9 @@ parten
 porcentaje
 plots
 programas
+pendientes
+pendiente
+pensando
 br
 borde
 busco
@@ -5821,6 +5849,8 @@ relacionan
 referiremos
 repetiir
 repetimos
+rectas
+rico
 Volumen
 Variable
 Ver
@@ -6690,6 +6720,8 @@ Entrena
 Esperanza
 Esas
 Estamos
+Ecuaci
+Expl
 Integrales
 Importantes
 Igualo
@@ -7003,6 +7035,7 @@ Inheritance
 Implementaci
 Informaci
 Iteramos
+Intersecciones
 Triples
 Teorema
 Teoremas
@@ -7622,6 +7655,9 @@ Diagrama
 Distribuci
 Depdende
 Discreta
+Derivada
+Direccional
+Derivadas
 obtenemos
 orientaci
 orientable
@@ -7952,6 +7988,7 @@ objetivos
 obviamente
 outliers
 obtenidos
+otorgado
 mide
 mas
 mediante
@@ -8355,6 +8392,10 @@ mites
 markov
 mezclas
 miramos
+multiplicamos
+multiplicado
+mirar
+mins
 que
 queda
 quede
@@ -8862,6 +8903,8 @@ hereda
 haberlo
 hexa
 hipotesis
+hacerlo
+hecho
 image
 iria
 incluya
@@ -9195,6 +9238,8 @@ interesante
 indep
 identicamente
 iniformes
+implicita
+intersecciones
 frontera
 flujo
 forma
@@ -9872,6 +9917,7 @@ greedy
 guardan
 glucosa
 grabadas
+global
 Gauss
 Green
 GC
@@ -11302,6 +11348,9 @@ Plot
 Pie
 Plots
 Permite
+Param
+Parciales
+Parcial
 Hipotesis
 HbgIcQAl
 HJM
@@ -12298,6 +12347,7 @@ Mezcladora
 Met
 Muestra
 Multivariada
+Mientras
 OPTIONS
 OV
 OP
@@ -13409,6 +13459,7 @@ Regresi
 Regression
 Radar
 Recolectamos
+Rectas
 Ya
 YUV
 YLO

@@ -6432,6 +6432,7 @@ Coloreo
 Choropleth
 Central
 CAntidad
+Competencia
 Esf
 Entonces
 Esto
@@ -7036,6 +7037,7 @@ Implementaci
 Informaci
 Iteramos
 Intersecciones
+IDEPENIENTES
 Triples
 Teorema
 Teoremas
@@ -9240,6 +9242,7 @@ identicamente
 iniformes
 implicita
 intersecciones
+iid
 frontera
 flujo
 forma

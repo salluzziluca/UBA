@@ -32,3 +32,8 @@ Teorema. bajo la condicion de que ocurrieran exactamente n arribos en el interva
 
 
 ![[Pasted image 20231024140048.png]]
+
+
+
+
+![[Pasted image 20231102185122.png]]

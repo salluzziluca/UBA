@@ -1413,6 +1413,9 @@ direccionamiento
 decontrol
 desaparecen
 dor
+distribuci
+debil
+distribuidas
 cumplir
 condiciones
 cartesianas
@@ -1960,6 +1963,7 @@ compilaci
 compilador
 convertida
 completamente
+ciertas
 las
 la
 lo
@@ -3076,6 +3080,10 @@ ambito
 arim
 asigna
 avanzar
+aproximacion
+alcanza
+asimetricas
+ahi
 tres
 theta
 tiene
@@ -6000,6 +6008,7 @@ Construcci
 CISC
 Compiladores
 Crea
+Central
 Esf
 Entonces
 Esto
@@ -7147,6 +7156,8 @@ Dependiendo
 Desvio
 Directivas
 Detecta
+Distribuci
+Depdende
 obtenemos
 orientaci
 orientable
@@ -7824,6 +7835,10 @@ mayores
 maximal
 modos
 mapeo
+metros
+multivariada
+mites
+markov
 que
 queda
 quede
@@ -8629,6 +8644,9 @@ instruccion
 instruction
 identificadores
 identificador
+indep
+identicamente
+iniformes
 frontera
 flujo
 forma
@@ -11280,6 +11298,8 @@ Not
 NAND
 NOR
 Nodo
+Notacion
+Normal
 MORE
 MYk
 MDD
@@ -11545,6 +11565,7 @@ Markov
 Metodo
 Memoria
 Macro
+Multivariada
 OPTIONS
 OV
 OP

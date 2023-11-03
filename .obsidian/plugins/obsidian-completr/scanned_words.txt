@@ -245,6 +245,7 @@ Logramos
 LD
 Little
 Localizaci
+Liskov
 subespacios
 subespacio
 se
@@ -1416,6 +1417,9 @@ dor
 distribuci
 debil
 distribuidas
+desarollo
+despojo
+detectarlo
 cumplir
 condiciones
 cartesianas
@@ -1964,6 +1968,7 @@ compilador
 convertida
 completamente
 ciertas
+caracterizados
 las
 la
 lo
@@ -2648,6 +2653,8 @@ estructura
 estaticas
 ejecuci
 ensamblado
+exponer
+entiende
 adicionalmente
 alguna
 al
@@ -3084,6 +3091,8 @@ aproximacion
 alcanza
 asimetricas
 ahi
+abstractos
+abstracci
 tres
 theta
 tiene
@@ -4007,6 +4016,8 @@ utilizo
 ups
 ubi
 ubicacion
+utillzar
+utilizaci
 no
 ndricas
 nulo
@@ -4774,6 +4785,8 @@ programador
 permanecen
 pasadas
 procesada
+propio
+pues
 br
 borde
 busco
@@ -5452,6 +5465,9 @@ raices
 resulttados
 reduced
 reemplazado
+realizarse
+realidad
+resolviendo
 Volumen
 Variable
 Ver
@@ -6282,6 +6298,7 @@ Estado
 ECM
 Extiendo
 Estructuras
+Encapsulamiento
 Integrales
 Importantes
 Igualo
@@ -6585,6 +6602,7 @@ Inversa
 Involuci
 Implicante
 Insertar
+IGUAL
 Triples
 Teorema
 Teoremas
@@ -6863,6 +6881,7 @@ Tomo
 This
 Tchevychev
 Tiene
+TDAs
 Dejando
 DEN
 De
@@ -7158,6 +7177,8 @@ Directivas
 Detecta
 Distribuci
 Depdende
+Dato
+Define
 obtenemos
 orientaci
 orientable
@@ -7839,6 +7860,7 @@ metros
 multivariada
 mites
 markov
+modularizaci
 que
 queda
 quede
@@ -8647,6 +8669,8 @@ identificador
 indep
 identicamente
 iniformes
+intenta
+implementado
 frontera
 flujo
 forma
@@ -10081,6 +10105,7 @@ Arquitectura
 Analisis
 Analizar
 Asociar
+Abstracci
 Final
 Flujo
 Fuerza
@@ -11300,6 +11325,7 @@ NOR
 Nodo
 Notacion
 Normal
+Nunca
 MORE
 MYk
 MDD
@@ -11566,6 +11592,7 @@ Metodo
 Memoria
 Macro
 Multivariada
+Manejan
 OPTIONS
 OV
 OP
@@ -12617,6 +12644,7 @@ Registros
 Risc
 Register
 RISC
+RESUMIENDO
 Ya
 YUV
 YLO
@@ -13825,6 +13853,7 @@ Zs
 Zkz
 Zzr
 ZVm
+Zilles
 KG
 Km
 KF

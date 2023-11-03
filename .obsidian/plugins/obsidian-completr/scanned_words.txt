@@ -5167,6 +5167,7 @@ pensar
 papeleras
 preguntas
 polar
+pit
 br
 borde
 busco
@@ -9981,6 +9982,7 @@ glucosa
 grabadas
 global
 gusta
+goras
 Gauss
 Green
 GC

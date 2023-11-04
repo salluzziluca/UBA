@@ -1553,6 +1553,7 @@ dTHlq
 dWL
 dKm
 dCmu
+discontinuidad
 cumplir
 condiciones
 cartesianas
@@ -2129,6 +2130,7 @@ cTM
 cVGEY
 cll
 cqt
+conjuntod
 las
 la
 lo
@@ -2443,6 +2445,7 @@ lhr
 lIB
 lZr
 lCcs
+les
 enunciadas
 en
 espacio
@@ -2870,6 +2873,7 @@ efY
 efc
 eck
 eoW
+excluyente
 adicionalmente
 alguna
 al
@@ -3309,6 +3313,7 @@ atN
 abuX
 acl
 aAy
+atomos
 tres
 theta
 tiene
@@ -3690,6 +3695,7 @@ tCc
 thQz
 tAW
 trailer
+tomos
 Sea
 Si
 Superficie
@@ -4037,6 +4043,7 @@ SWq
 Snf
 SOTU
 Size
+Soporte
 un
 una
 usando
@@ -5252,6 +5259,7 @@ pfm
 pZEkb
 pxV
 pDz
+probabilida
 br
 borde
 busco
@@ -8749,6 +8757,7 @@ meO
 mlp
 mRV
 mtt
+medir
 que
 queda
 quede
@@ -13243,6 +13252,7 @@ MpLS
 MBD
 Mss
 MYZ
+Mixta
 OPTIONS
 OV
 OP

@@ -764,6 +764,7 @@ sYC
 sGV
 sMU
 startxref
+sop
 vectoriales
 vectorial
 vacio
@@ -1112,6 +1113,7 @@ vAw
 vQbB
 vvw
 vIj
+vibariadas
 deben
 de
 diferenciales
@@ -1554,6 +1556,7 @@ dWL
 dKm
 dCmu
 discontinuidad
+derivadas
 cumplir
 condiciones
 cartesianas
@@ -2131,6 +2134,7 @@ cVGEY
 cll
 cqt
 conjuntod
+conjunta
 las
 la
 lo
@@ -3696,6 +3700,8 @@ thQz
 tAW
 trailer
 tomos
+tranformacion
+tranformaciones
 Sea
 Si
 Superficie
@@ -4044,6 +4050,7 @@ Snf
 SOTU
 Size
 Soporte
+Suponga
 un
 una
 usando
@@ -5260,6 +5267,10 @@ pZEkb
 pxV
 pDz
 probabilida
+parciales
+particion
+particicon
+pedacito
 br
 borde
 busco
@@ -5594,6 +5605,9 @@ bww
 bcX
 bej
 bjL
+buscamos
+biyectiva
+biyectivas
 ricas
 respectivamente
 recorre
@@ -9720,6 +9734,7 @@ ipf
 ieTv
 iNp
 iOU
+inversas
 frontera
 flujo
 forma
@@ -10418,6 +10433,7 @@ gEa
 gIa
 gbO
 gERJ
+generalizado
 Gauss
 Green
 GC
@@ -11072,6 +11088,7 @@ jyHp
 jgT
 jMH
 jpB
+jacobiano
 Aplicaci
 Apuntes
 Ambas
@@ -13253,6 +13270,7 @@ MBD
 Mss
 MYZ
 Mixta
+Metodo
 OPTIONS
 OV
 OP
@@ -15703,6 +15721,7 @@ JTOg
 JhR
 JtHqr
 JGG
+Jacobiano
 Za
 ZJ
 ZQw

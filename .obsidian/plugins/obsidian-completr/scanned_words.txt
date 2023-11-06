@@ -5271,6 +5271,7 @@ parciales
 particion
 particicon
 pedacito
+pit
 br
 borde
 busco
@@ -10434,6 +10435,7 @@ gIa
 gbO
 gERJ
 generalizado
+goras
 Gauss
 Green
 GC

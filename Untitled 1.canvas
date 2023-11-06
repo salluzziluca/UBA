@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"4f7d27286f4cdc15","x":-300,"y":-260,"width":400,"height":244,"type":"file","file":"Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md"},
-		{"id":"2581f0a6a123ecba","x":-140,"y":120,"width":400,"height":400,"type":"file","file":"Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md"},
-		{"id":"0581c2ed1d147323","x":-25,"y":0,"width":250,"height":60,"type":"text","text":"se parecen"}
+		{"id":"2581f0a6a123ecba","type":"file","file":"Análisis Matemático II/13. Teoremas de Integrales/Divergencia.md","x":-140,"y":120,"width":400,"height":400},
+		{"id":"0581c2ed1d147323","type":"text","text":"se parecen","x":-25,"y":0,"width":250,"height":60},
+		{"id":"4f7d27286f4cdc15","type":"file","file":"Análisis Matemático II/13. Teoremas de Integrales/Orientacion de una Curva.md","x":-340,"y":-280,"width":400,"height":244}
 	],
 	"edges":[
 		{"id":"2bfea452c2e899a2","fromNode":"2581f0a6a123ecba","fromSide":"top","toNode":"4f7d27286f4cdc15","toSide":"bottom"}

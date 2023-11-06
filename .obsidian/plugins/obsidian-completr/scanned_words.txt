@@ -782,6 +782,10 @@ simbolos
 sint
 sencilo
 sig
+signo
+signed
+sencilla
+sumo
 vectoriales
 vectorial
 vacio
@@ -1589,6 +1593,8 @@ direccionamiento
 doy
 decontrol
 desaparecen
+divido
+declara
 cumplir
 condiciones
 cartesianas
@@ -2183,6 +2189,11 @@ compilaci
 compilador
 convertida
 completamente
+comparaci
+com
+corriendo
+coma
+corri
 las
 la
 lo
@@ -2506,6 +2517,7 @@ laburo
 lenguaje
 locales
 listado
+listafuiba
 enunciadas
 en
 espacio
@@ -2943,6 +2955,11 @@ era
 estaticas
 ejecuci
 ensamblado
+exponente
+estandarizado
+especiales
+espaciado
+exp
 adicionalmente
 alguna
 al
@@ -3401,6 +3418,7 @@ analisis
 ambito
 arim
 avanzar
+altisimos
 tres
 theta
 tiene
@@ -4849,6 +4867,8 @@ nSw
 nLGQM
 nombre
 ntico
+normalizados
+normalizo
 pertenecen
 pertenece
 pi
@@ -5390,6 +5410,7 @@ palabras
 permanecen
 pasadas
 procesada
+preciso
 br
 borde
 busco
@@ -5736,6 +5757,9 @@ branch
 bin
 backupeo
 bajar
+bit
+bajisimos
+binario
 ricas
 respectivamente
 recorre
@@ -6135,6 +6159,9 @@ representamos
 resulttados
 reduced
 reemplazado
+representado
+representaci
+representar
 Volumen
 Variable
 Ver
@@ -6802,6 +6829,7 @@ CISC
 Compiladores
 Complejos
 Crea
+Cuento
 Esf
 Entonces
 Esto
@@ -7134,6 +7162,7 @@ EGXb
 EOF
 EMX
 Estructuras
+Estandar
 Integrales
 Importantes
 Igualo
@@ -7478,6 +7507,7 @@ IDATW
 Iai
 IHBd
 IMMe
+IEEE
 Triples
 Teorema
 Teoremas
@@ -8937,6 +8967,8 @@ medir
 maquina
 modos
 mapeo
+mantisa
+magnitud
 que
 queda
 quede
@@ -9916,6 +9948,7 @@ instruccion
 instruction
 identificadores
 identificador
+infinto
 frontera
 flujo
 forma
@@ -10287,6 +10320,7 @@ fisicamente
 flags
 faciles
 frontend
+flotante
 gira
 green
 gradiente
@@ -10628,6 +10662,7 @@ guardando
 grosa
 gicas
 generacion
+gmail
 Gauss
 Green
 GC
@@ -11960,6 +11995,7 @@ FGtB
 Fikk
 FFzS
 FkK
+Formato
 Potencial
 Para
 Punto

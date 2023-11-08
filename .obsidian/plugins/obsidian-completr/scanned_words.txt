@@ -2213,6 +2213,7 @@ condicionada
 conozco
 consideran
 caracteristica
+concepto
 las
 la
 lo
@@ -2989,6 +2990,7 @@ euclideo
 evaluada
 estadistico
 estimador
+exitosa
 adicionalmente
 alguna
 al
@@ -3449,6 +3451,7 @@ arim
 avanzar
 altisimos
 aproximado
+apariencia
 tres
 theta
 tiene
@@ -3840,6 +3843,7 @@ termina
 traer
 tricos
 trico
+til
 Sea
 Si
 Superficie
@@ -4558,6 +4562,7 @@ ujK
 utilizando
 utilizo
 ubi
+usada
 no
 ndricas
 nulo
@@ -5798,6 +5803,7 @@ bajar
 bit
 bajisimos
 binario
+belleza
 ricas
 respectivamente
 recorre
@@ -6521,6 +6527,8 @@ VQt
 VHEA
 Vcf
 Verosimilitud
+Visualizaci
+Visual
 Cartesianas
 Cil
 Cambios
@@ -9020,6 +9028,7 @@ mantisa
 magnitud
 medible
 medidas
+metaforicos
 que
 queda
 quede
@@ -10003,6 +10012,7 @@ infinto
 iniciales
 iid
 independeinte
+interesante
 frontera
 flujo
 forma
@@ -10376,6 +10386,7 @@ faciles
 frontend
 flotante
 flia
+fora
 gira
 green
 gradiente
@@ -12703,6 +12714,7 @@ Hms
 HQQ
 Hbc
 HgY
+Historia
 ya
 yRZ
 yD
@@ -13596,6 +13608,7 @@ Mapa
 Memoria
 Macro
 Modelos
+Met
 OPTIONS
 OV
 OP
@@ -13918,6 +13931,7 @@ OSD
 OqK
 Ojy
 OYY
+Objetivo
 Una
 Un
 UI

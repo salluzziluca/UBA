@@ -786,6 +786,10 @@ signo
 signed
 sencilla
 sumo
+soporte
+sticos
+stico
+suficientes
 vectoriales
 vectorial
 vacio
@@ -1595,6 +1599,13 @@ decontrol
 desaparecen
 divido
 declara
+desconoce
+distribuciones
+desconocido
+discreto
+depender
+desconocidos
+desconocida
 cumplir
 condiciones
 cartesianas
@@ -2195,6 +2206,13 @@ corriendo
 coma
 corri
 conclusiones
+comporta
+conformada
+cuya
+condicionada
+conozco
+consideran
+caracteristica
 las
 la
 lo
@@ -2519,6 +2537,7 @@ lenguaje
 locales
 listado
 listafuiba
+llamado
 enunciadas
 en
 espacio
@@ -2962,6 +2981,14 @@ especiales
 espaciado
 exp
 experimentales
+experimento
+exponenciales
+escribir
+estad
+euclideo
+evaluada
+estadistico
+estimador
 adicionalmente
 alguna
 al
@@ -3421,6 +3448,7 @@ ambito
 arim
 avanzar
 altisimos
+aproximado
 tres
 theta
 tiene
@@ -3810,6 +3838,8 @@ tamaa
 tama
 termina
 traer
+tricos
+trico
 Sea
 Si
 Superficie
@@ -4167,6 +4197,7 @@ Sintaxis
 Subrutina
 Segmento
 Stack
+Sucesi
 un
 una
 usando
@@ -4871,6 +4902,7 @@ nombre
 ntico
 normalizados
 normalizo
+num
 pertenecen
 pertenece
 pi
@@ -5414,6 +5446,9 @@ pasadas
 procesada
 preciso
 poblaci
+parcialmente
+parametrizadas
+provee
 br
 borde
 busco
@@ -6165,6 +6200,9 @@ reemplazado
 representado
 representaci
 representar
+resultar
+rico
+reconstruir
 Volumen
 Variable
 Ver
@@ -6482,6 +6520,7 @@ VgP
 VQt
 VHEA
 Vcf
+Verosimilitud
 Cartesianas
 Cil
 Cambios
@@ -7167,6 +7206,8 @@ EOF
 EMX
 Estructuras
 Estandar
+Estad
+Estimadores
 Integrales
 Importantes
 Igualo
@@ -8196,6 +8237,7 @@ DsJ
 DEE
 Directivas
 Detecta
+Data
 obtenemos
 orientaci
 orientable
@@ -8566,6 +8608,8 @@ ocupan
 ocupada
 operaciones
 operandos
+observable
+observados
 mide
 mas
 mediante
@@ -8974,6 +9018,8 @@ modos
 mapeo
 mantisa
 magnitud
+medible
+medidas
 que
 queda
 quede
@@ -9955,6 +10001,8 @@ identificadores
 identificador
 infinto
 iniciales
+iid
+independeinte
 frontera
 flujo
 forma
@@ -10327,6 +10375,7 @@ flags
 faciles
 frontend
 flotante
+flia
 gira
 green
 gradiente
@@ -11688,6 +11737,7 @@ Arquitectura
 Analisis
 Analizar
 Asociar
+Aleatoria
 Final
 Flujo
 Fuerza
@@ -12002,6 +12052,9 @@ Fikk
 FFzS
 FkK
 Formato
+Familia
+Familias
+Factorizaci
 Potencial
 Para
 Punto
@@ -12359,6 +12412,7 @@ Prev
 PpU
 Program
 Pero
+Param
 Hipotesis
 HbgIcQAl
 HJM
@@ -13541,6 +13595,7 @@ Mdd
 Mapa
 Memoria
 Macro
+Modelos
 OPTIONS
 OV
 OP
@@ -17237,6 +17292,7 @@ Qxb
 Qly
 Qlm
 QfdY
+Quiero
 zt
 zN
 zB

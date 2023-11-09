@@ -790,6 +790,8 @@ soporte
 sticos
 stico
 suficientes
+sirva
+solucion
 vectoriales
 vectorial
 vacio
@@ -1607,6 +1609,7 @@ discreto
 depender
 desconocidos
 desconocida
+dicha
 cumplir
 condiciones
 cartesianas
@@ -2217,6 +2220,10 @@ caracteristica
 concepto
 clasficican
 categoria
+cuadratico
+cercania
+constante
+cuadrados
 las
 la
 lo
@@ -2997,6 +3004,8 @@ estimador
 exitosa
 estimadores
 experimentos
+encuentro
+estimacion
 adicionalmente
 alguna
 al
@@ -4916,6 +4925,7 @@ normalizados
 normalizo
 num
 numerico
+norma
 pertenecen
 pertenece
 pi
@@ -5463,6 +5473,7 @@ parcialmente
 parametrizadas
 provee
 promedio
+predictor
 br
 borde
 busco
@@ -5814,6 +5825,7 @@ bajisimos
 binario
 belleza
 basan
+biunivoca
 ricas
 respectivamente
 recorre
@@ -6219,6 +6231,7 @@ representar
 resultar
 rico
 reconstruir
+rango
 Volumen
 Variable
 Ver
@@ -7226,6 +7239,9 @@ Estructuras
 Estandar
 Estad
 Estimadores
+ECM
+Estimador
+Estimamos
 Integrales
 Importantes
 Igualo
@@ -9042,6 +9058,8 @@ medible
 medidas
 metaforicos
 maximice
+min
+max
 que
 queda
 quede
@@ -10026,6 +10044,7 @@ iniciales
 iid
 independeinte
 interesante
+invarianza
 frontera
 flujo
 forma
@@ -12728,6 +12747,7 @@ HQQ
 Hbc
 HgY
 Historia
+Haciendo
 ya
 yRZ
 yD
@@ -13622,6 +13642,8 @@ Memoria
 Macro
 Modelos
 Met
+Mejor
+Maxima
 OPTIONS
 OV
 OP
@@ -17929,6 +17951,7 @@ BiU
 BIAz
 Big
 Backend
+Bondad
 äU
 äI
 äZ

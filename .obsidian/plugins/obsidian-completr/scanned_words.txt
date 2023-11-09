@@ -1144,6 +1144,7 @@ volver
 vuelvo
 valia
 variales
+voto
 deben
 de
 diferenciales
@@ -2214,6 +2215,8 @@ conozco
 consideran
 caracteristica
 concepto
+clasficican
+categoria
 las
 la
 lo
@@ -2539,6 +2542,7 @@ locales
 listado
 listafuiba
 llamado
+logistica
 enunciadas
 en
 espacio
@@ -3844,6 +3848,7 @@ traer
 tricos
 trico
 til
+toman
 Sea
 Si
 Superficie
@@ -4908,6 +4913,7 @@ ntico
 normalizados
 normalizo
 num
+numerico
 pertenecen
 pertenece
 pi
@@ -5454,6 +5460,7 @@ poblaci
 parcialmente
 parametrizadas
 provee
+promedio
 br
 borde
 busco

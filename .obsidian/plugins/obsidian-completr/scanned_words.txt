@@ -2995,6 +2995,8 @@ evaluada
 estadistico
 estimador
 exitosa
+estimadores
+experimentos
 adicionalmente
 alguna
 al
@@ -5811,6 +5813,7 @@ bit
 bajisimos
 binario
 belleza
+basan
 ricas
 respectivamente
 recorre
@@ -8625,6 +8628,8 @@ operaciones
 operandos
 observable
 observados
+ocurrir
+observada
 mide
 mas
 mediante
@@ -9036,6 +9041,7 @@ magnitud
 medible
 medidas
 metaforicos
+maximice
 que
 queda
 quede

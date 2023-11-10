@@ -787,6 +787,10 @@ sint
 sencilo
 sig
 sumada
+soporte
+sticos
+stico
+suficientes
 vectoriales
 vectorial
 vacio
@@ -1142,6 +1146,7 @@ valia
 variales
 von
 visibles
+verdaderos
 deben
 de
 diferenciales
@@ -1605,6 +1610,13 @@ digan
 dificilmente
 dispositivo
 decodificar
+desconoce
+distribuciones
+desconocido
+discreto
+depender
+desconocidos
+desconocida
 cumplir
 condiciones
 cartesianas
@@ -2210,6 +2222,14 @@ cable
 costo
 consumo
 control
+conclusiones
+comporta
+conformada
+cuya
+condicionada
+conozco
+consideran
+caracteristica
 las
 la
 lo
@@ -2980,6 +3000,16 @@ ejecuci
 ensamblado
 empiece
 ejecutarla
+experimentales
+experimento
+exponenciales
+escribir
+estad
+euclideo
+evaluada
+estadistico
+estimador
+estimable
 adicionalmente
 alguna
 al
@@ -3450,6 +3480,7 @@ avisa
 address
 arimetico
 adicionales
+aproximado
 tres
 theta
 tiene
@@ -3841,6 +3872,8 @@ tama
 termina
 traer
 transferencia
+tricos
+trico
 Sea
 Si
 Superficie
@@ -4197,6 +4230,7 @@ Sintaxis
 Subrutina
 Segmento
 Stack
+Sucesi
 un
 una
 usando
@@ -4902,6 +4936,7 @@ nombre
 ntico
 neumann
 necesaris
+num
 pertenecen
 pertenece
 pi
@@ -5449,6 +5484,10 @@ paquete
 pise
 puee
 programas
+poblaci
+parcialmente
+parametrizadas
+provee
 br
 borde
 busco
@@ -6203,6 +6242,9 @@ reduced
 reemplazado
 relocalizarlo
 relocalizar
+resultar
+rico
+reconstruir
 Volumen
 Variable
 Ver
@@ -6517,6 +6559,7 @@ VRZ
 Vhj
 VBRn
 VgP
+Verosimilitud
 Cartesianas
 Cil
 Cambios
@@ -6869,6 +6912,7 @@ Complejos
 Crea
 CPU
 Ciclo
+Construir
 Esf
 Entonces
 Esto
@@ -7202,6 +7246,8 @@ EOF
 Encapsulamiento
 Estructuras
 Estructura
+Estad
+Estimadores
 Integrales
 Importantes
 Igualo
@@ -7544,6 +7590,7 @@ Ioi
 Info
 IGUAL
 Insertar
+Inferencia
 Triples
 Teorema
 Teoremas
@@ -8226,6 +8273,7 @@ Dato
 Define
 Directivas
 Detecta
+Data
 obtenemos
 orientaci
 orientable
@@ -8597,6 +8645,8 @@ ocupan
 ocupada
 operandos
 optimizable
+observable
+observados
 mide
 mas
 mediante
@@ -9010,6 +9060,8 @@ mapeo
 main
 multitasking
 microprocesador
+medible
+medidas
 que
 queda
 quede
@@ -9994,6 +10046,9 @@ instruction
 identificadores
 identificador
 invisibles
+iniciales
+iid
+independeinte
 frontera
 flujo
 forma
@@ -10368,6 +10423,7 @@ flags
 faciles
 frontend
 fetch
+flia
 gira
 green
 gradiente
@@ -11724,6 +11780,7 @@ Analisis
 Analizar
 Asociar
 ALU
+Aleatoria
 Final
 Flujo
 Fuerza
@@ -12034,6 +12091,9 @@ FRm
 Fui
 FWC
 FGtB
+Familia
+Familias
+Factorizaci
 Potencial
 Para
 Punto
@@ -12392,6 +12452,7 @@ Primitivas
 Padre
 Program
 Pero
+Param
 Hipotesis
 HbgIcQAl
 HJM
@@ -13573,6 +13634,7 @@ Memoria
 Macro
 MUY
 Microarquitectura
+Modelos
 OPTIONS
 OV
 OP
@@ -17256,6 +17318,7 @@ QKc
 Qxb
 Qly
 Quitar
+Quiero
 zt
 zN
 zB

@@ -792,6 +792,7 @@ stico
 suficientes
 sirva
 solucion
+sumamos
 vectoriales
 vectorial
 vacio
@@ -2224,6 +2225,8 @@ cuadratico
 cercania
 constante
 cuadrados
+cuadrado
+chi
 las
 la
 lo
@@ -6552,6 +6555,7 @@ Vcf
 Verosimilitud
 Visualizaci
 Visual
+VAX
 Cartesianas
 Cil
 Cambios
@@ -6904,6 +6908,7 @@ Complejos
 Crea
 Cuento
 Construir
+Chi
 Esf
 Entonces
 Esto
@@ -10761,6 +10766,7 @@ grosa
 gicas
 generacion
 gmail
+grado
 Gauss
 Green
 GC

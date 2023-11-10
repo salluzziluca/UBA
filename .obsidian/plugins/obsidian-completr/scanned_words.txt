@@ -310,11 +310,10 @@ LEX
 LYS
 Lakt
 LEN
-Liskov
-Localizaci
+Lwf
+Lqu
 Little
-Linker
-Linking
+Localizaci
 subespacios
 subespacio
 se
@@ -770,10 +769,7 @@ sGV
 sMU
 startxref
 sop
-sobran
-subir
-sift
-sort
+slhKQ
 seguarda
 significativo
 sistemas
@@ -786,11 +782,24 @@ simbolos
 sint
 sencilo
 sig
+<<<<<<< HEAD
 sumada
+=======
+signo
+signed
+sencilla
+sumo
+>>>>>>> origin/main
 soporte
 sticos
 stico
 suficientes
+<<<<<<< HEAD
+=======
+sirva
+solucion
+sumamos
+>>>>>>> origin/main
 vectoriales
 vectorial
 vacio
@@ -1140,13 +1149,18 @@ vQbB
 vvw
 vIj
 vibariadas
+vPU
 volver
 vuelvo
 valia
 variales
+<<<<<<< HEAD
 von
 visibles
 verdaderos
+=======
+voto
+>>>>>>> origin/main
 deben
 de
 diferenciales
@@ -1590,13 +1604,7 @@ dKm
 dCmu
 discontinuidad
 derivadas
-desarollo
-despojo
-detectarlo
-dejar
-dem
-dejamos
-down
+ddd
 direccionable
 deerminado
 diciendo
@@ -1606,10 +1614,15 @@ direccionamiento
 doy
 decontrol
 desaparecen
+<<<<<<< HEAD
 digan
 dificilmente
 dispositivo
 decodificar
+=======
+divido
+declara
+>>>>>>> origin/main
 desconoce
 distribuciones
 desconocido
@@ -1617,6 +1630,10 @@ discreto
 depender
 desconocidos
 desconocida
+<<<<<<< HEAD
+=======
+dicha
+>>>>>>> origin/main
 cumplir
 condiciones
 cartesianas
@@ -2195,15 +2212,9 @@ cll
 cqt
 conjuntod
 conjunta
-completamente
-caracterizados
-casi
-completos
-chicos
-comparaci
-construirlo
-cargando
-correspondientes
+cIT
+cog
+cKqYB
 cuyas
 call
 conceptualmente
@@ -2216,12 +2227,21 @@ conocida
 compilaci
 compilador
 convertida
+<<<<<<< HEAD
 computador
 comunicacin
 cable
 costo
 consumo
 control
+=======
+completamente
+comparaci
+com
+corriendo
+coma
+corri
+>>>>>>> origin/main
 conclusiones
 comporta
 conformada
@@ -2230,6 +2250,18 @@ condicionada
 conozco
 consideran
 caracteristica
+<<<<<<< HEAD
+=======
+concepto
+clasficican
+categoria
+cuadratico
+cercania
+constante
+cuadrados
+cuadrado
+chi
+>>>>>>> origin/main
 las
 la
 lo
@@ -2545,10 +2577,7 @@ lIB
 lZr
 lCcs
 les
-lleno
-ltimo
-log
-llamado
+laE
 llamamos
 lasinstrucciones
 listo
@@ -2556,10 +2585,9 @@ laburo
 lenguaje
 locales
 listado
-linker
-loader
-levantar
-logica
+listafuiba
+llamado
+logistica
 enunciadas
 en
 espacio
@@ -2988,8 +3016,7 @@ efc
 eck
 eoW
 excluyente
-exponer
-entiende
+eXKS
 endian
 esty
 ensamblador
@@ -2998,8 +3025,16 @@ era
 estaticas
 ejecuci
 ensamblado
+<<<<<<< HEAD
 empiece
 ejecutarla
+=======
+exponente
+estandarizado
+especiales
+espaciado
+exp
+>>>>>>> origin/main
 experimentales
 experimento
 exponenciales
@@ -3009,7 +3044,15 @@ euclideo
 evaluada
 estadistico
 estimador
+<<<<<<< HEAD
 estimable
+=======
+exitosa
+estimadores
+experimentos
+encuentro
+estimacion
+>>>>>>> origin/main
 adicionalmente
 alguna
 al
@@ -3450,13 +3493,6 @@ abuX
 acl
 aAy
 atomos
-abstractos
-abstracci
-arribas
-aproximadamente
-algor
-asignando
-array
 accedo
 alta
 asignacion
@@ -3475,12 +3511,18 @@ analisis
 ambito
 arim
 avanzar
+<<<<<<< HEAD
 arquitectura
 avisa
 address
 arimetico
 adicionales
 aproximado
+=======
+altisimos
+aproximado
+apariencia
+>>>>>>> origin/main
 tres
 theta
 tiene
@@ -3865,15 +3907,21 @@ trailer
 tomos
 tranformacion
 tranformaciones
-tmica
 tenere
 tamaa
 tama
 termina
 traer
+<<<<<<< HEAD
 transferencia
 tricos
 trico
+=======
+tricos
+trico
+til
+toman
+>>>>>>> origin/main
 Sea
 Si
 Superficie
@@ -4223,6 +4271,7 @@ SOTU
 Size
 Soporte
 Suponga
+SQL
 Set
 SPARC
 Status
@@ -4587,12 +4636,11 @@ uVG
 uFVA
 ukH
 updF
-utillzar
-utilizaci
-ups
+ujK
 utilizando
 utilizo
 ubi
+usada
 no
 ndricas
 nulo
@@ -4932,11 +4980,20 @@ nvR
 nly
 nGJ
 nSw
+nLGQM
 nombre
 ntico
+<<<<<<< HEAD
 neumann
 necesaris
 num
+=======
+normalizados
+normalizo
+num
+numerico
+norma
+>>>>>>> origin/main
 pertenecen
 pertenece
 pi
@@ -5462,10 +5519,9 @@ parciales
 particion
 particicon
 pedacito
-propio
-pues
-padres
-pasarle
+pit
+pOQ
+pHYs
 periferios
 procesador
 procesdor
@@ -5479,15 +5535,24 @@ palabras
 permanecen
 pasadas
 procesada
+<<<<<<< HEAD
 pepe
 paquete
 pise
 puee
 programas
+=======
+preciso
+>>>>>>> origin/main
 poblaci
 parcialmente
 parametrizadas
 provee
+<<<<<<< HEAD
+=======
+promedio
+predictor
+>>>>>>> origin/main
 br
 borde
 busco
@@ -5825,8 +5890,8 @@ bjL
 buscamos
 biyectiva
 biyectivas
-binario
-balancear
+bFM
+bbY
 bits
 baja
 big
@@ -5834,8 +5899,12 @@ branch
 bin
 backupeo
 bajar
-bus
-buses
+bit
+bajisimos
+binario
+belleza
+basan
+biunivoca
 ricas
 respectivamente
 recorre
@@ -6229,22 +6298,27 @@ rwJkjs
 rQMr
 rMB
 rKf
-realizarse
-realidad
-resolviendo
-relaci
-rbol
-realizan
-raices
+riK
+rsM
 representamos
 resulttados
 reduced
 reemplazado
+<<<<<<< HEAD
 relocalizarlo
 relocalizar
 resultar
 rico
 reconstruir
+=======
+representado
+representaci
+representar
+resultar
+rico
+reconstruir
+rango
+>>>>>>> origin/main
 Volumen
 Variable
 Ver
@@ -6559,7 +6633,17 @@ VRZ
 Vhj
 VBRn
 VgP
+<<<<<<< HEAD
 Verosimilitud
+=======
+VQt
+VHEA
+Vcf
+Verosimilitud
+Visualizaci
+Visual
+VAX
+>>>>>>> origin/main
 Cartesianas
 Cil
 Cambios
@@ -6904,15 +6988,21 @@ Cwl
 CjyZ
 CWW
 CJH
-Construcci
+Coo
 Computer
 CISC
 Compiladores
 Complejos
 Crea
+<<<<<<< HEAD
 CPU
 Ciclo
 Construir
+=======
+Cuento
+Construir
+Chi
+>>>>>>> origin/main
 Esf
 Entonces
 Esto
@@ -7243,11 +7333,20 @@ EZZ
 EqU
 EGXb
 EOF
-Encapsulamiento
+EMX
 Estructuras
+<<<<<<< HEAD
 Estructura
 Estad
 Estimadores
+=======
+Estandar
+Estad
+Estimadores
+ECM
+Estimador
+Estimamos
+>>>>>>> origin/main
 Integrales
 Importantes
 Igualo
@@ -7588,8 +7687,16 @@ Imp
 IWk
 Ioi
 Info
+<<<<<<< HEAD
 IGUAL
 Insertar
+=======
+IDATW
+Iai
+IHBd
+IMMe
+IEEE
+>>>>>>> origin/main
 Inferencia
 Triples
 Teorema
@@ -7936,7 +8043,9 @@ TfrP
 TXz
 ThEk
 TiRD
-TDAs
+TUUu
+TUU
+TOM
 Dejando
 DEN
 De
@@ -8269,8 +8378,7 @@ DEx
 DyF
 DzM
 DsJ
-Dato
-Define
+DEE
 Directivas
 Detecta
 Data
@@ -8637,16 +8745,23 @@ oWX
 oihNMs
 ogp
 ony
-operaciones
-ordenamiento
-obtenerlo
+ood
+oSk
 organizada
 ocupan
 ocupada
+operaciones
 operandos
+<<<<<<< HEAD
 optimizable
 observable
 observados
+=======
+observable
+observados
+ocurrir
+observada
+>>>>>>> origin/main
 mide
 mas
 mediante
@@ -9050,18 +9165,25 @@ mlp
 mRV
 mtt
 medir
-modularizaci
-menores
-mayores
-maximal
 maquina
 modos
 mapeo
+<<<<<<< HEAD
 main
 multitasking
 microprocesador
 medible
 medidas
+=======
+mantisa
+magnitud
+medible
+medidas
+metaforicos
+maximice
+min
+max
+>>>>>>> origin/main
 que
 queda
 quede
@@ -9355,8 +9477,8 @@ qZRD
 qOx
 qjub
 qGPD
-quita
-quitando
+qTU
+qWr
 hasta
 hacia
 hay
@@ -9668,13 +9790,12 @@ hqjZE
 hMn
 hqf
 hcD
-hunden
-hundirse
-heap
-hijo
+hnN
+hXe
+hIl
+hll
 hexa
 habia
-hardware
 image
 iria
 incluya
@@ -10034,9 +10155,6 @@ ieTv
 iNp
 iOU
 inversas
-intenta
-implementado
-inserta
 instrucciones
 instruccionestipo
 indicar
@@ -10045,10 +10163,19 @@ instruccion
 instruction
 identificadores
 identificador
+<<<<<<< HEAD
 invisibles
 iniciales
 iid
 independeinte
+=======
+infinto
+iniciales
+iid
+independeinte
+interesante
+invarianza
+>>>>>>> origin/main
 frontera
 flujo
 forma
@@ -10414,16 +10541,20 @@ fHA
 fNJ
 fsQ
 fyK
-faltar
-flotan
-flote
-floten
+fCG
+fzA
 fisicamente
 flags
 faciles
 frontend
+<<<<<<< HEAD
 fetch
 flia
+=======
+flotante
+flia
+fora
+>>>>>>> origin/main
 gira
 green
 gradiente
@@ -10758,12 +10889,15 @@ gIa
 gbO
 gERJ
 generalizado
+goras
+gAMA
 guardan
 guardando
 grosa
 gicas
 generacion
-gestionado
+gmail
+grado
 Gauss
 Green
 GC
@@ -11119,6 +11253,9 @@ Gly
 Ggl
 Gwq
 GDm
+GvT
+GuM
+Greenshot
 Genera
 jacobiana
 jacobinao
@@ -11420,6 +11557,8 @@ jgT
 jMH
 jpB
 jacobiano
+jun
+jmm
 jpml
 jmpl
 Aplicaci
@@ -11770,7 +11909,6 @@ ADw
 AfiB
 AfYs
 Aya
-Abstracci
 Arqitectura
 ARC
 Algunas
@@ -11779,7 +11917,10 @@ Arquitectura
 Analisis
 Analizar
 Asociar
+<<<<<<< HEAD
 ALU
+=======
+>>>>>>> origin/main
 Aleatoria
 Final
 Flujo
@@ -12091,6 +12232,13 @@ FRm
 Fui
 FWC
 FGtB
+<<<<<<< HEAD
+=======
+Fikk
+FFzS
+FkK
+Formato
+>>>>>>> origin/main
 Familia
 Familias
 Factorizaci
@@ -12448,8 +12596,7 @@ PGN
 PzD
 PEp
 Prev
-Primitivas
-Padre
+PpU
 Program
 Pero
 Param
@@ -12740,9 +12887,11 @@ Hmt
 HIZ
 HKt
 Hms
-Heap
-Hijo
-Hardware
+HQQ
+Hbc
+HgY
+Historia
+Haciendo
 ya
 yRZ
 yD
@@ -12986,6 +13135,8 @@ yRg
 yEK
 yfiWO
 ydG
+yyy
+yHKu
 Nos
 No
 NETNBkhV
@@ -13298,8 +13449,8 @@ NsY
 NHU
 NFV
 NnNN
-Nunca
-Nodo
+NKX
+NIh
 MORE
 MYk
 MDD
@@ -13628,13 +13779,21 @@ Mss
 MYZ
 Mixta
 Metodo
-Manejan
+MkD
+Mdd
 Mapa
 Memoria
 Macro
+<<<<<<< HEAD
 MUY
 Microarquitectura
 Modelos
+=======
+Modelos
+Met
+Mejor
+Maxima
+>>>>>>> origin/main
 OPTIONS
 OV
 OP
@@ -13956,6 +14115,8 @@ OMM
 OSD
 OqK
 Ojy
+OYY
+Objetivo
 Una
 Un
 UI
@@ -14292,6 +14453,7 @@ Uut
 Umxo
 UCAy
 UVN
+Umgw
 width
 wxTE
 wS
@@ -14598,6 +14760,8 @@ wQfx
 wuq
 wlg
 wlO
+wGx
+wrA
 Recordemos
 RA
 RF
@@ -14936,13 +15100,11 @@ Rno
 Rtp
 RzC
 Root
-RESUMIENDO
 Registro
 Risc
 Register
 Registros
 RISC
-Relocalizacion
 Ya
 YUV
 YLO
@@ -15222,6 +15384,8 @@ Yoiw
 YIMb
 Yoit
 Yuz
+YAjFB
+YLKSw
 Wronskiano
 WkpoNL
 WQsX
@@ -15509,6 +15673,7 @@ WEC
 WHp
 WLe
 WPzt
+WNq
 xpqa
 xDD
 xZ
@@ -15784,6 +15949,7 @@ xVB
 xfzg
 xhws
 xref
+xWi
 xico
 JyvZ
 JY
@@ -16094,6 +16260,10 @@ JhR
 JtHqr
 JGG
 Jacobiano
+Jpd
+Jib
+Jnk
+JFM
 Za
 ZJ
 ZQw
@@ -16421,7 +16591,8 @@ Zyr
 ZBD
 ZTx
 ZOq
-Zilles
+ZREfo
+ZHT
 KG
 Km
 KF
@@ -17023,6 +17194,7 @@ kkT
 ky
 kIVA
 kam
+kYs
 Qa
 Qe
 QUU
@@ -17317,7 +17489,12 @@ QmP
 QKc
 Qxb
 Qly
+<<<<<<< HEAD
 Quitar
+=======
+Qlm
+QfdY
+>>>>>>> origin/main
 Quiero
 zt
 zN
@@ -17632,6 +17809,10 @@ zoa
 zhxh
 zpiw
 zlP
+zMF
+zFu
+zFr
+zVg
 Be
 BZ
 BD
@@ -17924,9 +18105,7 @@ BiU
 BIAz
 Big
 Backend
-BUS
-Bajo
-Buscar
+Bondad
 äU
 äI
 äZ

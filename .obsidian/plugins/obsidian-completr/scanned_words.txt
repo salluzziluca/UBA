@@ -4266,6 +4266,7 @@ Stack
 Sucesi
 Simulacion
 Ser
+SON
 un
 una
 usando
@@ -6959,6 +6960,7 @@ Construir
 Consistencia
 Chi
 Continua
+Competencia
 Esf
 Entonces
 Esto
@@ -7641,6 +7643,7 @@ IGUAL
 Insertar
 Inferencia
 Inversa
+IDEPENIENTES
 Triples
 Teorema
 Teoremas

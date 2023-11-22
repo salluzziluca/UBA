@@ -5527,6 +5527,7 @@ parametrizadas
 provee
 predictor
 partici
+pit
 br
 borde
 busco
@@ -10833,6 +10834,7 @@ gestionado
 grado
 geometrica
 generalizar
+goras
 Gauss
 Green
 GC

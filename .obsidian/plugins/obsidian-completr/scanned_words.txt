@@ -2249,6 +2249,7 @@ constante
 cuadrado
 chi
 consideramos
+creciente
 las
 la
 lo
@@ -6285,6 +6286,7 @@ relocalizar
 resultar
 rico
 reconstruir
+restringida
 Volumen
 Variable
 Ver
@@ -7986,6 +7988,7 @@ ThEk
 TiRD
 TDAs
 Truncamiento
+Tchevychev
 Dejando
 DEN
 De
@@ -8324,6 +8327,7 @@ Directivas
 Detecta
 Data
 Decimos
+Desigualdad
 obtenemos
 orientaci
 orientable
@@ -13699,6 +13703,7 @@ Microarquitectura
 Modelos
 Maxima
 Mejor
+Markov
 OPTIONS
 OV
 OP

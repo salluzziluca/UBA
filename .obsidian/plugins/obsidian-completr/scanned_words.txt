@@ -794,6 +794,7 @@ suficientes
 sesgo
 sirva
 sumamos
+simular
 vectoriales
 vectorial
 vacio
@@ -1623,6 +1624,8 @@ desconocida
 debilmente
 dicha
 dibujar
+defino
+despejo
 cumplir
 condiciones
 cartesianas
@@ -2245,6 +2248,7 @@ cercania
 constante
 cuadrado
 chi
+consideramos
 las
 la
 lo
@@ -3030,6 +3034,9 @@ experimentos
 estimacion
 estiamador
 estimar
+encuentro
+expresi
+encontre
 adicionalmente
 alguna
 al
@@ -3502,6 +3509,9 @@ arimetico
 adicionales
 aproximado
 asint
+armamos
+ayude
+acumulan
 tres
 theta
 tiene
@@ -4253,6 +4263,8 @@ Subrutina
 Segmento
 Stack
 Sucesi
+Simulacion
+Ser
 un
 una
 usando
@@ -5863,6 +5875,7 @@ bus
 buses
 basan
 biunivoca
+biscamos
 ricas
 respectivamente
 recorre
@@ -6943,6 +6956,7 @@ Ciclo
 Construir
 Consistencia
 Chi
+Continua
 Esf
 Entonces
 Esto
@@ -7624,6 +7638,7 @@ Info
 IGUAL
 Insertar
 Inferencia
+Inversa
 Triples
 Teorema
 Teoremas
@@ -7970,6 +7985,7 @@ TXz
 ThEk
 TiRD
 TDAs
+Truncamiento
 Dejando
 DEN
 De
@@ -8683,6 +8699,7 @@ observable
 observados
 ocurrir
 observada
+omega
 mide
 mas
 mediante
@@ -10808,6 +10825,7 @@ generacion
 gestionado
 grado
 geometrica
+generalizar
 Gauss
 Green
 GC
@@ -14338,6 +14356,7 @@ Uut
 Umxo
 UCAy
 UVN
+Uniforme
 width
 wxTE
 wS

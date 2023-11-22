@@ -793,6 +793,7 @@ stico
 suficientes
 sesgo
 sirva
+sumamos
 vectoriales
 vectorial
 vacio
@@ -2241,6 +2242,8 @@ condicionmes
 cuadratico
 cercania
 constante
+cuadrado
+chi
 las
 la
 lo
@@ -6581,6 +6584,7 @@ Vhj
 VBRn
 VgP
 Verosimilitud
+VAX
 Cartesianas
 Cil
 Cambios
@@ -6935,6 +6939,7 @@ CPU
 Ciclo
 Construir
 Consistencia
+Chi
 Esf
 Entonces
 Esto
@@ -10797,6 +10802,7 @@ grosa
 gicas
 generacion
 gestionado
+grado
 Gauss
 Green
 GC

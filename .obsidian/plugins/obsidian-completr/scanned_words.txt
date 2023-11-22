@@ -791,6 +791,8 @@ soporte
 sticos
 stico
 suficientes
+sesgo
+sirva
 vectoriales
 vectorial
 vacio
@@ -1617,6 +1619,8 @@ discreto
 depender
 desconocidos
 desconocida
+debilmente
+dicha
 cumplir
 condiciones
 cartesianas
@@ -2230,6 +2234,13 @@ condicionada
 conozco
 consideran
 caracteristica
+consistente
+consitente
+converge
+condicionmes
+cuadratico
+cercania
+constante
 las
 la
 lo
@@ -3010,6 +3021,11 @@ evaluada
 estadistico
 estimador
 estimable
+estimadores
+experimentos
+estimacion
+estiamador
+estimar
 adicionalmente
 alguna
 al
@@ -3481,6 +3497,7 @@ address
 arimetico
 adicionales
 aproximado
+asint
 tres
 theta
 tiene
@@ -3874,6 +3891,7 @@ traer
 transferencia
 tricos
 trico
+ticamente
 Sea
 Si
 Superficie
@@ -5488,6 +5506,7 @@ poblaci
 parcialmente
 parametrizadas
 provee
+predictor
 br
 borde
 busco
@@ -5836,6 +5855,8 @@ backupeo
 bajar
 bus
 buses
+basan
+biunivoca
 ricas
 respectivamente
 recorre
@@ -6913,6 +6934,7 @@ Crea
 CPU
 Ciclo
 Construir
+Consistencia
 Esf
 Entonces
 Esto
@@ -7248,6 +7270,9 @@ Estructuras
 Estructura
 Estad
 Estimadores
+Estimador
+Estimamos
+ECM
 Integrales
 Importantes
 Igualo
@@ -8647,6 +8672,8 @@ operandos
 optimizable
 observable
 observados
+ocurrir
+observada
 mide
 mas
 mediante
@@ -9062,6 +9089,9 @@ multitasking
 microprocesador
 medible
 medidas
+maximice
+media
+min
 que
 queda
 quede
@@ -10049,6 +10079,8 @@ invisibles
 iniciales
 iid
 independeinte
+invarianza
+insesgado
 frontera
 flujo
 forma
@@ -10424,6 +10456,7 @@ faciles
 frontend
 fetch
 flia
+fisher
 gira
 green
 gradiente
@@ -13635,6 +13668,8 @@ Macro
 MUY
 Microarquitectura
 Modelos
+Maxima
+Mejor
 OPTIONS
 OV
 OP
@@ -17927,6 +17962,7 @@ Backend
 BUS
 Bajo
 Buscar
+Bondad
 äU
 äI
 äZ

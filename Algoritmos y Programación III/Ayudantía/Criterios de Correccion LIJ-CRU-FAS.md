@@ -2,9 +2,9 @@
 
 
 - No pude crear eventos con repeticion porque no se que parametro hay que ingresar en esa box
-- ![[Pasted image 20230617102911.png]]![[Pasted image 20230617102929.png]]
+- ![[Pasted image 20230617102911 1.png]]![[Pasted image 20230617102929 1.png]]
 - A la hora de crear una tarea de dia completo me exije poner hora y minuto, no creo que sea necesario
- ![[Pasted image 20230617103130.png]]
+ ![[Pasted image 20230617103130 1.png]]
 - No me deja agregar alarmas porque me pone que tengo un error de parametro, pero si me permite crear el evento/tarea
 Requisitos mínimos para aprobar:  
 

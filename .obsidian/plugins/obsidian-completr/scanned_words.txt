@@ -4527,6 +4527,7 @@ probas
 pruebo
 persona
 pasada
+pit
 br
 borde
 busco
@@ -8884,6 +8885,7 @@ grid
 grados
 glucosa
 grandes
+goras
 Gauss
 Green
 GC

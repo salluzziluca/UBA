@@ -7300,6 +7300,7 @@ Estimadores
 Estimador
 Estimamos
 ECM
+Exponencial
 Integrales
 Importantes
 Igualo

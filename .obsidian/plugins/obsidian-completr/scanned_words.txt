@@ -631,6 +631,7 @@ sensible
 sangre
 selecciono
 superpuestos
+signo
 vectoriales
 vectorial
 vacio
@@ -1846,6 +1847,8 @@ clasifica
 consideradas
 condicinal
 ciertas
+covarianza
+coef
 las
 la
 lo
@@ -2494,6 +2497,7 @@ eventoo
 esimo
 exactamente
 esperanza
+esperanzas
 adicionalmente
 alguna
 al
@@ -5702,6 +5706,10 @@ Coloreo
 Cada
 Condicional
 Central
+Covarianza
+Cov
+Coeficiente
+Correlaci
 Esf
 Entonces
 Esto
@@ -7720,6 +7728,7 @@ quinas
 quedamos
 quue
 qque
+quiere
 hasta
 hacia
 hay
@@ -8886,6 +8895,7 @@ grados
 glucosa
 grandes
 goras
+grado
 Gauss
 Green
 GC
@@ -9672,6 +9682,7 @@ Accuracy
 AUC
 Aleatorio
 Adelgazamiento
+Aplicacion
 Final
 Flujo
 Fuerza
@@ -11134,6 +11145,7 @@ Mantener
 MAE
 Mean
 Multivariada
+Mas
 OPTIONS
 OV
 OP
@@ -11379,6 +11391,7 @@ Out
 Otros
 Overfitting
 Optimization
+Orden
 Una
 Un
 UI

@@ -5966,6 +5966,7 @@ Esper
 EDP
 Explicit
 Error
+Exponencial
 Integrales
 Importantes
 Igualo

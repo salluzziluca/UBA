@@ -130,7 +130,7 @@ Proceso de ensamblado en 2 pasadas:
 1. Detecta identificadores y les asigna una posicion de memoria. Crea la tabla de simbolos
 2. Cada instruccion es convertida a codigo de maquina. Cada identificador es reemplazado por su ubicacion en memoria (usando la tabla de simbolos). Cada linea es procesada completamente antes de avanzar a la sig.  Genera el codigo obj y el listado
 
-
+![[Pasted image 20231113170640.png]]
 
 # Linker
 ## Relocalizacion

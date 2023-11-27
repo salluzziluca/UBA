@@ -766,6 +766,11 @@ sGV
 sMU
 startxref
 sesgo
+subconjunto
+soporte
+sticos
+stico
+suficientes
 vectoriales
 vectorial
 vacio
@@ -1114,6 +1119,7 @@ vAw
 vQbB
 vvw
 vIj
+verdaderos
 deben
 de
 diferenciales
@@ -1556,6 +1562,13 @@ dWL
 dKm
 dCmu
 debilmente
+desconoce
+desconocido
+distribuciones
+discreto
+depender
+desconocidos
+desconocida
 cumplir
 condiciones
 cartesianas
@@ -2139,6 +2152,14 @@ consistente
 consitente
 converge
 condicionmes
+conclusiones
+comporta
+conformada
+cuya
+condicionada
+conozco
+consideran
+caracteristica
 las
 la
 lo
@@ -2453,6 +2474,7 @@ lhr
 lIB
 lZr
 lCcs
+llamado
 enunciadas
 en
 espacio
@@ -2888,6 +2910,14 @@ evaluada
 estimacion
 estiamador
 estimar
+experimentales
+experimento
+estimable
+exponenciales
+escribir
+estad
+euclideo
+estadistico
 adicionalmente
 alguna
 al
@@ -3329,6 +3359,7 @@ acl
 aAy
 alta
 asint
+aproximado
 tres
 theta
 tiene
@@ -3711,6 +3742,8 @@ thQz
 tAW
 trailer
 ticamente
+tricos
+trico
 Sea
 Si
 Superficie
@@ -4058,6 +4091,7 @@ SWq
 Snf
 SOTU
 Size
+Sucesi
 un
 una
 usando
@@ -4753,6 +4787,7 @@ nvR
 nly
 nGJ
 nSw
+num
 pertenecen
 pertenece
 pi
@@ -5274,6 +5309,10 @@ pfm
 pZEkb
 pxV
 pDz
+poblaci
+parcialmente
+parametrizadas
+provee
 br
 borde
 busco
@@ -6003,6 +6042,9 @@ rwJkjs
 rQMr
 rMB
 rKf
+resultar
+rico
+reconstruir
 Volumen
 Variable
 Ver
@@ -6667,6 +6709,7 @@ CjyZ
 CWW
 CJH
 Consistencia
+Construir
 Esf
 Entonces
 Esto
@@ -7001,6 +7044,7 @@ EOF
 Estimador
 Estimadores
 Estimamos
+Estad
 Integrales
 Importantes
 Igualo
@@ -7341,6 +7385,7 @@ Imp
 IWk
 Ioi
 Info
+Inferencia
 Triples
 Teorema
 Teoremas
@@ -8018,6 +8063,7 @@ DEx
 DyF
 DzM
 DsJ
+Data
 obtenemos
 orientaci
 orientable
@@ -8383,6 +8429,8 @@ ogp
 ony
 ocurrir
 observada
+observable
+observados
 mide
 mas
 mediante
@@ -8787,6 +8835,8 @@ mRV
 mtt
 maximice
 media
+medible
+medidas
 que
 queda
 quede
@@ -9752,6 +9802,9 @@ iNp
 iOU
 invarianza
 insesgado
+iniciales
+iid
+independeinte
 frontera
 flujo
 forma
@@ -10118,6 +10171,7 @@ fNJ
 fsQ
 fyK
 fisher
+flia
 gira
 green
 gradiente
@@ -11456,6 +11510,7 @@ ADw
 AfiB
 AfYs
 Aya
+Aleatoria
 Final
 Flujo
 Fuerza
@@ -11766,6 +11821,9 @@ FRm
 Fui
 FWC
 FGtB
+Familia
+Familias
+Factorizaci
 Potencial
 Para
 Punto
@@ -12120,6 +12178,7 @@ PGN
 PzD
 PEp
 Prev
+Param
 Hipotesis
 HbgIcQAl
 HJM
@@ -13291,6 +13350,7 @@ Mss
 MYZ
 Metodo
 Maxima
+Modelos
 OPTIONS
 OV
 OP
@@ -16964,6 +17024,7 @@ QmP
 QKc
 Qxb
 Qly
+Quiero
 zt
 zN
 zB

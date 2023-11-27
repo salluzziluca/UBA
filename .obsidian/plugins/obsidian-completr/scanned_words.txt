@@ -765,6 +765,7 @@ sYC
 sGV
 sMU
 startxref
+sesgo
 vectoriales
 vectorial
 vacio
@@ -1554,6 +1555,7 @@ dTHlq
 dWL
 dKm
 dCmu
+debilmente
 cumplir
 condiciones
 cartesianas
@@ -2132,6 +2134,11 @@ cTM
 cVGEY
 cll
 cqt
+conjunta
+consistente
+consitente
+converge
+condicionmes
 las
 la
 lo
@@ -2874,6 +2881,13 @@ efY
 efc
 eck
 eoW
+estimadores
+experimentos
+estimador
+evaluada
+estimacion
+estiamador
+estimar
 adicionalmente
 alguna
 al
@@ -3313,6 +3327,8 @@ atN
 abuX
 acl
 aAy
+alta
+asint
 tres
 theta
 tiene
@@ -3694,6 +3710,7 @@ tCc
 thQz
 tAW
 trailer
+ticamente
 Sea
 Si
 Superficie
@@ -5591,6 +5608,8 @@ bww
 bcX
 bej
 bjL
+basan
+biunivoca
 ricas
 respectivamente
 recorre
@@ -6298,6 +6317,7 @@ VRZ
 Vhj
 VBRn
 VgP
+Verosimilitud
 Cartesianas
 Cil
 Cambios
@@ -6646,6 +6666,7 @@ Cwl
 CjyZ
 CWW
 CJH
+Consistencia
 Esf
 Entonces
 Esto
@@ -6977,6 +6998,9 @@ EZZ
 EqU
 EGXb
 EOF
+Estimador
+Estimadores
+Estimamos
 Integrales
 Importantes
 Igualo
@@ -8357,6 +8381,8 @@ oWX
 oihNMs
 ogp
 ony
+ocurrir
+observada
 mide
 mas
 mediante
@@ -8759,6 +8785,8 @@ meO
 mlp
 mRV
 mtt
+maximice
+media
 que
 queda
 quede
@@ -9722,6 +9750,8 @@ ipf
 ieTv
 iNp
 iOU
+invarianza
+insesgado
 frontera
 flujo
 forma
@@ -10087,6 +10117,7 @@ fHA
 fNJ
 fsQ
 fyK
+fisher
 gira
 green
 gradiente
@@ -13258,6 +13289,8 @@ MpLS
 MBD
 Mss
 MYZ
+Metodo
+Maxima
 OPTIONS
 OV
 OP
@@ -17534,6 +17567,8 @@ Buw
 Bvv
 BiU
 BIAz
+Bondad
+Bajo
 äU
 äI
 äZ

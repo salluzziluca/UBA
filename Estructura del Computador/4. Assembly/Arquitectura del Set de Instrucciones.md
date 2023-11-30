@@ -1,7 +1,8 @@
-Hay que tenere en cuenta donde se guardan fisicamente las variables, como accedo a los periferios, donde seguarda fisicamente el programa
+Hay que tener en cuenta donde se guardan fisicamente las variables, como accedo a los perifericos, donde seguarda fisicamente el programa
 ==como está organizada la memoria==
 
 La memoria esta organizada en tablas cuyas filas son cada una de 8 bits
+
 | n°  | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |     |     |     |     |
@@ -21,7 +22,7 @@ el mapa de memoria es especifico de un sistema (dos sistemas con el mismo proces
 # Arqitectura ARC ( A Risc Computer)
 Espacio de direcciones: 2^{32}
 big endian
-![[Pasted image 20231017164636.png]]
+![[Pasted image 20231129165743.png]]
 
 ### Set de instrucciones
 es un subconjunto de SPARC
@@ -41,14 +42,15 @@ de 0 a 2^{31}-1 RAM.
 
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
-si  dice cc es porque altera los flags
-el branch always y el call son conceptualmente diferentes, el call se utiliza para una subrutina, guardando la posicion actual para luego volver utilizando ^'jpml 
-Para acceder a memoria, utilizo ld %rn, de esa forma le esty diciendo al programa que acceda a la direccion rn en memoria. Es decir, si en rn yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
-ñ¿-+# Registros
+si  dice `cc` es porque altera los flags
+el branch always y el call son conceptualmente diferentes, el `call` se utiliza para una subrutina, guardando la posición actual para luego volver utilizando `jpml` 
+Para acceder a memoria, utilizo `ld %rn`, de esa forma le estoy diciendo al programa que acceda a la dirección `rn` en memoria. Es decir, si en `rn` yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
+# Registros
 ![[Pasted image 20231017171718.png]]
 El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
 
-## Sintaxis
+## Sintaxiso
+![[Pasted image 20231129171450.png]]
 ```asm
 lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 ```
@@ -63,7 +65,11 @@ Alguas generan informacion   en la memoria, otras no
 
 ## Subrutina
 Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl
-
+### Por registro
+![[Pasted image 20231129174733.png]]
+### Por stack
+![[Pasted image 20231129174741.png]]
+El `r14` tiene la posicion 1 del stack. De ahi cargo el primero del stack en `r1`y avanzo una posicion en el stack, cargando eso en `r2`
 ## Macro
 Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
 
@@ -89,53 +95,3 @@ RISC (reduced instruction set computer) = le doy mas laburo al programador pero 
 ![[Pasted image 20231031173830.png]]
 
 
-
-
-# Compiladores
-Ir de codigo fuente a codigo assembler
-
-## frontend
-
-### Analisis léxico 
-Analizar las palabras y ver si pertenecen al lenguaje o no (las agrega a la tabla de simbolos)simbolos
-
-### Analisis sintáctico
-analiza la estructura de la cadena de palabras
-
-### analisis semántico
-Asociar a cada variable: tipo, ambito, congruencias
-
-## Backend
-### mapeo de acciones
-
-#### Operaciones ariméticas/lógicas
-
-#### Estructuras decontrol de flujo del programa
-
-#### Donde almacenar RAM
-Las variables estaticas (globales) permanecen a lo largo del tiempo de ejecución de la app-> se guarda en posición de memoria conocida e tiempo de compilación
-
-Las variales locales se guardan en el stack y desaparecen cuando termina el procedimiento que las llama 
-
-### generacion de codigo
-
-lo pasa a assembler
-
-
-# ensamblador
-Su laburo es mucho más sencilo que el del compilador, es menos Complejos
-
-
-Proceso de ensamblado en 2 pasadas:
-1. Detecta identificadores y les asigna una posicion de memoria. Crea la tabla de simbolos
-2. Cada instruccion es convertida a codigo de maquina. Cada identificador es reemplazado por su ubicacion en memoria (usando la tabla de simbolos). Cada linea es procesada completamente antes de avanzar a la sig.  Genera el codigo obj y el listado
-
-![[Pasted image 20231113170640.png]]
-
-# Linker
-## Relocalizacion
-Si yo tengo más de un modulo (ej main y pepe), aunque ambos digan `org 2048` el assembler, mediante el linker, va a desplazar a pepe, a relocalizarlo, a otra direccion de memoria, generando una tabla de valores de 2048+n 
-de esa forma crea el paquete con todo ordenado sin que se pise
-
-# Linking loader
-Cuando llega la hora de cargar al programa, si el sistema tiene multitasking el compilador tiene que ver donde hay espacio libre, dificilmente empiece en el 2048, asi que tiene que volver a relocalizar todas las etiquetas

@@ -881,6 +881,7 @@ sOU
 sxCpe
 srmK
 sumada
+separadamente
 vectoriales
 vectorial
 vacio
@@ -1276,6 +1277,8 @@ vmkf
 vmK
 von
 visibles
+visible
+vease
 deben
 de
 diferenciales
@@ -1806,6 +1809,7 @@ dHC
 dispositivo
 decodificar
 direcci
+describe
 cumplir
 condiciones
 cartesianas
@@ -2510,6 +2514,9 @@ consumo
 control
 cargo
 cargando
+convenci
+computadora
+comparten
 las
 la
 lo
@@ -3406,6 +3413,10 @@ eJm
 eMFi
 ejecutarla
 estoy
+ensamblados
+ejectuar
+electrodom
+enviada
 adicionalmente
 alguna
 al
@@ -3942,6 +3953,9 @@ address
 arimetico
 adicionales
 avanzo
+arqui
+almacenamiento
+aspectos
 tres
 theta
 tiene
@@ -5173,6 +5187,8 @@ uMag
 uwKBH
 uNJ
 uey
+utilizada
+ubicaci
 no
 ndricas
 nulo
@@ -6170,6 +6186,10 @@ pnK
 puee
 programas
 perifericos
+primeras
+programado
+programar
+puertos
 br
 borde
 busco
@@ -6570,6 +6590,7 @@ bpZ
 bGQe
 bus
 buses
+basicamente
 ricas
 respectivamente
 recorre
@@ -7380,6 +7401,7 @@ VeR
 Vlm
 VVrl
 VBP
+Von
 Cartesianas
 Cil
 Cambios
@@ -7786,6 +7808,7 @@ CGO
 CfiRW
 CPU
 Ciclo
+Control
 Esf
 Entonces
 Esto
@@ -8931,6 +8954,7 @@ TzT
 TFFddd
 TSLy
 TypdGf
+Transmite
 Dejando
 DEN
 De
@@ -10176,6 +10200,8 @@ mho
 mfJp
 mXS
 microprocesador
+mbolos
+modulos
 que
 queda
 quede
@@ -10504,6 +10530,7 @@ qFNl
 qzc
 qhp
 qXb
+quina
 hasta
 hacia
 hay
@@ -11290,6 +11317,9 @@ iXyf
 iNT
 iItI
 invisibles
+instrucci
+identifica
+implementaciones
 frontera
 flujo
 forma
@@ -11713,6 +11743,9 @@ feW
 fJI
 fCiu
 fetch
+fueron
+fisico
+facil
 gira
 green
 gradiente
@@ -13229,6 +13262,7 @@ AkMc
 Aktf
 AuA
 ALU
+Adress
 Final
 Flujo
 Fuerza
@@ -14298,6 +14332,7 @@ HNV
 Hgb
 HBRk
 Hardware
+Harvard
 ya
 yRZ
 yD
@@ -14907,6 +14942,7 @@ NNp
 NsJo
 NpT
 NvR
+Neumann
 MORE
 MYk
 MDD
@@ -16010,6 +16046,7 @@ Urh
 UvP
 UHr
 UBU
+Utiliza
 width
 wxTE
 wS
@@ -16733,6 +16770,7 @@ Rhm
 RjQS
 RQU
 RKm
+Responde
 Ya
 YUV
 YLO
@@ -20041,6 +20079,7 @@ BRkV
 Bdv
 BUS
 Buscar
+Bus
 äU
 äI
 äZ

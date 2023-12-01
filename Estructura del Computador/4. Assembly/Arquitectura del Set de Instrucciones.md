@@ -1,3 +1,4 @@
+## Memoria
 Hay que tener en cuenta donde se guardan fisicamente las variables, como accedo a los perifericos, donde seguarda fisicamente el programa
 ==como está organizada la memoria==
 
@@ -49,7 +50,7 @@ Para acceder a memoria, utilizo `ld %rn`, de esa forma le estoy diciendo al prog
 ![[Pasted image 20231017171718.png]]
 El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
 
-## Sintaxiso
+## Sintaxis
 ![[Pasted image 20231129171450.png]]
 ```asm
 lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
@@ -57,14 +58,14 @@ lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 hexa-> 0x o terminar con h
 bin-> termina con b
 
-## Directivas del ensamblador
+## Directivas del ensamblador (pseudo-ops)
 le dicen al ensamblador como procesar una sección del programa
 lasinstrucciones son especificas de un procesador, las pseudo-instrucciones o directivas son especificas de un programa ensamblador. 
 Alguas generan informacion   en la memoria, otras no
 ![[Pasted image 20231017175405.png]]
 
 ## Subrutina
-Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl
+Si tengo que llamar una subrutina adentro de otra, backupeo el r15 cuando arranca la subrutina y lo vuelvo a traer antes del jmpl, siguiendo la convención utilizada ![[Pasted image 20231130084654.png]]
 ### Por registro
 ![[Pasted image 20231129174733.png]]
 ### Por stack
@@ -73,6 +74,7 @@ El `r14` tiene la posicion 1 del stack. De ahi cargo el primero del stack en `r1
 ## Macro
 Es ponerle nombre a un segmento de código. Pero le puedo pasar argumentosw
 
+![[Pasted image 20231130084531.png]]
 ## Localización de variables
 - registros
 - Segmento de datos (RAM)

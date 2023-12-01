@@ -353,6 +353,8 @@ Ljj
 LuRS
 Lxz
 Lkj
+Logica
+Leyes
 subespacios
 subespacio
 se
@@ -884,6 +886,10 @@ sumada
 separadamente
 shifter
 sumadores
+simplificacion
+solamente
+sujetos
+sustituir
 vectoriales
 vectorial
 vacio
@@ -1281,6 +1287,10 @@ von
 visibles
 visible
 vease
+valen
+valgan
+validez
+verdad
 deben
 de
 diferenciales
@@ -1813,6 +1823,8 @@ decodificar
 direcci
 describe
 desplazamiento
+dejaria
+dont
 cumplir
 condiciones
 cartesianas
@@ -2521,6 +2533,8 @@ convenci
 computadora
 comparten
 consulta
+combinacional
+care
 las
 la
 lo
@@ -2891,6 +2905,7 @@ lwcQ
 lYt
 levantar
 logica
+limites
 enunciadas
 en
 espacio
@@ -3422,6 +3437,12 @@ ejectuar
 electrodom
 enviada
 encarga
+expresion
+efectivamente
+escencial
+equivalencia
+expresi
+expresiones
 adicionalmente
 alguna
 al
@@ -3961,6 +3982,13 @@ avanzo
 arqui
 almacenamiento
 aspectos
+asegura
+adyacentes
+abarquen
+apropiado
+afectar
+absorbente
+algebraicas
 tres
 theta
 tiene
@@ -4400,6 +4428,7 @@ trG
 tUBU
 ttU
 transferencia
+tabular
 Sea
 Si
 Superficie
@@ -5582,6 +5611,11 @@ nBV
 nsO
 neumann
 necesaris
+necesite
+nico
+nor
+nand
+negada
 pertenecen
 pertenece
 pi
@@ -6195,6 +6229,10 @@ primeras
 programado
 programar
 puertos
+puro
+pocas
+pegados
+primos
 br
 borde
 busco
@@ -7056,6 +7094,7 @@ rEk
 rze
 rSi
 restadores
+representando
 Volumen
 Variable
 Ver
@@ -7816,6 +7855,8 @@ CfiRW
 CPU
 Ciclo
 Control
+Complemento
+Compuerta
 Esf
 Entonces
 Esto
@@ -8583,6 +8624,8 @@ ICC
 Idg
 ICf
 IyJN
+Implicante
+Involuci
 Triples
 Teorema
 Teoremas
@@ -9744,6 +9787,7 @@ opq
 oFM
 opxN
 optimizable
+organiza
 mide
 mas
 mediante
@@ -10211,6 +10255,9 @@ mXS
 microprocesador
 mbolos
 modulos
+minivalores
+maxiterminos
+miniterminos
 que
 queda
 quede
@@ -10540,6 +10587,7 @@ qzc
 qhp
 qXb
 quina
+quine
 hasta
 hacia
 hay
@@ -11329,6 +11377,10 @@ invisibles
 instrucci
 identifica
 implementaciones
+implicantes
+implementarlo
+impone
+idempotencia
 frontera
 flujo
 forma
@@ -11755,6 +11807,9 @@ fetch
 fueron
 fisico
 facil
+fiable
+formal
+fico
 gira
 green
 gradiente
@@ -13272,6 +13327,9 @@ Aktf
 AuA
 ALU
 Adress
+Algebraico
+Aquel
+Absorcion
 Final
 Flujo
 Fuerza
@@ -14028,6 +14086,7 @@ Pme
 PVW
 PDA
 PROFILE
+Producto
 Hipotesis
 HbgIcQAl
 HJM
@@ -14952,6 +15011,8 @@ NsJo
 NpT
 NvR
 Neumann
+NAND
+NOR
 MORE
 MYk
 MDD
@@ -15330,6 +15391,9 @@ MUY
 Microarquitectura
 Microprocesador
 Microinstrucciones
+Metodos
+McCluskey
+Morgan
 OPTIONS
 OV
 OP
@@ -16782,6 +16846,10 @@ RjQS
 RQU
 RKm
 Responde
+Represento
+Relleno
+Redondeo
+REsulta
 Ya
 YUV
 YLO
@@ -17700,6 +17768,8 @@ xAo
 xqa
 xpsM
 xNrK
+xor
+xnor
 JyvZ
 JY
 JX
@@ -18752,6 +18822,7 @@ KIAT
 KqU
 KQEo
 Kfc
+Karnaugh
 kt
 ku
 kSe
@@ -20401,6 +20472,7 @@ XgW
 XYZ
 XTx
 Xkw
+XOR
 üav
 üN
 üZ

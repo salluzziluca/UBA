@@ -890,6 +890,9 @@ simplificacion
 solamente
 sujetos
 sustituir
+significativos
+seg
+sumar
 vectoriales
 vectorial
 vacio
@@ -1825,6 +1828,13 @@ describe
 desplazamiento
 dejaria
 dont
+desagrupar
+digitos
+decimal
+dividiendo
+decima
+disponible
+dio
 cumplir
 condiciones
 cartesianas
@@ -2535,6 +2545,16 @@ comparten
 consulta
 combinacional
 care
+cuantos
+cualquiera
+conveniencia
+cota
+complemento
+carry
+compara
+chupa
+cuidado
+completar
 las
 la
 lo
@@ -2906,6 +2926,7 @@ lYt
 levantar
 logica
 limites
+llaman
 enunciadas
 en
 espacio
@@ -3443,6 +3464,9 @@ escencial
 equivalencia
 expresi
 expresiones
+elegir
+extiendo
+efect
 adicionalmente
 alguna
 al
@@ -3989,6 +4013,9 @@ apropiado
 afectar
 absorbente
 algebraicas
+agrupar
+amos
+asignado
 tres
 theta
 tiene
@@ -4429,6 +4456,7 @@ tUBU
 ttU
 transferencia
 tabular
+totales
 Sea
 Si
 Superficie
@@ -4833,6 +4861,7 @@ SYm
 Sxot
 SjRg
 Sintaxiso
+Sino
 un
 una
 usando
@@ -5223,6 +5252,7 @@ uNJ
 uey
 utilizada
 ubicaci
+ultima
 no
 ndricas
 nulo
@@ -5616,6 +5646,7 @@ nico
 nor
 nand
 negada
+neg
 pertenecen
 pertenece
 pi
@@ -6233,6 +6264,13 @@ puro
 pocas
 pegados
 primos
+pesos
+potencias
+podr
+pongo
+pasemos
+pide
+pos
 br
 borde
 busco
@@ -6635,6 +6673,7 @@ bus
 buses
 basicamente
 barrel
+binarios
 ricas
 respectivamente
 recorre
@@ -7095,6 +7134,11 @@ rze
 rSi
 restadores
 representando
+representacion
+represento
+referencia
+reversible
+recibo
 Volumen
 Variable
 Ver
@@ -7857,6 +7901,7 @@ Ciclo
 Control
 Complemento
 Compuerta
+Cua
 Esf
 Entonces
 Esto
@@ -8238,6 +8283,9 @@ EFt
 Elm
 Estructura
 Excepciones
+Estar
+Extension
+Extiendo
 Integrales
 Importantes
 Igualo
@@ -8626,6 +8674,7 @@ ICf
 IyJN
 Implicante
 Involuci
+Idem
 Triples
 Teorema
 Teoremas
@@ -9380,6 +9429,7 @@ DFm
 DsGd
 DUY
 Desplazamientos
+Decimales
 obtenemos
 orientaci
 orientable
@@ -9788,6 +9838,8 @@ oFM
 opxN
 optimizable
 organiza
+ojo
+opero
 mide
 mas
 mediante
@@ -10258,6 +10310,9 @@ modulos
 minivalores
 maxiterminos
 miniterminos
+multiplico
+miro
+mutiplico
 que
 queda
 quede
@@ -10946,6 +11001,7 @@ hxQ
 hbk
 hQnJS
 hardware
+huevo
 image
 iria
 incluya
@@ -11810,6 +11866,10 @@ facil
 fiable
 formal
 fico
+fraccionaria
+fraccionario
+falta
+flag
 gira
 green
 gradiente
@@ -12930,6 +12990,7 @@ jsm
 jnQKa
 jSt
 jHZV
+jeje
 Aplicaci
 Apuntes
 Ambas
@@ -16850,6 +16911,8 @@ Represento
 Relleno
 Redondeo
 REsulta
+Representacion
+Resta
 Ya
 YUV
 YLO
@@ -19831,6 +19894,7 @@ zum
 zfdV
 zHf
 zeB
+zero
 Be
 BZ
 BD

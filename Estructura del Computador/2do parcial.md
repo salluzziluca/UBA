@@ -1,0 +1,3 @@
+![[Pasted image 20231201204942.png]] 
+F
+F

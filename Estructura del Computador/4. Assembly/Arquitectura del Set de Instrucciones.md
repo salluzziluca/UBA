@@ -46,6 +46,8 @@ de 0 a 2^{31}-1 RAM.
 si  dice `cc` es porque altera los flags
 el branch always y el call son conceptualmente diferentes, el `call` se utiliza para una subrutina, guardando la posición actual para luego volver utilizando `jpml` 
 Para acceder a memoria, utilizo `ld %rn`, de esa forma le estoy diciendo al programa que acceda a la dirección `rn` en memoria. Es decir, si en `rn` yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
+
+![[Pasted image 20231203125126.png]]
 # Registros
 ![[Pasted image 20231017171718.png]]
 El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila

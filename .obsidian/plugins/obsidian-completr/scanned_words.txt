@@ -312,6 +312,8 @@ Lakt
 LEN
 Little
 Localizaci
+Linker
+Linking
 subespacios
 subespacio
 se
@@ -781,6 +783,10 @@ stack
 subrutina
 secci
 sumada
+simbolos
+sint
+sencilo
+sig
 vectoriales
 vectorial
 vacio
@@ -1135,6 +1141,7 @@ vuelvo
 valia
 von
 visibles
+variales
 deben
 de
 diferenciales
@@ -1594,6 +1601,10 @@ direccionamiento
 doy
 dispositivo
 decodificar
+decontrol
+desaparecen
+digan
+dificilmente
 cumplir
 condiciones
 cartesianas
@@ -2199,6 +2210,13 @@ cable
 costo
 consumo
 control
+cadena
+congruencias
+conocida
+compilaci
+compilador
+convertida
+completamente
 las
 la
 lo
@@ -2520,6 +2538,12 @@ listo
 laburo
 levantar
 logica
+lenguaje
+locales
+les
+listado
+linker
+loader
 enunciadas
 en
 espacio
@@ -2969,6 +2993,10 @@ ensamblador
 especificas
 era
 ejecutarla
+estaticas
+ejecuci
+ensamblado
+empiece
 adicionalmente
 alguna
 al
@@ -3429,6 +3457,11 @@ avisa
 address
 arimetico
 adicionales
+assembler
+analiza
+analisis
+ambito
+avanzar
 tres
 theta
 tiene
@@ -4875,6 +4908,7 @@ num
 nombre
 neumann
 necesaris
+ntico
 pertenecen
 pertenece
 pi
@@ -5411,6 +5445,13 @@ pena
 programador
 puee
 programas
+palabras
+permanecen
+pasadas
+procesada
+pepe
+paquete
+pise
 br
 borde
 busco
@@ -6155,6 +6196,9 @@ reconstruir
 representamos
 resulttados
 reduced
+reemplazado
+relocalizarlo
+relocalizar
 Volumen
 Variable
 Ver
@@ -6824,6 +6868,8 @@ Computer
 CISC
 CPU
 Ciclo
+Complejos
+Crea
 Esf
 Entonces
 Esto
@@ -7160,6 +7206,7 @@ Estimadores
 Estimamos
 Estad
 Estructura
+Estructuras
 Integrales
 Importantes
 Igualo
@@ -8180,6 +8227,7 @@ DzM
 DsJ
 Data
 Directivas
+Detecta
 obtenemos
 orientaci
 orientable
@@ -8962,6 +9010,9 @@ medidas
 maquina
 modos
 microprocesador
+mapeo
+main
+multitasking
 que
 queda
 quede
@@ -9940,6 +9991,8 @@ intstruccioes
 instruccion
 instruction
 invisibles
+identificadores
+identificador
 frontera
 flujo
 forma
@@ -10311,6 +10364,7 @@ fisicamente
 flags
 faciles
 fetch
+frontend
 gira
 green
 gradiente
@@ -10650,6 +10704,8 @@ guardan
 guardando
 grosa
 gestionado
+gicas
+generacion
 Gauss
 Green
 GC
@@ -11005,6 +11061,7 @@ Gly
 Ggl
 Gwq
 GDm
+Genera
 jacobiana
 jacobinao
 jue
@@ -11661,6 +11718,9 @@ Algunas
 Alguas
 Arquitectura
 ALU
+Analisis
+Analizar
+Asociar
 Final
 Flujo
 Fuerza
@@ -14816,6 +14876,7 @@ Risc
 Register
 Registros
 RISC
+Relocalizacion
 Ya
 YUV
 YLO
@@ -15657,6 +15718,7 @@ xVB
 xfzg
 xhws
 xref
+xico
 JyvZ
 JY
 JX
@@ -17796,6 +17858,7 @@ Bajo
 Big
 BUS
 Buscar
+Backend
 äU
 äI
 äZ

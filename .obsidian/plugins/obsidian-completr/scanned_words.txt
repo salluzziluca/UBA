@@ -787,6 +787,7 @@ simbolos
 sint
 sencilo
 sig
+separadamente
 vectoriales
 vectorial
 vacio
@@ -2998,6 +2999,7 @@ estaticas
 ejecuci
 ensamblado
 empiece
+ensamblados
 adicionalmente
 alguna
 al
@@ -4568,6 +4570,7 @@ utilizando
 utilizo
 ubi
 utilizada
+ubicaci
 no
 ndricas
 nulo
@@ -5800,6 +5803,7 @@ backupeo
 bajar
 bus
 buses
+basicamente
 ricas
 respectivamente
 recorre
@@ -9016,6 +9020,8 @@ microprocesador
 mapeo
 main
 multitasking
+mbolos
+modulos
 que
 queda
 quede
@@ -9310,6 +9316,7 @@ qZRD
 qOx
 qjub
 qGPD
+quina
 hasta
 hacia
 hay
@@ -9996,6 +10003,7 @@ instruction
 invisibles
 identificadores
 identificador
+instrucci
 frontera
 flujo
 forma
@@ -10368,6 +10376,7 @@ flags
 faciles
 fetch
 frontend
+fueron
 gira
 green
 gradiente

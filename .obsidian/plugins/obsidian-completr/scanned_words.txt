@@ -2217,6 +2217,7 @@ compilaci
 compilador
 convertida
 completamente
+convenci
 las
 la
 lo
@@ -4206,6 +4207,7 @@ Sintaxiso
 Subrutina
 Segmento
 Stack
+Sintaxis
 un
 una
 usando
@@ -4565,6 +4567,7 @@ updF
 utilizando
 utilizo
 ubi
+utilizada
 no
 ndricas
 nulo

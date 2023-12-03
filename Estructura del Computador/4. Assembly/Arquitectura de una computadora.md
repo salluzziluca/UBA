@@ -27,24 +27,3 @@ RISC utiliza un solo bus, simple y optimizable
 ![[Pasted image 20231107182204.png]]
 
 
-## Arquitectura de un microprocesador
-Bajo un mismo set de instrucciones puedo tener +1 Implementaciones:
-- Hardware para mayor velocidad
-- Hardware para menor costo 
-hardware para menos consumo
-
-Su funcion es ejecutar programas, es decir:
-#### Ciclo de fetch
-1. Buscar en memoria la instruccion
-2. decodificar el codigo de la misma
-3. ejecutarla
-4. volver a 1
-### Microarquitectura
-![[Pasted image 20231107183723.png]]
-Unidad de control
-unidad arimetico-logica
-registros visibles al programador (ej: r0 a r31)
-registros adicionales necesaris para el control pero invisibles al programador
-
-
-## ALU 

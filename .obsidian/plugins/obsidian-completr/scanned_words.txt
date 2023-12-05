@@ -795,6 +795,9 @@ sesgo
 sirva
 sumamos
 simular
+signo
+sabemos
+sii
 vectoriales
 vectorial
 vacio
@@ -1151,6 +1154,8 @@ variales
 von
 visibles
 verdaderos
+variabilidad
+variabes
 deben
 de
 diferenciales
@@ -1626,6 +1631,11 @@ dicha
 dibujar
 defino
 despejo
+dispersa
+dim
+definidas
+dadas
+deproba
 cumplir
 condiciones
 cartesianas
@@ -2250,6 +2260,11 @@ cuadrado
 chi
 consideramos
 creciente
+covarianza
+coef
+cjto
+cuan
+conunta
 las
 la
 lo
@@ -3038,6 +3053,9 @@ estimar
 encuentro
 expresi
 encontre
+esperanzas
+esperado
+exepriment
 adicionalmente
 alguna
 al
@@ -3513,6 +3531,7 @@ asint
 armamos
 ayude
 acumulan
+analizar
 tres
 theta
 tiene
@@ -3907,6 +3926,10 @@ transferencia
 tricos
 trico
 ticamente
+truncada
+truncamiento
+tona
+teoremateorema
 Sea
 Si
 Superficie
@@ -5528,6 +5551,9 @@ provee
 predictor
 partici
 pit
+pendiente
+promedio
+ponderado
 br
 borde
 busco
@@ -5879,6 +5905,8 @@ buses
 basan
 biunivoca
 biscamos
+basada
+bidimensional
 ricas
 respectivamente
 recorre
@@ -6962,6 +6990,10 @@ Consistencia
 Chi
 Continua
 Competencia
+Covarianza
+Cov
+Coeficiente
+Correlaci
 Esf
 Entonces
 Esto
@@ -7301,6 +7333,7 @@ Estimador
 Estimamos
 ECM
 Exponencial
+Esperanza
 Integrales
 Importantes
 Igualo
@@ -8333,6 +8366,9 @@ Detecta
 Data
 Decimos
 Desigualdad
+Discreta
+Desvio
+Debe
 obtenemos
 orientaci
 orientable
@@ -8709,6 +8745,7 @@ observados
 ocurrir
 observada
 omega
+origin
 mide
 mas
 mediante
@@ -9127,6 +9164,8 @@ medidas
 maximice
 media
 min
+mon
+marginales
 que
 queda
 quede
@@ -9422,6 +9461,7 @@ qjub
 qGPD
 quita
 quitando
+quiere
 hasta
 hacia
 hay
@@ -11853,6 +11893,7 @@ Analizar
 Asociar
 ALU
 Aleatoria
+Aplicacion
 Final
 Flujo
 Fuerza
@@ -12525,6 +12566,7 @@ Padre
 Program
 Pero
 Param
+Prop
 Hipotesis
 HbgIcQAl
 HJM
@@ -12815,6 +12857,7 @@ Hms
 Heap
 Hijo
 Hardware
+HEAD
 ya
 yRZ
 yD
@@ -13710,6 +13753,7 @@ Modelos
 Maxima
 Mejor
 Markov
+Mas
 OPTIONS
 OV
 OP
@@ -14031,6 +14075,7 @@ OMM
 OSD
 OqK
 Ojy
+Orden
 Una
 Un
 UI
@@ -15019,6 +15064,7 @@ Register
 Registros
 RISC
 Relocalizacion
+Recta
 Ya
 YUV
 YLO

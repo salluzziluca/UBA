@@ -315,6 +315,7 @@ Localizaci
 Little
 Linker
 Linking
+Leyes
 subespacios
 subespacio
 se
@@ -798,6 +799,8 @@ simular
 signo
 sabemos
 sii
+sujetos
+sustituir
 vectoriales
 vectorial
 vacio
@@ -1156,6 +1159,8 @@ visibles
 verdaderos
 variabilidad
 variabes
+validez
+verdad
 deben
 de
 diferenciales
@@ -3056,6 +3061,8 @@ encontre
 esperanzas
 esperado
 exepriment
+equivalencia
+expresiones
 adicionalmente
 alguna
 al
@@ -3532,6 +3539,9 @@ armamos
 ayude
 acumulan
 analizar
+afectar
+absorbente
+algebraicas
 tres
 theta
 tiene
@@ -4997,6 +5007,10 @@ ntico
 neumann
 necesaris
 num
+nico
+nor
+nand
+negada
 pertenecen
 pertenece
 pi
@@ -6317,6 +6331,7 @@ resultar
 rico
 reconstruir
 restringida
+representando
 Volumen
 Variable
 Ver
@@ -6994,6 +7009,8 @@ Covarianza
 Cov
 Coeficiente
 Correlaci
+Complemento
+Compuerta
 Esf
 Entonces
 Esto
@@ -7679,6 +7696,7 @@ Insertar
 Inferencia
 Inversa
 IDEPENIENTES
+Involuci
 Triples
 Teorema
 Teoremas
@@ -9166,6 +9184,8 @@ media
 min
 mon
 marginales
+maxiterminos
+miniterminos
 que
 queda
 quede
@@ -10156,6 +10176,7 @@ iid
 independeinte
 invarianza
 insesgado
+idempotencia
 frontera
 flujo
 forma
@@ -11894,6 +11915,7 @@ Asociar
 ALU
 Aleatoria
 Aplicacion
+Absorcion
 Final
 Flujo
 Fuerza
@@ -12567,6 +12589,7 @@ Program
 Pero
 Param
 Prop
+Producto
 Hipotesis
 HbgIcQAl
 HJM
@@ -13415,6 +13438,8 @@ NFV
 NnNN
 Nunca
 Nodo
+NAND
+NOR
 MORE
 MYk
 MDD
@@ -13754,6 +13779,7 @@ Maxima
 Mejor
 Markov
 Mas
+Morgan
 OPTIONS
 OV
 OP
@@ -15907,6 +15933,8 @@ xfzg
 xhws
 xref
 xico
+xor
+xnor
 JyvZ
 JY
 JX
@@ -18333,6 +18361,7 @@ XgO
 Xwg
 XPo
 XRefStm
+XOR
 üav
 üN
 öV

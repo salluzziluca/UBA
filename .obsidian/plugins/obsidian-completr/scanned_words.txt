@@ -316,6 +316,7 @@ Little
 Linker
 Linking
 Leyes
+LSP
 subespacios
 subespacio
 se
@@ -801,6 +802,8 @@ sabemos
 sii
 sujetos
 sustituir
+subclases
+superclases
 vectoriales
 vectorial
 vacio
@@ -1641,6 +1644,9 @@ dim
 definidas
 dadas
 deproba
+derivar
+dulos
+detalles
 cumplir
 condiciones
 cartesianas
@@ -2270,6 +2276,9 @@ coef
 cjto
 cuan
 conunta
+crearse
+clientes
+concretas
 las
 la
 lo
@@ -3063,6 +3072,7 @@ esperado
 exepriment
 equivalencia
 expresiones
+extension
 adicionalmente
 alguna
 al
@@ -3542,6 +3552,9 @@ analizar
 afectar
 absorbente
 algebraicas
+alterar
+alguien
+abstracciones
 tres
 theta
 tiene
@@ -3940,6 +3953,7 @@ truncada
 truncamiento
 tona
 teoremateorema
+tocar
 Sea
 Si
 Superficie
@@ -4300,6 +4314,11 @@ Sucesi
 Simulacion
 Ser
 SON
+SOLID
+SRP
+Single
+Substitution
+Segregation
 un
 una
 usando
@@ -7011,6 +7030,7 @@ Coeficiente
 Correlaci
 Complemento
 Compuerta
+Closed
 Esf
 Entonces
 Esto
@@ -7697,6 +7717,9 @@ Inferencia
 Inversa
 IDEPENIENTES
 Involuci
+ISP
+Interface
+Inversion
 Triples
 Teorema
 Teoremas
@@ -8387,6 +8410,9 @@ Desigualdad
 Discreta
 Desvio
 Debe
+Deben
+DIP
+Dependency
 obtenemos
 orientaci
 orientable
@@ -9186,6 +9212,10 @@ mon
 marginales
 maxiterminos
 miniterminos
+motivo
+modificarla
+modificaci
+modularizar
 que
 queda
 quede
@@ -9800,6 +9830,7 @@ hijo
 hexa
 habia
 hardware
+haga
 image
 iria
 incluya
@@ -10177,6 +10208,10 @@ independeinte
 invarianza
 insesgado
 idempotencia
+instancias
+interfaces
+implementar
+implementaciones
 frontera
 flujo
 forma
@@ -10553,6 +10588,7 @@ frontend
 fetch
 flia
 fisher
+funcionamiento
 gira
 green
 gradiente
@@ -11916,6 +11952,7 @@ ALU
 Aleatoria
 Aplicacion
 Absorcion
+Ambos
 Final
 Flujo
 Fuerza
@@ -14102,6 +14139,8 @@ OSD
 OqK
 Ojy
 Orden
+OCP
+Open
 Una
 Un
 UI
@@ -15091,6 +15130,7 @@ Registros
 RISC
 Relocalizacion
 Recta
+Responsibility
 Ya
 YUV
 YLO
@@ -18079,6 +18119,7 @@ Bajo
 Buscar
 Bondad
 Bayes
+Basicamente
 äU
 äI
 äZ

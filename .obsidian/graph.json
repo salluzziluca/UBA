@@ -22,10 +22,31 @@
       }
     },
     {
-      "query": "path:fí",
+      "query": "path:\"Física I\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14138377
+      }
+    },
+    {
+      "query": "path:\"Física II\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14728201
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6757621765136719,
+  "scale": 0.0889892578125,
   "close": false
 }

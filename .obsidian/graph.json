@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Álgebra II\"  ",
@@ -67,7 +67,14 @@
       "query": "path:\"Organización de Datos\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 347094
+      }
+    },
+    {
+      "query": "path: \"Probabilidad y Estadística B\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -82,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.0889892578125,
-  "close": false
+  "close": true
 }

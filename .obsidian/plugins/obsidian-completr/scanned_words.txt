@@ -805,6 +805,8 @@ sustituir
 subclases
 superclases
 situaci
+startsWith
+split
 vectoriales
 vectorial
 vacio
@@ -1656,6 +1658,7 @@ detectadas
 declaradas
 declaralas
 dia
+date
 cumplir
 condiciones
 cartesianas
@@ -2292,6 +2295,8 @@ comunicar
 compilar
 capitulo
 cursor
+creation
+carpeta
 las
 la
 lo
@@ -2625,6 +2630,7 @@ logica
 lenguajes
 lanza
 lidiar
+let
 enunciadas
 en
 espacio
@@ -3581,6 +3587,7 @@ alguien
 abstracciones
 atrapadas
 atraparlas
+await
 tres
 theta
 tiene
@@ -3981,6 +3988,8 @@ tona
 teoremateorema
 tocar
 tratar
+titulo
+title
 Sea
 Si
 Superficie
@@ -5619,6 +5628,7 @@ provoca
 podr
 propias
 propios
+prompt
 br
 borde
 busco
@@ -6385,6 +6395,7 @@ restringida
 representando
 recibir
 runtime
+rename
 Volumen
 Variable
 Ver
@@ -7066,6 +7077,7 @@ Correlaci
 Complemento
 Compuerta
 Closed
+Capitulo
 Esf
 Entonces
 Esto
@@ -7758,6 +7770,7 @@ Involuci
 ISP
 Interface
 Inversion
+III
 Triples
 Teorema
 Teoremas
@@ -10638,6 +10651,7 @@ funcionamiento
 fue
 finalizacion
 facilita
+folder
 gira
 green
 gradiente
@@ -13526,6 +13540,7 @@ Nunca
 Nodo
 NAND
 NOR
+Nombre
 MORE
 MYk
 MDD
@@ -14527,6 +14542,7 @@ Umxo
 UCAy
 UVN
 Uniforme
+Untitle
 width
 wxTE
 wS
@@ -15459,6 +15475,7 @@ Yoiw
 YIMb
 Yoit
 Yuz
+YYYY
 Wronskiano
 WkpoNL
 WQsX

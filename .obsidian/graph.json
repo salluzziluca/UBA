@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Álgebra II\"  ",
@@ -25,14 +25,14 @@
       "query": "path:\"Física I\"  ",
       "color": {
         "a": 1,
-        "rgb": 14138377
+        "rgb": 11112468
       }
     },
     {
       "query": "path:\"Física II\"  ",
       "color": {
         "a": 1,
-        "rgb": 14728201
+        "rgb": 10915860
       }
     },
     {
@@ -96,5 +96,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.0889892578125,
-  "close": true
+  "close": false
 }

@@ -8464,6 +8464,7 @@ Debe
 Deben
 DIP
 Dependency
+Dise
 obtenemos
 orientaci
 orientable
@@ -12690,6 +12691,7 @@ Pero
 Param
 Prop
 Producto
+Principios
 Hipotesis
 HbgIcQAl
 HJM

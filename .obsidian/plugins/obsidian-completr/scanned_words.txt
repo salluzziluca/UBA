@@ -804,6 +804,7 @@ sujetos
 sustituir
 subclases
 superclases
+situaci
 vectoriales
 vectorial
 vacio
@@ -1164,6 +1165,8 @@ variabilidad
 variabes
 validez
 verdad
+viaja
+verificadas
 deben
 de
 diferenciales
@@ -1647,6 +1650,11 @@ deproba
 derivar
 dulos
 detalles
+detecta
+detect
+detectadas
+declaradas
+declaralas
 cumplir
 condiciones
 cartesianas
@@ -2279,6 +2287,8 @@ conunta
 crearse
 clientes
 concretas
+comunicar
+compilar
 las
 la
 lo
@@ -2609,6 +2619,9 @@ linker
 loader
 levantar
 logica
+lenguajes
+lanza
+lidiar
 enunciadas
 en
 espacio
@@ -3073,6 +3086,14 @@ exepriment
 equivalencia
 expresiones
 extension
+excepci
+entorno
+excepciones
+estado
+especiales
+env
+extienden
+exception
 adicionalmente
 alguna
 al
@@ -3555,6 +3576,8 @@ algebraicas
 alterar
 alguien
 abstracciones
+atrapadas
+atraparlas
 tres
 theta
 tiene
@@ -3954,6 +3977,7 @@ truncamiento
 tona
 teoremateorema
 tocar
+tratar
 Sea
 Si
 Superficie
@@ -5030,6 +5054,7 @@ nico
 nor
 nand
 negada
+negocio
 pertenecen
 pertenece
 pi
@@ -5587,6 +5612,10 @@ pit
 pendiente
 promedio
 ponderado
+provoca
+podr
+propias
+propios
 br
 borde
 busco
@@ -6351,6 +6380,8 @@ rico
 reconstruir
 restringida
 representando
+recibir
+runtime
 Volumen
 Variable
 Ver
@@ -6667,6 +6698,7 @@ VBRn
 VgP
 Verosimilitud
 VAX
+Verificadas
 Cartesianas
 Cil
 Cambios
@@ -7371,6 +7403,9 @@ Estimamos
 ECM
 Exponencial
 Esperanza
+Excepci
+Excepciones
+Exception
 Integrales
 Importantes
 Igualo
@@ -9216,6 +9251,11 @@ motivo
 modificarla
 modificaci
 modularizar
+mala
+mbito
+manera
+mbitos
+manejo
 que
 queda
 quede
@@ -9831,6 +9871,7 @@ hexa
 habia
 hardware
 haga
+habitualmente
 image
 iria
 incluya
@@ -10212,6 +10253,8 @@ instancias
 interfaces
 implementar
 implementaciones
+invocado
+identidad
 frontera
 flujo
 forma
@@ -10589,6 +10632,9 @@ fetch
 flia
 fisher
 funcionamiento
+fue
+finalizacion
+facilita
 gira
 green
 gradiente

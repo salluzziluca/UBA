@@ -50,10 +50,24 @@
       }
     },
     {
-      "query": "path:\"Algoritmos y Programación II\"  ",
+      "query": "path:\"Algoritmos y Programación III\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 8394198
+      }
+    },
+    {
+      "query": "path:\"Estructura del Computador\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10375485
+      }
+    },
+    {
+      "query": "path:\"Organización de Datos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],

@@ -8616,6 +8616,7 @@ DGC
 DkPU
 DLa
 DGG
+Defiinimos
 obtenemos
 orientaci
 orientable
@@ -9437,6 +9438,8 @@ mqZ
 mCM
 mWr
 mKf
+mezcladora
+mezclas
 que
 queda
 quede
@@ -14146,6 +14149,7 @@ MDC
 MWA
 MIW
 MiZ
+Mezcladora
 OPTIONS
 OV
 OP

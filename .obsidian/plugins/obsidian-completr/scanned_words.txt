@@ -2681,6 +2681,7 @@ ldn
 lCXy
 lCL
 lWm
+listop
 enunciadas
 en
 espacio
@@ -4059,6 +4060,7 @@ tsilB
 tkY
 tWj
 tKw
+transformacion
 Sea
 Si
 Superficie
@@ -7550,6 +7552,8 @@ EsQ
 Erd
 Ebs
 EVV
+Estandarizacion
+Estandarizar
 Integrales
 Importantes
 Igualo
@@ -10460,6 +10464,8 @@ iBEj
 iwCg
 iVR
 iqD
+implica
+independencia
 frontera
 flujo
 forma

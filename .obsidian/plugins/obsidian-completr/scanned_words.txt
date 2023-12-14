@@ -316,6 +316,7 @@ Little
 Linker
 Linking
 Localidad
+Laplace
 subespacios
 subespacio
 se
@@ -799,6 +800,7 @@ simular
 signo
 sabemos
 sii
+seguir
 vectoriales
 vectorial
 vacio
@@ -2276,6 +2278,7 @@ correspondena
 chances
 cercana
 cach
+caras
 las
 la
 lo
@@ -3072,6 +3075,7 @@ esperado
 exepriment
 espacial
 especializado
+equiprobable
 adicionalmente
 alguna
 al
@@ -6341,6 +6345,7 @@ rico
 reconstruir
 restringida
 rapida
+realizo
 Volumen
 Variable
 Ver
@@ -7021,6 +7026,7 @@ Correlaci
 Cach
 Cache
 Combinacion
+Contiene
 Esf
 Entonces
 Esto
@@ -7363,6 +7369,9 @@ Exponencial
 Esperanza
 Estandarizacion
 Estandarizar
+Experimento
+Eventos
+Elementales
 Integrales
 Importantes
 Igualo
@@ -9197,6 +9206,7 @@ mon
 marginales
 mem
 multinivel
+muestras
 que
 queda
 quede
@@ -10189,6 +10199,8 @@ invarianza
 insesgado
 implica
 independencia
+irreductibles
+impares
 frontera
 flujo
 forma
@@ -12240,6 +12252,7 @@ FGtB
 Familia
 Familias
 Factorizaci
+Frecuencia
 Potencial
 Para
 Punto
@@ -15099,6 +15112,7 @@ Registros
 RISC
 Relocalizacion
 Recta
+Relativa
 Ya
 YUV
 YLO

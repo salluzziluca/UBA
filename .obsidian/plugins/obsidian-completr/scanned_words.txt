@@ -315,6 +315,7 @@ Localizaci
 Little
 Linker
 Linking
+Localidad
 subespacios
 subespacio
 se
@@ -1156,6 +1157,7 @@ visibles
 verdaderos
 variabilidad
 variabes
+vecina
 deben
 de
 diferenciales
@@ -1636,6 +1638,10 @@ dim
 definidas
 dadas
 deproba
+direc
+direct
+dividida
+devuelvo
 cumplir
 condiciones
 cartesianas
@@ -2265,6 +2271,10 @@ coef
 cjto
 cuan
 conunta
+correspondena
+chances
+cercana
+cach
 las
 la
 lo
@@ -2595,6 +2605,8 @@ linker
 loader
 levantar
 logica
+localidad
+lento
 enunciadas
 en
 espacio
@@ -3056,6 +3068,8 @@ encontre
 esperanzas
 esperado
 exepriment
+espacial
+especializado
 adicionalmente
 alguna
 al
@@ -3532,6 +3546,8 @@ armamos
 ayude
 acumulan
 analizar
+acceso
+aciertos
 tres
 theta
 tiene
@@ -3930,6 +3946,7 @@ truncada
 truncamiento
 tona
 teoremateorema
+temporal
 Sea
 Si
 Superficie
@@ -5554,6 +5571,7 @@ pit
 pendiente
 promedio
 ponderado
+posicionbuscada
 br
 borde
 busco
@@ -5907,6 +5925,8 @@ biunivoca
 biscamos
 basada
 bidimensional
+bloques
+bloque
 ricas
 respectivamente
 recorre
@@ -6317,6 +6337,7 @@ resultar
 rico
 reconstruir
 restringida
+rapida
 Volumen
 Variable
 Ver
@@ -6994,6 +7015,8 @@ Covarianza
 Cov
 Coeficiente
 Correlaci
+Cach
+Cache
 Esf
 Entonces
 Esto
@@ -9166,6 +9189,8 @@ media
 min
 mon
 marginales
+mem
+multinivel
 que
 queda
 quede
@@ -13754,6 +13779,7 @@ Maxima
 Mejor
 Markov
 Mas
+Muy
 OPTIONS
 OV
 OP

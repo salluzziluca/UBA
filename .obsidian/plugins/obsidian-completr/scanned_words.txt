@@ -1158,6 +1158,7 @@ verdaderos
 variabilidad
 variabes
 vecina
+varibles
 deben
 de
 diferenciales
@@ -2607,6 +2608,7 @@ levantar
 logica
 localidad
 lento
+listop
 enunciadas
 en
 espacio
@@ -3947,6 +3949,7 @@ truncamiento
 tona
 teoremateorema
 temporal
+transformacion
 Sea
 Si
 Superficie
@@ -7017,6 +7020,7 @@ Coeficiente
 Correlaci
 Cach
 Cache
+Combinacion
 Esf
 Entonces
 Esto
@@ -7357,6 +7361,8 @@ Estimamos
 ECM
 Exponencial
 Esperanza
+Estandarizacion
+Estandarizar
 Integrales
 Importantes
 Igualo
@@ -10181,6 +10187,8 @@ iid
 independeinte
 invarianza
 insesgado
+implica
+independencia
 frontera
 flujo
 forma

@@ -18,7 +18,7 @@ Un sistema de comunicacin de transferencia de datos, un solo cable sale de la PC
 
 Esto, sumada a la arquitectura von neumann![[Pasted image 20240113191233.png]]
 el objetivo de este bus es reducir la interconeccion entre el CPU y sus subsistemas. 
-address bus se utiliza, por ejemplo, para que el procesador avise que dispositivo levantar. 
+No todos los componentes estan contectados de igual manera a los buses, el CPU envia direcciones que son recibidas por la memoria o por el IO, pero nunca va a recibir direcciones. 
 
 Otro modelo de buses, con buses independientes
 ![[Pasted image 20231107181939.png]]

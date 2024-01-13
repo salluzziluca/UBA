@@ -51,7 +51,10 @@ The shift instructions shift the contents of one register into another. The srl 
 ![[Pasted image 20231203125126.png]]
 # Registros
 ![[Pasted image 20231017171718.png]]
-El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
+El %r15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
+
+PSR = Processor State Register 
+PC = Program Counter
 
 ## Sintaxis
 ![[Pasted image 20231129171450.png]]

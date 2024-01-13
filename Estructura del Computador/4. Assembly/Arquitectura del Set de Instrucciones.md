@@ -51,13 +51,14 @@ The shift instructions shift the contents of one register into another. The srl 
 ![[Pasted image 20231203125126.png]]
 # Registros
 ![[Pasted image 20231017171718.png]]
-El %r15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
+El %r15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El %r14 la posición de la pila
 
 PSR = Processor State Register 
 PC = Program Counter
 
 ## Sintaxis
 ![[Pasted image 20231129171450.png]]
+Operands in an assembly language statement are separated by commas, and the destination operand always appears in the rightmost position in the operand field. Thus, the example shown in Figure 4-8 specifies adding registers %r1 and %r2, with the result placed in %r3. If %r0 appears in the destination operand field instead of %r3, the result is discarded. The default base for a numeric operand is 10, so the assembly language statement: 
 ```asm
 lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 ```

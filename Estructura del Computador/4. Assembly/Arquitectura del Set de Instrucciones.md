@@ -38,7 +38,7 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 $2048 \ hasta \ (2^{31}-4)$ Memoria de usuario: Memoria ocupada por codigo de maquina y variables.  system stack
 $2^{31} \ hasta \ 2^{32}-1$ I/O
 
-de $0 \ hasta \ 2^{32}-4$ RAM.
+>It is important to keep the distinction clear between what is an address and what is data. An address in this example memory is 32 bits wide, and a word is also 32 bits wide, but they are not the same thing. An address is a pointer to a memory location, which holds data. 
 
 
 ## Algunas instrucciones de ARC 

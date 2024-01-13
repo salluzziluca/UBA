@@ -17,7 +17,8 @@ Un sistema de comunicacin de transferencia de datos, un solo cable sale de la PC
 ![[Pasted image 20231107180626.png]]
 
 Esto, sumada a la arquitectura von neumann![[Pasted image 20240113191233.png]]
-El procesador avisa mediante el address bus que dispositivo levantar
+el objetivo de este bus es reducir la interconeccion entre el CPU y sus su
+address bus se utiliza, por ejemplo, para que el procesador avise que dispositivo levantar
 
 Otro modelo de buses, con buses independientes
 ![[Pasted image 20231107181939.png]]

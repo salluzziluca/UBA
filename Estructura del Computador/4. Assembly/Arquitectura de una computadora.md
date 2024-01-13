@@ -17,7 +17,7 @@ Un sistema de comunicacin de transferencia de datos, un solo cable sale de la PC
 ![[Pasted image 20231107180626.png]]
 
 Esto, sumada a la arquitectura von neumann
-![[Pasted image 20231107180912.png]]
+
 El procesador avisa mediante el address bus que dispositivo levantar
 
 Otro modelo de buses, con buses independientes

@@ -46,6 +46,7 @@ $2^{31} \ hasta \ 2^{32}-1$ I/O
 si  dice `cc` es porque altera los flags
 el branch always y el call son conceptualmente diferentes, el `call` se utiliza para una subrutina, guardando la posición actual para luego volver utilizando `jpml` 
 Para acceder a memoria, utilizo `ld %rn`, de esa forma le estoy diciendo al programa que acceda a la dirección `rn` en memoria. Es decir, si en `rn` yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
+The shift instructions shift the contents of one register into another. The srl (shift right logical) instruction shifts a register to the right, and copies zeros into the leftmost bit(s)
 
 ![[Pasted image 20231203125126.png]]
 # Registros

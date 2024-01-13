@@ -822,6 +822,9 @@ sRHv
 sKy
 sxe
 syB
+separadamente
+shifter
+sumadores
 vectoriales
 vectorial
 vacio
@@ -1193,6 +1196,8 @@ vkb
 vkc
 vIk
 varibles
+visible
+vease
 deben
 de
 diferenciales
@@ -1694,6 +1699,9 @@ dkXL
 dys
 dVb
 direcci
+dispositivos
+describe
+desplazamiento
 cumplir
 condiciones
 cartesianas
@@ -2343,6 +2351,10 @@ cCt
 cggl
 convenci
 cargo
+computadora
+computadoras
+comparten
+consulta
 las
 la
 lo
@@ -3163,6 +3175,11 @@ eÖ
 edq
 eWm
 estoy
+ensamblados
+ejectuar
+electrodom
+enviada
+encarga
 adicionalmente
 alguna
 al
@@ -3658,6 +3675,9 @@ aPq
 aOc
 amw
 avanzo
+arqui
+almacenamiento
+aspectos
 tres
 theta
 tiene
@@ -4808,6 +4828,7 @@ utoG
 ukS
 uCV
 utilizada
+ubicaci
 no
 ndricas
 nulo
@@ -5734,6 +5755,10 @@ ppp
 position
 positions
 perifericos
+primeras
+programado
+programar
+puertos
 br
 borde
 busco
@@ -6090,6 +6115,8 @@ bidimensional
 byfq
 bGI
 bCZ
+basicamente
+barrel
 ricas
 respectivamente
 recorre
@@ -6515,6 +6542,7 @@ rKt
 rNZEl
 rCc
 remember
+restadores
 Volumen
 Variable
 Ver
@@ -6844,6 +6872,7 @@ Vtz
 Vbhh
 VEQ
 VLI
+Von
 Cartesianas
 Cil
 Cambios
@@ -7217,6 +7246,7 @@ CNN
 Cxp
 CHy
 Combinacion
+Control
 Esf
 Entonces
 Esto
@@ -8282,6 +8312,7 @@ TrQj
 TSH
 TNd
 TuS
+Transmite
 Dejando
 DEN
 De
@@ -8634,6 +8665,7 @@ DkPU
 DLa
 DGG
 Defiinimos
+Desplazamientos
 obtenemos
 orientaci
 orientable
@@ -9457,6 +9489,8 @@ mWr
 mKf
 mezcladora
 mezclas
+mbolos
+modulos
 que
 queda
 quede
@@ -9758,6 +9792,7 @@ qdi
 qpQ
 qOk
 qzs
+quina
 hasta
 hacia
 hay
@@ -10478,6 +10513,8 @@ iVR
 iqD
 implica
 independencia
+instrucci
+identifica
 frontera
 flujo
 forma
@@ -10873,6 +10910,9 @@ fFF
 fru
 fXd
 fVPP
+fueron
+fisico
+facil
 gira
 green
 gradiente
@@ -12266,6 +12306,7 @@ Agmm
 Ajm
 AdsQ
 Az
+Adress
 Final
 Flujo
 Fuerza
@@ -12586,6 +12627,7 @@ Fqw
 FpVc
 Fgd
 FXR
+Formato
 Potencial
 Para
 Punto
@@ -13251,6 +13293,7 @@ HQh
 HjVL
 HZb
 HB
+Harvard
 ya
 yRZ
 yD
@@ -13823,6 +13866,7 @@ NnF
 Nnff
 Ndb
 NlR
+Neumann
 MORE
 MYk
 MDD
@@ -14170,6 +14214,8 @@ MWA
 MIW
 MiZ
 Mezcladora
+Microprocesador
+Microinstrucciones
 OPTIONS
 OV
 OP
@@ -14849,6 +14895,7 @@ Ubo
 UjS
 UhT
 UTD
+Utiliza
 width
 wxTE
 wS
@@ -15515,6 +15562,7 @@ RlUP
 RJag
 RagWF
 RIy
+Responde
 Ya
 YUV
 YLO
@@ -18572,6 +18620,7 @@ Bog
 BxO
 BRQ
 BTz
+Bus
 äU
 äI
 äZ

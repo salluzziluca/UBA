@@ -40,7 +40,7 @@ $2^{31} \ hasta \ 2^{32}-1$ I/O
 
 >It is important to keep the distinction clear between what is an address and what is data. An address in this example memory is 32 bits wide, and a word is also 32 bits wide, but they are not the same thing. An address is a pointer to a memory location, which holds data. 
 
-
+ 
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
 si  dice `cc` es porque altera los flags

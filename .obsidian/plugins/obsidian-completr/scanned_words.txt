@@ -1693,6 +1693,7 @@ dsq
 dkXL
 dys
 dVb
+direcci
 cumplir
 condiciones
 cartesianas
@@ -2340,6 +2341,8 @@ cpe
 cWm
 cCt
 cggl
+convenci
+cargo
 las
 la
 lo
@@ -3159,6 +3162,7 @@ eOzU
 eÖ
 edq
 eWm
+estoy
 adicionalmente
 alguna
 al
@@ -3653,6 +3657,7 @@ aNwWwUfJJI
 aPq
 aOc
 amw
+avanzo
 tres
 theta
 tiene
@@ -4802,6 +4807,7 @@ uWm
 utoG
 ukS
 uCV
+utilizada
 no
 ndricas
 nulo
@@ -5727,6 +5733,7 @@ pKnA
 ppp
 position
 positions
+perifericos
 br
 borde
 busco

@@ -42,6 +42,7 @@ $2^{31} \ hasta \ 2^{32}-1$ I/O
 
  
 ## Algunas instrucciones de ARC 
+todas es
 ![[Pasted image 20231017170626.png]]
 si  dice `cc` es porque altera los flags
 el branch always y el call son conceptualmente diferentes, el `call` se utiliza para una subrutina, guardando la posición actual para luego volver utilizando `jpml` 

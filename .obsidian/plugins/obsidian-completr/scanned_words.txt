@@ -825,6 +825,7 @@ syB
 separadamente
 shifter
 sumadores
+same
 vectoriales
 vectorial
 vacio
@@ -1702,6 +1703,7 @@ direcci
 dispositivos
 describe
 desplazamiento
+distinction
 cumplir
 condiciones
 cartesianas
@@ -2355,6 +2357,7 @@ computadora
 computadoras
 comparten
 consulta
+clear
 las
 la
 lo
@@ -2698,6 +2701,7 @@ lCXy
 lCL
 lWm
 listop
+location
 enunciadas
 en
 espacio
@@ -3180,6 +3184,7 @@ ejectuar
 electrodom
 enviada
 encarga
+example
 adicionalmente
 alguna
 al
@@ -3678,6 +3683,8 @@ avanzo
 arqui
 almacenamiento
 aspectos
+also
+are
 tres
 theta
 tiene
@@ -4087,6 +4094,8 @@ tkY
 tWj
 tKw
 transformacion
+they
+thing
 Sea
 Si
 Superficie
@@ -5182,6 +5191,7 @@ nVaGb
 nWV
 nbK
 nwx
+not
 pertenecen
 pertenece
 pi
@@ -5759,6 +5769,7 @@ primeras
 programado
 programar
 puertos
+pointer
 br
 borde
 busco
@@ -6117,6 +6128,8 @@ bGI
 bCZ
 basicamente
 barrel
+between
+but
 ricas
 respectivamente
 recorre
@@ -9491,6 +9504,7 @@ mezcladora
 mezclas
 mbolos
 modulos
+memory
 que
 queda
 quede
@@ -10120,6 +10134,7 @@ hCw
 hlW
 hvk
 hhG
+holds
 image
 iria
 incluya
@@ -10515,6 +10530,7 @@ implica
 independencia
 instrucci
 identifica
+important
 frontera
 flujo
 forma
@@ -15206,6 +15222,10 @@ wqk
 wzrt
 wSw
 wOR
+what
+wide
+word
+which
 Recordemos
 RA
 RF
@@ -17687,6 +17707,7 @@ kQq
 klW
 kKB
 kYU
+keep
 Qa
 Qe
 QUU

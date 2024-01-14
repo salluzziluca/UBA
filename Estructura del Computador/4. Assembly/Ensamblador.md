@@ -23,3 +23,7 @@ Cuando llega la hora de cargar al programa, si el sistema tiene multitasking el 
 
 finalmente:
 ![[Pasted image 20231130093459.png]]
+
+
+### DLL  
+> the concept has a number of attractive features. Commonly used routines such as memory management or graphics packages need be present at only one place, the DLL library. This results in smaller program sizes because each program does not need to have its own copy of the DLL code, as would otherwise be needed. All programs share the exact same code, even while simultaneously executing.

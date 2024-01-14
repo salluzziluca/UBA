@@ -327,6 +327,8 @@ LxP
 LSOk
 LIoW
 LBp
+Localidad
+Logica
 subespacios
 subespacio
 se
@@ -835,6 +837,13 @@ shown
 specifies
 subsistemas
 stored
+simplificacion
+solamente
+software
+secuencialmente
+sincronicos
+sincronizadamente
+seran
 vectoriales
 vectorial
 vacio
@@ -1208,6 +1217,9 @@ vIk
 varibles
 visible
 vease
+vecina
+valen
+valgan
 deben
 de
 diferenciales
@@ -1715,6 +1727,12 @@ desplazamiento
 distinction
 destination
 discarded
+direc
+direct
+dividida
+devuelvo
+dejaria
+dont
 cumplir
 condiciones
 cartesianas
@@ -2376,6 +2394,15 @@ componentes
 contectados
 conexiones
 consideration
+correspondena
+chances
+cercana
+cach
+combinacional
+care
+contadores
+clock
+corespondiente
 las
 la
 lo
@@ -2724,6 +2751,9 @@ logical
 leftmost
 language
 loaded
+localidad
+lento
+limites
 enunciadas
 en
 espacio
@@ -3210,6 +3240,13 @@ example
 envia
 executed
 even
+espacial
+especializado
+expresion
+efectivamente
+escencial
+estados
+entradas
 adicionalmente
 alguna
 al
@@ -3715,6 +3752,13 @@ assembly
 appears
 adding
 all
+acceso
+aciertos
+asegura
+adyacentes
+abarquen
+apropiado
+avanza
 tres
 theta
 tiene
@@ -4128,6 +4172,9 @@ they
 thing
 that
 though
+temporal
+tabular
+transiciones
 Sea
 Si
 Superficie
@@ -4499,6 +4546,7 @@ SIcW
 SNu
 SPZ
 State
+Suponiendo
 un
 una
 usando
@@ -4871,6 +4919,7 @@ ukS
 uCV
 utilizada
 ubicaci
+utilizamos
 no
 ndricas
 nulo
@@ -5226,6 +5275,8 @@ nbK
 nwx
 not
 numeric
+necesite
+necesaria
 pertenecen
 pertenece
 pi
@@ -5805,6 +5856,11 @@ programar
 puertos
 pointer
 placed
+posicionbuscada
+puro
+pocas
+pegados
+primos
 br
 borde
 busco
@@ -6167,6 +6223,8 @@ between
 but
 bit
 back
+bloques
+bloque
 ricas
 respectivamente
 recorre
@@ -6601,6 +6659,8 @@ result
 reducir
 recibidas
 results
+rapida
+recibe
 Volumen
 Variable
 Ver
@@ -7306,6 +7366,10 @@ CHy
 Combinacion
 Control
 Counter
+Cach
+Cache
+Contadores
+Cuenta
 Esf
 Entonces
 Esto
@@ -7655,6 +7719,7 @@ Ebs
 EVV
 Estandarizacion
 Estandarizar
+Estado
 Integrales
 Importantes
 Igualo
@@ -8015,6 +8080,7 @@ IDATV
 IIL
 IGG
 INDEPENIENTES
+Implicante
 Triples
 Teorema
 Teoremas
@@ -8727,6 +8793,7 @@ DLa
 DGG
 Defiinimos
 Desplazamientos
+Dependiendo
 obtenemos
 orientaci
 orientable
@@ -9115,6 +9182,7 @@ oHJJ
 ocurren
 one
 operand
+organiza
 mide
 mas
 mediante
@@ -9558,6 +9626,9 @@ modulos
 memory
 means
 must
+mem
+multinivel
+minivalores
 que
 queda
 quede
@@ -9860,6 +9931,7 @@ qpQ
 qOk
 qzs
 quina
+quine
 hasta
 hacia
 hay
@@ -10590,6 +10662,11 @@ instead
 interconeccion
 inside
 initially
+implicantes
+implementarlo
+impone
+impresora
+internamente
 frontera
 flujo
 forma
@@ -10990,6 +11067,11 @@ fisico
 facil
 field
 from
+fiable
+formal
+fico
+factor
+flipflops
 gira
 green
 gradiente
@@ -12384,6 +12466,9 @@ Ajm
 AdsQ
 Az
 Adress
+Algebraico
+Aquel
+Actual
 Final
 Flujo
 Fuerza
@@ -13074,6 +13159,7 @@ PYO
 PQZ
 PSR
 Processor
+Proximo
 Hipotesis
 HbgIcQAl
 HJM
@@ -14296,6 +14382,9 @@ MiZ
 Mezcladora
 Microprocesador
 Microinstrucciones
+Muy
+Metodos
+McCluskey
 OPTIONS
 OV
 OP
@@ -15648,6 +15737,10 @@ RJag
 RagWF
 RIy
 Responde
+Represento
+Relleno
+Redondeo
+REsulta
 Ya
 YUV
 YLO
@@ -17471,6 +17564,7 @@ KcrS
 KKl
 Kny
 KAgfC
+Karnaugh
 kt
 ku
 kSe

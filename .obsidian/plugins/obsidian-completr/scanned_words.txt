@@ -833,6 +833,8 @@ statement
 separated
 shown
 specifies
+subsistemas
+stored
 vectoriales
 vectorial
 vacio
@@ -2370,6 +2372,10 @@ clear
 contents
 copies
 commas
+componentes
+contectados
+conexiones
+consideration
 las
 la
 lo
@@ -2717,6 +2723,7 @@ location
 logical
 leftmost
 language
+loaded
 enunciadas
 en
 espacio
@@ -3200,6 +3207,9 @@ electrodom
 enviada
 encarga
 example
+envia
+executed
+even
 adicionalmente
 alguna
 al
@@ -3704,6 +3714,7 @@ another
 assembly
 appears
 adding
+all
 tres
 theta
 tiene
@@ -4115,6 +4126,8 @@ tKw
 transformacion
 they
 thing
+that
+though
 Sea
 Si
 Superficie
@@ -6153,6 +6166,7 @@ barrel
 between
 but
 bit
+back
 ricas
 respectivamente
 recorre
@@ -6584,6 +6598,9 @@ right
 rightmost
 registers
 result
+reducir
+recibidas
+results
 Volumen
 Variable
 Ver
@@ -9539,6 +9556,8 @@ mezclas
 mbolos
 modulos
 memory
+means
+must
 que
 queda
 quede
@@ -10568,6 +10587,9 @@ important
 instructions
 into
 instead
+interconeccion
+inside
+initially
 frontera
 flujo
 forma
@@ -10967,6 +10989,7 @@ fueron
 fisico
 facil
 field
+from
 gira
 green
 gradiente

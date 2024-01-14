@@ -826,6 +826,13 @@ separadamente
 shifter
 sumadores
 same
+shift
+srl
+shifts
+statement
+separated
+shown
+specifies
 vectoriales
 vectorial
 vacio
@@ -1704,6 +1711,8 @@ dispositivos
 describe
 desplazamiento
 distinction
+destination
+discarded
 cumplir
 condiciones
 cartesianas
@@ -2358,6 +2367,9 @@ computadoras
 comparten
 consulta
 clear
+contents
+copies
+commas
 las
 la
 lo
@@ -2702,6 +2714,9 @@ lCL
 lWm
 listop
 location
+logical
+leftmost
+language
 enunciadas
 en
 espacio
@@ -3685,6 +3700,10 @@ almacenamiento
 aspectos
 also
 are
+another
+assembly
+appears
+adding
 tres
 theta
 tiene
@@ -4466,6 +4485,7 @@ SWr
 SIcW
 SNu
 SPZ
+State
 un
 una
 usando
@@ -5192,6 +5212,7 @@ nWV
 nbK
 nwx
 not
+numeric
 pertenecen
 pertenece
 pi
@@ -5770,6 +5791,7 @@ programado
 programar
 puertos
 pointer
+placed
 br
 borde
 busco
@@ -6130,6 +6152,7 @@ basicamente
 barrel
 between
 but
+bit
 ricas
 respectivamente
 recorre
@@ -6556,6 +6579,11 @@ rNZEl
 rCc
 remember
 restadores
+register
+right
+rightmost
+registers
+result
 Volumen
 Variable
 Ver
@@ -7260,6 +7288,7 @@ Cxp
 CHy
 Combinacion
 Control
+Counter
 Esf
 Entonces
 Esto
@@ -8326,6 +8355,8 @@ TSH
 TNd
 TuS
 Transmite
+The
+Thus
 Dejando
 DEN
 De
@@ -9065,6 +9096,8 @@ okG
 ovt
 oHJJ
 ocurren
+one
+operand
 mide
 mas
 mediante
@@ -10532,6 +10565,9 @@ independencia
 instrucci
 identifica
 important
+instructions
+into
+instead
 frontera
 flujo
 forma
@@ -10930,6 +10966,7 @@ fVPP
 fueron
 fisico
 facil
+field
 gira
 green
 gradiente
@@ -12645,6 +12682,7 @@ FpVc
 Fgd
 FXR
 Formato
+Figure
 Potencial
 Para
 Punto
@@ -13011,6 +13049,8 @@ PSA
 PDW
 PYO
 PQZ
+PSR
+Processor
 Hipotesis
 HbgIcQAl
 HJM
@@ -14563,6 +14603,7 @@ OqO
 Ocf
 ORH
 Ogf
+Operands
 Una
 Un
 UI
@@ -18336,6 +18377,7 @@ zNsQ
 zFb
 zhY
 zmW
+zeros
 Be
 BZ
 BD

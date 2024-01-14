@@ -16,7 +16,7 @@ Si yo tengo más de un modulo (ej main y pepe), aunque ambos digan `org 2048` el
 de esa forma crea el paquete con todo ordenado sin que se pise
 
 ![[Pasted image 20231130093031.png]]
-En el ejemplo de arriba, el valor de ONE no puede ser modificado, ya que con la instruccion .equ estamos pidiendo que ONE valga siempre 1. Es por eso que no es relocaliza
+En el ejemplo de arriba, el valor de ONE no puede ser modificado, ya que con la instruccion .equ estamos pidiendo que ONE valga siempre 1. Es por eso que no es relocalizable
 # Linking loader
 Cuando llega la hora de cargar al programa, si el sistema tiene multitasking el compilador tiene que ver donde hay espacio libre, dificilmente empiece en el 2048, asi que tiene que volver a relocalizar todas las etiquetas
 

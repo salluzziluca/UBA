@@ -844,6 +844,11 @@ secuencialmente
 sincronicos
 sincronizadamente
 seran
+such
+smaller
+sizes
+share
+simultaneously
 vectoriales
 vectorial
 vacio
@@ -1220,6 +1225,7 @@ vease
 vecina
 valen
 valgan
+valga
 deben
 de
 diferenciales
@@ -1733,6 +1739,7 @@ dividida
 devuelvo
 dejaria
 dont
+does
 cumplir
 condiciones
 cartesianas
@@ -2403,6 +2410,9 @@ care
 contadores
 clock
 corespondiente
+concept
+copy
+code
 las
 la
 lo
@@ -2754,6 +2764,7 @@ loaded
 localidad
 lento
 limites
+library
 enunciadas
 en
 espacio
@@ -3247,6 +3258,9 @@ efectivamente
 escencial
 estados
 entradas
+equ
+exact
+executing
 adicionalmente
 alguna
 al
@@ -3759,6 +3773,7 @@ adyacentes
 abarquen
 apropiado
 avanza
+attractive
 tres
 theta
 tiene
@@ -4920,6 +4935,7 @@ uCV
 utilizada
 ubicaci
 utilizamos
+used
 no
 ndricas
 nulo
@@ -5277,6 +5293,9 @@ not
 numeric
 necesite
 necesaria
+number
+need
+needed
 pertenecen
 pertenece
 pi
@@ -5861,6 +5880,12 @@ puro
 pocas
 pegados
 primos
+pidiendo
+packages
+present
+place
+program
+programs
 br
 borde
 busco
@@ -6225,6 +6250,7 @@ bit
 back
 bloques
 bloque
+because
 ricas
 respectivamente
 recorre
@@ -6661,6 +6687,9 @@ recibidas
 results
 rapida
 recibe
+registran
+relocalizable
+routines
 Volumen
 Variable
 Ver
@@ -7370,6 +7399,7 @@ Cach
 Cache
 Contadores
 Cuenta
+Commonly
 Esf
 Entonces
 Esto
@@ -8794,6 +8824,7 @@ DGG
 Defiinimos
 Desplazamientos
 Dependiendo
+DLL
 obtenemos
 orientaci
 orientable
@@ -9183,6 +9214,9 @@ ocurren
 one
 operand
 organiza
+only
+own
+otherwise
 mide
 mas
 mediante
@@ -9629,6 +9663,8 @@ must
 mem
 multinivel
 minivalores
+modificado
+management
 que
 queda
 quede
@@ -10260,6 +10296,8 @@ hlW
 hvk
 hhG
 holds
+has
+have
 image
 iria
 incluya
@@ -10667,6 +10705,7 @@ implementarlo
 impone
 impresora
 internamente
+its
 frontera
 flujo
 forma
@@ -11422,6 +11461,7 @@ gaJ
 gmd
 gDX
 gNwl
+graphics
 Gauss
 Green
 GC
@@ -12469,6 +12509,7 @@ Adress
 Algebraico
 Aquel
 Actual
+All
 Final
 Flujo
 Fuerza
@@ -14716,6 +14757,7 @@ Ocf
 ORH
 Ogf
 Operands
+ONE
 Una
 Un
 UI
@@ -15380,6 +15422,8 @@ what
 wide
 word
 which
+would
+while
 Recordemos
 RA
 RF

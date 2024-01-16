@@ -329,6 +329,7 @@ LIoW
 LBp
 Localidad
 Logica
+Lista
 subespacios
 subespacio
 se
@@ -852,6 +853,8 @@ simultaneously
 sumando
 sucesivamente
 spanning
+sumo
+salen
 vectoriales
 vectorial
 vacio
@@ -1233,6 +1236,8 @@ visitar
 visita
 visitados
 visitado
+vertices
+vertice
 deben
 de
 diferenciales
@@ -1751,6 +1756,11 @@ dijkstra
 distintos
 directos
 directamente
+dirigido
+dirigidos
+denso
+disperso
+diagonal
 cumplir
 condiciones
 cartesianas
@@ -2431,6 +2441,10 @@ calculada
 conocidos
 cortos
 concatenando
+conectan
+cualquiera
+clico
+combinamos
 las
 la
 lo
@@ -2785,6 +2799,9 @@ limites
 library
 lleg
 liviana
+lazo
+ltiples
+lazos
 enunciadas
 en
 espacio
@@ -3284,6 +3301,9 @@ executing
 encara
 elige
 elegir
+empezando
+entran
+enlazada
 adicionalmente
 alguna
 al
@@ -3807,6 +3827,9 @@ agarro
 agrego
 agregamos
 armas
+aquel
+aritas
+adyacencia
 tres
 theta
 tiene
@@ -4227,6 +4250,9 @@ ten
 topol
 tree
 tenes
+transitar
+terminando
+toque
 Sea
 Si
 Superficie
@@ -4977,6 +5003,8 @@ used
 unen
 uniendo
 ultima
+unidireccional
+utiles
 no
 ndricas
 nulo
@@ -5338,6 +5366,7 @@ number
 need
 needed
 nuevos
+nicamente
 pertenecen
 pertenece
 pi
@@ -5931,6 +5960,9 @@ programs
 pesos
 pesado
 pasando
+penalizacion
+poseen
+paradas
 br
 borde
 busco
@@ -6296,6 +6328,7 @@ back
 bloques
 bloque
 because
+bidireccionales
 ricas
 respectivamente
 recorre
@@ -6739,6 +6772,10 @@ rtice
 rtices
 recorrelo
 reemplazamos
+recorrer
+registra
+respetamos
+representar
 Volumen
 Variable
 Ver
@@ -7453,6 +7490,10 @@ Contadores
 Cuenta
 Commonly
 Comparamos
+Camino
+CUALQUIERA
+Componente
+Conexa
 Esf
 Entonces
 Esto
@@ -8883,6 +8924,7 @@ DLL
 DFS
 Depth
 Dijkstra
+Dicho
 obtenemos
 orientaci
 orientable
@@ -9277,6 +9319,7 @@ own
 otherwise
 opcode
 operacion
+odenado
 mide
 mas
 mediante
@@ -9727,6 +9770,9 @@ modificado
 management
 marcan
 mira
+mapas
+mxn
+marcamos
 que
 queda
 quede
@@ -10772,6 +10818,11 @@ internamente
 its
 implementaci
 inf
+inicio
+incidencia
+identificar
+identificamos
+inciden
 frontera
 flujo
 forma
@@ -11177,6 +11228,7 @@ formal
 fico
 factor
 flipflops
+fuera
 gira
 green
 gradiente
@@ -11531,6 +11583,7 @@ graphics
 grafo
 gico
 grafos
+guardamos
 Gauss
 Green
 GC
@@ -11896,6 +11949,8 @@ GhA
 GpRh
 Glfi
 Grafos
+Grafo
+Grado
 jacobiana
 jacobinao
 jue
@@ -13277,6 +13332,7 @@ Processor
 Proximo
 Prim
 Partiendo
+Pasando
 Hipotesis
 HbgIcQAl
 HJM
@@ -15185,6 +15241,7 @@ UjS
 UhT
 UTD
 Utiliza
+Utilizaci
 width
 wxTE
 wS
@@ -15864,6 +15921,7 @@ Redondeo
 REsulta
 Recorridos
 Recorriendo
+Representaciones
 Ya
 YUV
 YLO
@@ -18929,6 +18987,8 @@ BTz
 Bus
 BFS
 Breath
+Borrar
+Borra
 äU
 äI
 äZ

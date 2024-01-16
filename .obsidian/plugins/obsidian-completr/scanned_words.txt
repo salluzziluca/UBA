@@ -9218,6 +9218,7 @@ only
 own
 otherwise
 opcode
+operacion
 mide
 mas
 mediante

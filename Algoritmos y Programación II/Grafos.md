@@ -110,4 +110,4 @@ Con [[Grafos#Grafo dirigido| grafo dirigido]] respetamos las direcciones
 Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con peso|grafo con peso]] guardamos combinamos ambas cosas
 ![[Pasted image 20220614200331.png]]
 
-![[Recorridos Grafos]]
+![ gRecorridos Grafos]]

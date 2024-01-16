@@ -9217,6 +9217,7 @@ organiza
 only
 own
 otherwise
+opcode
 mide
 mas
 mediante
@@ -14758,6 +14759,7 @@ ORH
 Ogf
 Operands
 ONE
+Opcode
 Una
 Un
 UI

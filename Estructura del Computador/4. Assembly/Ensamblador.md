@@ -5,7 +5,7 @@ Proceso de ensamblado en 2 pasadas:
 1. Detecta identificadores y les asigna una posicion de memoria. Crea la ==tabla de simbolos==, en la cual se registran todos los simbolos que se necesitan para ejecutar el programa
 2. Cada instrucción es convertida a código de maquina. Cada identificador es reemplazado por su ubicación en memoria (usando la tabla de símbolos). Cada linea es procesada completamente antes de avanzar a la sig.  Genera el código obj y el listado
 
-## Op Code
+##  Opcode
 ![[Pasted image 20240113210618.png]]
 Es, basicamente, la forma en la que se pasan a lenguaje de máquina las [[Arquitectura del Set de Instrucciones#Algunas instrucciones de ARC|instrucciones de ARC]] 
 

@@ -2445,6 +2445,7 @@ conectan
 cualquiera
 clico
 combinamos
+counter
 las
 la
 lo
@@ -2802,6 +2803,7 @@ liviana
 lazo
 ltiples
 lazos
+level
 enunciadas
 en
 espacio
@@ -4253,6 +4255,8 @@ tenes
 transitar
 terminando
 toque
+temporales
+temp
 Sea
 Si
 Superficie
@@ -8207,6 +8211,7 @@ IIL
 IGG
 INDEPENIENTES
 Implicante
+ISA
 Triples
 Teorema
 Teoremas
@@ -8925,6 +8930,7 @@ DFS
 Depth
 Dijkstra
 Dicho
+Datapath
 obtenemos
 orientaci
 orientable

@@ -849,6 +849,9 @@ smaller
 sizes
 share
 simultaneously
+sumando
+sucesivamente
+spanning
 vectoriales
 vectorial
 vacio
@@ -1226,6 +1229,10 @@ vecina
 valen
 valgan
 valga
+visitar
+visita
+visitados
+visitado
 deben
 de
 diferenciales
@@ -1740,6 +1747,10 @@ devuelvo
 dejaria
 dont
 does
+dijkstra
+distintos
+directos
+directamente
 cumplir
 condiciones
 cartesianas
@@ -2413,6 +2424,13 @@ corespondiente
 concept
 copy
 code
+continuar
+crean
+comenzamos
+calculada
+conocidos
+cortos
+concatenando
 las
 la
 lo
@@ -2765,6 +2783,8 @@ localidad
 lento
 limites
 library
+lleg
+liviana
 enunciadas
 en
 espacio
@@ -3261,6 +3281,9 @@ entradas
 equ
 exact
 executing
+encara
+elige
+elegir
 adicionalmente
 alguna
 al
@@ -3774,6 +3797,16 @@ abarquen
 apropiado
 avanza
 attractive
+avanzando
+anchura
+actualiza
+aristas
+arista
+agregando
+agarro
+agrego
+agregamos
+armas
 tres
 theta
 tiene
@@ -4190,6 +4223,10 @@ though
 temporal
 tabular
 transiciones
+ten
+topol
+tree
+tenes
 Sea
 Si
 Superficie
@@ -4562,6 +4599,7 @@ SNu
 SPZ
 State
 Suponiendo
+Search
 un
 una
 usando
@@ -4936,6 +4974,9 @@ utilizada
 ubicaci
 utilizamos
 used
+unen
+uniendo
+ultima
 no
 ndricas
 nulo
@@ -5296,6 +5337,7 @@ necesaria
 number
 need
 needed
+nuevos
 pertenecen
 pertenece
 pi
@@ -5886,6 +5928,9 @@ present
 place
 program
 programs
+pesos
+pesado
+pasando
 br
 borde
 busco
@@ -6690,6 +6735,10 @@ recibe
 registran
 relocalizable
 routines
+rtice
+rtices
+recorrelo
+reemplazamos
 Volumen
 Variable
 Ver
@@ -7020,6 +7069,9 @@ Vbhh
 VEQ
 VLI
 Von
+Visitados
+VISITADO
+Volvemos
 Cartesianas
 Cil
 Cambios
@@ -7400,6 +7452,7 @@ Cache
 Contadores
 Cuenta
 Commonly
+Comparamos
 Esf
 Entonces
 Esto
@@ -7750,6 +7803,8 @@ EVV
 Estandarizacion
 Estandarizar
 Estado
+Empezaria
+ENcuentra
 Integrales
 Importantes
 Igualo
@@ -8825,6 +8880,9 @@ Defiinimos
 Desplazamientos
 Dependiendo
 DLL
+DFS
+Depth
+Dijkstra
 obtenemos
 orientaci
 orientable
@@ -9667,6 +9725,8 @@ multinivel
 minivalores
 modificado
 management
+marcan
+mira
 que
 queda
 quede
@@ -10300,6 +10360,8 @@ hhG
 holds
 has
 have
+hermanos
+hacen
 image
 iria
 incluya
@@ -10708,6 +10770,8 @@ impone
 impresora
 internamente
 its
+implementaci
+inf
 frontera
 flujo
 forma
@@ -11464,6 +11528,9 @@ gmd
 gDX
 gNwl
 graphics
+grafo
+gico
+grafos
 Gauss
 Green
 GC
@@ -11828,6 +11895,7 @@ GVc
 GhA
 GpRh
 Glfi
+Grafos
 jacobiana
 jacobinao
 jue
@@ -12512,6 +12580,7 @@ Algebraico
 Aquel
 Actual
 All
+Agoritmo
 Final
 Flujo
 Fuerza
@@ -12834,6 +12903,9 @@ Fgd
 FXR
 Formato
 Figure
+Fijandonos
+FInalmente
+Floyd
 Potencial
 Para
 Punto
@@ -13203,6 +13275,8 @@ PQZ
 PSR
 Processor
 Proximo
+Prim
+Partiendo
 Hipotesis
 HbgIcQAl
 HJM
@@ -15788,6 +15862,8 @@ Represento
 Relleno
 Redondeo
 REsulta
+Recorridos
+Recorriendo
 Ya
 YUV
 YLO
@@ -16364,6 +16440,7 @@ WYU
 WQL
 Woq
 WQWoL
+Warshall
 xpqa
 xDD
 xZ
@@ -17914,6 +17991,7 @@ klW
 kKB
 kYU
 keep
+kruskal
 Qa
 Qe
 QUU
@@ -18849,6 +18927,8 @@ BxO
 BRQ
 BTz
 Bus
+BFS
+Breath
 äU
 äI
 äZ

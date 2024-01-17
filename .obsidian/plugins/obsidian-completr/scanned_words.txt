@@ -330,6 +330,9 @@ LBp
 Localidad
 Logica
 Lista
+LIFO
+Last
+LRU
 subespacios
 subespacio
 se
@@ -864,6 +867,7 @@ simplifies
 significant
 slow
 salta
+subcolas
 vectoriales
 vectorial
 vacio
@@ -1780,6 +1784,7 @@ dynamic
 desventaja
 descarga
 descargan
+desapilar
 cumplir
 condiciones
 cartesianas
@@ -2841,6 +2846,7 @@ logic
 large
 lends
 logicas
+liberar
 enunciadas
 en
 espacio
@@ -3883,6 +3889,7 @@ alu
 aparece
 almacenarse
 apaga
+apilar
 tres
 theta
 tiene
@@ -6033,6 +6040,11 @@ process
 personal
 programadas
 proms
+push
+pop
+prioridad
+prioridiades
+policies
 br
 borde
 busco
@@ -6400,6 +6412,7 @@ bloque
 because
 bidireccionales
 burner
+buscada
 ricas
 respectivamente
 recorre
@@ -6851,6 +6864,7 @@ random
 refiere
 rea
 recargada
+replacement
 Volumen
 Variable
 Ver
@@ -7184,6 +7198,7 @@ Von
 Visitados
 VISITADO
 Volvemos
+Vas
 Cartesianas
 Cil
 Cambios
@@ -7569,6 +7584,7 @@ Camino
 CUALQUIERA
 Componente
 Conexa
+Colas
 Esf
 Entonces
 Esto
@@ -9400,6 +9416,7 @@ operacion
 odenado
 organized
 offs
+ocupados
 mide
 mas
 mediante
@@ -13445,6 +13462,7 @@ Pasando
 PROMs
 Programable
 PROM
+Pila
 Hipotesis
 HbgIcQAl
 HJM
@@ -15358,6 +15376,7 @@ UhT
 UTD
 Utiliza
 Utilizaci
+Used
 width
 wxTE
 wS
@@ -16043,6 +16062,7 @@ ROM
 RAMs
 Read
 ROMs
+Recently
 Ya
 YUV
 YLO

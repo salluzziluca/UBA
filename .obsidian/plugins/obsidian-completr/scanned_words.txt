@@ -863,6 +863,7 @@ small
 simplifies
 significant
 slow
+salta
 vectoriales
 vectorial
 vacio
@@ -1246,6 +1247,7 @@ visitados
 visitado
 vertices
 vertice
+videojuegos
 deben
 de
 diferenciales
@@ -1773,6 +1775,11 @@ datapath
 degree
 delay
 difficult
+determina
+dynamic
+desventaja
+descarga
+descargan
 cumplir
 condiciones
 cartesianas
@@ -2470,6 +2477,8 @@ consumes
 comparison
 choice
 complicated
+cond
+calculadoras
 las
 la
 lo
@@ -2831,6 +2840,7 @@ level
 logic
 large
 lends
+logicas
 enunciadas
 en
 espacio
@@ -3334,6 +3344,10 @@ empezando
 entran
 enlazada
 execution
+eficientes
+escala
+escritas
+erasable
 adicionalmente
 alguna
 al
@@ -3864,6 +3878,11 @@ among
 approach
 amount
 adds
+arimeticas
+alu
+aparece
+almacenarse
+apaga
 tres
 theta
 tiene
@@ -4295,6 +4314,7 @@ time
 thus
 trade
 typically
+tienden
 Sea
 Si
 Superficie
@@ -4668,6 +4688,8 @@ SPZ
 State
 Suponiendo
 Search
+Static
+SRAM
 un
 una
 usando
@@ -5047,6 +5069,7 @@ uniendo
 ultima
 unidireccional
 utiles
+utilizadas
 no
 ndricas
 nulo
@@ -6007,6 +6030,9 @@ penalizacion
 poseen
 paradas
 process
+personal
+programadas
+proms
 br
 borde
 busco
@@ -6373,6 +6399,7 @@ bloques
 bloque
 because
 bidireccionales
+burner
 ricas
 respectivamente
 recorre
@@ -6822,6 +6849,8 @@ respetamos
 representar
 random
 refiere
+rea
+recargada
 Volumen
 Variable
 Ver
@@ -8973,6 +9002,7 @@ Depth
 Dijkstra
 Dicho
 Datapath
+DRAM
 obtenemos
 orientaci
 orientable
@@ -9833,6 +9863,9 @@ modifying
 microinstruction
 modify
 more
+microinstruccion
+minuto
+mucha
 que
 queda
 quede
@@ -10890,6 +10923,8 @@ implements
 involves
 itself
 implementations
+implementradas
+industrial
 frontera
 flujo
 forma
@@ -11300,6 +11335,7 @@ flip
 flops
 fast
 flexible
+frecuentes
 gira
 green
 gradiente
@@ -11655,6 +11691,7 @@ grafo
 gico
 grafos
 guardamos
+gran
 Gauss
 Green
 GC
@@ -12707,6 +12744,7 @@ Aquel
 Actual
 All
 Agoritmo
+ADDR
 Final
 Flujo
 Fuerza
@@ -13404,6 +13442,9 @@ Proximo
 Prim
 Partiendo
 Pasando
+PROMs
+Programable
+PROM
 Hipotesis
 HbgIcQAl
 HJM
@@ -14278,6 +14319,7 @@ Ndb
 NlR
 Neumann
 Nanoprogramming
+NEXT
 MORE
 MYk
 MDD
@@ -14630,6 +14672,7 @@ Microinstrucciones
 Muy
 Metodos
 McCluskey
+Memory
 OPTIONS
 OV
 OP
@@ -14963,6 +15006,7 @@ Ogf
 Operands
 ONE
 Opcode
+Only
 Una
 Un
 UI
@@ -15995,6 +16039,10 @@ REsulta
 Recorridos
 Recorriendo
 Representaciones
+ROM
+RAMs
+Read
+ROMs
 Ya
 YUV
 YLO
@@ -17170,6 +17218,7 @@ Jacobiano
 Jlf
 Jß
 JXX
+JUMP
 Za
 ZJ
 ZQw

@@ -13,6 +13,11 @@ La memoria esta organizada en tablas cuyas filas son cada una de 8 bits
 Hay dos formas de ordenar la informacion
 - Little-endian: el byte menos significativo en la direccion mas baja
 - Big-endian: el byte menos significativo en la direccion mas alta![[Pasted image 20231203125442.png]]
+a) Sus parámetros son interpretados por el ensamblador y reemplazados por lo que corresponda en cada lugar que es invocada la macro. En una subrutina sus parámetros (valores) le llegan en tiempo de su ejecución (pila o registros).
+
+b) Su código de máquina está repetido tantas veces como la macro fue invocada. En una subrutina su código de máquina está localizado en un lugar específico y único en memoria.
+
+c) la velocidad de ejecución con macros es mayor dado que no tiene que pegar salto a otra parte del programa.
 ## Espacio direccionable
 deerminado por el tamaaño del Registro del procesador
 $2^n$ con n= tamaño

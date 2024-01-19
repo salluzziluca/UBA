@@ -870,6 +870,10 @@ slow
 salta
 subcolas
 slot
+significativos
+seg
+sumar
+signed
 vectoriales
 vectorial
 vacio
@@ -1789,6 +1793,14 @@ desventaja
 descarga
 descargan
 desapilar
+divido
+desagrupar
+digitos
+decimal
+dividiendo
+decima
+disponible
+dio
 cumplir
 condiciones
 cartesianas
@@ -2488,6 +2500,17 @@ choice
 complicated
 cond
 calculadoras
+cuantos
+coma
+corri
+conveniencia
+cota
+complemento
+carry
+compara
+chupa
+cuidado
+completar
 las
 la
 lo
@@ -2853,6 +2876,7 @@ logicas
 liberar
 libera
 local
+llaman
 enunciadas
 en
 espacio
@@ -3360,6 +3384,8 @@ eficientes
 escala
 escritas
 erasable
+extiendo
+efect
 adicionalmente
 alguna
 al
@@ -3897,6 +3923,10 @@ almacenarse
 apaga
 apilar
 accede
+agrupar
+amos
+asignado
+arranco
 tres
 theta
 tiene
@@ -4330,6 +4360,7 @@ trade
 typically
 tienden
 timestamp
+totales
 Sea
 Si
 Superficie
@@ -4706,6 +4737,7 @@ Search
 Static
 SRAM
 SET
+Sino
 un
 una
 usando
@@ -5450,6 +5482,8 @@ needed
 nuevos
 nicamente
 nanoprogramming
+neg
+negative
 pertenecen
 pertenece
 pi
@@ -6056,6 +6090,13 @@ prioridad
 prioridiades
 policies
 palabra
+potencias
+podria
+pongo
+pasemos
+pide
+pos
+paridad
 br
 borde
 busco
@@ -6424,6 +6465,7 @@ because
 bidireccionales
 burner
 buscada
+binarios
 ricas
 respectivamente
 recorre
@@ -6878,6 +6920,14 @@ recargada
 replacement
 referenciado
 referenciada
+representacion
+rango
+representaci
+represento
+referencia
+reversible
+restar
+recibo
 Volumen
 Variable
 Ver
@@ -7600,6 +7650,7 @@ Conexa
 Colas
 COMPARTEN
 CACHE
+Cua
 Esf
 Entonces
 Esto
@@ -7952,6 +8003,9 @@ Estandarizar
 Estado
 Empezaria
 ENcuentra
+Estar
+Extension
+Extiendo
 Integrales
 Importantes
 Igualo
@@ -8314,6 +8368,7 @@ IGG
 INDEPENIENTES
 Implicante
 ISA
+Idem
 Triples
 Teorema
 Teoremas
@@ -9035,6 +9090,7 @@ Dicho
 Datapath
 DRAM
 Direct
+Decimales
 obtenemos
 orientaci
 orientable
@@ -9433,6 +9489,8 @@ odenado
 organized
 offs
 ocupados
+ojo
+opero
 mide
 mas
 mediante
@@ -9901,6 +9959,11 @@ minuto
 mucha
 multiples
 mmeoria
+multiplico
+miro
+mutiplico
+miras
+mires
 que
 queda
 quede
@@ -10538,6 +10601,7 @@ hermanos
 hacen
 hardwired
 hits
+huevo
 image
 iria
 incluya
@@ -11373,6 +11437,10 @@ fast
 flexible
 frecuentes
 frequency
+fraccionaria
+fraccionario
+falta
+flag
 gira
 green
 gradiente
@@ -12408,6 +12476,7 @@ jhbO
 jvw
 jFPur
 json
+jeje
 Aplicaci
 Apuntes
 Ambas
@@ -13110,6 +13179,7 @@ Fijandonos
 FInalmente
 Floyd
 Frequently
+Flags
 Potencial
 Para
 Punto
@@ -16089,6 +16159,8 @@ RAMs
 Read
 ROMs
 Recently
+Representacion
+Resta
 Ya
 YUV
 YLO
@@ -17600,6 +17672,7 @@ ZEb
 ZCK
 ZAiU
 ZSG
+Zero
 KG
 Km
 KF
@@ -18846,6 +18919,7 @@ zFb
 zhY
 zmW
 zeros
+zero
 Be
 BZ
 BD

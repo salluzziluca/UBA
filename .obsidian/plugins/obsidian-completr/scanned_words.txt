@@ -333,6 +333,7 @@ Lista
 LIFO
 Last
 LRU
+LFU
 subespacios
 subespacio
 se
@@ -868,6 +869,7 @@ significant
 slow
 salta
 subcolas
+slot
 vectoriales
 vectorial
 vacio
@@ -1252,6 +1254,8 @@ visitado
 vertices
 vertice
 videojuegos
+viejo
+visitas
 deben
 de
 diferenciales
@@ -2847,6 +2851,8 @@ large
 lends
 logicas
 liberar
+libera
+local
 enunciadas
 en
 espacio
@@ -3890,6 +3896,7 @@ aparece
 almacenarse
 apaga
 apilar
+accede
 tres
 theta
 tiene
@@ -4322,6 +4329,7 @@ thus
 trade
 typically
 tienden
+timestamp
 Sea
 Si
 Superficie
@@ -4697,6 +4705,7 @@ Suponiendo
 Search
 Static
 SRAM
+SET
 un
 una
 usando
@@ -5077,6 +5086,7 @@ ultima
 unidireccional
 utiles
 utilizadas
+updatea
 no
 ndricas
 nulo
@@ -6045,6 +6055,7 @@ pop
 prioridad
 prioridiades
 policies
+palabra
 br
 borde
 busco
@@ -6865,6 +6876,8 @@ refiere
 rea
 recargada
 replacement
+referenciado
+referenciada
 Volumen
 Variable
 Ver
@@ -7585,6 +7598,8 @@ CUALQUIERA
 Componente
 Conexa
 Colas
+COMPARTEN
+CACHE
 Esf
 Entonces
 Esto
@@ -9019,6 +9034,7 @@ Dijkstra
 Dicho
 Datapath
 DRAM
+Direct
 obtenemos
 orientaci
 orientable
@@ -9883,6 +9899,8 @@ more
 microinstruccion
 minuto
 mucha
+multiples
+mmeoria
 que
 queda
 quede
@@ -10519,6 +10537,7 @@ have
 hermanos
 hacen
 hardwired
+hits
 image
 iria
 incluya
@@ -11353,6 +11372,7 @@ flops
 fast
 flexible
 frecuentes
+frequency
 gira
 green
 gradiente
@@ -12762,6 +12782,8 @@ Actual
 All
 Agoritmo
 ADDR
+Associative
+ASSOCIATIVE
 Final
 Flujo
 Fuerza
@@ -13087,6 +13109,7 @@ Figure
 Fijandonos
 FInalmente
 Floyd
+Frequently
 Potencial
 Para
 Punto
@@ -13463,6 +13486,7 @@ PROMs
 Programable
 PROM
 Pila
+Performance
 Hipotesis
 HbgIcQAl
 HJM
@@ -14691,6 +14715,8 @@ Muy
 Metodos
 McCluskey
 Memory
+Mapped
+MAPPED
 OPTIONS
 OV
 OP

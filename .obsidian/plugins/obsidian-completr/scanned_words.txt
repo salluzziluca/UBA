@@ -875,6 +875,7 @@ seg
 sumar
 signed
 salto
+sencilla
 vectoriales
 vectorial
 vacio
@@ -1802,6 +1803,7 @@ dividiendo
 decima
 disponible
 dio
+declara
 cumplir
 condiciones
 cartesianas
@@ -2512,6 +2514,8 @@ compara
 chupa
 cuidado
 completar
+com
+corriendo
 las
 la
 lo
@@ -2880,6 +2884,7 @@ local
 llaman
 llegan
 localizado
+listafuiba
 enunciadas
 en
 espacio
@@ -3390,6 +3395,10 @@ erasable
 extiendo
 efect
 espec
+exponente
+estandarizado
+espaciado
+exp
 adicionalmente
 alguna
 al
@@ -3931,6 +3940,7 @@ agrupar
 amos
 asignado
 arranco
+altisimos
 tres
 theta
 tiene
@@ -5488,6 +5498,8 @@ nicamente
 nanoprogramming
 neg
 negative
+normalizados
+normalizo
 pertenecen
 pertenece
 pi
@@ -6102,6 +6114,7 @@ pide
 pos
 paridad
 pegar
+preciso
 br
 borde
 busco
@@ -6471,6 +6484,7 @@ bidireccionales
 burner
 buscada
 binarios
+bajisimos
 ricas
 respectivamente
 recorre
@@ -6935,6 +6949,7 @@ restar
 recibo
 reemplazados
 repetido
+representado
 Volumen
 Variable
 Ver
@@ -7658,6 +7673,7 @@ Colas
 COMPARTEN
 CACHE
 Cua
+Cuento
 Esf
 Entonces
 Esto
@@ -8013,6 +8029,7 @@ ENcuentra
 Estar
 Extension
 Extiendo
+Estandar
 Integrales
 Importantes
 Igualo
@@ -8376,6 +8393,7 @@ INDEPENIENTES
 Implicante
 ISA
 Idem
+IEEE
 Triples
 Teorema
 Teoremas
@@ -9973,6 +9991,8 @@ miras
 mires
 macro
 macros
+mantisa
+magnitud
 que
 queda
 quede
@@ -11036,6 +11056,7 @@ implementradas
 industrial
 interpretados
 invocada
+infinto
 frontera
 flujo
 forma
@@ -11452,6 +11473,7 @@ fraccionaria
 fraccionario
 falta
 flag
+flotante
 gira
 green
 gradiente
@@ -11808,6 +11830,7 @@ gico
 grafos
 guardamos
 gran
+gmail
 Gauss
 Green
 GC

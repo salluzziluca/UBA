@@ -874,6 +874,7 @@ significativos
 seg
 sumar
 signed
+salto
 vectoriales
 vectorial
 vacio
@@ -2877,6 +2878,8 @@ liberar
 libera
 local
 llaman
+llegan
+localizado
 enunciadas
 en
 espacio
@@ -3386,6 +3389,7 @@ escritas
 erasable
 extiendo
 efect
+espec
 adicionalmente
 alguna
 al
@@ -6097,6 +6101,7 @@ pasemos
 pide
 pos
 paridad
+pegar
 br
 borde
 busco
@@ -6928,6 +6933,8 @@ referencia
 reversible
 restar
 recibo
+reemplazados
+repetido
 Volumen
 Variable
 Ver
@@ -9964,6 +9971,8 @@ miro
 mutiplico
 miras
 mires
+macro
+macros
 que
 queda
 quede
@@ -11025,6 +11034,8 @@ itself
 implementations
 implementradas
 industrial
+interpretados
+invocada
 frontera
 flujo
 forma

@@ -3,5 +3,6 @@
   "cssTheme": "Tokyo Night",
   "translucency": false,
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

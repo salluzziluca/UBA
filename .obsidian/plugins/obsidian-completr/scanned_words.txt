@@ -334,6 +334,7 @@ LIFO
 Last
 LRU
 LFU
+Logramos
 subespacios
 subespacio
 se
@@ -876,6 +877,9 @@ sumar
 signed
 salto
 sencilla
+salidas
+sincr
+select
 vectoriales
 vectorial
 vacio
@@ -1804,6 +1808,7 @@ decima
 disponible
 dio
 declara
+desconecta
 cumplir
 condiciones
 cartesianas
@@ -2516,6 +2521,8 @@ cuidado
 completar
 com
 corriendo
+controladas
+conecta
 las
 la
 lo
@@ -2885,6 +2892,7 @@ llaman
 llegan
 localizado
 listafuiba
+llave
 enunciadas
 en
 espacio
@@ -3399,6 +3407,7 @@ exponente
 estandarizado
 espaciado
 exp
+esclavo
 adicionalmente
 alguna
 al
@@ -3941,6 +3950,8 @@ amos
 asignado
 arranco
 altisimos
+asincr
+asicr
 tres
 theta
 tiene
@@ -6115,6 +6126,8 @@ pos
 paridad
 pegar
 preciso
+pines
+pin
 br
 borde
 busco
@@ -6950,6 +6963,7 @@ recibo
 reemplazados
 repetido
 representado
+realimentaci
 Volumen
 Variable
 Ver
@@ -7674,6 +7688,7 @@ COMPARTEN
 CACHE
 Cua
 Cuento
+Chip
 Esf
 Entonces
 Esto
@@ -9516,6 +9531,7 @@ offs
 ocupados
 ojo
 opero
+oscilaciones
 mide
 mas
 mediante
@@ -9993,6 +10009,7 @@ macro
 macros
 mantisa
 magnitud
+maestro
 que
 queda
 quede
@@ -11474,6 +11491,7 @@ fraccionario
 falta
 flag
 flotante
+flop
 gira
 green
 gradiente
@@ -11831,6 +11849,7 @@ grafos
 guardamos
 gran
 gmail
+generen
 Gauss
 Green
 GC
@@ -13214,6 +13233,8 @@ FInalmente
 Floyd
 Frequently
 Flags
+Flip
+Flop
 Potencial
 Para
 Punto

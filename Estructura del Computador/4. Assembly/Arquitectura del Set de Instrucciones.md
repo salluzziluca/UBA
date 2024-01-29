@@ -45,7 +45,14 @@ $2^{31} \ hasta \ 2^{32}-1$ I/O
 
 >It is important to keep the distinction clear between what is an address and what is data. An address in this example memory is 32 bits wide, and a word is also 32 bits wide, but they are not the same thing. An address is a pointer to a memory location, which holds data. 
 
- 
+## I/O
+Los pedidos de lectura y escritura en Arc de un periférico, el procesador envía una orden a la dirección signada del periférico el cual se almacena en el registro de dirección I/O (la segunda mitad de la RAM). La interfaz de controlador de periféricos recibe esta orden y la procesa, buscando el periférico correspondiente en la tabla de dispositivos. Una vez identificado, se realiza la operación correspondiente.
+
+La escritura a un periférico implica enviar información desde el procesador hacia el periférico. Por ejemplo, el procesador puede escribir una dirección en un registro de un periférico para configurarlo o proporcionarle datos para su procesamiento.
+
+La lectura de un periférico implica obtener información del periférico y enviarla al procesador. Por ejemplo, el procesador puede leer el estado de un periférico para determinar su funcionamiento actual o obtener los resultados de un procesamiento previo realizado por el periférico.
+
+La escritura en RAM proceso realizado por el procesador para almacenar información en la memoria RAM para su posterior acceso y uso. La memoria RAM es un componente de almacenamiento temporal y volátil que se utiliza para almacenar datos y programas mientras el sistema está en funcionamiento.
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
 si  dice `cc` es porque altera los flags

@@ -2527,6 +2527,8 @@ controladas
 conecta
 controlador
 configurarlo
+colocando
+copia
 las
 la
 lo
@@ -3958,6 +3960,8 @@ arranco
 altisimos
 asincr
 asicr
+ancha
+ahorrarse
 tres
 theta
 tiene
@@ -5518,6 +5522,9 @@ neg
 negative
 normalizados
 normalizo
+nanoalmacenamiento
+ndice
+nanoc
 pertenecen
 pertenece
 pi
@@ -6980,6 +6987,7 @@ representado
 realimentaci
 ricos
 realizado
+reiteraci
 Volumen
 Variable
 Ver
@@ -10028,6 +10036,8 @@ mantisa
 magnitud
 maestro
 mitad
+microprograma
+microc
 que
 queda
 quede
@@ -11093,6 +11103,7 @@ interpretados
 invocada
 infinto
 identificado
+indexada
 frontera
 flujo
 forma

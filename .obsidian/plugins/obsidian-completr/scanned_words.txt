@@ -880,6 +880,7 @@ sencilla
 salidas
 sincr
 select
+signada
 vectoriales
 vectorial
 vacio
@@ -1266,6 +1267,7 @@ vertice
 videojuegos
 viejo
 visitas
+vol
 deben
 de
 diferenciales
@@ -2523,6 +2525,8 @@ com
 corriendo
 controladas
 conecta
+controlador
+configurarlo
 las
 la
 lo
@@ -3408,6 +3412,8 @@ estandarizado
 espaciado
 exp
 esclavo
+escritura
+enviarla
 adicionalmente
 alguna
 al
@@ -4386,6 +4392,7 @@ typically
 tienden
 timestamp
 totales
+til
 Sea
 Si
 Superficie
@@ -6128,6 +6135,13 @@ pegar
 preciso
 pines
 pin
+pedidos
+perif
+procesa
+proporcionarle
+procesamiento
+previo
+posterior
 br
 borde
 busco
@@ -6964,6 +6978,8 @@ reemplazados
 repetido
 representado
 realimentaci
+ricos
+realizado
 Volumen
 Variable
 Ver
@@ -9532,6 +9548,7 @@ ocupados
 ojo
 opero
 oscilaciones
+operaci
 mide
 mas
 mediante
@@ -10010,6 +10027,7 @@ macros
 mantisa
 magnitud
 maestro
+mitad
 que
 queda
 quede
@@ -11074,6 +11092,7 @@ industrial
 interpretados
 invocada
 infinto
+identificado
 frontera
 flujo
 forma
@@ -12906,6 +12925,7 @@ Agoritmo
 ADDR
 Associative
 ASSOCIATIVE
+Arc
 Final
 Flujo
 Fuerza

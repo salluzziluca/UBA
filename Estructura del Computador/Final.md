@@ -25,3 +25,25 @@ El procesador ARC es un procesador de arquitectura RISC. Algunas característica
     
 
 SANTO GRIAL: cada instrucción de assembler en 1 ciclo de reloj (se apunta a que se cumpla esta filosofía, pero al tener la existencia de las microinstrucciones en la vida real no pasa). Ciclo de fetch: buscar, decodificar y ejecutar
+
+
+
+
+
+> Indique cual es la informacion que se guarda en la tabla de simbolos y luego explique con detalle todas las instancias en que esta informacion es utilizada
+
+
+La tabla de símbolos en un ensamblador es una estructura de datos que almacena información sobre identificadores (típicamente etiquetas, nombres de variables y nombres de procedimientos) utilizados en el código fuente. La información almacenada en la tabla de símbolos puede incluir:
+
+- Nombre del símbolo
+- Valor o dirección de memoria asociada con el símbolo
+- Tipo de símbolo (etiqueta, variable, procedimiento, etc.)
+- Otros atributos relevantes, dependiendo del ensamblador
+
+La información en la tabla de símbolos es utilizada en diferentes etapas del proceso de ensamblaje:
+
+1. Durante la fase de preprocesamiento, se pueden utilizar identificadores en la tabla de símbolos para sustituir las macros y las directivas.
+2. Durante la fase de ensamblaje, la tabla de símbolos se utiliza para resolver las referencias a identificadores en el código fuente. Por ejemplo, una referencia a una etiqueta puede ser reemplazada por la dirección de memoria asociada con esa etiqueta.
+3. Durante la fase de enlazado, la tabla de símbolos se utiliza para resolver las referencias a identificadores en diferentes módulos o archivos fuente. Por ejemplo, una referencia a una variable o procedimiento en un módulo puede ser reemplazada por la dirección de memoria asociada con ese identificador en otro módulo.
+
+En resumen, la tabla de símbolos es una herramienta esencial en el proceso de ensamblaje que permite a los ensambladores resolver las referencias a identificadores en el código fuente y generar una representación ejecutable de ese código.

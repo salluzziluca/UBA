@@ -3417,6 +3417,7 @@ exp
 esclavo
 escritura
 enviarla
+enteros
 adicionalmente
 alguna
 al
@@ -6989,6 +6990,7 @@ realimentaci
 ricos
 realizado
 reiteraci
+representable
 Volumen
 Variable
 Ver

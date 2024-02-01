@@ -881,6 +881,7 @@ salidas
 sincr
 select
 signada
+segmentaci
 vectoriales
 vectorial
 vacio
@@ -1812,6 +1813,9 @@ dio
 declara
 desconecta
 decode
+detalladamente
+detalle
+dulo
 cumplir
 condiciones
 cartesianas
@@ -2530,6 +2534,7 @@ controlador
 configurarlo
 colocando
 copia
+compactas
 las
 la
 lo
@@ -3418,6 +3423,16 @@ esclavo
 escritura
 enviarla
 enteros
+eficiencia
+existencia
+explique
+etiqueta
+etapas
+ensamblaje
+enlazado
+esencial
+ensambladores
+ejecutable
 adicionalmente
 alguna
 al
@@ -3964,6 +3979,11 @@ asincr
 asicr
 ancha
 ahorrarse
+ale
+aumento
+accesos
+aumentar
+almacenada
 tres
 theta
 tiene
@@ -4399,6 +4419,7 @@ tienden
 timestamp
 totales
 til
+tome
 Sea
 Si
 Superficie
@@ -4776,6 +4797,7 @@ Static
 SRAM
 SET
 Sino
+SANTO
 un
 una
 usando
@@ -5157,6 +5179,7 @@ unidireccional
 utiles
 utilizadas
 updatea
+utilizados
 no
 ndricas
 nulo
@@ -5527,6 +5550,8 @@ normalizo
 nanoalmacenamiento
 ndice
 nanoc
+necesidad
+nombres
 pertenecen
 pertenece
 pi
@@ -6151,6 +6176,13 @@ proporcionarle
 procesamiento
 previo
 posterior
+paralelismo
+posibilita
+puedan
+procesadas
+picamente
+procedimientos
+preprocesamiento
 br
 borde
 busco
@@ -6991,6 +7023,11 @@ ricos
 realizado
 reiteraci
 representable
+respuesta
+relevantes
+referencias
+reemplazada
+resumen
 Volumen
 Variable
 Ver
@@ -8437,6 +8474,8 @@ ISA
 Idem
 IEEE
 Instruccion
+Instrucciones
+Indique
 Triples
 Teorema
 Teoremas
@@ -8796,6 +8835,7 @@ TuS
 Transmite
 The
 Thus
+Teoria
 Dejando
 DEN
 De
@@ -9159,6 +9199,7 @@ Datapath
 DRAM
 Direct
 Decimales
+Durante
 obtenemos
 orientaci
 orientable
@@ -10042,6 +10083,9 @@ maestro
 mitad
 microprograma
 microc
+manejarse
+microinstrucciones
+mbolo
 que
 queda
 quede
@@ -10680,6 +10724,7 @@ hacen
 hardwired
 hits
 huevo
+herramienta
 image
 iria
 incluya
@@ -11108,6 +11153,7 @@ invocada
 infinto
 identificado
 indexada
+internos
 frontera
 flujo
 forma
@@ -11526,6 +11572,9 @@ falta
 flag
 flotante
 flop
+fiosofia
+filosof
+fase
 gira
 green
 gradiente
@@ -12251,6 +12300,7 @@ Glfi
 Grafos
 Grafo
 Grado
+GRIAL
 jacobiana
 jacobinao
 jue
@@ -15563,6 +15613,7 @@ UTD
 Utiliza
 Utilizaci
 Used
+Uso
 width
 wxTE
 wS
@@ -17427,6 +17478,7 @@ Jlf
 Jß
 JXX
 JUMP
+Jusitfique
 Za
 ZJ
 ZQw
@@ -19321,6 +19373,7 @@ BFS
 Breath
 Borrar
 Borra
+Buses
 äU
 äI
 äZ

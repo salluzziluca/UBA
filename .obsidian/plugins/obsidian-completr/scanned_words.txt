@@ -885,6 +885,9 @@ segmentaci
 simplifican
 suciedad
 siguenes
+swap
+sabiendo
+swapeamos
 vectoriales
 vectorial
 vacio
@@ -1819,6 +1822,7 @@ decode
 detalladamente
 detalle
 dulo
+detras
 cumplir
 condiciones
 cartesianas
@@ -2540,6 +2544,11 @@ copia
 compactas
 costosa
 compleja
+comparativo
+comparan
+condici
+computacional
+counting
 las
 la
 lo
@@ -2911,6 +2920,7 @@ localizado
 listafuiba
 llave
 lenta
+llamo
 enunciadas
 en
 espacio
@@ -3441,6 +3451,8 @@ ensambladores
 ejecutable
 especializada
 estructuras
+estable
+extra
 adicionalmente
 alguna
 al
@@ -3995,6 +4007,11 @@ almacenada
 asociativa
 asignada
 asoigancion
+algoritmos
+algoritmica
+adaptativo
+adapta
+adelantamos
 tres
 theta
 tiene
@@ -4810,6 +4827,8 @@ SRAM
 SET
 Sino
 SANTO
+Sorting
+Sort
 un
 una
 usando
@@ -5565,6 +5584,7 @@ ndice
 nanoc
 necesidad
 nombres
+necesitar
 pertenecen
 pertenece
 pi
@@ -6196,6 +6216,8 @@ procesadas
 picamente
 procedimientos
 preprocesamiento
+preserva
+pivote
 br
 borde
 busco
@@ -7041,6 +7063,8 @@ relevantes
 referencias
 reemplazada
 resumen
+reubicando
+recursivamente
 Volumen
 Variable
 Ver
@@ -7375,6 +7399,7 @@ Visitados
 VISITADO
 Volvemos
 Vas
+Voy
 Cartesianas
 Cil
 Cambios
@@ -7766,6 +7791,11 @@ CACHE
 Cua
 Cuento
 Chip
+Complejidad
+Cuanta
+Comparatividad
+Counting
+Creamos
 Esf
 Entonces
 Esto
@@ -8122,6 +8152,7 @@ Estar
 Extension
 Extiendo
 Estandar
+Estabilidad
 Integrales
 Importantes
 Igualo
@@ -8489,6 +8520,10 @@ IEEE
 Instruccion
 Instrucciones
 Indique
+Inplace
+Inicializo
+Itero
+Inicializamos
 Triples
 Teorema
 Teoremas
@@ -9213,6 +9248,7 @@ DRAM
 Direct
 Decimales
 Durante
+Divide
 obtenemos
 orientaci
 orientable
@@ -9616,6 +9652,9 @@ opero
 oscilaciones
 operaci
 out
+ordena
+ordenando
+ordene
 mide
 mas
 mediante
@@ -10101,6 +10140,8 @@ manejarse
 microinstrucciones
 mbolo
 modificacion
+mergea
+mergesort
 que
 queda
 quede
@@ -10404,6 +10445,9 @@ qOk
 qzs
 quina
 quine
+quedar
+quedan
+quick
 hasta
 hacia
 hay
@@ -10740,6 +10784,7 @@ hardwired
 hits
 huevo
 herramienta
+han
 image
 iria
 incluya
@@ -11171,6 +11216,7 @@ indexada
 internos
 idem
 inst
+incrementando
 frontera
 flujo
 forma
@@ -13011,6 +13057,8 @@ ADDR
 Associative
 ASSOCIATIVE
 Arc
+Adaptatividad
+Array
 Final
 Flujo
 Fuerza
@@ -13717,6 +13765,7 @@ Programable
 PROM
 Pila
 Performance
+Pongo
 Hipotesis
 HbgIcQAl
 HJM
@@ -14948,6 +14997,7 @@ Memory
 Mapped
 MAPPED
 Multinivel
+Merge
 OPTIONS
 OV
 OP
@@ -15637,6 +15687,7 @@ Utilizaci
 Used
 Uso
 Unificada
+Ubico
 width
 wxTE
 wS
@@ -18766,6 +18817,7 @@ QWc
 QbjR
 QiI
 QfrA
+Quick
 zt
 zN
 zB

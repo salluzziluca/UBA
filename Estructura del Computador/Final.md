@@ -65,9 +65,9 @@ Multinivel: una parte en el procesador(L1) y otra por fuera (L2). L1 mas cercana
 
 #### Tipos de asignacion:
 cada linea de caché tiene 3 campos asociados:
-etiqueta (a cual bloque de mem representa)
-validez (si el bloque pertenece al programa en ejecución)
-suciedad (si se hizo una modificacion en el bloque)|
+1. etiqueta (a cual bloque de mem representa)
+2. validez (si el bloque pertenece al programa en ejecución)
+3. suciedad (si se hizo una modificacion en el bloque)|
 asociativa: cada bloque de memoria tiene +1 linea de caché
 directa: cada bloque de memoria tiene una sola linea de caché asignada
 asociativa por conjuntos: Un conjunto es un grupo conformado por >1 linea de caché  y c/conjunto tiene asignacion directa con memoria principal. Al lado de c/linea siguenes tando los mismos 3 campos de asoigancion asociativa

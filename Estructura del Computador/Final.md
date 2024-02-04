@@ -50,8 +50,13 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 
 
 ## Memoria 
-## Reemplazo en caché
+### Caché
+#### Reemplazo en caché
 [[7.0 Memoria#Associative Map Caché|LFU]]: Se agrega un identificador de frecuencia, cuando se llega a fallo se quita la menos frecuente
 [[7.0 Memoria#Associative Map Caché|LRU]]: idem pero con un timestamp
 [[7.0 Memoria#Associative Map Caché|FIFO]]: first in first out
 [[7.0 Memoria#Associative Map Caché|Aleatorio]]
+
+#### Tipos:
+Unificada: almacena tanto datos como instrucciones
+especializada: tiene lugares diferentes

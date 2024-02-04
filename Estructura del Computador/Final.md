@@ -68,6 +68,6 @@ cada linea de caché tiene 3 campos asociados:
 1. etiqueta (a cual bloque de mem representa)
 2. validez (si el bloque pertenece al programa en ejecución)
 3. suciedad (si se hizo una modificacion en el bloque)|
-asociativa: cada bloque de memoria tiene +1 linea de caché
-directa: cada bloque de memoria tiene una sola linea de caché asignada
-asociativa por conjuntos: Un conjunto es un grupo conformado por >1 linea de caché  y c/conjunto tiene asignacion directa con memoria principal. Al lado de c/linea siguenes tando los mismos 3 campos de asoigancion asociativa
+- asociativa: cada bloque de memoria tiene +1 linea de caché
+- directa: cada bloque de memoria tiene una sola linea de caché asignada
+- asociativa por conjuntos: Un conjunto es un grupo conformado por >1 linea de caché  y c/conjunto tiene asignacion directa con memoria principal. Al lado de c/linea siguenes tando los mismos 3 campos de asoigancion asociativa

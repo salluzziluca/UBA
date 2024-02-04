@@ -51,7 +51,8 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 
 ## Memoria 
 primeras 2040: para el SO
-desde 2058 hasta que 
+desde 2048 hasta la pila: para programas ya ensamblados
+2^{31}-1: pila
 ### Caché
 #### Reemplazo en caché
 [[7.0 Memoria#Associative Map Caché|LFU]]: Se agrega un identificador de frecuencia, cuando se llega a fallo se quita la menos frecuente

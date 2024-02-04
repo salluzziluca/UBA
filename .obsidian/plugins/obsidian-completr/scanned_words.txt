@@ -2549,6 +2549,9 @@ comparan
 condici
 computacional
 counting
+cpu
+coexiste
+contenido
 las
 la
 lo
@@ -4012,6 +4015,7 @@ algoritmica
 adaptativo
 adapta
 adelantamos
+adress
 tres
 theta
 tiene
@@ -5585,6 +5589,7 @@ nanoc
 necesidad
 nombres
 necesitar
+numerados
 pertenecen
 pertenece
 pi
@@ -7065,6 +7070,7 @@ reemplazada
 resumen
 reubicando
 recursivamente
+requerida
 Volumen
 Variable
 Ver
@@ -11217,6 +11223,7 @@ internos
 idem
 inst
 incrementando
+inferiores
 frontera
 flujo
 forma
@@ -13059,6 +13066,7 @@ ASSOCIATIVE
 Arc
 Adaptatividad
 Array
+Aument
 Final
 Flujo
 Fuerza

@@ -48,7 +48,9 @@ La información en la tabla de símbolos es utilizada en diferentes etapas del p
 
 En resumen, la tabla de símbolos es una herramienta esencial en el proceso de ensamblaje que permite a los ensambladores resolver las referencias a identificadores en el código fuente y generar una representación ejecutable de ese código.
 
+## Buses 
 
+la memoria nunca genera adress y la cpu no recibe
 ## Memoria 
 registros numerados 
 32 bits (2^32-1 bytes)

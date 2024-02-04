@@ -83,4 +83,5 @@ cada linea de caché tiene 3 campos asociados:
 - directa: cada bloque de memoria tiene una sola linea de caché asignada
 - asociativa por conjuntos: Un conjunto es un grupo conformado por >1 linea de caché  y c/conjunto tiene asignacion directa con memoria principal. Al lado de c/linea siguenes tando los mismos 3 campos de asoigancion asociativa
 
-# Comp
+# Compilacion
+1 .

@@ -2535,6 +2535,8 @@ configurarlo
 colocando
 copia
 compactas
+costosa
+compleja
 las
 la
 lo
@@ -2905,6 +2907,7 @@ llegan
 localizado
 listafuiba
 llave
+lenta
 enunciadas
 en
 espacio
@@ -3433,6 +3436,7 @@ enlazado
 esencial
 ensambladores
 ejecutable
+especializada
 adicionalmente
 alguna
 al
@@ -3984,6 +3988,8 @@ aumento
 accesos
 aumentar
 almacenada
+asociativa
+asignada
 tres
 theta
 tiene
@@ -5180,6 +5186,7 @@ utiles
 utilizadas
 updatea
 utilizados
+unificada
 no
 ndricas
 nulo
@@ -9602,6 +9609,7 @@ ojo
 opero
 oscilaciones
 operaci
+out
 mide
 mas
 mediante
@@ -11155,6 +11163,7 @@ identificado
 indexada
 internos
 idem
+inst
 frontera
 flujo
 forma
@@ -14930,6 +14939,7 @@ McCluskey
 Memory
 Mapped
 MAPPED
+Multinivel
 OPTIONS
 OV
 OP
@@ -15617,6 +15627,7 @@ Utiliza
 Utilizaci
 Used
 Uso
+Unificada
 width
 wxTE
 wS
@@ -16305,6 +16316,7 @@ ROMs
 Recently
 Representacion
 Resta
+Reemplazo
 Ya
 YUV
 YLO

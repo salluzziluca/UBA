@@ -66,3 +66,4 @@ Multinivel: una parte en el procesador(L1) y otra por fuera (L2). L1 mas cercana
 #### Tipos de asignacion:
 asociativa: cada bloque de memoria tiene +1 linea de caché
 directa: cada bloque de memoria tiene una sola linea de caché asignada
+asociativa por conjuntos: Un conjunto es un grupo conf

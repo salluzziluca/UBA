@@ -47,3 +47,7 @@ La información en la tabla de símbolos es utilizada en diferentes etapas del p
 3. Durante la fase de enlazado, la tabla de símbolos se utiliza para resolver las referencias a identificadores en diferentes módulos o archivos fuente. Por ejemplo, una referencia a una variable o procedimiento en un módulo puede ser reemplazada por la dirección de memoria asociada con ese identificador en otro módulo.
 
 En resumen, la tabla de símbolos es una herramienta esencial en el proceso de ensamblaje que permite a los ensambladores resolver las referencias a identificadores en el código fuente y generar una representación ejecutable de ese código.
+
+
+## Memoria 
+[[7.0 Memoria#lf]]

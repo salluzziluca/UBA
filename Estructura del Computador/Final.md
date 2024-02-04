@@ -50,4 +50,7 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 
 
 ## Memoria 
-[[7.0 Memoria#lf]]
+[[7.0 Memoria#Associative Map Caché|LFU]]: 
+[[7.0 Memoria#Associative Map Caché|LRU]]
+[[7.0 Memoria#Associative Map Caché|FIFO]]
+[[7.0 Memoria#Associative Map Caché|Aleatorio]]

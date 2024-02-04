@@ -61,4 +61,4 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 Unificada: almacena tanto datos como instrucciones (+ simple, + busqueda costosa)
 especializada: tiene dos partes, una para datos y otra para inst (permite + optimizacion, + compleja, busqueda - costosa)
 multinivel 
-Multinivel: una parte en el procesador(L1) y otra por fuera (L2)
+Multinivel: una parte en el procesador(L1) y otra por fuera (L2). L1 mas cercana y especializada L2 lenta y unificada

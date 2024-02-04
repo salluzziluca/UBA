@@ -58,6 +58,6 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 [[7.0 Memoria#Associative Map Caché|Aleatorio]]
 
 #### Tipos:
-Unificada: almacena tanto datos como instrucciones (+ sim)
-especializada: tiene dos partes, una para datos y otra para inst (permite + optimizacion, + compleja)
+Unificada: almacena tanto datos como instrucciones (+ simple, + busqueda costosa)
+especializada: tiene dos partes, una para datos y otra para inst (permite + optimizacion, + compleja, busqueda - costosa)
 multinivel 

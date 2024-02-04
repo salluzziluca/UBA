@@ -52,7 +52,7 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 ## Memoria 
 registros numerados 
 32 bits (2^32-1 bytes)
-
+![[Pasted image 20240204165846.png]]
 mapa de ARC:
 primeras 2040: para el SO
 desde 2048 hasta la pila: espacio de usuario para programas ya ensamblados

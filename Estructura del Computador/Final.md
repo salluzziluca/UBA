@@ -85,3 +85,7 @@ cada linea de caché tiene 3 campos asociados:
 
 # Compilacion
 1 .
+
+
+
+![[Pasted image 20240204192210.png]]

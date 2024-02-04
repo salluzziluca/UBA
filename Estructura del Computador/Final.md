@@ -59,6 +59,7 @@ desde 2048 hasta la pila: espacio de usuario para programas ya ensamblados
 2^{31}-1: pila (stack). Aumentá hacia posiciones inferiores, coexiste con el espacio de usuario
 2^{31} hasta 2^{32}-1: I/O
 #### Caché
+fallo en la caché:analiza el contenido en la caché, si no encuentra la palabra requerida
 #### Reemplazo en caché
 [[7.0 Memoria#Associative Map Caché|LFU]]: Se agrega un identificador de frecuencia, cuando se llega a fallo se quita la menos frecuente
 [[7.0 Memoria#Associative Map Caché|LRU]]: idem pero con un timestamp

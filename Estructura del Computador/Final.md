@@ -52,9 +52,9 @@ En resumen, la tabla de símbolos es una herramienta esencial en el proceso de e
 ## Memoria 
 primeras 2040: para el SO
 desde 2048 hasta la pila: para programas ya ensamblados
-2^{31}-1 hasta 2^{31}: pila (stack)
-2^{31}
-### Caché
+2^{31}-1: pila (stack). Aumentá hacia posiciones inferiores, coexiste con el 
+2^{31} hasta 2^{32}-1: I/O
+#### Caché
 #### Reemplazo en caché
 [[7.0 Memoria#Associative Map Caché|LFU]]: Se agrega un identificador de frecuencia, cuando se llega a fallo se quita la menos frecuente
 [[7.0 Memoria#Associative Map Caché|LRU]]: idem pero con un timestamp

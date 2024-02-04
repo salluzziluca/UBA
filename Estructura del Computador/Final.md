@@ -49,7 +49,7 @@ La información en la tabla de símbolos es utilizada en diferentes etapas del p
 En resumen, la tabla de símbolos es una herramienta esencial en el proceso de ensamblaje que permite a los ensambladores resolver las referencias a identificadores en el código fuente y generar una representación ejecutable de ese código.
 
 ## Buses 
-
+![[Pasted image 20231130105240.png]]
 la memoria nunca genera adress y la cpu no recibe
 ## Memoria 
 registros numerados 
@@ -82,3 +82,6 @@ cada linea de caché tiene 3 campos asociados:
 - asociativa: cada bloque de memoria tiene +1 linea de caché
 - directa: cada bloque de memoria tiene una sola linea de caché asignada
 - asociativa por conjuntos: Un conjunto es un grupo conformado por >1 linea de caché  y c/conjunto tiene asignacion directa con memoria principal. Al lado de c/linea siguenes tando los mismos 3 campos de asoigancion asociativa
+
+
+## CPU 

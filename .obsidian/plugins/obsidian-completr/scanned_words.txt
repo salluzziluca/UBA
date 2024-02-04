@@ -11154,6 +11154,7 @@ infinto
 identificado
 indexada
 internos
+idem
 frontera
 flujo
 forma
@@ -11575,6 +11576,8 @@ flop
 fiosofia
 filosof
 fase
+fallo
+frecuente
 gira
 green
 gradiente

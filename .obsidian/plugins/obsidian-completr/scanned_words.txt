@@ -882,6 +882,9 @@ sincr
 select
 signada
 segmentaci
+simplifican
+suciedad
+siguenes
 vectoriales
 vectorial
 vacio
@@ -3437,6 +3440,7 @@ esencial
 ensambladores
 ejecutable
 especializada
+estructuras
 adicionalmente
 alguna
 al
@@ -3990,6 +3994,7 @@ aumentar
 almacenada
 asociativa
 asignada
+asoigancion
 tres
 theta
 tiene
@@ -4426,6 +4431,7 @@ timestamp
 totales
 til
 tome
+tando
 Sea
 Si
 Superficie
@@ -10094,6 +10100,7 @@ microc
 manejarse
 microinstrucciones
 mbolo
+modificacion
 que
 queda
 quede
@@ -11945,6 +11952,7 @@ guardamos
 gran
 gmail
 generen
+grupo
 Gauss
 Green
 GC
@@ -15274,6 +15282,7 @@ Operands
 ONE
 Opcode
 Only
+Ordenamiento
 Una
 Un
 UI

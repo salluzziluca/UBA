@@ -576,6 +576,9 @@ sumidero
 solenoidal
 sufre
 siendo
+siento
+superposicion
+sino
 vectoriales
 vectorial
 vacio
@@ -855,6 +858,7 @@ variable
 varia
 variar
 ventaja
+volumetrica
 deben
 de
 diferenciales
@@ -1568,6 +1572,7 @@ corriente
 conduce
 ctico
 capacidad
+concatenada
 las
 la
 lo
@@ -1817,6 +1822,7 @@ llenas
 lugar
 ley
 libre
+lorentz
 enunciadas
 en
 espacio
@@ -2121,6 +2127,8 @@ estar
 estemos
 efectos
 electron
+elementales
+efecto
 adicionalmente
 alguna
 al
@@ -2444,6 +2452,10 @@ afecta
 acorde
 afectadas
 aislante
+aclaran
+aquella
+adentro
+amperiana
 tres
 theta
 tiene
@@ -2742,6 +2754,7 @@ tenerlo
 tope
 transformaci
 tender
+ticos
 Sea
 Si
 Superficie
@@ -3275,6 +3288,7 @@ uSu
 uKh
 underflow
 usaremos
+uniforme
 no
 ndricas
 nulo
@@ -3908,6 +3922,7 @@ perpendiculares
 posee
 proceso
 polarizacion
+ppio
 br
 borde
 busco
@@ -4964,6 +4979,7 @@ Claves
 Crear
 Cantidad
 Cola
+Cosas
 Esf
 Entonces
 Esto
@@ -5496,6 +5512,7 @@ Inv
 Insercion
 Inserci
 Implementaciones
+Intensidad
 Triples
 Teorema
 Teoremas
@@ -6025,6 +6042,7 @@ Destruir
 Desencolar
 Desplazando
 Dipolar
+Definimos
 obtenemos
 orientaci
 orientable
@@ -6303,6 +6321,7 @@ overflow
 otras
 ocurrira
 orientaran
+obtiene
 mide
 mas
 mediante
@@ -6599,6 +6618,8 @@ movimiento
 magn
 mateiral
 moleculas
+momentos
+magnetizacion
 que
 queda
 quede
@@ -7066,6 +7087,7 @@ hermano
 hijos
 hojas
 homog
+hablando
 image
 iria
 incluya
@@ -7329,6 +7351,7 @@ imanes
 iman
 imantado
 isotropo
+induccion
 frontera
 flujo
 forma
@@ -8879,6 +8902,8 @@ FN
 FYE
 FIFO
 First
+FINALMENTE
+Ftotal
 Potencial
 Para
 Punto

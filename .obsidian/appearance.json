@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 20,
-  "cssTheme": "Dracula Official",
+  "baseFontSize": 17,
+  "cssTheme": "Tokyo Night",
   "translucency": false,
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

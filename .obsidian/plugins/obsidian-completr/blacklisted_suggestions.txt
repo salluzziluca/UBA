@@ -1,2 +1,8 @@
 acotada
 acotado
+\oldstyle
+nAn
+numero
+numeros
+front-matter
+idependientes

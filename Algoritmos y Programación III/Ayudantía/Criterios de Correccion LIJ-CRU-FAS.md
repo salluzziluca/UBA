@@ -1,3 +1,25 @@
+## Etapa 2
+
+
+- No pude crear eventos con repeticion porque no se que parametro hay que ingresar en esa box
+- ![[Pasted image 20230617102911 1.png]]![[Pasted image 20230617102929 1.png]]
+- A la hora de crear una tarea de dia completo me exije poner hora y minuto, no creo que sea necesario
+ ![[Pasted image 20230617103130 1.png]]
+- No me deja agregar alarmas porque me pone que tengo un error de parametro, pero si me permite crear el evento/tarea
+Requisitos mínimos para aprobar:  
+
+- Ejecutar el programa y probarlo. Al menos probar lo siguiente:
+
+- [x] Crear un evento con repetición cada 2 días
+- [x] Crear una tarea de día completo
+- [x] Mostrar en la vista principal la vista de 1 día, 1 semana, 1 mes. Verificar que se muestra correctamente el evento y la tarea con repetición.
+- [x] Cerrar y abrir el programa. Verificar que se persistieron los datos. Verificar que el archivo se crea en el "directorio actual"
+- [ ] Crear una alarma. Verificar que se dispara. 
+
+- Con respecto al código:
+
+- [x] Verificar que están bien separadas las capas lógica y GUI. En la capa lógica no debe haber ninguna dependencia de GUI.
+- [x] Verificar que el diseño de la GUI está razonablemente bien y no hay violaciones graves de los principios de diseño.
 ## Etapa 1
 
 ### Calendario

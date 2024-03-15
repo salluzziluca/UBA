@@ -579,6 +579,8 @@ siendo
 siento
 superposicion
 sino
+scanned
+strongly
 vectoriales
 vectorial
 vacio
@@ -859,6 +861,7 @@ varia
 variar
 ventaja
 volumetrica
+viewing
 deben
 de
 diferenciales
@@ -1173,6 +1176,8 @@ dipolar
 dialectrico
 dial
 desplazar
+deleted
+desired
 cumplir
 condiciones
 cartesianas
@@ -1573,6 +1578,11 @@ conduce
 ctico
 capacidad
 concatenada
+commit
+commands
+completr
+conflicted
+conflicts
 las
 la
 lo
@@ -1823,6 +1833,8 @@ lugar
 ley
 libre
 lorentz
+list
+listed
 enunciadas
 en
 espacio
@@ -2129,6 +2141,8 @@ efectos
 electron
 elementales
 efecto
+each
+every
 adicionalmente
 alguna
 al
@@ -2456,6 +2470,9 @@ aclaran
 aquella
 adentro
 amperiana
+automatically
+available
+above
 tres
 theta
 tiene
@@ -2755,6 +2772,8 @@ tope
 transformaci
 tender
 ticos
+them
+txt
 Sea
 Si
 Superficie
@@ -3005,6 +3024,7 @@ SrI
 Sabemos
 Similar
 SIMPLIFICABA
+Source
 un
 una
 usando
@@ -3289,6 +3309,8 @@ uKh
 underflow
 usaremos
 uniforme
+using
+use
 no
 ndricas
 nulo
@@ -3923,6 +3945,7 @@ posee
 proceso
 polarizacion
 ppio
+plugins
 br
 borde
 busco
@@ -4189,6 +4212,10 @@ borramos
 borrar
 balanceado
 bordes
+be
+before
+below
+blocks
 ricas
 respectivamente
 recorre
@@ -4479,6 +4506,9 @@ referimos
 rebalancea
 recto
 respeten
+resolve
+recommend
+replace
 Volumen
 Variable
 Ver
@@ -4980,6 +5010,7 @@ Crear
 Cantidad
 Cola
 Cosas
+Conflicts
 Esf
 Entonces
 Esto
@@ -5513,6 +5544,7 @@ Insercion
 Inserci
 Implementaciones
 Intensidad
+Instructions
 Triples
 Teorema
 Teoremas
@@ -5777,6 +5809,7 @@ Tenemos
 TDA
 Transformaci
 TENSOR
+This
 Dejando
 DEN
 De
@@ -6322,6 +6355,8 @@ otras
 ocurrira
 orientaran
 obtiene
+obsidian
+occurrence
 mide
 mas
 mediante
@@ -6620,6 +6655,7 @@ mateiral
 moleculas
 momentos
 magnetizacion
+mode
 que
 queda
 quede
@@ -7638,6 +7674,10 @@ fyl
 fvk
 fWP
 fija
+followed
+file
+for
+following
 gira
 green
 gradiente
@@ -8672,6 +8712,7 @@ Asintota
 Arbol
 Acceso
 Altura
+Additional
 Final
 Flujo
 Fuerza
@@ -8904,6 +8945,7 @@ FIFO
 First
 FINALMENTE
 Ftotal
+For
 Potencial
 Para
 Punto
@@ -9174,6 +9216,7 @@ PVR
 Poca
 Polarizacion
 POR
+Please
 Hipotesis
 HbgIcQAl
 HJM
@@ -9837,6 +9880,7 @@ NDV
 Nse
 Negatividad
 Negro
+Not
 MORE
 MYk
 MDD
@@ -10853,6 +10897,9 @@ write
 wGg
 wLj
 wXWvl
+will
+words
+with
 Recordemos
 RA
 RF

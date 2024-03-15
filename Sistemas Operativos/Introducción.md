@@ -1,0 +1,1 @@
+> El rol de un sisitema operativo es el de compartir una computadore rentre varios progrmas de forma tal de proveer un conjunto de servidios +utiles de los que el hardwaRER POR SI MISM

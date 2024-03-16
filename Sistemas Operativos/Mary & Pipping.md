@@ -1,0 +1,1 @@
+La filosofia de linux r

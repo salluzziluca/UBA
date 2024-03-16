@@ -1,1 +1,1 @@
-La filosofia de linux r
+La filosofia de linux consiste en la implementacion de utilidades (procesos) pequeños que realicen tareas pequeñas, todo bien 

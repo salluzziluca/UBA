@@ -11,3 +11,5 @@ Point es un Box, label un vector normal
 
 Se pueden mover valores de un dueño a otro, se pueden tambien dar referencias (con lifetimes limitados). Cuando se le asignan valores, se les pasa una funcion o se retorna de una función no se copia el valor sino que se mueven los valores. 
 El origen cede su pertenencia del valor al destinatario, el destinatario ahora controla el lifetime
+
+![[Pasted image 20240318191608.png]]

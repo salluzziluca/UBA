@@ -29,6 +29,3 @@ fn give_ownership() -> String {
     s // s is moved out of the function
 }
 ```
-
-
-![[Pasted image 20240318191608.png]]

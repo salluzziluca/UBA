@@ -31,3 +31,7 @@ fn give_ownership() -> String {
 ```
 
 Si hago derive[copy], se pasaran copias de los valores en vez de moverlos (mover es copiar y borrar la referencia). No se puede hacer copy de todos los valores, tienen que tener tamaño conocido. Un struct o enum puede ser copy si todos sus campos son copy.
+
+### Referencias
+Hay dos tipos:
+REferencias compartidas: no modifican, solo lectura pero se pueden tener tan

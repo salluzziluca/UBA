@@ -4,4 +4,4 @@ O bien permito que una variable s epueda ver desde diferentes scopes o bien perm
 ![[Pasted image 20240318184140.png]]
 
 ###### Box
-Un `Box<T>`es un punteo a un valor de tipo T almacenado en el heap
+Un `Box<T>`es un punteo a un valor de tipo T almacenado en el heap. `Box::new(v)`asigna espacio en el heap, mueve v a ese espacio y retorna un box que apunta a ese espacio. Box es udeño del esapcio al que apunta

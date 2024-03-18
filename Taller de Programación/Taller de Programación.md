@@ -8,3 +8,5 @@ Un `Box<T>`es un punteo a un valor de tipo T almacenado en el heap. `Box::new(v)
 
 Point es un Box, label un vector normal
 ![[Pasted image 20240318185136.png]]
+
+Se pueden mover valores de un dueño a otro, se pueden tambien dar referencias (con lifetimes limitados). 

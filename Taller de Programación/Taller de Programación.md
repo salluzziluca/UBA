@@ -29,3 +29,5 @@ fn give_ownership() -> String {
     s // s is moved out of the function
 }
 ```
+
+Si hago derive[copy], se pasaran copias de los valores en vez de moverlos (mover es copiar y borrar la referencia)

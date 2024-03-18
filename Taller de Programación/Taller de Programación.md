@@ -9,5 +9,5 @@ Un `Box<T>`es un punteo a un valor de tipo T almacenado en el heap. `Box::new(v)
 Point es un Box, label un vector normal
 ![[Pasted image 20240318185136.png]]
 
-Se pueden mover valores de un dueño a otro, se pueden tambien dar referencias (con lifetimes limitados). Cuando se le asignan valores, se les pasa una funcion o se retorna de una funcion no se copia el valor sino que se mueven los valores. 
+Se pueden mover valores de un dueño a otro, se pueden tambien dar referencias (con lifetimes limitados). Cuando se le asignan valores, se les pasa una funcion o se retorna de una función no se copia el valor sino que se mueven los valores. 
 El origen cede su pertenencia del valor al destinatario, el destinatario ahora controla el lifetime

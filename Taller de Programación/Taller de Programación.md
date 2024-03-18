@@ -11,5 +11,24 @@ Point es un Box, label un vector normal
 
 Se pueden mover valores de un dueño a otro, se pueden tambien dar referencias (con lifetimes limitados). Cuando se le asignan valores, se les pasa una funcion o se retorna de una función no se copia el valor sino que se mueven los valores. 
 El origen cede su pertenencia del valor al destinatario, el destinatario ahora controla el lifetime
+```rust
+let x = String::from("hello");
+let y = x; // x is moved to y
+```
+
+```rust
+fn take_ownership(s: String) { /* ... */ }
+
+let x = String::from("hello");
+take_ownership(x); // x is moved into the function
+```
+
+```rust 
+fn give_ownership() -> String {
+    let s = String::from("hello");
+    s // s is moved out of the function
+}
+```
+
 
 ![[Pasted image 20240318191608.png]]

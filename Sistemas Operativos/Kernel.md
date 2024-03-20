@@ -19,4 +19,17 @@ Mediante syscals, excepciones (division por cero), interrupciones o timer del ke
 
 Paso a paso de las syscalls: 
 1. Llamo al wrapper (una funcion de la lib standar de C que sabe como llamar a la siscall)
-2. el wrapper pone todo los args en los registros y hace la 0.80
+2. el wrapper pone todo los args en los registros y copia el número de la system call a un determinado registro de la CPU (%eax).
+3. La función _wrapper_ ejecuta una instrucción de código maquina llamada **trap machine instruction** (int 0x80), esta causa que el procesador pase de _user mode_ a _kernel mode_ y ejecute el código apuntado por la dirección 0x80 (128) del vector de traps del sistema.
+4. En respuesta al trap de la posición 128, el kernel invoca su propia función llamada _syste_call()_ (arch/i386/entry.s) para manejar esa trap. Este manejador:
+    
+    1. graba el valor de los registros en el stack del kernel.
+        
+    2. verifica la validez del numero de system call.
+        
+    3. invoca el servicio correspondiente a la system call llamada a través del vector de system calls, el servico realiza su tarea y finalmete le devuelve un resultado de estado a la rutina _system_call()_.
+        
+    4. se restauran los registros almacenado en el stack del kernel y se agrega el valor de retorno en el stack.
+        
+    
+    3. se devuelve el control al wraper y simultáneamente se pasa a user mode.

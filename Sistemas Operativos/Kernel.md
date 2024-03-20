@@ -19,4 +19,4 @@ Mediante syscals, excepciones (division por cero), interrupciones o timer del ke
 
 Paso a paso de las syscalls: 
 1. Llamo al wrapper (una funcion de la lib standar de C que sabe como llamar a la siscall)
-2. 
+2. el wrapper pone todo los args en los registros y hace la 0.80

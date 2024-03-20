@@ -16,3 +16,7 @@ Cada modo ocurre en un entorno por separado
 
 User mode ->kernel mode
 Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó el timer)
+
+Paso a paso de las syscalls: 
+1. Llamo al wrapper (una funcion de la lib standar de C que sabe como llamar a la siscall)
+2. 

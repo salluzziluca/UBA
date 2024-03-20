@@ -1,12 +1,10 @@
 <---
 dia: 2024-01-23
-referencia: [
-	,
-]
+referencia: 
+
+
 ---
 ### Definición
-
-
 
 ---
 <% tp.file.cursor() %>

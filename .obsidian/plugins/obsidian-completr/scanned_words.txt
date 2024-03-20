@@ -7,6 +7,7 @@ Recently
 Random
 Referencias
 Resumen
+Referencia
 Por
 Pero
 PC
@@ -56,6 +57,7 @@ sus
 system
 startsWith
 suggester
+split
 que
 puede
 posici
@@ -206,6 +208,7 @@ mueven
 moverlos
 modifican
 mutables
+materia
 en
 el
 eficientes
@@ -330,6 +333,7 @@ following
 funcion
 funci
 find
+folder
 DRAM
 De
 Direct
@@ -405,6 +409,7 @@ COMPARTEN
 CACHE
 Cache
 Conflicts
+Capitulo
 hacer
 hay
 hits
@@ -422,6 +427,7 @@ Associative
 ASSOCIATIVE
 Additional
 Apuntes
+Articulo
 Un
 Used
 Untitle

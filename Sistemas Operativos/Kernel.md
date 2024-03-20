@@ -3,4 +3,4 @@
 
 Cada vez que el procesador pasa de modo kernel a modo usuario, el kernel antes de irse pone un timer. Despues de ese tiempo el kernel se despierta
 
-IOPL: Dos bits que I/O Privilege Level
+IOPL (I/O Privilege Level): son 4 bits que te muestran en que lvl de privilegio estas. 0 es kernel 3 es user. Permite saber si quien tiene en este momento acceso al procesador puede ejecutar determinadas acciones

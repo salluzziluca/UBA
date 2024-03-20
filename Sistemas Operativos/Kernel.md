@@ -42,3 +42,5 @@ cambiar entre difernetes procesos
 
 ## Booteo
 1. **Booteo**: este proceso es denominado bootstrap, y generalmente depende del hardware de la computadora. En el se realizan los chequeos de hardware y se carga el **bootloader**, que es el programa encargado de cargar el Kernel del Sistema Operativo. Este proceso consta de tres partes.
+	1. Cargar el BIOS
+	2. Crear el Interrupt Vector Table

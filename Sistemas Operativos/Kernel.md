@@ -34,3 +34,6 @@ Paso a paso de las syscalls:
     
     5. se devuelve el control al wraper y simultáneamente se pasa a user mode.
 5. Si el valor de retorno del la rutina de servicio de la system call da error, la función wrapper setea el valor en _errno_.
+
+Kernel mode -> user mode
+Nuevo proceso

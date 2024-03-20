@@ -37,3 +37,5 @@ Paso a paso de las syscalls:
 
 Kernel mode -> user mode
 Nuevo proceso
+Continuar despues de una interrupcion, una excepcion o una syscall
+cambiar entre difernetes procesos

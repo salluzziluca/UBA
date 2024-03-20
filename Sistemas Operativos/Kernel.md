@@ -7,3 +7,8 @@ IOPL (I/O Privilege Level): son 4 bits que te muestran en que lvl de privilegio 
 ![[Pasted image 20240320194817.png]]
 
 > TOdo loq ue corra en modo kernel es seguro, todo lo que corra en mod ousuario es no seguro
+
+
+## Modo de trasnferencia 
+> como pasar de un modo a otro 
+

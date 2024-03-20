@@ -32,4 +32,5 @@ Paso a paso de las syscalls:
     4. se restauran los registros almacenado en el stack del kernel y se agrega el valor de retorno en el stack.
         
     
-    3. se devuelve el control al wraper y simultáneamente se pasa a user mode.
+    5. se devuelve el control al wraper y simultáneamente se pasa a user mode.
+5. Si el valor de retorno del la rutina de servicio de la system call da error, la función wrapper setea el valor en _errno_.

@@ -15,4 +15,4 @@ IOPL (I/O Privilege Level): son 4 bits que te muestran en que lvl de privilegio 
 Cada modo ocurre en un entorno por separado
 
 User mode ->kernel mode
-Mediante syscals, 
+Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó)

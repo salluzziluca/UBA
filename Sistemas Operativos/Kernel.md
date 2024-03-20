@@ -12,3 +12,7 @@ IOPL (I/O Privilege Level): son 4 bits que te muestran en que lvl de privilegio 
 ## Modo de trasnferencia 
 > como pasar de un modo a otro 
 
+Cada modo ocurre en un entorno por separado
+
+User mode ->kernel mode
+Mediante syscals, 

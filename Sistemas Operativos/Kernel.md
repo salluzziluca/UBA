@@ -44,3 +44,4 @@ cambiar entre difernetes procesos
 1. **Booteo**: este proceso es denominado bootstrap, y generalmente depende del hardware de la computadora. En el se realizan los chequeos de hardware y se carga el **bootloader**, que es el programa encargado de cargar el Kernel del Sistema Operativo. Este proceso consta de tres partes.
 	1. Cargar el BIOS
 	2. Crear el Interrupt Vector Table
+	3. La BIOS genera una interrupcion de 19 int lo cual hace apuntar a CS:IP 0x0E6F2

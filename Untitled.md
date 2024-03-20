@@ -15,12 +15,11 @@ referencia: [
 	}
 	tR += "---";
 %>
-dia: <% tp.file.creation_date("YYYY-MM-DD") %>
-<%* 
-	let link = await tp.system.prompt("Link: ");
-	tR += "referencia: [\n\t" + link + ",\n]";
-%>
-<%* tR += "---"; %>
+dia: 2024-03-20
+referencia: [
+	asdas,
+]
+---
 ### Definición
 ---
 <% tp.file.cursor() %>

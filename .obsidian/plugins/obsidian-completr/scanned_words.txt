@@ -52,6 +52,7 @@ resultado
 resto
 representado
 representar
+representan
 se
 su
 son
@@ -143,6 +144,9 @@ paridad
 permite
 problema
 preciso
+pertenece
+pertenecen
+pasaria
 acceder
 almacenan
 almacenar
@@ -177,6 +181,7 @@ asignado
 arranco
 asi
 altisimos
+ambos
 cualquier
 carga
 cual
@@ -241,6 +246,12 @@ completar
 comparaci
 com
 corriendo
+conjunto
+contiene
+corresponder
+codominio
+conjuntos
+comun
 direcci
 de
 dynamic
@@ -287,6 +298,9 @@ dio
 decimos
 declara
 despues
+dominio
+decir
+disjuntos
 memoria
 mismo
 mientras
@@ -370,6 +384,9 @@ estamos
 espaciado
 eso
 exp
+elemento
+elementos
+elementoe
 tiempo
 tienden
 tener
@@ -404,6 +421,7 @@ totales
 tenemos
 tu
 tanto
+tico
 no
 nuevo
 necesita
@@ -431,6 +449,9 @@ igual
 int
 infinito
 infinto
+incluido
+interseccion
+imagen
 Static
 SRAM
 Si
@@ -466,6 +487,8 @@ lugares
 llegar
 llama
 listafuiba
+lisis
+lee
 utilizan
 un
 uso
@@ -482,6 +505,8 @@ ude
 ultima
 unos
 underflow
+union
+unico
 flip
 flops
 fisico
@@ -563,6 +588,7 @@ Mapped
 MAPPED
 Materia
 MM
+Matem
 videojuegos
 volver
 vaya
@@ -583,6 +609,7 @@ vault
 va
 voy
 vuelta
+vacio
 gran
 guarda
 grande
@@ -594,6 +621,7 @@ Tambien
 This
 Template
 Titulo
+Todos
 Cach
 Caracteristicas
 CPU
@@ -634,6 +662,7 @@ ASSOCIATIVE
 Additional
 Apuntes
 Articulo
+An
 Un
 Used
 Untitle
@@ -647,6 +676,7 @@ NO
 Not
 No
 Nombre
+Nomenclatura
 will
 words
 with
@@ -655,6 +685,7 @@ jeje
 Instructions
 Idem
 IEEE
+II
 Box
 Bases
 Hay

@@ -12,4 +12,4 @@ Ejecución del programa concurrente: resulta al ejecutar una secuencia de instru
 
 La concurrencia necesita de **sincronizacion** y **comunicacion**, ya que el orden en el que se ejecutan los procesos es inconsistente. La salida NO es derministica porque dependen del orden de ejecucion de las instrucciones de los procesos (interleaving) 
 
-Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar
+Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar, requieren un recurso que el otro tiene. Esto previene que ambos avance 

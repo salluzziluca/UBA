@@ -14,6 +14,8 @@ Resta
 Regla
 Relativa
 Recorrer
+Registro
+Registros
 Por
 Pero
 PC
@@ -29,6 +31,7 @@ Paso
 Permutaciones
 Propiedades
 Probabilidad
+Proximo
 random
 refiere
 representa
@@ -66,6 +69,7 @@ reduciendo
 realizo
 real
 reasignar
+recibe
 se
 su
 son
@@ -113,6 +117,13 @@ sea
 sucesi
 siguientes
 sucesion
+serie
+salir
+secuencialmente
+sobran
+sincronicos
+sincronizadamente
+seran
 que
 puede
 posici
@@ -184,6 +195,9 @@ probabilidades
 propiedades
 perteneciente
 pertenecientes
+paralelo
+pc
+planteo
 acceder
 almacenan
 almacenar
@@ -224,6 +238,10 @@ anagrama
 aplicar
 ademas
 ayuda
+almacenamiento
+avanza
+armar
+armo
 cualquier
 carga
 cual
@@ -311,6 +329,10 @@ crear
 criterios
 combiene
 comprehension
+cambia
+contadores
+clock
+corespondiente
 direcci
 de
 dynamic
@@ -368,6 +390,7 @@ donde
 dice
 diremos
 decreciente
+desplazamiento
 memoria
 mismo
 mientras
@@ -407,6 +430,8 @@ muestral
 muestras
 misma
 mutualmente
+muy
+minimo
 en
 el
 eficientes
@@ -471,6 +496,9 @@ eventos
 evento
 equiprobable
 excluyentes
+ejemplo
+estados
+entradas
 tiempo
 tienden
 tener
@@ -509,6 +537,8 @@ tico
 tablita
 tal
 todo
+tabla
+transiciones
 no
 nuevo
 necesita
@@ -522,6 +552,8 @@ neg
 negative
 normalizados
 normalizo
+necesito
+necesaria
 importa
 informacion
 industrial
@@ -543,6 +575,9 @@ indistinguibles
 irreductibles
 impares
 items
+interna
+impresora
+internamente
 Static
 SRAM
 Si
@@ -557,6 +592,9 @@ Sean
 Son
 Sorting
 Slices
+Suponiendo
+SI
+Siempre
 las
 la
 localidad
@@ -591,6 +629,7 @@ lso
 letras
 lgebra
 listas
+llega
 utilizan
 un
 uso
@@ -612,6 +651,7 @@ unico
 urnas
 urna
 usar
+utilizamos
 flip
 flops
 fisico
@@ -642,6 +682,7 @@ formar
 fuesen
 formula
 familia
+flipflops
 DRAM
 De
 Direct
@@ -650,6 +691,8 @@ Definici
 Decimales
 Dados
 Dado
+Dependiendo
+Dependen
 Estas
 En
 Estructuras
@@ -668,6 +711,7 @@ EA
 Eventos
 Elementales
 Empaquetado
+Estado
 Las
 Localidad
 Least
@@ -680,6 +724,8 @@ La
 Laplace
 Listas
 List
+LD
+Luego
 bien
 burner
 bajo
@@ -766,6 +812,9 @@ Cuento
 Combinaciones
 Caso
 Contiene
+Carga
+Contadores
+Cuenta
 hacer
 hay
 hits
@@ -797,6 +846,7 @@ otras
 ocurrir
 ocurre
 ocurri
+obtenemos
 Al
 Associative
 ASSOCIATIVE
@@ -807,6 +857,7 @@ An
 Aleatorio
 Algebra
 Axioma
+Actual
 Un
 Used
 Untitle

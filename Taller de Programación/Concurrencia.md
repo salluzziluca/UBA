@@ -34,3 +34,8 @@ Se crean procesos cuando:
 - [[Linux#System Call fork()| fork()]]
 - por pedido del usuario 
 - inicio de un batch job
+
+
+
+## Thread 
+Un thread es una unidad de ejecucion que vive dentro de un proceso

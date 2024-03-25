@@ -10,3 +10,4 @@ Ejecución del programa concurrente: resulta al ejecutar una secuencia de instru
 - El módulo del SO se denomina scheduler. I Existen distintos algoritmos y políticas de scheduling. 
 - Cada vez que el SO cambia el proceso en ejecución, ocurre un context-switch.
 
+La concurrencia necesita de **sincronizacion** y **coordinacion**. 

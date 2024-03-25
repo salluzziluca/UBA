@@ -20,3 +20,5 @@ Programa: instrucciones que conforman el programa
 Datos del usuario: Espacio de mem modificable por el ususario (datos, heap)
 Stack del sistema
 Estructruas de datos del kernel
+
+==un proceso es una instancia de un programa en ejecución"

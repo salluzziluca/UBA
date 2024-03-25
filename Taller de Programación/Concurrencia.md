@@ -23,6 +23,9 @@ Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar, 
 	En el PCB se almacena: 
 	- El PID, el PID del padre, ID del usuario y del grupo. 
 	- Datos del estado del proceso(permite suspender y retomar el proceso): Registros de propósito general de la CPU, Stack pointer, Instruction pointer
-	-  Datos de control del proceso, Estado del proceso y otra información de scheduling (p.ej. prioridad), Estructura del proceso: identificadores de los hijos, Datos de IPC (señales, mensajes),  Contadores de tiempo de uso de CPU
+	-  Datos de control del proceso, Estado del proceso y otra información de scheduling (p.ej. prioridad), Estructura del proceso: identificadores de los hijos, Datos de IPC (inter process comunication, señales, mensajes),  Contadores de tiempo de uso de CPU
 
 ==un proceso es una instancia de un programa en ejecución"
+
+
+### Creación de un proceso

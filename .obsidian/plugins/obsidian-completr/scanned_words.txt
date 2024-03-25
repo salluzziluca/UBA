@@ -13,6 +13,7 @@ Representacion
 Resta
 Regla
 Relativa
+Recorrer
 Por
 Pero
 PC
@@ -64,6 +65,7 @@ resultados
 reduciendo
 realizo
 real
+reasignar
 se
 su
 son
@@ -305,6 +307,10 @@ calcular
 corresponden
 continuidad
 complementario
+crear
+criterios
+combiene
+comprehension
 direcci
 de
 dynamic
@@ -536,6 +542,7 @@ imagen
 indistinguibles
 irreductibles
 impares
+items
 Static
 SRAM
 Si
@@ -547,6 +554,9 @@ Sino
 SON
 Siendo
 Sean
+Son
+Sorting
+Slices
 las
 la
 localidad
@@ -580,6 +590,7 @@ libros
 lso
 letras
 lgebra
+listas
 utilizan
 un
 uso
@@ -656,6 +667,7 @@ Espacio
 EA
 Eventos
 Elementales
+Empaquetado
 Las
 Localidad
 Least
@@ -666,6 +678,8 @@ Link
 Los
 La
 Laplace
+Listas
+List
 bien
 burner
 bajo
@@ -804,6 +818,7 @@ Finalmente
 Flags
 Formato
 Frecuencia
+Funciones
 NO
 Not
 No
@@ -830,3 +845,4 @@ Variaciones
 xxx
 xx
 xxxxxxxx
+keys

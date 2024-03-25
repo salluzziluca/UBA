@@ -31,6 +31,6 @@ Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar, 
 ### Creación de un proceso
 Se crean procesos cuando: 
 - se inicializa el sistema
-- sys call
+- [[Linux#System Call fork()| fork()]]
 - por pedido del usuario 
 - inicio de un batch job

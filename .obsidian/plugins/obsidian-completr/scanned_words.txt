@@ -35,6 +35,9 @@ Proximo
 Privilege
 Permite
 Pipping
+Programa
+PCB
+PID
 random
 refiere
 representa
@@ -84,6 +87,10 @@ realizan
 reciben
 resulta
 realicen
+requieren
+recurso
+reproducir
+retomar
 se
 su
 son
@@ -163,6 +170,9 @@ scheduler
 scheduling
 switch
 sincronizacion
+suspender
+sito
+sys
 que
 quien
 quedo
@@ -252,6 +262,14 @@ programacion
 paralela
 pol
 peque
+previene
+progresa
+padre
+prop
+pointer
+prioridad
+process
+pedido
 acceder
 almacenan
 almacenar
@@ -309,6 +327,10 @@ arbitrariamente
 arbitrario
 algoritmos
 as
+avanzar
+avancen
+almacena
+ales
 cualquier
 carga
 cual
@@ -419,6 +441,9 @@ componen
 context
 comunicacion
 conoce
+conforman
+comunication
+crean
 direcci
 de
 dynamic
@@ -492,6 +517,7 @@ dulo
 denomina
 derministica
 dependen
+dificiles
 memoria
 mismo
 mientras
@@ -547,6 +573,8 @@ metodo
 multi
 micas
 modularizado
+modificable
+mensajes
 en
 el
 eficientes
@@ -631,6 +659,7 @@ explotar
 estar
 ejecutando
 ejecucion
+esperando
 tiempo
 tienden
 tener
@@ -736,6 +765,12 @@ instante
 inconsistente
 interleaving
 implementacion
+informaci
+identificadores
+inter
+instancia
+inicializa
+inicio
 Static
 SRAM
 Si
@@ -755,6 +790,7 @@ SI
 Siempre
 Sistema
 SO
+Stack
 las
 la
 localidad
@@ -823,6 +859,7 @@ utilizamos
 user
 ue
 utilidades
+ususario
 flip
 flops
 fisico
@@ -869,6 +906,8 @@ Dado
 Dependiendo
 Dependen
 Despues
+Deadlocks
+Datos
 Estas
 En
 Estructuras
@@ -893,6 +932,8 @@ Este
 Estos
 Ejecuci
 Existen
+Estructruas
+Estructura
 Las
 Localidad
 Least
@@ -940,6 +981,8 @@ busca
 bootstrap
 bootloader
 bytes
+bugs
+batch
 Only
 Ownership
 Operativo
@@ -988,6 +1031,8 @@ graba
 generalmente
 genera
 gestionar
+grupo
+general
 Tambien
 This
 Template
@@ -1017,6 +1062,7 @@ Continuar
 Cargar
 Crear
 CS
+Creaci
 hacer
 hay
 hits
@@ -1029,6 +1075,8 @@ huevo
 hasta
 haya
 hardware
+hilos
+hijos
 otro
 ocupados
 obsidian
@@ -1066,6 +1114,7 @@ Algebra
 Axioma
 Actual
 APIs
+Aparte
 Un
 Used
 Untitle
@@ -1092,6 +1141,7 @@ wrapper
 wraper
 json
 jeje
+job
 Instructions
 Idem
 IEEE
@@ -1099,6 +1149,9 @@ II
 IOPL
 Interrupt
 IP
+ID
+Instruction
+IPC
 Box
 Bases
 Booteo

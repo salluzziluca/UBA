@@ -16,10 +16,13 @@ Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar, 
 
 
 ## proceso
-Programa: instrucciones que conforman el programa
-Datos del usuario: Espacio de mem modificable por el ususario (datos, heap)
-Stack del sistema
-Estructruas de datos del kernel (PCB)
-En el PCB se almacena: El PID, el PID del padre, ID del usuario y del grupo. 
+- Programa: instrucciones que conforman el programa
+- Datos del usuario: Espacio de mem modificable por el ususario (datos, heap)
+- Stack del sistema
+- Estructruas de datos del kernel (PCB)
+	En el PCB se almacena: 
+	- El PID, el PID del padre, ID del usuario y del grupo. 
+	- Datos del estado del proceso: permite suspender y retomar el proceso I Registros de propósito general de la CPU I Stack pointer I Instruction pointer I Datos de control del proceso I Estado del proceso y otra información de scheduling (p.ej. prioridad) I 
+	- Estructura del proceso: identificadores de los hijos I Datos de IPC (señales, mensajes) I Contadores de tiempo de uso de CPU
 
 ==un proceso es una instancia de un programa en ejecución"

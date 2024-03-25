@@ -4,5 +4,5 @@
 Se utiliza la concurrencia porque la ley de moore quedo obsoleta y es mejor este metodo, ya que se puede explotar el multi core system. Es un tipo de programacion que sirve mucho para gestionar servidores que reciben solicitudes que distintos clientes (APIs??)
 
 
-Un programa co
+Un programa concurrente consiste en un conjunto finitoi de procesos secuenciales. Estos procesos estan compuestos por a su vez un conjunto de instrucciones finitas atomicas
 

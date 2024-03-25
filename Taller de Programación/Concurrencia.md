@@ -5,4 +5,8 @@ Se utiliza la concurrencia porque la ley de moore quedo obsoleta y es mejor este
 
 
 Un programa concurrente consiste en un conjunto finitoi de procesos secuenciales. Estos procesos estan compuestos por a su vez un conjunto de instrucciones finitas atomicas
+Ejecución del programa concurrente: resulta al ejecutar una secuencia de instrucciones atómicas que se obtiene de intercalar arbitrariamente las instrucciones atómicas de los procesos que lo componen. 
+- El intercalamiento es arbitrario ya que quién decide qué proceso se va a estar ejecutando en un instante de tiempo es el SO. 
+- El módulo del SO se denomina scheduler. I Existen distintos algoritmos y políticas de scheduling. 
+- Cada vez que el SO cambia el proceso en ejecución, ocurre un context-switch.
 

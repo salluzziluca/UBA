@@ -11,3 +11,5 @@ Ejecución del programa concurrente: resulta al ejecutar una secuencia de instru
 - Cada vez que el SO cambia el proceso en ejecución, ocurre un context-switch.
 
 La concurrencia necesita de **sincronizacion** y **comunicacion**, ya que el orden en el que se ejecutan los procesos es inconsistente. La salida NO es derministica porque dependen del orden de ejecucion de las instrucciones de los procesos (interleaving) 
+
+Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar

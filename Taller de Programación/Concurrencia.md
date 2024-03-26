@@ -43,3 +43,5 @@ Un thread es una unidad de ejecucion que vive dentro de un proceso
 -  Los threads que viven dentro de un proceso se ejecutan en forma concurrente. 
 - Un thread es similar a un proceso pero con una menor carga de contexto propio. 
 - Los threads que viven dentro de un proceso comparten contexto entre sí.
+![[Pasted image 20240325210358.png]]
+cada thread mantiene su propia informacion de estado (sta)

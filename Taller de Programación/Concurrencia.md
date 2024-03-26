@@ -39,3 +39,7 @@ Se crean procesos cuando:
 
 ## Thread 
 Un thread es una unidad de ejecucion que vive dentro de un proceso
+- Nos referimos a un proceso con varios threads como un proceso multithread. 
+-  Los threads que viven dentro de un proceso se ejecutan en forma concurrente. 
+- Un thread es similar a un proceso pero con una menor carga de contexto propio. 
+- Los threads que viven dentro de un proceso comparten contexto entre sí.

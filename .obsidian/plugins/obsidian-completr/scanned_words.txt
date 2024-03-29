@@ -16,6 +16,7 @@ Relativa
 Recorrer
 Registro
 Registros
+Realizaci
 Por
 Pero
 PC
@@ -92,6 +93,7 @@ recurso
 reproducir
 retomar
 referimos
+recibido
 se
 su
 son
@@ -175,6 +177,7 @@ suspender
 sito
 sys
 similar
+sticas
 que
 quien
 quedo
@@ -273,6 +276,7 @@ prioridad
 process
 pedido
 propio
+par
 acceder
 almacenan
 almacenar
@@ -334,6 +338,10 @@ avanzar
 avancen
 almacena
 ales
+abstracta
+asociaci
+acopladas
+atributo
 cualquier
 carga
 cual
@@ -449,6 +457,14 @@ comunication
 crean
 contexto
 comparten
+caracter
+clases
+creado
+conviven
+caso
+compone
+ciclo
+comunica
 direcci
 de
 dynamic
@@ -584,6 +600,8 @@ mensajes
 multithread
 menor
 mantiene
+metro
+mandan
 en
 el
 eficientes
@@ -669,6 +687,7 @@ estar
 ejecutando
 ejecucion
 esperando
+extends
 tiempo
 tienden
 tener
@@ -722,6 +741,7 @@ ticas
 tareas
 thread
 threads
+tan
 no
 nuevo
 necesita
@@ -782,6 +802,10 @@ inter
 instancia
 inicializa
 inicio
+implementa
+interfaz
+independientes
+interaccionan
 Static
 SRAM
 Si
@@ -802,6 +826,7 @@ Siempre
 Sistema
 SO
 Stack
+Sea
 las
 la
 localidad
@@ -919,6 +944,7 @@ Dependen
 Despues
 Deadlocks
 Datos
+Dependencia
 Estas
 En
 Estructuras
@@ -994,6 +1020,7 @@ bootloader
 bytes
 bugs
 batch
+bil
 Only
 Ownership
 Operativo
@@ -1034,6 +1061,7 @@ validez
 vive
 varios
 viven
+vida
 gran
 guarda
 grande
@@ -1056,6 +1084,7 @@ Tenemos
 TOdo
 Table
 Thread
+Tiene
 Cach
 Caracteristicas
 CPU
@@ -1078,6 +1107,7 @@ Cargar
 Crear
 CS
 Creaci
+Composici
 hacer
 hay
 hits
@@ -1092,6 +1122,8 @@ haya
 hardware
 hilos
 hijos
+hereda
+haberlo
 otro
 ocupados
 obsidian
@@ -1117,6 +1149,7 @@ ousuario
 obsoleta
 obtiene
 os
+objeto
 Al
 Associative
 ASSOCIATIVE
@@ -1130,11 +1163,14 @@ Axioma
 Actual
 APIs
 Aparte
+Asociaci
+Agregaci
 Un
 Used
 Untitle
 Una
 User
+Usualmente
 FIFO
 Frequently
 For
@@ -1158,6 +1194,7 @@ wraper
 json
 jeje
 job
+juntos
 Instructions
 Idem
 IEEE
@@ -1168,6 +1205,8 @@ IP
 ID
 Instruction
 IPC
+Inheritance
+Implementaci
 Box
 Bases
 Booteo

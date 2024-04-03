@@ -13,6 +13,11 @@ La memoria esta organizada en tablas cuyas filas son cada una de 8 bits
 Hay dos formas de ordenar la informacion
 - Little-endian: el byte menos significativo en la direccion mas baja
 - Big-endian: el byte menos significativo en la direccion mas alta![[Pasted image 20231203125442.png]]
+a) Sus parámetros son interpretados por el ensamblador y reemplazados por lo que corresponda en cada lugar que es invocada la macro. En una subrutina sus parámetros (valores) le llegan en tiempo de su ejecución (pila o registros).
+
+b) Su código de máquina está repetido tantas veces como la macro fue invocada. En una subrutina su código de máquina está localizado en un lugar específico y único en memoria.
+
+c) la velocidad de ejecución con macros es mayor dado que no tiene que pegar salto a otra parte del programa.
 ## Espacio direccionable
 deerminado por el tamaaño del Registro del procesador
 $2^n$ con n= tamaño
@@ -34,26 +39,38 @@ Solo dos instrucciones acceden a memoria principal (RAM): read and write
 
 ## Mapa de memoria
 ![[Pasted image 20231017165203.png]]
-0-2047 OS
-2048-2^{31}-1 Memoria de usuario: Memoria ocupada por codigo de maquina y variables.  system stack
-2^{31}-1 - 2^{32}-1 I/O
+0 hasta 2047 OS
+$2048 \ hasta \ (2^{31}-4)$ Memoria de usuario: Memoria ocupada por codigo de maquina y variables.  system stack
+$2^{31} \ hasta \ 2^{32}-1$ I/O
 
-de 0 a 2^{31}-1 RAM.
+>It is important to keep the distinction clear between what is an address and what is data. An address in this example memory is 32 bits wide, and a word is also 32 bits wide, but they are not the same thing. An address is a pointer to a memory location, which holds data. 
 
+## I/O
+Los pedidos de lectura y escritura en Arc de un periférico, el procesador envía una orden a la dirección signada del periférico el cual se almacena en el registro de dirección I/O (la segunda mitad de la RAM). La interfaz de controlador de periféricos recibe esta orden y la procesa, buscando el periférico correspondiente en la tabla de dispositivos. Una vez identificado, se realiza la operación correspondiente.
 
+La escritura a un periférico implica enviar información desde el procesador hacia el periférico. Por ejemplo, el procesador puede escribir una dirección en un registro de un periférico para configurarlo o proporcionarle datos para su procesamiento.
+
+La lectura de un periférico implica obtener información del periférico y enviarla al procesador. Por ejemplo, el procesador puede leer el estado de un periférico para determinar su funcionamiento actual o obtener los resultados de un procesamiento previo realizado por el periférico.
+
+La escritura en RAM proceso realizado por el procesador para almacenar información en la memoria RAM para su posterior acceso y uso. La memoria RAM es un componente de almacenamiento temporal y volátil que se utiliza para almacenar datos y programas mientras el sistema está en funcionamiento.
 ## Algunas instrucciones de ARC 
 ![[Pasted image 20231017170626.png]]
 si  dice `cc` es porque altera los flags
 el branch always y el call son conceptualmente diferentes, el `call` se utiliza para una subrutina, guardando la posición actual para luego volver utilizando `jpml` 
 Para acceder a memoria, utilizo `ld %rn`, de esa forma le estoy diciendo al programa que acceda a la dirección `rn` en memoria. Es decir, si en `rn` yo tengo un 2030, voy a acceder a la direccion 2030 en memoria
+The shift instructions shift the contents of one register into another. The srl (shift right logical) instruction shifts a register to the right, and copies zeros into the leftmost bit(s)
 
 ![[Pasted image 20231203125126.png]]
 # Registros
 ![[Pasted image 20231017171718.png]]
-El 15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El 14 la posición de la pila
+El %r15 guarda el registro desde el que llamamos la funcion en la que estamos actualmente. El %r14 la posición de la pila
+
+PSR = Processor State Register 
+PC = Program Counter
 
 ## Sintaxis
 ![[Pasted image 20231129171450.png]]
+Operands in an assembly language statement are separated by commas, and the destination operand always appears in the rightmost position in the operand field. Thus, the example shown in Figure 4-8 specifies adding registers %r1 and %r2, with the result placed in %r3. If %r0 appears in the destination operand field instead of %r3, the result is discarded. The default base for a numeric operand is 10, so the assembly language statement: 
 ```asm
 lab_1: adcc, %r1, %r2, %r3   !suma r1 y r2, lo guarda en r3
 ```

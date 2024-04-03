@@ -60,6 +60,7 @@ dada
 decir
 debil
 distribuidas
+document
 gestion
 gran
 guarda
@@ -87,6 +88,7 @@ eso
 est
 entonces
 entender
+excalidraw
 servicios
 son
 su
@@ -140,6 +142,8 @@ proba
 positiva
 propiedades
 podemos
+plugin
+parsed
 la
 las
 le
@@ -206,6 +210,7 @@ Source
 Se
 Si
 Sean
+Switch
 Calls
 Cmabia
 CPU
@@ -222,6 +227,7 @@ Estandarizacion
 Estandarizar
 Esto
 Entonces
+EXCALIDRAW
 kernel
 realice
 realicen
@@ -290,6 +296,7 @@ meros
 markov
 mite
 muy
+menu
 tien
 tiene
 todos
@@ -307,6 +314,8 @@ text
 toma
 transformacion
 tendr
+tags
+this
 inico
 interna
 infro
@@ -342,8 +351,10 @@ Descriptor
 Devuelve
 Distribuci
 Depdende
+Drawing
 Memoria
 Multivariada
+MORE
 Table
 Todos
 This
@@ -363,3 +374,5 @@ will
 words
 with
 VA
+VIEW
+OPTIONS

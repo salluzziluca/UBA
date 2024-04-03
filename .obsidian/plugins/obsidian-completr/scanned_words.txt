@@ -18,6 +18,9 @@ cual
 crear
 copias
 ciertas
+consiste
+conoce
+como
 de
 dispositivos
 del
@@ -50,6 +53,7 @@ exacta
 exactas
 ejecutan
 ejecuci
+esto
 servicios
 son
 su
@@ -64,6 +68,7 @@ saberse
 stdin
 stdout
 stderr
+salida
 par
 por
 punto
@@ -85,6 +90,7 @@ para
 pueden
 pid
 paso
+peque
 la
 las
 le
@@ -93,6 +99,7 @@ los
 land
 llamada
 llamado
+linux
 agnosticos
 apps
 al
@@ -108,6 +115,7 @@ almacenan
 ambos
 asigna
 abre
+as
 hardware
 heap
 hay
@@ -123,6 +131,7 @@ usando
 unica
 usuario
 unix
+utilidades
 System
 Son
 Calls
@@ -136,9 +145,12 @@ El
 Estos
 kernel
 realice
+realicen
 operacion
 orden
 operaciones
+os
+otro
 nombre
 nuevo
 nica
@@ -158,6 +170,7 @@ PID
 Process
 Padre
 Paso
+Pipping
 Interface
 ID
 Un
@@ -167,6 +180,7 @@ mode
 menso
 mediante
 mero
+modularizado
 tien
 tiene
 todos
@@ -174,15 +188,19 @@ tabala
 tables
 tienen
 tabla
+tareas
+todo
 inico
 interna
 infro
 identifican
 invoca
+implementacion
 fijo
 file
 fork
 forma
+filosofia
 Nombre
 Notas
 File
@@ -193,3 +211,4 @@ Memoria
 Table
 Todos
 Realiza
+bien

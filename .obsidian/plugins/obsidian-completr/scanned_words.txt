@@ -34,6 +34,8 @@ caso
 covarianza
 cuando
 condiciones
+cpu
+cambio
 de
 dispositivos
 del
@@ -61,6 +63,10 @@ decir
 debil
 distribuidas
 document
+desordenada
+dar
+diferentes
+direccines
 gestion
 gran
 guarda
@@ -89,6 +95,9 @@ est
 entonces
 entender
 excalidraw
+entro
+elnuevo
+ese
 servicios
 son
 su
@@ -115,6 +124,9 @@ sean
 sea
 sucesion
 siempre
+software
+simplificar
+sobre
 par
 por
 punto
@@ -144,6 +156,8 @@ propiedades
 podemos
 plugin
 parsed
+procesador
+pasar
 la
 las
 le
@@ -157,6 +171,8 @@ list
 listed
 listop
 ley
+literalmente
+lovan
 agnosticos
 apps
 al
@@ -184,6 +200,9 @@ aproximacion
 alcanza
 asimetricas
 ahi
+agarrar
+activas
+aclaraciones
 hardware
 heap
 hay
@@ -220,6 +239,7 @@ Crea
 Conflicts
 Combinacion
 Central
+Cuando
 Es
 El
 Estos
@@ -263,6 +283,9 @@ vector
 vectores
 varibles
 valor
+virtual
+ver
+va
 Application
 API
 Asigna
@@ -297,6 +320,11 @@ markov
 mite
 muy
 menu
+memoria
+mmu
+mas
+matetm
+mismo
 tien
 tiene
 todos
@@ -316,6 +344,10 @@ transformacion
 tendr
 tags
 this
+tica
+tambien
+thread
+tener
 inico
 interna
 infro
@@ -339,6 +371,9 @@ for
 files
 following
 funci
+fisica
+fea
+funcion
 Nombre
 Notas
 Not
@@ -376,3 +411,4 @@ with
 VA
 VIEW
 OPTIONS
+ya

@@ -827,6 +827,49 @@ tiempo ^UBHqy7md
 			"lineHeight": 1.25
 		},
 		{
+			"id": "ooz9sj6wqkhp5mxyeJizO",
+			"type": "line",
+			"x": -309.0568286140316,
+			"y": -263.6279164566005,
+			"width": 0.5714285714285552,
+			"height": 279.42857142857144,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 202627765,
+			"version": 36,
+			"versionNonce": 1009526203,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712181517674,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5714285714285552,
+					279.42857142857144
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"type": "text",
 			"version": 2,
 			"versionNonce": 642873051,
@@ -870,7 +913,7 @@ tiempo ^UBHqy7md
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dotted",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -878,8 +921,8 @@ tiempo ^UBHqy7md
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 398.7711143283172,
-		"scrollY": 249.38684502802914,
+		"scrollX": 689.0568286140316,
+		"scrollY": 308.8154164566005,
 		"zoom": {
 			"value": 1.75
 		},

@@ -52,3 +52,5 @@ cambiar entre difernetes procesos
 	2. Crear el Interrupt Vector Table
 	3. La BIOS genera una interrupcion de 19 int lo cual hace apuntar a CS:IP 0x0E6F2
 	4. esto hace que se ejecute el serivicio de interrupciones, se lee el primero sector de 412 bytes del disco a memoria
+
+2. Carga del kernel: el bootloader pasa a modo supervisor, va a buscar el kernel, lo carga a mameoria, se tea 

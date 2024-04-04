@@ -13,17 +13,10 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Sistemas Operativos",
-      "template": "_template/Definición - Template 1.md"
-    }
-  ],
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "_template/Lectura - Template.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],

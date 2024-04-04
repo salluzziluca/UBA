@@ -64,3 +64,10 @@ Esta se encarga de:
 1. Establecer el manejo de interrupciones (IRQ)
 2. Configurar memoria adicional
 3. Comienza el proceso de inicializacion
+
+#### Proceso Init 
+El trabajo de Init es **“conseguir que todo funcione como debe ser”** una vez que el kernel está totalmente en funcionamiento. En esencia, establece y opera todo el espacio de usuario. Esto incluye:
+
+1. la comprobación y montaje de sistemas de archivos
+    
+2. la puesta en marcha los servicios de usuario necesarios y, en última instancia, cambiar al entorno de usuario cuando el inicio del sistema se ha completado.

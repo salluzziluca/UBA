@@ -61,4 +61,6 @@ Se carga desde un archivo zImage, no es un archivo ejecutable normal, está carg
 Luego, ejecuta, llamando a la función startup del kernel. Esta establece la gestion de memoria (paginacion y demás), detecta el tipo de CPU y cualquier funcionalidad adicional (ej: punto flotante) . Luego ejecuta `start_kernel()`
 
 Esta se encarga de: 
-1. 
+1. Establecer el manejo de interrupciones (IRQ)
+2. Configurar memoria adicional
+3. Comienza el proceso de inicializacion

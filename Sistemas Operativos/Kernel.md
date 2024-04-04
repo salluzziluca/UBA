@@ -4,6 +4,9 @@
 Cada vez que el procesador pasa de modo kernel a modo usuario, el kernel antes de irse pone un timer. Despues de ese tiempo el kernel se despierta
 
 IOPL (I/O Privilege Level): son 4 bits que te muestran en que lvl de privilegio estas. 0 es kernel 3 es user. Permite saber si quien tiene en este momento acceso al procesador puede ejecutar determinadas acciones
+El IOPL se puede cambiar usando POPF (D) e IRET (D) solo cuando el nivel de privilegio actual es Ring 0.
+
+Además de IOPL, los permisos de puerto de E/S en el TSS (Task State Segment) también participan en la determinación de la capacidad de una tarea para acceder a un puerto de E / S.
 ![[Pasted image 20240320194817.png]]
 
 > TOdo loq ue corra en modo kernel es seguro, todo lo que corra en mod ousuario es no seguro

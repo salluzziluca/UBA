@@ -22,6 +22,8 @@ Mediante syscals, excepciones (division por cero), interrupciones o timer del ke
 El kernel chequea periodicamente lo que ocurre mientras los programas estan siendo ejecutados, en caso de que tenga que desalojarlo. Esto se hace mediante un mecanista llamado "hardware counter"
 
 Paso a paso de las syscalls: 
+
+
 1. Llamo al wrapper (una funcion de la lib standar de C que sabe como llamar a la siscall)
 2. el wrapper pone todo los args en los registros y copia el número de la system call a un determinado registro de la CPU (%eax).
 3. La función _wrapper_ ejecuta una instrucción de código maquina llamada **trap machine instruction** (int 0x80), esta causa que el procesador pase de _user mode_ a _kernel mode_ y ejecute el código apuntado por la dirección 0x80 (128) del vector de traps del sistema.

@@ -15,18 +15,14 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "_template",
+      "template": "_template/Lectura - Template.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "te"
+    "_template/Lectura - Template.md"
   ],
   "startup_templates": [
     ""

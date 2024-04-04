@@ -18,6 +18,7 @@ Registro
 Registros
 Realizaci
 Regularidad
+Realiza
 Por
 Pero
 PC
@@ -42,6 +43,11 @@ PCB
 PID
 Par
 Primero
+Programming
+Procesos
+Partes
+Process
+Padre
 random
 refiere
 representa
@@ -104,6 +110,7 @@ rboles
 regular
 return
 rows
+realice
 se
 su
 son
@@ -200,6 +207,11 @@ suavidad
 suave
 sort
 splice
+servicios
+saberse
+stdin
+stdout
+stderr
 que
 quien
 quedo
@@ -207,6 +219,7 @@ qui
 qu
 qkb
 qZkHmooB
+queda
 puede
 posici
 porque
@@ -323,6 +336,13 @@ pages
 parseInt
 primerCapitulo
 processFrontMatter
+permitiendo
+pida
+preocsdor
+protegida
+parametros
+posee
+pid
 acceder
 almacenan
 almacenar
@@ -409,6 +429,14 @@ api
 archivo
 async
 archivoActivo
+agnosticos
+apps
+alguna
+algo
+asociados
+archivos
+abiertos
+abre
 cualquier
 carga
 cual
@@ -563,6 +591,12 @@ const
 crearFrontmatter
 createFolder
 catch
+capa
+controlado
+codigo
+cuya
+cree
+ciertas
 direcci
 de
 dynamic
@@ -649,6 +683,13 @@ definiciones
 devuelven
 derivada
 dv
+dispositivos
+der
+dinamico
+descriptors
+descritor
+diferencian
+despu
 memoria
 mismo
 mientras
@@ -726,6 +767,7 @@ moverArchivo
 materias
 move
 mensaje
+menso
 en
 el
 eficientes
@@ -828,6 +870,14 @@ ecuaciones
 extremos
 existe
 else
+especifico
+entra
+expone
+ejecuccion
+estructura
+entero
+exacta
+exactas
 tiempo
 tienden
 tener
@@ -902,6 +952,9 @@ try
 tempCreado
 temp
 trash
+tien
+tabala
+tables
 no
 nuevo
 necesita
@@ -923,6 +976,8 @@ neas
 nunca
 nombre
 name
+nica
+nico
 importa
 informacion
 industrial
@@ -979,6 +1034,9 @@ intersecan
 intentamos
 invervalo
 ingreso
+inico
+infro
+identifican
 Static
 SRAM
 Si
@@ -1004,6 +1062,7 @@ Switch
 SF
 Siguiente
 Simetr
+System
 las
 la
 localidad
@@ -1054,6 +1113,8 @@ largo
 limites
 ltiples
 length
+land
+llamado
 utilizan
 un
 uso
@@ -1082,6 +1143,10 @@ utilidades
 ususario
 ubica
 ubicaci
+utilizados
+usando
+unica
+unix
 flip
 flops
 fisico
@@ -1128,6 +1193,7 @@ false
 fileManager
 frontmatter
 function
+fork
 DRAM
 De
 Direct
@@ -1145,6 +1211,9 @@ Dependencia
 DMQ
 Drawing
 Donde
+Descriptors
+Descriptor
+Devuelve
 Estas
 En
 Estructuras
@@ -1245,6 +1314,7 @@ Modo
 Mediante
 MORE
 MY
+Memoria
 videojuegos
 volver
 vaya
@@ -1279,6 +1349,8 @@ velocidad
 vectorial
 vueltas
 values
+via
+vuelve
 gran
 guarda
 grande
@@ -1301,6 +1373,7 @@ generados
 groupBy
 grupoCapitulo
 getActiveFile
+gestion
 Tambien
 This
 Template
@@ -1352,6 +1425,10 @@ Curva
 Como
 Curvas
 Cu
+Calls
+Cmabia
+Call
+Crea
 hacer
 hay
 hits
@@ -1370,6 +1447,7 @@ hereda
 haberlo
 hash
 horizontal
+hijo
 otro
 ocupados
 obsidian
@@ -1398,6 +1476,7 @@ os
 objeto
 oscila
 opciones
+operacion
 Al
 Associative
 ASSOCIATIVE
@@ -1418,6 +1497,9 @@ AScJ
 Ambas
 Aca
 Autor
+Application
+API
+Asigna
 Un
 Used
 Untitle
@@ -1426,6 +1508,7 @@ User
 Usualmente
 Ue
 Unidad
+UNIX
 FIFO
 Frequently
 For
@@ -1438,6 +1521,7 @@ FdnJdbdl
 FkNgrVle
 Fuerzas
 Fuerza
+File
 NO
 Not
 No
@@ -1448,6 +1532,7 @@ Nos
 NULL
 NSzc
 Notice
+Notas
 will
 words
 with
@@ -1475,6 +1560,7 @@ Implementaci
 Inicio
 Is
 ITn
+Interface
 Box
 Bases
 Booteo

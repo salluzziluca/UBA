@@ -1,7 +1,8 @@
 <---
 dia: 2024-01-23
-
-
+referencia: [
+	,
+]
 ---
 ### Definición
 ---
@@ -14,8 +15,10 @@ dia: 2024-01-23
 	}
 	tR += "---";
 %>
-dia: 2024-01-23
-
+dia: 2024-04-04
+referencia: [
+	Kernel,
+]
 ---
 ### Definición
 ---

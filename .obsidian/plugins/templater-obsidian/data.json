@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "_template",
+      "folder": "Sistemas Operativos",
       "template": "_template/Lectura - Template.md"
     }
   ],

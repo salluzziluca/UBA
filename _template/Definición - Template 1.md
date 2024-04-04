@@ -9,7 +9,7 @@
 dia: <% tp.file.creation_date("YYYY-MM-DD") %>
 <%*
 	let carpeta = tp.file.folder(true);
-	let materia = carpeta.split("/")[(carpeta.lenght()-)];
+	let materia = carpeta.split("/")[(carpeta.lenght - 2)];
 	tR += "materia: " + materia;
 %>
 <%* 

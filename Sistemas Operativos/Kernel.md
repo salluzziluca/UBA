@@ -56,4 +56,4 @@ cambiar entre difernetes procesos
 1. Carga del kernel: el bootloader pasa a modo supervisor, va a buscar el kernel, lo carga a mameoria, setea el registro en proxima instruccion y ejecuta la primera instruccion del kernel
 
 ## Carga del kernel
-Se carga desde 
+Se carga desde un archivo zImage, no es un archivo ejecutable normal, está cargado de otra forma.

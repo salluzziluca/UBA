@@ -12,7 +12,7 @@ Además de IOPL, los permisos de puerto de E/S en el TSS (Task State Segment) ta
 > TOdo loq ue corra en modo kernel es seguro, todo lo que corra en mod ousuario es no seguro
 
 
-## Modo de trasnferencia 
+## Modo de transferencia 
 > como pasar de un modo a otro 
 
 Cada modo ocurre en un entorno por separado

@@ -392,6 +392,8 @@ actualizan
 arco
 alabeada
 anula
+autor
+autores
 cualquier
 carga
 cual
@@ -541,6 +543,7 @@ cerrado
 cumple
 contenidos
 circunferencia
+contador
 direcci
 de
 dynamic
@@ -1361,6 +1364,7 @@ AX
 AScJ
 Ambas
 Aca
+Autor
 Un
 Used
 Untitle

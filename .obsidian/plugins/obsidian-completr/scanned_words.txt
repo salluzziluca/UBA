@@ -102,6 +102,8 @@ respecto
 resolver
 rboles
 regular
+return
+rows
 se
 su
 son
@@ -196,6 +198,8 @@ segunda
 superpone
 suavidad
 suave
+sort
+splice
 que
 quien
 quedo
@@ -312,6 +316,13 @@ parametrizar
 parametro
 puntos
 plana
+preguntarMateria
+pathActual
+path
+pages
+parseInt
+primerCapitulo
+processFrontMatter
 acceder
 almacenan
 almacenar
@@ -394,6 +405,10 @@ alabeada
 anula
 autor
 autores
+api
+archivo
+async
+archivoActivo
 cualquier
 carga
 cual
@@ -544,6 +559,10 @@ cumple
 contenidos
 circunferencia
 contador
+const
+crearFrontmatter
+createFolder
+catch
 direcci
 de
 dynamic
@@ -629,6 +648,7 @@ declarativo
 definiciones
 devuelven
 derivada
+dv
 memoria
 mismo
 mientras
@@ -700,6 +720,12 @@ muchos
 marcar
 multiple
 media
+materiaArchivo
+map
+moverArchivo
+materias
+move
+mensaje
 en
 el
 eficientes
@@ -801,6 +827,7 @@ ecuacion
 ecuaciones
 extremos
 existe
+else
 tiempo
 tienden
 tener
@@ -867,6 +894,14 @@ tomando
 triangulos
 trabajar
 transformar
+tema
+temasExistentes
+tArchivos
+tArchivo
+try
+tempCreado
+temp
+trash
 no
 nuevo
 necesita
@@ -886,6 +921,8 @@ neamente
 nuestro
 neas
 nunca
+nombre
+name
 importa
 informacion
 industrial
@@ -941,6 +978,7 @@ imperativos
 intersecan
 intentamos
 invervalo
+ingreso
 Static
 SRAM
 Si
@@ -1015,6 +1053,7 @@ luego
 largo
 limites
 ltiples
+length
 utilizan
 un
 uso
@@ -1041,6 +1080,8 @@ user
 ue
 utilidades
 ususario
+ubica
+ubicaci
 flip
 flops
 fisico
@@ -1082,6 +1123,11 @@ fin
 fuerza
 fuente
 funciones
+filter
+false
+fileManager
+frontmatter
+function
 DRAM
 De
 Direct
@@ -1098,6 +1144,7 @@ Datos
 Dependencia
 DMQ
 Drawing
+Donde
 Estas
 En
 Estructuras
@@ -1231,6 +1278,7 @@ vertical
 velocidad
 vectorial
 vueltas
+values
 gran
 guarda
 grande
@@ -1250,6 +1298,9 @@ gHBCZ
 gP
 grados
 generados
+groupBy
+grupoCapitulo
+getActiveFile
 Tambien
 This
 Template
@@ -1300,6 +1351,7 @@ Constantes
 Curva
 Como
 Curvas
+Cu
 hacer
 hay
 hits
@@ -1345,6 +1397,7 @@ obtiene
 os
 objeto
 oscila
+opciones
 Al
 Associative
 ASSOCIATIVE
@@ -1394,11 +1447,14 @@ Nuevo
 Nos
 NULL
 NSzc
+Notice
 will
 words
 with
 wrapper
 wraper
+while
+workspace
 json
 jeje
 job

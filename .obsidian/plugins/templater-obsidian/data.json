@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Sistemas Operativos",
-      "template": "_template/Lectura - Template.md"
+      "template": "_template/Definición - Template 1.md"
     }
   ],
   "syntax_highlighting": true,

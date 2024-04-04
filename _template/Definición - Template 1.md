@@ -13,7 +13,7 @@ dia: <% tp.file.creation_date("YYYY-MM-DD") %>
 	tR += "materia: " + materia;
 %>
 <%* 
-	let capitulo = carpeta.split("/")[0]
+	let capitulo = carpeta.split("/")[1]
 	if(capitulo.startsWith("Untitle"){
 		let capitulo = await tp.system.prompt("Capitulo: ");
 	}

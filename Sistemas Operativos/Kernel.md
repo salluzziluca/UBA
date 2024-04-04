@@ -17,8 +17,8 @@ Además de IOPL, los permisos de puerto de E/S en el TSS (Task State Segment) ta
 
 Cada modo ocurre en un entorno por separado
 
-User mode ->kernel mode
-Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó el timer)
+#### User mode ->kernel mode
+Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó el timer). Estos tres eventos son, respectivamente: ex
 El kernel chequea periodicamente lo que ocurre mientras los programas estan siendo ejecutados, en caso de que tenga que desalojarlo. Esto se hace mediante un mecanista llamado "hardware counter"
 
 Paso a paso de las syscalls: 
@@ -39,7 +39,7 @@ Paso a paso de las syscalls:
     5. se devuelve el control al wraper y simultáneamente se pasa a user mode.
 5. Si el valor de retorno del la rutina de servicio de la system call da error, la función wrapper setea el valor en _errno_.
 
-Kernel mode -> user mode
+#### Kernel mode -> user mode
 Nuevo proceso
 Continuar despues de una interrupcion, una excepcion o una syscall
 cambiar entre difernetes procesos

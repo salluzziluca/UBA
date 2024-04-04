@@ -71,3 +71,21 @@ El trabajo de Init es **“conseguir que todo funcione como debe ser”** una 
 1. la comprobación y montaje de sistemas de archivos
     
 2. la puesta en marcha los servicios de usuario necesarios y, en última instancia, cambiar al entorno de usuario cuando el inicio del sistema se ha completado.
+En un sistema Linux estándar, Init se ejecuta con un parámetro, conocido como nivel de ejecución, que tiene un valor entre 1 y 6, y que determina que subsistemas pueden ser operacionales.
+
+Cada nivel de ejecución tiene sus propios scripts que codifican los diferentes procesos involucrados en la creación o salida del nivel de ejecución determinado, y son estas secuencias de comandos los necesarios en el proceso de arranque. Los scripts de Init se localizan normalmente en directorios con nombres como “/etc/rc…”.
+
+El archivo de configuración de más alto nivel para Init es /etc/inittab.
+
+Durante el arranque del sistema, se verifica si existe un nivel de ejecución predeterminado en el archivo /etc/inittab, si no, se debe introducir por medio de la consola del sistema. Después se procede a ejecutar todos los scripts relativos al nivel de ejecución especificado.
+
+Después de que se han dado lugar todos los procesos especificados, Init se aletarga, y espera a que uno de estos tres eventos sucedan:
+
+- que procesos comenzados finalicen o mueran;
+    
+- un fallo de la señal de potencia (energía);
+    
+- o una petición a través de /sbin/telinit para cambiar el nivel de ejecución.
+    
+
+Habitualmente en una instalación desktop se ejecuta comúnmente /sbin/init

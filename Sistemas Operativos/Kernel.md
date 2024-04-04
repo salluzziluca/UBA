@@ -57,3 +57,5 @@ cambiar entre difernetes procesos
 
 ## Carga del kernel
 Se carga desde un archivo zImage, no es un archivo ejecutable normal, está cargado de otra forma. Contiene un header hace una cantidad mínima de instalación del hardware, descomprime la imagen completamente en la memoria alta, teniendo en cuenta cualquier disco RAM si está configurado (/boot/initrd-2.6.14.2.img).
+
+Luego, ejecuta, llamando a la funcion startaup del kernel 

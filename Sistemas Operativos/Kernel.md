@@ -18,7 +18,7 @@ Además de IOPL, los permisos de puerto de E/S en el TSS (Task State Segment) ta
 Cada modo ocurre en un entorno por separado
 
 #### User mode ->kernel mode
-Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó el timer). Estos tres eventos son, respectivamente: ex
+Mediante syscals, excepciones (division por cero), interrupciones o timer del kernel (la interrupcion 0 es la de que terminó el timer). Estos tres eventos son, respectivamente: externos, generados intencionalmente o internos inesperados
 El kernel chequea periodicamente lo que ocurre mientras los programas estan siendo ejecutados, en caso de que tenga que desalojarlo. Esto se hace mediante un mecanista llamado "hardware counter"
 
 Paso a paso de las syscalls: 

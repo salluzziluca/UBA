@@ -6,4 +6,6 @@ Los sitemas operativos modernos proporncionan dos tipos de virtualizacion:
 - Virtualizacion de Procesador 
 
 ## Virtualizacion de Memoria
-Le hace creer al Proceso que tiene toda la memoria disponible para ser reservada y usada como si él solo estuviera usando la computadora
+Le hace creer al [[proceso]] que tiene toda la memoria disponible para ser reservada y usada como si él solo estuviera usando la computadora(ilusion). Todos los procesos en Linux estan divididos en 4 segmentos:
+
+- Test: 

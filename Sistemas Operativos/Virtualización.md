@@ -93,3 +93,12 @@ Para esto utiliza la API de procesos
 - La tabla de descriptores de archivos abiertos (Open File dscriptor Table).
 - Un puntero al directorio actual
 - Datos estadísticos del uso de la cpu, información de perfilado, uso de disco y limites de recursos.
+
+###### Estructura Proc: 
+- Identificación: cada proceso tiene un identificador único o _process ID_ (PID) y ademas perteneces a un determinado grupo de procesos.
+- Ubicación del mapa de direcciones del Kerner del u area del proceso.
+- Estado actual del proceso
+- Un puntero hacia el siguiente proceso en el planificador y al anterior.
+- Prioridad
+- Información para el manejo de señales.
+- Información para la administración de memoria.

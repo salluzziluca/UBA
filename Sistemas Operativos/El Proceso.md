@@ -19,4 +19,4 @@ Devuelve: Un archivo de texto .s con las instrucciones de assembly
 
 ### Ensamblaje 
 Recibe: Un programa assembly en .s
-Traduce el archvi
+Traduce el archivo a instrucciones del lenguaje de maquina ()

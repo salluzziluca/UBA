@@ -564,6 +564,7 @@ analisis
 ambito
 arim
 acuerdo
+assembly
 cualquier
 carga
 cual
@@ -1206,6 +1207,7 @@ telinit
 tome
 tando
 termina
+texto
 no
 nuevo
 necesita
@@ -1579,6 +1581,7 @@ EDC
 Energ
 Entonces
 Establecer
+Ensamblaje
 Las
 Localidad
 Least
@@ -1753,6 +1756,7 @@ TSS
 Task
 Teoria
 Tipo
+Traduce
 Cach
 Caracteristicas
 CPU

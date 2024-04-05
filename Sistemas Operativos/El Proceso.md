@@ -9,4 +9,5 @@ La fase de compilacion son 4 etapas que utilizan 4 herramientas:
 4. el link editor o linker. Linking loader
 
 ### Procesamiento
+Recibe: Un programa en C
 El procesador (cpp) modifica el codigo fuente original del porgrama en C de acuerdo a las directivas que comienzan con `#`. 

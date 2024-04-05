@@ -63,6 +63,10 @@ Un proceso necesita permisos del kernel para:
 
 Para esto utiliza la API de procesos 
 
-### API de p
+### API de procesos 
+1. Create:  todo SO debe incluir la forma de crear un nuevo proceso 
+2. Destruccion: Para destruirlo por la fuerza 
+3. Wait: esperar a que el proceso termine la ejecucion 
+4. 
 
 

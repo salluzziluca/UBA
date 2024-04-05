@@ -33,3 +33,8 @@ Cada proceso piensa que tiene toda la memoria de la computadora para si mismo, s
 
 
 ### Traduccion de Direcciones 
+Se traduce una **Dirección Virtual** (emitida por la CPU) en una **Dirección Física** (la memoria). Este mapeo se realiza por hardware, más específicamente por **Memory Management Unit (MMU)**.
+
+
+## Virtualizacion de Procesador 
+Consiste en dar la ilusión de la exitencia de un unico procesador par ac

@@ -38,7 +38,7 @@ Los procesos tienen asociados los archivos abiertos que estan usando. Estos se i
 ![[Pasted image 20240315152005.png]]
 
 ### System Call fork()
-La unica forma de que un usuario cree un proceso en el sistema UNIX es mediante system call fork. [[De Programa a Proceso]] que lo invoca es llamado proceso padre, el nuevo proceso creado es llamado hijo. Son una copia exacta que solo se diferencian por el PID (el padre se queda con una copia del PID del hijo para saber cual es)
+La unica forma de que un usuario cree un proceso en el sistema UNIX es mediante system call fork. El [[Proceso]] que lo invoca es llamado proceso padre, el nuevo proceso creado es llamado hijo. Son una copia exacta que solo se diferencian por el PID (el padre se queda con una copia del PID del hijo para saber cual es)
 Todos los procesos pueden crear procesos (en unix)
 ![[Pasted image 20240315152840.png]]Notas:
 1. Padre e hijo son copias exactas. 

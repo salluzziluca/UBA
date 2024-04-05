@@ -42,4 +42,4 @@ Consiste en dar la ilusión de la existencia de un único procesador par cualqui
 - Cada proceso cree que tiene toda la cpu
 - Cada proceso cree que todos los dispositivos le pertenecen 
 - Distintos dispositivos parecen tener el mismo nivel de interfaces 
-- Las interfaces con los dispositivos son mas potents que el 
+- Las interfaces con los dispositivos son mas potents que el bare metal

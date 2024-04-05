@@ -6,7 +6,7 @@
 
 >“Un proceso **es un programa en medio de su ejecución**” - [LOV]
 
-
+==UN PROCESO ES SOLAMENTE UN PROGRAMA EN EJECUCU
 Un proceso incluye: 
 - Los [[archivos]] abiertos
 - Las selañes pendientes

@@ -23,6 +23,7 @@ Ring
 Relocalizacion
 RISC
 Reemplazo
+Recibe
 Por
 Pero
 PC
@@ -54,6 +55,7 @@ Process
 Padre
 POPF
 Proceso
+Procesamiento
 random
 refiere
 representa
@@ -437,6 +439,7 @@ preprocesamiento
 primeras
 pila
 permanecen
+porgrama
 acceder
 almacenan
 almacenar
@@ -560,6 +563,7 @@ asoigancion
 analisis
 ambito
 arim
+acuerdo
 cualquier
 carga
 cual
@@ -755,6 +759,8 @@ cadena
 congruencias
 conocida
 compilaci
+cpp
+comienzan
 direcci
 de
 dynamic
@@ -969,6 +975,7 @@ macros
 mapa
 modificacion
 mapeo
+modifica
 en
 el
 eficientes
@@ -1112,6 +1119,7 @@ ensambladores
 encuentra
 especializada
 estaticas
+extension
 tiempo
 tienden
 tener
@@ -1639,6 +1647,7 @@ Opcode
 ONE
 Otros
 Operaciones
+Otro
 Memory
 Muy
 Map
@@ -1787,6 +1796,7 @@ Compilar
 Commonly
 Ciclo
 Compilacion
+Compilaci
 hacer
 hay
 hits
@@ -1857,6 +1867,7 @@ own
 otherwise
 out
 optimizacion
+original
 Al
 Associative
 ASSOCIATIVE

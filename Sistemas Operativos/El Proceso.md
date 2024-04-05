@@ -14,3 +14,5 @@ El procesador (cpp) modifica el codigo fuente original del porgrama en C de acue
 Devuelve: Otro programa en C con la extension `.i`
 
 ### Compilación 
+Recibe: un programa C en .i
+Devuelve: Un archivo de texto .s con las instrucciones de assembly

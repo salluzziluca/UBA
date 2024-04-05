@@ -26,6 +26,7 @@ Reemplazo
 Recibe
 Ruta
 Region
+Registra
 Por
 Pero
 PC
@@ -67,6 +68,7 @@ Proteccion
 Program
 Proc
 Prioridad
+Pone
 random
 refiere
 representa
@@ -164,6 +166,8 @@ register
 recursos
 resumida
 reconozca
+record
+regi
 se
 su
 son
@@ -312,6 +316,14 @@ situacion
 structure
 sbrk
 secci
+signals
+secciones
+signal
+std
+streams
+stdio
+sobreponiendo
+space
 que
 quien
 quedo
@@ -510,6 +522,8 @@ proc
 perfilado
 perteneces
 planificador
+peude
+parent
 acceder
 almacenan
 almacenar
@@ -654,6 +668,14 @@ algun
 administraci
 argv
 algunas
+allamada
+actualizados
+accounting
+atexit
+address
+asocia
+alloca
+attach
 cualquier
 carga
 cual
@@ -869,6 +891,8 @@ contains
 cuyo
 chequear
 current
+consecuencia
+cierta
 direcci
 de
 dynamic
@@ -999,6 +1023,8 @@ dscriptor
 directorio
 demasiados
 directoty
+defecto
+des
 memoria
 mismo
 mientras
@@ -1108,6 +1134,11 @@ mecanismos
 metal
 matar
 macar
+mantenidos
+manda
+muerte
+metros
+magia
 en
 el
 eficientes
@@ -1269,6 +1300,10 @@ exit
 exec
 esas
 ejecutarse
+excec
+ejecutble
+ejecutarlo
+especificada
 tiempo
 tienden
 tener
@@ -1364,6 +1399,7 @@ trace
 traduce
 termine
 table
+terminar
 no
 nuevo
 necesita
@@ -1498,6 +1534,8 @@ info
 id
 incrementar
 inode
+inodo
+iene
 Static
 SRAM
 Si
@@ -1615,6 +1653,8 @@ llamadas
 ls
 like
 level
+liberan
+locks
 utilizan
 un
 uso
@@ -1725,6 +1765,8 @@ fallas
 filename
 forl
 falso
+foros
+flusheados
 DRAM
 De
 Direct
@@ -1797,6 +1839,7 @@ EN
 EJECUCI
 Entry
 Espera
+Exit
 Las
 Localidad
 Least
@@ -1820,6 +1863,7 @@ LInk
 Le
 Locales
 Leer
+Libera
 bien
 burner
 bajo
@@ -1862,6 +1906,7 @@ bibliotecas
 binary
 byte
 bare
+buffer
 Only
 Ownership
 Operativo
@@ -2051,6 +2096,7 @@ Copia
 Consiste
 Create
 Crece
+Cierra
 hacer
 hay
 hits
@@ -2130,6 +2176,7 @@ olvidemos
 operativo
 operativos
 obviamente
+on
 Al
 Associative
 ASSOCIATIVE
@@ -2169,6 +2216,7 @@ Aislamiento
 Acceder
 Area
 Argumentos
+Algoritmicamente
 Un
 Used
 Untitle
@@ -2250,6 +2298,7 @@ Ir
 Identificacion
 Informaci
 Identificaci
+Ignora
 Box
 Bases
 Booteo
@@ -2266,6 +2315,7 @@ Huf
 Hola
 Habitualmente
 Hardware
+Handler
 YYYY
 YOU
 yo
@@ -2274,6 +2324,7 @@ ylZVvtGy
 zero
 zHqT
 zImage
+zombie
 Zero
 ZM
 Variaciones

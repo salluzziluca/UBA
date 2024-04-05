@@ -16,3 +16,6 @@ Algoritmicamente hace lo siguiente:
 
 Usualmente no se utiliza y se llama a la funcion exit de la std lib de C, esta: 
 
+- llama a los Exit Handler que son dos funciones llamadas _on_exit()_ y _atexit()_
+- los streams de stdio son flusheados ( buffer–>disco )
+- se llama a la system call __exit()_.

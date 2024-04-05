@@ -153,6 +153,8 @@ reservada
 region
 realidad
 requiera
+realizarse
+reanudarla
 se
 su
 son
@@ -296,6 +298,8 @@ seccion
 solamente
 sica
 sucede
+seteo
+situacion
 que
 quien
 quedo
@@ -487,6 +491,7 @@ piensa
 programaci
 parecen
 potents
+poder
 acceder
 almacenan
 almacenar
@@ -627,6 +632,7 @@ alocada
 atender
 asbtracci
 afectar
+algun
 cualquier
 carga
 cual
@@ -962,6 +968,7 @@ dinamica
 data
 destinada
 diversos
+destruirlo
 memoria
 mismo
 mientras
@@ -1069,6 +1076,7 @@ modernos
 mecanismo
 mecanismos
 metal
+matar
 en
 el
 eficientes
@@ -1221,6 +1229,9 @@ execution
 ello
 emitida
 espec
+equipo
+enviar
+esperar
 tiempo
 tienden
 tener
@@ -1314,6 +1325,7 @@ toma
 transforma
 trace
 traduce
+termine
 no
 nuevo
 necesita
@@ -1444,6 +1456,7 @@ ilusion
 inicia
 ilusi
 interfaces
+info
 Static
 SRAM
 Si
@@ -1480,6 +1493,7 @@ Simbolos
 Sirve
 SOLAMENTE
 Simplicidad
+Status
 las
 la
 localidad
@@ -1558,6 +1572,7 @@ leer
 llevar
 llamadas
 ls
+like
 utilizan
 un
 uso
@@ -1695,6 +1710,7 @@ Data
 Direcciones
 Direcci
 Distintos
+Destruccion
 Estas
 En
 Estructuras
@@ -1756,6 +1772,7 @@ Linking
 LInk
 Le
 Locales
+Leer
 bien
 burner
 bajo
@@ -1827,6 +1844,7 @@ Multinivel
 MEEEEEE
 Management
 MMU
+Miscellaneous
 videojuegos
 volver
 vaya
@@ -1978,6 +1996,7 @@ CIERRA
 CERRARLO
 Copia
 Consiste
+Create
 hacer
 hay
 hits
@@ -2093,6 +2112,7 @@ Archivos
 Apertura
 ABOUT
 Aislamiento
+Acceder
 Un
 Used
 Untitle
@@ -2203,6 +2223,7 @@ Valor
 Valores
 Virtualizacion
 Virtual
+Vario
 xxx
 xx
 xxxxxxxx
@@ -2218,3 +2239,4 @@ GNcd
 Genera
 GRIAL
 Globales
+Wait

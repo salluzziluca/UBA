@@ -71,3 +71,4 @@ Para esto utiliza la API de procesos
 5. Status: una forma de saber sobre la situacion del [[proceso]] 
 
 #### API de procesos de UNIX-like, las system calls.
+E¿ Un proceso en unix sólo puede ser creado por otro

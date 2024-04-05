@@ -29,4 +29,5 @@ Devuelve: Un programa ejecutable con todas las librerias necesarias para que est
 ![[Pasted image 20240405140700.png]]
 
 ## En UNIX 
-Un programa en UNIX contiene 
+Un program es un archivo que posee toda la informacion de como construir un proceso en memoria. Este contiene 
+- Formato de Identificacion Binaria: Cada archivo posee metadata describiendo el formato ejecutable. este puede ser 

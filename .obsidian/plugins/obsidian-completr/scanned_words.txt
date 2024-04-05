@@ -24,6 +24,7 @@ Relocalizacion
 RISC
 Reemplazo
 Recibe
+Ruta
 Por
 Pero
 PC
@@ -139,6 +140,11 @@ reemplazada
 resumen
 requerida
 realocacion
+ruta
+relativa
+read
+relativas
+restringidos
 se
 su
 son
@@ -268,6 +274,13 @@ siguenes
 sint
 sem
 scuales
+seek
+segun
+sencillas
+separan
+segundo
+simplemente
+sela
 que
 quien
 quedo
@@ -447,6 +460,9 @@ porgrama
 problemas
 pu
 precisamente
+puntero
+provee
+pendientes
 acceder
 almacenan
 almacenar
@@ -574,6 +590,13 @@ acuerdo
 assembly
 algoritmo
 ado
+abrirlos
+absoluta
+append
+adelante
+atr
+aplicaci
+abstracci
 cualquier
 carga
 cual
@@ -775,6 +798,11 @@ construir
 common
 constantes
 cajas
+caracteres
+csv
+columna
+cabo
+condesarlos
 direcci
 de
 dynamic
@@ -891,6 +919,8 @@ desaparecen
 describiendo
 deben
 durante
+dan
+derechos
 memoria
 mismo
 mientras
@@ -1351,6 +1381,10 @@ inst
 identifica
 iniciar
 inicializar
+itera
+indica
+informaciones
+importantes
 Static
 SRAM
 Si
@@ -1384,6 +1418,7 @@ Su
 Solo
 SANTO
 Simbolos
+Sirve
 las
 la
 localidad
@@ -1455,6 +1490,11 @@ locales
 librerias
 linking
 literales
+llee
+lista
+lineas
+leer
+llevar
 utilizan
 un
 uso
@@ -1583,6 +1623,7 @@ Despu
 Detecta
 DLL
 Direccion
+DOOONT
 Estas
 En
 Estructuras
@@ -1678,6 +1719,8 @@ because
 bus
 busqueda
 bibliotecas
+binary
+byte
 Only
 Ownership
 Operativo
@@ -1704,6 +1747,7 @@ MORE
 MY
 Memoria
 Multinivel
+MEEEEEE
 videojuegos
 volver
 vaya
@@ -1799,6 +1843,7 @@ Teoria
 Tipo
 Traduce
 Transferir
+Tell
 Cach
 Caracteristicas
 CPU
@@ -1846,6 +1891,8 @@ Compilaci
 COFF
 Cajas
 Control
+CIERRA
+CERRARLO
 hacer
 hay
 hits
@@ -1920,6 +1967,8 @@ original
 ordenadas
 output
 object
+olvidemos
+operativo
 Al
 Associative
 ASSOCIATIVE
@@ -1952,6 +2001,9 @@ Analisis
 Analizar
 Asociar
 Algoritmos
+Archivos
+Apertura
+ABOUT
 Un
 Used
 Untitle
@@ -1976,6 +2028,7 @@ FkNgrVle
 Fuerzas
 Fuerza
 File
+FORGET
 NO
 Not
 No
@@ -1995,6 +2048,7 @@ wraper
 while
 workspace
 would
+write
 json
 jeje
 job
@@ -2038,6 +2092,7 @@ Huf
 Hola
 Habitualmente
 YYYY
+YOU
 yo
 ya
 ylZVvtGy

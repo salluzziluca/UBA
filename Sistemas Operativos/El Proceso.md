@@ -27,3 +27,6 @@ Recibe: el archivo objeto (.i)
 Devuelve: Un programa ejecutable con todas las librerias necesarias para que este corra, ordenadas de forma tal que no hay problemas con las posiciones de memoria
 
 ![[Pasted image 20240405140700.png]]
+
+## En UNIX
+Un programa en unix puee ser de "formato de indentificacion binario

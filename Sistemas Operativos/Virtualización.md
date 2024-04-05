@@ -25,4 +25,11 @@ Para ejecutar el programa, el SO:
 Para que un prceso se ejecute, tanto él como el SO tiene que estar en memoria. El SO para iniciar la ejecución, manejar las interrupciones y/o atender syscalls. 
 El SO, cuando hay varios procesos en memoria, tiene que preocuparse por que cada uno pueda escribir solamente en su propia memoria (no la del SO ni la de otros procesos).  Para ello el Hardware debe proveer un mecanismo de protección de memoria.
 
-Uno de estos mecanismos es denominado Memoria Virtual. L la memoria virtual es una **asbtracción** por al cual la **memoria física** puede ser compartida por diversos procesos.
+Uno de estos mecanismos es denominado Memoria Virtual. La memoria virtual es una **asbtracción** por al cual la **memoria física** puede ser compartida por diversos procesos.
+
+Un componente clave de la memoria virtual son las **direcciones virtuales**, con las direcciones virtuales, para cada proceso su memoria inicia en el mismo lugar, la dirección 0.
+
+Cada proceso piensa que tiene toda la memoria de la computadora para si mismo, si bien obviamente esto en la realidad no sucede. El hardware traduce la dirección virtual a una dirección física de memoria.
+
+
+### Traduccion de Direcciones 

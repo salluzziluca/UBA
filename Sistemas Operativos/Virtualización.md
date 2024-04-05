@@ -81,3 +81,15 @@ Para esto utiliza la API de procesos
   1. emtrada en la Process Table Entry 
   2. La user area
   3. La Process Region Entry, region table y page table que definen el mapeo de la memoria virtual vs fisica del proceso. 
+
+
+###### User Area contains :
+- La Process Control Block - guarda el hardware context cuando el proceso no se esta ejecutando
+- Un puntero a la proc structure del proceso
+- El UID y GID real
+- Argumentos para, y valores de retorno o errores hacia, la system call actual
+- Manejadores de Señales
+- Información sobre las areas de memoria text,data, stack, heap y otra información.
+- La tabla de descriptores de archivos abiertos (Open File dscriptor Table).
+- Un puntero al directorio actual
+- Datos estadísticos del uso de la cpu, información de perfilado, uso de disco y limites de recursos.

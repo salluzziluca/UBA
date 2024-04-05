@@ -110,6 +110,6 @@ Para esto utiliza la API de procesos
 4. **kill(pid)**: Termina el proceso cuyo pid es el parámetro.
 5. **getpid()**: Devuelve el pid del proceso actual.
 6. **[[exec(filename, argv)]])**: Carga un archivo y lo ejecuta.
-7. **sbrk(n)**: Crece la memoria del proceso en n bytes.
+7. **[[sbrk(n)]]**: Crece la memoria del proceso en n bytes.
 
 Entonces, que hace [[fork()]]?:

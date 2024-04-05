@@ -56,3 +56,7 @@ Como se provee esta ilusion??
 
 ## Procesos dentro del SO 
 Un proceso necesita permisos del kernel para: 
+- Acceder a memoria perteneciente a otro proceso 
+- Leer o escribir en el disco 
+- cambiar algun seteo de hardware del equipo 
+- enviar info a otro proceso 

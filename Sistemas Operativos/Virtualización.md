@@ -118,3 +118,5 @@ Entonces, que hace fork()?:
 3. Crea una copia lógica del contexto del proceso padre, algunas de esas partes pueden ser compartidas como la sección **text**
 4. Realiza ciertas operaciones de I/O.
 5. Devuelve el número de ID del hijo al proceso **padre** [^3], y un 0 al proceso hijo
+
+Por dentro, lo que hace es esto: 

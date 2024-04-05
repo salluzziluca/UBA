@@ -67,6 +67,7 @@ Para esto utiliza la API de procesos
 1. Create:  todo SO debe incluir la forma de crear un nuevo proceso 
 2. Destruccion: Para destruirlo por la fuerza 
 3. Wait: esperar a que el proceso termine la ejecucion 
-4. 
+4.  **Control Vario (Miscellaneous Control)**: Además de esperar o matar a un proceso **otros tipos de operaciones** deben poder realizarse. Por ejemplo, suspender su ejecución por un tiempo y luego reanudarla.
+5. Status: una forma de saber sobre la situacion del proceso 
 
-
+#### API de procesos de UNIX-like, las system calls.

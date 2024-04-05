@@ -23,10 +23,11 @@ Traduce el archivo a instrucciones del lenguaje de maquina empaquetandolas en un
 Devuelve: un .o
 
 ### LInk Editor 
+![[Pasted image 20240405144211.png]]
 Recibe: el archivo objeto (.i)
 Devuelve: Un programa ejecutable con todas las librerias necesarias para que este corra, ordenadas de forma tal que no hay problemas con las posiciones de memoria
 
-![[Pasted image 20240405144211.png]]
+
 ![[Pasted image 20240405140700.png]]
 
 ## En UNIX 
@@ -35,3 +36,6 @@ Un program es un archivo que posee toda la informacion de como construir un proc
 - Instrucciones del lenguaje de maquina
 - Direccion del punto de entrada del programa (identifica la direccion con la cual la ejecucion del programa debe iniciar)
 - Datos: Valores de los datos con lo scuales deben inicializar variables, constantes y literales.
+- Simbolos y tablas de realocacion
+- bibliotecas compartidas
+- informacion adicional.

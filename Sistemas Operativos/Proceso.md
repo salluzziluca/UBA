@@ -8,4 +8,12 @@
 
 
 Un proceso incluye: 
-- Los archivos abi
+- Los archivos abiertos
+- Las selañes pendientes
+- datos internos del kernel
+- el estado completo del procesador 
+- un espacio de direcciones de memoria 
+- uno o mas hilos de ejecución. Cada thread contiene:
+	- Un unico program counter 
+	- Un stack 
+	- 

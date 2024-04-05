@@ -50,3 +50,5 @@ Aislamiento frente a fallas:
 - Los errores no colapsan a toda la maquina
 
 Como se provee esta ilusion??
+
+![[Pasted image 20240405154215.png]]

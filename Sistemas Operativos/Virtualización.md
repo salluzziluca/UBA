@@ -102,3 +102,12 @@ Para esto utiliza la API de procesos
 - Prioridad
 - Información para el manejo de señales.
 - Información para la administración de memoria.
+
+## API de UNIX resumida
+1. **fork()**: Crea un proceso y devuelve su id.
+2. **exit()**: Termina el proceso actual.
+3. **wait()**: Espera por un proceso hijo.
+4. **kill(pid)**: Termina el proceso cuyo pid es el parámetro.
+5. **getpid()**: Devuelve el pid del proceso actual.
+6. **exec(filename, argv)**: Carga un archivo y lo ejecuta.
+7. **sbrk(n)**: Crece la memoria del proceso en n bytes.

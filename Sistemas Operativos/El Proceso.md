@@ -39,3 +39,8 @@ Un program es un archivo que posee toda la informacion de como construir un proc
 - Simbolos y tablas de realocacion
 - bibliotecas compartidas
 - informacion adicional.
+
+
+---
+
+Un programa es algo sin vida, es el SO el que toma ese puñado de bytes 

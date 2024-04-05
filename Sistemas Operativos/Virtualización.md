@@ -19,3 +19,6 @@ Para ejecutar el programa, el SO:
 1. Copia ls instrucciones en la seccion .code y los datos en la seccion .data. 
 2. El SO setea una region de memoria llamada execution stack (.stack) que mantiene el estado de las varibles locales durante las llamadas a los procedimientos.
 3. El SO tambien setea una region de memoria llamada heap, destinada a alojar cualquier estructura de datos alocada en forma dinamica que el programa pueda necesitar.
+
+
+### Proteccion de Memoria

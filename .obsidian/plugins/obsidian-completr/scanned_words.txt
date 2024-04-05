@@ -368,6 +368,7 @@ predeterminado
 procede
 potencia
 petici
+porograma
 acceder
 almacenan
 almacenar
@@ -641,6 +642,7 @@ comandos
 configuraci
 consola
 comenzados
+compilar
 direcci
 de
 dynamic
@@ -944,6 +946,7 @@ esencia
 especificado
 especificados
 espera
+edita
 tiempo
 tienden
 tener
@@ -1157,6 +1160,7 @@ Simetr
 System
 State
 Segment
+Sistemas
 las
 la
 localidad
@@ -1212,6 +1216,7 @@ llamado
 llamando
 ltima
 localizan
+lang
 utilizan
 un
 uso
@@ -1409,6 +1414,7 @@ Operativo
 OPTIONS
 Ocupados
 ORyPE
+Operativos
 Memory
 Muy
 Map
@@ -1593,6 +1599,7 @@ opciones
 operacion
 opera
 operacionales
+obtener
 Al
 Associative
 ASSOCIATIVE

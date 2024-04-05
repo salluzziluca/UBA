@@ -27,9 +27,9 @@ El SO, cuando hay varios procesos en memoria, tiene que preocuparse por que cada
 
 Uno de estos mecanismos es denominado Memoria Virtual. La memoria virtual es una **asbtracción** por al cual la **memoria física** puede ser compartida por diversos procesos.
 
-Un componente clave de la memoria virtual son las **direcciones virtuales**, con las direcciones virtuales, para cada proceso su memoria inicia en el mismo lugar, la dirección 0.
+Un componente clave de la memoria virtual son las **direcciones virtuales**, con las direcciones virtuales, para cada [[proceso]] su memoria inicia en el mismo lugar, la dirección 0.
 
-Cada proceso piensa que tiene toda la memoria de la computadora para si mismo, si bien obviamente esto en la realidad no sucede. El hardware traduce la dirección virtual a una dirección física de memoria.
+Cada [[proceso]] piensa que tiene toda la memoria de la computadora para si mismo, si bien obviamente esto en la realidad no sucede. El hardware traduce la dirección virtual a una dirección física de memoria.
 
 
 ### Traduccion de Direcciones 
@@ -40,8 +40,8 @@ Se traduce una **Dirección Virtual** (emitida por la CPU) en una **Direcció
 Consiste en dar la ilusión de la existencia de un único procesador par cualquier programa que requiera de su uso. 
 
 Simplicidad en la programación:
-- Cada proceso cree que tiene toda la cpu
-- Cada proceso cree que todos los dispositivos le pertenecen 
+- Cada [[proceso]] cree que tiene toda la cpu
+- Cada [[proceso]] cree que todos los dispositivos le pertenecen 
 - Distintos dispositivos parecen tener el mismo nivel de interfaces 
 - Las interfaces con los dispositivos son mas potents que el bare metal
 
@@ -55,19 +55,19 @@ Como se provee esta ilusion??
 
 
 ## Procesos dentro del SO 
-Un proceso necesita permisos del kernel para: 
-- Acceder a memoria perteneciente a otro proceso 
+Un [[proceso]] necesita permisos del [[kernel]] para: 
+- Acceder a memoria perteneciente a otro [[proceso]] 
 - Leer o escribir en el disco 
 - cambiar algun seteo de hardware del equipo 
-- enviar info a otro proceso 
+- enviar info a otro [[proceso]] 
 
 Para esto utiliza la API de procesos 
 
 ### API de procesos 
-1. Create:  todo SO debe incluir la forma de crear un nuevo proceso 
+1. Create:  todo SO debe incluir la forma de crear un nuevo [[proceso]] 
 2. Destruccion: Para destruirlo por la fuerza 
-3. Wait: esperar a que el proceso termine la ejecucion 
-4.  **Control Vario (Miscellaneous Control)**: Además de esperar o matar a un proceso **otros tipos de operaciones** deben poder realizarse. Por ejemplo, suspender su ejecución por un tiempo y luego reanudarla.
-5. Status: una forma de saber sobre la situacion del proceso 
+3. Wait: esperar a que el [[proceso]] termine la ejecucion 
+4.  **Control Vario (Miscellaneous Control)**: Además de esperar o matar a un [[proceso]] **otros tipos de operaciones** deben poder realizarse. Por ejemplo, suspender su ejecución por un tiempo y luego reanudarla.
+5. Status: una forma de saber sobre la situacion del [[proceso]] 
 
 #### API de procesos de UNIX-like, las system calls.

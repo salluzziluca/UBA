@@ -22,4 +22,5 @@ Para ejecutar el programa, el SO:
 
 
 ### Proteccion de Memoria
-Para que un prceso se ejecute, tanto él como el SO tiene que estar en memoria. El SO para iniciar la ejecución, manejar las interrupciones y/o atender syscalls
+Para que un prceso se ejecute, tanto él como el SO tiene que estar en memoria. El SO para iniciar la ejecución, manejar las interrupciones y/o atender syscalls. 
+El SO, cuando hay varios procesos en memoria, tiene que preocuparse por que cada uno pueda escribir solamente en su po

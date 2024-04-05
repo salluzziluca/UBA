@@ -123,4 +123,5 @@ Para esto utiliza la API de procesos
 
 
 ## Gestion de Procesos del Kernel 
-El kernel almacena la lista de procesos mediante una lista circular doblemente enlazada 
+El kernel almacena la lista de procesos mediante una lista circular doblemente enlazada llamada task list
+![[Pasted image 20240405174018.png]]

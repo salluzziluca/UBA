@@ -172,6 +172,7 @@ regi
 reservar
 recordar
 reservando
+relacionados
 se
 su
 son
@@ -328,6 +329,7 @@ streams
 stdio
 sobreponiendo
 space
+sucedi
 que
 quien
 quedo
@@ -529,6 +531,7 @@ planificador
 peude
 parent
 pedirle
+point
 acceder
 almacenan
 almacenar
@@ -683,6 +686,7 @@ alloca
 attach
 ajuste
 autom
+aeagerly
 cualquier
 carga
 cual
@@ -900,6 +904,7 @@ chequear
 current
 consecuencia
 cierta
+cualqueri
 direcci
 de
 dynamic
@@ -1148,6 +1153,7 @@ metros
 magia
 malloc
 man
+memorai
 en
 el
 eficientes
@@ -1313,6 +1319,8 @@ excec
 ejecutble
 ejecutarlo
 especificada
+estatico
+err
 tiempo
 tienden
 tener
@@ -1672,6 +1680,7 @@ liberan
 locks
 limite
 liberando
+lazily
 utilizan
 un
 uso
@@ -1785,6 +1794,8 @@ forl
 falso
 foros
 flusheados
+form
+free
 DRAM
 De
 Direct
@@ -1960,6 +1971,7 @@ Management
 MMU
 Miscellaneous
 Manejadores
+Metamorfosis
 videojuegos
 volver
 vaya
@@ -2198,6 +2210,7 @@ operativo
 operativos
 obviamente
 on
+opreaciones
 Al
 Associative
 ASSOCIATIVE
@@ -2295,6 +2308,7 @@ job
 juntos
 jUzp
 justo
+junto
 Instructions
 Idem
 IEEE

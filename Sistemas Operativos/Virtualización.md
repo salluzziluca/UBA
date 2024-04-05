@@ -119,3 +119,8 @@ Para esto utiliza la API de procesos
 3. Se crea el heap reservando otra cierta cantidad de memoria, este sirve para la memorai dinamica (malloc y free)
 4. El SO realiza otras opreaciones, relacionados con la entrada y salida de datos (std in, std out, std err, etc)
 5.  Una vez que todo lo anterior sucedió, un última cosa sucede, se setea el punto de entrada (entry point) de ejecución de las instrucciones del programa en el main().
+
+
+
+## Gestion de Procesos del Kernel 
+El kernel almacena la lista de procesos mediante una lista circular doblemente enlazada 

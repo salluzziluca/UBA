@@ -60,3 +60,9 @@ Un proceso necesita permisos del kernel para:
 - Leer o escribir en el disco 
 - cambiar algun seteo de hardware del equipo 
 - enviar info a otro proceso 
+
+Para esto utiliza la API de procesos 
+
+### API de p
+
+

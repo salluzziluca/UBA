@@ -16,4 +16,5 @@ Le hace creer al [[proceso]] que tiene toda la memoria disponible para ser reser
 ![[Pasted image 20240405152008.png]]
 
 Para ejecutar el programa, el SO: 
-1. Copia ls instrucciones
+1. Copia ls instrucciones en la seccion .code y los datos en la seccion .data. 
+2. El SO setea una region de memoria llamada execution stack (.stack) que mantiene el esta

@@ -57,6 +57,7 @@ POPF
 Proceso
 Procesamiento
 Programaci
+Proteger
 random
 refiere
 representa
@@ -444,6 +445,8 @@ pila
 permanecen
 porgrama
 problemas
+pu
+precisamente
 acceder
 almacenan
 almacenar
@@ -570,6 +573,7 @@ arim
 acuerdo
 assembly
 algoritmo
+ado
 cualquier
 carga
 cual
@@ -1225,6 +1229,8 @@ termina
 texto
 toda
 tablas
+toma
+transforma
 no
 nuevo
 necesita
@@ -1485,6 +1491,7 @@ used
 utilizada
 utilizar
 unificada
+util
 flip
 flops
 fisico
@@ -1791,6 +1798,7 @@ Task
 Teoria
 Tipo
 Traduce
+Transferir
 Cach
 Caracteristicas
 CPU
@@ -1837,6 +1845,7 @@ Compilacion
 Compilaci
 COFF
 Cajas
+Control
 hacer
 hay
 hits

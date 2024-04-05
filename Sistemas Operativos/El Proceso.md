@@ -19,4 +19,8 @@ Devuelve: Un archivo de texto .s con las instrucciones de assembly
 
 ### Ensamblaje 
 Recibe: Un programa assembly en .s
-Traduce el archivo a instrucciones del lenguaje de maquina empaquetandolas en un formato conocido como `relocatable object file`
+Traduce el archivo a instrucciones del lenguaje de maquina empaquetandolas en un formato conocido como `relocatable object file` (.o). 
+Devuelve: un .o
+
+### LInk Editor 
+Recibe: el archivo objeto (.i)

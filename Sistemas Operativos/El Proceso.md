@@ -49,7 +49,7 @@ El **Sistema Operativo** más precisamente el **[[Kernel]]** se encarga de:
 
 1. Cargar instrucciones y Datos de un programa ejecutable en memoria.
     
-2. Crear el Stack y el [[Heap]] [^2]
+2. Crear el Stack y el [[Heap]] 
     
 3. Transferir el Control al programa
     

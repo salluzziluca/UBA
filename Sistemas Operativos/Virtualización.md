@@ -14,3 +14,6 @@ Le hace creer al [[proceso]] que tiene toda la memoria disponible para ser reser
 - Stack: Variables Locales y trace de las llamadas
 
 ![[Pasted image 20240405152008.png]]
+
+Para ejecutar el programa, el SO: 
+1. Copia ls instrucciones

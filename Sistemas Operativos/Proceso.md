@@ -19,3 +19,6 @@ Un proceso incluye:
 	- Un stack 
 	- Un conjunto de registros
 - Una seccion de datos globales
+
+
+## Un Proceso por dentro 

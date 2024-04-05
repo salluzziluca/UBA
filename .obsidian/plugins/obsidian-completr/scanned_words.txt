@@ -60,6 +60,8 @@ Procesamiento
 Programaci
 Proteger
 Procesador
+PROCESO
+PROGRAMA
 random
 refiere
 representa
@@ -286,6 +288,7 @@ sela
 sitemas
 segmentos
 static
+seccion
 que
 quien
 quedo
@@ -1436,6 +1439,7 @@ Solo
 SANTO
 Simbolos
 Sirve
+SOLAMENTE
 las
 la
 localidad
@@ -1680,6 +1684,9 @@ Establecer
 Ensamblaje
 Editor
 ELF
+ES
+EN
+EJECUCI
 Las
 Localidad
 Least
@@ -2040,6 +2047,7 @@ Unidad
 UNIX
 Uso
 Unificada
+UN
 FIFO
 Frequently
 For

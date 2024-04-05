@@ -16,3 +16,7 @@ Devuelve: Otro programa en C con la extension `.i`
 ### Compilación 
 Recibe: un programa C en .i
 Devuelve: Un archivo de texto .s con las instrucciones de assembly
+
+### Ensamblaje 
+Recibe: Un programa assembly en .s
+Traduce el archvi

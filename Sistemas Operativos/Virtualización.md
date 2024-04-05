@@ -51,4 +51,8 @@ Aislamiento frente a fallas:
 
 Como se provee esta ilusion??
 
-![[Pasted image 20240405154215.png]]ni 
+![[Pasted image 20240405154215.png]]
+
+
+## Procesos dentro del SO 
+Un proceso necesita permisos del kernel para: 

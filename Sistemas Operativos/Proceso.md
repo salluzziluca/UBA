@@ -21,4 +21,3 @@ Un proceso incluye:
 - Una seccion de datos globales
 
 
-## Un Proceso por dentro 

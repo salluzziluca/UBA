@@ -62,6 +62,7 @@ Proteger
 Procesador
 PROCESO
 PROGRAMA
+Proteccion
 random
 refiere
 representa
@@ -149,6 +150,9 @@ read
 relativas
 restringidos
 reservada
+region
+realidad
+requiera
 se
 su
 son
@@ -289,6 +293,9 @@ sitemas
 segmentos
 static
 seccion
+solamente
+sica
+sucede
 que
 quien
 quedo
@@ -472,6 +479,14 @@ puntero
 provee
 pendientes
 proporncionan
+prceso
+preocuparse
+proveer
+protecci
+piensa
+programaci
+parecen
+potents
 acceder
 almacenan
 almacenar
@@ -607,6 +622,11 @@ atr
 aplicaci
 abstracci
 alocable
+alojar
+alocada
+atender
+asbtracci
+afectar
 cualquier
 carga
 cual
@@ -815,6 +835,9 @@ cabo
 condesarlos
 cil
 creer
+compartida
+clave
+colapsan
 direcci
 de
 dynamic
@@ -936,6 +959,9 @@ derechos
 dispositivo
 divididos
 dinamica
+data
+destinada
+diversos
 memoria
 mismo
 mientras
@@ -1040,6 +1066,9 @@ mapeo
 modifica
 metadata
 modernos
+mecanismo
+mecanismos
+metal
 en
 el
 eficientes
@@ -1188,6 +1217,10 @@ empaquetandolas
 excecutable
 estuviera
 extern
+execution
+ello
+emitida
+espec
 tiempo
 tienden
 tener
@@ -1280,6 +1313,7 @@ tablas
 toma
 transforma
 trace
+traduce
 no
 nuevo
 necesita
@@ -1319,6 +1353,8 @@ necesidad
 numerados
 ntico
 necesarias
+necesitar
+ni
 importa
 informacion
 industrial
@@ -1405,6 +1441,9 @@ indica
 informaciones
 importantes
 ilusion
+inicia
+ilusi
+interfaces
 Static
 SRAM
 Si
@@ -1440,6 +1479,7 @@ SANTO
 Simbolos
 Sirve
 SOLAMENTE
+Simplicidad
 las
 la
 localidad
@@ -1517,6 +1557,7 @@ lineas
 leer
 llevar
 llamadas
+ls
 utilizan
 un
 uso
@@ -1621,6 +1662,9 @@ frontend
 flujo
 formato
 format
+ficamente
+frente
+fallas
 DRAM
 De
 Direct
@@ -1648,6 +1692,9 @@ DLL
 Direccion
 DOOONT
 Data
+Direcciones
+Direcci
+Distintos
 Estas
 En
 Estructuras
@@ -1750,6 +1797,7 @@ busqueda
 bibliotecas
 binary
 byte
+bare
 Only
 Ownership
 Operativo
@@ -1777,6 +1825,8 @@ MY
 Memoria
 Multinivel
 MEEEEEE
+Management
+MMU
 videojuegos
 volver
 vaya
@@ -1820,6 +1870,8 @@ variales
 variar
 varia
 virtualizacion
+varibles
+virtuales
 gran
 guarda
 grande
@@ -1874,6 +1926,7 @@ Tipo
 Traduce
 Transferir
 Tell
+Traduccion
 Cach
 Caracteristicas
 CPU
@@ -1923,6 +1976,8 @@ Cajas
 Control
 CIERRA
 CERRARLO
+Copia
+Consiste
 hacer
 hay
 hits
@@ -2001,6 +2056,7 @@ object
 olvidemos
 operativo
 operativos
+obviamente
 Al
 Associative
 ASSOCIATIVE
@@ -2036,6 +2092,7 @@ Algoritmos
 Archivos
 Apertura
 ABOUT
+Aislamiento
 Un
 Used
 Untitle
@@ -2048,6 +2105,8 @@ UNIX
 Uso
 Unificada
 UN
+Uno
+Unit
 FIFO
 Frequently
 For
@@ -2124,6 +2183,7 @@ Hash
 Huf
 Hola
 Habitualmente
+Hardware
 YYYY
 YOU
 yo
@@ -2142,6 +2202,7 @@ Variables
 Valor
 Valores
 Virtualizacion
+Virtual
 xxx
 xx
 xxxxxxxx

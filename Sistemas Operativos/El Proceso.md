@@ -24,3 +24,4 @@ Devuelve: un .o
 
 ### LInk Editor 
 Recibe: el archivo objeto (.i)
+Devuelve: Un programa ejecutable con todas las librerias necesarias para que este corra, ordenadas de forma tal que 

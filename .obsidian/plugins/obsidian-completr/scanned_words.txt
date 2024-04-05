@@ -1121,6 +1121,7 @@ encuentra
 especializada
 estaticas
 extension
+empaquetandolas
 tiempo
 tienden
 tener
@@ -1524,6 +1525,7 @@ first
 fuera
 frontend
 flujo
+formato
 DRAM
 De
 Direct
@@ -1582,6 +1584,7 @@ Energ
 Entonces
 Establecer
 Ensamblaje
+Editor
 Las
 Localidad
 Least
@@ -1601,6 +1604,7 @@ Llamo
 Linux
 Linker
 Linking
+LInk
 bien
 burner
 bajo

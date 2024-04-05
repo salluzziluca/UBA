@@ -22,3 +22,4 @@ Para ejecutar el programa, el SO:
 
 
 ### Proteccion de Memoria
+Para que un prceso se ejecute, tanto él como el SO tiene que estar en memoria. El SO para iniciar la ejecución, manejar las interrupciones y/o atender syscalls

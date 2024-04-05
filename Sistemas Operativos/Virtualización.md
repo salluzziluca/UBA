@@ -111,3 +111,10 @@ Para esto utiliza la API de procesos
 5. **getpid()**: Devuelve el pid del proceso actual.
 6. **exec(filename, argv)**: Carga un archivo y lo ejecuta.
 7. **sbrk(n)**: Crece la memoria del proceso en n bytes.
+
+Entonces, que hace fork()?:
+1. Crea y asigna una nueva entrada en la **Process Table** para el nuevo proceso.
+2. Asigna un número de ID **único** al proceso hijo.
+3. Crea una copia lógica del contexto del proceso padre, algunas de esas partes pueden ser compartidas como la sección **text**
+4. Realiza ciertas operaciones de I/O.
+5. Devuelve el número de ID del hijo al proceso **padre** [^3], y un 0 al proceso hijo

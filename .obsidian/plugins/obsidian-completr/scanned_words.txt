@@ -25,6 +25,7 @@ RISC
 Reemplazo
 Recibe
 Ruta
+Region
 Por
 Pero
 PC
@@ -63,6 +64,9 @@ Procesador
 PROCESO
 PROGRAMA
 Proteccion
+Program
+Proc
+Prioridad
 random
 refiere
 representa
@@ -155,6 +159,10 @@ realidad
 requiera
 realizarse
 reanudarla
+registar
+register
+recursos
+resumida
 se
 su
 son
@@ -300,6 +308,8 @@ sica
 sucede
 seteo
 situacion
+structure
+sbrk
 que
 quien
 quedo
@@ -492,6 +502,12 @@ programaci
 parecen
 potents
 poder
+purpose
+page
+proc
+perfilado
+perteneces
+planificador
 acceder
 almacenan
 almacenar
@@ -633,6 +649,8 @@ atender
 asbtracci
 afectar
 algun
+administraci
+argv
 cualquier
 carga
 cual
@@ -844,6 +862,8 @@ creer
 compartida
 clave
 colapsan
+contains
+cuyo
 direcci
 de
 dynamic
@@ -969,6 +989,9 @@ data
 destinada
 diversos
 destruirlo
+descriptores
+dscriptor
+directorio
 memoria
 mismo
 mientras
@@ -1232,6 +1255,10 @@ espec
 equipo
 enviar
 esperar
+emtrada
+estad
+exit
+exec
 tiempo
 tienden
 tener
@@ -1326,6 +1353,7 @@ transforma
 trace
 traduce
 termine
+table
 no
 nuevo
 necesita
@@ -1457,6 +1485,7 @@ inicia
 ilusi
 interfaces
 info
+id
 Static
 SRAM
 Si
@@ -1573,6 +1602,7 @@ llevar
 llamadas
 ls
 like
+level
 utilizan
 un
 uso
@@ -1680,6 +1710,8 @@ format
 ficamente
 frente
 fallas
+filename
+forl
 DRAM
 De
 Direct
@@ -1750,6 +1782,8 @@ ELF
 ES
 EN
 EJECUCI
+Entry
+Espera
 Las
 Localidad
 Least
@@ -1827,6 +1861,7 @@ ONE
 Otros
 Operaciones
 Otro
+Open
 Memory
 Muy
 Map
@@ -1845,6 +1880,7 @@ MEEEEEE
 Management
 MMU
 Miscellaneous
+Manejadores
 videojuegos
 volver
 vaya
@@ -1890,6 +1926,7 @@ varia
 virtualizacion
 varibles
 virtuales
+vs
 gran
 guarda
 grande
@@ -1919,6 +1956,7 @@ gicas
 globales
 guardan
 generacion
+getpid
 Tambien
 This
 Template
@@ -1945,6 +1983,7 @@ Traduce
 Transferir
 Tell
 Traduccion
+Termina
 Cach
 Caracteristicas
 CPU
@@ -1997,6 +2036,7 @@ CERRARLO
 Copia
 Consiste
 Create
+Crece
 hacer
 hay
 hits
@@ -2113,6 +2153,8 @@ Apertura
 ABOUT
 Aislamiento
 Acceder
+Area
+Argumentos
 Un
 Used
 Untitle
@@ -2127,6 +2169,8 @@ Unificada
 UN
 Uno
 Unit
+UID
+Ubicaci
 FIFO
 Frequently
 For
@@ -2161,6 +2205,7 @@ while
 workspace
 would
 write
+wait
 json
 jeje
 job
@@ -2189,6 +2234,8 @@ Instrucciones
 Indique
 Ir
 Identificacion
+Informaci
+Identificaci
 Box
 Bases
 Booteo
@@ -2197,6 +2244,7 @@ Buses
 Bus
 Backend
 Binaria
+Block
 Hay
 Heap
 Hash
@@ -2231,7 +2279,9 @@ xico
 keys
 kernel
 ksv
+kill
 Kernel
+Kerner
 JgWXa
 Jusitfique
 XHEJ
@@ -2239,4 +2289,5 @@ GNcd
 Genera
 GRIAL
 Globales
+GID
 Wait

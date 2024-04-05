@@ -30,4 +30,4 @@ Devuelve: Un programa ejecutable con todas las librerias necesarias para que est
 
 ## En UNIX 
 Un program es un archivo que posee toda la informacion de como construir un proceso en memoria. Este contiene 
-- Formato de Identificacion Binaria: Cada archivo posee metadata describiendo el formato ejecutable. este puede ser 
+- Formato de Identificacion Binaria: Cada archivo posee metadata describiendo el formato ejecutable. este puede ser a.out (assembler output), COFF (common object file format) o ELF (excecutable and linking format)

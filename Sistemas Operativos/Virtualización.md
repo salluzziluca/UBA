@@ -112,4 +112,6 @@ Para esto utiliza la API de procesos
 6. **[[exec(filename, argv)]])**: Carga un archivo y lo ejecuta.
 7. **[[sbrk(n)]]**: Crece la memoria del proceso en n bytes.
 
-Entonces, que hace [[fork()]]?:
+
+## Metamorfosis, de programa a proceso
+1. El SO carga el programa, su codigo y cualqueri dato estatico en la memoria

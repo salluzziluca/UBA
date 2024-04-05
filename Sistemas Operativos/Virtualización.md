@@ -73,5 +73,10 @@ Para esto utiliza la API de procesos
 #### API de procesos de UNIX-like, las system calls.
  Un proceso en unix sólo puede ser creado por otro proceso
  En unix, el contexto de un proceso está dado por la union de user level context (text, data, stack, heap), registar context:
- -1 Program counter
-  y system level context
+ 1.  Program counter
+ 2. Registro de estasdo del procesador 
+ 3. stack pointer 
+ 4. general purpose register 
+  y system level context: 
+  1. emtrada en la Process Table Entry 
+  2. La u area

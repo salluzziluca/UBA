@@ -43,4 +43,14 @@ Un program es un archivo que posee toda la informacion de como construir un proc
 
 ---
 
-Un programa es algo sin vida, es el SO el que toma ese puñado de bytes 
+Un programa es algo sin vida, es el SO el que toma ese puñado de bytes y lo transforma en algo util, mediante el [[kernel]]. 
+
+El **Sistema Operativo** más precisamente el **[[Kernel]]** se encarga de:
+
+1. Cargar instrucciones y Datos de un programa ejecutable en memoria.
+    
+2. Crear el Stack y el [[Heap]] [^2]
+    
+3. Transferir el Control al programa
+    
+4. Proteger al SO y al Programa

@@ -51,4 +51,4 @@ Aislamiento frente a fallas:
 
 Como se provee esta ilusion??
 
-![[Pasted image 20240405154215.png]]
+![[Pasted image 20240405154215.png]]ni 

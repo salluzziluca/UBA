@@ -28,5 +28,5 @@ Devuelve: Un programa ejecutable con todas las librerias necesarias para que est
 
 ![[Pasted image 20240405140700.png]]
 
-## En UNIX
-Un programa en unix puee ser de "formato de indentificacion binario
+## En UNIX 
+Un programa en UNIX contiene 

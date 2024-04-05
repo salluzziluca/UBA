@@ -32,4 +32,5 @@ Devuelve: Un programa ejecutable con todas las librerias necesarias para que est
 Un program es un archivo que posee toda la informacion de como construir un proceso en memoria. Este contiene 
 - Formato de Identificacion Binaria: Cada archivo posee metadata describiendo el formato ejecutable. este puede ser a.out (assembler output), COFF (common object file format) o ELF (excecutable and linking format)
 - Instrucciones del lenguaje de maquina
-- Direccion del punto de entrada del programa (identifica )
+- Direccion del punto de entrada del programa (identifica la direccion con la cual la ejecucion del programa debe iniciar)
+- Datos: Valores de los datos con lo scuales deben inicializar variables, constantes y literales,.

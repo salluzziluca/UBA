@@ -125,3 +125,12 @@ Para esto utiliza la API de procesos
 ## Gestion de Procesos del Kernel 
 El kernel almacena la lista de procesos mediante una lista circular doblemente enlazada llamada task list
 ![[Pasted image 20240405174018.png]]
+Cada elemento de la task list es un descriptor de proceso (_process descriptor_) del tipo task_struct, definida en in `<linux/sched.h>`
+![[Pasted image 20240405174757.png]]
+Esta estructura es relativamente pesada, unos 1.7 Kb en 32-bit [^7]_.
+
+Los procesos se identifican en linux al igual que en unix via el PID (_process identification_), este es un valor numérico de 0 a 32768, si bien este puede ser cambiado (<linux/threads.h>) hasta 4 millones. Puede verse ejecutando >$ cat /proc/sys/kernel/pid_max.
+
+Normalmente, se asignan a partir del número 500.
+
+..[^1]: Algo estático, sin vida. ..[^3]:cuando se ejecuta un comando en el shell o se hace doble click en un icono de una aplicación este comando debe ser ejecutado ..[^4]: Si bien la mayoria de los procesos se inician y se destruyen por sí mismo ..[^2]: ¿Qué se guarda en el heap y en el stack? .. [^4]: espacio de usuario. .. [^5]: En x86, el tamaño de la pila es configurable en tiempo de compilación y puede ser de 4 KB u 8 KB. .. [^6]: Symmetrical Multiprocessing .. [^7]: Bastante pequeña si se considera que possee todos los datos requeridos por el kernel sobre un proceso

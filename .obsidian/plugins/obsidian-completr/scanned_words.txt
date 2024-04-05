@@ -59,6 +59,7 @@ Proceso
 Procesamiento
 Programaci
 Proteger
+Procesador
 random
 refiere
 representa
@@ -145,6 +146,7 @@ relativa
 read
 relativas
 restringidos
+reservada
 se
 su
 son
@@ -281,6 +283,9 @@ separan
 segundo
 simplemente
 sela
+sitemas
+segmentos
+static
 que
 quien
 quedo
@@ -463,6 +468,7 @@ precisamente
 puntero
 provee
 pendientes
+proporncionan
 acceder
 almacenan
 almacenar
@@ -597,6 +603,7 @@ adelante
 atr
 aplicaci
 abstracci
+alocable
 cualquier
 carga
 cual
@@ -803,6 +810,8 @@ csv
 columna
 cabo
 condesarlos
+cil
+creer
 direcci
 de
 dynamic
@@ -921,6 +930,9 @@ deben
 durante
 dan
 derechos
+dispositivo
+divididos
+dinamica
 memoria
 mismo
 mientras
@@ -1024,6 +1036,7 @@ modificacion
 mapeo
 modifica
 metadata
+modernos
 en
 el
 eficientes
@@ -1170,6 +1183,8 @@ estaticas
 extension
 empaquetandolas
 excecutable
+estuviera
+extern
 tiempo
 tienden
 tener
@@ -1261,6 +1276,7 @@ toda
 tablas
 toma
 transforma
+trace
 no
 nuevo
 necesita
@@ -1385,6 +1401,7 @@ itera
 indica
 informaciones
 importantes
+ilusion
 Static
 SRAM
 Si
@@ -1495,6 +1512,7 @@ lista
 lineas
 leer
 llevar
+llamadas
 utilizan
 un
 uso
@@ -1532,6 +1550,7 @@ utilizada
 utilizar
 unificada
 util
+usada
 flip
 flops
 fisico
@@ -1624,6 +1643,7 @@ Detecta
 DLL
 Direccion
 DOOONT
+Data
 Estas
 En
 Estructuras
@@ -1680,6 +1700,8 @@ Linux
 Linker
 Linking
 LInk
+Le
+Locales
 bien
 burner
 bajo
@@ -1790,6 +1812,7 @@ variables
 variales
 variar
 varia
+virtualizacion
 gran
 guarda
 grande
@@ -1922,6 +1945,7 @@ have
 herramienta
 hacia
 hizo
+haga
 otro
 ocupados
 obsidian
@@ -1969,6 +1993,7 @@ output
 object
 olvidemos
 operativo
+operativos
 Al
 Associative
 ASSOCIATIVE
@@ -2108,6 +2133,7 @@ Va
 Variables
 Valor
 Valores
+Virtualizacion
 xxx
 xx
 xxxxxxxx
@@ -2122,3 +2148,4 @@ XHEJ
 GNcd
 Genera
 GRIAL
+Globales

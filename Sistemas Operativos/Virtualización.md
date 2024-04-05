@@ -39,8 +39,14 @@ Se traduce una **Dirección Virtual** (emitida por la CPU) en una **Direcció
 ## Virtualizacion de Procesador 
 Consiste en dar la ilusión de la existencia de un único procesador par cualquier programa que requiera de su uso. 
 
-Simplicidad en la prog
+Simplicidad en la programación:
 - Cada proceso cree que tiene toda la cpu
 - Cada proceso cree que todos los dispositivos le pertenecen 
 - Distintos dispositivos parecen tener el mismo nivel de interfaces 
 - Las interfaces con los dispositivos son mas potents que el bare metal
+
+Aislamiento frente a fallas: 
+- Los procesos no pueden directamente afectar a otros procesos
+- Los errores no colapsan a toda la maquina
+
+Como se provee esta ilusion??

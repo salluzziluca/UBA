@@ -163,6 +163,7 @@ registar
 register
 recursos
 resumida
+reconozca
 se
 su
 son
@@ -310,6 +311,7 @@ seteo
 situacion
 structure
 sbrk
+secci
 que
 quien
 quedo
@@ -651,6 +653,7 @@ afectar
 algun
 administraci
 argv
+algunas
 cualquier
 carga
 cual
@@ -864,6 +867,8 @@ clave
 colapsan
 contains
 cuyo
+chequear
+current
 direcci
 de
 dynamic
@@ -992,6 +997,8 @@ destruirlo
 descriptores
 dscriptor
 directorio
+demasiados
+directoty
 memoria
 mismo
 mientras
@@ -1100,6 +1107,7 @@ mecanismo
 mecanismos
 metal
 matar
+macar
 en
 el
 eficientes
@@ -1259,6 +1267,8 @@ emtrada
 estad
 exit
 exec
+esas
+ejecutarse
 tiempo
 tienden
 tener
@@ -1486,6 +1496,8 @@ ilusi
 interfaces
 info
 id
+incrementar
+inode
 Static
 SRAM
 Si
@@ -1712,6 +1724,7 @@ frente
 fallas
 filename
 forl
+falso
 DRAM
 De
 Direct
@@ -1957,6 +1970,7 @@ globales
 guardan
 generacion
 getpid
+gica
 Tambien
 This
 Template

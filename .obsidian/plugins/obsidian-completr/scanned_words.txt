@@ -56,6 +56,7 @@ Padre
 POPF
 Proceso
 Procesamiento
+Programaci
 random
 refiere
 representa
@@ -568,6 +569,7 @@ ambito
 arim
 acuerdo
 assembly
+algoritmo
 cualquier
 carga
 cual
@@ -768,6 +770,7 @@ comienzan
 construir
 common
 constantes
+cajas
 direcci
 de
 dynamic
@@ -883,6 +886,7 @@ decontrol
 desaparecen
 describiendo
 deben
+durante
 memoria
 mismo
 mientras
@@ -1733,6 +1737,8 @@ varias
 valga
 variables
 variales
+variar
+varia
 gran
 guarda
 grande
@@ -1830,6 +1836,7 @@ Ciclo
 Compilacion
 Compilaci
 COFF
+Cajas
 hacer
 hay
 hits
@@ -1935,6 +1942,7 @@ Aument
 Analisis
 Analizar
 Asociar
+Algoritmos
 Un
 Used
 Untitle

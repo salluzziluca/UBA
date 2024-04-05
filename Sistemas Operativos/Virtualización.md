@@ -71,4 +71,7 @@ Para esto utiliza la API de procesos
 5. Status: una forma de saber sobre la situacion del [[proceso]] 
 
 #### API de procesos de UNIX-like, las system calls.
-E¿ Un proceso en unix sólo puede ser creado por otro
+ Un proceso en unix sólo puede ser creado por otro proceso
+ En unix, el contexto de un proceso está dado por la union de user level context (text, data, stack, heap), registar context:
+ -1 Program counter
+  y system level context

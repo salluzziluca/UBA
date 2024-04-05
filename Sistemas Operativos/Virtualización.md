@@ -114,4 +114,6 @@ Para esto utiliza la API de procesos
 
 
 ## Metamorfosis, de programa a proceso
-1. El SO carga el programa, su codigo y cualqueri dato estatico en la memoria
+1. El SO carga el programa, su codigo y cualqueri dato estatico en la memoria (antes de form aeagerly, todo junto, ahora lazily, cuando se lo necesita)
+2. Se crea la pila (stack) reservando cierta cantidad de memoria.
+3. Se crea el heap reservando otra cierta cantidad de memoria, este sirve para la memorai dinamica ()

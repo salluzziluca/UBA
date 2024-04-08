@@ -24,3 +24,9 @@ pub fn bind<A: ToSocketAddrs>(addr: A) -> Result<TcpListener>
 let listener = TcpListener::bind("127.0.0.1:80")?;
 ```
 El listener se va aquedar escuchando conexiones entrantes en esa direccion
+
+```rust 
+pub fn incoming(&self) -> Incoming<'_> 
+for stream in listener.incoming() { let stream = stream.unwrap(); 
+println!("Conexion establecida!");
+```

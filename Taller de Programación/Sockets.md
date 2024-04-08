@@ -6,8 +6,7 @@ El software de red se plantea mediante el modelo por capas, siempre se comunican
 ![[Pasted image 20240408201700.png]]
 
 ## Tipos de comunicacion
-Sin conexion
-
+Sin conexion: Los datos se envían al receptor y no hay control de fujo ni de errores.
 Sin Conexion ACK. Por cada dato recibido se envia un ACK, para que el emisor sepa que llego todo correctamente
 
-Con conexion. Tres fases: se establece al conexion, se intercambia y se cierra, hay control de flujo y de errores. Se puede verificar que lo que enviamos. Junto con el ACK el receptor puede pedir 
+Con conexion. Tres fases: se establece al conexion, se intercambia y se cierra, hay control de flujo y de errores. Se puede verificar que lo que enviamos. Junto con el ACK el receptor puede pedir que se envie algun dato faltante, llegado el caso

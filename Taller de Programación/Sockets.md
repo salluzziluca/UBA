@@ -26,6 +26,8 @@ let listener = TcpListener::bind("127.0.0.1:80")?;
 El listener se va aquedar escuchando conexiones entrantes en esa direccion
 
 
+## Servidor
+
 Obtener conexiones: 
 ```rust 
 pub fn incoming(&self) -> Incoming<'_> 
@@ -53,3 +55,6 @@ fn read(&muy self, buf: &mut [u8])-> Result<usize>
 let mut buffer = [0; 1024];
 stream.red(&mut buffer).unwrap();
 ```
+
+
+## Cliente

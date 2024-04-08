@@ -70,6 +70,7 @@ Program
 Proc
 Prioridad
 Pone
+Puede
 random
 refiere
 representa
@@ -173,6 +174,9 @@ reservar
 recordar
 reservando
 relacionados
+relativamente
+rico
+requeridos
 se
 su
 son
@@ -330,6 +334,7 @@ stdio
 sobreponiendo
 space
 sucedi
+shell
 que
 quien
 quedo
@@ -532,6 +537,8 @@ peude
 parent
 pedirle
 point
+pesada
+possee
 acceder
 almacenan
 almacenar
@@ -867,7 +874,6 @@ complejo
 convertida
 crea
 concept
-code
 compilacion
 caracteristicas
 compactas
@@ -905,6 +911,13 @@ current
 consecuencia
 cierta
 cualqueri
+circular
+cambiado
+cat
+comando
+click
+configurable
+considera
 direcci
 de
 dynamic
@@ -1037,6 +1050,11 @@ demasiados
 directoty
 defecto
 des
+doblemente
+descriptor
+definida
+doble
+destruyen
 memoria
 mismo
 mientras
@@ -1154,6 +1172,9 @@ magia
 malloc
 man
 memorai
+millones
+max
+mayoria
 en
 el
 eficientes
@@ -1321,6 +1342,8 @@ ejecutarlo
 especificada
 estatico
 err
+enlazada
+ejecutado
 tiempo
 tienden
 tener
@@ -1418,6 +1441,7 @@ termine
 table
 terminar
 ticamente
+task
 no
 nuevo
 necesita
@@ -1459,6 +1483,7 @@ ntico
 necesarias
 necesitar
 ni
+num
 importa
 informacion
 industrial
@@ -1559,6 +1584,9 @@ idea
 inicializados
 incrementado
 intento
+identification
+icono
+inician
 Static
 SRAM
 Si
@@ -1596,6 +1624,7 @@ Sirve
 SOLAMENTE
 Simplicidad
 Status
+Symmetrical
 las
 la
 localidad
@@ -1972,6 +2001,7 @@ MMU
 Miscellaneous
 Manejadores
 Metamorfosis
+Multiprocessing
 videojuegos
 volver
 vaya
@@ -2018,6 +2048,7 @@ virtualizacion
 varibles
 virtuales
 vs
+verse
 gran
 guarda
 grande
@@ -2251,6 +2282,7 @@ Acceder
 Area
 Argumentos
 Algoritmicamente
+Algo
 Un
 Used
 Untitle
@@ -2292,6 +2324,7 @@ NULL
 NSzc
 Notice
 Notas
+Normalmente
 will
 words
 with
@@ -2345,6 +2378,7 @@ Bus
 Backend
 Binaria
 Block
+Bastante
 Hay
 Heap
 Hash
@@ -2385,6 +2419,8 @@ kill
 kerner
 Kernel
 Kerner
+Kb
+KB
 JgWXa
 Jusitfique
 XHEJ
@@ -2393,4 +2429,6 @@ Genera
 GRIAL
 Globales
 GID
+Gestion
 Wait
+Qu

@@ -36,4 +36,13 @@ Cada stram representa una conexion abierta entre cliente y server. La iteracion 
 
 
 Forma 2: 
-EL método accept obtiene una conexión establecida de un listener. pub fn accept(&self) -> Result<(TcpStream, SocketAddr)> El hilo se bloquea hasta que haya una conexión establecida. match listener.accept() { Ok((_socket, addr)) => println!("nuevo cliente: {:?}", addr), Err(e) => println!("error: {:?}", e), }
+EL método accept obtiene una conexión establecida de un listener.
+```rust 
+pub fn accept(&self) -> Result<(TcpStream, SocketAddr)> //El hilo se bloquea hasta que haya una conexión establecida. 
+match listener.accept() { 
+Ok((_socket, addr)) => println!("nuevo cliente: {:?}", addr),
+Err(e) => println!("error: {:?}", e), 
+}
+```
+
+Leer datos del socket: read

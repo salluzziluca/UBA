@@ -18,3 +18,7 @@ Stream Sockets: Usan el protocolo TPC: entreg garantrizada en flujo de bytes
 Datagram Socket: Usan el UDP: Sin conexion 
 Raw Socket: permiten a las apps enviar paquetes IP
 Sequenced Packet Sockets: silimilares al stream, preservan los delimitariode de registro. Utulizan el protocolo SPP
+
+```rust 
+pub fn bind<A: ToSocket
+```

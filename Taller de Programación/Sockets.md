@@ -10,3 +10,9 @@ Sin conexion: Los datos se envían al receptor y no hay control de fujo ni de er
 Sin Conexion ACK. Por cada dato recibido se envia un ACK, para que el emisor sepa que llego todo correctamente
 
 Con conexion. Tres fases: se establece al conexion, se intercambia y se cierra, hay control de flujo y de errores. Se puede verificar que lo que enviamos. Junto con el ACK el receptor puede pedir que se envie algun dato faltante, llegado el caso
+
+
+
+## Tipos de Socket
+Stream Sockets: Usan el protocolo TPC: entreg garantrizada en flujo de bytes
+Datagram Socket: Usan el UDP: Sin co

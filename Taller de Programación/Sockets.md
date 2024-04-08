@@ -50,4 +50,6 @@ Leer datos del socket: `read`
 ```rust 
 fn read(&muy self, buf: &mut [u8])-> Result<usize>
 // por ej
-let mu
+let mut buffer = [0; 1024];
+stream.red(&mut buffer).unwrap();
+```

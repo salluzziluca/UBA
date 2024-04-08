@@ -2,4 +2,12 @@ I Permiten la comunicación entre dos procesos diferentes I En la misma máquina
 
 
 
-El software de red se plantea mediante el modelo por capas, 
+El software de red se plantea mediante el modelo por capas, siempre se comunican los diferentes programas pura y exclusivamente en la misma capa, nunca de la capa N a la capa N-1
+![[Pasted image 20240408201700.png]]
+
+## Tipos de comunicacion
+Sin conexion
+
+Sin Conexion ACK
+
+Con conexion. Tres fases: se establece al

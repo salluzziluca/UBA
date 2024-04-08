@@ -25,8 +25,15 @@ let listener = TcpListener::bind("127.0.0.1:80")?;
 ```
 El listener se va aquedar escuchando conexiones entrantes en esa direccion
 
+
+Obtener conexiones: 
 ```rust 
 pub fn incoming(&self) -> Incoming<'_> 
 for stream in listener.incoming() { let stream = stream.unwrap(); 
 println!("Conexion establecida!");
 ```
+Cada stram representa una conexion abierta entre cliente y server. La iteracion es sobre "intentos de conexion" y puede devolver error
+
+
+Forma 2: 
+EL método accept obtiene una conexión establecida de un listener. pub fn accept(&self) -> Result<(TcpStream, SocketAddr)> El hilo se bloquea hasta que haya una conexión establecida. match listener.accept() { Ok((_socket, addr)) => println!("nuevo cliente: {:?}", addr), Err(e) => println!("error: {:?}", e), }

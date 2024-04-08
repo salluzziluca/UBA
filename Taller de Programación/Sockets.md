@@ -45,4 +45,9 @@ Err(e) => println!("error: {:?}", e),
 }
 ```
 
-Leer datos del socket: read
+Leer datos del socket: `read`
+
+```rust 
+fn read(&muy self, buf: &mut [u8])-> Result<usize>
+// por ej
+let mu

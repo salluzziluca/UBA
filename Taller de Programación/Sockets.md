@@ -70,3 +70,7 @@ fn to_socket_addrs(&self) -> Result<Self::Iter>
 
 let mut addrs_iter = "localhost:443".to_socket_addrs().unwrap(); //devuelve un iterador de direcciones
 ```
+
+
+
+El cierre de la conexion TCP puede ser realizado de forma individual. La conexion establecida con Tcp 

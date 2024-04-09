@@ -63,4 +63,10 @@ El cliente debe establecer conexion con el server
 // a traves de una IP
 use std::net::{IpAddr, Ipv4Addr, SocketAddr}; 
 let socket = SocketAddr::new(IpAddr::V4(Ipv4Addr::new(127, 0, 0, 1)), 8080)
+
+//a traves de un nombre
+fn to_socket_addrs(&self) -> Result<Self::Iter>
+
+
+let mut addrs_iter = "localhost:443".to_socket_addrs().unwrap(); //devuelve un iterador de direcciones
 ```

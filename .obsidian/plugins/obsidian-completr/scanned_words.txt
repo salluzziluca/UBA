@@ -3,6 +3,7 @@ La
 Los
 Luego
 Ley
+Longitud
 capa
 controlado
 cantidad
@@ -38,6 +39,8 @@ cpu
 cambio
 cursor
 capitulo
+cartesianas
+cilindricas
 de
 dispositivos
 del
@@ -69,6 +72,7 @@ desordenada
 dar
 diferentes
 direccines
+diferenciales
 gestion
 gran
 guarda
@@ -100,6 +104,8 @@ excalidraw
 entro
 elnuevo
 ese
+esfericas
+esf
 servicios
 son
 su
@@ -162,6 +168,7 @@ procesador
 pasar
 position
 positions
+peroo
 la
 las
 le
@@ -235,6 +242,7 @@ Si
 Sean
 Switch
 Sistemas
+Superficie
 Calls
 Cmabia
 CPU
@@ -245,6 +253,8 @@ Conflicts
 Combinacion
 Central
 Cuando
+Cartesianas
+Cil
 Es
 El
 Estos
@@ -253,6 +263,7 @@ Estandarizar
 Esto
 Entonces
 EXCALIDRAW
+Esf
 kernel
 realice
 realicen
@@ -261,6 +272,7 @@ recommend
 replace
 reales
 remember
+ricas
 operacion
 orden
 operaciones
@@ -280,6 +292,7 @@ nico
 normal
 normales
 necesito
+ndricas
 via
 vuelve
 viven
@@ -297,6 +310,7 @@ API
 Asigna
 Additional
 Ax
+Ayuda
 Programming
 Procesos
 Partes
@@ -307,6 +321,7 @@ Paso
 Pipping
 Please
 Para
+Perro
 Interface
 ID
 Instructions
@@ -333,6 +348,7 @@ mas
 matetm
 mismo
 materia
+mama
 tien
 tiene
 todos
@@ -414,11 +430,13 @@ below
 blocks
 busco
 bajo
+br
 will
 words
 with
 VA
 VIEW
+Volumen
 OPTIONS
 Operativos
 ya

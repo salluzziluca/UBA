@@ -8,7 +8,7 @@ Un programa concurrente consiste en un conjunto finitoi de procesos secuenciales
 Ejecución del programa concurrente: resulta al ejecutar una secuencia de instrucciones atómicas que se obtiene de intercalar arbitrariamente las instrucciones atómicas de los procesos que lo componen. 
 - El intercalamiento es arbitrario ya que quién decide qué proceso se va a estar ejecutando en un instante de tiempo es el SO. 
 - El módulo del SO se denomina scheduler. I Existen distintos algoritmos y políticas de scheduling. 
-- Cada vez que el SO cambia el proceso en ejecución, ocurre un context-switch.
+- Cada vez que el SO cambia el [[Proceso]] en ejecución, ocurre un context-switch.
 
 La concurrencia necesita de **sincronizacion** y **comunicacion**, ya que el orden en el que se ejecutan los procesos es inconsistente. La salida NO es derministica porque dependen del orden de ejecucion de las instrucciones de los procesos (interleaving) 
 
@@ -22,7 +22,7 @@ Deadlocks: dos hilos en ejecución estan esperando el uno al otro para avanzar, 
 - Estructruas de datos del kernel (PCB)
 	En el PCB se almacena: 
 	- El PID, el PID del padre, ID del usuario y del grupo. 
-	- Datos del estado del proceso(permite suspender y retomar el proceso): Registros de propósito general de la CPU, Stack pointer, Instruction pointer
+	- Datos del estado del proceso(permite suspender y retomar el [[Proceso]]): Registros de propósito general de la CPU, Stack pointer, Instruction pointer
 	-  Datos de control del proceso, Estado del proceso y otra información de scheduling (p.ej. prioridad), Estructura del proceso: identificadores de los hijos, Datos de IPC (inter process comunication, señales, mensajes),  Contadores de tiempo de uso de CPU
 
 ==un proceso es una instancia de un programa en ejecución"

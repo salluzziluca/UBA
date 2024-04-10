@@ -36,34 +36,9 @@ estado: cursando
 	}
 ```
 
-<%* 
-	let titulo = tp.file.title;
-	if (titulo.startsWith("Untitle")) {
-		titulo = await tp.system.prompt("Materia:");
-		await tp.file.rename(titulo);
-	}
-_%>
 ---
-<%* 
-	let anio = await tp.system.suggester([
-		"2020", "2021", "2022", "2023", "2024", "2025", "2026"
-	], [
-		"20", "21", "22", "23", "24", "25", "26"
-	]);
-	
-	let cuatrimestre = await tp.system.suggester([
-		"Primer cuatrimestre", "Segundo cuatrimestre"
-	], [
-		"C1", "C2"
-	]);
-
-	tR += "cuatri: " + anio + cuatrimestre;
-%>
-estado: <% tp.system.suggester([
-	"No empezado", "Cursando", "En proceso", "Terminado",
-], [
-	"no-empezado", "cursando", "en-proceso", "terminado",
-]) %>
+cuatri: 24C1
+estado: cursando
 ---
 ### Apuntes
 ---

@@ -36,6 +36,8 @@ cuando
 condiciones
 cpu
 cambio
+cursor
+capitulo
 de
 dispositivos
 del
@@ -158,6 +160,8 @@ plugin
 parsed
 procesador
 pasar
+position
+positions
 la
 las
 le
@@ -230,6 +234,7 @@ Se
 Si
 Sean
 Switch
+Sistemas
 Calls
 Cmabia
 CPU
@@ -255,6 +260,7 @@ resolve
 recommend
 replace
 reales
+remember
 operacion
 orden
 operaciones
@@ -325,6 +331,7 @@ mmu
 mas
 matetm
 mismo
+materia
 tien
 tiene
 todos
@@ -412,4 +419,6 @@ with
 VA
 VIEW
 OPTIONS
+Operativos
 ya
+json

@@ -66,4 +66,6 @@ El número de segmento es el índice de la tabla para ubicar el inicio del segme
 
 
 #### Memoria Paginada
-==cuando se necesita mas memoria, se le dan 1 o más paginas (de mt==
+==cuando se necesita mas memoria, se le dan 1 o más paginas (de tamaño fijo) al proceso==
+
+En vez de tener una página de segmentos cuyas entradas contienen punteros a segmentos, hay una tabla de páginas por cada proceso cuyas entradas contienen punteros a las page frames

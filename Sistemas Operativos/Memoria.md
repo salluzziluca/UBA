@@ -52,3 +52,4 @@ ES:DI puntero al extra data address donde van los strings.
 ![[Pasted image 20240416113542.png]]
 
 #### Tabla de Segmentos
+EL problema con base and bound qes que se tiene solo un reg base y un reg segmento. La esolucion es que cada proceso tenga asignado un base and bound. 

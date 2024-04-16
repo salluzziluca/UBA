@@ -29,6 +29,7 @@ Region
 Registra
 Redimensionar
 Raw
+Repeat
 Por
 Pero
 PC
@@ -74,6 +75,9 @@ Pone
 Puede
 Permiten
 Packet
+PoLK
+Principle
+Promueve
 random
 refiere
 representa
@@ -184,6 +188,10 @@ recibir
 red
 receptor
 realizado
+recibidos
+retornado
+reduccion
+refactorizar
 se
 su
 son
@@ -349,6 +357,9 @@ stream
 stram
 server
 socket
+strangers
+sean
+separar
 que
 quien
 quedo
@@ -562,6 +573,11 @@ pedir
 protocolo
 paquetes
 preservan
+pieza
+piezas
+pedo
+pasados
+publica
 acceder
 almacenan
 almacenar
@@ -723,6 +739,11 @@ an
 aquedar
 abierta
 accept
+argumentos
+almacendo
+agregues
+ah
+agregalas
 cualquier
 carga
 cual
@@ -957,6 +978,7 @@ cierra
 conexiones
 conexi
 cierre
+claro
 direcci
 de
 dynamic
@@ -1096,6 +1118,11 @@ doble
 destruyen
 delimitariode
 devolver
+deberia
+deber
+duplicaci
+documentaci
+delimitados
 memoria
 mismo
 mientras
@@ -1217,6 +1244,7 @@ millones
 max
 mayoria
 modelo
+metodos
 en
 el
 eficientes
@@ -1397,6 +1425,7 @@ escuchando
 entrantes
 establecida
 establecer
+expuesta
 tiempo
 tienden
 tener
@@ -1495,6 +1524,7 @@ table
 terminar
 ticamente
 task
+talk
 no
 nuevo
 necesita
@@ -1646,6 +1676,9 @@ intercambia
 iteracion
 intentos
 individual
+invocar
+instanciados
+intereses
 Static
 SRAM
 Si
@@ -1691,6 +1724,10 @@ Stream
 Sockets
 Sequenced
 SPP
+Simple
+Stupid
+SoC
+Separation
 las
 la
 localidad
@@ -1930,6 +1967,11 @@ Direcci
 Distintos
 Destruccion
 Datagram
+Demeter
+Dont
+DRY
+DB
+Dependencies
 Estas
 En
 Estructuras
@@ -1972,6 +2014,9 @@ EJECUCI
 Entry
 Espera
 Exit
+Esper
+EDP
+Explicit
 Las
 Localidad
 Least
@@ -2056,6 +2101,7 @@ Operaciones
 Otro
 Open
 Obtener
+Optimization
 Memory
 Muy
 Map
@@ -2077,6 +2123,7 @@ Miscellaneous
 Manejadores
 Metamorfosis
 Multiprocessing
+Mantener
 videojuegos
 volver
 vaya
@@ -2244,6 +2291,8 @@ Crece
 Cierra
 Cliente
 Conexion
+Commitment
+Concerns
 hacer
 hay
 hits
@@ -2325,6 +2374,8 @@ operativos
 obviamente
 on
 opreaciones
+oculta
+optimizar
 Al
 Associative
 ASSOCIATIVE
@@ -2367,6 +2418,7 @@ Argumentos
 Algoritmicamente
 Algo
 ACK
+Ain
 Un
 Used
 Untitle
@@ -2413,6 +2465,7 @@ NSzc
 Notice
 Notas
 Normalmente
+Need
 will
 words
 with
@@ -2457,6 +2510,7 @@ Informaci
 Identificaci
 Ignora
 Inicialmente
+It
 Box
 Bases
 Booteo
@@ -2477,6 +2531,9 @@ Hardware
 Handler
 YYYY
 YOU
+Yourself
+YAGNI
+You
 yo
 ya
 ylZVvtGy
@@ -2509,6 +2566,10 @@ Kernel
 Kerner
 Kb
 KB
+KISS
+Keep
+KOP
+Knuth
 JgWXa
 Jusitfique
 Junto
@@ -2519,5 +2580,6 @@ GRIAL
 Globales
 GID
 Gestion
+Gonna
 Wait
 Qu

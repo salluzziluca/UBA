@@ -36,6 +36,8 @@ El [[ Proceso]] tiene un user thread, si cambio de proceso, elnuevo proceso va a
 Transforma la virtual addres en su equivalente en la mem fisica. 
 Formalmente, es un mapeo
 ![[Pasted image 20240416112800.png]]
+#### Base and Bound 
+Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Trampolin:
 
 w

@@ -24,6 +24,10 @@ Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria 
 Es literalmente una funcion matetmática
 El mmu tambien puede dar aclaraciones sobre diferentes direccines de memoria
 
+Tiene que ser eficiente, no se puede permitir que los programas requieran mas lentos o requieran mas espacio.
+
+El sistema operativo tiene que asegurarse de proteger a los procesos unos de otros como también proteger al sistema operativo de los proceso
+
 El [[ Proceso]] tiene un user thread, si cambio de proceso, elnuevo proceso va a tener ese mismo user thread, se lovan a pasar
 
 ![[context switch]]

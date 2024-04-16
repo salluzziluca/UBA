@@ -1,6 +1,7 @@
 ---
 materia: Sistemas Operativos
-capitulo:
+capitulo: 
+dia: 2024-03-04
 ---
 
 

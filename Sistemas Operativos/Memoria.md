@@ -69,3 +69,8 @@ El número de segmento es el índice de la tabla para ubicar el inicio del segme
 ==cuando se necesita mas memoria, se le dan 1 o más paginas (de tamaño fijo) al proceso==
 
 En vez de tener una página de segmentos cuyas entradas contienen punteros a segmentos, hay una tabla de páginas por cada proceso cuyas entradas contienen punteros a las page frames
+las entradas en la page table sólo tienen que proveer los bit superiores de la dirección de la page frame. De esta forma van a ser más compactos. No es necesario tener un límite; la página entera se reserva como una unidad
+
+El numero de la pagina virtual es el indice en la page table para obtener el page fram en la memoria fisica.
+
+La direc fisica es kla

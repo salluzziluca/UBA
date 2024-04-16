@@ -84,6 +84,8 @@ Paginada
 Page
 PG
 Pongo
+Punteros
+Pointer
 random
 refiere
 representa
@@ -207,6 +209,8 @@ ramas
 realloc
 reicciones
 requieran
+reg
+reserva
 se
 su
 son
@@ -388,6 +392,8 @@ sabemos
 sumando
 so
 segmentacion
+sumado
+superiores
 que
 quien
 quedo
@@ -400,6 +406,8 @@ quina
 quiero
 quita
 quinas
+qes
+quer
 puede
 posici
 porque
@@ -622,6 +630,12 @@ pedi
 prograama
 permitir
 proteger
+pr
+particular
+prevenir
+paginas
+punteros
+pagina
 acceder
 almacenan
 almacenar
@@ -809,6 +823,7 @@ ahorro
 all
 adentro
 asegurarse
+alarga
 cualquier
 carga
 cual
@@ -1058,6 +1073,13 @@ cuanta
 cantidades
 corren
 computacional
+chunk
+chequeado
+contra
+comparado
+cuyas
+contienen
+compactos
 direcci
 de
 dynamic
@@ -1216,6 +1238,10 @@ distribuidos
 dejo
 din
 detr
+daba
+direccionar
+direccionable
+desparramada
 memoria
 mismo
 mientras
@@ -1343,6 +1369,8 @@ memria
 muchas
 manejable
 multiprogramacion
+manejan
+mite
 en
 el
 eficientes
@@ -1535,6 +1563,10 @@ existente
 empez
 eficiente
 equivalente
+ejecutada
+esolucion
+escriba
+era
 tiempo
 tienden
 tener
@@ -1646,6 +1678,7 @@ traducir
 tira
 tercero
 tanslation
+traducci
 no
 nuevo
 necesita
@@ -1692,6 +1725,9 @@ na
 necesitamos
 necesitada
 necesitaron
+ndices
+ndice
+necesario
 importa
 informacion
 industrial
@@ -1867,6 +1903,8 @@ Selector
 Segmetn
 SIEMPRE
 Sharing
+Segmentos
+Segmentation
 las
 la
 localidad
@@ -1964,6 +2002,8 @@ lookaside
 localidades
 laburar
 lentos
+lea
+lineales
 utilizan
 un
 uso
@@ -2007,6 +2047,7 @@ usan
 utilizado
 usamos
 usuarios
+ubicar
 flip
 flops
 fisico
@@ -2089,6 +2130,8 @@ faltante
 fijos
 frames
 fija
+frame
+fram
 DRAM
 De
 Direct
@@ -2385,6 +2428,8 @@ guardada
 granularity
 gb
 grandes
+gina
+ginas
 Tambien
 This
 Template
@@ -2482,6 +2527,7 @@ Concerns
 CX
 Cuand
 CR
+Code
 hacer
 hay
 hits
@@ -2653,6 +2699,7 @@ File
 FORGET
 Forma
 Formalmente
+Fault
 NO
 Not
 No
@@ -2726,6 +2773,7 @@ BX
 Bit
 Base
 Bound
+BP
 Hay
 Heap
 Hash
@@ -2763,6 +2811,7 @@ xxx
 xx
 xxxxxxxx
 xico
+xima
 keys
 kernel
 ksv

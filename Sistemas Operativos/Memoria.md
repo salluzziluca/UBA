@@ -4,7 +4,9 @@ capitulo:
 dia: 2024-03-04
 ---
 
-La memoria tal y como la veia en [[Manejo de Memoria|algo2]] o en [[7.0 Memoria]]
+La memoria tal y como la veia en [[Manejo de Memoria|algo2]] o en [[7.0 Memoria|estructura]] (un arreglo de reicciones de memoria una detrás de la otra) es manejable mientras la cantidad de memoria necesitada sea acotada.
+
+Cuando se empezó a
 
 La memoria virtual es agarrar a memoria fisica (fea y desordenada y mediante un software (mmu), simplificar todo para el [[Proceso]].  El mmu está adentro del cpu (`registro satp: <tabla_A>`)
 Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica.

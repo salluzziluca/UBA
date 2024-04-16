@@ -61,3 +61,6 @@ El número de segmento es el índice de la tabla para ubicar el inicio del segme
 ==El error de Segmentation Fault era un error que se daba cuando, en las máquinas que implementan segmentación, se quería direccionar una posición fuera del espacio direccionable.==
 
 ![[Pasted image 20240416113950.png]]
+
+
+#### Memoria Paginada

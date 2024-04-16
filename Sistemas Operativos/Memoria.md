@@ -20,7 +20,7 @@ Diferentes usuarios comparten de forma concurrente un recurso computacional (CPU
 ## Virtualización de Memoria
 
 La memoria virtual es agarrar a memoria fisica (fea y desordenada y mediante un software (mmu), simplificar todo para el [[Proceso]].  El mmu está adentro del cpu (`registro satp: <tabla_A>`)
-Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica.
+Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica. Para él solo existe la virtual
 Es literalmente una funcion matetmática
 El mmu tambien puede dar aclaraciones sobre diferentes direccines de memoria
 

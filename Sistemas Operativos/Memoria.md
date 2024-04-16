@@ -17,7 +17,7 @@ El SO ejecuta una parte de un prograama, luego una parte de otro, luego una part
 Diferentes usuarios comparten de forma concurrente un recurso computacional (CPU, memoria, etc.) mediante multiprogramacion e interrupciones de reloj por parte del SO
 
 
-## Virtualizaci
+## Virtualización de Memoria
 
 La memoria virtual es agarrar a memoria fisica (fea y desordenada y mediante un software (mmu), simplificar todo para el [[Proceso]].  El mmu está adentro del cpu (`registro satp: <tabla_A>`)
 Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica.

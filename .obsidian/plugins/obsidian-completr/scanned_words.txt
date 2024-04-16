@@ -203,6 +203,7 @@ regstro
 readable
 redireccionad
 ramas
+realloc
 se
 su
 son
@@ -380,6 +381,8 @@ segmnto
 segmento
 sgment
 size
+sabemos
+sumando
 que
 quien
 quedo
@@ -796,6 +799,7 @@ ampliamente
 addr
 ahorro
 all
+adentro
 cualquier
 carga
 cual
@@ -1041,6 +1045,7 @@ ciencias
 computaci
 cores
 cacheada
+cuanta
 direcci
 de
 dynamic
@@ -1197,6 +1202,7 @@ drectamente
 direaccona
 distribuidos
 dejo
+din
 memoria
 mismo
 mientras
@@ -1510,6 +1516,7 @@ esel
 entrads
 escondrijo
 espaciando
+existente
 tiempo
 tienden
 tener
@@ -1618,6 +1625,7 @@ translator
 traducciones
 traduccion
 traducir
+tira
 no
 nuevo
 necesita
@@ -1661,6 +1669,7 @@ necesitar
 ni
 num
 na
+necesitamos
 importa
 informacion
 industrial
@@ -1833,6 +1842,7 @@ Shift
 Sumamos
 Selector
 Segmetn
+SIEMPRE
 las
 la
 localidad
@@ -1969,6 +1979,7 @@ usada
 ubicado
 usan
 utilizado
+usamos
 flip
 flops
 fisico
@@ -2141,6 +2152,7 @@ Explicit
 Extra
 ENtrada
 Efficent
+Ese
 Las
 Localidad
 Least
@@ -2253,6 +2265,8 @@ Multiprocessing
 Mantener
 MODO
 Miss
+Manejo
+MAS
 videojuegos
 volver
 vaya
@@ -2303,6 +2317,8 @@ verse
 verificar
 van
 virtualizaba
+vamos
+veia
 gran
 guarda
 grande

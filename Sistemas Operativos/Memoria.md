@@ -4,7 +4,7 @@ capitulo:
 dia: 2024-03-04
 ---
 
-La mem
+La memoria tal y como la veia en [[Manejo de Memoria|algo2]] o en [[7.0 Memoria]]
 
 La memoria virtual es agarrar a memoria fisica (fea y desordenada y mediante un software (mmu), simplificar todo para el [[Proceso]].  El mmu está adentro del cpu (`registro satp: <tabla_A>`)
 Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica.

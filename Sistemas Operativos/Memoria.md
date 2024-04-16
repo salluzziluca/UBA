@@ -42,4 +42,3 @@ Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
 ![[Pasted image 20240416113147.png]]
 Trampolin:
 
-w

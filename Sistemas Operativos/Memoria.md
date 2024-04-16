@@ -32,6 +32,9 @@ El [[ Proceso]] tiene un user thread, si cambio de proceso, elnuevo proceso va a
 
 ![[context switch]]
 
+### Adress Translatiion
+Transforma la virtual addres en su equivalente en la mem fisica. 
+
 Trampolin:
 
 w

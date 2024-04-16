@@ -76,3 +76,5 @@ El numero de la pagina virtual es el indice en la page table para obtener el pag
 La direc fisica es la direc fisica del page frame  + el offset de la pagina que se obtiene de la virtual address.
 
 En la mem fisica las paginas no son lineales, la memoria está desparramada
+
+![[Pasted image 20240416115118.png]]

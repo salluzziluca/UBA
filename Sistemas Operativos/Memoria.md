@@ -40,5 +40,13 @@ Formalmente, es un mapeo
 Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
 ![[Pasted image 20240416113147.png]]
-Trampolin:
+##### implementacion en x86
+AX, BX, CX, DX : Registros Generales 
+CS, DS, SS, ES : Registros de Segmentos, manejan la traducción en modo real.( Code Segment, Data Segment, Extra Data Segment) 
+SI, DI, BP, SP, IP: Registros de Punteros y Registro de Índices. (Base Pointer, Stack Pointer y Instruction Pointer
 
+CS:IP localiza la próxima instrucción a ser ejecutada en modo real. 
+SS:SP localiza la dirección del puntero al stack, a veces también puede ser SS:BP. 
+DS: BX,DI,SI localizan el puntero a una dirección de memoria dentro del data address. 
+ES:DI puntero al extra data address donde van los strings.
+![[Pasted image 20240416113542.png]]

@@ -34,7 +34,7 @@ El [[ Proceso]] tiene un user thread, si cambio de proceso, elnuevo proceso va a
 
 ### Adress Translatiion
 Transforma la virtual addres en su equivalente en la mem fisica. 
-
+![[Pasted image 20240416112800.png]]
 Trampolin:
 
 w

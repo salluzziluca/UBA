@@ -73,4 +73,6 @@ las entradas en la page table sólo tienen que proveer los bit superiores de la 
 
 El numero de la pagina virtual es el indice en la page table para obtener el page fram en la memoria fisica.
 
-La direc fisica es kla
+La direc fisica es la direc fisica del page frame  + el offset de la pagina que se obtiene de la virtual address.
+
+En la mem fisica las paginas no son lineales, la memoria está desparramada

@@ -50,3 +50,5 @@ SS:SP localiza la dirección del puntero al stack, a veces también puede ser SS
 DS: BX,DI,SI localizan el puntero a una dirección de memoria dentro del data address. 
 ES:DI puntero al extra data address donde van los strings.
 ![[Pasted image 20240416113542.png]]
+
+#### Tabla de Segmentos

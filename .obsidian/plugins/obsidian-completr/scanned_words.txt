@@ -360,6 +360,7 @@ socket
 strangers
 sean
 separar
+soluci
 que
 quien
 quedo
@@ -578,6 +579,7 @@ piezas
 pedo
 pasados
 publica
+patr
 acceder
 almacenan
 almacenar
@@ -1123,6 +1125,7 @@ deber
 duplicaci
 documentaci
 delimitados
+describe
 memoria
 mismo
 mientras
@@ -1245,6 +1248,7 @@ max
 mayoria
 modelo
 metodos
+mill
 en
 el
 eficientes

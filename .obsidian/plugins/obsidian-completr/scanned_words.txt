@@ -91,6 +91,9 @@ PE
 PDB
 PCD
 PWT
+Present
+PS
+PDE
 random
 refiere
 representa
@@ -217,6 +220,9 @@ requieran
 reg
 reserva
 recientes
+realizar
+reemplazo
+rendimiento
 se
 su
 son
@@ -402,6 +408,8 @@ sumado
 superiores
 superior
 squeda
+sido
+soporte
 que
 quien
 quedo
@@ -647,6 +655,7 @@ pagina
 paginada
 paginaci
 politica
+presente
 acceder
 almacenan
 almacenar
@@ -1102,6 +1111,8 @@ cachea
 cacheo
 caching
 contener
+causar
+casos
 direcci
 de
 dynamic
@@ -1265,6 +1276,9 @@ direccionar
 direccionable
 desparramada
 deshabilitar
+desactivado
+desactivar
+desactivada
 memoria
 mismo
 mientras
@@ -1394,6 +1408,9 @@ manejable
 multiprogramacion
 manejan
 mite
+mapeada
+modificada
+mejorar
 en
 el
 eficientes
@@ -1593,6 +1610,10 @@ era
 entries
 establecido
 escribe
+ella
+escritura
+escrituras
+elimina
 tiempo
 tienden
 tener
@@ -1706,6 +1727,8 @@ tercero
 tanslation
 traducci
 tabal
+through
+til
 no
 nuevo
 necesita
@@ -1935,6 +1958,7 @@ SIEMPRE
 Sharing
 Segmentos
 Segmentation
+Supervisor
 las
 la
 localidad
@@ -2035,6 +2059,7 @@ lentos
 lea
 lineales
 lidas
+limpi
 utilizan
 un
 uso
@@ -2079,6 +2104,7 @@ utilizado
 usamos
 usuarios
 ubicar
+utilizarse
 flip
 flops
 fisico
@@ -2209,6 +2235,7 @@ Direc
 Diferentes
 Directory
 Disable
+Dirty
 Estas
 En
 Estructuras
@@ -2285,6 +2312,7 @@ Leer
 Libera
 Local
 LDT
+Large
 bien
 burner
 bajo
@@ -2376,6 +2404,7 @@ Miss
 Manejo
 MAS
 Multiprograming
+MB
 videojuegos
 volver
 vaya
@@ -2467,6 +2496,7 @@ gb
 grandes
 gina
 ginas
+gesti
 Tambien
 This
 Template
@@ -2657,6 +2687,7 @@ ountero
 offset
 operand
 ocupa
+optimizaci
 Al
 Associative
 ASSOCIATIVE
@@ -2705,6 +2736,9 @@ Aumentaron
 Accedo
 Adress
 Alberga
+Accessed
+Available
+Avail
 Un
 Used
 Untitle
@@ -2800,6 +2834,7 @@ Ignora
 Inicialmente
 It
 Indice
+Indica
 Box
 Bases
 Booteo

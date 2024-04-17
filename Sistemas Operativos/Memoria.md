@@ -98,7 +98,9 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 # Control Registries
 
 ##### `CRo`
-Alberga varioos flags que controlan operaciones del procesador. 
+Alberga varioos flags que controlan operaciones del procesador. Sirve para habilitar y deshabilitar paginacion y modo protegido.
+PE: modo protegido 
+
 `CR0`: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
 ![[Pasted image 20240417111204.png]]
 

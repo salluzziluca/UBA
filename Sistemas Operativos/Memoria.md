@@ -93,9 +93,10 @@ la page directory posee 1024 entradas. ![[Pasted image 20240417110821.png]]
 
 #### Page table entry
 idem. Cada page table ocupa 4 bytes, hay 1024 entries 
+![[Pasted image 20240417110922.png]]
 
-# Control REgistrys
-CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
+# Control Registries
+CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
 
 CR3 contine page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona au na page table que contiene 1024 entrads
 

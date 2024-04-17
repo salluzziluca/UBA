@@ -97,7 +97,9 @@ la page directory posee 1024 entradas. ![[Pasted image 20240417110821.png]]
 - Cache Disable (C): Este bit se utiliza para desactivar la caché para la región de memoria mapeada. Si está establecido, la caché está desactivada para la región. Si está desactivado, la caché puede utilizarse. 
 - Accessed (A): Este bit se establece por hardware cada vez que se accede a la región de memoria mapeada. Es útil para la gestión de la memoria y la optimización de algoritmos de reemplazo de páginas. 
 - Dirty (D): Este bit se establece por hardware cada vez que se escribe en la región de memoria mapeada. Indica que la página ha sido modificada desde la última vez que se limpió. 
-- Large Page (PS): Si este bit está configurado, indica que la entrada PDE apunta a una tabla de páginas de tamaño grande (4 MB en lugar de 4 KB). Esto se utiliza para el soporte de páginas grandes y puede mejorar el rendimiento en ciertos casos. Global (G): Este bit se utiliza para páginas globales. Si está establecido, la página no se elimina del caché de traducción de direcciones (TLB) cuando se cambia el contexto del proceso. Available(Avail):Estosbitsestándisponiblesparaelusodelsoftwareypuedenserutilizadosparaalmacenarinformación
+- Large Page (PS): Si este bit está configurado, indica que la entrada PDE apunta a una tabla de páginas de tamaño grande (4 MB en lugar de 4 KB). Esto se utiliza para el soporte de páginas grandes y puede mejorar el rendimiento en ciertos casos. 
+- Global (G): Este bit se utiliza para páginas globales. Si está establecido, la página no se elimina del caché de traducción de direcciones (TLB) cuando se cambia el contexto del proceso. 
+- Available(Avail):Estos bits están disponibles para el uso del software y pueden ser utilizados para almacenar información
 
 #### Page table entry
 idem. Cada page table ocupa 4 bytes, hay 1024 entries 

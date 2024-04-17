@@ -32,6 +32,7 @@ Raw
 Repeat
 REgistrys
 Realmente
+Registries
 Por
 Pero
 PC
@@ -86,6 +87,10 @@ PG
 Pongo
 Punteros
 Pointer
+PE
+PDB
+PCD
+PWT
 random
 refiere
 representa
@@ -211,6 +216,7 @@ reicciones
 requieran
 reg
 reserva
+recientes
 se
 su
 son
@@ -394,6 +400,8 @@ so
 segmentacion
 sumado
 superiores
+superior
+squeda
 que
 quien
 quedo
@@ -636,6 +644,9 @@ prevenir
 paginas
 punteros
 pagina
+paginada
+paginaci
+politica
 acceder
 almacenan
 almacenar
@@ -824,6 +835,10 @@ all
 adentro
 asegurarse
 alarga
+apunte
+arrancar
+antiguas
+antigua
 cualquier
 carga
 cual
@@ -1080,6 +1095,13 @@ comparado
 cuyas
 contienen
 compactos
+controlan
+comportamiento
+contene
+cachea
+cacheo
+caching
+contener
 direcci
 de
 dynamic
@@ -1242,6 +1264,7 @@ daba
 direccionar
 direccionable
 desparramada
+deshabilitar
 memoria
 mismo
 mientras
@@ -1567,6 +1590,9 @@ ejecutada
 esolucion
 escriba
 era
+entries
+establecido
+escribe
 tiempo
 tienden
 tener
@@ -1679,6 +1705,7 @@ tira
 tercero
 tanslation
 traducci
+tabal
 no
 nuevo
 necesita
@@ -1845,6 +1872,9 @@ is
 izq
 implmentaciones
 implementar
+individuales
+ignorado
+invalida
 Static
 SRAM
 Si
@@ -2004,6 +2034,7 @@ laburar
 lentos
 lea
 lineales
+lidas
 utilizan
 un
 uso
@@ -2132,6 +2163,7 @@ frames
 fija
 frame
 fram
+flags
 DRAM
 De
 Direct
@@ -2175,6 +2207,8 @@ DI
 DPL
 Direc
 Diferentes
+Directory
+Disable
 Estas
 En
 Estructuras
@@ -2224,6 +2258,7 @@ Extra
 ENtrada
 Efficent
 Ese
+Entrada
 Las
 Localidad
 Least
@@ -2298,6 +2333,7 @@ basada
 brk
 bt
 bound
+basadas
 Only
 Ownership
 Operativo
@@ -2392,6 +2428,7 @@ van
 virtualizaba
 vamos
 veia
+versiones
 gran
 guarda
 grande
@@ -2466,6 +2503,7 @@ TLB
 Time
 Translatiion
 Transforma
+Through
 Cach
 Caracteristicas
 CPU
@@ -2528,6 +2566,7 @@ CX
 Cuand
 CR
 Code
+Controla
 hacer
 hay
 hits
@@ -2560,6 +2599,7 @@ hizo
 haga
 hacaia
 hice
+habilitar
 otro
 ocupados
 obsidian
@@ -2664,6 +2704,7 @@ Asi
 Aumentaron
 Accedo
 Adress
+Alberga
 Un
 Used
 Untitle
@@ -2774,6 +2815,7 @@ Bit
 Base
 Bound
 BP
+Back
 Hay
 Heap
 Hash
@@ -2782,6 +2824,7 @@ Hola
 Habitualmente
 Hardware
 Handler
+Habilita
 YYYY
 YOU
 Yourself
@@ -2841,4 +2884,6 @@ Global
 GDT
 GDTR
 Wait
+WP
+Write
 Qu

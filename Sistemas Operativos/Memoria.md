@@ -96,6 +96,9 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 ![[Pasted image 20240417110922.png]]
 
 # Control Registries
+
+##### `CRo`
+Alberga varioos flags que controlan operaciones del procesador. 
 `CR0`: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
 ![[Pasted image 20240417111204.png]]
 
@@ -106,6 +109,8 @@ PCD (Page Level Caché Disable, bit 4): si es 1, la paginacion no se cachea. A v
 PWT (Page-Level Write Through, bit 3): Controla las caracteristicas de caching para las tablas de paginas. Si es 1, se utiliza la politica de cacheo Write-Through, sino, se utiliza Write-Back.
 
 Cada vez que se escribe en CR3, la caché de la tabla de búsqueda (TLB) se invalida automáticamente. Esto se debe a que la TLB podría contener entradas antiguas basadas en la antigua estructura de paginación, y al cambiar CR3, estas entradas ya no serían válidas
+
+Los bits que no se usan luego fueron utilizados en versiones mas recientes de x86
 ![[Pasted image 20240417111217.png]]
 
 #### X86

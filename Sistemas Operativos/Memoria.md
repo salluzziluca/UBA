@@ -101,7 +101,8 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 
 `CR3` contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
 
-PDB: contienen al direc base de la tabal de directorios de paginas. 
+PDB: contienen al direc base de la tabal de directorios de paginas.  
+PCD (Page Level Caché Disable, bit 4): si es 1, la paginacion no se cachea. A veces es ignorado, con las 
 ![[Pasted image 20240417111217.png]]
 
 #### X86

@@ -97,16 +97,17 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 
 # Control Registries
 
-##### `CRo`
+##### `CR0`
 El registro CR0 es esencial para inicializar el procesador al arrancar.
 Alberga varios flags que controlan operaciones del procesador. Sirve para habilitar y deshabilitar paginacion y modo protegido.
 PE: modo protegido (1) modo real (0)
 WP: Si está establecido, determina el comportamiento de las paginas de solo lectura en modo supervisor
 PG: Habilita la paginacion, si no, el procesador una traduccion de direccion lineal a fisica directa.
-Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
+> Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
 ![[Pasted image 20240417111204.png]]
 
-`CR3` contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
+#### `CR3`
+ contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
 
 PDB: contienen al direc base de la tabal de directorios de paginas. La tabla de directorios de páginas es la estructura de datos de nivel superior en el mecanismo de paginación de x86, que a su vez apunta a tablas de páginas individuales.
 PCD (Page Level Caché Disable, bit 4): si es 1, la paginacion no se cachea. A veces es ignorado, con las caracteristicas de cacheo determinadas por las entradas individuales de las tablas de paginas.

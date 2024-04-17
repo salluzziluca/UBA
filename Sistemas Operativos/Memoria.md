@@ -100,6 +100,8 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 ![[Pasted image 20240417111204.png]]
 
 `CR3` contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
+
+PDB: contienen al direc base de la tabal de directorios de paginas. 
 ![[Pasted image 20240417111217.png]]
 
 #### X86

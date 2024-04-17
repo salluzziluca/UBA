@@ -96,11 +96,11 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 ![[Pasted image 20240417110922.png]]
 
 # Control Registries
-CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
+`CR0`: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memoria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
 ![[Pasted image 20240417111204.png]]
 
-CR3 contine page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona au na page table que contiene 1024 entrads
-
+`CR3` contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
+![[Pasted image 20240417111217.png]]
 
 #### X86
 La arquiterctura 8086 tien un bus d datos de 20 bits, los regs tienenuna long de 16 bits.

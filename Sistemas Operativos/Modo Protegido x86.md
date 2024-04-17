@@ -18,7 +18,7 @@ Asi se virtualizaba antes de los 80
 empezo en 80286
 Un modo que se hizo despues, permite la proteccion de memoria,
 Aumentaron el bus de memoria a 32 bits
-
+El modo protegido permite direccionar a datos y programas más allá de 1 Mb de memoria física, así como también dentro del primer mega de memoria física.
 
 ### Global Descriptor Table (GDT):  
 tabla guardada en memoria, apuntada por  el regstro GDTR. Una por todo el sistema, siempre accesible. Kernel y mem compartida

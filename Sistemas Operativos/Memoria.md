@@ -79,7 +79,7 @@ En la mem fisica las paginas no son lineales, la memoria está desparramada
 
 ![[Pasted image 20240416115118.png]]
 
-
+####
 ## Page directory entry
 
 ENtrada a la page directoriy, ocupa 4 bytes

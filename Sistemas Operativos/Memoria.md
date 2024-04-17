@@ -80,6 +80,17 @@ En la mem fisica las paginas no son lineales, la memoria está desparramada
 ![[Pasted image 20240416115118.png]]
 
 
+## Page directory entry
+
+ENtrada a la page directoriy, ocupa 4 bytes
+la page directory posee 1024 entradas. 
+
+# Control REgistrys
+CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
+
+CR3 contine page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona au na page table que contiene 1024 entrads
+
+
 #### X86
 La arquiterctura 8086 tien un bus d datos de 20 bits, los regs tienenuna long de 16 bits.
 Generales: AX BX CX DX
@@ -137,17 +148,6 @@ Bit 1 is not used by hardware
 
 
 ==Con la misma cantidad de registros pudimos redireccionad 4gb==
-
-
-## Page directory entry
-
-ENtrada a la page directoriy, ocupa 4 bytes
-la page directory posee 1024 entradas. 
-
-# Control REgistrys
-CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion
-
-CR3 contine page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona au na page table que contiene 1024 entrads
 
 
 ---

@@ -15,8 +15,9 @@ Y siempre hay que liberar el bloque despues
 `free(mi_bloque)`
 
 Si necesitamos MAS memoria (o sea, el malloc te tira NULL) en el medio de nuestro programa, usamos. 
-
+Internamente funciona como se aclara en [[Malloc y Brk#Funcionamiento Interno de Malloc]]
 ## realloc()
+
 `realloc(*bloque, tamaño final que queremos)`
 realloc le suma x cantidad de memoria a un bloque ya existente
 ```c

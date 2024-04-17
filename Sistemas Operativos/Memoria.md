@@ -103,7 +103,7 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 
 PDB: contienen al direc base de la tabal de directorios de paginas.  
 PCD (Page Level Caché Disable, bit 4): si es 1, la paginacion no se cachea. A veces es ignorado, con las caracteristicas de cacheo determinadas por las entradas individuales de las tablas de paginas.
-PWT (Page-Level Write Through, bit 3): Controla las caracteristicas de caching para las tablas de paginas. Si es 1, se utiliza 
+PWT (Page-Level Write Through, bit 3): Controla las caracteristicas de caching para las tablas de paginas. Si es 1, se utiliza la politica de cacheo Write-Through, sino, se utiliza Write-Back.
 ![[Pasted image 20240417111217.png]]
 
 #### X86

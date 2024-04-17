@@ -89,7 +89,10 @@ Memory Page offset address bits 11-0 (12 bits) apunta a la physical address
 #### Page directory entry
 
 Entrada a la page directory, ocupa 4 bytes
-la page directory posee 1024 entradas. 
+la page directory posee 1024 entradas. ![[Pasted image 20240417110821.png]]
+
+#### Page table entry
+idem. Cada page table ocupa 4 bytes, hay 1024 entries 
 
 # Control REgistrys
 CR0: Si el bit mas a la izq del CR0 es 0 determina que la lineal adress se convierte drectamente en physical adress para acceder a la memria. Si PG esta en 1 la linea adress debe ser convertida en physicial adress a traves del mecanismo de paginacion

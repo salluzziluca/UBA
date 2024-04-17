@@ -158,3 +158,12 @@ Tiene que ser rapida, es una memoria estatica on chip muy cerca del procesador
 Hay implmentaciones con 2 TLB. Pongo Miss en la primera TLB, si no uso alguno por mucho tiempo lo bajo a la TLB2, si no lo uso por mas tiempo se va.
 
 allá le estan espaciando las localidades
+
+
+>Cada vez que se introduce un cache en el sistema, se necesita considerar la forma de asegurar la consistencia del cache con los datos originales cuando las entradas en el mismo son modificadas. 
+>Una TLB no es la excepción. Para una ejecución correcta y segura de un programa, el sistema operativo tiene que asegurarse que cada programa ve su propia memoria y la de nadie más.
+
+
+- Context switch: Las direcciones virtuales del viejo proceso ya no son más válidas, y no deben ser válidas, para el nuevo proceso.
+- Reducción de Permiso: Qué sucede cuando el sistema operativo modifica una entrada en una page table?Normalmente no se provee consistencia por hardware para la TLB; mantener la TLB consistente con la page table es responsabilidad del sistema operativo.
+- TLB shutdown: En un sistema multiprocesador cada uno puede tener cacheada una copia de una transacción en su TLB. Por ende, para seguridad y correctitud, cada vez que una entrada en la page table es modificada, la correspondiente entrada en todas las TLB de los procesadores tiene que ser descartada antes que los cambios tomen efecto.

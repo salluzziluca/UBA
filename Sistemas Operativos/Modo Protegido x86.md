@@ -37,6 +37,7 @@ Cuand tiene un segment o va y agarra los primeros 13 bits. Se fija ell TI (tipo 
 
 
 ## 80386 Segmetn Descriptor
+![[Pasted image 20240417115116.png]]
 A es el accesed bits
 R es el readable bits
 C (bit 46) depende de X, si X = 1 C tiene el conforming bit, SI C es 0 solo codigo con el mismo privilege que el DPL puede saltar ahi. Si es 1 codigo con igua o menor privilegio que el DPL puede saltar ahi.

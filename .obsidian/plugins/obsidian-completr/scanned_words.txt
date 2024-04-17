@@ -33,6 +33,7 @@ Repeat
 REgistrys
 Realmente
 Registries
+Reducci
 Por
 Pero
 PC
@@ -94,6 +95,7 @@ PWT
 Present
 PS
 PDE
+Permiso
 random
 refiere
 representa
@@ -223,6 +225,7 @@ recientes
 realizar
 reemplazo
 rendimiento
+responsabilidad
 se
 su
 son
@@ -410,6 +413,9 @@ superior
 squeda
 sido
 soporte
+segura
+shutdown
+seguridad
 que
 quien
 quedo
@@ -656,6 +662,7 @@ paginada
 paginaci
 politica
 presente
+procesadores
 acceder
 almacenan
 almacenar
@@ -848,6 +855,7 @@ apunte
 arrancar
 antiguas
 antigua
+asegurar
 cualquier
 carga
 cual
@@ -1113,6 +1121,15 @@ caching
 contener
 causar
 casos
+chip
+cerca
+cache
+considerar
+consistencia
+correcta
+consistente
+correctitud
+cambios
 direcci
 de
 dynamic
@@ -1279,6 +1296,7 @@ deshabilitar
 desactivado
 desactivar
 desactivada
+descartada
 memoria
 mismo
 mientras
@@ -1411,6 +1429,9 @@ mite
 mapeada
 modificada
 mejorar
+modificadas
+mantener
+multiprocesador
 en
 el
 eficientes
@@ -1614,6 +1635,10 @@ ella
 escritura
 escrituras
 elimina
+estatica
+excepci
+ende
+efecto
 tiempo
 tienden
 tener
@@ -1729,6 +1754,8 @@ traducci
 tabal
 through
 til
+transacci
+tomen
 no
 nuevo
 necesita
@@ -1778,6 +1805,7 @@ necesitaron
 ndices
 ndice
 necesario
+nadie
 importa
 informacion
 industrial
@@ -1898,6 +1926,7 @@ implementar
 individuales
 ignorado
 invalida
+introduce
 Static
 SRAM
 Si
@@ -2458,6 +2487,7 @@ virtualizaba
 vamos
 veia
 versiones
+ve
 gran
 guarda
 grande
@@ -2597,6 +2627,7 @@ Cuand
 CR
 Code
 Controla
+Context
 hacer
 hay
 hits
@@ -2688,6 +2719,7 @@ offset
 operand
 ocupa
 optimizaci
+originales
 Al
 Associative
 ASSOCIATIVE

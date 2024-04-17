@@ -79,7 +79,13 @@ En la mem fisica las paginas no son lineales, la memoria está desparramada
 
 ![[Pasted image 20240416115118.png]]
 
-####
+### Memoria paginada en x86
+![[Pasted image 20240417105732.png]]
+Page Directory bits 31-22 (10 bits) 
+Page Table Entry bits 21-12 (10 bits)
+Memory Page offset address bits 11-0 (12 bits)
+
+![[Pasted image 20240417105805.png]]
 ## Page directory entry
 
 ENtrada a la page directoriy, ocupa 4 bytes

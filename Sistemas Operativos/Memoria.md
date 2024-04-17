@@ -101,9 +101,11 @@ idem. Cada page table ocupa 4 bytes, hay 1024 entries
 
 `CR3` contene page directory base que contiene 1024 entradas de 4 bytes cada una. Cada entrada del Page Direc ocupa 4 bytes y direaccona a una page table que contiene 1024 entrads
 
-PDB: contienen al direc base de la tabal de directorios de paginas.  
+PDB: contienen al direc base de la tabal de directorios de paginas. La tabla de directorios de páginas es la estructura de datos de nivel superior en el mecanismo de paginación de x86, que a su vez apunta a tablas de páginas individuales.
 PCD (Page Level Caché Disable, bit 4): si es 1, la paginacion no se cachea. A veces es ignorado, con las caracteristicas de cacheo determinadas por las entradas individuales de las tablas de paginas.
 PWT (Page-Level Write Through, bit 3): Controla las caracteristicas de caching para las tablas de paginas. Si es 1, se utiliza la politica de cacheo Write-Through, sino, se utiliza Write-Back.
+
+Cada vez que se escribe en CR3, la caché de la tabla de búsqueda (TLB) se invalida automáticamente. Esto se debe a que la TLB podría contener entradas antiguas basadas en la antigua estructura de paginación, y al cambiar CR3, estas entradas ya no serían válidas
 ![[Pasted image 20240417111217.png]]
 
 #### X86

@@ -1518,6 +1518,7 @@ Estados
 Est
 EXIT
 Ejecuci
+EHFnuKXM
 kernel
 realice
 realicen
@@ -1645,6 +1646,8 @@ recibi
 running
 reciba
 revisado
+rECq
+rSZrghSe
 operacion
 orden
 operaciones
@@ -1913,6 +1916,7 @@ Permiso
 PROCESO
 PROGRAMA
 Preempt
+Px
 Interface
 ID
 Instructions
@@ -2189,6 +2193,7 @@ tasks
 task
 trace
 terminado
+tytr
 inico
 interna
 infro
@@ -2373,6 +2378,7 @@ NULL
 Notaci
 Nuestro
 Normalmente
+NfW
 File
 For
 Funcion

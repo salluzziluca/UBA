@@ -27,6 +27,7 @@ Level
 Large
 Listo
 Linux
+Lambda
 capa
 controlado
 cantidad
@@ -451,6 +452,7 @@ dispositivo
 despierte
 despertado
 debbuger
+definiciones
 gestion
 gran
 guarda
@@ -660,6 +662,7 @@ exit
 espera
 eventualmente
 entregada
+establecidas
 servicios
 son
 su
@@ -998,6 +1001,7 @@ preentive
 peleando
 probablemente
 posteriormente
+partir
 la
 las
 le
@@ -1078,6 +1082,7 @@ lookaside
 localidades
 lleguen
 liberado
+lculo
 agnosticos
 apps
 al
@@ -1512,6 +1517,7 @@ EJECUCI
 Estados
 Est
 EXIT
+Ejecuci
 kernel
 realice
 realicen
@@ -2589,6 +2595,7 @@ basadas
 buffer
 bloqueado
 but
+bases
 will
 words
 with

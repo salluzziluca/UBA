@@ -47,7 +47,7 @@ Se ejecuta un proceso por una slice de tiempo, cambia al proximo, cambia al prox
 Si el time slice es muy chikito, pierdo mucho recursos en el context switch
 
 
-## Multi Level Feedback Queue
+## Multi Level Feedback Queue (MLFQ)
 Intenta optimizar el turnaround time, se intenta ejecutar la tarea mas corta primero. MLFQ intenta que el planificador haga sentir al sistema con un tiempo de respuesta interactivo para los usuarios por ende minimizar el ***response time***
 
 ### Problemas

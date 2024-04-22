@@ -289,6 +289,8 @@ causando
 condici
 cumpla
 continuar
+conunta
+continuo
 de
 dispositivos
 del
@@ -457,6 +459,12 @@ definiciones
 diagrama
 don
 diagramas
+dim
+discreto
+definidas
+define
+dadas
+deproba
 gestion
 gran
 guarda
@@ -668,6 +676,7 @@ eventualmente
 entregada
 establecidas
 enfocados
+exepriment
 servicios
 son
 su
@@ -811,6 +820,8 @@ similar
 signals
 solicitados
 secuencia
+satisface
+sii
 par
 por
 punto
@@ -1010,6 +1021,7 @@ posteriormente
 partir
 ponerle
 preguntarle
+prob
 la
 las
 le
@@ -1826,6 +1838,7 @@ versiones
 ve
 visi
 verdadera
+variabes
 Application
 API
 Asigna
@@ -1964,6 +1977,7 @@ Indica
 In
 INTERRUPTIBLE
 Implementar
+Independencia
 Un
 UNIX
 UBA
@@ -2096,6 +2110,8 @@ multiprocesador
 motivo
 manten
 more
+mon
+marginales
 tien
 tiene
 todos
@@ -2213,6 +2229,7 @@ terminado
 tytr
 tratar
 tamanio
+tona
 inico
 interna
 infro
@@ -2469,6 +2486,7 @@ Dirty
 Durmiendo
 DEAD
 Dividir
+Debe
 Memoria
 Multivariada
 MORE
@@ -2628,6 +2646,7 @@ buffer
 bloqueado
 but
 bases
+bidimensional
 will
 words
 with

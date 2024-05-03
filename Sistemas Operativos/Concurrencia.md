@@ -46,4 +46,4 @@ dejar(lock);
 ```
 Mutual Exclusion: Un solo thread puede usar el lock a la vez
 Progress: Si nadie tiene el lock y alguien lo quiere, alguno debe poder obtenerlo
-Bounded Waitini un thear
+Bounded Waiting: si un thread quire acceder aun thread y existen varios en la misma situacion, los demas tienen una cantidad finita (un limite) de posibles accesos antes que T lo haga. 

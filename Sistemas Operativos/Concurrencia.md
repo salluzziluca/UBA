@@ -48,13 +48,14 @@ Mutual Exclusion: Un solo thread puede usar el lock a la vez
 Progress: Si nadie tiene el lock y alguien lo quiere, alguno debe poder obtenerlo
 Bounded Waiting: si un thread quire acceder aun thread y existen varios en la misma situacion, los demas tienen una cantidad finita (un limite) de posibles accesos antes que T lo haga. 
 
+#### Operaciones atómicas
+este tipo de operaciones no pueden dividirse en otras
+y se garantiza la ejecución de la misma sin tener que intercalar ejecución.
 
 #### Implementaciones de lock:
 ##### Spinlock:
 Un lock que se impementa usando busy wait. El proceso o hilo en ejecuciion espera activamente en un loop a que ocurra un evento en lugar de dormirse o bloquearse
  Verifca repetidamente que el evento haya ocurrido 
 
+##### Sleeplock:
 
-#### Operaciones atómicas
-este tipo de operaciones no pueden dividirse en otras
-y se garantiza la ejecución de la misma sin tener que intercalar ejecución.

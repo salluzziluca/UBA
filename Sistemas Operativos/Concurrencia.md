@@ -3,3 +3,5 @@ Los threads y los procesos son muy parecidos, tienen de hecho una API casi equiv
 hay una clase padre llamada task de las cuales heredan proceso y thread
 
 ![[Pasted image 20240503192216.png]]
+
+Los threads tambien tienen estados

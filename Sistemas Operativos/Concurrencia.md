@@ -13,4 +13,4 @@ Cuando yo creo un proceso (PID 2001) con un solo thread, se setea el Thread Grou
 ## Interprocess Communication
 era lo que se usaba para comunicar procesos antes de la existencia de threads, todavia se usa un monton, un tipo de interprocess communication es mediante pipes, otro es sockets de red
 
-Otro es mediante memoria compartida, 
+Otro es mediante memoria compartida, le decimos que la visibilidad de la memoria tiene que ser compartida

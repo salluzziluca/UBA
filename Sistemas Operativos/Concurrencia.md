@@ -32,3 +32,15 @@ Una seccion criticia es una seccion del codigo donde solo puede haber un thread 
 
 
 ### Locks
+Un lock es una variable que permite la sincronización mediante la
+exclusión mutua, cuando un thread tiene el candado o lock ningún
+otro puede tenerlo.
+
+```c
+while(true){
+int transferencia= nextTranferencia();
+obtener(lock);
+//seccion critica
+dejar(lock);
+}
+```

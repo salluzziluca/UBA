@@ -58,4 +58,4 @@ Un lock que se impementa usando busy wait. El proceso o hilo en ejecuciion esper
  Verifca repetidamente que el evento haya ocurrido 
 
 ##### Sleeplock:
-
+Este duerme hasta que pasa x tiempo y cuando se despierta y chequea si tiene el deadlock

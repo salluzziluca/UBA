@@ -18,7 +18,10 @@ Otro es mediante memoria compartida, le decimos que la visibilidad de la memoria
 
 ## Sincronizacion
 ### Race contidions
+>Los threads juegan una carrera entre sus operaciones, y el
+resultado del programa depende de quién gane esa carrera.
+
 Se da cuando el resultado de un programa depende del orden en el que se ejecuutan los procesos, en como se intercalan. 
-Esto se da porque los threads no esperan
+Esto se da porque los threads no se esperan entre ellos 
 CAso en el que se rompe:
 ![[Pasted image 20240503195140.png]]

@@ -5,3 +5,6 @@ hay una clase padre llamada task de las cuales heredan proceso y thread
 ![[Pasted image 20240503192216.png]]
 
 Los threads tambien tienen estados
+
+
+Cuando yo creo un proceso (PID 2001) con un solo thread, se setea el Thread Group ID = 2001 ![[Pasted image 20240503193111.png]]

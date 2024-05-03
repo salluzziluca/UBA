@@ -29,3 +29,6 @@ CAso en el que se rompe:
 
 ### Seccion Crítica 
 Una seccion criticia es una seccion del codigo donde solo puede haber un thread en ejecución a la vez 
+
+
+### Locks

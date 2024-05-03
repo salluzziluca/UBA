@@ -56,4 +56,5 @@ Un lock que se impementa usando busy wait. El proceso o hilo en ejecuciion esper
 
 
 #### Operaciones atómicas
-Estas operaciones terminan su 
+este tipo de operaciones no pueden dividirse en otras
+y se garantiza la ejecución de la misma sin tener que intercalar ejecución.

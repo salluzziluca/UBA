@@ -51,5 +51,6 @@ Bounded Waiting: si un thread quire acceder aun thread y existen varios en la mi
 
 #### Implementaciones de lock:
 ##### Spinlock:
-Un lock que se impementa usando buy
+Un lock que se impementa usando busy wait. El proceso o hilo en ejecuciion espera activamente en un loop a que ocurra un evento en lugar de dormirse o bloquearse
+ Verifca repetidamente que el evento haya
 

@@ -54,3 +54,6 @@ Bounded Waiting: si un thread quire acceder aun thread y existen varios en la mi
 Un lock que se impementa usando busy wait. El proceso o hilo en ejecuciion espera activamente en un loop a que ocurra un evento en lugar de dormirse o bloquearse
  Verifca repetidamente que el evento haya ocurrido 
 
+
+#### Operaciones atómicas
+Estas operaciones terminan su 

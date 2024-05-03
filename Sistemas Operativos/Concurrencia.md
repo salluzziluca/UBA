@@ -25,3 +25,7 @@ Se da cuando el resultado de un programa depende del orden en el que se ejecuuta
 Esto se da porque los threads no se esperan entre ellos 
 CAso en el que se rompe:
 ![[Pasted image 20240503195140.png]]
+
+
+### Seccion Crítica 
+Una seccion criticia es una seccion del codigo donde solo puede haber un thread en ejecución a la vez 

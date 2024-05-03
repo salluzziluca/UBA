@@ -17,3 +17,5 @@ Otro es mediante memoria compartida, le decimos que la visibilidad de la memoria
 
 
 ## Sincronizacion
+### Race contidions
+Se da cuando el resultado de un programa depende del orden en el que se ejecuutan los procesos, en 

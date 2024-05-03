@@ -44,3 +44,6 @@ obtener(lock);
 dejar(lock);
 }
 ```
+Mutual Exclusion: Un solo thread puede usar el lock a la vez
+Progress: Si nadie tiene el lock y alguien lo quiere, alguno debe poder obtenerlo
+Bounded Waitini un thear

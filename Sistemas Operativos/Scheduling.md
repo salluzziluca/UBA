@@ -79,3 +79,5 @@ Con esto se logran dos cosas
 
 ## linux
 Un buen planificador tiene que tender a no tardar tiempo en decidir quien sigue, esa decision tiene que tardar el menor tiempo posible. Tiene que tener bajar la [[Complejidad de Algoritmos|complejidad algoritmica]] 
+
+Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo O(1)

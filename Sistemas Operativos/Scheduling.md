@@ -88,7 +88,7 @@ Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planifi
 
 **Equidad**: El CFS busca ofrecer a cad aproceso una porcion justa de CPU. No se asignan time slices, sino que que se les da una porcion de tiempo de CPU proporcional a su peso de prioridad
 **Virtual Runtime:** cada proceso tiene asociado un contador llamad vrtuntime, que representa la cantidad de tiempo que el proceso lleva ejecutandose. Los que tienen menos vruntine son los que tienen mayor prioridad para ser ejecutados. 
-$$$$
+$$vruntine +=\frac{delta_{exec}}{weight}\times load\_weight$$
 **Pesos de Prioridad**: Los procesos de linux pueden tener diferentes proridades, que en el CPS implica pesos. Un peso mas alto implica mayor prioridad
 
 

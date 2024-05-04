@@ -86,5 +86,6 @@ Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo [[Comple
 ### Completely Fair Scheduler
 Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planificacion proporcional (fair scheduling). Donde se intenta dar a cada proceso una cantidad de tiempo de CPU proporcional a su prioridad. CFS utiliza una estructura de datos de tipo [[Arbol Rojo Negro|arbol rojo negro]]. 
 
-Equidad: El CFS busca ofrecer a cad aproceso una porcion justa de CPU. No se asignan time slices, sino que que se les da una porcion de tiempo de CPU proporcional a su peso de prioridad
-Vir
+**Equidad**: El CFS busca ofrecer a cad aproceso una porcion justa de CPU. No se asignan time slices, sino que que se les da una porcion de tiempo de CPU proporcional a su peso de prioridad
+**Virtual Runtime:** cada proceso tiene asociado un contador llamad vrtuntime, que representa la cantidad de tiempo que el proceso lleva ejecutandose. Los que tienen menos vruntine son los que tienen mayor prioridad para ser ejecutados. 
+

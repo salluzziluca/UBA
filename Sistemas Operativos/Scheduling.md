@@ -81,6 +81,7 @@ Con esto se logran dos cosas
 Un buen planificador tiene que tender a no tardar tiempo en decidir quien sigue, esa decision tiene que tardar el menor tiempo posible. Tiene que tener bajar la [[Complejidad de Algoritmos|complejidad algoritmica]] 
 En Linux 1.2 Se utilizaba una cola circular con round robin
 en linux 2.2 se introduce las scheduling cvlasses (real-time, non-real-time)
+en linux 2.4 se crea el O(N) scheduler
 Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo [[Complejidad de Algoritmos|O(1)]]. Su nombre es 
 ### Completely Fair Scheduler
 Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planificacion proporcional (fair scheduling). Donde se intenta dar a cada proceso una cantidad de tiempo de CPU proporcional a su prioridad. CFS utiliza una estructura de datos de tipo [[Arbol Rojo Negro|arbol rojo negro]]. 

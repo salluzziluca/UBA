@@ -90,3 +90,6 @@ Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planifi
 **Virtual Runtime:** cada proceso tiene asociado un contador llamad vrtuntime, que representa la cantidad de tiempo que el proceso lleva ejecutandose. Los que tienen menos vruntine son los que tienen mayor prioridad para ser ejecutados. 
 **Pesos de Prioridad**: Los procesos de linux pueden tener diferentes proridades, que en el CPS implica pesos. Un peso mas alto implica mayor prioridad
 
+
+Cada task_struct tiene un struct de sched_
+

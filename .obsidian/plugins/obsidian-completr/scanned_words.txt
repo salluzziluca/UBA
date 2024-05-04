@@ -309,6 +309,8 @@ cargando
 computer
 conectados
 conectada
+cvlasses
+cad
 de
 dispositivos
 del
@@ -724,6 +726,8 @@ enviarla
 estoy
 especificas
 ero
+ejecutandose
+ejecutados
 servicios
 son
 su
@@ -888,6 +892,10 @@ sola
 suele
 subarboles
 subarbol
+scheduling
+scheduler
+shceduler
+slices
 par
 por
 punto
@@ -1105,6 +1113,10 @@ posicion
 pena
 padres
 pensado
+proporcional
+porcion
+proridades
+pesos
 la
 las
 le
@@ -1199,6 +1211,7 @@ llegar
 log
 largo
 lido
+llamad
 agnosticos
 apps
 al
@@ -1392,6 +1405,8 @@ atras
 arboles
 autobalanceado
 alturas
+ado
+aproceso
 hardware
 heap
 hay
@@ -1502,6 +1517,7 @@ urna
 utilizo
 utilizada
 ubi
+utilizaba
 System
 Son
 Source
@@ -1570,6 +1586,7 @@ Status
 State
 Sintaxis
 Subrutina
+Scheduler
 Calls
 Cmabia
 CPU
@@ -1635,6 +1652,9 @@ CISC
 Coleccion
 Comparamos
 Comparo
+Completely
+CFS
+CPS
 Es
 El
 Estos
@@ -1683,6 +1703,8 @@ Ejecuci
 EHFnuKXM
 Encontrar
 Evitar
+Entre
+Equidad
 kernel
 keep
 realice
@@ -1831,6 +1853,7 @@ raiz
 rotacion
 rotar
 rotaci
+rehizo
 operacion
 orden
 operaciones
@@ -1891,6 +1914,7 @@ ocupada
 one
 ops
 operandos
+ofrecer
 nombre
 nuevo
 nica
@@ -1946,6 +1970,7 @@ nadie
 numeric
 normalmente
 niveles
+non
 via
 vuelve
 viven
@@ -2012,6 +2037,9 @@ voy
 vuelvo
 valia
 vertice
+volviendolo
+vrtuntime
+vruntine
 Application
 API
 Asigna
@@ -2131,6 +2159,8 @@ Processor
 Preorden
 Primero
 Postorder
+Pesos
+Prioridad
 Interface
 ID
 Instructions
@@ -2167,6 +2197,7 @@ Implementar
 Independencia
 Inorder
 Inserccion
+Ingo
 Un
 UNIX
 UBA
@@ -2618,6 +2649,7 @@ faciles
 final
 fiel
 fin
+fair
 Nombre
 Notas
 Not
@@ -2654,6 +2686,7 @@ Formalmente
 Fault
 Figure
 Factor
+Fair
 Descriptors
 Descriptor
 Devuelve
@@ -2707,6 +2740,7 @@ DEAD
 Dividir
 Debe
 Directivas
+Dise
 Memoria
 Multivariada
 MORE
@@ -2739,6 +2773,7 @@ Mientras
 Mediante
 Mapa
 Macro
+Molnar
 Table
 Todos
 This
@@ -2818,6 +2853,7 @@ Register
 Recorrido
 Repetimos
 Rotaci
+Runtime
 bien
 by
 be
@@ -2884,6 +2920,7 @@ bin
 backupeo
 borrado
 balanceo
+basado
 will
 words
 with
@@ -2914,6 +2951,7 @@ Ventajas
 Va
 Virtualizaci
 Volver
+Virtual
 OPTIONS
 Operativos
 Orden
@@ -2935,6 +2973,7 @@ juntos
 justito
 jobs
 jmpl
+justa
 Ya
 Yourself
 YAGNI

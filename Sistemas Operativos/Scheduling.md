@@ -91,5 +91,6 @@ Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planifi
 **Pesos de Prioridad**: Los procesos de linux pueden tener diferentes proridades, que en el CPS implica pesos. Un peso mas alto implica mayor prioridad
 
 
-Cada task_struct tiene un struct de sched_
+Cada task_struct tiene un struct de sched_identity ( con todo lo de la task referida al sched).
+Dentro de ese sched_identity struct hay un puntero a un nodo de arbol [[Arboles]]
 

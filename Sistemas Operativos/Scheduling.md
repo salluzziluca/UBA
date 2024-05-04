@@ -85,3 +85,5 @@ en linux 2.4 se crea el O(N) scheduler
 Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo [[Complejidad de Algoritmos|O(1)]]. Su nombre es 
 ### Completely Fair Scheduler
 Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planificacion proporcional (fair scheduling). Donde se intenta dar a cada proceso una cantidad de tiempo de CPU proporcional a su prioridad. CFS utiliza una estructura de datos de tipo [[Arbol Rojo Negro|arbol rojo negro]]. 
+
+Equidad: El CFS b

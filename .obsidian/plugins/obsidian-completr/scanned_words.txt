@@ -896,6 +896,7 @@ scheduling
 scheduler
 shceduler
 slices
+sched
 par
 por
 punto
@@ -1854,6 +1855,7 @@ rotacion
 rotar
 rotaci
 rehizo
+referida
 operacion
 orden
 operaciones
@@ -2581,6 +2583,7 @@ instead
 instruccionestipo
 indicar
 intstruccioes
+identity
 fijo
 file
 fork

@@ -307,6 +307,8 @@ convenci
 cargo
 cargando
 computer
+conectados
+conectada
 de
 dispositivos
 del
@@ -490,6 +492,8 @@ dicen
 directivas
 direccionamiento
 doy
+dividen
+do
 gestion
 gran
 guarda
@@ -716,6 +720,7 @@ escribir
 enviarla
 estoy
 especificas
+ero
 servicios
 son
 su
@@ -877,6 +882,9 @@ specifies
 siguiendo
 set
 sola
+suele
+subarboles
+subarbol
 par
 por
 punto
@@ -1092,6 +1100,7 @@ pseudo
 procesar
 posicion
 pena
+padres
 la
 las
 le
@@ -1181,6 +1190,8 @@ leftmost
 language
 lasinstrucciones
 laburo
+llegamos
+llegar
 agnosticos
 apps
 al
@@ -1369,6 +1380,9 @@ arranca
 avanzo
 argumentosw
 admitidas
+ayudan
+atras
+arboles
 hardware
 heap
 hay
@@ -1411,6 +1425,7 @@ habria
 holds
 hexa
 habia
+hojas
 que
 queda
 quien
@@ -1608,6 +1623,9 @@ Computer
 Counter
 Conjunto
 CISC
+Coleccion
+Comparamos
+Comparo
 Es
 El
 Estos
@@ -1800,6 +1818,7 @@ rightmost
 result
 resulttados
 reduced
+raiz
 operacion
 orden
 operaciones
@@ -1913,6 +1932,8 @@ ndices
 ndice
 nadie
 numeric
+normalmente
+niveles
 via
 vuelve
 viven
@@ -1978,6 +1999,7 @@ vol
 voy
 vuelvo
 valia
+vertice
 Application
 API
 Asigna
@@ -2030,6 +2052,8 @@ Arc
 Algunas
 Alguas
 Arquitectura
+Arbol
+Arboles
 Programming
 Procesos
 Partes
@@ -2092,6 +2116,9 @@ Px
 Program
 PSR
 Processor
+Preorden
+Primero
+Postorder
 Interface
 ID
 Instructions
@@ -2126,6 +2153,8 @@ In
 INTERRUPTIBLE
 Implementar
 Independencia
+Inorder
+Inserccion
 Un
 UNIX
 UBA
@@ -2265,6 +2294,7 @@ macros
 mapa
 maquina
 mitad
+maximo
 tien
 tiene
 todos
@@ -2573,6 +2603,9 @@ filas
 fico
 field
 faciles
+final
+fiel
+fin
 Nombre
 Notas
 Not
@@ -2769,6 +2802,8 @@ Resoluci
 Recurso
 Risc
 Register
+Recorrido
+Repetimos
 bien
 by
 be
@@ -2833,6 +2868,7 @@ between
 branch
 bin
 backupeo
+borrado
 will
 words
 with
@@ -2912,6 +2948,8 @@ BP
 Back
 Bloqueado
 Blocked
+Borra
+Busqueda
 XY
 HEAD
 Hay

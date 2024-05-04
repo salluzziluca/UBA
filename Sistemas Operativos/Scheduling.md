@@ -82,3 +82,4 @@ Un buen planificador tiene que tender a no tardar tiempo en decidir quien sigue,
 
 Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo [[Complejidad de Algoritmos|O(1)]]. Su nombre es 
 ### Completely Fair Scheduler
+Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planificacion proporcional (fair scheduling). Donde se int

@@ -494,6 +494,9 @@ direccionamiento
 doy
 dividen
 do
+degenere
+diferencia
+desbalanceado
 gestion
 gran
 guarda
@@ -1101,6 +1104,7 @@ procesar
 posicion
 pena
 padres
+pensado
 la
 las
 le
@@ -1192,6 +1196,9 @@ lasinstrucciones
 laburo
 llegamos
 llegar
+log
+largo
+lido
 agnosticos
 apps
 al
@@ -1383,6 +1390,8 @@ admitidas
 ayudan
 atras
 arboles
+autobalanceado
+alturas
 hardware
 heap
 hay
@@ -1819,6 +1828,9 @@ result
 resulttados
 reduced
 raiz
+rotacion
+rotar
+rotaci
 operacion
 orden
 operaciones
@@ -2641,6 +2653,7 @@ Feedback
 Formalmente
 Fault
 Figure
+Factor
 Descriptors
 Descriptor
 Devuelve
@@ -2804,6 +2817,7 @@ Risc
 Register
 Recorrido
 Repetimos
+Rotaci
 bien
 by
 be
@@ -2869,6 +2883,7 @@ branch
 bin
 backupeo
 borrado
+balanceo
 will
 words
 with

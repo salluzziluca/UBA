@@ -499,6 +499,11 @@ do
 degenere
 diferencia
 desbalanceado
+dominio
+descriptivo
+describe
+dados
+detallista
 gestion
 gran
 guarda
@@ -728,6 +733,8 @@ especificas
 ero
 ejecutandose
 ejecutados
+ejes
+entendible
 servicios
 son
 su
@@ -897,6 +904,7 @@ scheduler
 shceduler
 slices
 sched
+stica
 par
 por
 punto
@@ -1118,6 +1126,8 @@ proporcional
 porcion
 proridades
 pesos
+persona
+performante
 la
 las
 le
@@ -1408,6 +1418,8 @@ autobalanceado
 alturas
 ado
 aproceso
+aparecen
+art
 hardware
 heap
 hay
@@ -1656,6 +1668,7 @@ Comparo
 Completely
 CFS
 CPS
+Cuan
 Es
 El
 Estos
@@ -1706,6 +1719,7 @@ Encontrar
 Evitar
 Entre
 Equidad
+Eje
 kernel
 keep
 realice
@@ -1856,6 +1870,8 @@ rotar
 rotaci
 rehizo
 referida
+reproducir
+representando
 operacion
 orden
 operaciones
@@ -2200,6 +2216,7 @@ Independencia
 Inorder
 Inserccion
 Ingo
+Ir
 Un
 UNIX
 UBA
@@ -2584,6 +2601,7 @@ instruccionestipo
 indicar
 intstruccioes
 identity
+implementativo
 fijo
 file
 fork
@@ -2653,6 +2671,7 @@ final
 fiel
 fin
 fair
+funcional
 Nombre
 Notas
 Not
@@ -2777,6 +2796,7 @@ Mediante
 Mapa
 Macro
 Molnar
+Modelo
 Table
 Todos
 This
@@ -2857,6 +2877,7 @@ Recorrido
 Repetimos
 Rotaci
 Runtime
+Representaci
 bien
 by
 be
@@ -2967,6 +2988,7 @@ Optimization
 Orientada
 OS
 Operands
+Optimizaci
 ya
 yo
 json
@@ -3019,6 +3041,8 @@ Job
 Quienes
 Queue
 Qu
+Que
+Quiz
 ximo
 xito
 xitos

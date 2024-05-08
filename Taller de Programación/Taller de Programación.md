@@ -36,5 +36,5 @@ Si hago `derive[copy]`, se pasaran copias de los valores en vez de moverlos (mov
 Hay dos tipos:
 1. Referencias compartidas: no modifican, solo lectura pero se pueden tener tantas como se desee
 2. Referencias mutables: permiten cambiar el valor pero se puede tener solo una
-[[Concurrencia]]
+[[Taller de Programación/Concurrencia]]
 [[Sockets]]

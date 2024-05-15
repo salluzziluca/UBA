@@ -64,3 +64,6 @@ devuelve un punteor a una estructura que contene la informacion sobre el archivo
 cierra el stream del tipo dir cuyo nombre es dirstream
 
 # Metadatos
+
+## stat()
+devuelve informacion sobre un archvo en el 

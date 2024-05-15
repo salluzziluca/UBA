@@ -35,3 +35,7 @@ reposiciona el desplazamiento de un archivo abierto cuyo fd pasamos como paramet
 SEEK_SET: el desplazamiento
 SEEK CUR: EL desplazamiento  es sumado a la posicion  actua de n archivo
 SEEK END: el desplazamiento se suma a aprtir del final del archivo
+
+## dup() y dup2()
+
+## Link

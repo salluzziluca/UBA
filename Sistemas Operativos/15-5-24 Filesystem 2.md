@@ -101,4 +101,7 @@ B1+B2+B3+256 = offset inodo 2
 B1+B2+B3+256x63 = offset inodo 64
 
 
-Este sistema funciona muy bien porque es agil para archivos chicos y buena para archivos muy grandes (porque te deja manejar un monton de espacio). Y la gran mayoria de 
+Este sistema funciona muy bien porque es agil para archivos chicos y buena para archivos muy grandes (porque te deja manejar un monton de espacio). Y la gran mayoria de los archivos son chikitos.
+
+
+==EL INODO NO OCUPA, EL INODO APUNTA==

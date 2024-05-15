@@ -94,3 +94,7 @@ tengo un superbloque, un bitmap de bloques que me dice si el bloque esta libre o
 
 La cantidad de blques debe ser la cantidad de archvos de un bloque que vos podes tener por inodo, si tengo 64 bloques puedo tener como mucho 64, seguriismamente vayas a tener menos, pero de maximo 64
 ![[Pasted image 20240515201231.png]]
+
+B1+B2+B3 = offset inodo 1
+B1+B2+B3+256 = offset inodo 2
+B1+B2+B3+256 = offset inodo 2

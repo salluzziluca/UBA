@@ -25,4 +25,5 @@ si no existe te lo cree
 ## Close
 
 ## read()
-Read lee pero nunca asegura qu
+Read lee pero nunca asegura que aa leer la cantidad de datos que vos le pedis que lea 
+Hace intentos de lectura hasta un nmero dado de ytes de un archivo. La lectura comienza en a posicion señalada

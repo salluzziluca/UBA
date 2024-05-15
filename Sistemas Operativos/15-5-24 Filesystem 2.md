@@ -72,4 +72,7 @@ devuelve informacion sobre un archvo en el buffer apontado por statbuf. No se re
 
 ## chmod()
 cambia los bits del modo de acceso
-()
+(r, rw, rwx)
+
+## chown() 
+cambia el id del propietario del archivo en el grupo de un arch

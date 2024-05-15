@@ -50,3 +50,8 @@ eliminan un nombre de archivo del sistema de archivo. SI era el ultimo link o no
 
 # dirent.h
 Estructura de daos provista para poder eer las entradas a ls directorios 
+![[Pasted image 20240515191253.png]]
+## opendir(dirname)
+are el dir y devuelve un stream correpsondiente al directorio que se está leendo en dirname
+
+##readdir()

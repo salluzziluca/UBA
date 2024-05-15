@@ -54,4 +54,6 @@ Estructura de daos provista para poder eer las entradas a ls directorios
 ## opendir(dirname)
 are el dir y devuelve un stream correpsondiente al directorio que se está leendo en dirname
 
-##readdir()
+## readdir()
+lee la prox entrada de un dir 
+devuelve un punteor a una estructura que contene la informacion sobre el archivo

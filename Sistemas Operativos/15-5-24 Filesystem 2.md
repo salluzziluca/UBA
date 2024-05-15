@@ -85,6 +85,7 @@ Un bloque de memoria es e equivalente a un 4kbytes en disco.
 La vision del sistema de archivos debe ser la de una particion de N bloques (0 a n-1) de un tamaño de $N*4KB$ bloques. Un disco de unos 64 bloques tendria esta pinta
 ![[Pasted image 20240515195349.png]]
 
+==IMPORTANTE, NO SON NECESARIOS 5 BLOQUES DE INODOS, SOLO4 PORQUE EL MAXIMO QUE PODEMS ALOCAR SON 64 BLOQ==
 La seccion del filesystem que almacena datos de usuarios se llama DataRegion
 ![[Pasted image 20240515201156.png]]
 
@@ -98,5 +99,4 @@ La cantidad de blques debe ser la cantidad de archvos de un bloque que vos podes
 B1+B2+B3 = offset inodo 1
 B1+B2+B3+256 = offset inodo 2
 B1+B2+B3+256x63 = offset inodo 64
-
 

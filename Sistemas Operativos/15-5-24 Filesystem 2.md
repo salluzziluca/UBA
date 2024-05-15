@@ -42,4 +42,7 @@ SEEK END: el desplazamiento se suma a aprtir del final del archivo
 Crea un hardlink entre ambos path. 
 
 
+## unlink()
+hace falta que te lo diga?
+el
 ## mkdir()

@@ -87,3 +87,5 @@ La vision del sistema de archivos debe ser la de una particion de N bloques (0 a
 
 La seccion del filesystem que almacena datos de usuarios se llama DataRegion
 ![[Pasted image 20240515195549.png]]
+
+La primera parte es se dvide entra superbloque, , e inode bitmap

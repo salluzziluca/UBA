@@ -57,3 +57,6 @@ are el dir y devuelve un stream correpsondiente al directorio que se está leend
 ## readdir()
 lee la prox entrada de un dir 
 devuelve un punteor a una estructura que contene la informacion sobre el archivo
+
+## closedir(DIR* dirstream)
+cierra el stream del tipo dir cuyo nombre es dirstream

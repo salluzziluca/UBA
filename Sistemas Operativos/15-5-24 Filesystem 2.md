@@ -12,4 +12,8 @@ convierte el nombre de un archivo en na entrada de la tabla de file descriptors 
 
 El usuario ve un vector con los numeros de los fd, pero la info esta en kernel space
 
-|
+| numero | FDT           |
+| ------ | ------------- |
+| 0      | info en bytes |
+| 1      | info en bytes |
+| 2      | `| |  |  |  |  |  |              |

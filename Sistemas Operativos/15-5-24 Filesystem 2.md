@@ -44,5 +44,5 @@ Crea un hardlink entre ambos path.
 
 ## unlink()
 hace falta que te lo diga?
-el
+eliminan un nombre de archivo del sistema de archivo. SI era el u
 ## mkdir()

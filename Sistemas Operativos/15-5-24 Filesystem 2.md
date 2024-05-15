@@ -31,4 +31,7 @@ Hace intentos de lectura hasta un nmero dado de ytes de un archivo. La lectura c
 ## write()
 
 ## lseek()
-reposiciona el desplazamiento de un archivo aberto cuyo fd es 
+reposiciona el desplazamiento de un archivo abierto cuyo fd pasamos como parametro a la fncon de acuerdo con el parametro whence
+SEEK_SET: el desplazamiento
+SEEK CUR:
+SEEK END

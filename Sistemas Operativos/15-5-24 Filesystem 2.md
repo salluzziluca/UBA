@@ -66,4 +66,7 @@ cierra el stream del tipo dir cuyo nombre es dirstream
 # Metadatos
 
 ## stat()
-devuelve informacion sobre un archvo en el 
+devuelve informacion sobre un archvo en el buffer apontado por statbuf. No se requiere ningún permiso sobre el archivo en cuestión, pero sí en los directorios que conforman el path hasta llegar al archivo.
+
+## access()
+

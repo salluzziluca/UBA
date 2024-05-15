@@ -47,7 +47,7 @@ hace falta que te lo diga?
 eliminan un nombre de archivo del sistema de archivo. SI era el ultimo link o nombre del archivo lo borra
 
 ## touch() 
-cambia la ultima fecha de mmo
+cambia la ultima fecha de modificacin del archivo.
 
 # Directorios
 ## mkdir()

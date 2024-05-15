@@ -78,4 +78,7 @@ cambia los bits del modo de acceso
 cambia el id del propietario del archivo y  el grupo de un archivo
 
 
-# Implementacion del filesystem
+# Implementacion del filesystem (very sismple file system)
+
+## Organizacion General 
+Un bloque de memoria es u

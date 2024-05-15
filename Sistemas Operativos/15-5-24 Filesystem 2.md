@@ -75,4 +75,4 @@ cambia los bits del modo de acceso
 (r, rw, rwx)
 
 ## chown() 
-cambia el id del propietario del archivo en el grupo de un arch
+cambia el id del propietario del archivo y  el grupo de un archivo

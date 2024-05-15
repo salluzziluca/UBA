@@ -37,5 +37,5 @@ SEEK CUR: EL desplazamiento  es sumado a la posicion  actua de n archivo
 SEEK END: el desplazamiento se suma a aprtir del final del archivo
 
 ## dup() y dup2()
-
+![[Pasted image 20240515185656.png]]
 ## Link

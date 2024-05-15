@@ -7,3 +7,4 @@ Tenemos 12 bloques de datos, 1 que almacena un datablock, 1 que almacena un data
 
 ## API 
 ## open()
+convierte el nombre de un archivo en na entrada de la tabla de file descriptors y devuelve dicho a

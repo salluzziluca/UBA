@@ -16,4 +16,7 @@ El usuario ve un vector con los numeros de los fd, pero la info esta en kernel s
 | ------ | ------------- |
 | 0      | info en bytes |
 | 1      | info en bytes |
-| 2      | `| |  |  |  |  |  |              |
+| 2      | `| 0| 1 | 2 | 3 | 4 | 5 |`              |
+
+## creat()
+equivale a llamar un open con los flags O_CREAT|

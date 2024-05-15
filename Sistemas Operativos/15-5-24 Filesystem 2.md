@@ -27,3 +27,8 @@ si no existe te lo cree
 ## read()
 Read lee pero nunca asegura que aa leer la cantidad de datos que vos le pedis que lea 
 Hace intentos de lectura hasta un nmero dado de ytes de un archivo. La lectura comienza en a posicion señalada por el fd y se incrementa el numero de bytes leidos
+
+## write()
+
+## lseek()
+reposiciona el desplazamiento de un archivo aberto cuyo fd es 

@@ -86,10 +86,11 @@ La vision del sistema de archivos debe ser la de una particion de N bloques (0 a
 ![[Pasted image 20240515195349.png]]
 
 La seccion del filesystem que almacena datos de usuarios se llama DataRegion
-![[Pasted image 20240515195549.png]]
+![[Pasted image 20240515201156.png]]
 
 La primera parte es se dvide entra superbloque, , e inode bitmap
 
-tengo un superbloque, un bitmap de bloques que me dice si el bo que esta libre o no y un bitmap de inodosque me dice si el inodo está o no
+tengo un superbloque, un bitmap de bloques que me dice si el bloque esta libre o no y un bitmap de inodosque me dice si el inodo está o no
 
 La cantidad de blques debe ser la cantidad de archvos de un bloque que vos podes tener por inodo, si tengo 64 bloques puedo tener como mucho 64, seguriismamente vayas a tener menos, pero de maximo 64
+![[Pasted image 20240515201231.png]]

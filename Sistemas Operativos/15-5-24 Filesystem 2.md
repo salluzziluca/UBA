@@ -70,3 +70,6 @@ devuelve informacion sobre un archvo en el buffer apontado por statbuf. No se re
 
 ## access()
 
+## chmod()
+cambia los bits del modo de acceso
+()

@@ -49,6 +49,8 @@ eliminan un nombre de archivo del sistema de archivo. SI era el ultimo link o no
 ## touch() 
 cambia la ultima fecha de modificacin del archivo.
 
+Cuando crea un archivo un touch, no tiene contenido. El inodo te avisa que no tenes que ir al bloque, estas tranqui
+
 # Directorios
 ## mkdir()
 

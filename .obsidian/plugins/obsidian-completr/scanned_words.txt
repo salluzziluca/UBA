@@ -3,6 +3,8 @@ KISS
 Keep
 KOP
 Knuth
+KX
+Kxhuzyb
 La
 Los
 Luego
@@ -416,6 +418,7 @@ dentri
 dentries
 directorio
 dividido
+dOULkYj
 gestion
 gran
 guarda
@@ -1179,6 +1182,7 @@ haga
 haya
 haciendo
 home
+hZ
 que
 queda
 quien
@@ -1377,6 +1381,7 @@ Explicit
 Ese
 ECM
 Este
+ETC
 kernel
 kerne
 realice
@@ -1491,6 +1496,7 @@ relativas
 root
 representan
 representados
+rEyJalI
 operacion
 orden
 operaciones
@@ -1543,6 +1549,7 @@ operaci
 organizar
 olvidemos
 ocupan
+oM
 nombre
 nuevo
 nica
@@ -1593,6 +1600,7 @@ nivel
 negativa
 nmbres
 neas
+nuTWM
 via
 vuelve
 viven
@@ -1740,6 +1748,7 @@ Producto
 PI
 Permite
 PATH
+PROC
 Interface
 ID
 Instructions
@@ -1784,6 +1793,7 @@ Uniforme
 UBHqy
 Utilizamos
 Utilizado
+USR
 modo
 mode
 menso
@@ -2264,6 +2274,7 @@ Markov
 Modo
 MEEEEEE
 Metadata
+MNT
 Table
 Todos
 This
@@ -2405,6 +2416,7 @@ Varianza
 Virtual
 VFS
 Vacio
+VTvL
 OPTIONS
 Operativos
 Orden
@@ -2421,6 +2433,7 @@ justamente
 juntos
 justito
 jobs
+jLlHP
 Ya
 Yourself
 YAGNI
@@ -2434,6 +2447,7 @@ GDTR
 Gamma
 Gonna
 Generalizaci
+Gup
 BX
 Bit
 Box
@@ -2446,12 +2460,17 @@ Borrar
 BIG
 Big
 Bloque
+BIN
+BOOT
 XY
+XD
+XVAMz
 HEAD
 Hay
 Herencia
 Hombre
 Hard
+HOME
 Jacobiano
 Job
 Quienes
@@ -2461,3 +2480,4 @@ xito
 xitos
 xi
 Workload
+zquffGj

@@ -45,6 +45,8 @@ Crea un hardlink entre ambos path.
 ## unlink()
 hace falta que te lo diga?
 eliminan un nombre de archivo del sistema de archivo. SI era el ultimo link o nombre del archivo lo borra
+
+# Director
 ## mkdir()
 
 
@@ -60,3 +62,5 @@ devuelve un punteor a una estructura que contene la informacion sobre el archivo
 
 ## closedir(DIR* dirstream)
 cierra el stream del tipo dir cuyo nombre es dirstream
+
+# Metadatos

@@ -89,3 +89,5 @@ La seccion del filesystem que almacena datos de usuarios se llama DataRegion
 ![[Pasted image 20240515195549.png]]
 
 La primera parte es se dvide entra superbloque, , e inode bitmap
+
+tengo un superbloque, un bitmap de bloques que me dice si el bo que esta libre o no y un bitmap de inodosque me dice si el inodo está o no

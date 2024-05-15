@@ -97,4 +97,4 @@ La cantidad de blques debe ser la cantidad de archvos de un bloque que vos podes
 
 B1+B2+B3 = offset inodo 1
 B1+B2+B3+256 = offset inodo 2
-B1+B2+B3+256 = offset inodo 2
+B1+B2+B3+256x63 = offset inodo 64

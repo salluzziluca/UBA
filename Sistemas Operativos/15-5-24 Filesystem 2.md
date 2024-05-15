@@ -39,4 +39,7 @@ SEEK END: el desplazamiento se suma a aprtir del final del archivo
 ## dup() y dup2()
 ![[Pasted image 20240515185656.png]]
 ## Link(oldpath, newpath)
-Crea un hardlink entre ambos path
+Crea un hardlink entre ambos path. 
+
+
+## mkdir()

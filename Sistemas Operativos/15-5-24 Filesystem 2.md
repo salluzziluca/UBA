@@ -19,4 +19,10 @@ El usuario ve un vector con los numeros de los fd, pero la info esta en kernel s
 | 2      | `| 0| 1 | 2 | 3 | 4 | 5 |`              |
 
 ## creat()
-equivale a llamar un open con los flags O_CREAT|
+equivale a llamar un open con los flags O_CREAT|O_WRONLY|O_TRINC
+si no existe te lo cree
+
+## Close
+
+## read()
+Read lee pero nunca asegura qu

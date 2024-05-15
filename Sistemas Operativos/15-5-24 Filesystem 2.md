@@ -79,9 +79,9 @@ cambia el id del propietario del archivo y  el grupo de un archivo
 
 
 # Implementacion del filesystem
-## very sismple file system)
+## very sismple file system
 
-## Organizacion General 
+### Organizacion General 
 Un bloque de memoria es e equivalente a un 4kbytes en disco.
 La vision del sistema de archivos debe ser la de una particion de N bloques (0 a n-1) de un tamaño de $N*4KB$ bloques. Un disco de unos 64 bloques tendria esta pinta
 ![[Pasted image 20240515195349.png]]

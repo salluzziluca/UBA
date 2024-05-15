@@ -272,6 +272,16 @@ cerca
 comprendida
 creat
 comienza
+correpsondiente
+contene
+closedir
+cierra
+cuesti
+conforman
+chmod
+chown
+chicos
+chikitos
 de
 dispositivos
 del
@@ -429,6 +439,13 @@ dicho
 descriptor
 desplazamiento
 dup
+diga
+dirent
+dirname
+dir
+dirstream
+dvide
+deja
 gestion
 gran
 guarda
@@ -461,6 +478,7 @@ generar
 guardar
 guardan
 gestiona
+grupo
 especifico
 entra
 en
@@ -613,6 +631,9 @@ error
 ejecutables
 escritura
 esos
+eliminan
+era
+eer
 servicios
 son
 su
@@ -740,6 +761,13 @@ seguridad
 softlink
 space
 sumado
+stream
+stat
+statbuf
+sismple
+seccion
+superbloque
+seguriismamente
 par
 por
 punto
@@ -926,6 +954,10 @@ propietario
 punteros
 ptr
 pedis
+provista
+punteor
+permiso
+pinta
 la
 las
 le
@@ -1004,6 +1036,11 @@ level
 lea
 leidos
 lseek
+link
+ls
+leendo
+llegar
+libre
 agnosticos
 apps
 al
@@ -1173,6 +1210,11 @@ abierto
 acuerdo
 actua
 aprtir
+archvo
+apontado
+access
+archvos
+agil
 hardware
 heap
 hay
@@ -1266,6 +1308,8 @@ utilizando
 ususarios
 utilizarlo
 usr
+unlink
+unos
 System
 Son
 Source
@@ -1319,6 +1363,7 @@ Super
 SB
 SIempre
 SEEK
+SOLO
 Calls
 Cmabia
 CPU
@@ -1418,6 +1463,7 @@ EL
 END
 kernel
 kerne
+kbytes
 realice
 realicen
 resolve
@@ -1533,6 +1579,10 @@ representados
 rEyJalI
 representacion
 reposiciona
+readdir
+requiere
+rw
+rwx
 operacion
 orden
 operaciones
@@ -1589,6 +1639,7 @@ oM
 open
 off
 oldpath
+opendir
 nombre
 nuevo
 nica
@@ -1702,6 +1753,9 @@ voy
 vendra
 ve
 vos
+very
+vision
+vayas
 Application
 API
 Asigna
@@ -1744,6 +1798,8 @@ Archivos
 Apertura
 ABOUT
 Ambos
+ALOCAR
+APUNTA
 Programming
 Procesos
 Partes
@@ -1793,6 +1849,8 @@ PI
 Permite
 PATH
 PROC
+PORQUE
+PODEMS
 Interface
 ID
 Instructions
@@ -1824,6 +1882,8 @@ If
 Incluso
 Info
 INODO
+IMPORTANTE
+INODOS
 Un
 UNIX
 UBA
@@ -1838,6 +1898,7 @@ UBHqy
 Utilizamos
 Utilizado
 USR
+UN
 modo
 mode
 menso
@@ -1949,6 +2010,8 @@ maquina
 method
 modificacion
 mkdir
+maximo
+monton
 tien
 tiene
 todos
@@ -2047,6 +2110,7 @@ termina
 tema
 temp
 tablas
+tendria
 inico
 interna
 infro
@@ -2154,6 +2218,9 @@ intentamos
 info
 intentos
 incrementa
+id
+inode
+inodosque
 fijo
 file
 fork
@@ -2217,6 +2284,7 @@ fd
 flags
 fncon
 final
+falta
 Nombre
 Notas
 Not
@@ -2231,6 +2299,7 @@ Need
 NULL
 Notaci
 Nuestro
+NECESARIOS
 File
 For
 Funcion
@@ -2298,6 +2367,10 @@ Defiinimos
 Desigualdad
 DOOONT
 DEntry
+Directorios
+DIR
+DE
+DataRegion
 Memoria
 Multivariada
 MORE
@@ -2328,6 +2401,8 @@ Modo
 MEEEEEE
 Metadata
 MNT
+Metadatos
+MAXIMO
 Table
 Todos
 This
@@ -2444,6 +2519,10 @@ binary
 byte
 bin
 blo
+buffer
+bitmap
+blques
+buena
 will
 words
 with
@@ -2482,6 +2561,8 @@ Otro
 Objetos
 Ocultamiento
 Optimization
+Organizacion
+OCUPA
 ya
 ytes
 json
@@ -2505,6 +2586,7 @@ Gamma
 Gonna
 Generalizaci
 Gup
+General
 BX
 Bit
 Box
@@ -2519,6 +2601,8 @@ Big
 Bloque
 BIN
 BOOT
+BLOQUES
+BLOQUE
 XY
 XD
 XVAMz
@@ -2533,6 +2617,7 @@ Jacobiano
 Job
 Quienes
 Queue
+QUE
 ximo
 xito
 xitos

@@ -76,3 +76,6 @@ cambia los bits del modo de acceso
 
 ## chown() 
 cambia el id del propietario del archivo y  el grupo de un archivo
+
+
+# Implementacion del filesystem,

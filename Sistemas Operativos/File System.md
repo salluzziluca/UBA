@@ -50,8 +50,8 @@ informacion de seguridad
 
 
 ## INODO
-> low level name of a file
 
+Un inodo apnta aun bloque
 
 Un inodo guarda data. Tiene un arreglo de 15 punteros
 Los primeros 12 apuntan diferentes data blocks. El 13 apunta a un bloque que apunta a diferentes data blocks. El 14 a un bloque que apunta a un bloques que apunta a un data blocks

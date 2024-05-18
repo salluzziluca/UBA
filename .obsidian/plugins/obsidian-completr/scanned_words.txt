@@ -5,6 +5,7 @@ KOP
 Knuth
 KB
 KILLABLE
+Kolmogrov
 La
 Los
 Luego
@@ -33,6 +34,7 @@ Little
 Localizaci
 Llamo
 Llegado
+LZ
 capa
 controlado
 cantidad
@@ -349,6 +351,11 @@ contract
 co
 construye
 componiendo
+caracteres
+codificar
+central
+compresion
+cuestion
 de
 dispositivos
 del
@@ -567,6 +574,8 @@ developing
 doing
 documentation
 declarativo
+ddice
+distancia
 gestion
 gran
 guarda
@@ -1012,6 +1021,7 @@ secuencias
 sucedan
 sbin
 sentencia
+string
 par
 por
 punto
@@ -1265,6 +1275,8 @@ plan
 principales
 planned
 paradigma
+pongo
+pointero
 la
 las
 le
@@ -1369,6 +1381,7 @@ llamando
 lenguajes
 lado
 locados
+letras
 agnosticos
 apps
 al
@@ -1584,6 +1597,8 @@ approach
 altos
 asocian
 actualizan
+armo
+anotando
 hardware
 heap
 hay
@@ -1703,6 +1718,7 @@ utilizarlo
 usr
 ue
 uncovering
+uniendo
 System
 Son
 Source
@@ -1775,6 +1791,7 @@ Scheduler
 Super
 Sistema
 Smalltalk
+Sigo
 Calls
 Cmabia
 CPU
@@ -1852,6 +1869,9 @@ Configurar
 Comienza
 Continual
 Customer
+Codificacion
+Compresion
+Compresores
 Es
 El
 Estos
@@ -2068,6 +2088,8 @@ rutina
 restauran
 rc
 relativos
+repiten
+repeticiones
 operacion
 orden
 operaciones
@@ -2201,6 +2223,8 @@ nmente
 nfasis
 negotiation
 needed
+nimos
+normalizada
 via
 vuelve
 viven
@@ -2336,6 +2360,7 @@ Adem
 Actualmente
 Adaptative
 Agile
+Armo
 Programming
 Procesos
 Partes
@@ -2412,6 +2437,7 @@ Procedimental
 Pascal
 Prolog
 Pilares
+Puntero
 Interface
 ID
 Instructions
@@ -3082,6 +3108,7 @@ DEntry
 Despues
 Durante
 Declarativos
+Distancia
 Memoria
 Multivariada
 MORE
@@ -3118,6 +3145,7 @@ Molnar
 Modelo
 Metadata
 Modo
+Me
 Table
 Todos
 This
@@ -3282,6 +3310,9 @@ boot
 become
 better
 bebe
+bajando
+basan
+buscan
 will
 words
 with
@@ -3394,6 +3425,7 @@ Hijo
 Hard
 Habitualmente
 Haskell
+Huffman
 Jacobiano
 Job
 Quienes

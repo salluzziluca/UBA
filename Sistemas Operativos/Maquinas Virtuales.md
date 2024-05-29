@@ -8,4 +8,4 @@ JVM, Microsoft common lang runtime
 Corre un SO completo sin modificaciones (o casi)
 
 ### objetivo
-Ejecutar multiples SO sobre e lmismo hardware
+Ejecutar multiples SO sobre el mismo hardware

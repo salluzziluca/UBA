@@ -13,7 +13,7 @@ para esto se utlizan virtual machines monitors
 
 ### Motivacion 
 -  Diversidad de SO
-- Consolidacion de Servers
+- Consolidacion de Servers (para separar mejor diferentes partes de un sistema en un mismo hardware)
 - Aprovisionaiento rapido
 - alta disponibilidad
 - seguridad

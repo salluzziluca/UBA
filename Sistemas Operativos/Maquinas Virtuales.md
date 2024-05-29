@@ -23,4 +23,5 @@ para esto se utlizan virtual machines monitors
 
 ## Requerimientos
 Fidelidad: el hardware virtua tiene que ser igua al real que corre por debajo
-Seguridad: tienen que e
+Seguridad: tienen que estar bien sepaadas
+Eficiencia: que corra bien

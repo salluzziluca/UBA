@@ -282,6 +282,7 @@ chmod
 chown
 chicos
 chikitos
+contenido
 de
 dispositivos
 del
@@ -1215,6 +1216,7 @@ apontado
 access
 archvos
 agil
+avisa
 hardware
 heap
 hay
@@ -2114,6 +2116,8 @@ temp
 tablas
 tendria
 touch
+tenes
+tranqui
 inico
 interna
 infro

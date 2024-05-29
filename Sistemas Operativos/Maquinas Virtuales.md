@@ -22,3 +22,5 @@ para esto se utlizan virtual machines monitors
 - clud computin
 
 ## Requerimientos
+Fidelidad: el hardware virtua tiene que ser igua al real que corre por debajo
+Seguridad: tienen que e

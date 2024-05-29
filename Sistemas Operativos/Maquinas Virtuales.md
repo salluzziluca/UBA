@@ -1,4 +1,4 @@
->un n
+>un entorno de computacion completo , con sus propias capacidades de procesamiento, memoria y etc.Virtualizcion el maximo
 ## Maquinas virtuales de lenguaje 
 JVM, Microsoft common lang runtime
 
@@ -20,3 +20,5 @@ para esto se utlizan virtual machines monitors
 - seguridad
 - scheduing de recursos distribuidos
 - clud computin
+
+## Requerimientos

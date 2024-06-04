@@ -4,4 +4,4 @@ Urchin, se sube a un barco a robar y queda de polizon, el capi (Truman "Gunner" 
 El alto mando jodon muerte y el nuevo capitan (Arvin "cruel" Drake) era re ortiva, no los deja joder. Todo el alto mando cambia porque mueren casi todos. Y lo rajan a roy de ejemplo
 Roy antes bardeaba y jodia a los que ahora mandan el barco.
 
-Quiere recuperar el barco y la tripulacion
+Quiere recuperar el barco (Mencho III) y la tripulacion   (amigos: )

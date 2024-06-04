@@ -8,6 +8,6 @@ Quiere recuperar el barco (Mencho III) y la tripulacion   (amigos: Cydney Whitle
 
 Cydney amigazo, nadie la pasaba mejor en el mar que el, era posta su lugar y le encantaba vivir en la suya, nada estaba escrito en piedra. 
 Linton le enseñó que las buenas historias valen mas que la pura verdad. Sus historias siempre cambiaban, las contaba mil veces y nunca eran iguales. Una vez pescó un pez de 7 metros
-Elen
+Elen fue la que lo salvó en su primera tormenta, lo atajó y lo ató a la cintura con la soga.
 
 Licor de naranja muy bueno!!!

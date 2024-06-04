@@ -1,2 +1,2 @@
 Roy
-Pesado, hace chistes pero se pasa, su tripulacion lo abandonó en una isla desierta. The Walrus Key. Se quedo cazando ratas, serpientes, etc. Se cruza con un barco de esclavista y lo contratan para asegurar el barco.  
+Pesado, hace chistes pero se pasa, su tripulacion lo abandonó en una isla desierta. The Walrus Key. Se quedo cazando ratas, serpientes, etc. Se cruza con un barco de esclavista y lo contratan para asegurar el barco. YOLO as a way of life.  

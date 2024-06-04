@@ -6,7 +6,7 @@ Roy antes bardeaba y jodia a los que ahora mandan el barco.
 
 Quiere recuperar el barco (Mencho III) y la tripulacion   (amigos: Cydney Whitley, Linton Bristol, Ellen Peddle)
 
-Cydney amigazo, 
-
+Cydney amigazo, nadie la pasaba mejor en el mar que el, era posta su lugar y le encantaba vivir en la suya, nada estaba escrito en piedra. 
+Linton le enseñó que las buenas historias 
 
 Licor de naranja muy bueno!!!

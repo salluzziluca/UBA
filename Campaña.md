@@ -8,6 +8,10 @@ Quiere recuperar el barco (Mencho III) y la tripulacion   (amigos: Cydney Whitle
 
 Cydney amigazo, nadie la pasaba mejor en el mar que el, era posta su lugar y le encantaba vivir en la suya, nada estaba escrito en piedra. 
 Linton le enseñó que las buenas historias valen mas que la pura verdad. Sus historias siempre cambiaban, las contaba mil veces y nunca eran iguales. Una vez pescó un pez de 7 metros
-Elen fue la que lo salvó en su primera tormenta, lo atajó y lo ató a la cintura con la soga.
+Elen fue la que lo salvó en su primera tormenta, lo atajó y lo ató a la cintura con la soga. Le enseño a moverse por el barco y a ser agil en las alturas
+
+
+El pj de neme y roy se parecen. Ambos quieren una buena vida en la mar y buscan a sus tripulaciones anteriores o lo que quede de ellas, el tema es que seguramente roy sea muy jodon para la mina de neme
+
 
 Licor de naranja muy bueno!!!

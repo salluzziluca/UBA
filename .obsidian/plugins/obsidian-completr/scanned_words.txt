@@ -348,6 +348,8 @@ consistente
 correctitud
 correspondiente
 cambios
+compacted
+compactar
 de
 dispositivos
 del
@@ -776,6 +778,7 @@ estatica
 espaciando
 excepci
 efecto
+estoy
 servicios
 son
 su
@@ -940,6 +943,8 @@ sistemas
 sumo
 segura
 shutdown
+seria
+seguimos
 par
 por
 punto
@@ -1172,6 +1177,8 @@ paginaci
 pidamente
 pedi
 procesadores
+puden
+phisical
 la
 las
 le
@@ -1270,6 +1277,7 @@ limpi
 lidas
 lookaside
 localidades
+leyendo
 agnosticos
 apps
 al
@@ -1521,6 +1529,7 @@ historias
 ha
 habilitar
 hice
+huecos
 que
 queda
 quien
@@ -1720,6 +1729,7 @@ Crece
 Code
 Controla
 Context
+Compacted
 Es
 El
 Estos
@@ -2045,6 +2055,7 @@ necesitada
 necesitaron
 ndices
 ndice
+number
 via
 vuelve
 viven
@@ -2780,6 +2791,7 @@ Nuestro
 NECESARIOS
 Noonan
 Normalmente
+Non
 File
 For
 Funcion
@@ -2942,6 +2954,7 @@ Transforma
 Tabla
 TLB
 Through
+Traducimos
 Realiza
 REgistrys
 Rango
@@ -3082,6 +3095,7 @@ VTvL
 Virtualizacion
 Vario
 Virtualizaci
+VPN
 OPTIONS
 Operativos
 Orden
@@ -3096,6 +3110,7 @@ OCUPA
 Open
 ya
 ytes
+yo
 json
 jacobiano
 justamente

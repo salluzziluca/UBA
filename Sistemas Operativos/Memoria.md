@@ -48,7 +48,7 @@ Hay un base and bound para heap, otro para stack y otro para el codigo.
 
 ### Non compacted vs Compacted memory
 ![[Pasted image 20240605125003.png]]
-Se puden compactar 
+Se puden compactar la memoria fisica para que no haya tanto huecos y que la memoria libre sea toda contigua.
 ##### implementacion en x86
 AX, BX, CX, DX : Registros Generales 
 CS, DS, SS, ES : Registros de Segmentos, manejan la traducción en modo real.( Code Segment, Data Segment, Extra Data Segment) 

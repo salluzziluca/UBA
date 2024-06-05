@@ -39,6 +39,7 @@ Formalmente, es un mapeo
 #### Base and Bound (segmentacion)
 Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
+Hay un base and bound para heap, otro para stack y otro para el codigo.
 ![[Pasted image 20240416113147.png]]
 ##### implementacion en x86
 AX, BX, CX, DX : Registros Generales 

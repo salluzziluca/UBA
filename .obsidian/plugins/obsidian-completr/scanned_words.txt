@@ -5,6 +5,7 @@ KOP
 Knuth
 KX
 Kxhuzyb
+Key
 La
 Los
 Luego
@@ -27,6 +28,8 @@ Level
 Llamaremos
 LLamaremos
 Link
+Linton
+Licor
 capa
 controlado
 cantidad
@@ -283,6 +286,17 @@ chown
 chicos
 chikitos
 contenido
+chistes
+cazando
+cruza
+contratan
+capi
+capitan
+cruel
+casi
+cambiaban
+contaba
+cintura
 de
 dispositivos
 del
@@ -447,6 +461,8 @@ dir
 dirstream
 dvide
 deja
+desierta
+descubre
 gestion
 gran
 guarda
@@ -635,6 +651,11 @@ esos
 eliminan
 era
 eer
+esclavista
+encantaba
+escrito
+ense
+eran
 servicios
 son
 su
@@ -769,6 +790,11 @@ sismple
 seccion
 superbloque
 seguriismamente
+serpientes
+sube
+suya
+salv
+soga
 par
 por
 punto
@@ -959,6 +985,14 @@ provista
 punteor
 permiso
 pinta
+polizon
+pirata
+pasaba
+posta
+piedra
+pura
+pesc
+pez
 la
 las
 le
@@ -1042,6 +1076,7 @@ ls
 leendo
 llegar
 libre
+life
 agnosticos
 apps
 al
@@ -1217,6 +1252,15 @@ access
 archvos
 agil
 avisa
+abandon
+asegurar
+ayuda
+aprende
+alto
+amigos
+amigazo
+ataj
+at
 hardware
 heap
 hay
@@ -1253,6 +1297,7 @@ haciendo
 home
 hZ
 hardlink
+historias
 que
 queda
 quien
@@ -1267,6 +1312,8 @@ quedar
 quiero
 queues
 qque
+quedo
+quedarse
 utilizados
 un
 una
@@ -1425,6 +1472,7 @@ CERRARLO
 CREAT
 Close
 CUR
+Cydney
 Es
 El
 Estos
@@ -1464,6 +1512,8 @@ Este
 ETC
 EL
 END
+Ellen
+Elen
 kernel
 kerne
 kbytes
@@ -1586,6 +1636,12 @@ readdir
 requiere
 rw
 rwx
+ratas
+robar
+re
+roy
+rajan
+recuperar
 operacion
 orden
 operaciones
@@ -1643,6 +1699,7 @@ open
 off
 oldpath
 opendir
+ortiva
 nombre
 nuevo
 nica
@@ -1697,6 +1754,8 @@ nuTWM
 name
 nmero
 newpath
+nadie
+naranja
 via
 vuelve
 viven
@@ -1759,6 +1818,9 @@ vos
 very
 vision
 vayas
+vivir
+valen
+verdad
 Application
 API
 Asigna
@@ -1803,6 +1865,7 @@ ABOUT
 Ambos
 ALOCAR
 APUNTA
+Arvin
 Programming
 Procesos
 Partes
@@ -1854,6 +1917,8 @@ PATH
 PROC
 PORQUE
 PODEMS
+Pesado
+Peddle
 Interface
 ID
 Instructions
@@ -1887,6 +1952,7 @@ Info
 INODO
 IMPORTANTE
 INODOS
+III
 Un
 UNIX
 UBA
@@ -1902,6 +1968,7 @@ Utilizamos
 Utilizado
 USR
 UN
+Urchin
 modo
 mode
 menso
@@ -2016,6 +2083,11 @@ mkdir
 maximo
 monton
 modificacin
+mando
+muerte
+mueren
+mar
+mil
 tien
 tiene
 todos
@@ -2118,6 +2190,8 @@ tendria
 touch
 tenes
 tranqui
+tripulacion
+tormenta
 inico
 interna
 infro
@@ -2228,6 +2302,7 @@ incrementa
 id
 inode
 inodosque
+isla
 fijo
 file
 fork
@@ -2307,6 +2382,7 @@ NULL
 Notaci
 Nuestro
 NECESARIOS
+Noonan
 File
 For
 Funcion
@@ -2378,6 +2454,7 @@ Directorios
 DIR
 DE
 DataRegion
+Drake
 Memoria
 Multivariada
 MORE
@@ -2410,6 +2487,7 @@ Metadata
 MNT
 Metadatos
 MAXIMO
+Mencho
 Table
 Todos
 This
@@ -2437,6 +2515,8 @@ TODOS
 Tell
 Tenemos
 TRINC
+The
+Truman
 Realiza
 REgistrys
 Rango
@@ -2470,6 +2550,7 @@ REGLA
 Regla
 Recursividad
 Ruta
+Roy
 bien
 by
 be
@@ -2530,6 +2611,10 @@ buffer
 bitmap
 blques
 buena
+barco
+bardeaba
+buenas
+bueno
 will
 words
 with
@@ -2539,6 +2624,7 @@ wifi
 write
 writes
 whence
+way
 VA
 VIEW
 Volumen
@@ -2579,12 +2665,16 @@ juntos
 justito
 jobs
 jLlHP
+jodon
+joder
+jodia
 Ya
 Yourself
 YAGNI
 You
 Yrh
 YOU
+YOLO
 Generales
 Global
 GDT
@@ -2594,6 +2684,7 @@ Gonna
 Generalizaci
 Gup
 General
+Gunner
 BX
 Bit
 Box
@@ -2610,6 +2701,7 @@ BIN
 BOOT
 BLOQUES
 BLOQUE
+Bristol
 XY
 XD
 XVAMz
@@ -2625,10 +2717,13 @@ Job
 Quienes
 Queue
 QUE
+Quiere
 ximo
 xito
 xitos
 xi
 Workload
 WRONLY
+Walrus
+Whitley
 zquffGj

@@ -86,6 +86,8 @@ La direc fisica es la direc fisica del page frame  + el offset de la pagina que 
 
 En la mem fisica las paginas no son lineales, la memoria está desparramada
 
+Si yo tengo la direccion de memoria virtual: 21. Y mi espacio para la dire
+
 ![[Pasted image 20240416115118.png]]
 
 ### Memoria paginada en x86

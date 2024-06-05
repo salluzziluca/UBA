@@ -170,7 +170,7 @@ Hay memoria que está dentro de los cores. Cuando tomo los datos de la memoria p
 La TLB (translaton lookaside buffer) es la [[7.0 Memoria#Caché|caché]] del MMU (addr translator), guarda cacheada las traducciones de memoria virtual a fisica. Si ya hice la traduccion antes le sumo el offset y me ahorro traducir.
 ![[Pasted image 20240417120657.png]]
 Tiene que ser rapida, es una memoria estatica on chip muy cerca del procesador
-Hay implmentaciones con 2 TLB. Pongo Miss en la primera TLB, si no uso alguno por mucho tiempo lo bajo a la TLB2, si no lo uso por mas tiempo se va.
+Hay implmentaciones con 2 TLB. Pongo Miss en la primera TLB, si no uso alguno por mucho tiempo lo bajo a la TLB2, si no lo uso por mas tiempo se va. Otra forma es random policy, es peor en average pero no tenemos problema con casos borde que nos hagan su
 
 allá le estan espaciando las localidades
 

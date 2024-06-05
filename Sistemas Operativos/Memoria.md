@@ -89,6 +89,8 @@ En la mem fisica las paginas no son lineales, la memoria está desparramada
 Si yo tengo la direccion de memoria virtual: 21. Y mi espacio para la direccion de memoria es de 64 bytes (2⁶ bits)
 ![[Pasted image 20240605141025.png]]
 VPN seria el virtual page number y el offset seria en que parte de esa page esta la info que estoy leyendo
+21 en binario 10101. La direccion de memoria 21 esta en el 5to (0101 byt)
+![[Pasted image 20240605141059.png]]
 
 ![[Pasted image 20240416115118.png]]
 

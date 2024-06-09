@@ -47,7 +47,7 @@ Se ejecuta un proceso por una slice de tiempo, cambia al proximo, cambia al prox
 Si el time slice es muy chikito, pierdo mucho recursos en el context switch
 
 
-## Multi Level Feedback Queue
+## Multi Level Feedback Queue (MLFQ)
 Intenta optimizar el turnaround time, se intenta ejecutar la tarea mas corta primero. MLFQ intenta que el planificador haga sentir al sistema con un tiempo de respuesta interactivo para los usuarios por ende minimizar el ***response time***
 
 ### Problemas
@@ -79,3 +79,19 @@ Con esto se logran dos cosas
 
 ## linux
 Un buen planificador tiene que tender a no tardar tiempo en decidir quien sigue, esa decision tiene que tardar el menor tiempo posible. Tiene que tener bajar la [[Complejidad de Algoritmos|complejidad algoritmica]] 
+En Linux 1.2 Se utilizaba una cola circular con round robin
+en linux 2.2 se introduce las scheduling cvlasses (real-time, non-real-time)
+en linux 2.4 se crea el O(N) scheduler
+Entre el linux 2.5 y el 2.6 se rehizo de cero el scheduler, volviendolo [[Complejidad de Algoritmos|O(1)]]. Su nombre es 
+### Completely Fair Scheduler
+Diseñado por Ingo Molnar. Este shceduler está basado en el concepto de planificacion proporcional (fair scheduling). Donde se intenta dar a cada proceso una cantidad de tiempo de CPU proporcional a su prioridad. CFS utiliza una estructura de datos de tipo [[Arbol Rojo Negro|arbol rojo negro]]. 
+
+**Equidad**: El CFS busca ofrecer a cad aproceso una porcion justa de CPU. No se asignan time slices, sino que que se les da una porcion de tiempo de CPU proporcional a su peso de prioridad
+**Virtual Runtime:** cada proceso tiene asociado un contador llamad vrtuntime, que representa la cantidad de tiempo que el proceso lleva ejecutandose. Los que tienen menos vruntine son los que tienen mayor prioridad para ser ejecutados. 
+$$vruntine +=\frac{delta\_{exec}}{weight}\times load\_weight$$
+**Pesos de Prioridad**: Los procesos de linux pueden tener diferentes proridades, que en el CPS implica pesos. Un peso mas alto implica mayor prioridad
+
+
+Cada task_struct tiene un struct de sched_identity ( con todo lo de la task referida al sched).
+Dentro de ese sched_identity struct hay un puntero a un nodo del [[Arbol Rojo-Negro]].
+

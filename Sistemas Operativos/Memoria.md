@@ -39,7 +39,16 @@ Formalmente, es un mapeo
 #### Base and Bound (segmentacion)
 Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
+Hay un base and bound para heap, otro para stack y otro para el codigo.
+![[Pasted image 20240605124358.png]]
+![[Pasted image 20240605124409.png]]
 ![[Pasted image 20240416113147.png]]
+
+![[Pasted image 20240416113147.png]]
+
+### Non compacted vs Compacted memory
+![[Pasted image 20240605125003.png]]
+Se puden compactar la memoria fisica para que no haya tanto huecos y que la memoria libre sea toda contigua.
 ##### implementacion en x86
 AX, BX, CX, DX : Registros Generales 
 CS, DS, SS, ES : Registros de Segmentos, manejan la traducción en modo real.( Code Segment, Data Segment, Extra Data Segment) 
@@ -77,6 +86,12 @@ La direc fisica es la direc fisica del page frame  + el offset de la pagina que 
 
 En la mem fisica las paginas no son lineales, la memoria está desparramada
 
+Si yo tengo la direccion de memoria virtual: 21. Y mi espacio para la direccion de memoria es de 64 bytes (2⁶ bits)
+![[Pasted image 20240605141025.png]]
+VPN seria el virtual page number y el offset seria en que parte de esa page esta la info que estoy leyendo
+21 en binario 10101. La direccion de memoria 21 esta en el 5to (0101 byte) de la virtual page 01
+![[Pasted image 20240605141059.png]]
+Traducimos la virtual page number a la phisical page number mediante el mecanismo de adress translation y seguimos. El offset no cambia.
 ![[Pasted image 20240416115118.png]]
 
 ### Memoria paginada en x86
@@ -155,7 +170,7 @@ Hay memoria que está dentro de los cores. Cuando tomo los datos de la memoria p
 La TLB (translaton lookaside buffer) es la [[7.0 Memoria#Caché|caché]] del MMU (addr translator), guarda cacheada las traducciones de memoria virtual a fisica. Si ya hice la traduccion antes le sumo el offset y me ahorro traducir.
 ![[Pasted image 20240417120657.png]]
 Tiene que ser rapida, es una memoria estatica on chip muy cerca del procesador
-Hay implmentaciones con 2 TLB. Pongo Miss en la primera TLB, si no uso alguno por mucho tiempo lo bajo a la TLB2, si no lo uso por mas tiempo se va.
+Hay implmentaciones con 2 TLB. Pongo Miss en la primera TLB, si no uso alguno por mucho tiempo lo bajo a la TLB2, si no lo uso por mas tiempo se va. Otra forma es random policy, es peor en average pero no tenemos problema con casos borde que nos hagan super ineficientes ls cosas
 
 allá le estan espaciando las localidades
 
@@ -164,6 +179,6 @@ allá le estan espaciando las localidades
 >Una TLB no es la excepción. Para una ejecución correcta y segura de un programa, el sistema operativo tiene que asegurarse que cada programa ve su propia memoria y la de nadie más.
 
 
-- Context switch: Las direcciones virtuales del viejo proceso ya no son más válidas, y no deben ser válidas, para el nuevo proceso.
+- Context switch: Las direcciones virtuales del viejo proceso ya no son más válidas, y no deben ser válidas, para el nuevo proceso. Se hace un flush de la tlb.
 - Reducción de Permiso: Qué sucede cuando el sistema operativo modifica una entrada en una page table?Normalmente no se provee consistencia por hardware para la TLB; mantener la TLB consistente con la page table es responsabilidad del sistema operativo.
 - TLB shutdown: En un sistema multiprocesador cada uno puede tener cacheada una copia de una transacción en su TLB. Por ende, para seguridad y correctitud, cada vez que una entrada en la page table es modificada, la correspondiente entrada en todas las TLB de los procesadores tiene que ser descartada antes que los cambios tomen efecto.

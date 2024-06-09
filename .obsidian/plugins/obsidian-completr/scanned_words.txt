@@ -22,6 +22,7 @@ LdAU
 Lista
 Libero
 Level
+LD
 capa
 controlado
 cantidad
@@ -243,6 +244,9 @@ cuadraticamente
 combinar
 consumir
 consume
+contadores
+clock
+corespondiente
 de
 dispositivos
 del
@@ -382,6 +386,7 @@ demasiadas
 duraci
 decidir
 decision
+desplazamiento
 gestion
 gran
 guarda
@@ -557,6 +562,7 @@ externos
 estimaci
 electricidad
 equivale
+estados
 servicios
 son
 su
@@ -671,6 +677,13 @@ sabe
 sirve
 superior
 starve
+serie
+salir
+secuencialmente
+sobran
+sincronicos
+sincronizadamente
+seran
 par
 por
 punto
@@ -844,6 +857,9 @@ probarlos
 problemas
 problema
 propiedad
+paralelo
+pc
+planteo
 la
 las
 le
@@ -911,6 +927,7 @@ logb
 linealmente
 larga
 logran
+llegar
 agnosticos
 apps
 al
@@ -1061,6 +1078,10 @@ algoritmo
 adelante
 algoritmos
 atenci
+almacenamiento
+avanza
+armar
+armo
 hardware
 heap
 hay
@@ -1147,6 +1168,7 @@ usa
 unidades
 ubicarse
 utilizando
+utilizamos
 System
 Son
 Source
@@ -1195,6 +1217,7 @@ Suposiciones
 Shortest
 SJF
 Starvation
+Suponiendo
 Calls
 Cmabia
 CPU
@@ -1245,6 +1268,9 @@ Cu
 Completitin
 Complejidad
 Comparaci
+Carga
+Contadores
+Cuenta
 Es
 El
 Estos
@@ -1479,6 +1505,7 @@ ndo
 next
 nace
 nivel
+necesaria
 via
 vuelve
 viven
@@ -1570,6 +1597,7 @@ Ain
 Azij
 Around
 Antes
+Actual
 Programming
 Procesos
 Partes
@@ -1614,6 +1642,7 @@ PoLK
 Promueve
 Politicas
 Problemas
+Proximo
 Interface
 ID
 Instructions
@@ -1757,6 +1786,7 @@ mostrar
 mantener
 monopolizar
 momento
+minimo
 tien
 tiene
 todos
@@ -1850,6 +1880,7 @@ tope
 transforma
 tratara
 tender
+transiciones
 inico
 interna
 infro
@@ -1945,6 +1976,7 @@ inferior
 if
 interactivas
 inteligente
+impresora
 fijo
 file
 fork
@@ -1998,6 +2030,7 @@ fpreyDv
 free
 fundamental
 factores
+flipflops
 Nombre
 Notas
 Not
@@ -2071,6 +2104,8 @@ Dibujos
 Determinar
 Desventajas
 Despu
+Dependiendo
+Dependen
 Memoria
 Multivariada
 MORE
@@ -2147,6 +2182,8 @@ Reglas
 REGLA
 Regla
 Recursividad
+Registro
+Registros
 bien
 by
 be
@@ -2229,6 +2266,7 @@ Objetos
 Ocultamiento
 Optimization
 ya
+yo
 json
 jacobiano
 justamente

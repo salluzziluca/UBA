@@ -5,4 +5,4 @@ El thread1 necesita un recurso del thread2 y este a su vez necesita otro recurso
 Por la espera de un recurso externo: un thread en particular se queda lockeado mientras espera un recurso exterior (vease por ejemplo un json enviado por una API) y como nunca lo recibe nunca suelta el lock
 
 
-Un inodo tiene sus permisos, su numero de hard links, el UID (id dueño) y GID (id grupo dueño)
+Un inodo tiene sus permisos, su numero de hard links, el UID (id dueño) y GID (id grupo dueño), size, fecha de creacion y modificacion y punteros a datos. 12 punteros. 9 a datos directos, el 10 a datablocks, el 11 a datablocks de datablocks, el 12 a datablocks de datab,ocks de datablocks

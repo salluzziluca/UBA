@@ -21,3 +21,8 @@ Diferencias entre thread y procesos.
 Cad proceso puede tener uno o mas threads. EL proceso tiene code, data y heap, y cada thread tiene registros, program counter y stack. puede haber mas de un hilo por proceso.  **Los hilos de un mismo proceso también comparten descriptores de archivos,el contexto del filesystem y manejo de señales.**
 
 Dentro del kernel, sin embargo, no existe distincion alguna. Para ambos se utiliza clone() (con distintos flags). De hecho fork)( y phtread_:create son wrappers de clone()
+
+
+
+Memoria: variacion de estrucutara del address space respecto a mem fisica en base & bound, tabla de regs y paginacion. 
+Explique con diagramaws

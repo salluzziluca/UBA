@@ -28,3 +28,5 @@ Memoria: variacion de estrucutara del address space respecto a mem fisica en bas
 Explique con Diagramas
 
 Base and bound hace referencia a dos registros homonimos que marcaban el inicio y el fin de la memoria ocupada. Cuando se necesitaba alocar mas memoria, se desplazaba el bound lo necesario hacia adelante
+
+Tabla de registros. Cada programa tiene su propio base and bound que van aumentando o de

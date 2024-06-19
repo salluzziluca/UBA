@@ -262,6 +262,10 @@ chmod
 chown
 chicos
 chikitos
+concurrentes
+compartidos
+creacion
+contienen
 de
 dispositivos
 del
@@ -419,6 +423,13 @@ directorio
 dirstream
 dvide
 deja
+deadlock
+describa
+detenida
+detenga
+directos
+datab
+directamente
 gestion
 gran
 guarda
@@ -599,6 +610,10 @@ estados
 eliminan
 era
 eer
+espera
+externo
+exterior
+enviado
 servicios
 son
 su
@@ -729,6 +744,7 @@ sismple
 seccion
 superbloque
 seguriismamente
+suelta
 par
 por
 punto
@@ -913,6 +929,8 @@ punteor
 permiso
 propietario
 pinta
+permisos
+punteros
 la
 las
 le
@@ -990,6 +1008,10 @@ link
 ls
 leendo
 libre
+lock
+lockeado
+links
+libres
 agnosticos
 apps
 al
@@ -1158,6 +1180,10 @@ apontado
 access
 archvos
 agil
+adquirir
+avanzar
+apuntan
+apuntar
 hardware
 heap
 hay
@@ -1192,6 +1218,8 @@ haga
 haya
 haciendo
 hardlink
+hard
+hardlinks
 que
 queda
 quien
@@ -1205,6 +1233,7 @@ querer
 quedar
 quiero
 queues
+queden
 utilizados
 un
 una
@@ -1358,6 +1387,7 @@ Cuenta
 CREAT
 Close
 CUR
+Componentes
 Es
 El
 Estos
@@ -1507,6 +1537,8 @@ readdir
 requiere
 rw
 rwx
+referimos
+recurso
 operacion
 orden
 operaciones
@@ -1560,6 +1592,7 @@ open
 off
 oldpath
 opendir
+ocks
 nombre
 nuevo
 nica
@@ -1610,6 +1643,8 @@ nivel
 necesaria
 nmero
 newpath
+necesidad
+necesitarse
 via
 vuelve
 viven
@@ -1787,6 +1822,7 @@ If
 IMPORTANTE
 INODOS
 INODO
+Inodos
 Un
 UNIX
 UBA
@@ -1801,6 +1837,7 @@ UBHqy
 Utilizamos
 Utilizado
 UN
+UID
 modo
 mode
 menso
@@ -1909,6 +1946,7 @@ mkdir
 maximo
 manejar
 monton
+modificacion
 tien
 tiene
 todos
@@ -2007,6 +2045,7 @@ touch
 tenes
 tranqui
 tendria
+trabados
 inico
 interna
 infro
@@ -2110,6 +2149,8 @@ incrementa
 id
 inode
 inodosque
+incapacidad
+inodos
 fijo
 file
 fork
@@ -2171,6 +2212,7 @@ final
 falta
 fecha
 filesystem
+fechas
 Nombre
 Notas
 Not
@@ -2252,6 +2294,7 @@ Directorios
 DIR
 DE
 DataRegion
+Data
 Memoria
 Multivariada
 MORE
@@ -2300,6 +2343,7 @@ TPs
 Time
 Tenemos
 TRINC
+Tienen
 Realiza
 REgistrys
 Rango
@@ -2389,6 +2433,7 @@ buffer
 bitmap
 blques
 buena
+block
 will
 words
 with
@@ -2445,6 +2490,7 @@ GDTR
 Gamma
 Gonna
 General
+GID
 BX
 Bit
 Box
@@ -2458,6 +2504,7 @@ BIG
 Big
 BLOQUES
 BLOQUE
+Bitmap
 XY
 HEAD
 Hay
@@ -2469,6 +2516,7 @@ Job
 Quienes
 Queue
 QUE
+Que
 ximo
 xito
 xitos

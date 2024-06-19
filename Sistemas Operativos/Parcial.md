@@ -15,3 +15,7 @@ Inodos: estos contienen toda la informacion necesaria sobre un archivo/directori
 Data block, los inodos apuntan a bloques de datos donde está guardada la informacion, estos pueden apuntar directamente a la info o a otro bloques de datos en caso de necesitarse mas espacio. 
 Bitmap de inodos, sirve para saber cuales inodos estan libres y cuales no, el bitmap tiene un bit por inodo y este va a estar en 0 o 1 segun si esta libre u ocupados
 Bitmap 
+
+
+Diferencias entre thread y procesos.
+Cad proceso puede tener uno o mas threads. EL proceso tiene code, data y heap, y cada thread tiene registros, program counter y stack. pu

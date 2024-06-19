@@ -19,3 +19,5 @@ Bitmap
 
 Diferencias entre thread y procesos.
 Cad proceso puede tener uno o mas threads. EL proceso tiene code, data y heap, y cada thread tiene registros, program counter y stack. puede haber mas de un hilo por proceso.  **Los hilos de un mismo proceso también comparten descriptores de archivos,el contexto del filesystem y manejo de señales.**
+
+Dentro del kernel, sin emba

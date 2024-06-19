@@ -12,3 +12,4 @@ Un inodo tiene sus permisos, su numero de hard links, el UID (id dueño) y GID (
 Componentes de un VFS
 
 Inodos: estos contienen toda la informacion necesaria sobre un archivo/directorio. Tienen la cantidad de hardlinks, su tamaño, sus fechas de modificacion y creacion, sus permisos, el UID y el GID y los punteros a datos. 
+Data block, los inodos apuntan a bloques de datos donde está guardada la informacion, estos pueden apuntar directamente a la info o a otro bloques de datos en caso de necesitarse mas espacio. 

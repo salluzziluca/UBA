@@ -6,3 +6,9 @@ Por la espera de un recurso externo: un thread en particular se queda lockeado m
 
 
 Un inodo tiene sus permisos, su numero de hard links, el UID (id dueño) y GID (id grupo dueño), size, fecha de creacion y modificacion y punteros a datos. 12 punteros. 9 a datos directos, el 10 a datablocks, el 11 a datablocks de datablocks, el 12 a datablocks de datab,ocks de datablocks
+
+
+
+Componentes de un VFS
+
+Inodos: estos contienen toda la inforamcio

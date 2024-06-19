@@ -25,4 +25,6 @@ Dentro del kernel, sin embargo, no existe distincion alguna. Para ambos se utili
 
 
 Memoria: variacion de estrucutara del address space respecto a mem fisica en base & bound, tabla de regs y paginacion. 
-Explique con diagramaws
+Explique con Diagramas
+
+Base and bound hace referencia a dos registros homonimos que marcaban el inicio y el fin de la memoria ocupada. Cuando se necesitaba alocar mas memoria, se desplazaba el

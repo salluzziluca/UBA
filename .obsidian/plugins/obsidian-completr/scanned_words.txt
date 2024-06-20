@@ -266,6 +266,8 @@ concurrentes
 compartidos
 creacion
 contienen
+comparten
+clone
 de
 dispositivos
 del
@@ -430,6 +432,10 @@ detenga
 directos
 datab
 directamente
+descriptores
+distincion
+desplazaba
+decrementando
 gestion
 gran
 guarda
@@ -614,6 +620,8 @@ espera
 externo
 exterior
 enviado
+embargo
+estrucutara
 servicios
 son
 su
@@ -931,6 +939,8 @@ propietario
 pinta
 permisos
 punteros
+program
+phtread
 la
 las
 le
@@ -1184,6 +1194,10 @@ adquirir
 avanzar
 apuntan
 apuntar
+ales
+address
+alocar
+aumentando
 hardware
 heap
 hay
@@ -1220,6 +1234,9 @@ haciendo
 hardlink
 hard
 hardlinks
+hilo
+hilos
+homonimos
 que
 queda
 quien
@@ -1388,6 +1405,7 @@ CREAT
 Close
 CUR
 Componentes
+Cad
 Es
 El
 Estos
@@ -1425,6 +1443,7 @@ Ese
 EL
 END
 Este
+Explique
 kernel
 kbytes
 realice
@@ -1593,6 +1612,7 @@ off
 oldpath
 opendir
 ocks
+ocupada
 nombre
 nuevo
 nica
@@ -1645,6 +1665,8 @@ nmero
 newpath
 necesidad
 necesitarse
+necesitaba
+necesite
 via
 vuelve
 viven
@@ -1703,6 +1725,7 @@ vos
 very
 vision
 vayas
+variacion
 Application
 API
 Asigna
@@ -1947,6 +1970,8 @@ maximo
 manejar
 monton
 modificacion
+manejo
+marcaban
 tien
 tiene
 todos
@@ -2046,6 +2071,7 @@ tenes
 tranqui
 tendria
 trabados
+threads
 inico
 interna
 infro
@@ -2213,6 +2239,7 @@ falta
 fecha
 filesystem
 fechas
+fin
 Nombre
 Notas
 Not
@@ -2295,6 +2322,7 @@ DIR
 DE
 DataRegion
 Data
+Diferencias
 Memoria
 Multivariada
 MORE
@@ -2344,6 +2372,7 @@ Time
 Tenemos
 TRINC
 Tienen
+Tabla
 Realiza
 REgistrys
 Rango
@@ -2434,6 +2463,7 @@ bitmap
 blques
 buena
 block
+bound
 will
 words
 with
@@ -2442,6 +2472,7 @@ workload
 wifi
 write
 whence
+wrappers
 VA
 VIEW
 Volumen
@@ -2505,6 +2536,7 @@ Big
 BLOQUES
 BLOQUE
 Bitmap
+Base
 XY
 HEAD
 Hay

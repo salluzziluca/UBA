@@ -309,6 +309,9 @@ costosa
 compleja
 conjuntos
 conformado
+calculan
+combinatorio
+cruces
 de
 dispositivos
 del
@@ -477,6 +480,9 @@ directivas
 dulos
 dulo
 direccionion
+distintas
+dej
+dibujo
 gestion
 gran
 guarda
@@ -696,6 +702,10 @@ ensambladores
 ejecutable
 ensamblados
 especializada
+estantes
+esima
+embocar
+enunciado
 servicios
 son
 su
@@ -846,6 +856,10 @@ sustituir
 suciedad
 sola
 siguenes
+subconjuntos
+sacar
+salgan
+supongamos
 par
 por
 punto
@@ -1062,6 +1076,11 @@ procedimientos
 procedimiento
 preprocesamiento
 pertenece
+partir
+piden
+permutaciones
+palitos
+palos
 la
 las
 le
@@ -1148,6 +1167,10 @@ localidades
 ld
 lenta
 lado
+libros
+lso
+letras
+lugares
 agnosticos
 apps
 al
@@ -1344,6 +1367,8 @@ analiza
 asignacion
 asociativa
 asoigancion
+afuera
+anagrama
 hardware
 heap
 hay
@@ -1452,6 +1477,8 @@ utilizarse
 utilizado
 utilizada
 unificada
+urnas
+urna
 System
 Son
 Source
@@ -1568,6 +1595,7 @@ Controla
 Context
 Ciclo
 Compilacion
+Combinaciones
 Es
 El
 Estos
@@ -1741,6 +1769,7 @@ reemplazada
 resumen
 representaci
 requerida
+repetidos
 operacion
 orden
 operaciones
@@ -1799,6 +1828,7 @@ originales
 overflow
 out
 optimizacion
+ordenados
 nombre
 nuevo
 nica
@@ -1921,6 +1951,7 @@ versiones
 ve
 velocidad
 validez
+vale
 Application
 API
 Asigna
@@ -2030,6 +2061,7 @@ PWT
 Pongo
 Permiso
 Permite
+Permutaciones
 Interface
 ID
 Instructions
@@ -2207,6 +2239,8 @@ mbolo
 macros
 mapa
 modificacion
+meter
+mano
 tien
 tiene
 todos
@@ -2441,6 +2475,7 @@ incluir
 identificador
 inferiores
 inst
+indistinguibles
 fijo
 file
 fork
@@ -2507,6 +2542,8 @@ fetch
 fase
 frecuente
 first
+formarse
+fuesen
 Nombre
 Notas
 Not
@@ -2594,6 +2631,7 @@ Directory
 Disable
 Dirty
 Durante
+Dados
 Memoria
 Multivariada
 MORE
@@ -2654,6 +2692,7 @@ TLB
 Through
 Teoria
 Tipo
+Tenemos
 Realiza
 REgistrys
 Rango
@@ -2755,6 +2794,9 @@ byte
 basadas
 buffer
 borde
+bola
+bolas
+bolitas
 will
 words
 with
@@ -2780,6 +2822,7 @@ Va
 Virtualizaci
 VPN
 Valor
+Variaciones
 OPTIONS
 Operativos
 Orden
@@ -2852,6 +2895,9 @@ xito
 xitos
 xi
 xima
+xxx
+xx
+xxxxxxxx
 Workload
 Walrus
 Whitley

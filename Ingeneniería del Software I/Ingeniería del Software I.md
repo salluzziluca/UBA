@@ -1,1 +1,1 @@
-No seas boludo *o7
+Priemera enseñanza: No seas boludo *o7*

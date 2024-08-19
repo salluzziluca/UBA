@@ -1308,6 +1308,7 @@ sincronizacion
 suspender
 sito
 similar
+seas
 par
 por
 punto
@@ -2017,6 +2018,7 @@ arbitrario
 avanzar
 avancen
 ales
+anza
 hardware
 heap
 hay
@@ -3359,6 +3361,7 @@ Permiten
 Packet
 Programa
 PCB
+Priemera
 Interface
 ID
 Instructions
@@ -4411,6 +4414,7 @@ Dl
 Datagram
 Deadlocks
 Datos
+Definici
 Memoria
 Multivariada
 MORE
@@ -4791,6 +4795,7 @@ bh
 bIT
 bugs
 batch
+boludo
 will
 words
 with

@@ -18,5 +18,12 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 
 ##### Practiacas del PRoduct Discovery
 - Entrevistas a clientes
-- Customers Journeys
+- Customers Journeys (cuando un user entra al cine saca la entrada, ve de comprar algo para comer, entra a la sala...)
 - Maapa d eempatia
+
+#### Desing Thinking
+Metodo para generar ideas nnovaoras. Multidisciplinario
+
+1. Empatizar
+2. definirIdear
+3. 

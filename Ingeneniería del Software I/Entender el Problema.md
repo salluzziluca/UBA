@@ -30,3 +30,4 @@ Metodo para generar ideas nnovaoras. Multidisciplinario
 4. Protoitipar
 5. testear
 ![[Pasted image 20240819200001.png]]
+Se itenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a l

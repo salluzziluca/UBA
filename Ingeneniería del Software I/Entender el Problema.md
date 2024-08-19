@@ -42,4 +42,4 @@ Brainstorming:
 - Toda critica esta prohibida (no juzgar)
 - Toda idea es bienvenida
 - Tantas ideas como sea posible
-- Desarrollo y asociacion de ideas es des
+- Desarrollo y asociación de ideas es deseable

@@ -9,4 +9,6 @@ Es importante ==validar nuestras suposiciones==. Si lo que creemos que la gente 
 Dedicar tiempo a saber si sera realmente util y valioso
 
 #### Product Discovery 
-Entender el problema 
+Entender el problema nos permite seleccionar que es mas importante y valioso para los usuarios.  Se van entregando todas cosas con valor que vayan funcionando y se va iterando.
+
+###### Riesgos

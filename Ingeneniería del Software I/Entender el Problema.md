@@ -25,5 +25,7 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 Metodo para generar ideas nnovaoras. Multidisciplinario
 
 1. Empatizar
-2. definirIdear
-3. 
+2. definir
+3. Idear
+4. Protoitipar
+5. testear

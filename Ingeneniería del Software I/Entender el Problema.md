@@ -1,1 +1,1 @@
-Los clientes no pue
+Los clientes no pueden hacer el disño por nosotros, pero pueden mostrarnos los problemas que tienen. Hay que entender bien antes de ponerse a codear

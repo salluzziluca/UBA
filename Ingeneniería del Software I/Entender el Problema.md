@@ -7,3 +7,6 @@ Definir alguna metrica que indique que se resuelve ese punto de dolor o que resu
 
 Es importante ==validar nuestras suposiciones==. Si lo que creemos que la gente necesita de verdad va a influir y cambiar algo o si es un enamoramiento nuestro
 Dedicar tiempo a saber si sera realmente util y valioso
+
+#### Product Discovery 
+Entender el problema 

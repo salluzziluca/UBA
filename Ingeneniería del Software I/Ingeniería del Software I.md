@@ -1,1 +1,1 @@
-No seas boludo o7
+No seas boludo *o7

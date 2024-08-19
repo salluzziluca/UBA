@@ -11,4 +11,8 @@ Dedicar tiempo a saber si sera realmente util y valioso
 #### Product Discovery 
 Entender el problema nos permite seleccionar que es mas importante y valioso para los usuarios.  Se van entregando todas cosas con valor que vayan funcionando y se va iterando.
 
-###### Riesgos
+###### Riesgos de no usar product discovery.
+- Que no sea rentable o sostenible
+- QUe no tengamos las capacidades para hcerlo
+- Que a nadie le sirva
+

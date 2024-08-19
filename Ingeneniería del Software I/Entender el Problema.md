@@ -36,4 +36,4 @@ Se itenta abrir el foco en la parte de empatizar para luego definir en l de idea
 POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight
 
-Juan necesia una tarjeta de debito bancaria 
+Juan(usuario) necesia una tarjeta de debito bancaria(necesita) porque no pernentece al sistema financiero y solo tiene efectivo(problema) porque podra hacer compras por internet que viene postergand

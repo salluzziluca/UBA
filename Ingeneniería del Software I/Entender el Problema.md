@@ -16,3 +16,7 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 - QUe no tengamos las capacidades para hcerlo
 - Que a nadie le sirva
 
+##### Practiacas del PRoduct Discovery
+- Entrevistas a clientes
+- Customers Journeys
+- Maapa d eempatia

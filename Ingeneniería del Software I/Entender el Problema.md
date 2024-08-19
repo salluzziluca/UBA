@@ -33,4 +33,5 @@ Metodo para generar ideas nnovaoras. Multidisciplinario
 Se itenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrolladorar y rototipr
 
 
-Empatizar: 
+POV:
+Enmarcar bien los problemas en oraciones predefinidas.

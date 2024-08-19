@@ -29,3 +29,4 @@ Metodo para generar ideas nnovaoras. Multidisciplinario
 3. Idear
 4. Protoitipar
 5. testear
+![[Pasted image 20240819200001.png]]

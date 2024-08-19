@@ -34,4 +34,6 @@ Se itenta abrir el foco en la parte de empatizar para luego definir en l de idea
 
 
 POV:
-Enmarcar bien los problemas en oraciones predefinidas.
+Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight
+
+Juan necesia una tarjeta de debito bancaria 

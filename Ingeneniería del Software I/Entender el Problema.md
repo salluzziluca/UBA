@@ -37,3 +37,9 @@ POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight
 
 Juan(usuario) necesia una tarjeta de debito bancaria(necesita) porque no pernentece al sistema financiero y solo tiene efectivo(problema) porque podra hacer compras por internet que viene postergando(insight)
+
+Brainstorming:
+- Toda critica esta prohibida (no juzgar)
+- Toda idea es bienvenida
+- Tantas ideas como sea posible
+- Desarrollo y asociacion de ideas es des

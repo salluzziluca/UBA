@@ -1,3 +1,6 @@
 [[Introducción]]
 [[Linux]]
 [[Mary & Pipping]]
+[[Scheduling]]
+[[Maquinas Virtuales]]
+[[Taller de Programación/Concurrencia|Concurrencia]]

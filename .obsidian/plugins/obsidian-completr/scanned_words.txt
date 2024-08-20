@@ -545,6 +545,7 @@ desarrolladorar
 debito
 decimales
 detras
+dependencia
 gestion
 gran
 guarda
@@ -1525,6 +1526,7 @@ acompa
 abrir
 anza
 audio
+abstraccion
 hardware
 heap
 hay
@@ -1698,6 +1700,7 @@ Sirve
 SANTO
 Sala
 Short
+SGBD
 Calls
 Cmabia
 CPU
@@ -1962,6 +1965,7 @@ rototipr
 ricos
 representado
 rango
+repercutan
 operacion
 orden
 operaciones
@@ -2338,6 +2342,7 @@ Indique
 Idear
 Insight
 Int
+Independencia
 Un
 UNIX
 UBA
@@ -2981,6 +2986,7 @@ Me
 Mientras
 Maapa
 Multidisciplinario
+Mariano
 Table
 Todos
 This
@@ -3063,6 +3069,7 @@ Respuestas
 Recibe
 Riesgos
 Reales
+Resuelve
 bien
 by
 be
@@ -3222,6 +3229,7 @@ Bus
 Brainstorming
 Bases
 Booleano
+Beir
 XY
 HEAD
 Hay

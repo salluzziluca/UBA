@@ -406,6 +406,11 @@ condici
 comunes
 cachear
 collect
+columnas
+conformados
+columna
+conviene
+cmplejidad
 de
 dispositivos
 del
@@ -654,6 +659,10 @@ despierte
 despertado
 debbuger
 des
+dataframes
+df
+desviados
+descargas
 gestion
 gran
 guarda
@@ -694,6 +703,8 @@ gestiona
 guardan
 gane
 generada
+groupby
+grabadas
 especifico
 entra
 en
@@ -935,6 +946,9 @@ excec
 ejecutble
 exec
 especificada
+extraer
+explote
+espectral
 servicios
 son
 su
@@ -1142,6 +1156,10 @@ similar
 signals
 solicitados
 sobreponiendo
+sacar
+secuencia
+spark
+suben
 par
 por
 punto
@@ -1429,6 +1447,12 @@ peleando
 probablemente
 posteriormente
 poquitos
+practicas
+pivot
+pivotear
+paga
+podria
+previos
 la
 las
 le
@@ -1548,6 +1572,8 @@ lockeado
 libres
 lleguen
 liberado
+labura
+learning
 agnosticos
 apps
 al
@@ -1798,6 +1824,9 @@ alloca
 attach
 acciones
 accion
+agregarle
+app
+avanzado
 hardware
 heap
 hay
@@ -1854,6 +1883,8 @@ hardlinks
 hilos
 homonimos
 han
+how
+heatmap
 que
 queda
 quien
@@ -1935,6 +1966,8 @@ usaba
 unlink
 ultima
 unico
+unir
+unstack
 System
 Son
 Source
@@ -2016,6 +2049,8 @@ Swapped
 STOPPED
 STOP
 SIGCONT
+Series
+Slack
 Calls
 Cmabia
 CPU
@@ -2102,6 +2137,8 @@ Corriendo
 Correr
 Creado
 Created
+Conocimientos
+Clases
 Es
 El
 Estos
@@ -2349,6 +2386,11 @@ recibi
 running
 reciba
 revisado
+right
+relacionan
+relaciona
+reviews
+reentrega
 operacion
 orden
 operaciones
@@ -2427,6 +2469,9 @@ oldpath
 opendir
 ocks
 ocupada
+outer
+outlier
+opcional
 nombre
 nuevo
 nica
@@ -2502,6 +2547,7 @@ newpath
 necesitarse
 necesitaba
 necesite
+nuestros
 via
 vuelve
 viven
@@ -2599,6 +2645,8 @@ vayas
 variacion
 visi
 verdadera
+viceversa
+vistas
 Application
 API
 Asigna
@@ -2658,6 +2706,10 @@ Aprovisionaiento
 ALOCAR
 APUNTA
 Asleep
+Apila
+Administrativa
+AVA
+AVE
 Programming
 Procesos
 Partes
@@ -2742,6 +2794,8 @@ PODEMS
 PROCESO
 PROGRAMA
 Preempt
+Pandas
+Pregunta
 Interface
 ID
 Instructions
@@ -2790,6 +2844,7 @@ INODOS
 Inodos
 In
 INTERRUPTIBLE
+Innier
 Un
 UNIX
 UBA
@@ -2972,6 +3027,10 @@ manten
 magia
 maps
 muuuuuuy
+mergea
+mis
+matrices
+machine
 tien
 tiene
 todos
@@ -3115,6 +3174,8 @@ tasks
 trace
 terminado
 takeOrderer
+tabular
+tps
 inico
 interna
 infro
@@ -3376,6 +3437,10 @@ falta
 fechas
 fin
 fatal
+filas
+formateados
+fila
+factorizacion
 Nombre
 Notas
 Not
@@ -3493,6 +3558,8 @@ DataRegion
 Diferencias
 Durmiendo
 DEAD
+DataFrames
+DVS
 Memoria
 Multivariada
 MORE
@@ -3538,6 +3605,8 @@ Metadatos
 MAXIMO
 Mb
 Mode
+Merge
+Machine
 Table
 Todos
 This
@@ -3589,6 +3658,7 @@ TRINC
 Tienen
 TASK
 TRACED
+Teoricas
 Realiza
 REgistrys
 Rango
@@ -3764,6 +3834,7 @@ Virtuales
 Verifca
 Valores
 Volver
+Visualizacion
 OPTIONS
 Operativos
 Orden
@@ -3817,6 +3888,7 @@ Group
 General
 GID
 GroupByKey
+Gradescope
 BX
 Bit
 Box
@@ -3847,6 +3919,7 @@ BLOQUE
 Bitmap
 Bloqueado
 Blocked
+Buenas
 XY
 HEAD
 Hay
@@ -3857,6 +3930,7 @@ Hacer
 Hard
 Hace
 Hijo
+HICISTE
 Jacobiano
 Job
 Jusitfique

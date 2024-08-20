@@ -37,7 +37,12 @@ Se intenta abrir el foco en la parte de empatizar para luego definir en l de ide
 ##### Beneficios de Desing Thinking
 - Reduce riesgo
 - mejora calidad
-- 
+- aborda necesidades reales
+- fomenta innovacion al explorar multiples vias para el mismo problema
+- Convierte problemas en oportunidades
+- fomenta trabajo en equipo
+- mejora empatia en la cultura empresarial
+- se obtienen resutlados tangibles y consistentes
 
 POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight

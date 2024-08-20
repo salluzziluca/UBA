@@ -3,4 +3,10 @@
 ## entidad
 Tipo o clase de objeto en particular
 Una entidad es una instancia de un tipo de entidad
-ej: futbolista. Messi es una instancia del tipo d
+ej: futbolista. Messi es una instancia del tipo de entidad futbolista
+
+## atributo
+Una propiedad que describe a la entidad
+Futbolista-> Club
+
+##

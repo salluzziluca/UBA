@@ -16,7 +16,7 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 - Que no tengamos las capacidades para hacerlo
 - Que a nadie le sirva
 
-##### Practiacas del Product Discovery
+##### Prácticas del Product Discovery
 - Entrevistas a clientes
 - Customers Journeys (cuando un user entra al cine saca la entrada, ve de comprar algo para comer, entra a la sala...)
 - Maapa d eempatia

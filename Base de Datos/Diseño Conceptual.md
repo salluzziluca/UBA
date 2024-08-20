@@ -1,0 +1,1 @@
+ Las bases de datos almacenan datos que pueden enunciarse a traves de proposiciones. Un modelo de datos debe incluir los siguientes p

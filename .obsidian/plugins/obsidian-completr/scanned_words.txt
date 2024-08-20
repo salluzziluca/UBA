@@ -411,6 +411,7 @@ conformados
 columna
 conviene
 cmplejidad
+consulta
 de
 dispositivos
 del
@@ -949,6 +950,7 @@ especificada
 extraer
 explote
 espectral
+efiicientes
 servicios
 son
 su
@@ -1160,6 +1162,7 @@ sacar
 secuencia
 spark
 suben
+simultaneo
 par
 por
 punto
@@ -1827,6 +1830,7 @@ accion
 agregarle
 app
 avanzado
+autorizados
 hardware
 heap
 hay
@@ -2051,6 +2055,8 @@ STOP
 SIGCONT
 Series
 Slack
+SGBDs
+Soportre
 Calls
 Cmabia
 CPU
@@ -2139,6 +2145,7 @@ Creado
 Created
 Conocimientos
 Clases
+Concurrencia
 Es
 El
 Estos
@@ -2391,6 +2398,7 @@ relacionan
 relaciona
 reviews
 reentrega
+recuperacion
 operacion
 orden
 operaciones
@@ -2710,6 +2718,8 @@ Apila
 Administrativa
 AVA
 AVE
+Almacenamiento
+Asegurar
 Programming
 Procesos
 Partes
@@ -2796,6 +2806,7 @@ PROGRAMA
 Preempt
 Pandas
 Pregunta
+Permitir
 Interface
 ID
 Instructions
@@ -2845,6 +2856,7 @@ Inodos
 In
 INTERRUPTIBLE
 Innier
+Integridad
 Un
 UNIX
 UBA
@@ -3176,6 +3188,7 @@ terminado
 takeOrderer
 tabular
 tps
+transaccional
 inico
 interna
 infro
@@ -3348,6 +3361,7 @@ interrumpible
 ininterrupci
 iene
 inncesarios
+integridad
 fijo
 file
 fork
@@ -3441,6 +3455,7 @@ filas
 formateados
 fila
 factorizacion
+fallas
 Nombre
 Notas
 Not
@@ -3710,6 +3725,7 @@ Running
 Ready
 Run
 RUNNING
+Recuperaci
 bien
 by
 be
@@ -3850,6 +3866,7 @@ Operaciones
 Operativo
 Organizacion
 OCUPA
+Ofrecer
 ya
 yo
 ytes

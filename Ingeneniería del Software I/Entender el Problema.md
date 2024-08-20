@@ -12,16 +12,16 @@ Ver si es un problema real.
 #### Product Discovery 
 Entender el problema nos permite seleccionar que es mas importante y valioso para los usuarios.  Se van entregando todas cosas con valor que vayan funcionando y se va iterando.
 
-###### Riesgos de no usar product discovery.
+##### Riesgos de no usar product discovery.
 - Que no sea rentable o sostenible
 - Que la gente no sepa utilizar el producto
 - Que no tengamos las capacidades para hacerlo
 - Que a nadie le sirva
 
-##### Prácticas del Product Discovery
+##### Prácticas y Tecnicas del Product Discovery
 - Entrevistas a clientes
 - Customers Journeys (cuando un user entra al cine saca la entrada, ve de comprar algo para comer, entra a la sala...)
-- Maapa d eempatia
+- Mapa de empatia
 
 #### Desing Thinking
 Metodo para generar ideas nnovaoras. Multidisciplinario

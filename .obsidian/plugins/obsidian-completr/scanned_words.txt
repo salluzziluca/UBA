@@ -664,6 +664,8 @@ dataframes
 df
 desviados
 descargas
+describe
+definici
 gestion
 gran
 guarda
@@ -951,6 +953,7 @@ extraer
 explote
 espectral
 efiicientes
+entidades
 servicios
 son
 su
@@ -1163,6 +1166,9 @@ secuencia
 spark
 suben
 simultaneo
+sorbe
+semantico
+similares
 par
 por
 punto
@@ -1456,6 +1462,7 @@ pivotear
 paga
 podria
 previos
+planteado
 la
 las
 le
@@ -1831,6 +1838,7 @@ agregarle
 app
 avanzado
 autorizados
+asociaciones
 hardware
 heap
 hay
@@ -2146,6 +2154,9 @@ Created
 Conocimientos
 Clases
 Concurrencia
+Conjunto
+Chen
+Club
 Es
 El
 Estos
@@ -2213,6 +2224,7 @@ EJECUCI
 Estados
 Est
 EXIT
+Entidad
 kernel
 kerne
 kbytes
@@ -2399,6 +2411,8 @@ relaciona
 reviews
 reentrega
 recuperacion
+resprenta
+relaciones
 operacion
 orden
 operaciones
@@ -2556,6 +2570,7 @@ necesitarse
 necesitaba
 necesite
 nuestros
+naci
 via
 vuelve
 viven
@@ -2807,6 +2822,8 @@ Preempt
 Pandas
 Pregunta
 Permitir
+Propusto
+Pais
 Interface
 ID
 Instructions
@@ -2857,6 +2874,7 @@ In
 INTERRUPTIBLE
 Innier
 Integridad
+Interrelacion
 Un
 UNIX
 UBA
@@ -3043,6 +3061,8 @@ mergea
 mis
 matrices
 machine
+manipualr
+modelado
 tien
 tiene
 todos
@@ -3362,6 +3382,8 @@ ininterrupci
 iene
 inncesarios
 integridad
+interrelaciones
+interrelaci
 fijo
 file
 fork
@@ -3456,6 +3478,7 @@ formateados
 fila
 factorizacion
 fallas
+futbolista
 Nombre
 Notas
 Not
@@ -3500,6 +3523,7 @@ Fair
 Fidelidad
 Formato
 FDT
+Futbolista
 Descriptors
 Descriptor
 Devuelve
@@ -3622,6 +3646,7 @@ Mb
 Mode
 Merge
 Machine
+Messi
 Table
 Todos
 This
@@ -3726,6 +3751,7 @@ Ready
 Run
 RUNNING
 Recuperaci
+Restricciones
 bien
 by
 be

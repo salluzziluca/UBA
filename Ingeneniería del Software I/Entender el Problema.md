@@ -2,7 +2,7 @@ Los clientes no pueden hacer el diseño por nosotros, pero pueden mostrarnos los
 
 Hay que detectar los ==puntos de dolor==, a que le dan mas bola. 
 Establecer objetivos
-Definir alguna metrica que indique que se resuelve ese punto de dolor o que resuelve ese objetivo. Hacer que lo que quiero resolver sea medible.
+Definir alguna métrica que indique que se resuelve ese punto de dolor o que resuelve ese objetivo. Hacer que lo que quiero resolver sea medible.
 
 
 Es importante ==validar nuestras suposiciones==. Si lo que creemos que la gente necesita de verdad va a influir y cambiar algo o si es un enamoramiento nuestro
@@ -13,10 +13,10 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 
 ###### Riesgos de no usar product discovery.
 - Que no sea rentable o sostenible
-- QUe no tengamos las capacidades para hcerlo
+- Que no tengamos las capacidades para hacerlo
 - Que a nadie le sirva
 
-##### Practiacas del PRoduct Discovery
+##### Practiacas del Product Discovery
 - Entrevistas a clientes
 - Customers Journeys (cuando un user entra al cine saca la entrada, ve de comprar algo para comer, entra a la sala...)
 - Maapa d eempatia

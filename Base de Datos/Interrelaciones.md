@@ -3,6 +3,7 @@ La cardinalidad es la maxima cantida de instancias de cada tiop de entidad que p
 ![[Pasted image 20240820201819.png]]
 Un futbolista se puede vincular a un solo Pais
 Un pais a muchos futbolistas
-Futo
+Futbolista tiene una participacion total (todos los futbolistas nacieron en un pais)
+Pais tiene una participacion parcial (en el vaticano no nacio ningun futbolista)
 
 Las cardinalidades posibles son 1:1, 1:N, N:1, N:M

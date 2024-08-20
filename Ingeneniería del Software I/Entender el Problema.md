@@ -14,6 +14,7 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 
 ###### Riesgos de no usar product discovery.
 - Que no sea rentable o sostenible
+- Que la gente no sepa utilizar el producto
 - Que no tengamos las capacidades para hacerlo
 - Que a nadie le sirva
 

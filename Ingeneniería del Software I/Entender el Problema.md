@@ -27,9 +27,9 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrado en el usuario
 
 1. Empatizar (explorar el contexto): Profunda compresion de las necesidades (investigacion cuali/cuantitativa)
-2. definir (detectar oportunidades): patrones de conducta, insights, oportunidades de innovacion
+2. definir (detectar oportunidades): patrones de conducta, insights, oportunidades de innovación
 3. Idear (proponer solución según contexto y necesidades): pensamiento lateral y creativo, Brainstorming
-4. Prototipar (elseccionar la idea con la mejor propuesta de valor y prototiparla): Bocetos, maquetas, pitch, storyboard, blueprint
+4. Prototipar (seleccionar la idea con la mejor propuesta de valor y prototiparla): Bocetos, maquetas, pitch, storyboard, blueprint
 5. testear (hacemos parte al user): co-creamos en base a la prueba y error
 ![[Pasted image 20240820103002.png]]
 Se intenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrollar y prototipar para luego converger de nuevo en el testeo

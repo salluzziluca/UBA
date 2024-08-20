@@ -2,7 +2,7 @@ Los clientes no pueden hacer el diseño por nosotros, pero pueden mostrarnos los
 
 Hay que detectar los ==puntos de dolor==, a que le dan mas bola. 
 Establecer objetivos
-Definir alguna métrica que indique que se resuelve ese punto de dolor o que resuelve ese objetivo. Hacer que lo que quiero resolver sea medible.
+Definir alguna métrica que indique  la resolución de ese punto de dolor u objetivo. Hacer que lo que quiero resolver sea medible.
 
 
 Es importante ==validar nuestras suposiciones==. Si lo que creemos que la gente necesita de verdad va a influir y cambiar algo o si es un enamoramiento nuestro

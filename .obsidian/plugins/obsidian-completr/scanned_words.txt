@@ -945,6 +945,7 @@ seleccionar
 sostenible
 sirva
 saca
+seas
 par
 por
 punto
@@ -1196,6 +1197,7 @@ pernentece
 podra
 postergando
 prohibida
+ponernos
 la
 las
 le
@@ -1506,6 +1508,7 @@ aron
 apuntando
 acompa
 abrir
+anza
 hardware
 heap
 hay
@@ -2272,6 +2275,7 @@ PRoduct
 Protoitipar
 POV
 Problema
+Priemera
 Interface
 ID
 Instructions
@@ -3084,6 +3088,7 @@ booleano
 bola
 bancaria
 bienvenida
+boludo
 will
 words
 with

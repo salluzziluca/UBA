@@ -581,6 +581,7 @@ grupo
 gente
 genes
 geoespaciales
+gestiona
 especifico
 entra
 en
@@ -1210,6 +1211,7 @@ prohibida
 ponernos
 proposiciones
 predicado
+programagas
 la
 las
 le
@@ -2495,6 +2497,7 @@ metida
 mostrarnos
 metrica
 medible
+manipulaci
 tien
 tiene
 todos

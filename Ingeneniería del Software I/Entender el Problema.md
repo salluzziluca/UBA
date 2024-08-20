@@ -45,12 +45,17 @@ Se intenta abrir el foco en la parte de empatizar para luego definir en l de ide
 - se obtienen resutlados tangibles y consistentes
 
 ##### POV:
-Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight
+Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Porque...Insight
 
 Juan(usuario) necesia una tarjeta de debito bancaria(necesita) porque no pernentece al sistema financiero y solo tiene efectivo(problema) porque podra hacer compras por internet que viene postergando(insight)
 
-Brainstorming:
+##### Brainstorming:
 - Toda critica esta prohibida (no juzgar)
 - Toda idea es bienvenida
 - Tantas ideas como sea posible
 - Desarrollo y asociación de ideas es deseable
+
+Permite 
+- Liberar al creativididad del equpo
+- generar un gran numero de ideas
+- involucrar o

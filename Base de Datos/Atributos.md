@@ -10,3 +10,7 @@ Para la entidad País:
 - El atributo nombre es una cadena de caracteres (string). 
 - El atributo población es un número entero positivo. 
 - El atributo superficie es un número real positivo.
+En ciertos casos se le puede asignar el valor nulo o NULL al atributo.
+
+## Atributos complejos 
+![[Pasted image 20240820195650.png]]

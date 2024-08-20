@@ -15,8 +15,8 @@ En ciertos casos se le puede asignar el valor nulo o NULL al atributo.
 ## Atributos complejos 
 ![[Pasted image 20240820195650.png]]
 ## Atributos almacenados vs derivados
-Depende de dos atributos 
-
+Depende de dos atributos almacenados
+![[Pasted image 20240820200224.png]]
 ## Atributos multivaluados vs Monovaluados
 Cuando una instancia puede tener mas de un valor para un mismo atributo es multivaluado 
 ![[Pasted image 20240820200114.png]]

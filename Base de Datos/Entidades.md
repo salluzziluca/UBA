@@ -1,0 +1,1 @@
+ Todo tipo de entidad debe tener un subconjunto del co

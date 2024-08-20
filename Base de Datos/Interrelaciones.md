@@ -3,7 +3,7 @@ La ==cardinalidad== es la maxima cantida de instancias de cada tipo de entidad q
 ![[Pasted image 20240820201819.png]]
 Un futbolista se puede vincular a un solo Pais
 Un país a muchos futbolistas
-Futbolista tiene una ==participación total== (todos los futbolistas nacieron en un pais)
+Futbolista tiene una ==participación total== (todos los futbolistas nacieron en un país)
 País tiene una ==participación parcial== (en el vaticano no nació ningún futbolista)
 
 Las cardinalidades posibles son 1:1, 1:N, N:1, N:M

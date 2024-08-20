@@ -1,0 +1,1 @@
+Un dato es un hecho que puede ser respresntado y almacenado de alguna forma, y que tiene un senti

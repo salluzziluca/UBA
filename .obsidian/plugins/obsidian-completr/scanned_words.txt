@@ -31,6 +31,7 @@ Licor
 Large
 Lectura
 Liberaci
+Long
 capa
 controlado
 cantidad
@@ -343,6 +344,8 @@ compras
 critica
 cticas
 complejos
+cito
+coma
 de
 dispositivos
 del
@@ -540,6 +543,8 @@ dolor
 discovery
 desarrolladorar
 debito
+decimales
+detras
 gestion
 gran
 guarda
@@ -950,6 +955,7 @@ sostenible
 sirva
 saca
 seas
+short
 par
 por
 punto
@@ -1301,6 +1307,7 @@ llegue
 ligado
 llena
 liberan
+lugares
 agnosticos
 apps
 al
@@ -1688,6 +1695,7 @@ Supervisor
 Sirve
 SANTO
 Sala
+Short
 Calls
 Cmabia
 CPU
@@ -1751,6 +1759,7 @@ Compilacion
 Corroboraci
 Creaci
 Customers
+Char
 Es
 El
 Estos
@@ -1801,6 +1810,7 @@ Entender
 Entrevistas
 Empatizar
 Enmarcar
+Enteros
 kernel
 realice
 realicen
@@ -1948,6 +1958,8 @@ resuelve
 rentable
 rototipr
 ricos
+representado
+rango
 operacion
 orden
 operaciones
@@ -2216,6 +2228,7 @@ Aclaraci
 Archivos
 Agradeciendole
 Actualmente
+ASCII
 Programming
 Procesos
 Partes
@@ -2322,6 +2335,7 @@ Indica
 Indique
 Idear
 Insight
+Int
 Un
 UNIX
 UBA
@@ -2340,6 +2354,7 @@ User
 Uso
 Unificada
 Usuario
+Unsigned
 modo
 mode
 menso
@@ -2755,6 +2770,7 @@ internet
 insight
 interrelacionados
 im
+impl
 fijo
 file
 fork
@@ -2846,6 +2862,7 @@ Noonan
 Non
 Normalmente
 Necesita
+Num
 File
 For
 Funcion
@@ -2864,6 +2881,7 @@ First
 Feedback
 Formalmente
 Fault
+Float
 Descriptors
 Descriptor
 Devuelve
@@ -2924,6 +2942,8 @@ Dedicar
 Discovery
 Desing
 Desarrollo
+Datos
+Double
 Memoria
 Multivariada
 MORE
@@ -2996,6 +3016,7 @@ Thinking
 Toda
 Tantas
 Tradicionales
+Todav
 Realiza
 REgistrys
 Rango
@@ -3038,6 +3059,7 @@ Reemplazo
 Respuestas
 Recibe
 Riesgos
+Reales
 bien
 by
 be
@@ -3196,6 +3218,7 @@ Buses
 Bus
 Brainstorming
 Bases
+Booleano
 XY
 HEAD
 Hay

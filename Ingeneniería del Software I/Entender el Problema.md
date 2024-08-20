@@ -47,16 +47,16 @@ Se intenta abrir el foco en la parte de empatizar para luego definir en l de ide
 ##### POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Porque...Insight
 
-Juan(usuario) necesia una tarjeta de debito bancaria(necesita) porque no pernentece al sistema financiero y solo tiene efectivo(problema) porque podra hacer compras por internet que viene postergando(insight)
+Juan(usuario) necesita una tarjeta de debito bancaria(necesita) porque no pertenece al sistema financiero y solo tiene efectivo(problema) porque podrá hacer compras por internet que viene postergando(insight)
 
 ##### Brainstorming:
-- Toda critica esta prohibida (no juzgar). tanto ajenas como autocensura. Las ideas se evaluan mas adelante
-- Toda idea es bienvenida. Aun las mas falopas e inaplicables, no sabems 
+- Toda critica esta prohibida (no juzgar). tanto ajenas como autocensura. Las ideas se evalúan mas adelante
+- Toda idea es bienvenida. Aun las mas falopas e inaplicables, no sabemos que otra idea puede disparar
 - Tantas ideas como sea posible
-- Desarrollo y asociación de ideas es deseable
+- Desarrollo y asociación de ideas es deseable. Compartir y generar nuevas en base a las ya propuestas
 
 Permite 
-- Liberar al creativididad del equpo
+- Liberar al creatividad del equipo
 - generar un gran numero de ideas
 - involucrar oportunidades para mejorar
 - plantear soluciones alternativas

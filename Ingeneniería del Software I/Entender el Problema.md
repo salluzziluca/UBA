@@ -26,8 +26,8 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 #### Desing Thinking
 Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrado en el usuario
 
-1. Empatizar (explorar el contexto): Profunda compresion de las necesidades (investigacion cuali/cuantitativa)
-2. definir (detectar oportunidades): patrones de conducta, insights, oportunidades de innovación
+1. Empatizar (explorar el contexto): Profunda compresion de las necesidades (investigacion cuali/cuantitativa). Entrevistas con usuarios, mapa de empatia, observacion directa (shadowning), mapas de actores, customer journeys
+2. definir (detectar oportunidades): patrones de conducta, insights, oportunidades de innovación. POV
 3. Idear (proponer solución según contexto y necesidades): pensamiento lateral y creativo, Brainstorming
 4. Prototipar (seleccionar la idea con la mejor propuesta de valor y prototiparla): Bocetos, maquetas, pitch, storyboard, blueprint
 5. testear (hacemos parte al user): co-creamos en base a la prueba y error
@@ -44,7 +44,7 @@ Se intenta abrir el foco en la parte de empatizar para luego definir en l de ide
 - mejora empatia en la cultura empresarial
 - se obtienen resutlados tangibles y consistentes
 
-POV:
+##### POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight
 
 Juan(usuario) necesia una tarjeta de debito bancaria(necesita) porque no pernentece al sistema financiero y solo tiene efectivo(problema) porque podra hacer compras por internet que viene postergando(insight)

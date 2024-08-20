@@ -3,4 +3,7 @@
 [[Mary & Pipping]]
 [[Scheduling]]
 [[Maquinas Virtuales]]
-[[Taller de Programación/Concurrencia|Concurrencia]]
+[[Sistemas Operativos/Concurrencia|Concurrencia]]
+[[De Programa a Proceso]]
+[[Modo Protegido x86]]
+[[Parcial]]

@@ -6,3 +6,6 @@ Las bases de datos tradicionales almacenan datos de texto o numéricos, que pued
 
 ## Bases de datos no tradicionales
 Actualmente, las bases de datos también almacenan [[tipos de datos]] más complejos como imágenes, audio, video, o datos geoespaciales
+
+---
+[[Sistemas de Gestion de Bases de Datos]]

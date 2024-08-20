@@ -342,6 +342,7 @@ comer
 compras
 critica
 cticas
+complejos
 de
 dispositivos
 del
@@ -573,6 +574,8 @@ globales
 generar
 grupo
 gente
+genes
+geoespaciales
 especifico
 entra
 en
@@ -779,6 +782,7 @@ entregando
 eempatia
 empatizar
 efectivo
+enunciarse
 servicios
 son
 su
@@ -1198,6 +1202,8 @@ podra
 postergando
 prohibida
 ponernos
+proposiciones
+predicado
 la
 las
 le
@@ -1509,6 +1515,7 @@ apuntando
 acompa
 abrir
 anza
+audio
 hardware
 heap
 hay
@@ -1940,6 +1947,7 @@ realizas
 resuelve
 rentable
 rototipr
+ricos
 operacion
 orden
 operaciones
@@ -2070,6 +2078,7 @@ nuestra
 nuestras
 nnovaoras
 necesia
+num
 via
 vuelve
 viven
@@ -2152,6 +2161,7 @@ validar
 valioso
 vuelta
 viene
+video
 Application
 API
 Asigna
@@ -2205,6 +2215,7 @@ Aument
 Aclaraci
 Archivos
 Agradeciendole
+Actualmente
 Programming
 Procesos
 Partes
@@ -2276,6 +2287,7 @@ Protoitipar
 POV
 Problema
 Priemera
+Predicado
 Interface
 ID
 Instructions
@@ -2593,6 +2605,9 @@ termina
 tengamos
 testear
 tarjeta
+tradicionales
+texto
+tipificarse
 inico
 interna
 infro
@@ -2739,6 +2754,7 @@ idear
 internet
 insight
 interrelacionados
+im
 fijo
 file
 fork
@@ -2979,6 +2995,7 @@ Trata
 Thinking
 Toda
 Tantas
+Tradicionales
 Realiza
 REgistrys
 Rango
@@ -3090,6 +3107,7 @@ bola
 bancaria
 bienvenida
 boludo
+bases
 will
 words
 with
@@ -3177,6 +3195,7 @@ Back
 Buses
 Bus
 Brainstorming
+Bases
 XY
 HEAD
 Hay

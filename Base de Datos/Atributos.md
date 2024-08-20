@@ -14,3 +14,4 @@ En ciertos casos se le puede asignar el valor nulo o NULL al atributo.
 
 ## Atributos complejos 
 ![[Pasted image 20240820195650.png]]
+## Atributos almacenados vs derivados

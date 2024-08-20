@@ -2,11 +2,12 @@ Los clientes no pueden hacer el diseño por nosotros, pero pueden mostrarnos los
 
 Hay que detectar los ==puntos de dolor==, a que le dan mas bola. 
 Establecer objetivos
-Definir alguna métrica que indique  la resolución de ese punto de dolor u objetivo. Hacer que lo que quiero resolver sea medible.
+Tratar de definir alguna métrica que indique que se resuelve dicho punto de dolor o cumple con el objetivo. Hacer que lo que quiero resolver sea medible.
 
 
 Es importante ==validar nuestras suposiciones==. Si lo que creemos que la gente necesita de verdad va a influir y cambiar algo o si es un enamoramiento nuestro
-Dedicar tiempo a saber si sera realmente util y valioso
+Dedicar tiempo a saber si sera realmente util y valioso.
+Ver si es un problema real.
 
 #### Product Discovery 
 Entender el problema nos permite seleccionar que es mas importante y valioso para los usuarios.  Se van entregando todas cosas con valor que vayan funcionando y se va iterando.

@@ -1,1 +1,1 @@
-Un dato es un hecho que puede ser respresntado y almacenado de alguna forma, y que tiene un senti
+Un dato es un hecho que puede ser representado y almacenado de alguna forma, y que tiene un sentido implícito

@@ -26,13 +26,13 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 #### Desing Thinking
 Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrado en el usuario
 
-1. Empatizar
+1. Empatizar (explorar el contexto): 
 2. definir
 3. Idear
 4. Prototipar
 5. testear
 ![[Pasted image 20240820103002.png]]
-Se itenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrolladorar y rototipr
+Se intenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrollar y prototipar para luego converger de nuevo en el testeo
 
 
 POV:

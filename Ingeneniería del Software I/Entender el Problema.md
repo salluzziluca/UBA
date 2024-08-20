@@ -34,6 +34,10 @@ Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrad
 ![[Pasted image 20240820103002.png]]
 Se intenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrollar y prototipar para luego converger de nuevo en el testeo
 
+##### Beneficios de Desing Thinking
+- Reduce riesgo
+- mejora calidad
+- 
 
 POV:
 Enmarcar bien los problemas en oraciones predefinidas. Usuario...Necesita...Problema...Insight

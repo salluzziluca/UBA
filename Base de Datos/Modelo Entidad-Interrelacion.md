@@ -9,4 +9,6 @@ ej: futbolista. Messi es una instancia del tipo de entidad futbolista
 Una propiedad que describe a la entidad
 Futbolista-> Club
 
-##
+## Tipo de interrelacion:
+es la definicion de un conjunto de relaciones o asociaciones similares entre os o mas tipos de entidades.
+Ej: Futbolista nacio en Pais

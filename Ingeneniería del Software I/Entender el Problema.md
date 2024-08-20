@@ -21,17 +21,17 @@ Entender el problema nos permite seleccionar que es mas importante y valioso par
 ##### Prácticas y Tecnicas del Product Discovery
 - Entrevistas a clientes
 - Customers Journeys (cuando un user entra al cine saca la entrada, ve de comprar algo para comer, entra a la sala...)
-- Mapa de empatia
+- Mapa de empatía
 
 #### Desing Thinking
-Metodo para generar ideas nnovaoras. Multidisciplinario
+Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrado en el usuario
 
 1. Empatizar
 2. definir
 3. Idear
-4. Protoitipar
+4. Prototipar
 5. testear
-![[Pasted image 20240819200001.png]]
+![[Pasted image 20240820103002.png]]
 Se itenta abrir el foco en la parte de empatizar para luego definir en l de idear y y abrir de vuelta a la hora de desarrolladorar y rototipr
 
 

@@ -28,7 +28,7 @@ Método para generar ideas innovadoras. Multidisciplinario, innovativo y centrad
 
 1. Empatizar (explorar el contexto): Profunda compresion de las necesidades (investigacion cuali/cuantitativa)
 2. definir (detectar oportunidades): patrones de conducta, insights, oportunidades de innovacion
-3. Idear (proponer solucion segun contexto y necesidades): pensamiento lateral y creati
+3. Idear (proponer solucion segun contexto y necesidades): pensamiento lateral y creativo, Brainstorming
 4. Prototipar
 5. testear
 ![[Pasted image 20240820103002.png]]

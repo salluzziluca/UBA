@@ -669,6 +669,8 @@ describe
 definici
 diccionario
 defecto
+determinado
+denomina
 gestion
 gran
 guarda
@@ -2503,6 +2505,7 @@ ocupada
 outer
 outlier
 opcional
+ocurrencias
 nombre
 nuevo
 nica

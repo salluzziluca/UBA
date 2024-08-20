@@ -1,0 +1,1 @@
+Atributo que permite distinguir entre [[entidades]] dentro de un [[conjunto de entidades]]

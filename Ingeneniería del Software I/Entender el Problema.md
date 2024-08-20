@@ -1,4 +1,4 @@
-Los clientes no pueden hacer el diseño por nosotros, pero pueden mostrarnos los problemas que tienen. Hay que entender bien antes de ponerse a codear
+Los clientes no pueden hacer el diseño por nosotros, pero pueden mostrarnos los problemas que tienen. Hay que entender bien antes de ponerse a codear. No podemos construir lo primero que se nos ocurre
 
 Hay que detectar los ==puntos de dolor==, a que le dan mas bola. 
 Establecer objetivos

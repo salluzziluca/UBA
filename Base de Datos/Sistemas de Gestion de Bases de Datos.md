@@ -11,8 +11,9 @@ Es la propiedad del SGBD consistente en que cambios en la estructura de la [[bas
 ## Funciones de los SGBDs
 -  Almacenamiento y consulta: Estructuras efiicientes y un lenguaje de consulta
 - Integridad: Asegurar al integridad de los datos a traves de restricciones
-- seguridadConcurrencia
-- Recuperación
+- seguridad: evitar accesos no autorizados
+- Concurrencia: Permitir acceso en simultaneo de muchos usuarios
+- Recuperación; Ofrecer herramientas para la recuperacion ante fallas
 - Soportre transaccional
 
 

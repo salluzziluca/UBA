@@ -412,6 +412,7 @@ columna
 conviene
 cmplejidad
 consulta
+cvn
 de
 dispositivos
 del
@@ -666,6 +667,8 @@ desviados
 descargas
 describe
 definici
+diccionario
+defecto
 gestion
 gran
 guarda
@@ -1463,6 +1466,8 @@ paga
 podria
 previos
 planteado
+pensarlo
+particulares
 la
 las
 le
@@ -1839,6 +1844,7 @@ app
 avanzado
 autorizados
 asociaciones
+asignados
 hardware
 heap
 hay
@@ -1980,6 +1986,7 @@ ultima
 unico
 unir
 unstack
+uaaqdefrtgftn
 System
 Son
 Source
@@ -2157,6 +2164,7 @@ Concurrencia
 Conjunto
 Chen
 Club
+Class
 Es
 El
 Estos
@@ -2413,6 +2421,7 @@ reentrega
 recuperacion
 resprenta
 relaciones
+reescrito
 operacion
 orden
 operaciones
@@ -2735,6 +2744,8 @@ AVA
 AVE
 Almacenamiento
 Asegurar
+Atributos
+Asignaci
 Programming
 Procesos
 Partes
@@ -2824,6 +2835,7 @@ Pregunta
 Permitir
 Propusto
 Pais
+Pueden
 Interface
 ID
 Instructions
@@ -3063,6 +3075,8 @@ matrices
 machine
 manipualr
 modelado
+mm
+magico
 tien
 tiene
 todos
@@ -3209,6 +3223,7 @@ takeOrderer
 tabular
 tps
 transaccional
+tendra
 inico
 interna
 infro
@@ -3384,6 +3399,7 @@ inncesarios
 integridad
 interrelaciones
 interrelaci
+iterar
 fijo
 file
 fork

@@ -671,6 +671,7 @@ diccionario
 defecto
 determinado
 denomina
+distinguir
 gestion
 gran
 guarda
@@ -2749,6 +2750,7 @@ Almacenamiento
 Asegurar
 Atributos
 Asignaci
+Atributo
 Programming
 Procesos
 Partes

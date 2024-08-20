@@ -7,3 +7,5 @@
 [[De Programa a Proceso]]
 [[Modo Protegido x86]]
 [[Parcial]]
+[[Memoria]]
+[[Sistemas Operativos/File System|File System]]

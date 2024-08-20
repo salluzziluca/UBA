@@ -403,6 +403,9 @@ clone
 correr
 causando
 condici
+comunes
+cachear
+collect
 de
 dispositivos
 del
@@ -1425,6 +1428,7 @@ preentive
 peleando
 probablemente
 posteriormente
+poquitos
 la
 las
 le
@@ -1792,6 +1796,8 @@ aplicaci
 asocia
 alloca
 attach
+acciones
+accion
 hardware
 heap
 hay
@@ -2166,6 +2172,7 @@ EXIT
 kernel
 kerne
 kbytes
+key
 realice
 realicen
 resolve
@@ -2963,6 +2970,8 @@ marcaban
 motivo
 manten
 magia
+maps
+muuuuuuy
 tien
 tiene
 todos
@@ -3105,6 +3114,7 @@ transici
 tasks
 trace
 terminado
+takeOrderer
 inico
 interna
 infro
@@ -3276,6 +3286,7 @@ incluye
 interrumpible
 ininterrupci
 iene
+inncesarios
 fijo
 file
 fork
@@ -3787,6 +3798,7 @@ juzgar
 justa
 juntaron
 juegan
+justo
 Ya
 Yourself
 YAGNI
@@ -3804,6 +3816,7 @@ GRIAL
 Group
 General
 GID
+GroupByKey
 BX
 Bit
 Box

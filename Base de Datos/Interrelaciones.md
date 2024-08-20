@@ -16,3 +16,6 @@ Estas tambien pueden tener [[Base de Datos/Atributos|atributos]]
 
 ## Restricciones de Participacion 
 Tambien debemos identificar los [[atributos clave]]. Sólo pueden formar parte de los atributos clave de una interrelación los atributos clave de los tipos de entidad que participan de la misma.
+
+![[Pasted image 20240820204048.png]]
+Tanto el legajo como el codigo son atributos calves de las dos entidades 

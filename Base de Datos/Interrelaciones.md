@@ -7,3 +7,8 @@ Futbolista tiene una ==participación total== (todos los futbolistas nacieron en
 País tiene una ==participación parcial== (en el vaticano no nació ningún futbolista)
 
 Las cardinalidades posibles son 1:1, 1:N, N:1, N:M
+
+--- 
+
+## [[Base de Datos/Atributos|Atributos]] de las interrelaciones 
+Estas tamb

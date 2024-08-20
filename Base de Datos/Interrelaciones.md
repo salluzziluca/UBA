@@ -1,0 +1,1 @@
+La aridad o grado es un a mierddda

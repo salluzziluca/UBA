@@ -1,1 +1,1 @@
-A vece 
+A veces la Identificacion de una entidaed depende de su interrelacion con otra entidad a lacual está subordinada. 

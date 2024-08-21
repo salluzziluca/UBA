@@ -425,6 +425,8 @@ cantida
 concreta
 cardinalidades
 calves
+conunto
+cadena
 de
 dispositivos
 del
@@ -685,6 +687,12 @@ determinado
 denomina
 distinguir
 discriminante
+docentes
+docente
+disjunta
+distinguirlas
+dominio
+derivados
 gestion
 gran
 guarda
@@ -977,6 +985,7 @@ entidaed
 evaluados
 englobar
 escribi
+estructuras
 servicios
 son
 su
@@ -1194,6 +1203,13 @@ semantico
 similares
 subordinada
 subrayados
+superpuesta
+subconceptos
+subtipos
+supetipo
+servir
+superficie
+sem
 par
 por
 punto
@@ -1498,6 +1514,9 @@ participacion
 pa
 participaci
 parcial
+personas
+poblaci
+perciben
 la
 las
 le
@@ -1882,6 +1901,10 @@ algunos
 aparecer
 agregacion
 aridad
+alumnos
+abarca
+atributyo
+abstray
 hardware
 heap
 hay
@@ -2275,6 +2298,7 @@ EXIT
 Entidad
 Ejemplo
 Especializacion
+Esos
 kernel
 kerne
 kbytes
@@ -2552,6 +2576,8 @@ outlier
 opcional
 ocurrencias
 organizan
+obligado
+organizaciones
 nombre
 nuevo
 nica
@@ -2630,6 +2656,7 @@ necesite
 nuestros
 naci
 nacieron
+ntica
 via
 vuelve
 viven
@@ -2965,6 +2992,7 @@ Unsigned
 UN
 UID
 UNINTERRUTPIBLE
+Union
 modo
 mode
 menso
@@ -3135,6 +3163,9 @@ mm
 magico
 medico
 maxima
+minimal
+multivaluados
+multivaluado
 tien
 tiene
 todos
@@ -3688,6 +3719,9 @@ DEAD
 DataFrames
 DVS
 Debil
+Dominio
+Depende
+Describe
 Memoria
 Multivariada
 MORE
@@ -3736,6 +3770,8 @@ Mode
 Merge
 Machine
 Messi
+Monovaluados
+Modelo
 Table
 Todos
 This
@@ -3842,6 +3878,7 @@ Run
 RUNNING
 Recuperaci
 Restricciones
+Representa
 bien
 by
 be

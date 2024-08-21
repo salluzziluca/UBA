@@ -1,1 +1,1 @@
-Entidad cuya 
+> Entidad cuya identificación depende de su interrelación con otra entidad

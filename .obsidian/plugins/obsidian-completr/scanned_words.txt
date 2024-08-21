@@ -960,6 +960,7 @@ explote
 espectral
 efiicientes
 entidades
+entidaed
 servicios
 son
 su
@@ -1175,6 +1176,7 @@ simultaneo
 sorbe
 semantico
 similares
+subordinada
 par
 por
 punto
@@ -1592,6 +1594,7 @@ lleguen
 liberado
 labura
 learning
+lacual
 agnosticos
 apps
 al
@@ -1906,6 +1909,9 @@ homonimos
 han
 how
 heatmap
+habitacion
+habtiaciones
+hotel
 que
 queda
 quien
@@ -3405,6 +3411,8 @@ integridad
 interrelaciones
 interrelaci
 iterar
+interrelacion
+identificar
 fijo
 file
 fork
@@ -3620,6 +3628,7 @@ Durmiendo
 DEAD
 DataFrames
 DVS
+Debil
 Memoria
 Multivariada
 MORE

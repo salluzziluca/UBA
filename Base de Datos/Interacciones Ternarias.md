@@ -16,4 +16,4 @@ El disño anterior no nos permite registrar cantantes en rondas si no fueron eva
 
 ## Generaliazacion y Especializacion 
 Es basicamente [[2.7 Herencia|herencia]] 
-![[Pasted image 20240820213900.png]]
+![[Pasted image 20240820213921.png]]

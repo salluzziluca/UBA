@@ -21,7 +21,5 @@ Si es total, todas las personas tienen que ser alumnos o docentes. De lo contrar
 Si es superpuesta, puede haber personas que sean alumnos y docente. SI es disjunta, no. 
 
 ## Union 
-En la unión también tenemos un tipo de entidad padre y distintos subtipos de entidad.
-Pero ahora el tipo de entidad padre es subclase de los subtipos de entidad (que son la superclase). 
-Esto implicará que los identificadores estarán en los subtipos de entidad, mientras que el tipo de entidad padre incorporará nuevos atributos. 
-Las instancias del tipo de entidad padre deben corresponderse con a lo sumo una instancia de los subtipos de entidad.
+Un concepto abarca a dos subconceptos. 
+![[Pasted image 20240820214741.png]]

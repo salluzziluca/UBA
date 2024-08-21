@@ -13,3 +13,6 @@ Fuhi cantante y jurado: Un jurado puede puntuar al mismo jugador durante varias 
 ## Agregación
 El disño anterior no nos permite registrar cantantes en rondas si no fueron evaluados por ningun jurado. Para esto puedo crear una agregacion "participacion. Es decir, en este caso, englobar la participacion del cantante
 ![[Pasted image 20240820213454.png]]
+
+## Generaliazacion y Especializacion 
+Es basicamente [[herenc]]

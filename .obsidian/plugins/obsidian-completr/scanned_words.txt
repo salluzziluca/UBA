@@ -672,6 +672,7 @@ defecto
 determinado
 denomina
 distinguir
+discriminante
 gestion
 gran
 guarda
@@ -3415,6 +3416,8 @@ iterar
 interrelacion
 identificar
 identificaci
+identidad
+identificadora
 fijo
 file
 fork

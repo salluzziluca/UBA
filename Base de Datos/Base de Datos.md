@@ -9,3 +9,5 @@ Actualmente, las bases de datos también almacenan [[tipos de datos]] más compl
 
 ---
 [[Sistemas de Gestion de Bases de Datos]]
+[[Modelo Entidad-Interrelacion]]
+[[Modelo Entidad-Interrelación Avanzado]]

@@ -420,6 +420,11 @@ cantantes
 calificados
 cardinalidad
 cantante
+coparticipan
+cantida
+concreta
+cardinalidades
+calves
 de
 dispositivos
 del
@@ -971,6 +976,7 @@ entidades
 entidaed
 evaluados
 englobar
+escribi
 servicios
 son
 su
@@ -1489,6 +1495,9 @@ participantes
 puntuar
 puntajes
 participacion
+pa
+participaci
+parcial
 la
 las
 le
@@ -1872,6 +1881,7 @@ aquellas
 algunos
 aparecer
 agregacion
+aridad
 hardware
 heap
 hay
@@ -2457,6 +2467,8 @@ reescrito
 rondas
 ronda
 registrar
+relacionarse
+rstantes
 operacion
 orden
 operaciones
@@ -2617,6 +2629,7 @@ necesitaba
 necesite
 nuestros
 naci
+nacieron
 via
 vuelve
 viven
@@ -2716,6 +2729,8 @@ visi
 verdadera
 viceversa
 vistas
+vincular
+vaticano
 Application
 API
 Asigna
@@ -2875,6 +2890,8 @@ Permitir
 Propusto
 Pais
 Pueden
+Pa
+Participacion
 Interface
 ID
 Instructions
@@ -3117,6 +3134,7 @@ modelado
 mm
 magico
 medico
+maxima
 tien
 tiene
 todos
@@ -3545,6 +3563,7 @@ factorizacion
 fallas
 futbolista
 fijadas
+futbolistas
 Nombre
 Notas
 Not
@@ -3769,6 +3788,7 @@ Tienen
 TASK
 TRACED
 Teoricas
+Tanto
 Realiza
 REgistrys
 Rango

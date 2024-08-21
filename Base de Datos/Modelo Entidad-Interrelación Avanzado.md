@@ -5,3 +5,5 @@ El numero es un _discriminante_. La clave de la entidad depende de la clave de s
 
 ![[Pasted image 20240820211714.png]]
 Una visita solo tiene fecha, para identificarlas hay que utilizar el Numero de historia clinica + fecha + legajo del medico.
+
+![[Interacciones Ternarias]]

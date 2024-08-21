@@ -413,6 +413,7 @@ conviene
 cmplejidad
 consulta
 cvn
+clinica
 de
 dispositivos
 del
@@ -1597,6 +1598,7 @@ liberado
 labura
 learning
 lacual
+legajo
 agnosticos
 apps
 al
@@ -3090,6 +3092,7 @@ manipualr
 modelado
 mm
 magico
+medico
 tien
 tiene
 todos
@@ -3418,6 +3421,7 @@ identificar
 identificaci
 identidad
 identificadora
+identificarlas
 fijo
 file
 fork
@@ -3533,6 +3537,7 @@ Normalmente
 Necesita
 Num
 NECESARIOS
+Numero
 File
 For
 Funcion

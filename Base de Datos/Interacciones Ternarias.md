@@ -17,5 +17,5 @@ El disño anterior no nos permite registrar cantantes en rondas si no fueron eva
 ## Generaliazacion y Especializacion 
 Es basicamente [[2.7 Herencia|herencia]] 
 ![[Pasted image 20240820213921.png]]
-Si es total, todas las personas tienen que ser alumnos o docentes. 
-Si es superpuesta, puede haber personas que sean alumnos y docentes
+Si es total, todas las personas tienen que ser alumnos o docentes. De lo contrario es parcial.
+Si es superpuesta, puede haber personas que sean alumnos y docente. SI es disjunta, no. 

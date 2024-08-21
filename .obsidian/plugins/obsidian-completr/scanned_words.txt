@@ -969,6 +969,8 @@ espectral
 efiicientes
 entidades
 entidaed
+evaluados
+englobar
 servicios
 son
 su
@@ -1486,6 +1488,7 @@ participan
 participantes
 puntuar
 puntajes
+participacion
 la
 las
 le
@@ -1868,6 +1871,7 @@ asignados
 aquellas
 algunos
 aparecer
+agregacion
 hardware
 heap
 hay
@@ -2260,6 +2264,7 @@ Est
 EXIT
 Entidad
 Ejemplo
+Especializacion
 kernel
 kerne
 kbytes
@@ -2451,6 +2456,7 @@ relaciones
 reescrito
 rondas
 ronda
+registrar
 operacion
 orden
 operaciones
@@ -4000,6 +4006,7 @@ General
 GID
 GroupByKey
 Gradescope
+Generaliazacion
 BX
 Bit
 Box

@@ -22,4 +22,5 @@ Si es superpuesta, puede haber personas que sean alumnos y docente. SI es disjun
 
 ## Union 
 Un concepto abarca a dos subconceptos. 
+No estoy obligado a que todos los subtipos sean parte del supetipo
 ![[Pasted image 20240820214741.png]]

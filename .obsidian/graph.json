@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path: \"Sistemas Operativos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9371705
+      }
+    },
+    {
+      "query": "path: \"Base de Datos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 347094
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4707379090915173,
-  "close": true
+  "scale": 0.1708248414605737,
+  "close": false
 }

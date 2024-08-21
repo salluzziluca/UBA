@@ -8,3 +8,6 @@ Aquí la cardinalidad de un tipo entidad determina la cantidad de instancias de 
 Fijo jurado y ronda. Un jurado puede puntuar a N jugadores en una ronda.
 Fijo ronda y cantante. En una ronda un cantante puede tener puntajes de N jurados
 Fuhi cantante y jurado: Un jurado puede puntuar al mismo jugador durante varias rondas.
+
+
+## Agregaci

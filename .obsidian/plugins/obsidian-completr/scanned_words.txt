@@ -414,6 +414,12 @@ cmplejidad
 consulta
 cvn
 clinica
+concurso
+canto
+cantantes
+calificados
+cardinalidad
+cantante
 de
 dispositivos
 del
@@ -1476,6 +1482,10 @@ previos
 planteado
 pensarlo
 particulares
+participan
+participantes
+puntuar
+puntajes
 la
 las
 le
@@ -1855,6 +1865,9 @@ avanzado
 autorizados
 asociaciones
 asignados
+aquellas
+algunos
+aparecer
 hardware
 heap
 hay
@@ -2246,6 +2259,7 @@ Estados
 Est
 EXIT
 Entidad
+Ejemplo
 kernel
 kerne
 kbytes
@@ -2435,6 +2449,8 @@ recuperacion
 resprenta
 relaciones
 reescrito
+rondas
+ronda
 operacion
 orden
 operaciones
@@ -2517,6 +2533,7 @@ outer
 outlier
 opcional
 ocurrencias
+organizan
 nombre
 nuevo
 nica
@@ -2761,6 +2778,7 @@ Asegurar
 Atributos
 Asignaci
 Atributo
+Aqu
 Programming
 Procesos
 Partes
@@ -3240,6 +3258,8 @@ tabular
 tps
 transaccional
 tendra
+tem
+ticas
 inico
 interna
 infro
@@ -3422,6 +3442,7 @@ identificaci
 identidad
 identificadora
 identificarlas
+inscriben
 fijo
 file
 fork
@@ -3517,6 +3538,7 @@ fila
 factorizacion
 fallas
 futbolista
+fijadas
 Nombre
 Notas
 Not
@@ -3563,6 +3585,8 @@ Fidelidad
 Formato
 FDT
 Futbolista
+Fijo
+Fuhi
 Descriptors
 Descriptor
 Devuelve
@@ -3953,6 +3977,10 @@ justa
 juntaron
 juegan
 justo
+jurados
+jurado
+jugadores
+jugador
 Ya
 Yourself
 YAGNI

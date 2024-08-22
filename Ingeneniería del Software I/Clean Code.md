@@ -18,3 +18,5 @@ Usar nombres buscables
 
 
 #### Notaciones
+no hace falta usar prefijos de miembros
+![[Pasted image 20240822194302.png]]

@@ -33,6 +33,7 @@ LA
 Legibilidad
 LSP
 Liskov
+Leer
 capa
 controlado
 cantidad
@@ -352,6 +353,9 @@ cerrado
 crearse
 clientes
 cosa
+cerrar
+cobertura
+calidad
 de
 dispositivos
 del
@@ -541,6 +545,8 @@ dejalo
 dejarlo
 derivar
 detalles
+descriptivos
+descriptivamente
 gestion
 gran
 guarda
@@ -781,6 +787,7 @@ exitosa
 encontr
 extension
 especificas
+escribir
 servicios
 son
 su
@@ -1179,6 +1186,9 @@ pronunciables
 prefijos
 periodico
 pocos
+prueba
+pruebasunico
+proyecto
 la
 las
 le
@@ -1276,6 +1286,7 @@ logro
 lindo
 largo
 leer
+llave
 agnosticos
 apps
 al
@@ -1494,6 +1505,8 @@ aprox
 abierto
 alterar
 abstraccion
+aislados
+assert
 hardware
 heap
 hay
@@ -1613,6 +1626,7 @@ uniendo
 ultima
 util
 unico
+unitarios
 System
 Son
 Source
@@ -1678,6 +1692,7 @@ SRP
 Single
 Substitution
 Segregation
+Self
 Calls
 Cmabia
 CPU
@@ -1743,6 +1758,7 @@ Comparamos
 Claridad
 Cumple
 Closed
+CONCHA
 Es
 El
 Estos
@@ -1791,6 +1807,7 @@ Ejemplo
 Entrega
 Especifica
 Evitar
+Excepciones
 kernel
 kruskal
 realice
@@ -1936,6 +1953,7 @@ revelen
 retrieve
 rompe
 ramifique
+rpueba
 operacion
 orden
 operaciones
@@ -2056,6 +2074,7 @@ nombres
 numerados
 nima
 nuevos
+novela
 via
 vuelve
 viven
@@ -2283,6 +2302,7 @@ Indica
 Indique
 ISP
 Inversion
+Independent
 Un
 UNIX
 UBA
@@ -2440,6 +2460,7 @@ motivo
 modificarla
 modificaci
 modularizar
+mide
 tien
 tiene
 todos
@@ -2565,6 +2586,7 @@ trata
 tomando
 tecnica
 tocar
+tests
 inico
 interna
 infro
@@ -2690,6 +2712,7 @@ instanciar
 invertir
 intenci
 implementaciones
+imoprante
 fijo
 file
 fork
@@ -2762,6 +2785,7 @@ familias
 falta
 fileName
 flag
+faltantes
 Nombre
 Notas
 Not
@@ -2781,6 +2805,7 @@ Non
 Normalmente
 Nombres
 Notaciones
+Nombrar
 File
 For
 Funcion
@@ -2804,6 +2829,8 @@ FInalmente
 Floyd
 Factory
 Flexibilidad
+FORMATEA
+Fast
 Descriptors
 Descriptor
 Devuelve
@@ -2866,6 +2893,7 @@ Deuda
 Deben
 DIP
 Dependency
+DE
 Memoria
 Multivariada
 MORE
@@ -2897,6 +2925,7 @@ Miss
 Multinivel
 Method
 Mantenibilidad
+MADRE
 Table
 Todos
 This
@@ -2929,6 +2958,9 @@ Through
 Teoria
 Tipo
 Tenemos
+TU
+Test
+Timely
 Realiza
 REgistrys
 Rango
@@ -2973,6 +3005,7 @@ Recorriendo
 Recursos
 Responsibility
 Recibir
+Repeatable
 bien
 by
 be
@@ -3048,6 +3081,7 @@ bici
 boy
 buscables
 booleano
+boock
 will
 words
 with
@@ -3080,6 +3114,7 @@ Variaciones
 Visitados
 VISITADO
 Volvemos
+Validating
 OPTIONS
 Operativos
 Orden
@@ -3123,6 +3158,7 @@ Gunner
 GRIAL
 Grafos
 Garantiza
+Grady
 BX
 Bit
 Box

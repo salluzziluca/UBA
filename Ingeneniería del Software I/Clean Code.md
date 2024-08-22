@@ -37,4 +37,4 @@ Evitar el switch: rompe el [[4.1 SOLID#S SRP (Single Responsibility Principle)|S
 Recibir pocos argumentos. Uno es bueno, cero es mejor`
  `writeFile(fileName)`
 
-No tener un booleano que te ramifique el co
+No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pasted image 20240822195640.png]]

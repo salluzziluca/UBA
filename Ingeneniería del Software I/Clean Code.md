@@ -24,4 +24,6 @@ no hace falta usar prefijos de miembros
 Usar un concepto por nombre (get, retrieve). Usar los nombres del 
 
 #### Funciones
-D
+Deben tener 8 lineas aprox por funcion 
+
+Cumple con el [[4.0 Principios de Diseño#]]

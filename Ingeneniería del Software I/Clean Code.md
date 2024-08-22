@@ -44,7 +44,10 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 - [[2.6 Abstracción#Principle of least astonishment|Principle of least astonishment]]
 
 ## Comentarios
+
+Usarlos como una herramienta mas, 
 ![[Pasted image 20240822200430.png]]
+- Legal (derechos reservados, etc)
 -  Informativos (dan contexto o explican cosas necesarias)
 - Explicacion de un aintencion (el por que se hace asi)
 - Advertencias de consecuencias
@@ -53,3 +56,6 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 Redundancia
 Comentarios erroneos (pueden conducir a errores)
 Comentarios obligatorios (no siempre es necesario comentar)
+Ruido 
+Marcadores de posicion `******`
+Al cerrar una llave (ya no es necesario=)

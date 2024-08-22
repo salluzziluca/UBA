@@ -10,4 +10,6 @@ Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor
 Siempre simpleza antes de complejidad
 
 ### Claridad 
-### Flexibi
+### Flexibilidad
+
+### Legibilidad

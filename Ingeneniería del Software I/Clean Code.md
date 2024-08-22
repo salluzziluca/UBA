@@ -75,4 +75,10 @@ Self-Validating
 Timely 
 
 - casos de prueba aislados
-- Una sola cosa en un solo caso de pruebasunico metodo de assert por c
+- Una sola cosa en un solo caso de pruebasunico metodo de assert por caso de rpueba
+
+
+
+
+No hay nada mas imoprante que escribir codigo de calidad para el exito de un proyecto
+Leer codigo deberia ser como leer una novela - Grady boock 

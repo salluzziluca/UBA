@@ -46,4 +46,5 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 ## Comentarios
 ![[Pasted image 20240822200430.png]]
 
-#### Advertencias de consecuencias 
+- Advertencias de consecuencias
+- Ampliar informacion

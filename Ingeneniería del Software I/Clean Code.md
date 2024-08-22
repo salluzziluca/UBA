@@ -67,4 +67,12 @@ Al cerrar una llave (ya no es necesario)
 ## Excepciones
 
 
-## Tes
+## Test unitarios 
+Fast
+Independent
+Repeatable
+Self-Validating
+Timely 
+
+- casos de prueba aislados
+- Una sola cosa en un solo caso de pruebasunico metodo de assert por c

@@ -45,7 +45,8 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 
 ## Comentarios
 ![[Pasted image 20240822200430.png]]
-
+-  Informativos (dan contexto o explican cosas necesarias)
+- Explicacion de un aintencion (el por que se hace asi)
 - Advertencias de consecuencias
 - Ampliar informacion
 ##### Malas practicass

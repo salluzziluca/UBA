@@ -48,3 +48,7 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 
 - Advertencias de consecuencias
 - Ampliar informacion
+##### Malas practicass
+Redundancia
+Comentarios erroneos (pueden conducir a errores)
+Comentarios obligatorios (no siempre es necesario comentar)

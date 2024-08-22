@@ -12,4 +12,5 @@ Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor
 ## Recursos 
 
 #### Nombres significativos y pronunciables
-Preferir nombres claros a comentarios. Preferible que sea larg
+Preferir nombres claros a comentarios. Preferible que sea largo a `d`.
+Usar nombres que revelen la intencion de esa variable

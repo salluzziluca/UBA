@@ -40,3 +40,5 @@ Recibir pocos argumentos. Uno es bueno, cero es mejor`
 No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pasted image 20240822195640.png]]
 
 - [[4.0 Principios de Diseño#DRY (Dont Repeat Yourself)|Dont Repeat Yourself]]
+
+- [[2.6 Abstracción#Principle of least astonishment]]

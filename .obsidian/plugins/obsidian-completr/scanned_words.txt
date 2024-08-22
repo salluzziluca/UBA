@@ -351,6 +351,7 @@ comentarios
 cerrado
 crearse
 clientes
+cosa
 de
 dispositivos
 del
@@ -1176,6 +1177,8 @@ prototipo
 prototype
 pronunciables
 prefijos
+periodico
+pocos
 la
 las
 le
@@ -1272,6 +1275,7 @@ logica
 logro
 lindo
 largo
+leer
 agnosticos
 apps
 al
@@ -1489,6 +1493,7 @@ acampe
 aprox
 abierto
 alterar
+abstraccion
 hardware
 heap
 hay
@@ -1785,6 +1790,7 @@ Embedded
 Ejemplo
 Entrega
 Especifica
+Evitar
 kernel
 kruskal
 realice
@@ -1928,6 +1934,8 @@ representaciones
 reutilizar
 revelen
 retrieve
+rompe
+ramifique
 operacion
 orden
 operaciones
@@ -2293,6 +2301,7 @@ User
 Uso
 Unificada
 Usar
+Uno
 modo
 mode
 menso
@@ -2751,6 +2760,8 @@ formarse
 fuesen
 familias
 falta
+fileName
+flag
 Nombre
 Notas
 Not
@@ -2961,6 +2972,7 @@ Recorridos
 Recorriendo
 Recursos
 Responsibility
+Recibir
 bien
 by
 be
@@ -3035,6 +3047,7 @@ builder
 bici
 boy
 buscables
+booleano
 will
 words
 with
@@ -3044,6 +3057,7 @@ wifi
 way
 web
 windows
+writeFile
 VA
 VIEW
 Volumen
@@ -3146,6 +3160,7 @@ Queue
 Quiere
 Qu
 Queremos
+Que
 ximo
 xito
 xitos

@@ -730,6 +730,7 @@ enunciado
 encara
 elige
 elegir
+edc
 servicios
 son
 su
@@ -1411,6 +1412,7 @@ agarro
 agrego
 agregamos
 armas
+ada
 hardware
 heap
 hay
@@ -1687,6 +1689,7 @@ Este
 Efficent
 Empezaria
 ENcuentra
+Embedded
 kernel
 kruskal
 realice
@@ -2879,6 +2882,7 @@ borde
 bola
 bolas
 bolitas
+bddf
 will
 words
 with

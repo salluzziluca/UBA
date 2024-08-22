@@ -49,13 +49,13 @@ Usarlos como una herramienta mas,
 ![[Pasted image 20240822200430.png]]
 - Legal (derechos reservados, etc)
 -  Informativos (dan contexto o explican cosas necesarias)
-- Explicacion de un aintencion (el por que se hace asi)
+- Explicación de un aintencion (el por que se hace asi)
 - Advertencias de consecuencias
-- Ampliar informacion
-##### Malas practicass
+- Ampliar información
+##### Malas practicas
 Redundancia
 Comentarios erroneos (pueden conducir a errores)
 Comentarios obligatorios (no siempre es necesario comentar)
 Ruido 
 Marcadores de posicion `******`
-Al cerrar una llave (ya no es necesario=)
+Al cerrar una llave (ya no es necesario)

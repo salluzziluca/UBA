@@ -33,3 +33,6 @@ Un solo nivel de abstraccion por funcion
 Que se pueda leer de arriba hacia abajo (como un periodico)
 
 Evitar el switch: rompe el [[4.1 SOLID#S SRP (Single Responsibility Principle)|Single Responsibility Principle]]. Ya que cada camino hace una cosa diferente
+
+Recibir pocos argumentos. Uno es bueno, cero es mejor`
+ `write

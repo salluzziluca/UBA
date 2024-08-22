@@ -1,5 +1,5 @@
 # Instancias u Objetos
-Las intancias u objetos son, justamente, objetos de esa misma clase, se pueden crear tanto como se quiera y a cada uno asignarle los [[Atributos]] que se desee.
+Las intancias u objetos son, justamente, objetos de esa misma clase, se pueden crear tanto como se quiera y a cada uno asignarle los [[Algoritmos y Programación I/Atributos]] que se desee.
 
 ## Creación de un objeto
 ```py
@@ -24,6 +24,6 @@ class Item:
 	
 print(Item.all) #todos los objetos
 ```
-Esto tambien nos permite iterar entre [[Atributos|atributos]]
+Esto tambien nos permite iterar entre [[Algoritmos y Programación I/Atributos|atributos]]
 Tambien podemos utilizar el [[Magic Metods (Métodos Magicos)]] `__repr__`
 

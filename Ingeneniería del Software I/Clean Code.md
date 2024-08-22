@@ -20,3 +20,8 @@ Usar nombres buscables
 #### Notaciones
 no hace falta usar prefijos de miembros
 ![[Pasted image 20240822194302.png]]
+
+Usar un concepto por nombre (get, retrieve). Usar los nombres del 
+
+#### Funciones
+D

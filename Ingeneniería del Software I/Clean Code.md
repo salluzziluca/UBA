@@ -9,4 +9,6 @@ Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor
  - Claridad 
 - Flexibilidad
 - Legibilidad
-## 
+## Recursos 
+
+#### Nombres significativos y pronunciables

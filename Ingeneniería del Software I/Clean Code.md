@@ -44,3 +44,4 @@ No tener un booleano (flag) que te ramifique el codigo, usar dos funciones![[Pas
 - [[2.6 Abstracción#Principle of least astonishment|Principle of least astonishment]]
 
 ## Comentarios
+![[Pasted image 20240822200430.png]]

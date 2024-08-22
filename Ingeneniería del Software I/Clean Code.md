@@ -26,4 +26,5 @@ Usar un concepto por nombre (get, retrieve). Usar los nombres del
 #### Funciones
 Deben tener 8 lineas aprox por funcion 
 
-Cumple con el [[4.0 Principios de Diseño#]]
+Cumple con el [[4.1 SOLID#S SRP (Single Responsibility Principle)|Single Responsibility Principle]]
+Un solo nivel de abstraccion por funcion 

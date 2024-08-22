@@ -76,8 +76,9 @@ Timely
 
 - casos de prueba aislados
 - Una sola cosa en un solo caso de pruebasunico metodo de assert por caso de rpueba
-
-
+- utilizar mensajes descriptivos en los metodos de assert
+- mide la cobertura del codigo para entrar casos de prueba faltantes
+- Nombrar los tests describpti
 
 
 No hay nada mas imoprante que escribir codigo de calidad para el exito de un proyecto

@@ -28,3 +28,5 @@ Deben tener 8 lineas aprox por funcion
 
 Cumple con el [[4.1 SOLID#S SRP (Single Responsibility Principle)|Single Responsibility Principle]]
 Un solo nivel de abstraccion por funcion 
+
+Que se pueda leer de arriba hacia abajo

@@ -356,6 +356,7 @@ cosa
 cerrar
 cobertura
 calidad
+cohesion
 de
 dispositivos
 del
@@ -547,6 +548,7 @@ derivar
 detalles
 descriptivos
 descriptivamente
+dis
 gestion
 gran
 guarda
@@ -586,6 +588,7 @@ grafos
 gestionar
 global
 get
+gido
 especifico
 entra
 en
@@ -1507,6 +1510,7 @@ alterar
 abstraccion
 aislados
 assert
+acoplamiento
 hardware
 heap
 hay
@@ -1627,6 +1631,7 @@ ultima
 util
 unico
 unitarios
+usualmente
 System
 Son
 Source
@@ -1693,6 +1698,7 @@ Single
 Substitution
 Segregation
 Self
+Sintomas
 Calls
 Cmabia
 CPU
@@ -2201,6 +2207,7 @@ Algoritmo
 Agoritmo
 Aca
 Abstract
+Alta
 Programming
 Procesos
 Partes
@@ -2303,6 +2310,7 @@ Indique
 ISP
 Inversion
 Independent
+Inmobilidad
 Un
 UNIX
 UBA
@@ -2461,6 +2469,7 @@ modificarla
 modificaci
 modularizar
 mide
+modificar
 tien
 tiene
 todos
@@ -2831,6 +2840,7 @@ Factory
 Flexibilidad
 FORMATEA
 Fast
+Fragilidad
 Descriptors
 Descriptor
 Devuelve
@@ -2926,6 +2936,7 @@ Multinivel
 Method
 Mantenibilidad
 MADRE
+Mal
 Table
 Todos
 This
@@ -2961,6 +2972,7 @@ Tenemos
 TU
 Test
 Timely
+Toco
 Realiza
 REgistrys
 Rango
@@ -3006,6 +3018,7 @@ Recursos
 Responsibility
 Recibir
 Repeatable
+Rigidez
 bien
 by
 be
@@ -3182,6 +3195,7 @@ Breath
 Basicamente
 Buscamos
 Builder
+Bajo
 XY
 HEAD
 Hay

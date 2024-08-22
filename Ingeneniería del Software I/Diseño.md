@@ -5,3 +5,8 @@ Un sistema es rígido cuando yo quiero modificar algo en un lugar y tengo que ir
 Toco algo en algun lado y se rompe otra cosa (usualmente que nada que ver)
 
 ## Inmobilidad
+
+
+## SIntomas de buen disño 
+Alta cohesion
+Bajo acoplamiento

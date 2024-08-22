@@ -29,6 +29,7 @@ Linton
 Le
 Licor
 Large
+LA
 capa
 controlado
 cantidad
@@ -312,6 +313,18 @@ conformado
 calculan
 combinatorio
 cruces
+continuar
+caminos
+crean
+columnas
+conocida
+comenzamos
+calculada
+conocidos
+cortos
+chica
+concatenando
+camino
 de
 dispositivos
 del
@@ -483,6 +496,11 @@ direccionion
 distintas
 dej
 dibujo
+dijkstra
+distancia
+distancias
+dem
+directos
 gestion
 gran
 guarda
@@ -516,6 +534,9 @@ gesti
 globales
 generar
 grupo
+grafo
+gico
+grafos
 especifico
 entra
 en
@@ -706,6 +727,9 @@ estantes
 esima
 embocar
 enunciado
+encara
+elige
+elegir
 servicios
 son
 su
@@ -860,6 +884,8 @@ subconjuntos
 sacar
 salgan
 supongamos
+sucesivamente
+spanning
 par
 por
 punto
@@ -1081,6 +1107,10 @@ piden
 permutaciones
 palitos
 palos
+profundidad
+pesos
+pesado
+pasando
 la
 las
 le
@@ -1171,6 +1201,8 @@ libros
 lso
 letras
 lugares
+lleg
+liviana
 agnosticos
 apps
 al
@@ -1369,6 +1401,16 @@ asociativa
 asoigancion
 afuera
 anagrama
+avanzando
+anchura
+actualiza
+aristas
+adyacentes
+arista
+agarro
+agrego
+agregamos
+armas
 hardware
 heap
 hay
@@ -1409,6 +1451,7 @@ habilitar
 hice
 hagan
 herramienta
+hermanos
 que
 queda
 quien
@@ -1479,6 +1522,9 @@ utilizada
 unificada
 urnas
 urna
+unen
+uniendo
+ultima
 System
 Son
 Source
@@ -1535,6 +1581,7 @@ Segmentation
 Supervisor
 Sirve
 SANTO
+Search
 Calls
 Cmabia
 CPU
@@ -1596,6 +1643,7 @@ Context
 Ciclo
 Compilacion
 Combinaciones
+Comparamos
 Es
 El
 Estos
@@ -1637,7 +1685,10 @@ Entry
 Entrada
 Este
 Efficent
+Empezaria
+ENcuentra
 kernel
+kruskal
 realice
 realicen
 resolve
@@ -1770,6 +1821,10 @@ resumen
 representaci
 requerida
 repetidos
+rtice
+rtices
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -1888,6 +1943,8 @@ number
 necesidad
 nombres
 numerados
+nima
+nuevos
 via
 vuelve
 viven
@@ -1952,6 +2009,10 @@ ve
 velocidad
 validez
 vale
+visitar
+vecinos
+visitados
+visitado
 Application
 API
 Asigna
@@ -2002,6 +2063,9 @@ Accedo
 ARC
 Algunas
 Aument
+Algoritmo
+Agoritmo
+Aca
 Programming
 Procesos
 Partes
@@ -2062,6 +2126,8 @@ Pongo
 Permiso
 Permite
 Permutaciones
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -2241,6 +2307,7 @@ mapa
 modificacion
 meter
 mano
+marcan
 tien
 tiene
 todos
@@ -2358,6 +2425,10 @@ transacci
 tomen
 tome
 tando
+ten
+topol
+tree
+tenes
 inico
 interna
 infro
@@ -2476,6 +2547,8 @@ identificador
 inferiores
 inst
 indistinguibles
+inicial
+inf
 fijo
 file
 fork
@@ -2579,6 +2652,9 @@ First
 Feedback
 Formalmente
 Fault
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -2632,6 +2708,10 @@ Disable
 Dirty
 Durante
 Dados
+DFS
+Depth
+Dijkstra
+Distancia
 Memoria
 Multivariada
 MORE
@@ -2732,6 +2812,8 @@ Realmente
 Registries
 Reducci
 Reemplazo
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -2823,6 +2905,9 @@ Virtualizaci
 VPN
 Valor
 Variaciones
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -2836,6 +2921,7 @@ Otra
 Otros
 ya
 yo
+yendo
 json
 jacobiano
 justamente
@@ -2859,6 +2945,7 @@ Gamma
 Gonna
 Gunner
 GRIAL
+Grafos
 BX
 Bit
 Box
@@ -2877,6 +2964,10 @@ BP
 Back
 Buses
 Bus
+BFS
+Breath
+Basicamente
+Buscamos
 XY
 HEAD
 Hay
@@ -2890,6 +2981,7 @@ Quienes
 Queue
 Quiere
 Qu
+Queremos
 ximo
 xito
 xitos
@@ -2903,3 +2995,4 @@ Walrus
 Whitley
 Write
 WP
+Warshall

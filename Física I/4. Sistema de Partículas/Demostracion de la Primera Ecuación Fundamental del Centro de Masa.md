@@ -6,5 +6,5 @@ Luego $\LARGE \frac {d \vec p_1}{dt} = \vec F_{1} +\vec F_{12}$ y $\frac {d \vec
 Entonces $\LARGE \frac {d \vec P}{dt} =\frac {d \vec p_1}{dt} +\frac {d \vec p_2}{dt} = \vec F_1 + \vec F_2$ Porque $\vec F_{12}$ y $\vec F_{21}$ se cancelan.
 Por ultimo $\LARGE \frac {d \vec P}{dt} = M \frac {d \vec v_{CM}}{dt} = m. \vec a_{CM}$
 
-# Ciclo de Euler  
+# [[Ciclo de Euler]]  
 un camino de euler que empioeza y termina en el mismo vertice

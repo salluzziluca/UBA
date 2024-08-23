@@ -13,3 +13,6 @@
 [[Sistemas Operativos]]
 [[Taller de Programación]]
 [[Ingeniería del Software I]]
+[[Teoria de Algoritmos]]
+[[Base de Datos]]
+[[Modelación Numérica]]

@@ -3,6 +3,10 @@ Es un [[Tipos de Datos Abstractos (TDA)|TDA]] que se suele utilizar normalmente 
 Coleccion de nodos conectados con multiples nodos. El nodo principal es llamado r (raiz) y los subarboles T1, T2, T3, cada uno de ellos con su raiz conectada mediante un vertice al nodo raiz.
 ![[Pasted image 20220426182647.png]]
 
+Un [[Grafos|grafo]] es un arbol si cumple con 
+- Es conexo
+- Es acíclico
+- Aristas = V-1
 Un nodo no puede tener dos padres. 
 Los nodos se dividen por niveles (1ero, 2do, 3ero, etc)
 ![[Pasted image 20220426183242.png]]
@@ -46,4 +50,4 @@ Al llegar al final, creamos un nuevo nodo
 - [[Algoritmos y Programación II/Arbol B]]
 - [[Arbol Rojo-Negro]]
 - [[AVL]]
-- [[He￼##a￼##p]]
+- [[Heap]]

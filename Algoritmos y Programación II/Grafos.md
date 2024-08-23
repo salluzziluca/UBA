@@ -47,6 +47,9 @@ Es un grafo en el que se pueden recorrer las aristas adyacentes empezando y term
 ![[Pasted image 20220614190442.png]]
 derecha cíclico izquierda acíclico.
 
+### Grafo bipartito 
+Un grafo es bipartito si todos los ciclos son de longitud par. Todos los nodos se pueden agrupan en dos grupos y no se conectan internamente entre grupos
+![[Pasted image 20240823144255.png]]
 ## Camino
 Un recorrido a través de un grafo, CUALQUIERA. Pasando por sus vertices de toque
 
@@ -111,3 +114,8 @@ Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con p
 ![[Pasted image 20220614200331.png]]
 
 ![ gRecorridos Grafos]]
+
+
+
+## Puntos de articulación 
+Vertices que si los saco aumento la cantidad de componentes conexas 

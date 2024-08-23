@@ -114,5 +114,5 @@ Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con p
 
 
 
-## Puntos de articulacion 
+## Puntos de articulación 
 Vertices que si los saco aumento la cantidad de componentes conexas 

@@ -608,6 +608,10 @@ distinguir
 diagrama
 determinado
 denomina
+distinguirlas
+discriminante
+describe
+definici
 gestion
 gran
 guarda
@@ -1045,6 +1049,11 @@ sumatoria
 string
 superficie
 subrayados
+servir
+siguientes
+sorbe
+semantico
+similares
 par
 por
 punto
@@ -1306,6 +1315,7 @@ participaci
 parcial
 participan
 proposiciones
+planteado
 la
 las
 le
@@ -1660,6 +1670,7 @@ aliases
 asignados
 aridad
 audio
+asociaciones
 hardware
 heap
 hay
@@ -1941,6 +1952,8 @@ Conjunto
 Coleccion
 Comparo
 Class
+Chen
+Club
 Es
 El
 Estos
@@ -1995,6 +2008,7 @@ Editor
 Euler
 Ecuaci
 Entidad
+Esos
 kernel
 kruskal
 realice
@@ -2154,6 +2168,8 @@ rstantes
 representan
 ricos
 representado
+resprenta
+relaciones
 operacion
 orden
 operaciones
@@ -2286,6 +2302,7 @@ niveles
 nacieron
 naci
 num
+necesariamente
 via
 vuelve
 viven
@@ -2508,6 +2525,7 @@ Pa
 Pueden
 Pais
 Participacion
+Propusto
 Interface
 ID
 Instructions
@@ -2547,6 +2565,7 @@ Inmobilidad
 Identificacion
 Inorder
 Inserccion
+Interrelacion
 Un
 UNIX
 UBA
@@ -2720,6 +2739,8 @@ multivaluado
 mm
 magico
 maxima
+manipualr
+modelado
 tien
 tiene
 todos
@@ -2997,6 +3018,9 @@ interrelacion
 interrelacionados
 im
 impl
+identificaci
+identidad
+identificadora
 fijo
 file
 fork
@@ -3238,6 +3262,8 @@ MADRE
 Mal
 Matriz
 Monovaluados
+Me
+Messi
 Table
 Todos
 This

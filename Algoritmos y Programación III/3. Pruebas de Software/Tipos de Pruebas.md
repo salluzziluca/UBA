@@ -7,7 +7,7 @@ El programa funciona como es debido.
 ![[Pasted image 20220922143343.png]]
 E2E son un subconjunto de System testing
 
-Para estas pruebas se suelen usar objetos ficticios para simular funcionamientos normales del programa (por ejemplo, en vez de usar la base de datos, simulamos los protocolos).
+Para estas pruebas se suelen usar objetos ficticios para simular funcionamientos normales del programa (por ejemplo, en vez de usar la [[Bases de Datos|base de datos]], simulamos los protocolos).
 
 Adicionalmente, estas pruebas pueden ser de caja blanca o negra
 

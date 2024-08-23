@@ -1,2 +1,2 @@
-Al conjunto de ocurrencias o instancias de un determinado tipo de entidad en un estado determinado de la [[Bases de Datos|base de datos]] se lo denomina conjunto de [[entidades]] de ese tipo de entidad. A este tipo de [[dato]] se le llama ![[atributos clave]]
+Al conjunto de ocurrencias o instancias de un determinado tipo de [[Entidades|entidad]] en un estado determinado de la [[Bases de Datos|base de datos]] se lo denomina conjunto de [[entidades]] de ese tipo de [[Entidades|entidad]]. A este tipo de [[dato]] se le llama ![[atributos clave]]
 El conjunto de [[atributos clave]] tiene que ser minimal

@@ -21,4 +21,4 @@ Tambien debemos identificar los [[atributos clave]]. Sólo pueden formar parte d
 Tanto el legajo como el codigo son [[Base de Datos/Atributos|atributos]] calves de las dos [[entidades]] de la interrelacion. 
 
 ![[Pasted image 20240820204234.png]]
-En este modelo al forma de identificar el escribió es mediante el atributo clave nombre
+En este modelo al forma de identificar el escribió es mediante el [[Base de Datos/Atributos|atributo]] clave nombre

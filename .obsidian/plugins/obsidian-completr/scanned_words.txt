@@ -389,6 +389,12 @@ conunto
 cadena
 caracteres
 complejos
+cvn
+coparticipan
+cardinalidad
+cantida
+cardinalidades
+calves
 de
 dispositivos
 del
@@ -594,6 +600,11 @@ dividen
 do
 dominio
 derivados
+diccionario
+defecto
+debemos
+distinguir
+diagrama
 gestion
 gran
 guarda
@@ -851,6 +862,8 @@ euler
 empioeza
 externas
 entoces
+escribi
+entidades
 servicios
 son
 su
@@ -1025,6 +1038,7 @@ subgrafo
 sumatoria
 string
 superficie
+subrayados
 par
 por
 punto
@@ -1280,6 +1294,11 @@ paradas
 partici
 particulares
 poblaci
+pensarlo
+pa
+participaci
+parcial
+participan
 la
 las
 le
@@ -1391,6 +1410,7 @@ lazo
 ltiples
 lazos
 llegamos
+legajo
 agnosticos
 apps
 al
@@ -1629,6 +1649,9 @@ arboles
 articulaci
 agrupan
 atributyo
+aliases
+asignados
+aridad
 hardware
 heap
 hay
@@ -1759,6 +1782,7 @@ up
 ups
 unidireccional
 utiles
+uaaqdefrtgftn
 System
 Son
 Source
@@ -1908,6 +1932,7 @@ Conexa
 Conjunto
 Coleccion
 Comparo
+Class
 Es
 El
 Estos
@@ -2115,6 +2140,10 @@ registra
 respetamos
 representar
 raiz
+reescrito
+relacionarse
+rstantes
+representan
 operacion
 orden
 operaciones
@@ -2243,6 +2272,8 @@ nuevos
 novela
 normalmente
 niveles
+nacieron
+naci
 via
 vuelve
 viven
@@ -2319,6 +2350,8 @@ vertical
 viceversa
 vertices
 vertice
+vincular
+vaticano
 Application
 API
 Asigna
@@ -2378,6 +2411,7 @@ Arbol
 Arboles
 Aristas
 Atributos
+Asignaci
 Programming
 Procesos
 Partes
@@ -2457,6 +2491,9 @@ Primera
 Part
 Porque
 Pa
+Pueden
+Pais
+Participacion
 Interface
 ID
 Instructions
@@ -2666,6 +2703,9 @@ mxn
 marcamos
 multivaluados
 multivaluado
+mm
+magico
+maxima
 tien
 tiene
 todos
@@ -2934,6 +2974,10 @@ identificamos
 inciden
 internas
 impar
+iterar
+interrelaci
+interrelaciones
+interrelacion
 fijo
 file
 fork
@@ -3018,6 +3062,8 @@ forman
 fiel
 fin
 fuerzas
+futbolista
+futbolistas
 Nombre
 Notas
 Not
@@ -3067,6 +3113,7 @@ Fast
 Fragilidad
 Formato
 Fundamental
+Futbolista
 Descriptors
 Descriptor
 Devuelve
@@ -3211,6 +3258,7 @@ Toco
 Traduce
 Transferir
 Todas
+Tanto
 Realiza
 REgistrys
 Rango
@@ -3261,6 +3309,7 @@ Recibe
 Representaciones
 Recorrido
 Repetimos
+Restricciones
 bien
 by
 be

@@ -1,4 +1,4 @@
- El modelo Entidad Interrelacion fue planteado en 1976 por P. Chen. Propusto entidades, interrelaciones y atributos para el modelado semantico de datos.
+ El modelo Entidad Interrelacion fue planteado en 1976 por P. Chen. Propusto entidades, interrelaciones y [[Base de Datos/Atributos|atributos]] para el modelado semantico de datos.
 
 ## [[Entidades|entidad]]
 Tipo o clase de objeto en particular

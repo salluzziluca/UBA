@@ -7,4 +7,4 @@ Entonces $\LARGE \frac {d \vec P}{dt} =\frac {d \vec p_1}{dt} +\frac {d \vec p_2
 Por ultimo $\LARGE \frac {d \vec P}{dt} = M \frac {d \vec v_{CM}}{dt} = m. \vec a_{CM}$
 
 # [[Ciclo de Euler]]  
-un camino de euler que empioeza y termina en el mismo vertice
+un [[Camino de Euler]] que empioeza y termina en el mismo vertice

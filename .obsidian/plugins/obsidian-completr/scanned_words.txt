@@ -380,6 +380,7 @@ conectada
 conexo
 conexas
 ciclos
+clique
 de
 dispositivos
 del
@@ -1005,6 +1006,7 @@ suele
 subarboles
 subarbol
 saco
+subgrafo
 par
 por
 punto

@@ -1,0 +1,1 @@
+Un grafo d-regular es un grado en el que todos lo snodos tienen grado d. No implica que el grafo sea conexo.  

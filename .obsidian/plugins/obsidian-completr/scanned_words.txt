@@ -379,6 +379,7 @@ conectados
 conectada
 conexo
 conexas
+ciclos
 de
 dispositivos
 del
@@ -623,6 +624,7 @@ global
 get
 gido
 guardamos
+grupos
 especifico
 entra
 en
@@ -1603,6 +1605,7 @@ ayudan
 atras
 arboles
 articulaci
+agrupan
 hardware
 heap
 hay
@@ -3295,6 +3298,7 @@ bibliotecas
 balancear
 bidireccionales
 borrado
+bipartito
 will
 words
 with

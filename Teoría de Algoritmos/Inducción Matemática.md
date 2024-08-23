@@ -24,3 +24,4 @@ Para comprobar que una proposiscion es correcta/verdadera/cierta
 
 #### Por induccion 
 ![[Pasted image 20240823110029.png]]
+![[Pasted image 20240823110139.png]]

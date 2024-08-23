@@ -111,3 +111,8 @@ Y si es un  [[Grafos#Grafo dirigido| grafo dirigido]]  y un [[Grafos#Grafo con p
 ![[Pasted image 20220614200331.png]]
 
 ![ gRecorridos Grafos]]
+
+
+
+## Puntos de articulacion 
+Vertices que si los saco aumento la cantidad de componentes conexas 

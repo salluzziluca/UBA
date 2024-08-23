@@ -14,5 +14,5 @@
 [[Taller de Programación]]
 [[Ingeniería del Software I]]
 [[Teoria de Algoritmos]]
-[[Base de Datos]]
+[[Bases de Datos]]
 [[Modelación Numérica]]

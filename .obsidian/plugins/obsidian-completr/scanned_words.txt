@@ -395,6 +395,7 @@ cardinalidad
 cantida
 cardinalidades
 calves
+cito
 de
 dispositivos
 del
@@ -605,6 +606,8 @@ defecto
 debemos
 distinguir
 diagrama
+determinado
+denomina
 gestion
 gran
 guarda
@@ -648,6 +651,8 @@ gido
 guardamos
 grupos
 grados
+genes
+geoespaciales
 especifico
 entra
 en
@@ -864,6 +869,7 @@ externas
 entoces
 escribi
 entidades
+enunciarse
 servicios
 son
 su
@@ -1299,6 +1305,7 @@ pa
 participaci
 parcial
 participan
+proposiciones
 la
 las
 le
@@ -1652,6 +1659,7 @@ atributyo
 aliases
 asignados
 aridad
+audio
 hardware
 heap
 hay
@@ -2144,6 +2152,8 @@ reescrito
 relacionarse
 rstantes
 representan
+ricos
+representado
 operacion
 orden
 operaciones
@@ -2208,6 +2218,7 @@ output
 object
 obtenerlo
 odenado
+ocurrencias
 nombre
 nuevo
 nica
@@ -2274,6 +2285,7 @@ normalmente
 niveles
 nacieron
 naci
+num
 via
 vuelve
 viven
@@ -2352,6 +2364,7 @@ vertices
 vertice
 vincular
 vaticano
+video
 Application
 API
 Asigna
@@ -2412,6 +2425,7 @@ Arboles
 Aristas
 Atributos
 Asignaci
+Actualmente
 Programming
 Procesos
 Partes
@@ -2840,6 +2854,8 @@ toque
 teorema
 termina
 tendra
+tradicionales
+tipificarse
 inico
 interna
 infro
@@ -2978,6 +2994,9 @@ iterar
 interrelaci
 interrelaciones
 interrelacion
+interrelacionados
+im
+impl
 fijo
 file
 fork
@@ -3259,6 +3278,7 @@ Traduce
 Transferir
 Todas
 Tanto
+Tradicionales
 Realiza
 REgistrys
 Rango
@@ -3391,6 +3411,8 @@ balancear
 bidireccionales
 borrado
 bipartito
+bases
+bdd
 will
 words
 with
@@ -3501,6 +3523,8 @@ Binaria
 Borra
 Bayes
 Busqueda
+Bases
+BDD
 XY
 HEAD
 Hay

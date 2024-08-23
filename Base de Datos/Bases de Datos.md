@@ -1,3 +1,9 @@
+---
+aliases:
+  - base de datos
+  - bdd
+  - BDD
+---
 >Una base de datos es un conjunto de [[Dato|datos]] interrelacionados
 ![[Diseño Conceptual]]
 ## Bases de datos Tradicionales

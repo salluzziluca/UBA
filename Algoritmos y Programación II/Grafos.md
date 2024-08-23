@@ -15,6 +15,8 @@ Puedo ir de A a B y de B a A
 ### Grafo dirigido
 Al menos una de sus aristas es unidireccional. (puede haber aristas bidireccionales)
 ![[Pasted image 20220614184330.png]]
+#### Handshaking Lemma
+En todo grafo no dirigido, la cantidad de vertices con un grado impar, es par.
 
 
 ### Grafo con peso

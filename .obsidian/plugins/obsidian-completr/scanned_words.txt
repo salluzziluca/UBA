@@ -378,6 +378,7 @@ combinamos
 conectados
 conectada
 conexo
+conexas
 de
 dispositivos
 del
@@ -1001,6 +1002,7 @@ salen
 suele
 subarboles
 subarbol
+saco
 par
 por
 punto
@@ -1600,6 +1602,7 @@ adyacencia
 ayudan
 atras
 arboles
+articulaci
 hardware
 heap
 hay
@@ -2419,6 +2422,7 @@ Pasando
 Preorden
 Primero
 Postorder
+Puntos
 Interface
 ID
 Instructions
@@ -3325,6 +3329,7 @@ VISITADO
 Volvemos
 Validating
 Valores
+Vertices
 OPTIONS
 Operativos
 Orden

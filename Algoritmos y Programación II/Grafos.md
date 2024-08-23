@@ -47,6 +47,7 @@ Es un grafo en el que se pueden recorrer las aristas adyacentes empezando y term
 ![[Pasted image 20220614190442.png]]
 derecha cíclico izquierda acíclico.
 
+### Grafo bipartito 
 ## Camino
 Un recorrido a través de un grafo, CUALQUIERA. Pasando por sus vertices de toque
 

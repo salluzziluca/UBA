@@ -36,6 +36,7 @@ Liskov
 Leer
 Linking
 LInk
+Lemma
 capa
 controlado
 cantidad
@@ -628,6 +629,7 @@ get
 gido
 guardamos
 grupos
+grados
 especifico
 entra
 en
@@ -841,6 +843,7 @@ ero
 euler
 empioeza
 externas
+entoces
 servicios
 son
 su
@@ -1012,6 +1015,7 @@ subarboles
 subarbol
 saco
 subgrafo
+sumatoria
 par
 por
 punto
@@ -3435,6 +3439,7 @@ Hombre
 Habilita
 Heap
 Hijo
+Handshaking
 Jacobiano
 Job
 Jusitfique

@@ -1,3 +1,4 @@
+
 Es un par odenado $G=(V,E)$ donde V es el conjunto de vértices y E el conjunto de aristas
 Dicho de otra forma, son vertices que se conectan mediante distintas aristas
 Un vertice puede volver sobre si mismo (lazo), siempre y cuando esto tenga un costo o una penalizacion

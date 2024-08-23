@@ -17,3 +17,5 @@ Para comprobar que una proposiscion es correcta/verdadera/cierta
 
 #### Metodo del contrarrecíproco
 ![[Pasted image 20240823105645.png]]
+
+#### Por absurdo

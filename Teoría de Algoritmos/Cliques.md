@@ -1,3 +1,3 @@
 > Un clique es un subgrafo completo
 
-Un 3 clique implica un subgrafo c
+ej: Un 3 clique implica un subgrafo completo de 3 vertices

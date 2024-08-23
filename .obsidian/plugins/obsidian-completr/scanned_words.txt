@@ -372,6 +372,9 @@ chicos
 construirlo
 cu
 cargando
+conectan
+clico
+combinamos
 de
 dispositivos
 del
@@ -567,6 +570,11 @@ dis
 describiendo
 dejamos
 down
+dirigido
+dirigidos
+denso
+disperso
+diagonal
 gestion
 gran
 guarda
@@ -607,6 +615,7 @@ gestionar
 global
 get
 gido
+guardamos
 especifico
 entra
 en
@@ -814,6 +823,8 @@ editor
 empaquetandolas
 excecutable
 ejecucion
+empezando
+entran
 servicios
 son
 su
@@ -979,6 +990,7 @@ scuales
 subir
 sift
 sort
+salen
 par
 por
 punto
@@ -1228,6 +1240,9 @@ pu
 precisamente
 padres
 pasarle
+penalizacion
+poseen
+paradas
 la
 las
 le
@@ -1335,6 +1350,9 @@ linking
 literales
 lleno
 log
+lazo
+ltiples
+lazos
 agnosticos
 apps
 al
@@ -1564,6 +1582,9 @@ adicional
 ado
 arribas
 aproximadamente
+aritas
+ac
+adyacencia
 hardware
 heap
 hay
@@ -1691,6 +1712,8 @@ unitarios
 usualmente
 up
 ups
+unidireccional
+utiles
 System
 Son
 Source
@@ -1831,6 +1854,12 @@ Compilaci
 COFF
 Cargar
 Construcci
+Clasificaci
+Camino
+CUALQUIERA
+Componente
+Conexa
+Conjunto
 Es
 El
 Estos
@@ -2031,6 +2060,9 @@ rpueba
 realocacion
 relaci
 raices
+registra
+respetamos
+representar
 operacion
 orden
 operaciones
@@ -2094,6 +2126,7 @@ ordenadas
 output
 object
 obtenerlo
+odenado
 nombre
 nuevo
 nica
@@ -2230,6 +2263,8 @@ variaciones
 voy
 vertical
 viceversa
+vertices
+vertice
 Application
 API
 Asigna
@@ -2355,6 +2390,7 @@ Podemos
 Procesamiento
 Proteger
 Programa
+Pasando
 Interface
 ID
 Instructions
@@ -2411,6 +2447,7 @@ Uso
 Unificada
 Usar
 Uno
+Utilizaci
 modo
 mode
 menso
@@ -2554,6 +2591,11 @@ modificar
 maquina
 maximal
 minimal
+maximo
+mapas
+matriz
+mxn
+marcamos
 tien
 tiene
 todos
@@ -2681,6 +2723,10 @@ tecnica
 tocar
 tests
 texto
+transitar
+tiende
+terminando
+toque
 inico
 interna
 infro
@@ -2809,6 +2855,10 @@ implementaciones
 imoprante
 identifica
 iniciar
+incidencia
+identificar
+identificamos
+inciden
 fijo
 file
 fork
@@ -3002,6 +3052,7 @@ Dependency
 DE
 Direccion
 Datos
+Dicho
 Memoria
 Multivariada
 MORE
@@ -3035,6 +3086,7 @@ Method
 Mantenibilidad
 MADRE
 Mal
+Matriz
 Table
 Todos
 This
@@ -3073,6 +3125,7 @@ Timely
 Toco
 Traduce
 Transferir
+Todas
 Realiza
 REgistrys
 Rango
@@ -3120,6 +3173,7 @@ Recibir
 Repeatable
 Rigidez
 Recibe
+Representaciones
 bien
 by
 be
@@ -3198,6 +3252,7 @@ booleano
 boock
 bibliotecas
 balancear
+bidireccionales
 will
 words
 with
@@ -3277,6 +3332,8 @@ GRIAL
 Grafos
 Garantiza
 Grady
+Grafo
+Grado
 BX
 Bit
 Box
@@ -3302,6 +3359,7 @@ Buscamos
 Builder
 Bajo
 Binaria
+Borra
 XY
 HEAD
 Hay

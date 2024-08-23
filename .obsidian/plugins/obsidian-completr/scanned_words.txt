@@ -375,6 +375,8 @@ cargando
 conectan
 clico
 combinamos
+conectados
+conectada
 de
 dispositivos
 del
@@ -575,6 +577,9 @@ dirigidos
 denso
 disperso
 diagonal
+dibujar
+dividen
+do
 gestion
 gran
 guarda
@@ -825,6 +830,7 @@ excecutable
 ejecucion
 empezando
 entran
+ero
 servicios
 son
 su
@@ -991,6 +997,9 @@ subir
 sift
 sort
 salen
+suele
+subarboles
+subarbol
 par
 por
 punto
@@ -1243,6 +1252,7 @@ pasarle
 penalizacion
 poseen
 paradas
+partici
 la
 las
 le
@@ -1353,6 +1363,7 @@ log
 lazo
 ltiples
 lazos
+llegamos
 agnosticos
 apps
 al
@@ -1585,6 +1596,9 @@ aproximadamente
 aritas
 ac
 adyacencia
+ayudan
+atras
+arboles
 hardware
 heap
 hay
@@ -1630,6 +1644,7 @@ helic
 herramientas
 hunden
 hundirse
+hojas
 que
 queda
 quien
@@ -1783,6 +1798,7 @@ Self
 Sintomas
 Simbolos
 Sistema
+Serie
 Calls
 Cmabia
 CPU
@@ -1860,6 +1876,8 @@ CUALQUIERA
 Componente
 Conexa
 Conjunto
+Coleccion
+Comparo
 Es
 El
 Estos
@@ -2063,6 +2081,7 @@ raices
 registra
 respetamos
 representar
+raiz
 operacion
 orden
 operaciones
@@ -2189,6 +2208,8 @@ numerados
 nima
 nuevos
 novela
+normalmente
+niveles
 via
 vuelve
 viven
@@ -2320,6 +2341,8 @@ Agoritmo
 Aca
 Abstract
 Alta
+Arbol
+Arboles
 Programming
 Procesos
 Partes
@@ -2391,6 +2414,9 @@ Procesamiento
 Proteger
 Programa
 Pasando
+Preorden
+Primero
+Postorder
 Interface
 ID
 Instructions
@@ -2428,6 +2454,8 @@ Inversion
 Independent
 Inmobilidad
 Identificacion
+Inorder
+Inserccion
 Un
 UNIX
 UBA
@@ -2727,6 +2755,7 @@ transitar
 tiende
 terminando
 toque
+teorema
 inico
 interna
 infro
@@ -2939,6 +2968,9 @@ flotan
 final
 flote
 floten
+forman
+fiel
+fin
 Nombre
 Notas
 Not
@@ -3053,6 +3085,7 @@ DE
 Direccion
 Datos
 Dicho
+Decimos
 Memoria
 Multivariada
 MORE
@@ -3174,6 +3207,8 @@ Repeatable
 Rigidez
 Recibe
 Representaciones
+Recorrido
+Repetimos
 bien
 by
 be
@@ -3253,6 +3288,7 @@ boock
 bibliotecas
 balancear
 bidireccionales
+borrado
 will
 words
 with
@@ -3360,6 +3396,8 @@ Builder
 Bajo
 Binaria
 Borra
+Bayes
+Busqueda
 XY
 HEAD
 Hay

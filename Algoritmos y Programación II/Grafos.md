@@ -18,7 +18,8 @@ Al menos una de sus aristas es unidireccional. (puede haber aristas bidirecciona
 #### Handshaking Lemma
 En todo grafo no dirigido, la cantidad de vertices con un grado impar, es par.
 
-
+$Todos\ los\ grados = 2*aristas$
+$grados_pares + grados_impares = 2 *aristas$. 2. 
 ### Grafo con peso
 Todas sus aristas poseen un valor que implica un costo a la hora de tener que transitar de un vértice a otro
 

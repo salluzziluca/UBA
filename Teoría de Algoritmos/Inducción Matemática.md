@@ -19,3 +19,8 @@ Para comprobar que una proposiscion es correcta/verdadera/cierta
 ![[Pasted image 20240823105645.png]]
 
 #### Por absurdo
+
+
+
+#### Por induccion 
+![[Pasted image 20240823110029.png]]

@@ -384,6 +384,11 @@ ciclos
 clique
 culas
 cancelan
+corresponde
+conunto
+cadena
+caracteres
+complejos
 de
 dispositivos
 del
@@ -587,6 +592,8 @@ diagonal
 dibujar
 dividen
 do
+dominio
+derivados
 gestion
 gran
 guarda
@@ -1016,6 +1023,8 @@ subarbol
 saco
 subgrafo
 sumatoria
+string
+superficie
 par
 por
 punto
@@ -1269,6 +1278,8 @@ penalizacion
 poseen
 paradas
 partici
+particulares
+poblaci
 la
 las
 le
@@ -1617,6 +1628,7 @@ atras
 arboles
 articulaci
 agrupan
+atributyo
 hardware
 heap
 hay
@@ -1949,6 +1961,7 @@ Ensamblaje
 Editor
 Euler
 Ecuaci
+Entidad
 kernel
 kruskal
 realice
@@ -2364,6 +2377,7 @@ Alta
 Arbol
 Arboles
 Aristas
+Atributos
 Programming
 Procesos
 Partes
@@ -2442,6 +2456,7 @@ Puntos
 Primera
 Part
 Porque
+Pa
 Interface
 ID
 Instructions
@@ -2649,6 +2664,8 @@ mapas
 matriz
 mxn
 marcamos
+multivaluados
+multivaluado
 tien
 tiene
 todos
@@ -2782,6 +2799,7 @@ terminando
 toque
 teorema
 termina
+tendra
 inico
 interna
 infro
@@ -3117,6 +3135,8 @@ Datos
 Dicho
 Decimos
 Demostracion
+Dominio
+Depende
 Memoria
 Multivariada
 MORE
@@ -3151,6 +3171,7 @@ Mantenibilidad
 MADRE
 Mal
 Matriz
+Monovaluados
 Table
 Todos
 This

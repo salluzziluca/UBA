@@ -11,3 +11,6 @@ Para comprobar que una proposiscion es correcta/verdadera/cierta
 2. Metodo indirecto (o contrarreciproco)
 3. Por el absurdo/contradicción
 4. Induccion
+
+##### Metodo Directo 
+![[Pasted image 20240823105611.png]]

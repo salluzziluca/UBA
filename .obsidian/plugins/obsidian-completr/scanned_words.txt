@@ -396,6 +396,12 @@ cantida
 cardinalidades
 calves
 cito
+concurso
+canto
+cantantes
+calificados
+cantante
+consulta
 de
 dispositivos
 del
@@ -612,6 +618,10 @@ distinguirlas
 discriminante
 describe
 definici
+docentes
+docente
+disjunta
+dependencia
 gestion
 gran
 guarda
@@ -657,6 +667,7 @@ grupos
 grados
 genes
 geoespaciales
+gestiona
 especifico
 entra
 en
@@ -874,6 +885,10 @@ entoces
 escribi
 entidades
 enunciarse
+evaluados
+englobar
+efiicientes
+evitar
 servicios
 son
 su
@@ -1054,6 +1069,11 @@ siguientes
 sorbe
 semantico
 similares
+superpuesta
+subconceptos
+subtipos
+supetipo
+simultaneo
 par
 por
 punto
@@ -1316,6 +1336,11 @@ parcial
 participan
 proposiciones
 planteado
+participantes
+puntuar
+puntajes
+participacion
+personas
 la
 las
 le
@@ -1671,6 +1696,13 @@ asignados
 aridad
 audio
 asociaciones
+aquellas
+algunos
+aparecer
+agregacion
+alumnos
+abarca
+autorizados
 hardware
 heap
 hay
@@ -1872,6 +1904,8 @@ Sintomas
 Simbolos
 Sistema
 Serie
+SGBDs
+Soportre
 Calls
 Cmabia
 CPU
@@ -1954,6 +1988,7 @@ Comparo
 Class
 Chen
 Club
+Concurrencia
 Es
 El
 Estos
@@ -2009,6 +2044,7 @@ Euler
 Ecuaci
 Entidad
 Esos
+Especializacion
 kernel
 kruskal
 realice
@@ -2170,6 +2206,11 @@ ricos
 representado
 resprenta
 relaciones
+rondas
+ronda
+registrar
+repercutan
+recuperacion
 operacion
 orden
 operaciones
@@ -2235,6 +2276,8 @@ object
 obtenerlo
 odenado
 ocurrencias
+organizan
+obligado
 nombre
 nuevo
 nica
@@ -2443,6 +2486,9 @@ Aristas
 Atributos
 Asignaci
 Actualmente
+Aqu
+Almacenamiento
+Asegurar
 Programming
 Procesos
 Partes
@@ -2526,6 +2572,7 @@ Pueden
 Pais
 Participacion
 Propusto
+Permitir
 Interface
 ID
 Instructions
@@ -2566,6 +2613,8 @@ Identificacion
 Inorder
 Inserccion
 Interrelacion
+Independencia
+Integridad
 Un
 UNIX
 UBA
@@ -2586,6 +2635,7 @@ Unificada
 Usar
 Uno
 Utilizaci
+Union
 modo
 mode
 menso
@@ -2741,6 +2791,7 @@ magico
 maxima
 manipualr
 modelado
+manipulaci
 tien
 tiene
 todos
@@ -2877,6 +2928,9 @@ termina
 tendra
 tradicionales
 tipificarse
+tem
+ticas
+transaccional
 inico
 interna
 infro
@@ -3021,6 +3075,8 @@ impl
 identificaci
 identidad
 identificadora
+inscriben
+integridad
 fijo
 file
 fork
@@ -3107,6 +3163,8 @@ fin
 fuerzas
 futbolista
 futbolistas
+fijadas
+fallas
 Nombre
 Notas
 Not
@@ -3157,6 +3215,8 @@ Fragilidad
 Formato
 Fundamental
 Futbolista
+Fijo
+Fuhi
 Descriptors
 Descriptor
 Devuelve
@@ -3356,6 +3416,8 @@ Representaciones
 Recorrido
 Repetimos
 Restricciones
+Resuelve
+Recuperaci
 bien
 by
 be
@@ -3490,6 +3552,7 @@ OCP
 Open
 Orientada
 Operativo
+Ofrecer
 ya
 yo
 yendo
@@ -3502,6 +3565,10 @@ jobs
 jodon
 joder
 jodia
+jurados
+jurado
+jugadores
+jugador
 Ya
 Yourself
 YAGNI
@@ -3521,6 +3588,7 @@ Garantiza
 Grady
 Grafo
 Grado
+Generaliazacion
 BX
 Bit
 Box

@@ -1,3 +1,7 @@
+---
+aliases:
+  - SGBDD
+---
 > Es un conjunto de programas que gestiona y controla la creación, manipulación y acceso a la [[Bases de Datos]]
 
 ![[Pasted image 20240820192509.png]]

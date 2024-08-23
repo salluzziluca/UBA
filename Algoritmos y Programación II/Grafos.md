@@ -1,3 +1,7 @@
+---
+aliases:
+  - grafo
+---
 
 Es un par odenado $G=(V,E)$ donde V es el conjunto de vértices y E el conjunto de aristas
 Dicho de otra forma, son vertices que se conectan mediante distintas aristas

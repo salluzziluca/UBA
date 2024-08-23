@@ -1,15 +1,15 @@
-# Recorridos Grafos
+# Recorridos [[Grafos]]
 ### En profundidad: DFS (Depth First Search)
 En este caso se van a visitar los nodos hijos primero, avanzando hasta que no se pueda continuar. Luego se “vuelve” hasta un hijo donde se tenían más caminos, y se vuelve a realizar la misma lógica.
 
 ### En anchura: BFS (Breath First Search)
-Se encara el recorrido del grafo en anchura, es decir, primero visita nodos hermanos/vecinos antes de visitar nodos hijos. Para su implementación se utiliza una cola
+Se encara el recorrido del [[Grafos|grafo]] en anchura, es decir, primero visita nodos hermanos/vecinos antes de visitar nodos hijos. Para su implementación se utiliza una cola
 
 
 ## Dijkstra
 Algoritmo dijkstra 1. 
 Se elige el vértice V sobre el cual se quiera aplicar el algoritmo 
-2. Se crean dos lista de nodos, una lista de nodos Visitados y otra listas de nodos NO Visitados, que contiene a todos los nodos del grafo.
+2. Se crean dos lista de nodos, una lista de nodos Visitados y otra listas de nodos NO Visitados, que contiene a todos los nodos del [[Grafos|grafo]].
 3. Se crea una tabla con 3 columnas, Vértice, Distancia mínima V y el nodo anterior por el cual se llegó. 
 4. Se toma el vértice V como vértice inicial y se calcula su distancia a sí mismo, que es 0. 
 5. Se actualiza la tabla, en la cual todas las distancias de los demás vértices a V se marcan como infinito. 
@@ -28,7 +28,7 @@ Buscar aristas con cero aristas adyacentes y recorrelo, asi obtenemos nuevos ![[
 ## Algoritmo de Prim
 Crea un spanning tree. Una aproximacion general de los caminos mas cortos entre todos los nodos.
 
-Queremos pasar de un grafo pesado a un arbol con el minimo trabajo para la mayoria de los recorridos.
+Queremos pasar de un [[Grafos|grafo]] pesado a un arbol con el minimo trabajo para la mayoria de los recorridos.
 Partiendo desde un nodo, buscamos la arista con menor peso (mas chica) y vamos agregando al arbol nodos nuevos siempre yendo al nodo que este en la direccion de la arista mas chica posible.
 Basicamente: agarro la mas corta y agrego. Buscamos la arista mas corta desde cualquier nodo, no el ultimo que agregamos
 ![[Pasted image 20220621204526.png]]
@@ -42,14 +42,14 @@ FInalmente
 ![[Pasted image 20220621204635.png]]
 
 ## Agoritmo de kruskal
-tenes n grafos
+tenes n [[grafos]]
 armas una lista de aristas de menor a mayor
-ir arista por arista. concatenando los grafos que esa arista mira
+ir arista por arista. concatenando los [[grafos]] que esa arista mira
 
 ![[Pasted image 20220628190016.png]]
-Aca tengo 13 grafos que no estan contectados. 
+Aca tengo 13 [[grafos]] que no estan contectados. 
 LA lista de aristas seria [1, 1, 2, 3, 3, 3, 3, 4, 4, 5, 6, 7, 7 ,8, 9, 10, 11, etc]
-Recorriendo la lista a ver si las diferentes aristas unen dos grafos distintos. Si lo hacen, los uno.
+Recorriendo la lista a ver si las diferentes aristas unen dos [[grafos]] distintos. Si lo hacen, los uno.
 Empezaria uniendo 1 con 2, despues 9 con 10, 7 con 3 y asi...
 
 

@@ -377,6 +377,7 @@ clico
 combinamos
 conectados
 conectada
+conexo
 de
 dispositivos
 del
@@ -2343,6 +2344,7 @@ Abstract
 Alta
 Arbol
 Arboles
+Aristas
 Programming
 Procesos
 Partes

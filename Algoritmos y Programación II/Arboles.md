@@ -50,4 +50,4 @@ Al llegar al final, creamos un nuevo nodo
 - [[Algoritmos y Programación II/Arbol B]]
 - [[Arbol Rojo-Negro]]
 - [[AVL]]
-- [[He￼##a￼##p]]
+- [[Heap]]

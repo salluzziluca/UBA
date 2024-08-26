@@ -5,6 +5,7 @@ Es importante conocer los patrones ==y== los antipatrones
 
 > Es un approach iterativo para gestion de proyectos. Iterativo por que en vez de plantearlo meses hacia adelante, se planifican pequeños chunks que varian segun el feedback del usuario.
 
+Son Valores y Principios, es más que una metodologia y no se trata de ir rapido/apurarse o hacer multitasking.
 # Pilares
 - Adaptative planning
 - Evolutionary development. Las cosas se crean en pequeños incrementos.

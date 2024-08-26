@@ -4,4 +4,4 @@ Una forma de explicar cualquier problema.
 algo claro es algo sencillo, son cosas para las que ya tenemos soluciones (como no mojarse si llueve -> paraguas)
 Algo complicado requiere quizas un poco mas de planeamiento pero es resolutible
 
-Complejo: por mas que planifique no va a salir, seria raro. Hay cosa que se nos escapan
+Complejo: por mas que planifique no va a salir, seria raro. Hay cosa que se nos escapan. 

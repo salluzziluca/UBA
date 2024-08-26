@@ -402,6 +402,14 @@ cantantes
 calificados
 cantante
 consulta
+conocer
+chunks
+change
+come
+comprehensive
+collaboration
+contract
+co
 de
 dispositivos
 del
@@ -622,6 +630,11 @@ docentes
 docente
 disjunta
 dependencia
+development
+delivery
+developing
+doing
+documentation
 gestion
 gran
 guarda
@@ -668,6 +681,7 @@ grados
 genes
 geoespaciales
 gestiona
+gestionen
 especifico
 entra
 en
@@ -889,6 +903,7 @@ evaluados
 englobar
 efiicientes
 evitar
+equipos
 servicios
 son
 su
@@ -1341,6 +1356,16 @@ puntuar
 puntajes
 participacion
 personas
+projectos
+patrones
+proyectos
+plantearlo
+planifican
+planning
+processes
+plan
+principales
+planned
 la
 las
 le
@@ -1453,6 +1478,7 @@ ltiples
 lazos
 llegamos
 legajo
+locados
 agnosticos
 apps
 al
@@ -1703,6 +1729,9 @@ agregacion
 alumnos
 abarca
 autorizados
+antipatrones
+approach
+altos
 hardware
 heap
 hay
@@ -1749,6 +1778,8 @@ herramientas
 hunden
 hundirse
 hojas
+helping
+have
 que
 queda
 quien
@@ -1834,6 +1865,7 @@ ups
 unidireccional
 utiles
 uaaqdefrtgftn
+uncovering
 System
 Son
 Source
@@ -1989,6 +2021,8 @@ Class
 Chen
 Club
 Concurrencia
+Continual
+Customer
 Es
 El
 Estos
@@ -2045,6 +2079,9 @@ Ecuaci
 Entidad
 Esos
 Especializacion
+Evolutionary
+Early
+Equipos
 kernel
 kruskal
 realice
@@ -2211,6 +2248,7 @@ ronda
 registrar
 repercutan
 recuperacion
+right
 operacion
 orden
 operaciones
@@ -2278,6 +2316,9 @@ odenado
 ocurrencias
 organizan
 obligado
+others
+over
+organizen
 nombre
 nuevo
 nica
@@ -2346,6 +2387,8 @@ nacieron
 naci
 num
 necesariamente
+negotiation
+needed
 via
 vuelve
 viven
@@ -2425,6 +2468,8 @@ vertice
 vincular
 vaticano
 video
+varian
+value
 Application
 API
 Asigna
@@ -2489,6 +2534,8 @@ Actualmente
 Aqu
 Almacenamiento
 Asegurar
+Adaptative
+Agile
 Programming
 Procesos
 Partes
@@ -2573,6 +2620,7 @@ Pais
 Participacion
 Propusto
 Permitir
+Pilares
 Interface
 ID
 Instructions
@@ -2615,6 +2663,9 @@ Inserccion
 Interrelacion
 Independencia
 Integridad
+Iterativo
+Individuals
+Influencias
 Un
 UNIX
 UBA
@@ -2792,6 +2843,12 @@ maxima
 manipualr
 modelado
 manipulaci
+mindset
+manejar
+meses
+manifesto
+more
+multifuncionales
 tien
 tiene
 todos
@@ -2931,6 +2988,9 @@ tipificarse
 tem
 ticas
 transaccional
+tools
+there
+transparencia
 inico
 interna
 infro
@@ -3077,6 +3137,14 @@ identidad
 identificadora
 inscriben
 integridad
+iterativo
+incrementos
+improvement
+it
+interactions
+items
+interactividad
+individualmente
 fijo
 file
 fork
@@ -3165,6 +3233,8 @@ futbolista
 futbolistas
 fijadas
 fallas
+follow
+feedback
 Nombre
 Notas
 Not
@@ -3365,6 +3435,7 @@ Transferir
 Todas
 Tanto
 Tradicionales
+That
 Realiza
 REgistrys
 Rango
@@ -3418,6 +3489,8 @@ Repetimos
 Restricciones
 Resuelve
 Recuperaci
+Responsiveness
+Responding
 bien
 by
 be
@@ -3501,6 +3574,9 @@ borrado
 bipartito
 bases
 bdd
+become
+better
+bebe
 will
 words
 with
@@ -3511,6 +3587,11 @@ way
 web
 windows
 writeFile
+ways
+work
+we
+while
+what
 VA
 VIEW
 Volumen
@@ -3556,6 +3637,7 @@ Ofrecer
 ya
 yo
 yendo
+you
 json
 jacobiano
 justamente
@@ -3619,6 +3701,7 @@ Bayes
 Busqueda
 Bases
 BDD
+Build
 XY
 HEAD
 Hay
@@ -3652,3 +3735,5 @@ Whitley
 Write
 WP
 Warshall
+We
+Working

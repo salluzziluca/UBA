@@ -15,7 +15,7 @@ Tiene que que ver con el **ser**(mindset, valores y principios) y con el **hacer
 - Early delivery. Para poder tener feedback constante.
 - Continual improvement
 - Responsiveness to change
-
+ Con esto si se corta de repente el desarrollo del projecto igual se hicieron cosas.
 # Agile manifesto
 
 >We are uncovering better ways of developing  

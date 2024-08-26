@@ -410,6 +410,7 @@ comprehensive
 collaboration
 contract
 co
+cliente
 de
 dispositivos
 del
@@ -1095,6 +1096,7 @@ supetipo
 simultaneo
 sencillo
 soluciones
+same
 par
 por
 punto
@@ -1490,6 +1492,7 @@ llegamos
 legajo
 locados
 llueve
+llegas
 agnosticos
 apps
 al
@@ -1951,6 +1954,7 @@ Sistema
 Serie
 SGBDs
 Soportre
+Simplicity
 Calls
 Cmabia
 CPU
@@ -2037,6 +2041,9 @@ Concurrencia
 Continual
 Customer
 Complejo
+Completamente
+Communication
+Courage
 Es
 El
 Estos
@@ -2268,6 +2275,8 @@ resolutible
 raro
 roles
 rapido
+responder
+requerimientos
 operacion
 orden
 operaciones
@@ -3523,6 +3532,7 @@ Resuelve
 Recuperaci
 Responsiveness
 Responding
+Respect
 bien
 by
 be

@@ -635,6 +635,7 @@ delivery
 developing
 doing
 documentation
+desarrollo
 gestion
 gran
 guarda
@@ -906,6 +907,7 @@ evitar
 equipos
 explicar
 escapan
+entregable
 servicios
 son
 su
@@ -2262,6 +2264,7 @@ right
 requiere
 resolutible
 raro
+roles
 operacion
 orden
 operaciones
@@ -2332,6 +2335,7 @@ obligado
 others
 over
 organizen
+organizados
 nombre
 nuevo
 nica
@@ -2701,6 +2705,7 @@ Usar
 Uno
 Utilizaci
 Union
+Utiliza
 modo
 mode
 menso
@@ -2864,6 +2869,7 @@ manifesto
 more
 multifuncionales
 mojarse
+metodologia
 tien
 tiene
 todos
@@ -3160,6 +3166,9 @@ interactions
 items
 interactividad
 individualmente
+incrementar
+interconectados
+iteraciones
 fijo
 file
 fork
@@ -3250,6 +3259,7 @@ fijadas
 fallas
 follow
 feedback
+fijas
 Nombre
 Notas
 Not

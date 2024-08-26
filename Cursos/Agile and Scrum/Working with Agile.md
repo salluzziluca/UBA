@@ -1,4 +1,4 @@
-Para trabajar con [[Agile]]
+Para trabajar con [[Cursos/Agile and Scrum/Agile]]
 vamos a priorizar:
 - Trabajar en pequeños batches, para no hacer mucho y que despues todo esté mal
 - [[Minium Viable Product]], para ya saber (cuando tenes la base) si el cliente va a querer no no eso

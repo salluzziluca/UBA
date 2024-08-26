@@ -7,6 +7,8 @@ Es importante conocer los patrones ==y== los antipatrones
 
 Son Valores y Principios, es más que una metodologia y no se trata de ir rapido/apurarse o hacer multitasking.
 ![[Pasted image 20240826200011.png]]
+
+Tiene que que ver con el ==ser==(mindset, valores y principios) y con el **hacer** (frameworks y metodologias, tecnicas y herramientas)
 # Pilares
 - Adaptative planning
 - Evolutionary development. Las cosas se crean en pequeños incrementos.

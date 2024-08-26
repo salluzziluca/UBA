@@ -904,6 +904,8 @@ englobar
 efiicientes
 evitar
 equipos
+explicar
+escapan
 servicios
 son
 su
@@ -1089,6 +1091,8 @@ subconceptos
 subtipos
 supetipo
 simultaneo
+sencillo
+soluciones
 par
 por
 punto
@@ -1366,6 +1370,9 @@ processes
 plan
 principales
 planned
+paraguas
+planeamiento
+planifique
 la
 las
 le
@@ -1479,6 +1486,7 @@ lazos
 llegamos
 legajo
 locados
+llueve
 agnosticos
 apps
 al
@@ -1803,6 +1811,7 @@ quer
 quienes
 qu
 quitando
+quizas
 utilizados
 un
 una
@@ -2023,6 +2032,7 @@ Club
 Concurrencia
 Continual
 Customer
+Complejo
 Es
 El
 Estos
@@ -2249,6 +2259,9 @@ registrar
 repercutan
 recuperacion
 right
+requiere
+resolutible
+raro
 operacion
 orden
 operaciones
@@ -2536,6 +2549,7 @@ Almacenamiento
 Asegurar
 Adaptative
 Agile
+Algo
 Programming
 Procesos
 Partes
@@ -2849,6 +2863,7 @@ meses
 manifesto
 more
 multifuncionales
+mojarse
 tien
 tiene
 todos

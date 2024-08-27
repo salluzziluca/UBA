@@ -17,4 +17,10 @@ D1xD2= Bcn arg, bcn españa, bcn chile, sevilla ar, sevilla españa.....
 
 ### Relacion
 es un subconjunto de un producto cartesiano
-Subconjuntos interesantes de nuestro ej: R={Bcn, españa}{sevilla españa}{BsAs Argenti}
+Subconjuntos interesantes de nuestro ej: R={Bcn, españa}{sevilla españa}{BsAs Argentina}
+
+Un nombre de relacion junto con una lista de atributos ascociados se denomina esquima de reacion 
+R(A1, A2, A3)
+ej; Peliculas(nombre pelcua, año, nombre_director)
+
+Cada uno de los atributos 

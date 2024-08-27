@@ -7,4 +7,8 @@ Es una técnica de diseño en la que:
 1. [[Busqueda#Binaria|Busqueda binaria]]
 2. [[Sorting#Mergesort|mergesort]] y [[Sorting#Quick Sort|quicksort]]
 3. Otros algoritmos de dificultad similar 
-4. [[Arboles]] (incluyendo [[h]])
+4. [[Arboles]] (incluyendo [[Heap|heaps]])
+
+### ejemplo con mergesort 
+```py
+```

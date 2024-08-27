@@ -6,4 +6,9 @@ Creado en 1970 por Codd.+
 Es una formalizaicon matematia basada en el concepto de relacion
 
 ### Dominio
-> Conjntos de valores ho
+> Conjntos de valores homogeneos
+
+Ej: D1={barcelona, sevilla, Buenos Aires}
+
+### Producto cartesioano 
+AxB se define

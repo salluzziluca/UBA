@@ -110,4 +110,5 @@ idem con entidad
 integridad referencial tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
 
 
-## Transac
+## Transacción
+Serie de operaciones que o bien se hacen enteras o no se hacen.(ej: transaccion)

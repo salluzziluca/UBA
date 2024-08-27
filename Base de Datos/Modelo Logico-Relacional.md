@@ -35,5 +35,4 @@ El valor tomado por un atributo A en una tupla es t[A]
 la caridianliada en una relacion R es la cantidad de tuplas que posee
 
 ## Representacion
-
-
+Una relacion es una tabla con columnas qu son atributos y filas representados tuplas

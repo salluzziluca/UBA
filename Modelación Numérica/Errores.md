@@ -1,1 +1,3 @@
-## Errores de metodo
+## Fuentes de error:
+inherentes (mediciones fisicas)
+redondeo y/o almacenamiento en memoria

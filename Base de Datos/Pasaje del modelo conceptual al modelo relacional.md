@@ -17,6 +17,6 @@ clubes(nombreclub, pais)
 JuegaEn(nombre, nombreclub, pais)
 
 Entidades debilles
-hoteles(nombre)
-habitaciones(numero, nombre)
+hoteles(nombre_hotel)
+habitaciones(numtero, nombre_hotel, capacidad)
 

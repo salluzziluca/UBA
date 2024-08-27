@@ -51,6 +51,8 @@ Cuando un un subconjunto de atributos alcanza para identificar una tupla es una 
 Las superclaves son minimales las llamamos claves candidatas. 
 De entre todas las claves candidatas elegimos la clave primaria
 
+### Restriciones de integradad de entidad 
+La clave primara de una relacon no puede tomar el valor nulo
 
 ## EJ
 peliculas(nombre, año, director, oscars)
@@ -72,3 +74,4 @@ No es un buen modelo porque sigue siendo redundante
 ## Mutiples de relaciones
 Es mejor almacenar esquemas de relacion a uno solo esquema enorme
 ==ver diapo 18==
+

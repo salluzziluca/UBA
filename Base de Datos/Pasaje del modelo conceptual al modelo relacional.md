@@ -10,5 +10,5 @@ Ambas participacio total. Hago una tabla gerenteDepartamento(nombre_gerente, cod
 
 Con cardinalidad N 
 
-
+N futbolistas juegan en 1 club 
 

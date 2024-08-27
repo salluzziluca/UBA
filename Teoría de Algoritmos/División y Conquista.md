@@ -32,4 +32,10 @@ En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
 - entonces $y.x=(x_{1}.2^\left( \frac{n}{2} \right)+x_{0})(y_{1}.2^\left( \frac{n}{2} \right)+y_{0}))$
 - $x_{1}y_{1}.2^n+(x_{1}y_{0}+x_{0}y_{1})2^\left( \frac{n}{2} \right)+x_{0}y_{0}$
 - Entonces tenemos $T(n)4T\left( \frac{n}{2} \right)+O(n)\to O(n²)$. Es complicado y no mejora nada. Felicitaciones crack
-Peero si usamos 
+Peero si en vez de tener 4 llamados recurisvimos tuvieramos 3....
+
+```python
+def mutiplicacionBigInt(x,y):
+	si largo de x e y son pequeños, devolvemos x*y. sino:
+	
+```

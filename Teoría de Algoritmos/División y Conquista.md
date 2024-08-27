@@ -19,4 +19,5 @@ def mergesort(arr):
 	der = mergesort (arr[medio:])
 	return intercalar_ordenado(izq, der)
 ```
-Utilizando el [[Complejidad de Algoritmos#Teorema maestro|teorema maestro]] 
+Utilizando el ![[Complejidad de Algoritmos#Teorema maestro|teorema maestro]]
+Obtenemos para el mergesort: $2T \frac{n}{2} +O(N))$

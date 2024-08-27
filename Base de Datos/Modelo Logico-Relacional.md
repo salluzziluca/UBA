@@ -31,4 +31,9 @@ Una relacion con un quesma de relacion estando los atributos A_i asociados a los
 Peliculas = Kill bill, 2003, Trantino 0
 etonces la tupla Kill bill 2003, Trantino 3 seria falso porque no esta dentro del dominio
 
-El valor tomado por un a
+El valor tomado por un atributo A en una tupla es t[A]
+la caridianliada en una relacion R es la cantidad de tuplas que posee
+
+## Representacion
+
+

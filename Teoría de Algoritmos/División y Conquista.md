@@ -30,4 +30,4 @@ En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
  Obtener la mitad 0 es hacer un & contra $2^\left( \frac{n}{2} \right)-1$. La mitad 1 es hacer n/2 shift rights
 - x= abcdefgh. x_0=efgh. x_1=abcd
 - entonces $y.x=(x_{1}.2^\left( \frac{n}{2} \right)+x_{0})(y_{1}.2^\left( \frac{n}{2} \right)+y_{0}))$
-- 
+- $x_{1}y_{1}.2^n+(x_{1}y_{0}+x_{0}y_{1})2^\left( \frac{n}{2} \right)+x_{0}y_{0}$

@@ -23,5 +23,6 @@ habitaciones(numtero, nombre_hotel, capacidad)
 
 generalizacion 
 Persona(DNI, nombre)
-Alumnos(DNI)
-
+Alumnos(DNI, padron)
+docentes(DNI, legajo, fecha de alta)
+Uso en todos los DNI

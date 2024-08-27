@@ -48,4 +48,5 @@ Los atributos tienen que ser atomicos
 No pueden exstiri dos tuplas distintas que coincidan en los valores de tosos sus atributos 
 Cuando un atributo alcanza para identificar una tupla es una superclave
 
-
+Las superclaves son minimales las llamamos claves candidatas. 
+De entre todas las claves candidatas elegimos la clave primaria

@@ -8,3 +8,7 @@ EJ: tengo gernte dirige departamenteo y la cardinalidad de departamenteo es 1,1 
 
 Ambas participacio total. Hago una tabla gerenteDepartamento(nombre_gerente, codigo depto)
 
+Con cardinalidad N 
+
+
+

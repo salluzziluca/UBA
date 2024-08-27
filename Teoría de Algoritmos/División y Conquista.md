@@ -25,4 +25,4 @@ Obtenemos para el mergesort: $T(n)=2T (\frac{n}{2}) +O(n))$. Esto, con mucha mat
 En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
 
 
-## Problema 1:  multiplicaci
+## Problema 1:  multiplicacion de números muy grandes

@@ -20,3 +20,8 @@ Entidades debilles
 hoteles(nombre_hotel)
 habitaciones(numtero, nombre_hotel, capacidad)
 
+
+generalizacion 
+Persona(DNI, nombre)
+Alumnos(DNI)
+

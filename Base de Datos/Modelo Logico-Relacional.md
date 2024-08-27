@@ -65,4 +65,6 @@ LO bueno de usar claves subrrogadas es que si te cambian como funciona tu clave 
 Ver UUID (universal unique ID)
 
 ## Ej2
-ActoresPeliculas(nombrepeli,)
+ActoresPeliculas(peli, año, direector, oscars,actor)
+la clave seria actor,pelicula.
+No es un buen modelo porque sigue siendo redundante

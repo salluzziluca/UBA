@@ -82,4 +82,13 @@ Es mejor almacenar esquemas de relacion a uno solo esquema enorme
 
 
 
-## Operaciones
+## Operaciones 
+
+Los operaciones del modelo relacionas se especifican a traves del algebra relacional o el calculo relacional
+
+### Consulta 
+### Actualizacion
+
+#### Insercion
+#### Eliminacion
+####

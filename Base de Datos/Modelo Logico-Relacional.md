@@ -94,6 +94,8 @@ Los operaciones del modelo relacionas se especifican a traves del algebra relaci
 
 #### Insercion
 tengo que validar las 4 reglas
-#### Eliminacion
+#### Eliminaciont
+tengo que validad la integridad referencial
+
 
 ####

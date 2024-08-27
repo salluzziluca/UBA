@@ -974,6 +974,7 @@ escenarios
 enhance
 explicit
 estable
+estuvieramos
 servicios
 son
 su
@@ -1490,6 +1491,7 @@ pensas
 preserva
 pivote
 posicion
+podriamos
 la
 las
 le
@@ -1607,6 +1609,7 @@ llueve
 llegas
 lateral
 llamo
+laburando
 agnosticos
 apps
 al
@@ -2260,6 +2263,8 @@ Empatizar
 Enmarcar
 Ejemplos
 Estabilidad
+Espacios
+Escribimos
 kernel
 kruskal
 realice
@@ -3099,6 +3104,8 @@ makes
 mergea
 mergesort
 matematica
+multiplicacion
+mutiplicacion
 tien
 tiene
 todos
@@ -3953,6 +3960,7 @@ Valores
 Vertices
 Visualize
 Voy
+Vectoriales
 OPTIONS
 Operativos
 Orden

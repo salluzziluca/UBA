@@ -50,7 +50,7 @@ def mutiplicacionBigInt(x,y):
 Tiene que ser convexo. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equivalente a los angulos anterioes <= 180 grad 
 
 ![[Pasted image 20240827122108.png]]
-En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices y los comparo. Si A crece y C crece (caso del dibujo, entonces)
+En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices y los comparo. Si A crece y C crece y ademas C está mas alto que A(caso del dibujo, entonces) el punto mas alto va a estar entre c y b 
 
 
 

@@ -54,7 +54,11 @@ De entre todas las claves candidatas elegimos la clave primaria
 ### Restriciones de integradad de entidad 
 La clave primara de una relacon no puede tomar el valor nulo.
 
+
+### Restrccion de integridad referencial
 Si tengo tabla de peliculas actores y actuaciones no puedo poner en actuaciones poner una pelicula que no existe. Cuando estoy referencando una taba los valores tienen que estar dentro de la tabla que se esta referenciando
+
+Clave foranea (foreing key, FK)
 
 ## EJ
 peliculas(nombre, año, director, oscars)

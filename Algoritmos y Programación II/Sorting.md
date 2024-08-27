@@ -14,7 +14,7 @@ Caracteristicas
 	Es comparativo cuando se comparan elementos entre si
 - Adaptatividad
 	Es adaptativo cuando se adapta al comun de datos
-## Merge sort
+## Mergesort
 Divide en dos 
 va hacia la izquierda
 Va hacia la derecha

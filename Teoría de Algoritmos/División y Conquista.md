@@ -4,4 +4,5 @@ Es una técnica de diseño en la que:
 3. Combinamos la soluciones a cada subproblema
 
 ## Ejemplos de algoritmos
-1. Búsqueda Binaria
+1. [[Busqueda#Binaria|Busqueda binaria]]
+2. [[Sorting#Mergesort1mergesort]]

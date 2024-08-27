@@ -15,5 +15,7 @@ def mergesort(arr):
 	if len(arr) <=1:
 		return arr
 	medio = len(arr)/2
-	izq = mergesort(arr[:[medio])
+	izq = mergesort(arr[:medio])
+	der = mergesort (arr[medio:])
+	return intercalar_ordenado(izq, der)
 ```

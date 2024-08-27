@@ -16,3 +16,7 @@ futbolista(nombre pais)
 clubes(nombreclub, pais)
 JuegaEn(nombre, nombreclub, pais)
 
+Entidades debilles
+hoteles(nombre)
+habitaciones(numero, nombre)
+

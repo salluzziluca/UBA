@@ -25,7 +25,7 @@ mergea (ordenando)
 
 ### Complejidad algorítmica de mergesort
 $$\LARGE O(n.log(n))$$
-## Quick Sort
+## Quicksort
 1. Inicializo el pivote y su posición
 2. Itero reubicando los mayores al pivote
 3. Ubico al pivote en su posicion

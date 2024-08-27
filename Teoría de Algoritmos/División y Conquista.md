@@ -5,4 +5,6 @@ Es una técnica de diseño en la que:
 
 ## Ejemplos de algoritmos
 1. [[Busqueda#Binaria|Busqueda binaria]]
-2. [[Sorting#Mergesort1mergesort]]
+2. [[Sorting#Mergesort|mergesort]] y [[Sorting#Quick Sort|quicksort]]
+3. Otros algoritmos de dificultad similar 
+4. [[Arboles]] (incluyendo [[h]])

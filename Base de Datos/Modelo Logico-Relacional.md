@@ -44,3 +44,5 @@ Una relacion es una tabla con columnas qu son atributos y filas representados tu
 Se permiten nulls
 
 Los atributos tienen que ser atomicos
+
+No pueden exstiri dos tuplas distintas que coincidan en los valores de tosos sus atributos

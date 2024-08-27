@@ -3529,6 +3529,7 @@ Futbolista
 Fijo
 Fuhi
 Flow
+Fuerza
 Descriptors
 Descriptor
 Devuelve
@@ -3985,6 +3986,7 @@ Bocetos
 Beneficios
 Bien
 Behavior
+Bruta
 XY
 HEAD
 Hay

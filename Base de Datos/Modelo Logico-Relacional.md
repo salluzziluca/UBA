@@ -104,4 +104,7 @@ Pongo en null los atributos referenciales a actor
 
 
 #### Modificacion 
-Tengo que revisar dominio (que este bien e dat)
+Tengo que revisar dominio (que este bien e dato)
+Tengo que revisar unicidad tambien si cambio algun valor de la clave primaria
+idem con entidad
+integridad referencial tambien

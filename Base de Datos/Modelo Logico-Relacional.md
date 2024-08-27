@@ -112,3 +112,4 @@ integridad referencial tambien. Si modifico un valor referenciado tengo que fija
 
 ## Transacción
 Serie de operaciones que o bien se hacen enteras o no se hacen.(ej: transaccion)
+Yo defino esta serie de operaciones como transaccion

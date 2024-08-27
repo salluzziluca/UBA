@@ -68,3 +68,6 @@ Ver UUID (universal unique ID)
 ActoresPeliculas(peli, año, direector, oscars,actor)
 la clave seria actor,pelicula.
 No es un buen modelo porque sigue siendo redundante
+
+## Mutiples de relaciones
+Es mejor 

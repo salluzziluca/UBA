@@ -57,7 +57,12 @@ peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria
 Si se pueden repetir nombre no tengo claves candidatas. Asi que creo el ID.
 Ahora seria peliculas(id, nombre, año, id , director, oscars)
+
+## Claves subrrogadas(ID)
 En la materia no se busca que usemos tato ID, sino mas las claves naturales (para que aprendamos bien).
 LO bueno de usar claves subrrogadas es que si te cambian como funciona tu clave natural te chupa un webo
 
 Ver UUID (universal unique ID)
+
+## Ej2
+ActoresPeliculas(nombrepeli,)

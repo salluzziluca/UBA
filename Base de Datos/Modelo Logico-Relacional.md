@@ -82,4 +82,4 @@ Es mejor almacenar esquemas de relacion a uno solo esquema enorme
 
 
 
-
+## Operaciones

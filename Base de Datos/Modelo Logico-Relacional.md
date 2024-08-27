@@ -54,4 +54,5 @@ De entre todas las claves candidatas elegimos la clave primaria
 
 ## EJ
 peliculas(nombre, año, director, oscars)
-Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata
+Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria
+Si no es asi

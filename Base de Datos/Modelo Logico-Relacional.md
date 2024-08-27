@@ -103,4 +103,5 @@ O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el
 Pongo en null los atributos referenciales a actor
 
 
-####
+#### Modificacion 
+Tengo que revisar dominio (que este bien e dat)

@@ -682,6 +682,7 @@ discutir
 discutiendo
 darselo
 detras
+dificultad
 gestion
 gran
 guarda
@@ -1180,6 +1181,7 @@ subproblema
 swap
 sabiendo
 swapeamos
+similar
 par
 por
 punto
@@ -2917,6 +2919,7 @@ Union
 Utiliza
 Usuario
 Ubico
+Utilizando
 modo
 mode
 menso
@@ -3425,6 +3428,7 @@ iteracion
 inm
 improve
 incrementando
+incluyendo
 fijo
 file
 fork

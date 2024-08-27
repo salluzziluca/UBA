@@ -19,3 +19,4 @@ def mergesort(arr):
 	der = mergesort (arr[medio:])
 	return intercalar_ordenado(izq, der)
 ```
+Utilizando el [[Complejidad de Algoritmos#Teorema maestro|teorema maestro]] 

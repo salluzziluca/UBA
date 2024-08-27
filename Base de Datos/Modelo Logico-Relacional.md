@@ -108,3 +108,6 @@ Tengo que revisar dominio (que este bien e dato)
 Tengo que revisar unicidad tambien si cambio algun valor de la clave primaria
 idem con entidad
 integridad referencial tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
+
+
+## Transac

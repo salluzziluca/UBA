@@ -58,8 +58,7 @@ La clave primara de una relacon no puede tomar el valor nulo.
 ### Restrccion de integridad referencial
 Si tengo tabla de peliculas actores y actuaciones no puedo poner en actuaciones poner una pelicula que no existe. Cuando estoy referencando una taba los valores tienen que estar dentro de la tabla que se esta referenciando
 
-Clave foranea (foreing key, FK)
-
+Clave foranea (foreing key, FK) se denomina a un atributo de una relacion R que hace referencia a la calve priaria de otra relacion S
 ## EJ
 peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria

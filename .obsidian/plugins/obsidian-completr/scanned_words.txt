@@ -559,6 +559,11 @@ columnas
 coincidan
 claves
 candidatas
+calve
+candidata
+cambian
+chupa
+cascada
 de
 dispositivos
 del
@@ -816,6 +821,8 @@ dominios
 dom
 dominio
 distintas
+direector
+diapo
 gestion
 gran
 guarda
@@ -915,6 +922,7 @@ gpH
 genes
 geoespaciales
 gico
+guiones
 especifico
 entra
 en
@@ -1200,6 +1208,11 @@ estando
 etonces
 exstiri
 elegimos
+esquemas
+enorme
+especifican
+esas
+enteras
 servicios
 son
 su
@@ -1434,6 +1447,9 @@ sevilla
 subjconjunto
 superclave
 superclaves
+subrayar
+suponemos
+subrrogadas
 par
 por
 punto
@@ -1761,6 +1777,11 @@ proposiciones
 pelcua
 pertenecer
 primaria
+primara
+peliculas
+pelicula
+peli
+pelis
 la
 las
 le
@@ -2213,6 +2234,13 @@ arg
 ascociados
 atribuo
 atomicos
+actores
+actuaciones
+aprendamos
+actor
+algebra
+apariciones
+actuacion
 hardware
 heap
 hay
@@ -2414,6 +2442,7 @@ qL
 qKAp
 qXb
 quesma
+quedan
 utilizados
 un
 una
@@ -2514,6 +2543,9 @@ um
 uaV
 uq
 uhh
+unicidad
+usemos
+unique
 System
 Son
 Source
@@ -2639,6 +2671,7 @@ So
 SR
 ST
 Subconjuntos
+Serie
 Calls
 Cmabia
 CPU
@@ -2764,6 +2797,9 @@ Ce
 Creado
 Codd
 Conjntos
+Clave
+Claves
+Consulta
 Es
 El
 Estos
@@ -2867,6 +2903,7 @@ EF
 Ejq
 Ep
 Euj
+Eliminaciont
 kernel
 kt
 kU
@@ -2925,6 +2962,7 @@ kA
 kC
 km
 kyd
+key
 realice
 realicen
 resolve
@@ -3141,6 +3179,19 @@ rm
 ricos
 reacion
 representados
+relacon
+referencial
+referencando
+referenciando
+repetir
+relaciones
+relacionas
+relacional
+reglas
+restrictiva
+referenciales
+revisar
+rompan
 operacion
 orden
 operaciones
@@ -3265,6 +3316,7 @@ oC
 oyNS
 ouA
 oO
+oscars
 nombre
 nuevo
 nica
@@ -3388,6 +3440,8 @@ num
 nterno
 nun
 nulls
+naturales
+null
 via
 vuelve
 viven
@@ -3524,6 +3578,9 @@ vc
 vqi
 vcp
 video
+valres
+validar
+validad
 Application
 API
 Asigna
@@ -3638,6 +3695,8 @@ Actualmente
 Aires
 Argentina
 AxB
+ActoresPeliculas
+Actualizacion
 Programming
 Procesos
 Partes
@@ -3764,6 +3823,7 @@ PUU
 PPaso
 Producto
 Peliculas
+PUedo
 Interface
 ID
 Instructions
@@ -3870,6 +3930,7 @@ IjY
 Igv
 IRF
 IUU
+Insercion
 Un
 UNIX
 UBA
@@ -3942,6 +4003,7 @@ UC
 UA
 UY
 Us
+UUID
 modo
 mode
 menso
@@ -4145,6 +4207,8 @@ mApt
 mym
 matematia
 minimales
+miosmo
+modifico
 tien
 tiene
 todos
@@ -4338,6 +4402,10 @@ tupla
 tomado
 tuplas
 tosos
+taba
+tato
+tu
+transaccion
 inico
 interna
 infro
@@ -4544,6 +4612,8 @@ interrelacionados
 intermedio
 interesantes
 identificar
+integradad
+integridad
 fijo
 file
 fork
@@ -4681,6 +4751,9 @@ fRU
 formalizaicon
 falso
 filas
+foranea
+foreing
+fijarme
 Nombre
 Notas
 Not
@@ -4844,6 +4917,7 @@ FOO
 Fp
 Ft
 FYH
+FK
 Descriptors
 Descriptor
 Devuelve
@@ -5063,6 +5137,8 @@ MYcu
 Mahv
 MLLH
 Modelo
+Mutiples
+Modificacion
 Table
 Todos
 This
@@ -5169,6 +5245,8 @@ Tb
 Tm
 Tradicionales
 Trantino
+Tengo
+Transacci
 Realiza
 REgistrys
 Rango
@@ -5277,6 +5355,8 @@ RpK
 Relacion
 Representacion
 Restricciones
+Restriciones
+Restrccion
 bien
 by
 be
@@ -5415,6 +5495,8 @@ bases
 barcelona
 bcn
 bill
+borro
+borrame
 will
 words
 with
@@ -5479,6 +5561,7 @@ wo
 wuH
 wtx
 wm
+webo
 VA
 VIEW
 Volumen
@@ -5630,6 +5713,7 @@ Ou
 ObzzZD
 Oy
 Ow
+Operaciones
 ya
 yo
 yM

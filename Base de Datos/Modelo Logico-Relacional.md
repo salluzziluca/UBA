@@ -70,4 +70,5 @@ la clave seria actor,pelicula.
 No es un buen modelo porque sigue siendo redundante
 
 ## Mutiples de relaciones
-Es mejor 
+Es mejor almacenar esquemas de relacion a uno solo esquema enorme
+==ver diapo 18==

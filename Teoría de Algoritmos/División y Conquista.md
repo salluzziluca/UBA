@@ -26,4 +26,4 @@ En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
 
 
 ## Problema 1:  multiplicacion de números muy grandes
-- Escribimos la mutiplicacion como si estuvieramos laburando en base 2 ([[1.3 Binario|binario]]), y separamos la primera y 
+- Escribimos la mutiplicacion como si estuvieramos laburando en base 2 ([[1.3 Binario|binario]]), y separamos la primera y la segunda mitad $x = x_1 *2^\left( \frac{n}{2} \right)+X_{}$

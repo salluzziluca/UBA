@@ -1183,6 +1183,7 @@ swap
 sabiendo
 swapeamos
 similar
+separamos
 par
 por
 punto
@@ -3106,6 +3107,7 @@ mergesort
 matematica
 multiplicacion
 mutiplicacion
+mitad
 tien
 tiene
 todos

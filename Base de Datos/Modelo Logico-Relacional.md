@@ -23,4 +23,7 @@ Un nombre de relacion junto con una lista de atributos ascociados se denomina es
 R(A1, A2, A3)
 ej; Peliculas(nombre pelcua, año, nombre_director)
 
-Cada uno de los atributos 
+Cada uno de los atributos de nun esquema de la relacion....
+
+
+Una relacion con un quesma de relacion es un subjconjunto del producto cartsianod D1xD2x...xDm

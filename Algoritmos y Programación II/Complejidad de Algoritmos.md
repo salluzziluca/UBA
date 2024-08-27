@@ -12,7 +12,7 @@ Hay que probarlos en las mismas condiciones porque hay muchos factores externos.
 
 ![[Pasted image 20220331185438.png]]
 
-[[Teorema maestros]]
+![[Teorema maestro]]
 ## Notación "BIG O"
 - Va a mostrar como se comporta el algoritmo dado el tamaño del problema (no es lo mismo ordenar 3 numeros que 30000
 - Big O= cota superior

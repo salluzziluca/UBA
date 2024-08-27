@@ -1,4 +1,3 @@
-## Teorema maestro 
 Utilizado para problemas recursivos del tipo divide y conquista
 $$T(n) = aT(n/b) + f(n)$$
 - n equivale al tamaño del problema. 

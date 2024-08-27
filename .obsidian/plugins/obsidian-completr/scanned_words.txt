@@ -445,6 +445,7 @@ condici
 cumplen
 counting
 compu
+crack
 de
 dispositivos
 del
@@ -684,6 +685,8 @@ discutiendo
 darselo
 detras
 dificultad
+def
+devolvemos
 gestion
 gran
 guarda
@@ -1496,6 +1499,7 @@ preserva
 pivote
 posicion
 podriamos
+python
 la
 las
 le
@@ -2454,6 +2458,8 @@ robustamente
 relativo
 reubicando
 rights
+recurisvimos
+return
 operacion
 orden
 operaciones
@@ -2856,6 +2862,7 @@ POV
 Prototipar
 Problema
 Piece
+Peero
 Interface
 ID
 Instructions
@@ -3114,6 +3121,8 @@ matematica
 multiplicacion
 mutiplicacion
 mitad
+mutiplicacionBigInt
+multiplicacionBigInt
 tien
 tiene
 todos
@@ -3266,6 +3275,7 @@ together
 terminemos
 testeamos
 thing
+tuvieramos
 inico
 interna
 infro
@@ -3598,6 +3608,7 @@ Fijo
 Fuhi
 Flow
 Fuerza
+Felicitaciones
 Descriptors
 Descriptor
 Devuelve

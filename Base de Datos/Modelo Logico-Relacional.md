@@ -96,6 +96,10 @@ Los operaciones del modelo relacionas se especifican a traves del algebra relaci
 tengo que validar las 4 reglas
 #### Eliminaciont
 tengo que validad la integridad referencial
+Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
+
+Se puede resolver usando cascada ( borro todas sus apariciones)
+O de forma re
 
 
 ####

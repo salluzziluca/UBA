@@ -10,5 +10,10 @@ Es una técnica de diseño en la que:
 4. [[Arboles]] (incluyendo [[Heap|heaps]])
 
 ### ejemplo con mergesort 
-```py
+```python
+def mergesort(arr):
+	if len(arr) <=1:
+		return arr
+	medio = len(arr)/2
+	izq = mergesort(arr[:[medio])
 ```

@@ -38,6 +38,9 @@ la caridianliada en una relacion R es la cantidad de tuplas que posee
 Una relacion es una tabla con columnas qu son atributos y filas representados tuplas
 
 ## restricciones
+### Restricciones de unicidad 
+No puee haber dos tuplas con los miosmo valres
+
 ### Restricciones de dominio
 > Dado UN atributo A de una relacion R el valor del atribuo en una tupla T debe pertenecer al dominio Dom(A)
 
@@ -90,5 +93,6 @@ Los operaciones del modelo relacionas se especifican a traves del algebra relaci
 ### Actualizacion
 
 #### Insercion
+tengo que v
 #### Eliminacion
 ####

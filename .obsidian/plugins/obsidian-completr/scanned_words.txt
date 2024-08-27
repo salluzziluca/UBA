@@ -444,6 +444,7 @@ comparan
 condici
 cumplen
 counting
+compu
 de
 dispositivos
 del
@@ -975,6 +976,7 @@ enhance
 explicit
 estable
 estuvieramos
+efgh
 servicios
 son
 su
@@ -1184,6 +1186,7 @@ sabiendo
 swapeamos
 similar
 separamos
+shift
 par
 por
 punto
@@ -1879,6 +1882,8 @@ algoritmica
 adaptativo
 adapta
 adelantamos
+abcdefgh
+abcd
 hardware
 heap
 hay
@@ -2448,6 +2453,7 @@ repente
 robustamente
 relativo
 reubicando
+rights
 operacion
 orden
 operaciones
@@ -3981,6 +3987,7 @@ Orientada
 Operativo
 Ofrecer
 Obtenemos
+Obtener
 ya
 yo
 yendo

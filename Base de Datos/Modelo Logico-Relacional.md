@@ -50,3 +50,5 @@ Cuando un un subconjunto de atributos alcanza para identificar una tupla es una 
 
 Las superclaves son minimales las llamamos claves candidatas. 
 De entre todas las claves candidatas elegimos la clave primaria
+
+

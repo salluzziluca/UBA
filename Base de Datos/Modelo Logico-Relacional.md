@@ -26,4 +26,4 @@ ej; Peliculas(nombre pelcua, año, nombre_director)
 Cada uno de los atributos de nun esquema de la relacion....
 
 
-Una relacion con un quesma de relacion es un subjconjunto del producto cartsianod D1xD2x...xDm
+Una relacion con un quesma de relacion estando los atributos A_i asociados a los dominios D_1 = dom(A_1) es un subjconjunto del producto cartsianod D1xD2x...xDm

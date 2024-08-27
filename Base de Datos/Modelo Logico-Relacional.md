@@ -99,7 +99,8 @@ tengo que validad la integridad referencial
 Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
 
 Se puede resolver usando cascada ( borro todas sus apariciones)
-O de forma re
+O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor)
+Pongo en null los atributos referenciales a actor
 
 
 ####

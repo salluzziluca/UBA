@@ -38,6 +38,7 @@ Linking
 LInk
 Lemma
 Liberar
+Limit
 capa
 controlado
 cantidad
@@ -434,6 +435,9 @@ compras
 critica
 creatividad
 conformismo
+chequeando
+cambian
+convertible
 de
 dispositivos
 del
@@ -669,6 +673,8 @@ debito
 disparar
 deseable
 discutir
+discutiendo
+darselo
 gestion
 gran
 guarda
@@ -953,6 +959,12 @@ equipo
 empresarial
 efectivo
 eval
+estaban
+estrategia
+empezamos
+escenarios
+enhance
+explicit
 servicios
 son
 su
@@ -1153,6 +1165,8 @@ shadowning
 soluci
 storyboard
 superar
+snippets
+sure
 par
 por
 punto
@@ -1449,6 +1463,15 @@ postergando
 prohibida
 propuestas
 plantear
+programmers
+pensando
+perdido
+planeadas
+pivotar
+projecto
+progress
+priorizar
+pensas
 la
 las
 le
@@ -1827,6 +1850,8 @@ aborda
 ajenas
 autocensura
 alternativas
+asiento
+asegurarte
 hardware
 heap
 hay
@@ -1875,6 +1900,9 @@ hundirse
 hojas
 helping
 have
+hayamos
+horas
+hicieron
 que
 queda
 quien
@@ -2131,6 +2159,7 @@ Conocernos
 Customers
 Convierte
 Compartir
+Consitnuosly
 Es
 El
 Estos
@@ -2373,6 +2402,8 @@ resuelve
 realmente
 rentable
 resutlados
+repente
+robustamente
 operacion
 orden
 operaciones
@@ -2449,6 +2480,8 @@ observacion
 oportunidades
 obtienen
 oraciones
+one
+ojos
 nombre
 nuevo
 nica
@@ -2607,6 +2640,7 @@ validar
 valioso
 vuelta
 vias
+volante
 Application
 API
 Asigna
@@ -2767,6 +2801,7 @@ Profunda
 POV
 Prototipar
 Problema
+Piece
 Interface
 ID
 Instructions
@@ -3008,6 +3043,11 @@ medible
 maquetas
 mejora
 monoton
+mal
+monopatin
+manage
+make
+makes
 tien
 tiene
 todos
@@ -3156,6 +3196,10 @@ testear
 testeo
 tangibles
 tarjeta
+together
+terminemos
+testeamos
+thing
 inico
 interna
 infro
@@ -3330,6 +3374,9 @@ internet
 insight
 inaplicables
 involucrar
+iteracion
+inm
+improve
 fijo
 file
 fork
@@ -3427,6 +3474,7 @@ foco
 fomenta
 financiero
 falopas
+floiw
 Nombre
 Notas
 Not
@@ -3480,6 +3528,7 @@ Fundamental
 Futbolista
 Fijo
 Fuhi
+Flow
 Descriptors
 Descriptor
 Devuelve
@@ -3555,6 +3604,9 @@ Dedicar
 Discovery
 Desing
 Desarrollo
+Describe
+Driven
+Development
 Memoria
 Multivariada
 MORE
@@ -3594,6 +3646,8 @@ Me
 Messi
 Mapa
 Multidisciplinario
+MVP
+MPV
 Table
 Todos
 This
@@ -3641,6 +3695,9 @@ Tecnicas
 Thinking
 Toda
 Tantas
+Two
+Trabajar
+TDD
 Realiza
 REgistrys
 Rango
@@ -3791,6 +3848,8 @@ boludo
 blueprint
 bancaria
 bienvenida
+batches
+building
 will
 words
 with
@@ -3806,6 +3865,8 @@ work
 we
 while
 what
+workstation
+workflow
 VA
 VIEW
 Volumen
@@ -3831,6 +3892,7 @@ Volvemos
 Validating
 Valores
 Vertices
+Visualize
 OPTIONS
 Operativos
 Orden
@@ -3921,6 +3983,8 @@ Build
 Brainstorming
 Bocetos
 Beneficios
+Bien
+Behavior
 XY
 HEAD
 Hay

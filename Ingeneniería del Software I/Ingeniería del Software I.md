@@ -7,6 +7,7 @@ Priemera enseñanza: No seas boludo *o7*
 [[Clean Code]]
 [[Diseño  de Sistemas]]
 [[Agile]]
+[[Working with Agile]]
 [[Scrum]]
 [[R=R]]
 [[Marco Cynefin]]

@@ -3098,6 +3098,7 @@ make
 makes
 mergea
 mergesort
+matematica
 tien
 tiene
 todos
@@ -3661,6 +3662,7 @@ Describe
 Driven
 Development
 Divide
+Debe
 Memoria
 Multivariada
 MORE
@@ -3968,6 +3970,7 @@ Open
 Orientada
 Operativo
 Ofrecer
+Obtenemos
 ya
 yo
 yendo

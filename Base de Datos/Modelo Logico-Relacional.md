@@ -39,4 +39,8 @@ Una relacion es una tabla con columnas qu son atributos y filas representados tu
 
 ## restricciones
 ### Restricciones de dominio
-> Dado UN atributo A de una relacion R 
+> Dado UN atributo A de una relacion R el valor del atribuo en una tupla T debe pertenecer al dominio Dom(A)
+
+Se permiten nulls
+
+Los atributos tienen que ser atomicos

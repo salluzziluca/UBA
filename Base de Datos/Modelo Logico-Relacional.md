@@ -16,3 +16,5 @@ AxB se define como el conjunto de pares que cumplen a in A y b in B
 D1xD2= Bcn arg, bcn españa, bcn chile, sevilla ar, sevilla españa.....
 
 ### Relacion
+es un subconjunto de un producto cartesiano
+Subconjuntos interesantes de nuestro ej: R={Bcn, españa}{sevilla españa}{BsAs Argenti}

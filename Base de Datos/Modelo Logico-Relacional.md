@@ -57,5 +57,6 @@ peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria
 Si se pueden repetir nombre no tengo claves candidatas. Asi que creo el ID.
 Ahora seria peliculas(id, nombre, año, id , director, oscars)
+En la materia no se 
 
 Ver UUID (universal unique ID)

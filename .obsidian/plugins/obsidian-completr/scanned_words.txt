@@ -70,6 +70,7 @@ KHH
 KK
 Kp
 KNg
+Kill
 La
 Los
 Luego
@@ -548,6 +549,16 @@ cpp
 czzz
 cr
 complejos
+chile
+cartesioano
+cumplen
+cartesiano
+cartsianod
+caridianliada
+columnas
+coincidan
+claves
+candidatas
 de
 dispositivos
 del
@@ -799,6 +810,12 @@ dxx
 dJ
 dVVV
 ddtnv
+define
+director
+dominios
+dom
+dominio
+distintas
 gestion
 gran
 guarda
@@ -897,6 +914,7 @@ gm
 gpH
 genes
 geoespaciales
+gico
 especifico
 entra
 en
@@ -1175,6 +1193,13 @@ eL
 eGp
 eH
 enunciarse
+espa
+esquima
+esquema
+estando
+etonces
+exstiri
+elegimos
 servicios
 son
 su
@@ -1405,6 +1430,10 @@ sy
 sa
 seP
 sk
+sevilla
+subjconjunto
+superclave
+superclaves
 par
 por
 punto
@@ -1729,6 +1758,9 @@ pq
 pu
 pD
 proposiciones
+pelcua
+pertenecer
+primaria
 la
 las
 le
@@ -2177,6 +2209,10 @@ aU
 anm
 aliases
 audio
+arg
+ascociados
+atribuo
+atomicos
 hardware
 heap
 hay
@@ -2287,6 +2323,7 @@ hz
 hi
 hOl
 hs
+homogeneos
 que
 queda
 quien
@@ -2376,6 +2413,7 @@ qLMM
 qL
 qKAp
 qXb
+quesma
 utilizados
 un
 una
@@ -2600,6 +2638,7 @@ Sjns
 So
 SR
 ST
+Subconjuntos
 Calls
 Cmabia
 CPU
@@ -2722,6 +2761,9 @@ Cp
 CV
 CPTS
 Ce
+Creado
+Codd
+Conjntos
 Es
 El
 Estos
@@ -3097,6 +3139,8 @@ rg
 rDi
 rm
 ricos
+reacion
+representados
 operacion
 orden
 operaciones
@@ -3341,6 +3385,9 @@ nK
 nEMo
 nh
 num
+nterno
+nun
+nulls
 via
 vuelve
 viven
@@ -3588,6 +3635,9 @@ Apd
 Apx
 AEJi
 Actualmente
+Aires
+Argentina
+AxB
 Programming
 Procesos
 Partes
@@ -3711,6 +3761,9 @@ Pe
 Ps
 PVl
 PUU
+PPaso
+Producto
+Peliculas
 Interface
 ID
 Instructions
@@ -4090,6 +4143,8 @@ mH
 mL
 mApt
 mym
+matematia
+minimales
 tien
 tiene
 todos
@@ -4279,6 +4334,10 @@ tt
 tradicionales
 texto
 tipificarse
+tupla
+tomado
+tuplas
+tosos
 inico
 interna
 infro
@@ -4482,6 +4541,9 @@ iZ
 iN
 iA
 interrelacionados
+intermedio
+interesantes
+identificar
 fijo
 file
 fork
@@ -4616,6 +4678,9 @@ fO
 fph
 fr
 fRU
+formalizaicon
+falso
+filas
 Nombre
 Notas
 Not
@@ -4890,6 +4955,8 @@ DpD
 Dc
 DW
 Dph
+Dominio
+Dom
 Memoria
 Multivariada
 MORE
@@ -4995,6 +5062,7 @@ MaWVB
 MYcu
 Mahv
 MLLH
+Modelo
 Table
 Todos
 This
@@ -5100,6 +5168,7 @@ Tz
 Tb
 Tm
 Tradicionales
+Trantino
 Realiza
 REgistrys
 Rango
@@ -5205,6 +5274,9 @@ RYs
 RG
 Rdv
 RpK
+Relacion
+Representacion
+Restricciones
 bien
 by
 be
@@ -5340,6 +5412,9 @@ bZ
 bjh
 bdd
 bases
+barcelona
+bcn
+bill
 will
 words
 with
@@ -5925,6 +6000,9 @@ BrZ
 BAU
 BDD
 Bases
+Buenos
+Bcn
+BsAs
 XY
 Xg
 XQG
@@ -6240,6 +6318,7 @@ xN
 xs
 xO
 xptdT
+xDm
 Workload
 Walrus
 Whitley

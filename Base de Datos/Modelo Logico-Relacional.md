@@ -36,3 +36,7 @@ la caridianliada en una relacion R es la cantidad de tuplas que posee
 
 ## Representacion
 Una relacion es una tabla con columnas qu son atributos y filas representados tuplas
+
+## restricciones
+### Restricciones de dominio
+> Dado UN atributo A de una relacion R 

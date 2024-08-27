@@ -13,4 +13,6 @@ Con cardinalidad N
 N futbolistas juegan en 1 club 
 
 futbolista(nombre pais)
+clubes(nombreclub, pais)
+JuegaEn(nombre, nombreclub, pais)
 

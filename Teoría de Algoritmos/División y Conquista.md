@@ -31,4 +31,4 @@ En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
 - x= abcdefgh. x_0=efgh. x_1=abcd
 - entonces $y.x=(x_{1}.2^\left( \frac{n}{2} \right)+x_{0})(y_{1}.2^\left( \frac{n}{2} \right)+y_{0}))$
 - $x_{1}y_{1}.2^n+(x_{1}y_{0}+x_{0}y_{1})2^\left( \frac{n}{2} \right)+x_{0}y_{0}$
-- Entonces tenemos $T(n)4T\left( \frac{n}{2} \right)+O(n)\to O(n²)$. Es complicado y no mejora nada. 
+- Entonces tenemos $T(n)4T\left( \frac{n}{2} \right)+O(n)\to O(n²)$. Es complicado y no mejora nada. Felicitaciones crack

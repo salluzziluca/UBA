@@ -37,5 +37,7 @@ Peero si en vez de tener 4 llamados recurisvimos tuvieramos 3....
 ```python
 def mutiplicacionBigInt(x,y):
 	si largo de x e y son pequeños, devolvemos x*y. sino:
-	
+	x= x_1 2^(n/2)+x_0
+	y= y_1 2(n/2)+y_0
+	p = multiplicacionBigInt(x_1+x_0, y_1+y_0)
 ```

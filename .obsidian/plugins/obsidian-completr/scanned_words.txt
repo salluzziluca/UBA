@@ -687,6 +687,8 @@ detras
 dificultad
 def
 devolvemos
+definicion
+derivamos
 gestion
 gran
 guarda
@@ -735,6 +737,7 @@ geoespaciales
 gestiona
 gestionen
 gente
+generica
 especifico
 entra
 en
@@ -980,6 +983,11 @@ explicit
 estable
 estuvieramos
 efgh
+escalar
+evaluar
+evaluada
+estariamos
+evaluando
 servicios
 son
 su
@@ -1190,6 +1198,8 @@ swapeamos
 similar
 separamos
 shift
+satisfaga
+salto
 par
 por
 punto
@@ -1500,6 +1510,13 @@ pivote
 posicion
 podriamos
 python
+podamos
+partidas
+preguntan
+problematico
+plano
+perpendicular
+pega
 la
 las
 le
@@ -1888,6 +1905,8 @@ adapta
 adelantamos
 abcdefgh
 abcd
+aplicado
+adem
 hardware
 heap
 hay
@@ -1940,6 +1959,9 @@ hayamos
 horas
 hicieron
 han
+hecha
+hallar
+hayar
 que
 queda
 quien
@@ -2031,6 +2053,7 @@ unidireccional
 utiles
 uaaqdefrtgftn
 uncovering
+usaremos
 System
 Son
 Source
@@ -2275,6 +2298,8 @@ Ejemplos
 Estabilidad
 Espacios
 Escribimos
+Evaluamos
+Ejercicios
 kernel
 kruskal
 realice
@@ -2700,6 +2725,7 @@ valioso
 vuelta
 vias
 volante
+vectorial
 Application
 API
 Asigna
@@ -2769,6 +2795,7 @@ Agile
 Algo
 Aun
 Adaptatividad
+Ahi
 Programming
 Procesos
 Partes
@@ -2939,6 +2966,7 @@ Utiliza
 Usuario
 Ubico
 Utilizando
+Usando
 modo
 mode
 menso
@@ -3123,6 +3151,7 @@ mutiplicacion
 mitad
 mutiplicacionBigInt
 multiplicacionBigInt
+moves
 tien
 tiene
 todos
@@ -3276,6 +3305,7 @@ terminemos
 testeamos
 thing
 tuvieramos
+tangente
 inico
 interna
 infro
@@ -3455,6 +3485,8 @@ inm
 improve
 incrementando
 incluyendo
+imagen
+inter
 fijo
 file
 fork
@@ -3689,6 +3721,11 @@ Driven
 Development
 Divide
 Debe
+Derivabilidad
+Derivadas
+Derivada
+DERIVABILIDAD
+Del
 Memoria
 Multivariada
 MORE
@@ -4075,6 +4112,7 @@ Beneficios
 Bien
 Behavior
 Bruta
+Buscaremos
 XY
 HEAD
 Hay

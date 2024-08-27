@@ -43,3 +43,18 @@ def mutiplicacionBigInt(x,y):
 	x_0,y_0=mutiplicacionBigInt(x_0, y_0)
 	x_1,y_1= mutiplicacionBigInt(x_1, y_1)
 	return x_1 y_1 2^n + (p-x_1 y-1 -x_0 y_0) 2^(n/2) + x_0 y_0
+
+```
+
+## Problema 2: obtener extremo de un poligono
+Tiene que ser convexo. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equv
+
+
+
+
+
+
+
+
+
+

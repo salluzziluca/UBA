@@ -55,4 +55,5 @@ De entre todas las claves candidatas elegimos la clave primaria
 ## EJ
 peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria
-Si no es asi
+Si se pueden repetir nombre no tengo claves candidatas. Asi que creo el ID.
+Ahora seria peliculas(id, nombre, año, id , director, oscars)

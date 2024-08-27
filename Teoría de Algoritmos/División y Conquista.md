@@ -29,4 +29,4 @@ En casos particulares podriamos necesitar usar el [[Teorema Maestro general]]
 - Escribimos la mutiplicacion como si estuvieramos laburando en base 2 ([[1.3 Binario|binario]]), y separamos la primera y la segunda mitad. Lo hacemos en binario porque es mas rapido para la compu$x = x_1 *2^\left( \frac{n}{2} \right)+x_{0}$
  Obtener la mitad 0 es hacer un & contra $2^\left( \frac{n}{2} \right)-1$. La mitad 1 es hacer n/2 shift rights
 - x= abcdefgh. x_0=efgh. x_1=abcd
-- entonces $y.x=(x_{1}$
+- entonces $y.x=(x_{1}.2^\left( \frac{n}{2} \right)$

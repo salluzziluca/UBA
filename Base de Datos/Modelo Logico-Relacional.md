@@ -45,4 +45,7 @@ Se permiten nulls
 
 Los atributos tienen que ser atomicos
 
-No pueden exstiri dos tuplas distintas que coincidan en los valores de tosos sus atributos
+No pueden exstiri dos tuplas distintas que coincidan en los valores de tosos sus atributos 
+Cuando un atributo alcanza para identificar una tupla es una superclave
+
+

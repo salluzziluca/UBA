@@ -14,7 +14,7 @@ Hay que probarlos en las mismas condiciones porque hay muchos factores externos.
 
 ## Teorema maestro 
 Utilizado para problemas recursivos del tipo divide y conquista
-T(n) = aT(n/b) + f(n)
+$$T(n) = aT(n/b) + f(n)$$
 - n equivale al tamaño del problema. 
 - a equivale a la cantidad de llamadas recursivas que realiza el algoritmo. 
 - b equivale a cuanto se divide el problema para resolverlo recursivamente.

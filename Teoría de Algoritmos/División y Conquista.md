@@ -40,4 +40,7 @@ def mutiplicacionBigInt(x,y):
 	x= x_1 2^(n/2)+x_0
 	y= y_1 2(n/2)+y_0
 	p = multiplicacionBigInt(x_1+x_0, y_1+y_0)
+	x_0,y_0=mutiplicacionBigInt(x_0, y_0)
+	x_1,y_1= mutiplicacionBigInt(x_1, y_1)
+	return x_1 y_1 2^n + (p-x_1 y-1 -x_0 y_0) 2^
 ```

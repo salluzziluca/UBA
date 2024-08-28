@@ -82,6 +82,5 @@ $$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 ### algoritmo
 ![[Pasted image 20240828102242.png]]
 
-```python
-
-```
+## Problema 4: Mutiplicacion de matrices
+El algoritmo sencillo es O(n^3)

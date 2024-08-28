@@ -566,6 +566,13 @@ chupa
 cascada
 cosa
 cohesion
+cnica
+conviene
+compu
+crack
+convexo
+corte
+comparo
 de
 dispositivos
 del
@@ -828,6 +835,8 @@ diapo
 definicion
 derivamos
 dis
+dificultad
+dibujo
 gestion
 gran
 guarda
@@ -931,6 +940,7 @@ guiones
 generica
 gido
 generalizacion
+grad
 especifico
 entra
 en
@@ -1226,6 +1236,10 @@ evaluar
 evaluada
 estariamos
 evaluando
+estuvieramos
+efgh
+extremo
+eje
 servicios
 son
 su
@@ -1466,6 +1480,11 @@ subrrogadas
 supongamos
 satisfaga
 salto
+subproblemas
+subproblema
+soluciones
+separamos
+shift
 par
 por
 punto
@@ -1806,6 +1825,9 @@ piden
 plano
 perpendicular
 pega
+particulares
+podriamos
+poligono
 la
 las
 le
@@ -1967,6 +1989,7 @@ lk
 lZz
 lR
 lugares
+laburando
 agnosticos
 apps
 al
@@ -2269,6 +2292,11 @@ actuacion
 aplicado
 adem
 acoplamiento
+abcdefgh
+abcd
+angulos
+anterioes
+ademas
 hardware
 heap
 hay
@@ -2834,6 +2862,7 @@ Conjntos
 Clave
 Claves
 Consulta
+Combinamos
 Es
 El
 Estos
@@ -2940,6 +2969,9 @@ Euj
 Eliminaciont
 Evaluamos
 Ejercicios
+Ejemplos
+Escribimos
+Equivalente
 kernel
 kt
 kU
@@ -3229,6 +3261,9 @@ referenciales
 revisar
 rompan
 rompe
+rapido
+rights
+recurisvimos
 operacion
 orden
 operaciones
@@ -3620,6 +3655,7 @@ validar
 validad
 vectorial
 vale
+vertices
 Application
 API
 Asigna
@@ -3738,6 +3774,7 @@ ActoresPeliculas
 Actualizacion
 Ahi
 Alta
+Agarro
 Programming
 Procesos
 Partes
@@ -3865,6 +3902,8 @@ PPaso
 Producto
 Peliculas
 PUedo
+Problema
+Peero
 Interface
 ID
 Instructions
@@ -4047,6 +4086,7 @@ UY
 Us
 UUID
 Usando
+Utilizando
 modo
 mode
 menso
@@ -4253,6 +4293,13 @@ minimales
 miosmo
 modifico
 moves
+mergesort
+matematica
+multiplicacion
+mutiplicacion
+mitad
+mejora
+monotionico
 tien
 tiene
 todos
@@ -4451,6 +4498,7 @@ tato
 tu
 transaccion
 tangente
+tuvieramos
 inico
 interna
 infro
@@ -4660,6 +4708,7 @@ identificar
 integradad
 integridad
 imagen
+incluyendo
 fijo
 file
 fork
@@ -4965,6 +5014,7 @@ Ft
 FYH
 FK
 Fragilidad
+Felicitaciones
 Descriptors
 Descriptor
 Devuelve
@@ -5411,6 +5461,7 @@ Restricciones
 Restriciones
 Restrccion
 Rigidez
+Resolvemos
 bien
 by
 be
@@ -5768,6 +5819,7 @@ ObzzZD
 Oy
 Ow
 Operaciones
+Obtenemos
 ya
 yo
 yM
@@ -6395,6 +6447,7 @@ QyJ
 QCaa
 QoEI
 Qh
+Que
 ximo
 xito
 xitos

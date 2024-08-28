@@ -586,6 +586,7 @@ condici
 cumplan
 counting
 clinica
+consigo
 de
 dispositivos
 del
@@ -859,6 +860,8 @@ dichas
 detras
 desorden
 discriminante
+deo
+dimensional
 gestion
 gran
 guarda
@@ -1268,6 +1271,8 @@ encuentren
 endre
 estable
 entidaed
+eucl
+equivalencias
 servicios
 son
 su
@@ -1869,6 +1874,7 @@ pareja
 puntes
 preserva
 pivote
+pitagorica
 la
 las
 le
@@ -2468,6 +2474,7 @@ han
 habitacion
 habtiaciones
 hotel
+homog
 que
 queda
 quien
@@ -2930,6 +2937,8 @@ Cuanta
 Comparatividad
 Counting
 Creamos
+Conjuntos
+Cartesiano
 Es
 El
 Estos
@@ -3336,6 +3345,7 @@ recurisvimos
 rreglos
 relativo
 reubicando
+relaci
 operacion
 orden
 operaciones
@@ -3593,6 +3603,7 @@ nulls
 naturales
 null
 nociones
+neos
 via
 vuelve
 viven
@@ -4394,6 +4405,7 @@ mitades
 matrices
 mergea
 medico
+metrico
 tien
 tiene
 todos
@@ -4951,6 +4963,7 @@ foranea
 foreing
 fijarme
 fecha
+formalizaci
 Nombre
 Notas
 Not
@@ -5238,6 +5251,7 @@ Derivada
 DERIVABILIDAD
 Del
 Divide
+Dise
 Memoria
 Multivariada
 MORE
@@ -5573,6 +5587,7 @@ Restrccion
 Rigidez
 Resolvemos
 Reorganizo
+Relacional
 bien
 by
 be

@@ -12,7 +12,7 @@ Es una formalización matemática basada en el concepto de relación
 Ej: D1={barcelona, sevilla, Buenos Aires}
 D2={Argentina, esaña, chile}
 
-### Producto cartesiano 
+### [[1.1 Conjuntos#Producto Cartesiano|Producto Cartesiano]]
 AxB se define como el conjunto de pares que cumplen a in A y b in B
 D1xD2= Bcn arg, bcn españa, bcn chile, sevilla ar, sevilla españa.....
 
@@ -20,7 +20,7 @@ D1xD2= Bcn arg, bcn españa, bcn chile, sevilla ar, sevilla españa.....
 es un subconjunto de un producto cartesiano
 Subconjuntos interesantes de nuestro ej: R={Bcn, españa}{sevilla españa}{BsAs Argentina}
 
-Un nombre de relacion junto con una lista de atributos ascociados se denomina esquima de reacion 
+Un nombre de relación junto con una lista de atributos asociados se denomina esquema de relación 
 R(A1, A2, A3)
 ej; Peliculas(nombre pelcua, año, nombre_director)
 

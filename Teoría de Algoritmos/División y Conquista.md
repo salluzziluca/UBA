@@ -88,3 +88,7 @@ Si divido las matrices en n/2xn/2 terminamos con 8 llamados recursivos e igual n
 ### Algoritmo de Strassen
 En vez de 8 llamados recursivos hacemos 7
 $$T(n)= 7\left( T\left( \frac{n}{2} \right) \right)+O(1)\to T(n)=O(n^{\log_{2}7}) \approx O(n^{2,8})$$
+
+### Problema 5: FTT- Transformada rapida de Fourier
+
+Tenemos dos vectores A y B y queremos obtener la covolucion entre ambos

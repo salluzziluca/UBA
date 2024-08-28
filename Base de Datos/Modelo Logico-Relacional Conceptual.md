@@ -22,9 +22,10 @@ Subconjuntos interesantes de nuestro ej: R={Bcn, españa}{sevilla españa}{BsAs 
 
 Un nombre de relación junto con una lista de atributos asociados se denomina esquema de relación 
 R(A1, A2, A3)
-ej; Peliculas(nombre pelcua, año, nombre_director)
+ej; Peliculas(nombre_pelicula, año, nombre_director)
 
-Cada uno de los atributos de nun esquema de la relacion....
+Cada uno de los atributos de un esquema de la relacion está asociado a un dominio particular. nombre_pelicula->dom(nombre_pelicula) = string 
+año dom(año)=
 
 
 Una relacion con un quesma de relacion estando los atributos A_i asociados a los dominios D_1 = dom(A_1) es un subjconjunto del producto cartsianod D1xD2x...xDm.

@@ -595,6 +595,8 @@ corresponde
 conunto
 cadena
 consulta
+concatenar
+comprehension
 de
 dispositivos
 del
@@ -2850,6 +2852,7 @@ SGBDD
 SGBDs
 Soportre
 Sevilla
+Slices
 Calls
 Cmabia
 CPU
@@ -4199,6 +4202,8 @@ Interrelacion
 Independencia
 Integridad
 Inserci
+INMUTABLES
+Igual
 Un
 UNIX
 UBA
@@ -5358,6 +5363,7 @@ Django
 Darren
 Depende
 Dpto
+Desempaquetado
 Memoria
 Multivariada
 MORE
@@ -5585,6 +5591,8 @@ Transformada
 Tenemos
 Tarantino
 Tablas
+Tuplas
+Tuple
 Realiza
 REgistrys
 Rango

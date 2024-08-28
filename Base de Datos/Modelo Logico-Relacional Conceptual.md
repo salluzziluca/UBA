@@ -1,9 +1,10 @@
-## Modelo lógico 
-PPaso intermedio entre el modelo conceptual y el nterno
+## Diseño lógico 
+Paso intermedio entre el modelo conceptual y el interno
+![[Pasted image 20240828111814.png]]
 
-## Definición
-Creado en 1970 por Codd.+
-Es una formalizaicon matematia basada en el concepto de relacion
+## Definición de Modelo Relacional
+Creado en 1970 por Codd.
+Es una formalizaicon matematica basada en el concepto de relacion
 
 ### Dominio
 > Conjntos de valores homogeneos

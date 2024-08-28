@@ -564,6 +564,8 @@ candidata
 cambian
 chupa
 cascada
+cosa
+cohesion
 de
 dispositivos
 del
@@ -823,6 +825,9 @@ dominio
 distintas
 direector
 diapo
+definicion
+derivamos
+dis
 gestion
 gran
 guarda
@@ -923,6 +928,9 @@ genes
 geoespaciales
 gico
 guiones
+generica
+gido
+generalizacion
 especifico
 entra
 en
@@ -1213,6 +1221,11 @@ enorme
 especifican
 esas
 enteras
+escalar
+evaluar
+evaluada
+estariamos
+evaluando
 servicios
 son
 su
@@ -1450,6 +1463,9 @@ superclaves
 subrayar
 suponemos
 subrrogadas
+supongamos
+satisfaga
+salto
 par
 por
 punto
@@ -1782,6 +1798,14 @@ peliculas
 pelicula
 peli
 pelis
+podamos
+partidas
+preguntan
+problematico
+piden
+plano
+perpendicular
+pega
 la
 las
 le
@@ -1942,6 +1966,7 @@ lG
 lk
 lZz
 lR
+lugares
 agnosticos
 apps
 al
@@ -2241,6 +2266,9 @@ actor
 algebra
 apariciones
 actuacion
+aplicado
+adem
+acoplamiento
 hardware
 heap
 hay
@@ -2352,6 +2380,9 @@ hi
 hOl
 hs
 homogeneos
+hecha
+hallar
+hayar
 que
 queda
 quien
@@ -2546,6 +2577,8 @@ uhh
 unicidad
 usemos
 unique
+usaremos
+usualmente
 System
 Son
 Source
@@ -2672,6 +2705,7 @@ SR
 ST
 Subconjuntos
 Serie
+Sintomas
 Calls
 Cmabia
 CPU
@@ -2904,6 +2938,8 @@ Ejq
 Ep
 Euj
 Eliminaciont
+Evaluamos
+Ejercicios
 kernel
 kt
 kU
@@ -3192,6 +3228,7 @@ restrictiva
 referenciales
 revisar
 rompan
+rompe
 operacion
 orden
 operaciones
@@ -3581,6 +3618,8 @@ video
 valres
 validar
 validad
+vectorial
+vale
 Application
 API
 Asigna
@@ -3697,6 +3736,8 @@ Argentina
 AxB
 ActoresPeliculas
 Actualizacion
+Ahi
+Alta
 Programming
 Procesos
 Partes
@@ -3931,6 +3972,7 @@ Igv
 IRF
 IUU
 Insercion
+Inmobilidad
 Un
 UNIX
 UBA
@@ -4004,6 +4046,7 @@ UA
 UY
 Us
 UUID
+Usando
 modo
 mode
 menso
@@ -4209,6 +4252,7 @@ matematia
 minimales
 miosmo
 modifico
+moves
 tien
 tiene
 todos
@@ -4406,6 +4450,7 @@ taba
 tato
 tu
 transaccion
+tangente
 inico
 interna
 infro
@@ -4614,6 +4659,7 @@ interesantes
 identificar
 integradad
 integridad
+imagen
 fijo
 file
 fork
@@ -4918,6 +4964,7 @@ Fp
 Ft
 FYH
 FK
+Fragilidad
 Descriptors
 Descriptor
 Devuelve
@@ -5031,6 +5078,10 @@ DW
 Dph
 Dominio
 Dom
+Derivadas
+Derivada
+DERIVABILIDAD
+Del
 Memoria
 Multivariada
 MORE
@@ -5139,6 +5190,7 @@ MLLH
 Modelo
 Mutiples
 Modificacion
+Mal
 Table
 Todos
 This
@@ -5247,6 +5299,7 @@ Tradicionales
 Trantino
 Tengo
 Transacci
+Toco
 Realiza
 REgistrys
 Rango
@@ -5357,6 +5410,7 @@ Representacion
 Restricciones
 Restriciones
 Restrccion
+Rigidez
 bien
 by
 be
@@ -6087,6 +6141,8 @@ Bases
 Buenos
 Bcn
 BsAs
+Buscaremos
+Bajo
 XY
 Xg
 XQG

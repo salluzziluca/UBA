@@ -2,3 +2,5 @@
 [[Grafos]]
 [[Arboles]]
 [[clique]]
+[[División y Conquista]]
+[[Teorema Maestro general]]

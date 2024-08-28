@@ -3,12 +3,12 @@ Los operaciones del modelo relacionas se especifican a traves del algebra relaci
 
 ## Consulta 
 No modifica ninguna relacion y no viola ningun tipo de [[Restricciones del modelo Logico Relacional|restricción]]
-## Actualizacion
+## Actualización
 
-### Insercion
-tengo que validar las 4 reglas. EL [[Sistemas de Gestion de Bases de Datos|SGBD]] 
-### Eliminaciont
-tengo que validad la integridad referencial
+### Inserción
+tengo que validar las 4 reglas. EL [[Sistemas de Gestion de Bases de Datos|SGBD]] deberá rechazar una inserción que viole algún tipo de [[Restricciones del modelo Logico Relacional|restriccón]]
+### Eliminación
+tengo que validad la [[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|]]
 Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
 
 Se puede resolver usando cascada ( borro todas sus apariciones)

@@ -52,6 +52,10 @@ Tiene que ser convexo. Para todo segmento L el poligono tiene que ser monotionic
 ![[Pasted image 20240827122108.png]]
 En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices y los comparo. Si A crece y C crece y ademas C está mas alto que A(caso del dibujo, entonces) el punto mas alto va a estar entre c y b 
 
+Reorganizo los puntos
+![[Pasted image 20240828094615.png]]
+Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto mas alto esta entre A y
+
 
 
 

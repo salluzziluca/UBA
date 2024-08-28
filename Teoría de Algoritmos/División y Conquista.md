@@ -61,6 +61,8 @@ Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto
 
 Empezamos con A y B = 0, C = n/2
 
-Si tenemos 2 vertices, com
+Si tenemos 2 vertices, comparamos a mano 
+aplicamos logica de partir. 
+Nos quedamos con una mitad y comparo de vuelta, simil [[Busqueda#Binaria|busqueda binaria]]. O(logn)
 
 

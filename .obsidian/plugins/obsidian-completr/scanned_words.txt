@@ -167,6 +167,7 @@ Leqc
 LIpp
 Lyv
 Lka
+Lucas
 capa
 controlado
 cantidad
@@ -587,6 +588,9 @@ cumplan
 counting
 clinica
 consigo
+culas
+cardinalidad
+com
 de
 dispositivos
 del
@@ -1526,6 +1530,8 @@ sabiendo
 swapeamos
 sort
 subordinada
+simbolizaremos
+sico
 par
 por
 punto
@@ -1875,6 +1881,7 @@ puntes
 preserva
 pivote
 pitagorica
+pertenezca
 la
 las
 le
@@ -2475,6 +2482,7 @@ habitacion
 habtiaciones
 hotel
 homog
+habla
 que
 queda
 quien
@@ -2803,6 +2811,7 @@ Serie
 Sintomas
 Strassen
 Sorting
+Star
 Calls
 Cmabia
 CPU
@@ -2939,6 +2948,7 @@ Counting
 Creamos
 Conjuntos
 Cartesiano
+Cisne
 Es
 El
 Estos
@@ -3050,6 +3060,7 @@ Escribimos
 Equivalente
 Empezamos
 Estabilidad
+Ejemplo
 kernel
 kt
 kU
@@ -3346,6 +3357,8 @@ rreglos
 relativo
 reubicando
 relaci
+representar
+representan
 operacion
 orden
 operaciones
@@ -3604,6 +3617,8 @@ naturales
 null
 nociones
 neos
+nomenclatura
+nmente
 via
 vuelve
 viven
@@ -3748,6 +3763,7 @@ vale
 vertices
 vuelta
 voy
+vinculada
 Application
 API
 Asigna
@@ -3869,6 +3885,7 @@ Alta
 Agarro
 Algoritmo
 Adaptatividad
+Aronofsky
 Programming
 Procesos
 Partes
@@ -3998,6 +4015,7 @@ Peliculas
 PUedo
 Problema
 Peero
+Pel
 Interface
 ID
 Instructions
@@ -4187,6 +4205,7 @@ UUID
 Usando
 Utilizando
 Ubico
+Unchained
 modo
 mode
 menso
@@ -5038,6 +5057,7 @@ NG
 NOc
 NY
 Numero
+Negro
 File
 For
 Funcion
@@ -5252,6 +5272,8 @@ DERIVABILIDAD
 Del
 Divide
 Dise
+Django
+Darren
 Memoria
 Multivariada
 MORE
@@ -5474,6 +5496,8 @@ Transacci
 Toco
 Transformada
 Tenemos
+Tarantino
+Tablas
 Realiza
 REgistrys
 Rango
@@ -6229,6 +6253,7 @@ Gii
 Gu
 GC
 Gx
+George
 BX
 Bit
 Box
@@ -6325,6 +6350,7 @@ Buscaremos
 Bajo
 Busco
 Buscamos
+Bill
 XY
 Xg
 XQG
@@ -6580,6 +6606,7 @@ Qh
 Que
 Quiero
 Quicksort
+Quentin
 ximo
 xito
 xitos
@@ -6645,6 +6672,7 @@ xO
 xptdT
 xDm
 xn
+xDn
 Workload
 Walrus
 Whitley
@@ -6717,6 +6745,7 @@ Wq
 Wd
 WrI
 WEZ
+Wars
 ZZZPU
 ZX
 ZQ

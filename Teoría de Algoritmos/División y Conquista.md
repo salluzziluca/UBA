@@ -73,3 +73,5 @@ Si comparo todo es O(n^2)
 En una dimension-> ordenamos (O(n logn)) y despues comparamos cad elemento con sus adyacentes (O(n))
 
 En 2 dim se complica, pero podemos usar nociones de [[Sorting#Mergesort|mergesort]]. Buscamos la pareja mas cercana mas cercana del lado izq y otra del lado derecho y en tiempo lineal buscamos los mas cercanos
+1. Pongo un x de corte
+2. obtengo 

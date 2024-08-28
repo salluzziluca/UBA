@@ -76,6 +76,5 @@ En 2 dim se complica, pero podemos usar nociones de [[Sorting#Mergesort|mergesor
 1. Pongo un x de corte y obtengo las dos mitades Q y R
 2. obtengo Q_x Q_y R_x R_y 
 3. llamo recursivamente a las dos mitades y me devuelve el mejor candidato
-4. Ya se al distancia menor, agarro los puntes que esten a esa distancia "d" de la x de corte y los comparo
-
-$$$$
+4. Ya se al distancia menor, agarro los puntes que esten a esa distancia "d" de la x de corte y comparo los 15 siguientes que se encuentren en esos puntos. 
+$$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$

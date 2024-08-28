@@ -1,5 +1,3 @@
-### Restricciones de unicidad 
-No puee haber dos tuplas con los miosmo valres
 
 ### Restricciones de dominio
 > Dado UN [[Base de Datos/Atributos|atributo]] A de una relacion R el valor del atribuo en una [[tupla]] T debe pertenecer al dominio Dom(A)
@@ -7,6 +5,7 @@ No puee haber dos tuplas con los miosmo valres
 Se permiten nulls
 
 Los [[Base de Datos/Atributos|atributos]] tienen que ser atomicos
+### Restricciones de unicidad 
 
 No pueden existir dos tuplas distintas que coincidan en los valores de todos sus [[Base de Datos/Atributos|atributos]].
 Cuando un un subconjunto de [[Base de Datos/Atributos|atributos]] alcanza para identificar una [[tupla]] es una [[Superclave (SK)]]

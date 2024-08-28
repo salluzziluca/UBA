@@ -9,8 +9,8 @@ Es una formalización matemática basada en el concepto de relación
 ### Dominio
 > Conjuntos de valores homogéneos
 
-Ej: D1={barcelona, sevilla, Buenos Aires}
-D2={Argentina, esaña, chile}
+Ej: D1={Barcelona, Sevilla, Buenos Aires}
+D2={Argentina, españa, chile}
 
 ### [[1.1 Conjuntos#Producto Cartesiano|Producto Cartesiano]]
 AxB se define como el conjunto de pares que cumplen a in A y b in B

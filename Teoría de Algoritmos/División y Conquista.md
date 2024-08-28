@@ -84,5 +84,7 @@ $$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 
 ## Problema 4: Mutiplicacion de matrices
 El algoritmo sencillo es O(n^3)
-si hago 
+Si divido las matrices en n/2xn/2 terminamos con 8 llamados recursivos e igual nos da O(n^{2,8})
 ### Algoritmo de Strassen
+En vez de 8 llamados recursivos hacemos 7
+$$T(n)= 7(t)$$

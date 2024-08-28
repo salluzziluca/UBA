@@ -40,8 +40,12 @@ la *cardinalidad* en una relacion R es la cantidad de tuplas que posee
 La simbolizaremos n(R). 
 Ejemplo: n(Películas) = 4
 ## Representacion
-Una relacion es una tabla con columnas qu son atributos y filas representados tuplas
+### Tablas
+Una forma útil de representar una relación es a través de una tabla en la que las columnas representan los atributos y las filas representan las tuplas.
+![[Pasted image 20240828112655.png]]
 
+### Archivos
+Otra nomenclatura comúnmente utilizada –y más vinculada al nivel físico– habla de archivos en lugar de tablas, registros en lugar de filas, y campos en lugar de columnas.
 ## restricciones
 ### Restricciones de unicidad 
 No puee haber dos tuplas con los miosmo valres

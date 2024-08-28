@@ -613,6 +613,7 @@ cerrada
 camino
 curvas
 caminos
+compacta
 de
 dispositivos
 del
@@ -1005,6 +1006,7 @@ gido
 generalizacion
 grad
 gestiona
+green
 especifico
 entra
 en
@@ -1947,6 +1949,8 @@ partiendo
 partecitas
 particula
 parametrizar
+plana
+positivamente
 la
 las
 le
@@ -2117,6 +2121,7 @@ lacual
 legajo
 linked
 links
+lculo
 agnosticos
 apps
 al
@@ -2897,6 +2902,7 @@ SGBDs
 Soportre
 Sevilla
 Slices
+SOLAMENTE
 Calls
 Cmabia
 CPU
@@ -3042,6 +3048,9 @@ Chile
 Curvas
 Curvilinea
 Curvascia
+CON
+CUYOS
+CONSTANTE
 Es
 El
 Estos
@@ -3466,6 +3475,8 @@ relacionarse
 rstantes
 rectificable
 representara
+reas
+report
 operacion
 orden
 operaciones
@@ -3600,6 +3611,8 @@ ordene
 ocurrencias
 other
 observar
+orientada
+orientacion
 nombre
 nuevo
 nica
@@ -4016,6 +4029,7 @@ After
 Aproximamos
 Abscisa
 Aplicaciones
+Aplicaci
 Programming
 Procesos
 Partes
@@ -4573,6 +4587,7 @@ manipulaci
 maxima
 minimal
 markdown
+matriz
 tien
 tiene
 todos
@@ -4776,6 +4791,9 @@ tendra
 transaccional
 tag
 trozo
+trozos
+teorema
+tomando
 inico
 interna
 infro
@@ -5000,6 +5018,7 @@ imaginado
 imaginartelo
 integrales
 interior
+incluye
 fijo
 file
 fork
@@ -5447,6 +5466,7 @@ Dpto
 Desempaquetado
 Diferencial
 Derivar
+DEN
 Memoria
 Multivariada
 MORE
@@ -6302,6 +6322,7 @@ jz
 jlO
 jrD
 jpZY
+jacobiana
 Ya
 Yourself
 YAGNI
@@ -6441,6 +6462,7 @@ Gu
 GC
 Gx
 George
+Green
 BX
 Bit
 Box

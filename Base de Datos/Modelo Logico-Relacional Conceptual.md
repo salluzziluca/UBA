@@ -25,10 +25,10 @@ R(A1, A2, A3)
 ej; Peliculas(nombre_pelicula, año, nombre_director)
 
 Cada uno de los atributos de un esquema de la relacion está asociado a un dominio particular. nombre_pelicula->dom(nombre_pelicula) = string 
-año dom(año)=
+año dom(año)=$N⁺$
 
 
-Una relacion con un quesma de relacion estando los atributos A_i asociados a los dominios D_1 = dom(A_1) es un subjconjunto del producto cartsianod D1xD2x...xDm.
+Una relacion con un esquema de relacion R(A1, A2, ..., An) estando los atributos A_i asociados a los dominios $D_i = dom(A_)$ es un subjconjunto del producto cartsianod D1xD2x...xDm.
 
 Peliculas = Kill bill, 2003, Trantino 0
 etonces la tupla Kill bill 2003, Trantino 3 seria falso porque no esta dentro del dominio

@@ -122,3 +122,5 @@ dos elementos están invertidos si b_i > b_j (con i <j)
 ![[Pasted image 20240828103958.png]]
 Puedo obtener las inversiones en O(n²). El 2 con el 4 1 3 5, el 4 con el 1, 3, 5, 
 ![[Pasted image 20240828104756.png]]![[Pasted image 20240828104831.png]]
+
+las inversiones totales serian 4 + 6

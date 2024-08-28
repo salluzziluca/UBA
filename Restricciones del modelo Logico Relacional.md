@@ -21,7 +21,7 @@ La clave primara de una relacon no puede tomar el valor nulo.
 ### Restrccion de integridad referencial
 Si tengo tabla de peliculas actores y actuaciones no puedo poner en actuaciones poner una pelicula que no existe. Cuando estoy referencando una taba los valores tienen que estar dentro de la tabla que se esta referenciando
 
-Clave foranea (foreing key, FK) se denomina a un atributo de una relacion R que hace referencia a la calve primaria de otra relacion S. Se suelen subrayar con guiones
+Clave foranea (foreing key, FK) se denomina a un [[Base de Datos/Atributos|atributo]] de una relacion R que hace referencia a la calve primaria de otra relacion S. Se suelen subrayar con guiones
 ## EJ
 peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es clave primaria
@@ -60,13 +60,13 @@ Si borro un actor y estaba en varias pelis quedan todas esas con un actor no val
 
 Se puede resolver usando cascada ( borro todas sus apariciones)
 O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor)
-Pongo en null los atributos referenciales a actor
+Pongo en null los [[Base de Datos/Atributos|atributos]] referenciales a actor
 
 
 #### Modificacion 
-Tengo que revisar dominio (que este bien e dato)
+Tengo que revisar dominio (que este bien e [[dato]])
 Tengo que revisar unicidad tambien si cambio algun valor de la clave primaria
-idem con entidad
+idem con [[Entidades|entidad]]
 integridad referencial tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
 
 

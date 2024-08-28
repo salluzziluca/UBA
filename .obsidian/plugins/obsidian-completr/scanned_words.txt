@@ -591,6 +591,9 @@ consigo
 culas
 cardinalidad
 com
+corresponde
+conunto
+cadena
 de
 dispositivos
 del
@@ -868,6 +871,7 @@ deo
 dimensional
 dadas
 difieren
+derivados
 gestion
 gran
 guarda
@@ -1535,6 +1539,8 @@ subordinada
 simbolizaremos
 sico
 superkey
+superkeys
+superficie
 par
 por
 punto
@@ -1885,6 +1891,7 @@ preserva
 pivote
 pitagorica
 pertenezca
+poblaci
 la
 las
 le
@@ -2366,6 +2373,7 @@ algoritmica
 adaptativo
 adapta
 adelantamos
+atributyo
 hardware
 heap
 hay
@@ -3890,6 +3898,7 @@ Agarro
 Algoritmo
 Adaptatividad
 Aronofsky
+Atributos
 Programming
 Procesos
 Partes
@@ -4429,6 +4438,8 @@ matrices
 mergea
 medico
 metrico
+multivaluados
+multivaluado
 tien
 tiene
 todos
@@ -4628,6 +4639,7 @@ tu
 transaccion
 tangente
 tuvieramos
+tendra
 inico
 interna
 infro
@@ -5278,6 +5290,7 @@ Divide
 Dise
 Django
 Darren
+Depende
 Memoria
 Multivariada
 MORE
@@ -5389,6 +5402,7 @@ Modificacion
 Mal
 Mutiplicacion
 Mergesort
+Monovaluados
 Table
 Todos
 This

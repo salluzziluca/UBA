@@ -9,7 +9,7 @@ Se permiten nulls
 Los atributos tienen que ser atomicos
 
 No pueden existir dos tuplas distintas que coincidan en los valores de todos sus atributos.
-Cuando un un subconjunto de atributos alcanza para identificar una tupla es una superclave
+Cuando un un subconjunto de atributos alcanza para identificar una tupla es una superclave(SuperKey)
 
 Las superclaves son minimales las llamamos claves candidatas. 
 De entre todas las claves candidatas elegimos la clave primaria

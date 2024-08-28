@@ -32,12 +32,13 @@ Una relacion con un esquema de relacion R(A1, A2, ..., An) estando los atributos
 Y se debe cumplir que cada uno de los atributos Ai pertenezca a su dominio.
 
 Películas = {(Kill Bill, 2003, Quentin Tarantino, 0), (Django Unchained, 2012, Quentin Tarantino, 2), (Star Wars III, 2005, George Lucas, 0), (El Cisne Negro, 2010, Darren Aronofsky, 1)}
-Un elemento de una relacion se denomina 
+Un elemento de una relacion se denomina *tupla*
 etonces la tupla  Películas(Kill Bill, 2003, Quentin Tarantino, 3)seria falso porque no esta dentro del dominio
 
 El valor tomado por un atributo A en una tupla es t[A]
-la caridianliada en una relacion R es la cantidad de tuplas que posee
-
+la *cardinalidad* en una relacion R es la cantidad de tuplas que posee
+La simbolizaremos n(R). 
+Ejemplo: n(Películas) = 4
 ## Representacion
 Una relacion es una tabla con columnas qu son atributos y filas representados tuplas
 

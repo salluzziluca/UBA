@@ -866,6 +866,8 @@ desorden
 discriminante
 deo
 dimensional
+dadas
+difieren
 gestion
 gran
 guarda
@@ -2812,6 +2814,7 @@ Sintomas
 Strassen
 Sorting
 Star
+SuperKey
 Calls
 Cmabia
 CPU

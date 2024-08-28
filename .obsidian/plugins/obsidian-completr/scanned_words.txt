@@ -603,6 +603,16 @@ concreta
 cardinalidades
 calves
 completed
+comparandola
+contenga
+calcularse
+circulaci
+continuo
+circulacion
+cerrada
+camino
+curvas
+caminos
 de
 dispositivos
 del
@@ -888,6 +898,8 @@ diferenciar
 dependencia
 dejarse
 determinado
+distan
+diferencial
 gestion
 gran
 guarda
@@ -1304,6 +1316,11 @@ elegiremos
 entidades
 efiicientes
 escribi
+exactitud
+equivaldria
+escalares
+ecuaci
+evaluarla
 servicios
 son
 su
@@ -1567,6 +1584,7 @@ similares
 subrayada
 servir
 simultaneo
+suave
 par
 por
 punto
@@ -1925,6 +1943,10 @@ parcial
 participan
 parse
 pathes
+partiendo
+partecitas
+particula
+parametrizar
 la
 las
 le
@@ -2414,6 +2436,10 @@ asociaciones
 autorizados
 aridad
 add
+arco
+abierto
+anota
+aca
 hardware
 heap
 hay
@@ -2734,6 +2760,7 @@ usemos
 unique
 usaremos
 usualmente
+ubicando
 System
 Son
 Source
@@ -3012,6 +3039,9 @@ Club
 Concurrencia
 Comput
 Chile
+Curvas
+Curvilinea
+Curvascia
 Es
 El
 Estos
@@ -3434,6 +3464,8 @@ realizarse
 restricci
 relacionarse
 rstantes
+rectificable
+representara
 operacion
 orden
 operaciones
@@ -3567,6 +3599,7 @@ ordenando
 ordene
 ocurrencias
 other
+observar
 nombre
 nuevo
 nica
@@ -3850,6 +3883,8 @@ viola
 viole
 vincular
 vaticano
+vectoriales
+ven
 Application
 API
 Asigna
@@ -3978,6 +4013,9 @@ Almacenamiento
 Asegurar
 Actualizaci
 After
+Aproximamos
+Abscisa
+Aplicaciones
 Programming
 Procesos
 Partes
@@ -4231,6 +4269,7 @@ Integridad
 Inserci
 INMUTABLES
 Igual
+Integrales
 Un
 UNIX
 UBA
@@ -4736,6 +4775,7 @@ tuvieramos
 tendra
 transaccional
 tag
+trozo
 inico
 interna
 infro
@@ -4956,6 +4996,10 @@ identificarlas
 indicaremos
 interrelaci
 interrelaciones
+imaginado
+imaginartelo
+integrales
+interior
 fijo
 file
 fork
@@ -5104,6 +5148,7 @@ foreanea
 fallas
 futbolistas
 filtered
+favor
 Nombre
 Notas
 Not
@@ -5275,6 +5320,7 @@ Felicitaciones
 FTT
 Fourier
 Futbolista
+Fisicamente
 Descriptors
 Descriptor
 Devuelve
@@ -5399,6 +5445,8 @@ Darren
 Depende
 Dpto
 Desempaquetado
+Diferencial
+Derivar
 Memoria
 Multivariada
 MORE
@@ -6173,6 +6221,7 @@ yxX
 yP
 yJU
 yDEf
+yendo
 json
 jacobiano
 justamente

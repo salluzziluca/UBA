@@ -117,4 +117,5 @@ Quiero dar una semejanza endre dichas listas
 
 Tenemos A ordenado de 1 a n B tiene de 1 a n pero en desorden 
 
-Si b_i
+Si b_i <b_i+1 para todo i B está ordenado y son iguales
+dos elementos están invertidos si b_i > b_j (con i <j)

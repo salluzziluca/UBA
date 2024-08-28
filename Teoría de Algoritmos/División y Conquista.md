@@ -84,4 +84,5 @@ $$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 
 ## Problema 4: Mutiplicacion de matrices
 El algoritmo sencillo es O(n^3)
-Dividmos la matriz en 4 submatrices de n/2xn/2
+si hago 
+### Algoritmo de Strassen

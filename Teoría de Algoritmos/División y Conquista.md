@@ -66,3 +66,5 @@ aplicamos logica de partir.
 Nos quedamos con una mitad y comparo de vuelta, simil [[Busqueda#Binaria|busqueda binaria]]. O(logn)
 
 
+## Problema 3: Busco puntos mas cercanos en 2 dim
+

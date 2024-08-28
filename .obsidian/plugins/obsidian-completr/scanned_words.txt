@@ -2849,6 +2849,7 @@ SuperKey
 SGBDD
 SGBDs
 Soportre
+Sevilla
 Calls
 Cmabia
 CPU
@@ -2990,6 +2991,7 @@ Chen
 Club
 Concurrencia
 Comput
+Chile
 Es
 El
 Estos
@@ -3104,6 +3106,7 @@ Estabilidad
 Ejemplo
 Esos
 Eliminaci
+Espa
 kernel
 kt
 kU
@@ -6441,6 +6444,7 @@ Busco
 Buscamos
 Bill
 Beir
+Barcelona
 XY
 Xg
 XQG

@@ -67,4 +67,6 @@ Nos quedamos con una mitad y comparo de vuelta, simil [[Busqueda#Binaria|busqued
 
 
 ## Problema 3: Busco puntos mas cercanos en 2 dim
+Dado n puntos en un plano, buscar la pareja que se encuentre más cercana. 
+Si comparo todo es O(n^2)
 

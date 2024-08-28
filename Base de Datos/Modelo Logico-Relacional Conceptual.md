@@ -46,4 +46,7 @@ Una forma útil de representar una relación es a través de una tabla en la que
 
 ### Archivos
 Otra nomenclatura comúnmente utilizada –y más vinculada al nivel físico– habla de archivos en lugar de tablas, registros en lugar de filas, y campos en lugar de columnas.
-## [[Restricciones del modelo Logico Relacional]]
+![[Restricciones del modelo Logico Relacional]]
+
+
+![[Operaciones del Modelo Lógico-Relacional]]

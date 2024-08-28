@@ -22,7 +22,7 @@ La [[clave primaria]] de una relacon no puede tomar el valor nulo.
 Cuando un conjunto de [[Base de Datos/Atributos|atributos]] [[Claves foraneas (FK)|FK]] de una relación R hace referencia a la [[clave primaria]] de otra relación S, entonces para toda [[tupla]] de R debe existir una [[tupla]] de S cuya [[clave primaria]] sea igual al valor de [[Claves foraneas (FK)|FK]], a menos que todos los [[Base de Datos/Atributos|atributos]] de [[Claves foraneas (FK)|FK]] sean nulos.
 Ejemplo: Si una [[tupla]] en Actuaciones hace referencia “Star Wars III”, entonces debe existir “Star Wars III” en la relación Películas.
 
-Clave foranea ([[Claves foraneas (FK)|foreing key]], [[Claves foraneas (FK)|FK]]) se denomina a un [[Base de Datos/Atributos|atributo]] de una relacion R que hace referencia a la calve primaria de otra relacion S. Se suelen subrayar con guiones
+Clave foranea ([[Claves foraneas (FK)|foreing key]], [[Claves foraneas (FK)|FK]]) se denomina a un [[Base de Datos/Atributos|atributo]] de una relacion R que hace referencia a la calve primaria de otra relacion S. Se suelen <u>subrayar con guiones</u> 
 ## EJ
 peliculas(nombre, año, director, oscars)
 Si suponemos que no puede haber dos peliculas con el mismo nombre. nombre es clave candidata. Es unica por lo que es [[clave primaria]]

@@ -13,15 +13,15 @@ tengo que validad la [[Restricciones del modelo Logico Relacional#Restriccion de
 Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
 
 Se puede resolver usando cascada ( borro todas sus apariciones)
-O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor). Rechazo la eliminaci
+O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor). Rechazo la eliminación
 Pongo en null los [[Base de Datos/Atributos|atributos]] referenciales a actor
 
 
 ## Modificacion 
-Tengo que revisar dominio (que este bien e [[dato]])
+Tengo que revisar dominio (que este bien el [[dato]])
 Tengo que revisar unicidad tambien si cambio algun valor de la [[clave primaria]]
 idem con [[Entidades|entidad]]
-integridad referencial tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
+[[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|restricción de integridad referencial]] tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
 
 
 # Transacción

@@ -580,6 +580,11 @@ complica
 candidato
 covolucion
 criterios
+comparativo
+comparan
+condici
+cumplan
+counting
 de
 dispositivos
 del
@@ -850,6 +855,7 @@ dim
 distancia
 divido
 dichas
+detras
 gestion
 gran
 guarda
@@ -1257,6 +1263,7 @@ encuentre
 esten
 encuentren
 endre
+estable
 servicios
 son
 su
@@ -1505,6 +1512,10 @@ shift
 simil
 siguientes
 sencillo
+swap
+sabiendo
+swapeamos
+sort
 par
 por
 punto
@@ -1851,6 +1862,8 @@ poligono
 partir
 pareja
 puntes
+preserva
+pivote
 la
 las
 le
@@ -2326,6 +2339,10 @@ anterioes
 ademas
 adyacentes
 agarro
+algoritmica
+adaptativo
+adapta
+adelantamos
 hardware
 heap
 hay
@@ -2440,6 +2457,7 @@ homogeneos
 hecha
 hallar
 hayar
+han
 que
 queda
 quien
@@ -2532,6 +2550,8 @@ qXb
 quesma
 quedan
 quedamos
+querramos
+quick
 utilizados
 un
 una
@@ -2765,6 +2785,7 @@ Subconjuntos
 Serie
 Sintomas
 Strassen
+Sorting
 Calls
 Cmabia
 CPU
@@ -2895,6 +2916,10 @@ Claves
 Consulta
 Combinamos
 Conteo
+Cuanta
+Comparatividad
+Counting
+Creamos
 Es
 El
 Estos
@@ -3005,6 +3030,7 @@ Ejemplos
 Escribimos
 Equivalente
 Empezamos
+Estabilidad
 kernel
 kt
 kU
@@ -3298,6 +3324,8 @@ rapido
 rights
 recurisvimos
 rreglos
+relativo
+reubicando
 operacion
 orden
 operaciones
@@ -3426,6 +3454,9 @@ oscars
 ordenamos
 obtengo
 ordenados
+ordena
+ordenando
+ordene
 nombre
 nuevo
 nica
@@ -3695,6 +3726,7 @@ vectorial
 vale
 vertices
 vuelta
+voy
 Application
 API
 Asigna
@@ -3815,6 +3847,7 @@ Ahi
 Alta
 Agarro
 Algoritmo
+Adaptatividad
 Programming
 Procesos
 Partes
@@ -4052,6 +4085,10 @@ IRF
 IUU
 Insercion
 Inmobilidad
+Inplace
+Inicializo
+Itero
+Inicializamos
 Un
 UNIX
 UBA
@@ -4127,6 +4164,7 @@ Us
 UUID
 Usando
 Utilizando
+Ubico
 modo
 mode
 menso
@@ -4343,6 +4381,7 @@ monotionico
 maximos
 mitades
 matrices
+mergea
 tien
 tiene
 todos
@@ -4753,6 +4792,7 @@ integridad
 imagen
 incluyendo
 inversiones
+incrementando
 fijo
 file
 fork
@@ -5178,6 +5218,7 @@ Derivadas
 Derivada
 DERIVABILIDAD
 Del
+Divide
 Memoria
 Multivariada
 MORE
@@ -5288,6 +5329,7 @@ Mutiples
 Modificacion
 Mal
 Mutiplicacion
+Mergesort
 Table
 Todos
 This
@@ -5802,6 +5844,7 @@ VZJ
 VL
 VB
 Vp
+Voy
 OPTIONS
 Operativos
 Orden
@@ -6502,6 +6545,7 @@ QoEI
 Qh
 Que
 Quiero
+Quicksort
 ximo
 xito
 xitos

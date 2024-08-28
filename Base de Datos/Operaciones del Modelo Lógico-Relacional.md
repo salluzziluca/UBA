@@ -8,11 +8,12 @@ No modifica ninguna relacion y no viola ningun tipo de [[Restricciones del model
 ### Inserción
 tengo que validar las 4 reglas. EL [[Sistemas de Gestion de Bases de Datos|SGBD]] deberá rechazar una inserción que viole algún tipo de [[Restricciones del modelo Logico Relacional|restriccón]]
 ### Eliminación
-tengo que validad la [[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|]]
+tengo que validad la [[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|restricción de integridad referencial]]
+(Cuando R referencia a S, y se intenta eliminar una tupla de S que es referenciada por alguna/s tupla/s en R.)
 Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
 
 Se puede resolver usando cascada ( borro todas sus apariciones)
-O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor)
+O de forma restrictiva (primero borrame la actuacion y despues te dejo borrar el actor). Rechazo la eliminaci
 Pongo en null los [[Base de Datos/Atributos|atributos]] referenciales a actor
 
 

@@ -11,8 +11,8 @@ Los [[Base de Datos/Atributos|atributos]] tienen que ser atomicos
 No pueden existir dos tuplas distintas que coincidan en los valores de todos sus [[Base de Datos/Atributos|atributos]].
 Cuando un un subconjunto de [[Base de Datos/Atributos|atributos]] alcanza para identificar una [[tupla]] es una [[Superclave (SK)]]
 
-Las [[Superclave (SK)|superclaves]] son minimales las llamamos claves candidatas. 
-De entre todas las claves candidatas elegimos la clave primaria
+Las [[Superclave (SK)|superclaves]] son minimales las llamamos [[[[Claves Candidatas]]|[[claves candidat]]as]]. 
+De entre todas las [[claves candidatas]] elegimos la clave primaria
 
 ### Restriciones de integradad de [[Entidades|entidad]] 
 La clave primara de una relacon no puede tomar el valor nulo.

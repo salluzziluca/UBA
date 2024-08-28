@@ -872,6 +872,8 @@ dimensional
 dadas
 difieren
 derivados
+describe
+definici
 gestion
 gran
 guarda
@@ -1283,6 +1285,7 @@ estable
 entidaed
 eucl
 equivalencias
+elegiremos
 servicios
 son
 su
@@ -1541,6 +1544,9 @@ sico
 superkey
 superkeys
 superficie
+semantico
+similares
+subrayada
 par
 por
 punto
@@ -1892,6 +1898,7 @@ pivote
 pitagorica
 pertenezca
 poblaci
+planteado
 la
 las
 le
@@ -2374,6 +2381,8 @@ adaptativo
 adapta
 adelantamos
 atributyo
+admiten
+asociaciones
 hardware
 heap
 hay
@@ -2961,6 +2970,8 @@ Creamos
 Conjuntos
 Cartesiano
 Cisne
+Chen
+Club
 Es
 El
 Estos
@@ -3631,6 +3642,7 @@ nociones
 neos
 nomenclatura
 nmente
+naci
 via
 vuelve
 viven
@@ -4029,6 +4041,8 @@ PUedo
 Problema
 Peero
 Pel
+Propusto
+Pais
 Interface
 ID
 Instructions
@@ -4142,6 +4156,7 @@ Inicializo
 Itero
 Inicializamos
 Identificacion
+Interrelacion
 Un
 UNIX
 UBA
@@ -4440,6 +4455,7 @@ medico
 metrico
 multivaluados
 multivaluado
+modelado
 tien
 tiene
 todos
@@ -4857,6 +4873,7 @@ interrelacion
 identidad
 identificadora
 identificarlas
+indicaremos
 fijo
 file
 fork
@@ -4999,6 +5016,7 @@ foreing
 fijarme
 fecha
 formalizaci
+futbolista
 Nombre
 Notas
 Not
@@ -5169,6 +5187,7 @@ Fragilidad
 Felicitaciones
 FTT
 Fourier
+Futbolista
 Descriptors
 Descriptor
 Devuelve
@@ -5403,6 +5422,7 @@ Mal
 Mutiplicacion
 Mergesort
 Monovaluados
+Messi
 Table
 Todos
 This

@@ -594,6 +594,7 @@ com
 corresponde
 conunto
 cadena
+consulta
 de
 dispositivos
 del
@@ -876,6 +877,7 @@ describe
 definici
 distinguirlas
 diferenciar
+dependencia
 gestion
 gran
 guarda
@@ -980,6 +982,7 @@ generica
 gido
 generalizacion
 grad
+gestiona
 especifico
 entra
 en
@@ -1289,6 +1292,7 @@ eucl
 equivalencias
 elegiremos
 entidades
+efiicientes
 servicios
 son
 su
@@ -1551,6 +1555,7 @@ semantico
 similares
 subrayada
 servir
+simultaneo
 par
 por
 punto
@@ -2388,6 +2393,7 @@ adelantamos
 atributyo
 admiten
 asociaciones
+autorizados
 hardware
 heap
 hay
@@ -2508,6 +2514,7 @@ habtiaciones
 hotel
 homog
 habla
+herramientas
 que
 queda
 quien
@@ -2838,6 +2845,9 @@ Strassen
 Sorting
 Star
 SuperKey
+SGBDD
+SGBDs
+Soportre
 Calls
 Cmabia
 CPU
@@ -2977,6 +2987,7 @@ Cartesiano
 Cisne
 Chen
 Club
+Concurrencia
 Es
 El
 Estos
@@ -3389,6 +3400,8 @@ reubicando
 relaci
 representar
 representan
+repercutan
+recuperacion
 operacion
 orden
 operaciones
@@ -3795,6 +3808,7 @@ vertices
 vuelta
 voy
 vinculada
+viola
 Application
 API
 Asigna
@@ -3919,6 +3933,8 @@ Adaptatividad
 Aronofsky
 Atributos
 Actuaciones
+Almacenamiento
+Asegurar
 Programming
 Procesos
 Partes
@@ -4051,6 +4067,7 @@ Peero
 Pel
 Propusto
 Pais
+Permitir
 Interface
 ID
 Instructions
@@ -4165,6 +4182,8 @@ Itero
 Inicializamos
 Identificacion
 Interrelacion
+Independencia
+Integridad
 Un
 UNIX
 UBA
@@ -4464,6 +4483,7 @@ metrico
 multivaluados
 multivaluado
 modelado
+manipulaci
 tien
 tiene
 todos
@@ -4664,6 +4684,7 @@ transaccion
 tangente
 tuvieramos
 tendra
+transaccional
 inico
 interna
 infro
@@ -5027,6 +5048,7 @@ formalizaci
 futbolista
 foraneas
 foreanea
+fallas
 Nombre
 Notas
 Not
@@ -5661,6 +5683,8 @@ Resolvemos
 Reorganizo
 Relacional
 Restriccion
+Resuelve
+Recuperaci
 bien
 by
 be
@@ -6021,6 +6045,7 @@ Oy
 Ow
 Operaciones
 Obtenemos
+Ofrecer
 ya
 yo
 yM

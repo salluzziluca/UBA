@@ -2,12 +2,12 @@
 Los operaciones del modelo relacionas se especifican a traves del algebra relacional o el calculo relacional
 
 ## Consulta 
-No modifica ninguna relacion y no viola ningun tipo de [[restr]]
+No modifica ninguna relacion y no viola ningun tipo de [[Restricciones del modelo Logico Relacional|restricción]]
 ## Actualizacion
 
-## Insercion
-tengo que validar las 4 reglas
-## Eliminaciont
+### Insercion
+tengo que validar las 4 reglas. EL [[Sistemas de Gestion de Bases de Datos|SGBD]] 
+### Eliminaciont
 tengo que validad la integridad referencial
 Si borro un actor y estaba en varias pelis quedan todas esas con un actor no valido 
 

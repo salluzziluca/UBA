@@ -874,6 +874,7 @@ difieren
 derivados
 describe
 definici
+distinguirlas
 gestion
 gran
 guarda
@@ -1286,6 +1287,7 @@ entidaed
 eucl
 equivalencias
 elegiremos
+entidades
 servicios
 son
 su
@@ -1547,6 +1549,7 @@ superficie
 semantico
 similares
 subrayada
+servir
 par
 por
 punto
@@ -3084,6 +3087,7 @@ Equivalente
 Empezamos
 Estabilidad
 Ejemplo
+Esos
 kernel
 kt
 kU

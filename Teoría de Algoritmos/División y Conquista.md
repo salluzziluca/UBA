@@ -87,4 +87,4 @@ El algoritmo sencillo es O(n^3)
 Si divido las matrices en n/2xn/2 terminamos con 8 llamados recursivos e igual nos da O(n^{2,8})
 ### Algoritmo de Strassen
 En vez de 8 llamados recursivos hacemos 7
-$$T(n)= 7(t)$$
+$$T(n)= 7\left( T\left( \frac{n}{2} \right) \right)+O(1)\to T(n)=O(n^{\log_{2}7}) apr$$

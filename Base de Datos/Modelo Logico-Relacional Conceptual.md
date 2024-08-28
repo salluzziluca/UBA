@@ -4,15 +4,15 @@ Paso intermedio entre el modelo conceptual y el interno
 
 ## Definición de Modelo Relacional
 Creado en 1970 por Codd.
-Es una formalizaicon matematica basada en el concepto de relacion
+Es una formalización matemática basada en el concepto de relación
 
 ### Dominio
-> Conjntos de valores homogeneos
+> Conjuntos de valores homogéneos
 
 Ej: D1={barcelona, sevilla, Buenos Aires}
 D2={Argentina, esaña, chile}
 
-### Producto cartesioano 
+### Producto cartesiano 
 AxB se define como el conjunto de pares que cumplen a in A y b in B
 D1xD2= Bcn arg, bcn españa, bcn chile, sevilla ar, sevilla españa.....
 

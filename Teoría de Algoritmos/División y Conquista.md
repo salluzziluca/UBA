@@ -54,7 +54,7 @@ En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices 
 
 Reorganizo los puntos
 ![[Pasted image 20240828094615.png]]
-Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto mas alto esta entre A y
+Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto mas alto esta entre A y C
 
 
 

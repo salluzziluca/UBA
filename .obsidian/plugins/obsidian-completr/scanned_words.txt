@@ -875,6 +875,7 @@ derivados
 describe
 definici
 distinguirlas
+diferenciar
 gestion
 gran
 guarda
@@ -3148,6 +3149,7 @@ kC
 km
 kyd
 key
+keys
 realice
 realicen
 resolve
@@ -3916,6 +3918,7 @@ Algoritmo
 Adaptatividad
 Aronofsky
 Atributos
+Actuaciones
 Programming
 Procesos
 Partes
@@ -5022,6 +5025,8 @@ fijarme
 fecha
 formalizaci
 futbolista
+foraneas
+foreanea
 Nombre
 Notas
 Not

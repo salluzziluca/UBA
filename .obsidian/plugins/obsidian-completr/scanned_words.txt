@@ -585,6 +585,7 @@ comparan
 condici
 cumplan
 counting
+clinica
 de
 dispositivos
 del
@@ -857,6 +858,7 @@ divido
 dichas
 detras
 desorden
+discriminante
 gestion
 gran
 guarda
@@ -1265,6 +1267,7 @@ esten
 encuentren
 endre
 estable
+entidaed
 servicios
 son
 su
@@ -1517,6 +1520,7 @@ swap
 sabiendo
 swapeamos
 sort
+subordinada
 par
 por
 punto
@@ -2031,6 +2035,8 @@ locales
 logica
 logn
 llamo
+lacual
+legajo
 agnosticos
 apps
 al
@@ -2459,6 +2465,9 @@ hecha
 hallar
 hayar
 han
+habitacion
+habtiaciones
+hotel
 que
 queda
 quien
@@ -4090,6 +4099,7 @@ Inplace
 Inicializo
 Itero
 Inicializamos
+Identificacion
 Un
 UNIX
 UBA
@@ -4383,6 +4393,7 @@ maximos
 mitades
 matrices
 mergea
+medico
 tien
 tiene
 todos
@@ -4795,6 +4806,10 @@ incluyendo
 inversiones
 incrementando
 invertidos
+interrelacion
+identidad
+identificadora
+identificarlas
 fijo
 file
 fork
@@ -4935,6 +4950,7 @@ filas
 foranea
 foreing
 fijarme
+fecha
 Nombre
 Notas
 Not
@@ -5008,6 +5024,7 @@ NmP
 NG
 NOc
 NY
+Numero
 File
 For
 Funcion

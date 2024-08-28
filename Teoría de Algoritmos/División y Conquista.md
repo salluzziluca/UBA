@@ -96,4 +96,5 @@ Tenemos dos vectores A y B y queremos obtener la covolucion entre ambos
 Se puede llegar de O(n^2) a O(n logn)
 
 ## Problema 6: Conteo de inversiones 
-Tengo un conjunto de b elementos ´
+Tengo un conjunto de b elementos '2 rreglos/listas ordenados por diferentes criterios (A y B)
+Quiero dar una semejanza endre dichas listas

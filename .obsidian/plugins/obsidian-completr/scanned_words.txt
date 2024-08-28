@@ -573,6 +573,13 @@ crack
 convexo
 corte
 comparo
+comparamos
+cercanos
+cad
+complica
+candidato
+covolucion
+criterios
 de
 dispositivos
 del
@@ -838,6 +845,11 @@ dis
 dificultad
 dibujo
 debajo
+descartar
+dim
+distancia
+divido
+dichas
 gestion
 gran
 guarda
@@ -1241,6 +1253,10 @@ estuvieramos
 efgh
 extremo
 eje
+encuentre
+esten
+encuentren
+endre
 servicios
 son
 su
@@ -1486,6 +1502,9 @@ subproblema
 soluciones
 separamos
 shift
+simil
+siguientes
+sencillo
 par
 por
 punto
@@ -1829,6 +1848,9 @@ pega
 particulares
 podriamos
 poligono
+partir
+pareja
+puntes
 la
 las
 le
@@ -1991,6 +2013,10 @@ lZz
 lR
 lugares
 laburando
+locales
+logica
+logn
+llamo
 agnosticos
 apps
 al
@@ -2298,6 +2324,8 @@ abcd
 angulos
 anterioes
 ademas
+adyacentes
+agarro
 hardware
 heap
 hay
@@ -2503,6 +2531,7 @@ qKAp
 qXb
 quesma
 quedan
+quedamos
 utilizados
 un
 una
@@ -2735,6 +2764,7 @@ ST
 Subconjuntos
 Serie
 Sintomas
+Strassen
 Calls
 Cmabia
 CPU
@@ -2864,6 +2894,7 @@ Clave
 Claves
 Consulta
 Combinamos
+Conteo
 Es
 El
 Estos
@@ -2973,6 +3004,7 @@ Ejercicios
 Ejemplos
 Escribimos
 Equivalente
+Empezamos
 kernel
 kt
 kU
@@ -3265,6 +3297,7 @@ rompe
 rapido
 rights
 recurisvimos
+rreglos
 operacion
 orden
 operaciones
@@ -3390,6 +3423,9 @@ oyNS
 ouA
 oO
 oscars
+ordenamos
+obtengo
+ordenados
 nombre
 nuevo
 nica
@@ -3515,6 +3551,7 @@ nun
 nulls
 naturales
 null
+nociones
 via
 vuelve
 viven
@@ -3657,6 +3694,7 @@ validad
 vectorial
 vale
 vertices
+vuelta
 Application
 API
 Asigna
@@ -3776,6 +3814,7 @@ Actualizacion
 Ahi
 Alta
 Agarro
+Algoritmo
 Programming
 Procesos
 Partes
@@ -4301,6 +4340,9 @@ mutiplicacion
 mitad
 mejora
 monotionico
+maximos
+mitades
+matrices
 tien
 tiene
 todos
@@ -4710,6 +4752,7 @@ integradad
 integridad
 imagen
 incluyendo
+inversiones
 fijo
 file
 fork
@@ -5016,6 +5059,8 @@ FYH
 FK
 Fragilidad
 Felicitaciones
+FTT
+Fourier
 Descriptors
 Descriptor
 Devuelve
@@ -5242,6 +5287,7 @@ Modelo
 Mutiples
 Modificacion
 Mal
+Mutiplicacion
 Table
 Todos
 This
@@ -5351,6 +5397,8 @@ Trantino
 Tengo
 Transacci
 Toco
+Transformada
+Tenemos
 Realiza
 REgistrys
 Rango
@@ -6198,6 +6246,8 @@ Bcn
 BsAs
 Buscaremos
 Bajo
+Busco
+Buscamos
 XY
 Xg
 XQG
@@ -6451,6 +6501,7 @@ QCaa
 QoEI
 Qh
 Que
+Quiero
 ximo
 xito
 xitos
@@ -6515,6 +6566,7 @@ xs
 xO
 xptdT
 xDm
+xn
 Workload
 Walrus
 Whitley

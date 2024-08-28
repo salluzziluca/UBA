@@ -80,7 +80,7 @@ En 2 dim se complica, pero podemos usar nociones de [[Sorting#Mergesort|mergesor
 $$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 
 ### algoritmo
-![[Pasted image 20240828102136.png]]
+![[Pasted image 20240828102242.png]]
 
 ```python
 

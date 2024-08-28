@@ -123,4 +123,6 @@ dos elementos están invertidos si b_i > b_j (con i <j)
 Puedo obtener las inversiones en O(n²). El 2 con el 4 1 3 5, el 4 con el 1, 3, 5, 
 ![[Pasted image 20240828104756.png]]![[Pasted image 20240828104831.png]]
 
-las inversiones totales serian 4 + 6
+las inversiones totales serian 4 + 2 + 4 por el 1 + 3 por el 3 + 3 por el 4 + 3 por oel 5 = 19 
+
+O(n log n)

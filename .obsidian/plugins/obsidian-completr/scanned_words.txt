@@ -837,6 +837,7 @@ derivamos
 dis
 dificultad
 dibujo
+debajo
 gestion
 gran
 guarda
@@ -5462,6 +5463,7 @@ Restriciones
 Restrccion
 Rigidez
 Resolvemos
+Reorganizo
 bien
 by
 be
@@ -5602,6 +5604,7 @@ bcn
 bill
 borro
 borrame
+bajando
 will
 words
 with

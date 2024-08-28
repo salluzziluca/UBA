@@ -47,7 +47,7 @@ def mutiplicacionBigInt(x,y):
 ```
 
 ## Problema 2: obtener extremo de un poligono
-Tiene que ser convexo. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equivalente a los angulos anterioes <= 180 grad 
+Tiene que ser convexo.Para que no tenga maximos locales y poder descartar partes. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equivalente a los angulos anterioes <= 180 grad 
 
 ![[Pasted image 20240827122108.png]]
 En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices y los comparo. Si A crece y C crece y ademas C está mas alto que A(caso del dibujo, entonces) el punto mas alto va a estar entre c y b 
@@ -57,10 +57,10 @@ Reorganizo los puntos
 Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto mas alto esta entre A y C
 
 
+### Algoritmo
 
+Empezamos con A y B = 0, C = n/2
 
-
-
-
+Si tenemos 2 vertices, com
 
 

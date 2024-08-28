@@ -8,7 +8,7 @@ Se permiten nulls
 
 Los atributos tienen que ser atomicos
 
-No pueden exstiri dos tuplas distintas que coincidan en los valores de tosos sus atributos 
+No pueden existir dos tuplas distintas que coincidan en los valores de todos sus atributos.
 Cuando un un subconjunto de atributos alcanza para identificar una tupla es una superclave
 
 Las superclaves son minimales las llamamos claves candidatas. 

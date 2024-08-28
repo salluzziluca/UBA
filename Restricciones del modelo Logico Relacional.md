@@ -18,7 +18,7 @@ De entre todas las [[claves candidatas]] elegimos la [[clave primaria]]
 La [[clave primaria]] de una relacon no puede tomar el valor nulo.
 
 
-### Restrccion de integridad referencial
+### Restriccion de integridad referencial
 Si tengo tabla de peliculas actores y actuaciones no puedo poner en actuaciones poner una pelicula que no existe. Cuando estoy referencando una taba los valores tienen que estar dentro de la tabla que se esta referenciando
 
 Clave foranea (foreing key, FK) se denomina a un [[Base de Datos/Atributos|atributo]] de una relacion R que hace referencia a la calve primaria de otra relacion S. Se suelen subrayar con guiones

@@ -14,9 +14,10 @@ Cuando un un subconjunto de [[Base de Datos/Atributos|atributos]] alcanza para i
 Las [[Superclave (SK)|superclaves]] son minimales las llamamos [[[[Claves Candidatas]]|[[claves candidat]]as]]. 
 De entre todas las [[claves candidatas]] elegimos la [[clave primaria]]
 
-#### e
+#### Ej
 Ejemplo Películas(nombre_película, año, nombre_director, cant_oscars) 
-Si suponemos que no puede haber dos películas con el mismo nombre “nombre_película” es clave candidata. Es la única. La designaremos como clave primaria. Lo representamos como: Películas(nombre_película, año, nombre_director, cant_oscars). {nombre_película, cant_oscars} es superclave, pero no es clave candidata porque no es minimal. Si admitimos que existen películas distintas con el mismo nombre Deberíamos crear un atributo “id” que nos permita identificar a cada película. El esquema de relación sería ahora: Películas(id, nombre_película, año, nombre_director, cant_oscars) “id” será la clave primaria. Mariano Beiró | Dpto. de Computación - Facultad de Ingenierí
+Si suponemos que no puede haber dos películas con el mismo nombre “nombre_película” es clave candidata. Es la única. 
+La designaremos como clave primaria. Lo representamos como: Películas(<ins>nombre_película<, año, nombre_director, cant_oscars). {nombre_película, cant_oscars} es superclave, pero no es clave candidata porque no es minimal. Si admitimos que existen películas distintas con el mismo nombre Deberíamos crear un atributo “id” que nos permita identificar a cada película. El esquema de relación sería ahora: Películas(id, nombre_película, año, nombre_director, cant_oscars) “id” será la clave primaria. Mariano Beiró | Dpto. de Computación - Facultad de Ingenierí
 ### Restriciones de integradad de [[Entidades|entidad]] 
 La [[clave primaria]] de una relacon no puede tomar el valor nulo.
 

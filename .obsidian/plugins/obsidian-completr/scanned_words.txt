@@ -597,6 +597,11 @@ cadena
 consulta
 concatenar
 comprehension
+coparticipan
+cantida
+concreta
+cardinalidades
+calves
 de
 dispositivos
 del
@@ -881,6 +886,7 @@ distinguirlas
 diferenciar
 dependencia
 dejarse
+determinado
 gestion
 gran
 guarda
@@ -1296,6 +1302,7 @@ equivalencias
 elegiremos
 entidades
 efiicientes
+escribi
 servicios
 son
 su
@@ -1912,6 +1919,9 @@ pertenezca
 poblaci
 planteado
 primarias
+participaci
+parcial
+participan
 la
 las
 le
@@ -2397,6 +2407,7 @@ atributyo
 admiten
 asociaciones
 autorizados
+aridad
 hardware
 heap
 hay
@@ -3415,6 +3426,8 @@ rechazar
 referencien
 realizarse
 restricci
+relacionarse
+rstantes
 operacion
 orden
 operaciones
@@ -3546,6 +3559,7 @@ ordenados
 ordena
 ordenando
 ordene
+ocurrencias
 nombre
 nuevo
 nica
@@ -3678,6 +3692,7 @@ nmente
 naci
 nea
 nuevos
+nacieron
 via
 vuelve
 viven
@@ -3825,6 +3840,8 @@ voy
 vinculada
 viola
 viole
+vincular
+vaticano
 Application
 API
 Asigna
@@ -4085,6 +4102,7 @@ Pel
 Propusto
 Pais
 Permitir
+Participacion
 Interface
 ID
 Instructions
@@ -4504,6 +4522,8 @@ multivaluados
 multivaluado
 modelado
 manipulaci
+maxima
+minimal
 tien
 tiene
 todos
@@ -4923,6 +4943,8 @@ identidad
 identificadora
 identificarlas
 indicaremos
+interrelaci
+interrelaciones
 fijo
 file
 fork
@@ -5069,6 +5091,7 @@ futbolista
 foraneas
 foreanea
 fallas
+futbolistas
 Nombre
 Notas
 Not
@@ -5593,6 +5616,7 @@ Tarantino
 Tablas
 Tuplas
 Tuple
+Tanto
 Realiza
 REgistrys
 Rango

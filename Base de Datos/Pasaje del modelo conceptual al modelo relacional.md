@@ -27,3 +27,5 @@ Alumnos(DNI, padron)
 docentes(DNI, legajo, fecha de alta)
 Uso en todos los DNI. 
 SIrve solo cuando es total y es recomendable que sea disjunta
+
+

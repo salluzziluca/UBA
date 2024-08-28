@@ -2,19 +2,19 @@
 No puee haber dos tuplas con los miosmo valres
 
 ### Restricciones de dominio
-> Dado UN atributo A de una relacion R el valor del atribuo en una tupla T debe pertenecer al dominio Dom(A)
+> Dado UN [[Base de Datos/Atributos|atributo]] A de una relacion R el valor del atribuo en una [[tupla]] T debe pertenecer al dominio Dom(A)
 
 Se permiten nulls
 
-Los atributos tienen que ser atomicos
+Los [[Base de Datos/Atributos|atributos]] tienen que ser atomicos
 
-No pueden existir dos tuplas distintas que coincidan en los valores de todos sus atributos.
-Cuando un un subconjunto de atributos alcanza para identificar una tupla es una superclave(SuperKey)
+No pueden existir dos tuplas distintas que coincidan en los valores de todos sus [[Base de Datos/Atributos|atributos]].
+Cuando un un subconjunto de [[Base de Datos/Atributos|atributos]] alcanza para identificar una [[tupla]] es una [[Superclave (SK)]]
 
-Las superclaves son minimales las llamamos claves candidatas. 
+Las [[Superclave (SK)|superclaves]] son minimales las llamamos claves candidatas. 
 De entre todas las claves candidatas elegimos la clave primaria
 
-### Restriciones de integradad de entidad 
+### Restriciones de integradad de [[Entidades|entidad]] 
 La clave primara de una relacon no puede tomar el valor nulo.
 
 

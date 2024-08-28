@@ -1534,6 +1534,7 @@ sort
 subordinada
 simbolizaremos
 sico
+superkey
 par
 por
 punto

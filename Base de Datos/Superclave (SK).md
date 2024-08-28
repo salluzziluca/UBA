@@ -1,1 +1,9 @@
+---
+aliases:
+  - superclave
+  - superkey
+  - SK
+  - superclaves
+  - superkeys
+---
 >un subconjunto SK del conjunto de atributos (A1, A2, ..., An) de R que cumple la condición de que dadas dos tuplas s, t ∈ R, las mismas difieren en al menos uno de los atributos de SK.

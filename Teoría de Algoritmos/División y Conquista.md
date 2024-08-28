@@ -80,7 +80,23 @@ En 2 dim se complica, pero podemos usar nociones de [[Sorting#Mergesort|mergesor
 $$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 
 ### algoritmo
-![[Pasted image 20240828102242.png]]
+```python
+def closest_pairs_rec(px, py):
+	if len(px) <= 3: return el mínimo de comparar cada punto
+	#Construir Qx, Qy, Rx, Ry (O(n))
+	q0, q1 = closest_pairs_rec(Qx, Qy)
+r0, r1 = closest_pairs_rec(Rx, Ry)
+d = min(dist(q0, q1), dist(r0, r1))
+x* = máxima coordenada x de Qx
+S = puntos de P que están a distancia <= d de la recta x = x*
+Construir Sy (O(n))
+por cada punto s de Sy computar distancia contra los siguientes 15 puntos
+	quedarse con s y s' que minimizan esa distancia
+	if dist(s, s') < d: return s, s'
+	elif dist(q0, q1) < dist(r0, r1): return q0, q1
+	else: return r0, r1
+
+```
 
 ## Problema 4: Mutiplicacion de matrices
 El algoritmo sencillo es O(n^3)

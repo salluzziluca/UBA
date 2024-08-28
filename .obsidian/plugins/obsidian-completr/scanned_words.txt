@@ -3101,6 +3101,7 @@ Empezamos
 Estabilidad
 Ejemplo
 Esos
+Eliminaci
 kernel
 kt
 kU
@@ -3402,6 +3403,8 @@ representar
 representan
 repercutan
 recuperacion
+rechazar
+referencien
 operacion
 orden
 operaciones
@@ -3663,6 +3666,8 @@ neos
 nomenclatura
 nmente
 naci
+nea
+nuevos
 via
 vuelve
 viven
@@ -3809,6 +3814,7 @@ vuelta
 voy
 vinculada
 viola
+viole
 Application
 API
 Asigna
@@ -3935,6 +3941,7 @@ Atributos
 Actuaciones
 Almacenamiento
 Asegurar
+Actualizaci
 Programming
 Procesos
 Partes
@@ -4184,6 +4191,7 @@ Identificacion
 Interrelacion
 Independencia
 Integridad
+Inserci
 Un
 UNIX
 UBA
@@ -5685,6 +5693,7 @@ Relacional
 Restriccion
 Resuelve
 Recuperaci
+Rechazo
 bien
 by
 be

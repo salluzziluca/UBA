@@ -23,7 +23,8 @@ Tengo que revisar unicidad tambien si cambio algun valor de la [[clave primaria]
 idem con [[Entidades|entidad]]
 [[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|restricción de integridad referencial]] tambien. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. PUedo hacer cascada
 
-Si se modifica una clave foránea, se debe verificar que sus nuevos valores referencien a una [[tupla]] existente de la relación
-# Transacción
-Serie de operaciones que o bien se hacen enteras o no se hacen.(ej: transaccion)
-Yo defino esta serie de operaciones como transaccion
+Si se modifica una [[Claves foráneas (FK)|clave foránea]], se debe verificar que sus nuevos valores referencien a una [[tupla]] existente de la relación.
+
+
+
+[[Transacción]]

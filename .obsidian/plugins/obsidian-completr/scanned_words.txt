@@ -878,6 +878,7 @@ definici
 distinguirlas
 diferenciar
 dependencia
+dejarse
 gestion
 gran
 guarda
@@ -2988,6 +2989,7 @@ Cisne
 Chen
 Club
 Concurrencia
+Comput
 Es
 El
 Estos
@@ -3405,6 +3407,8 @@ repercutan
 recuperacion
 rechazar
 referencien
+realizarse
+restricci
 operacion
 orden
 operaciones
@@ -5350,6 +5354,7 @@ Dise
 Django
 Darren
 Depende
+Dpto
 Memoria
 Multivariada
 MORE
@@ -5463,6 +5468,7 @@ Mutiplicacion
 Mergesort
 Monovaluados
 Messi
+Mariano
 Table
 Todos
 This
@@ -6434,6 +6440,7 @@ Bajo
 Busco
 Buscamos
 Bill
+Beir
 XY
 Xg
 XQG

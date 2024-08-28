@@ -28,10 +28,10 @@ Cada uno de los atributos de un esquema de la relacion está asociado a un domin
 año dom(año)=$N⁺$
 
 
-Una relacion con un esquema de relacion R(A1, A2, ..., An) estando los atributos A_i asociados a los dominios $D_i = dom(A_i)$ es un subjconjunto del producto cartsianod D1xD2x...xDn. $Películas ⊂ dom(nombre_{pelicula}) × dom(ano˜ ) × dom(nombre_director) × dom(cant_oscars)$
+Una relacion con un esquema de relacion R(A1, A2, ..., An) estando los atributos A_i asociados a los dominios $D_i = dom(A_i)$ es un subjconjunto del producto cartsianod D1xD2x...xDn. $Películas ⊂ dom(nombre\_pelicula) × dom(año ) × dom(nombre\_director) × dom(cant\_oscars)$
 Y se debe cumplir que cada uno de los atributos Ai pertenezca a su dominio.
 
-Peliculas = Kill bill, 2003, Trantino 0
+Películas = {(Kill Bill, 2003, Quentin Tarantino, 0), (Django Unchained, 2012, Quentin Tarantino, 2), (Star Wars III, 2005, George Lucas, 0), (El Cisne Negro, 2010, Darren Aronofsky, 1)}
 etonces la tupla Kill bill 2003, Trantino 3 seria falso porque no esta dentro del dominio
 
 El valor tomado por un atributo A en una tupla es t[A]

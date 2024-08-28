@@ -5655,6 +5655,7 @@ Rigidez
 Resolvemos
 Reorganizo
 Relacional
+Restriccion
 bien
 by
 be

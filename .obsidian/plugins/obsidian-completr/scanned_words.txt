@@ -646,6 +646,13 @@ considerados
 conllevar
 cumpl
 cometido
+conocer
+chunks
+come
+comprehensive
+collaboration
+contract
+change
 de
 dispositivos
 del
@@ -949,6 +956,12 @@ dirigiremos
 debidamente
 disponible
 declar
+developing
+doing
+do
+documentation
+development
+delivery
 gestion
 gran
 guarda
@@ -1057,6 +1070,7 @@ gestiona
 green
 guard
 guardan
+gestionen
 especifico
 entra
 en
@@ -1391,6 +1405,7 @@ existentes
 elegir
 extraer
 eliminarlo
+equipos
 servicios
 son
 su
@@ -2045,6 +2060,18 @@ pod
 propicio
 parec
 parezcan
+projectos
+patrones
+proyectos
+plantearlo
+planifican
+processes
+plan
+principios
+planning
+projecto
+principales
+planned
 la
 las
 le
@@ -2223,6 +2250,7 @@ libres
 lleno
 llenado
 lineamiento
+locados
 agnosticos
 apps
 al
@@ -2569,6 +2597,10 @@ actuales
 almacenaban
 aquellas
 actualizar
+antipatrones
+approach
+apurarse
+altos
 hardware
 heap
 hay
@@ -2697,6 +2729,9 @@ haberle
 hasheo
 hashea
 hayan
+helping
+have
+hicieron
 que
 queda
 quien
@@ -2901,6 +2936,7 @@ ubicando
 ubicado
 utilic
 usadas
+uncovering
 System
 Son
 Source
@@ -3189,6 +3225,8 @@ CON
 CUYOS
 CONSTANTE
 Considerando
+Customer
+Continual
 Es
 El
 Estos
@@ -3305,6 +3343,9 @@ Esos
 Eliminaci
 Espa
 Elecci
+Evolutionary
+Early
+Equipos
 kernel
 kt
 kU
@@ -3633,6 +3674,8 @@ reordenado
 rehashear
 rehash
 redundantes
+right
+repente
 operacion
 orden
 operaciones
@@ -3776,6 +3819,9 @@ otorgadas
 obtenido
 ocupada
 ocupadas
+others
+over
+organizen
 nombre
 nuevo
 nica
@@ -3915,6 +3961,9 @@ ndola
 necesitando
 negativamente
 neas
+negotiation
+niveles
+needed
 via
 vuelve
 viven
@@ -4072,6 +4121,8 @@ vos
 verbo
 verse
 vistas
+varian
+value
 Application
 API
 Asigna
@@ -4205,6 +4256,8 @@ Abscisa
 Aplicaciones
 Aplicaci
 Agregar
+Agile
+Adaptative
 Programming
 Procesos
 Partes
@@ -4340,6 +4393,7 @@ Pais
 Permitir
 Participacion
 Probing
+Pilares
 Interface
 ID
 Instructions
@@ -4460,6 +4514,9 @@ Inserci
 INMUTABLES
 Igual
 Integrales
+Iterativo
+Individuals
+Influencias
 Un
 UNIX
 UBA
@@ -4775,6 +4832,15 @@ modularizaci
 modularizo
 mantengo
 minuciosamente
+mindset
+manejar
+meses
+metodologia
+multitasking
+manifesto
+more
+metodologias
+multifuncionales
 tien
 tiene
 todos
@@ -4986,6 +5052,10 @@ tedra
 trata
 tercios
 tronco
+tools
+there
+tecnicas
+transparencia
 inico
 interna
 infro
@@ -5220,6 +5290,13 @@ idealmente
 ingresado
 iteraci
 iterando
+iterativo
+interactions
+items
+incrementos
+improvement
+interactividad
+individualmente
 fijo
 file
 fork
@@ -5371,6 +5448,9 @@ filtered
 favor
 fica
 factor
+follow
+feedback
+frameworks
 Nombre
 Notas
 Not
@@ -5545,6 +5625,7 @@ Futbolista
 Fisicamente
 Factor
 Fuerza
+Flexibilidad
 Descriptors
 Descriptor
 Devuelve
@@ -5905,6 +5986,7 @@ Tuple
 Tanto
 Tags
 TDAs
+That
 Realiza
 REgistrys
 Rango
@@ -6025,6 +6107,8 @@ Recuperaci
 Rechazo
 Reemplazando
 Resoluci
+Responding
+Responsiveness
 bien
 by
 be
@@ -6171,6 +6255,9 @@ brindados
 booleana
 bordes
 breves
+become
+better
+bebe
 will
 words
 with
@@ -6236,6 +6323,9 @@ wuH
 wtx
 wm
 webo
+ways
+work
+what
 VA
 VIEW
 Volumen
@@ -6321,6 +6411,7 @@ VL
 VB
 Vp
 Voy
+Valores
 OPTIONS
 Operativos
 Orden
@@ -6455,6 +6546,7 @@ yP
 yJU
 yDEf
 yendo
+you
 json
 jacobiano
 justamente
@@ -6782,6 +6874,8 @@ Barcelona
 Busca
 Bruta
 Binaria
+Basicamente
+Build
 XY
 Xg
 XQG
@@ -7180,6 +7274,7 @@ Wd
 WrI
 WEZ
 Wars
+Working
 ZZZPU
 ZX
 ZQ

@@ -1406,6 +1406,8 @@ elegir
 extraer
 eliminarlo
 equipos
+escapan
+explota
 servicios
 son
 su
@@ -2072,6 +2074,11 @@ planning
 projecto
 principales
 planned
+paraguas
+planeamiento
+planifique
+perfecto
+planificar
 la
 las
 le
@@ -2251,6 +2258,7 @@ lleno
 llenado
 lineamiento
 locados
+llueve
 agnosticos
 apps
 al
@@ -2601,6 +2609,7 @@ antipatrones
 approach
 apurarse
 altos
+aires
 hardware
 heap
 hay
@@ -2827,6 +2836,7 @@ quedamos
 querramos
 quick
 quitado
+quiz
 utilizados
 un
 una
@@ -3227,6 +3237,8 @@ CONSTANTE
 Considerando
 Customer
 Continual
+Complejo
+Caotico
 Es
 El
 Estos
@@ -3676,6 +3688,8 @@ rehash
 redundantes
 right
 repente
+resolutible
+raro
 operacion
 orden
 operaciones
@@ -4123,6 +4137,7 @@ verse
 vistas
 varian
 value
+viene
 Application
 API
 Asigna
@@ -4258,6 +4273,7 @@ Aplicaci
 Agregar
 Agile
 Adaptative
+Algo
 Programming
 Procesos
 Partes
@@ -4394,6 +4410,7 @@ Permitir
 Participacion
 Probing
 Pilares
+Podemos
 Interface
 ID
 Instructions
@@ -4841,6 +4858,7 @@ manifesto
 more
 metodologias
 multifuncionales
+mojarse
 tien
 tiene
 todos
@@ -5297,6 +5315,7 @@ incrementos
 improvement
 interactividad
 individualmente
+incrementado
 fijo
 file
 fork
@@ -5754,6 +5773,7 @@ Diferencial
 Derivar
 DEN
 Decid
+Detallar
 Memoria
 Multivariada
 MORE

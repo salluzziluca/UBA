@@ -653,6 +653,7 @@ comprehensive
 collaboration
 contract
 change
+construir
 de
 dispositivos
 del
@@ -1408,6 +1409,7 @@ eliminarlo
 equipos
 escapan
 explota
+entregable
 servicios
 son
 su
@@ -2079,6 +2081,7 @@ planeamiento
 planifique
 perfecto
 planificar
+productos
 la
 las
 le
@@ -3690,6 +3693,7 @@ right
 repente
 resolutible
 raro
+roles
 operacion
 orden
 operaciones
@@ -3836,6 +3840,7 @@ ocupadas
 others
 over
 organizen
+organizados
 nombre
 nuevo
 nica
@@ -4611,6 +4616,7 @@ Usando
 Utilizando
 Ubico
 Unchained
+Utiliza
 modo
 mode
 menso
@@ -5316,6 +5322,9 @@ improvement
 interactividad
 individualmente
 incrementado
+incrementar
+interconectados
+iteraciones
 fijo
 file
 fork
@@ -5470,6 +5479,7 @@ factor
 follow
 feedback
 frameworks
+fijas
 Nombre
 Notas
 Not

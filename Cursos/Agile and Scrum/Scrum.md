@@ -21,3 +21,5 @@ al final del sprint se hace una sprint review y una retro
 ![[Pasted image 20240829195610.png]]
 
 Nunca se deja de refinar y mejorar el backlog
+
+La review es la demostracion. se lleva a cabo el ultia dia del srpitn, donde el equpo de scrum muestra lo que ha logrado. 

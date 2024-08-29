@@ -14,3 +14,5 @@ Al toqeu arranca un sprint. El sprint arranca con un sprint planning, el cual de
 Todos los dias del sprint se hace una daily. Se habla de que se hizo el dia anterior, el actual y si tenemos un bloqueo. 
 
 al final del sprint se hace una sprint review y una retro 
+
+*La mision del lider no es solamente que el producto mejore, sino que el equipo tambien mejore*

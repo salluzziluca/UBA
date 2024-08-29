@@ -9,4 +9,8 @@ El product owner tiene que ir armando user stories. Esto puede ser mas o menos d
 El backlog es un bardo, estan desordenadas, pueden faltar cosas, no ser claras.
 Se buscan definir las top priority, listas para el minimmum viable product.
 
-Al toqeu arranca un sprint. El sprint arranca con un sprint planning, el cual define un sprint backlog bien definido. Se asignan las tareas a los teams, se les asignan puntajes segun dificultad y largo teniendoo encuenta s
+Al toqeu arranca un sprint. El sprint arranca con un sprint planning, el cual define un sprint backlog bien definido. Se asignan las tareas a los teams, se les asignan puntajes segun dificultad y largo teniendoo encuenta seniority del team. 
+
+Todos los dias del sprint se hace una daily. Se habla de que se hizo el dia anterior, el actual y si tenemos un bloqueo. 
+
+al final del sprint se hace una sprint review y una retrro

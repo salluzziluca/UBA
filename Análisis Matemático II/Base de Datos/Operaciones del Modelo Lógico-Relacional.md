@@ -14,11 +14,11 @@ Si borro un actor y estaba en varias pelis quedan todas esas con un actor no val
 
 Se puede resolver usando cascada ( borro todas sus apariciones)
 O de forma restrictiva (primero borrame la actuación y después te dejo borrar el actor). Rechazo la eliminación
-Pongo en null los [[Base de Datos/Atributos|atributos]] referenciales a actor
+Pongo en null los [[Análisis Matemático II/Base de Datos/Atributos|atributos]] referenciales a actor
 
 
 ## Modificacion 
-Tengo que revisar dominio (que este bien el [[dato]])
+Tengo que revisar dominio (que este bien el [[Dato]])
 Tengo que revisar unicidad también si cambio algún valor de la [[clave primaria]]
 idem con [[Entidades|entidad]]
 [[Restricciones del modelo Logico Relacional#Restriccion de integridad referencial|restricción de integridad referencial]] también. Si modifico un valor referenciado tengo que fijarme que no se rompan sus referencias. Puedo hacer cascada

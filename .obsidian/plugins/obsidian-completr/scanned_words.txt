@@ -5544,6 +5544,7 @@ Fourier
 Futbolista
 Fisicamente
 Factor
+Fuerza
 Descriptors
 Descriptor
 Devuelve
@@ -6779,6 +6780,8 @@ Bill
 Beir
 Barcelona
 Busca
+Bruta
+Binaria
 XY
 Xg
 XQG

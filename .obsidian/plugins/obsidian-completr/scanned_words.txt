@@ -1942,6 +1942,7 @@ agarro
 agrego
 agregamos
 armas
+aliases
 hardware
 heap
 hay

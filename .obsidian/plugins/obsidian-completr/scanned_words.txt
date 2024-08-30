@@ -1410,6 +1410,8 @@ equipos
 escapan
 explota
 entregable
+expertos
+emergentes
 servicios
 son
 su
@@ -2082,6 +2084,7 @@ planifique
 perfecto
 planificar
 productos
+practicas
 la
 las
 le
@@ -3089,6 +3092,7 @@ Slices
 SOLAMENTE
 Saluuzi
 Sino
+Seguramente
 Calls
 Cmabia
 CPU
@@ -3242,6 +3246,7 @@ Customer
 Continual
 Complejo
 Caotico
+CATEGORIZAR
 Es
 El
 Estos
@@ -3361,6 +3366,7 @@ Elecci
 Evolutionary
 Early
 Equipos
+EXPERIMENTAR
 kernel
 kt
 kU
@@ -3983,6 +3989,7 @@ neas
 negotiation
 niveles
 needed
+necesite
 via
 vuelve
 viven
@@ -4279,6 +4286,8 @@ Agregar
 Agile
 Adaptative
 Algo
+ANALIZAR
+ACTUAR
 Programming
 Procesos
 Partes

@@ -12,6 +12,7 @@ mediciones fisicas
 - Discretizacion de espacios continuos. Cuando transformo por ejemplo una medida en metros (que es continua) en diferentes puntos a un cm de distancia (discreto)
 - Proceso iterativo al cual eventualmente interrumpo
 
+## Formula 
 
 ## Teoria lineal de errores
 Se poropagan los errores linealizando la relacion entre las variables.   

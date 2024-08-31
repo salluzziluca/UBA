@@ -13,7 +13,7 @@ mediciones fisicas
 - Proceso iterativo al cual eventualmente interrumpo
 
 ## Formula 
-
+si tengo por ejemplo $f= x + y^2+z$ El error va a ser $df
 ## Teoria lineal de errores
 Se poropagan los errores linealizando la relacion entre las variables.   
 

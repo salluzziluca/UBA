@@ -24,3 +24,6 @@ Busco calcular el error ($\Delta A$). Sabiendo que $\Delta D$ es 30.
 Entonces 
 $$\Delta A \approx \Delta D . \tan \theta = \Delta D \frac{dA}{dD}= \Delta D . \frac{\pi D}{2}|_{D=D_{m}}= \Delta D  \frac{\pi D_{m}}{2}$$
 Es la parte lineal del error. Sin la parte cuadratica, tiene sentido porque estamos usando la [[Ecuacíon de la Recta Tangente|recta tangente]]
+
+Criterio para propagar error de PI
+$$\pi = \pi_{m} \pm \Delta \pi = 3.14$$

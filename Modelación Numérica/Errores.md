@@ -19,4 +19,7 @@ Se poropagan los errores linealizando la relacion entre las variables.
 ![[Pasted image 20240831124551.png]]
 
 Busco calcular el error ($\Delta A$). Sabiendo que $\Delta D$ es 30. 
-![[Pasted image 20240831124733.png]]
+![[Pasted image 20240831124745.png]]
+
+Entonces 
+$$\Delta A \approx \Delta D . \tan \theta = Del$$

@@ -15,3 +15,7 @@ mediciones fisicas
 
 ## Teoria lineal de errores
 Se poropagan los errores linealizando la relacion entre las variables.   
+
+![[Pasted image 20240831124551.png]]
+
+En este caso para calcular el error ($\Delta D$)

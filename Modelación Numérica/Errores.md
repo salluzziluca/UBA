@@ -26,4 +26,4 @@ $$\Delta A \approx \Delta D . \tan \theta = \Delta D \frac{dA}{dD}= \Delta D . \
 Es la parte lineal del error. Sin la parte cuadratica, tiene sentido porque estamos usando la [[Ecuacíon de la Recta Tangente|recta tangente]]
 
 Criterio para propagar error de PI
-$$\pi = \pi_{m} \pm \Delta \pi = 3.14$$
+$$\pi = \pi_{m} \pm \Delta \pi = 3.14 \pm 0.005$$ Se pone 0 por cada cifra que conozco y 5 en cada uno que no conozco

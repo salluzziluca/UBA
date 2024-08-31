@@ -11,3 +11,6 @@ mediciones fisicas
 - Sumatoria/serie infinitas
 - Discretizacion de espacios continuos. Cuando transformo por ejemplo una medida en metros (que es continua) en diferentes puntos a un cm de distancia (discreto)
 - Proceso iterativo al cual eventualmente interrumpo
+
+
+## Teoria lineal de errores

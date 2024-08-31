@@ -654,6 +654,7 @@ collaboration
 contract
 change
 construir
+continuos
 de
 dispositivos
 del
@@ -963,6 +964,8 @@ do
 documentation
 development
 delivery
+dicretizacion
+discreto
 gestion
 gran
 guarda
@@ -1412,6 +1415,7 @@ explota
 entregable
 expertos
 emergentes
+eventualmente
 servicios
 son
 su
@@ -1684,6 +1688,7 @@ sticamente
 superar
 similarmente
 sobreescripcion
+sumatoria
 par
 por
 punto
@@ -3093,6 +3098,7 @@ SOLAMENTE
 Saluuzi
 Sino
 Seguramente
+Sumatoria
 Calls
 Cmabia
 CPU
@@ -3990,6 +3996,7 @@ negotiation
 niveles
 needed
 necesite
+numericos
 via
 vuelve
 viven
@@ -4548,6 +4555,7 @@ Integrales
 Iterativo
 Individuals
 Influencias
+Inherentes
 Un
 UNIX
 UBA
@@ -4874,6 +4882,8 @@ more
 metodologias
 multifuncionales
 mojarse
+mediciones
+medida
 tien
 tiene
 todos
@@ -5089,6 +5099,7 @@ tools
 there
 tecnicas
 transparencia
+transformo
 inico
 interna
 infro
@@ -5334,6 +5345,8 @@ incrementado
 incrementar
 interconectados
 iteraciones
+infinita
+interrumpo
 fijo
 file
 fork
@@ -5489,6 +5502,7 @@ follow
 feedback
 frameworks
 fijas
+fisicas
 Nombre
 Notas
 Not
@@ -5664,6 +5678,7 @@ Fisicamente
 Factor
 Fuerza
 Flexibilidad
+Fuentes
 Descriptors
 Descriptor
 Devuelve
@@ -5793,6 +5808,7 @@ Derivar
 DEN
 Decid
 Detallar
+Discretizacion
 Memoria
 Multivariada
 MORE
@@ -6148,6 +6164,7 @@ Reemplazando
 Resoluci
 Responding
 Responsiveness
+Redondeo
 bien
 by
 be

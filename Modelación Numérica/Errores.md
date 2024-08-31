@@ -14,4 +14,4 @@ mediciones fisicas
 
 
 ## Teoria lineal de errores
-Se poropagan los errores linealizando la relacion entre las variables.  
+Se poropagan los errores linealizando la relacion entre las variables.   

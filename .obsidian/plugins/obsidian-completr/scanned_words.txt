@@ -655,6 +655,8 @@ contract
 change
 construir
 continuos
+cuadratica
+cifra
 de
 dispositivos
 del
@@ -2090,6 +2092,8 @@ perfecto
 planificar
 productos
 practicas
+poropagan
+propagar
 la
 las
 le
@@ -2270,6 +2274,7 @@ llenado
 lineamiento
 locados
 llueve
+linealizando
 agnosticos
 apps
 al
@@ -2621,6 +2626,7 @@ approach
 apurarse
 altos
 aires
+agregan
 hardware
 heap
 hay
@@ -3099,6 +3105,7 @@ Saluuzi
 Sino
 Seguramente
 Sumatoria
+Sabiendo
 Calls
 Cmabia
 CPU
@@ -3253,6 +3260,7 @@ Continual
 Complejo
 Caotico
 CATEGORIZAR
+Criterio
 Es
 El
 Estos
@@ -3706,6 +3714,7 @@ repente
 resolutible
 raro
 roles
+restar
 operacion
 orden
 operaciones
@@ -4432,6 +4441,7 @@ Participacion
 Probing
 Pilares
 Podemos
+PI
 Interface
 ID
 Instructions
@@ -4884,6 +4894,7 @@ multifuncionales
 mojarse
 mediciones
 medida
+modulos
 tien
 tiene
 todos

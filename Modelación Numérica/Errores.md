@@ -6,7 +6,7 @@
 ### Inherentes
 mediciones fisicas
 
-### Redondeo y/o almacenamiento en memoria
+### Redondeo y/o almacenamiento en [[memoria]]
 ### Truncamiento 
 - Sumatoria/serie infinitas
 - Discretizacion de espacios continuos. Cuando transformo por ejemplo una medida en metros (que es continua) en diferentes puntos a un cm de distancia (discreto)
@@ -23,6 +23,7 @@ Busco calcular el error ($\Delta A$). Sabiendo que $\Delta D$ es 30.
 
 Entonces 
 $$\Delta A \approx |\Delta D . \tan \theta| =| \Delta D \frac{dA}{dD}|= |\Delta D . \frac{\pi D}{2}|_{D=D_{m}}= |\Delta D  \frac{\pi D_{m}}{2}|$$
+Los modulos se agregan para evitar restar modulos (en peor caso posible)
 Es la parte lineal del error. Sin la parte cuadratica, tiene sentido porque estamos usando la [[Ecuacíon de la Recta Tangente|recta tangente]]
 
 Criterio para propagar error de PI

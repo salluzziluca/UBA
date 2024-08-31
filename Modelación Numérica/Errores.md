@@ -18,4 +18,5 @@ Se poropagan los errores linealizando la relacion entre las variables.
 
 ![[Pasted image 20240831124551.png]]
 
-En este caso para calcular el error ($\Delta D$)
+Busco calcular el error ($\Delta A$). Sabiendo que $\Delta D$ es 30. 
+![[Pasted image 20240831124733.png]]

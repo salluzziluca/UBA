@@ -110,3 +110,5 @@ Un cambion viaja de una ciuidad a otra deteneidnose a cargar nafta cuando necesi
 Las estaciones estan distribuidoas siendo d_i distancia desde i-1 hasta i 
 
 donde me conviene cargar poara detenerme la menor cantidad de veces
+
+Conviene siempre la estacion mas lejana en la que te alcance al nafta

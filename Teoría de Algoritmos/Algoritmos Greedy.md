@@ -44,3 +44,5 @@ def hay_intersection(anterior, nueva):
     return anterior[FIN] > nueva[INICIO]:
 ```
 
+## Árboles Huffman
+Plantea una forma de comprimir texto en base a la frecuencia de caracteres de el m

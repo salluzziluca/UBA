@@ -25,6 +25,6 @@ El tema es que nos puede llevar a maximos locales
 
 
 ## Problema de Scheduling 
-Tengo un aula/sala donde quiero dar charlas. Las charlas tienen horario de inicio y fin. Quiero utilizar el aula para dar la mayor cantidad de charlas. 
+Tengo un aula/sala donde quiero dar charlas. Las charlas tienen horario de inicio y fin fijo, no las puedo mover. Quiero utilizar el aula para dar la mayor cantidad de charlas. 
 
 La facultad tiene una sola aula y quiero dar la mayor cantidad de clases posibles

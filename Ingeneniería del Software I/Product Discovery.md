@@ -9,3 +9,6 @@ Primero que sea testeable, despues utilizable y por ultimo que esté bien hecho.
 Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña solo al inicio
 
 ![[Pasted image 20240902193412.png]]
+
+## Personas (UX Personas)
+Hacer foco en 

@@ -88,4 +88,4 @@ def huffman(texto):
 ## Problema del cambio
 Quiero dar vuelto usando la menor cantidad de monedas
 
-Opcion uno: agarro la mas grande posible 
+Opcion uno: agarro la mas grande posible y parada en esa busco la mas grande que no se pase

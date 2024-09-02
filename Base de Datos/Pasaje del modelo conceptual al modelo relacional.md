@@ -80,3 +80,7 @@ En ambas se rompe la disjuncion. En la segunda no se puede romper la localidad, 
 
 ## Pasaje de uniones 
 ![[Pasted image 20240902175854.png]]
+
+
+## Pasaje de unarias
+![[Pasted image 20240902175917.png]]

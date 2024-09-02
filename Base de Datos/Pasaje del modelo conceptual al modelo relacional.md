@@ -44,3 +44,6 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 
 ## Pasaje N:1 (participacion parcial)
 ![[Pasted image 20240902172943.png]]
+
+## Pasaje 1:1 (ambas participacion total)
+![[Pasted image 20240902173157.png]]

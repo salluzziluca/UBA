@@ -59,4 +59,6 @@ Ej: paralelepipiedo
 | E     | 3          |
 | I     | 1          |
 | D     | 1          |
+| O     | 1          |
+|       |            |
  Letra  |     |

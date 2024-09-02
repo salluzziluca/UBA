@@ -36,3 +36,4 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 
 ## Pasaje de entidad fuerte
 ![[Pasted image 20240902172200.png]]
+## Pasaje interrelacion N:M

@@ -686,6 +686,9 @@ conectados
 conectada
 conexo
 clico
+charlas
+comprimir
+codigos
 de
 dispositivos
 del
@@ -1009,6 +1012,7 @@ dejamos
 down
 dividen
 defecto
+descarto
 gestion
 gran
 guarda
@@ -1752,6 +1756,8 @@ sift
 suele
 subarboles
 subarbol
+superponen
+superponga
 par
 por
 punto
@@ -2730,6 +2736,7 @@ aproximadamente
 ac
 ayudan
 atras
+aula
 hardware
 heap
 hay
@@ -2865,6 +2872,7 @@ hermanos
 hunden
 hundirse
 hojas
+horario
 que
 queda
 quien
@@ -3224,6 +3232,7 @@ Selecciona
 Stacked
 Separar
 Search
+Scheduling
 Calls
 Cmabia
 CPU
@@ -4619,6 +4628,7 @@ Prim
 Partiendo
 Preorden
 Postorder
+Plantea
 Interface
 ID
 Instructions
@@ -5722,6 +5732,7 @@ flote
 floten
 fiel
 fin
+facultad
 Nombre
 Notas
 Not
@@ -7321,6 +7332,7 @@ Hiper
 Hago
 Heap
 Hijo
+Huffman
 Jacobiano
 Job
 Jusitfique

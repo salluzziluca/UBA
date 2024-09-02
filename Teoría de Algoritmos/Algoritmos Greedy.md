@@ -50,3 +50,13 @@ Utiliza dos [[heap#Heap minimal|heap minimales]]  de forma auxiliar para ir gene
 
 Ej: paralelepipiedo
 
+| letra | frecuencia |
+| ----- | ---------- |
+| p     | 3          |
+| A     | 2          |
+| R     | 1          |
+| L     | 2          |
+| E     | 3          |
+| I     | 1          |
+| D     | 1          |
+ Letra  |     |

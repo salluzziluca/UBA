@@ -11,3 +11,6 @@ aliases:
 **Aplicamos una regla sencilla que nos permita obtener el óptimo local a mi estado actual.**. Aplicamos esa regla iterativamente buscando que nos lleve al optimo general
 
 Es deontologista
+
+El tema es que nos puede llevar a maximos locales 
+[[kruscal]]

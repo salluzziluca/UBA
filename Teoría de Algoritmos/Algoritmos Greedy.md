@@ -100,4 +100,9 @@ No es perfecto. Si tengo un sistema monetasrio 1 5 6 9 voy a terminar con 9 1 1 
 
 Tengo una lista de productos. Tengo inflacion todos los dias. Como hago para comprar lo mas posible gastando la menor guita. Puedo compar un solo producto por dia.
 
-Agarramos el mas caro primero
+Agarramos el mas caro primero jijo ESTO SI QUE ES ARGENTINAAAAA
+
+
+## Problema de la carga de combustible
+
+Un cambion viaja de una ciuidad a otra detene

@@ -6,4 +6,6 @@ Primero que sea testeable, despues utilizable y por ultimo que esté bien hecho.
 **Clave**
 ![[Pasted image 20240902192626.png]]
 
-Se rediseña muchas veces hasta que se encuentra por donde ir
+Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña solo al inicio
+
+![[Pasted image 20240902193412.png]]

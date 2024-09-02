@@ -13,4 +13,4 @@ aliases:
 Es deontologista
 
 El tema es que nos puede llevar a maximos locales 
-[[kruscal]]
+[[Recorridos Grafos#Algoritmo de Prim|prim]][[Recorridos Grafos#Agoritmo de kruskal|kruskal]]

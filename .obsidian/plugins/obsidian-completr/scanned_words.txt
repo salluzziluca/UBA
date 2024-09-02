@@ -671,6 +671,12 @@ coon
 construyen
 critico
 clasficiaci
+continuar
+conocida
+comenzamos
+calculada
+cortos
+chica
 de
 dispositivos
 del
@@ -985,6 +991,11 @@ discreto
 datasets
 den
 decisi
+dijkstra
+distancias
+dem
+directos
+deontologista
 gestion
 gran
 guarda
@@ -1441,6 +1452,8 @@ entrop
 entrenamiento
 entrenados
 entrena
+encara
+elige
 servicios
 son
 su
@@ -1717,6 +1730,8 @@ sumatoria
 set
 split
 suis
+sucesivamente
+spanning
 par
 por
 punto
@@ -2129,6 +2144,11 @@ precision
 predecir
 predicci
 prediccion
+profundidad
+pesos
+pesado
+pienso
+permita
 la
 las
 le
@@ -2311,6 +2331,9 @@ locados
 llueve
 linealizando
 logr
+lleg
+liviana
+lleve
 agnosticos
 apps
 al
@@ -2669,6 +2692,14 @@ aparece
 acepta
 aprenda
 aprender
+avanzando
+anchura
+actualiza
+aristas
+arista
+agrego
+agregamos
+armas
 hardware
 heap
 hay
@@ -2800,6 +2831,7 @@ hayan
 helping
 have
 hicieron
+hermanos
 que
 queda
 quien
@@ -3006,6 +3038,9 @@ ubicado
 utilic
 usadas
 uncovering
+unen
+uniendo
+ultima
 System
 Son
 Source
@@ -3153,6 +3188,7 @@ Selecci
 Selecciona
 Stacked
 Separar
+Search
 Calls
 Cmabia
 CPU
@@ -3309,6 +3345,7 @@ Caotico
 CATEGORIZAR
 Criterio
 CATEGORIZARqe
+Comparamos
 Es
 El
 Estos
@@ -3432,6 +3469,8 @@ EXPERIMENTAR
 Encontrar
 Ensambles
 Entrena
+Empezaria
+ENcuentra
 kernel
 kt
 kU
@@ -3492,6 +3531,7 @@ km
 kyd
 key
 keys
+kruskal
 realice
 realicen
 resolve
@@ -3769,6 +3809,10 @@ restar
 repite
 rango
 regularizacion
+rtice
+rtices
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -3918,6 +3962,7 @@ organizen
 organizados
 overfitting
 off
+optimo
 nombre
 nuevo
 nica
@@ -4064,6 +4109,7 @@ necesite
 numericos
 nuestros
 normalizar
+nima
 via
 vuelve
 viven
@@ -4226,6 +4272,10 @@ value
 viene
 ventajas
 voto
+visitar
+vecinos
+visitados
+visitado
 Application
 API
 Asigna
@@ -4368,6 +4418,10 @@ Ayudan
 Aplicar
 Averaging
 Ajuste
+Agoritmo
+Aca
+AHORA
+Aplicamos
 Programming
 Procesos
 Partes
@@ -4509,6 +4563,8 @@ PI
 Promediar
 Promediamos
 Prob
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -4965,6 +5021,7 @@ mediciones
 medida
 modulos
 mejores
+marcan
 tien
 tiene
 todos
@@ -5184,6 +5241,10 @@ transformo
 tuvo
 tomados
 trade
+ten
+topol
+tree
+tenes
 inico
 interna
 infro
@@ -5432,6 +5493,8 @@ iteraciones
 infinita
 interrumpo
 interpretar
+inf
+iterativamente
 fijo
 file
 fork
@@ -5591,6 +5654,7 @@ fisicas
 feature
 features
 faltantes
+futuro
 Nombre
 Notas
 Not
@@ -5770,6 +5834,9 @@ Fuentes
 Formula
 Funcionan
 Forest
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -5901,6 +5968,10 @@ Decid
 Detallar
 Discretizacion
 Debe
+DFS
+Depth
+Dijkstra
+Distancia
 Memoria
 Multivariada
 MORE
@@ -6261,6 +6332,8 @@ Responsiveness
 Redondeo
 Requiere
 Resultado
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -6567,6 +6640,9 @@ Vp
 Voy
 Valores
 Voting
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -7042,6 +7118,8 @@ Boosting
 Blending
 Boost
 Bosteo
+BFS
+Breath
 XY
 Xg
 XQG
@@ -7164,6 +7242,7 @@ Hr
 Hw
 Hash
 Hiper
+Hago
 Jacobiano
 Job
 Jusitfique
@@ -7302,6 +7381,7 @@ Quicksort
 Quentin
 Quitar
 Quiz
+Queremos
 ximo
 xito
 xitos
@@ -7442,6 +7522,7 @@ WrI
 WEZ
 Wars
 Working
+Warshall
 ZZZPU
 ZX
 ZQ

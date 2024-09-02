@@ -1,5 +1,6 @@
 [[Modelo Logico-Relacional Conceptual]]
 
+Las claves para un buen MR son: mapeo, normalizacion y heurísticas
 
 Una buena practica para crear claves atomicas es usar los [[Base de Datos/Atributos|atributos]] raices. De esa forma e aseguras que esta todo bien descompuesto.
 

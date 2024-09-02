@@ -89,3 +89,5 @@ def huffman(texto):
 Quiero dar vuelto usando la menor cantidad de monedas
 
 Opcion uno: agarro la mas grande posible sin pasarme. Calculo lo que me falta y repito lo mismo
+
+Mejora: me quedo con el modulo, por cada moneda chequeo una sola vez. Divido el total por la moneda. Es decir, si tengo 37 en vez de hacer 10 chequeo 10 chequeo 10 chequeo le resto directo 3 de 10

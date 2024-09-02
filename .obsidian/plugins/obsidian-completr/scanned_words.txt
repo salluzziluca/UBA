@@ -693,6 +693,11 @@ codigos
 calave
 club
 clubes
+concurso
+canto
+cantantes
+calificados
+cantante
 de
 dispositivos
 del
@@ -1025,6 +1030,7 @@ depto
 debilles
 docentes
 disjunta
+docente
 gestion
 gran
 guarda
@@ -1491,6 +1497,8 @@ elige
 ero
 edges
 entidads
+evaluados
+englobar
 servicios
 son
 su
@@ -1776,6 +1784,10 @@ subarboles
 subarbol
 superponen
 superponga
+superpuesta
+subconceptos
+subtipos
+supetipo
 par
 por
 punto
@@ -2202,6 +2214,10 @@ participanetes
 participacio
 pais
 padron
+participantes
+puntuar
+puntajes
+personas
 la
 las
 le
@@ -2765,6 +2781,11 @@ ayudan
 atras
 aula
 aseguras
+algunos
+aparecer
+agregacion
+alumnos
+abarca
 hardware
 heap
 hay
@@ -3551,6 +3572,7 @@ Empezaria
 ENcuentra
 EHFnuKXM
 Entidades
+Especializacion
 kernel
 kt
 kU
@@ -3899,6 +3921,9 @@ rECq
 rSZrghSe
 raiz
 recomendable
+rondas
+ronda
+registrar
 operacion
 orden
 operaciones
@@ -4050,6 +4075,8 @@ overfitting
 off
 optimo
 obtenerlo
+organizan
+obligado
 nombre
 nuevo
 nica
@@ -4520,6 +4547,7 @@ Aristas
 Arboles
 Ambas
 Alumnos
+Aqu
 Programming
 Procesos
 Partes
@@ -4873,6 +4901,7 @@ Ubico
 Unchained
 Utiliza
 Usa
+Union
 modo
 mode
 menso
@@ -5353,6 +5382,7 @@ topol
 tree
 tenes
 tytr
+tem
 inico
 interna
 infro
@@ -5604,6 +5634,7 @@ interpretar
 inf
 iterativamente
 intuitivos
+inscriben
 fijo
 file
 fork
@@ -5772,6 +5803,7 @@ floten
 fiel
 fin
 facultad
+fijadas
 Nombre
 Notas
 Not
@@ -5956,6 +5988,8 @@ Forest
 Fijandonos
 FInalmente
 Floyd
+Fijo
+Fuhi
 Descriptors
 Descriptor
 Devuelve
@@ -6991,6 +7025,9 @@ jugable
 juego
 jugador
 juegan
+jurados
+jurado
+jugadores
 Ya
 Yourself
 YAGNI
@@ -7133,6 +7170,7 @@ George
 Green
 Greedy
 Ganancia
+Generaliazacion
 BX
 Bit
 Box

@@ -678,6 +678,10 @@ calculada
 cortos
 chica
 codear
+completos
+chicos
+construirlo
+cargando
 de
 dispositivos
 del
@@ -997,6 +1001,8 @@ distancias
 dem
 directos
 deontologista
+dejamos
+down
 gestion
 gran
 guarda
@@ -1734,6 +1740,8 @@ split
 suis
 sucesivamente
 spanning
+subir
+sift
 par
 por
 punto
@@ -2151,6 +2159,8 @@ pesos
 pesado
 pienso
 permita
+padres
+pasarle
 la
 las
 le
@@ -2336,6 +2346,7 @@ logr
 lleg
 liviana
 lleve
+log
 agnosticos
 apps
 al
@@ -2703,6 +2714,8 @@ agrego
 agregamos
 armas
 aproximaciones
+arribas
+aproximadamente
 hardware
 heap
 hay
@@ -2835,6 +2848,8 @@ helping
 have
 hicieron
 hermanos
+hunden
+hundirse
 que
 queda
 quien
@@ -2931,6 +2946,7 @@ querramos
 quick
 quitado
 quiz
+quitando
 utilizados
 un
 una
@@ -3044,6 +3060,7 @@ uncovering
 unen
 uniendo
 ultima
+ups
 System
 Son
 Source
@@ -3349,6 +3366,7 @@ CATEGORIZAR
 Criterio
 CATEGORIZARqe
 Comparamos
+Construcci
 Es
 El
 Estos
@@ -3817,6 +3835,7 @@ rtices
 recorrelo
 reemplazamos
 rapidos
+raices
 operacion
 orden
 operaciones
@@ -3967,6 +3986,7 @@ organizados
 overfitting
 off
 optimo
+obtenerlo
 nombre
 nuevo
 nica
@@ -4280,6 +4300,8 @@ visitar
 vecinos
 visitados
 visitado
+vertical
+viceversa
 Application
 API
 Asigna
@@ -5026,6 +5048,7 @@ medida
 modulos
 mejores
 marcan
+maximal
 tien
 tiene
 todos
@@ -5661,6 +5684,10 @@ features
 faltantes
 futuro
 faciles
+faltar
+flotan
+flote
+floten
 Nombre
 Notas
 Not
@@ -5736,6 +5763,7 @@ NOc
 NY
 Numero
 Negro
+Nodo
 File
 For
 Funcion
@@ -6492,6 +6520,7 @@ better
 bebe
 bootstrapping
 bootstrap
+balancear
 will
 words
 with
@@ -7250,6 +7279,8 @@ Hw
 Hash
 Hiper
 Hago
+Heap
+Hijo
 Jacobiano
 Job
 Jusitfique

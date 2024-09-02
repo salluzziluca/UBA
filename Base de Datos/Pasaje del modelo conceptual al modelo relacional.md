@@ -50,3 +50,6 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 ## Pasaje 1:1 (una total, una parcial)
 ![[Pasted image 20240902173424.png]]
 ## Pasaje 1:1 (ambas participacion parcial)
+![[Pasted image 20240902173510.png]]
+
+## Entidades Debiles

@@ -32,3 +32,7 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 ## union
 
 ## Ternarias
+
+
+## Pasaje de entidad fuerte
+![[Pasted image 20240902172200.png]]

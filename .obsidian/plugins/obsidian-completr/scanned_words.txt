@@ -698,6 +698,8 @@ canto
 cantantes
 calificados
 cantante
+correcciones
+cuatri
 de
 dispositivos
 del
@@ -2218,6 +2220,7 @@ participantes
 puntuar
 puntajes
 personas
+proveedor
 la
 las
 le
@@ -2786,6 +2789,8 @@ aparecer
 agregacion
 alumnos
 abarca
+articulos
+agregaci
 hardware
 heap
 hay
@@ -2924,6 +2929,7 @@ hojas
 horario
 hoteles
 habitaciones
+heur
 que
 queda
 quien
@@ -4227,6 +4233,7 @@ nima
 normalmente
 nombreclub
 numtero
+normalizacion
 via
 vuelve
 viven
@@ -4396,6 +4403,7 @@ visitado
 vertical
 viceversa
 vertice
+vender
 Application
 API
 Asigna
@@ -4695,6 +4703,9 @@ Preorden
 Postorder
 Plantea
 Persona
+Pasaje
+Porque
+Padr
 Interface
 ID
 Instructions
@@ -5158,6 +5169,7 @@ marcan
 maximal
 maximo
 morse
+mat
 tien
 tiene
 todos
@@ -5383,6 +5395,7 @@ tree
 tenes
 tytr
 tem
+ternarias
 inico
 interna
 infro
@@ -5804,6 +5817,7 @@ fiel
 fin
 facultad
 fijadas
+fuerte
 Nombre
 Notas
 Not
@@ -5881,6 +5895,7 @@ Numero
 Negro
 Nodo
 NfW
+NN
 File
 For
 Funcion
@@ -6126,6 +6141,7 @@ Depth
 Dijkstra
 Distancia
 Demostrar
+Debiles
 Memoria
 Multivariada
 MORE

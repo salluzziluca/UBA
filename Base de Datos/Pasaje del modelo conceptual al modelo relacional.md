@@ -69,3 +69,9 @@ Tengo +1 clave candidata. Porque si se legajo y horario se la materia, y si se l
 
 ## Pasaje de agregación
 ![[Pasted image 20240902175028.png]]Claves de correcciones: PK = {Padrón, N° Op, c_mat, c_depto, cuatri}
+
+
+## Pasaje de Jerarquias totales y disjuntas
+![[Pasted image 20240902175541.png]]
+
+## Pasaje de jerarquias parciales

@@ -19,4 +19,5 @@ EJ: spotify
 ![[Pasted image 20240902195540.png]]
 
 
-## Mapa de 
+## Mapa de empatia (empathy map)
+![[Pasted image 20240902200029.png]]

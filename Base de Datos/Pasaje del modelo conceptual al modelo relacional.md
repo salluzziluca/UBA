@@ -55,4 +55,5 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 ## Entidades Debiles
 ![[Pasted image 20240902173927.png]]
 
-## Ternarias
+## Ternarias (NNN)
+![[Pasted image 20240902174349.png]]

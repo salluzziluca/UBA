@@ -21,3 +21,4 @@ El tema es que nos puede llevar a maximos locales
 - Son intuitivos y faciles de entender
 - suelen ser rapidos
 - pueden ser buenas aproximaciones para problemas complejos
+- suelen ser faciles de codear

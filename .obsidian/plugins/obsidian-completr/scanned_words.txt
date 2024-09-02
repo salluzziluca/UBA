@@ -677,6 +677,7 @@ comenzamos
 calculada
 cortos
 chica
+codear
 de
 dispositivos
 del
@@ -2701,6 +2702,7 @@ arista
 agrego
 agregamos
 armas
+aproximaciones
 hardware
 heap
 hay
@@ -3814,6 +3816,7 @@ rtice
 rtices
 recorrelo
 reemplazamos
+rapidos
 operacion
 orden
 operaciones
@@ -5496,6 +5499,7 @@ interrumpo
 interpretar
 inf
 iterativamente
+intuitivos
 fijo
 file
 fork
@@ -5656,6 +5660,7 @@ feature
 features
 faltantes
 futuro
+faciles
 Nombre
 Notas
 Not
@@ -5973,6 +5978,7 @@ DFS
 Depth
 Dijkstra
 Distancia
+Demostrar
 Memoria
 Multivariada
 MORE

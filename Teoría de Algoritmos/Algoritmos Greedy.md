@@ -65,7 +65,10 @@ Encolo en un primero heap minimal. Cuando desencolo me devuelve los valores de m
 
 Desencolamos dos elementos y creamos un arbol con t1 y t2, el cual va a tener el valor de la suma de las frecuencias de ambos. 
 Ej Si tengo O y R, ambas de 1 de frec, su arbol me va a quedar ![[Pasted image 20240902141537.png]]
-Ese arbol lo reencolo
+Ese arbol lo reencolo. 
+
+Por ultimo codifico.
+![[Pasted image 20240902141625.png]]
 ```python 
 def huffman(texto):
 	frecuencias = calcular_frecuencias(texto)

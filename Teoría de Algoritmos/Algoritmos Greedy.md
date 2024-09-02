@@ -28,3 +28,5 @@ El tema es que nos puede llevar a maximos locales
 Tengo un aula/sala donde quiero dar charlas. Las charlas tienen horario de inicio y fin fijo, no las puedo mover. Quiero utilizar el aula para dar la mayor cantidad de charlas. 
 
 La facultad tiene una sola aula y quiero dar la mayor cantidad de clases posibles
+
+Agarro el primero mas corto y lo comparo con los que los siguientes. Los que se me superponen los descarto, agarro el mas corto que no se me superponga. Hago lo mismo desde este evento

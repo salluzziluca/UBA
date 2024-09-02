@@ -105,4 +105,8 @@ Agarramos el mas caro primero jijo ESTO SI QUE ES ARGENTINAAAAA
 
 ## Problema de la carga de combustible
 
-Un cambion viaja de una ciuidad a otra detene
+Un cambion viaja de una ciuidad a otra deteneidnose a cargar nafta cuando necesita. E Tanque permite viajar K kilometros
+
+Las estaciones estan distribuidoas siendo d_i distancia desde i-1 hasta i 
+
+donde me conviene cargar poara detenerme la menor cantidad de veces

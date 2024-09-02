@@ -35,7 +35,8 @@ Nos da el borrado de un arbol. Borra de las hojas para atras.
 Primero se visita el subarbol izquierdo, luego el subarbol derecho, luego el nodo actual
 
 
-## Arboles de busqueda binario
+## Arboles de busqueda binario (ABB)
+Es el agoritmo por defecto de [[División y Conquista]]
 
 ![[Pasted image 20220426194116.png]]
 

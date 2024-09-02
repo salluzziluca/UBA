@@ -682,6 +682,10 @@ completos
 chicos
 construirlo
 cargando
+conectados
+conectada
+conexo
+clico
 de
 dispositivos
 del
@@ -1003,6 +1007,8 @@ directos
 deontologista
 dejamos
 down
+dividen
+defecto
 gestion
 gran
 guarda
@@ -1462,6 +1468,7 @@ entrenados
 entrena
 encara
 elige
+ero
 servicios
 son
 su
@@ -1742,6 +1749,9 @@ sucesivamente
 spanning
 subir
 sift
+suele
+subarboles
+subarbol
 par
 por
 punto
@@ -2347,6 +2357,7 @@ lleg
 liviana
 lleve
 log
+llegamos
 agnosticos
 apps
 al
@@ -2716,6 +2727,9 @@ armas
 aproximaciones
 arribas
 aproximadamente
+ac
+ayudan
+atras
 hardware
 heap
 hay
@@ -2850,6 +2864,7 @@ hicieron
 hermanos
 hunden
 hundirse
+hojas
 que
 queda
 quien
@@ -3367,6 +3382,8 @@ Criterio
 CATEGORIZARqe
 Comparamos
 Construcci
+Coleccion
+Comparo
 Es
 El
 Estos
@@ -3492,6 +3509,7 @@ Ensambles
 Entrena
 Empezaria
 ENcuentra
+EHFnuKXM
 kernel
 kt
 kU
@@ -3836,6 +3854,9 @@ recorrelo
 reemplazamos
 rapidos
 raices
+rECq
+rSZrghSe
+raiz
 operacion
 orden
 operaciones
@@ -4134,6 +4155,7 @@ numericos
 nuestros
 normalizar
 nima
+normalmente
 via
 vuelve
 viven
@@ -4302,6 +4324,7 @@ visitados
 visitado
 vertical
 viceversa
+vertice
 Application
 API
 Asigna
@@ -4448,6 +4471,9 @@ Agoritmo
 Aca
 AHORA
 Aplicamos
+Arbol
+Aristas
+Arboles
 Programming
 Procesos
 Partes
@@ -4591,6 +4617,8 @@ Promediamos
 Prob
 Prim
 Partiendo
+Preorden
+Postorder
 Interface
 ID
 Instructions
@@ -4716,6 +4744,8 @@ Individuals
 Influencias
 Inherentes
 Informaci
+Inorder
+Inserccion
 Un
 UNIX
 UBA
@@ -5049,6 +5079,7 @@ modulos
 mejores
 marcan
 maximal
+maximo
 tien
 tiene
 todos
@@ -5272,6 +5303,7 @@ ten
 topol
 tree
 tenes
+tytr
 inico
 interna
 infro
@@ -5688,6 +5720,8 @@ faltar
 flotan
 flote
 floten
+fiel
+fin
 Nombre
 Notas
 Not
@@ -5764,6 +5798,7 @@ NY
 Numero
 Negro
 Nodo
+NfW
 File
 For
 Funcion
@@ -6369,6 +6404,8 @@ Requiere
 Resultado
 Recorridos
 Recorriendo
+Recorrido
+Repetimos
 bien
 by
 be
@@ -6521,6 +6558,7 @@ bebe
 bootstrapping
 bootstrap
 balancear
+borrado
 will
 words
 with
@@ -7156,6 +7194,8 @@ Boost
 Bosteo
 BFS
 Breath
+Borra
+Busqueda
 XY
 Xg
 XQG

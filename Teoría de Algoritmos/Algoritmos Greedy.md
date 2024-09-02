@@ -22,3 +22,6 @@ El tema es que nos puede llevar a maximos locales
 - suelen ser rapidos
 - pueden ser buenas aproximaciones para problemas complejos
 - suelen ser faciles de codear
+
+
+## Pro

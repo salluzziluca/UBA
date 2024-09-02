@@ -73,5 +73,6 @@ Tengo +1 clave candidata. Porque si se legajo y horario se la materia, y si se l
 
 ## Pasaje de Jerarquias totales y disjuntas
 ![[Pasted image 20240902175541.png]]
-
-## Pasaje de jerarquias parciales
+En ambas se rompe la dis
+## Pasaje de jerarquias parciales y superpuestas
+![[Pasted image 20240902175614.png]]

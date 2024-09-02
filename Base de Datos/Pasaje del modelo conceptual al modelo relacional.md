@@ -53,3 +53,6 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 ![[Pasted image 20240902173510.png]]
 
 ## Entidades Debiles
+![[Pasted image 20240902173927.png]]
+
+## Ternarias

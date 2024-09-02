@@ -4,4 +4,6 @@ Primero que sea testeable, despues utilizable y por ultimo que esté bien hecho.
 
 ## Discovery 
 **Clave**
+![[Pasted image 20240902192626.png]]
 
+Se rediseña muchas veces hasta que se encuentra por donde ir

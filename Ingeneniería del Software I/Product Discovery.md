@@ -17,3 +17,6 @@ Sirve para comprender diferentes necesidades de los principales tipos de cliente
 
 EJ: spotify 
 ![[Pasted image 20240902195540.png]]
+
+
+## Mapa de 

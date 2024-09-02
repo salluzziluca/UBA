@@ -14,3 +14,10 @@ Es deontologista
 
 El tema es que nos puede llevar a maximos locales 
 [[Recorridos Grafos#Algoritmo de Prim|prim]], [[Recorridos Grafos#Agoritmo de kruskal|kruskal]] y [[Recorridos Grafos#Dijkstra|dijkstra]] son greedys
+
+
+- No siempre dan el resultado optimo
+- Demostrar que dan el optimo es dificil 
+- Son intuitivos y faciles de entender
+- suelen ser rapidos
+- pueden ser buenas aproximaciones para problemas complejos

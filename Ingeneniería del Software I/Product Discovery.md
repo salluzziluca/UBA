@@ -11,4 +11,6 @@ Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña s
 ![[Pasted image 20240902193412.png]]
 
 ## Personas (UX Personas)
-Hacer foco en 
+Hacer foco en los segmentos especificos 
+Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
+![[Pasted image 20240902194936.png]]

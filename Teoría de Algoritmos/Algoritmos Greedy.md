@@ -63,6 +63,7 @@ Ej: paralelepipiedo
 |       |            |
 Encolo en un primero heap minimal. Cuando desencolo me devuelve los valores de menor a mayor
 
+Desencolamos dos elementos y creamos un arbol con t1 y t2, el cual va a tener el valor de la suma de las frecuencias de am
 ```python 
 def huffman(texto):
 	frecuencias = calcular_frecuencias(texto)

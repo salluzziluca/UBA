@@ -30,3 +30,17 @@ Tengo un aula/sala donde quiero dar charlas. Las charlas tienen horario de inici
 La facultad tiene una sola aula y quiero dar la mayor cantidad de clases posibles
 
 Agarro el primero mas corto y lo comparo con los que los siguientes. Los que se me superponen los descarto, agarro el mas corto que no se me superponga. Hago lo mismo desde este evento
+
+```python 
+def scheduling(horarios):
+	horarios_ordenados = ordenar_por_horario_fin(horarios)
+	charlas = []
+	for horario in horarios_ordenados:
+		if len(charlas) == 0 or not hay_interseccion(charlas[-1], horario):
+			charlas.append(horario)
+	return charlas
+
+def hay_intersection(anterior, nueva):
+    return anterior[FIN] > nueva[INICIO]:
+```
+

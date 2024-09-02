@@ -73,8 +73,10 @@ Tengo +1 clave candidata. Porque si se legajo y horario se la materia, y si se l
 
 ## Pasaje de Jerarquias totales y disjuntas
 ![[Pasted image 20240902175541.png]]
-En ambas se rompe la disjuncion 
+En ambas se rompe la disjuncion. En la segunda no se puede romper la localidad, no podemos cargar una carrera que no sea ni ing ni posgrado
 ## Pasaje de jerarquias parciales y superpuestas
 ![[Pasted image 20240902175614.png]]
 
 
+## Pasaje de uniones 
+![[Pasted image 20240902175854.png]]

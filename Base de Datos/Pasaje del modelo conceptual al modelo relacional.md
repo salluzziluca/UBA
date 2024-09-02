@@ -66,3 +66,5 @@ Hay un solo proveedor que me puede vender los articulos
 ## Pasaje ternarias N11
 ![[Pasted image 20240902174827.png]]
 Tengo +1 clave candidata. Porque si se legajo y horario se la materia, y si se legajo y materia se el horario
+
+## Pasaje de agregación

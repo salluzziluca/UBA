@@ -21,3 +21,8 @@ EJ: spotify
 
 ## Mapa de empatia (empathy map)
 ![[Pasted image 20240902200029.png]]
+
+
+## A|B testing 
+Quiero saber si la gente va a publicar mas historias de ig si pongo el boton aca o aca. 
+Pruebo en dos grupos reales de la app cada una con una version y veo cual funciona mejor

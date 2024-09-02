@@ -55,5 +55,9 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 ## Entidades Debiles
 ![[Pasted image 20240902173927.png]]
 
-## Ternarias (NNN)
+## Pasaje de Ternarias (NNN)
 ![[Pasted image 20240902174349.png]]
+
+## Pasaje de ternarias 1NN
+![[Pasted image 20240902174422.png]]
+Hay un solo proveedor que me puede vender los articulos

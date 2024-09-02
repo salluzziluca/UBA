@@ -690,6 +690,9 @@ clico
 charlas
 comprimir
 codigos
+calave
+club
+clubes
 de
 dispositivos
 del
@@ -1015,6 +1018,13 @@ dividen
 defecto
 descarto
 digos
+descompuesto
+dirige
+departamenteo
+depto
+debilles
+docentes
+disjunta
 gestion
 gran
 guarda
@@ -1127,6 +1137,10 @@ gestionen
 greedy
 generan
 greedys
+gernte
+gerente
+gerentes
+gerenteDepartamento
 especifico
 entra
 en
@@ -1476,6 +1490,7 @@ encara
 elige
 ero
 edges
+entidads
 servicios
 son
 su
@@ -2181,6 +2196,12 @@ permita
 padres
 pasarle
 paralelepipiedo
+practica
+participacion
+participanetes
+participacio
+pais
+padron
 la
 las
 le
@@ -2369,6 +2390,7 @@ lleve
 log
 llegamos
 letra
+lados
 agnosticos
 apps
 al
@@ -2742,6 +2764,7 @@ ac
 ayudan
 atras
 aula
+aseguras
 hardware
 heap
 hay
@@ -2878,6 +2901,8 @@ hunden
 hundirse
 hojas
 horario
+hoteles
+habitaciones
 que
 queda
 quien
@@ -3238,6 +3263,7 @@ Stacked
 Separar
 Search
 Scheduling
+SIrve
 Calls
 Cmabia
 CPU
@@ -3524,6 +3550,7 @@ Entrena
 Empezaria
 ENcuentra
 EHFnuKXM
+Entidades
 kernel
 kt
 kU
@@ -3871,6 +3898,7 @@ raices
 rECq
 rSZrghSe
 raiz
+recomendable
 operacion
 orden
 operaciones
@@ -4170,6 +4198,8 @@ nuestros
 normalizar
 nima
 normalmente
+nombreclub
+numtero
 via
 vuelve
 viven
@@ -4488,6 +4518,8 @@ Aplicamos
 Arbol
 Aristas
 Arboles
+Ambas
+Alumnos
 Programming
 Procesos
 Partes
@@ -4634,6 +4666,7 @@ Partiendo
 Preorden
 Postorder
 Plantea
+Persona
 Interface
 ID
 Instructions
@@ -6294,6 +6327,7 @@ Tanto
 Tags
 TDAs
 That
+Ternarias
 Realiza
 REgistrys
 Rango
@@ -6956,6 +6990,7 @@ jugar
 jugable
 juego
 jugador
+juegan
 Ya
 Yourself
 YAGNI
@@ -7398,6 +7433,7 @@ JyZa
 Jjr
 Jp
 JV
+JuegaEn
 Quienes
 Queue
 Quiere

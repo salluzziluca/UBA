@@ -47,3 +47,6 @@ SIrve solo cuando es total y es recomendable que sea disjunta
 
 ## Pasaje 1:1 (ambas participacion total)
 ![[Pasted image 20240902173157.png]]
+## Pasaje 1:1 (una total, una parcial)
+
+## Pasaje 1:1 (ambas participacion parcial)

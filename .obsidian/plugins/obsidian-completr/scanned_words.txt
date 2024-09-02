@@ -5691,6 +5691,7 @@ Factor
 Fuerza
 Flexibilidad
 Fuentes
+Formula
 Descriptors
 Descriptor
 Devuelve
@@ -5821,6 +5822,7 @@ DEN
 Decid
 Detallar
 Discretizacion
+Debe
 Memoria
 Multivariada
 MORE

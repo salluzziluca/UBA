@@ -61,7 +61,7 @@ Ej: paralelepipiedo
 | D     | 1          |
 | O     | 1          |
 |       |            |
-Encolo
+Encolo en un primero heap minimal. Cuando desencolo me devuelve los valores de menor a mayor
 
 ```python 
 def huffman(texto):

@@ -61,4 +61,4 @@ Ej: paralelepipiedo
 | D     | 1          |
 | O     | 1          |
 |       |            |
- Letra  |     |
+```

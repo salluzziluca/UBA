@@ -68,3 +68,4 @@ Hay un solo proveedor que me puede vender los articulos
 Tengo +1 clave candidata. Porque si se legajo y horario se la materia, y si se legajo y materia se el horario
 
 ## Pasaje de agregación
+![[Pasted image 20240902175028.png]]

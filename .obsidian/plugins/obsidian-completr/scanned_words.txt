@@ -168,6 +168,7 @@ LIpp
 Lyv
 Lka
 Lucas
+Limitaciones
 capa
 controlado
 cantidad
@@ -657,6 +658,19 @@ construir
 continuos
 cuadratica
 cifra
+clasificar
+categ
+complete
+combinamos
+clasificador
+combinacion
+clasificadores
+correlaci
+clasificaci
+coon
+construyen
+critico
+clasficiaci
 de
 dispositivos
 del
@@ -968,6 +982,9 @@ development
 delivery
 dicretizacion
 discreto
+datasets
+den
+decisi
 gestion
 gran
 guarda
@@ -1077,6 +1094,8 @@ green
 guard
 guardan
 gestionen
+greedy
+generan
 especifico
 entra
 en
@@ -1418,6 +1437,10 @@ entregable
 expertos
 emergentes
 eventualmente
+entrop
+entrenamiento
+entrenados
+entrena
 servicios
 son
 su
@@ -1691,6 +1714,9 @@ superar
 similarmente
 sobreescripcion
 sumatoria
+set
+split
+suis
 par
 por
 punto
@@ -2094,6 +2120,15 @@ productos
 practicas
 poropagan
 propagar
+paras
+preparaci
+performance
+ptimo
+ptimos
+precision
+predecir
+predicci
+prediccion
 la
 las
 le
@@ -2275,6 +2310,7 @@ lineamiento
 locados
 llueve
 linealizando
+logr
 agnosticos
 apps
 al
@@ -2627,6 +2663,12 @@ apurarse
 altos
 aires
 agregan
+arboles
+acuerdo
+aparece
+acepta
+aprenda
+aprender
 hardware
 heap
 hay
@@ -3106,6 +3148,11 @@ Sino
 Seguramente
 Sumatoria
 Sabiendo
+Simples
+Selecci
+Selecciona
+Stacked
+Separar
 Calls
 Cmabia
 CPU
@@ -3382,6 +3429,9 @@ Evolutionary
 Early
 Equipos
 EXPERIMENTAR
+Encontrar
+Ensambles
+Entrena
 kernel
 kt
 kU
@@ -3716,6 +3766,9 @@ resolutible
 raro
 roles
 restar
+repite
+rango
+regularizacion
 operacion
 orden
 operaciones
@@ -3863,6 +3916,8 @@ others
 over
 organizen
 organizados
+overfitting
+off
 nombre
 nuevo
 nica
@@ -4007,6 +4062,8 @@ niveles
 needed
 necesite
 numericos
+nuestros
+normalizar
 via
 vuelve
 viven
@@ -4167,6 +4224,8 @@ vistas
 varian
 value
 viene
+ventajas
+voto
 Application
 API
 Asigna
@@ -4305,6 +4364,10 @@ Adaptative
 Algo
 ANALIZAR
 ACTUAR
+Ayudan
+Aplicar
+Averaging
+Ajuste
 Programming
 Procesos
 Partes
@@ -4443,6 +4506,9 @@ Probing
 Pilares
 Podemos
 PI
+Promediar
+Promediamos
+Prob
 Interface
 ID
 Instructions
@@ -4567,6 +4633,7 @@ Iterativo
 Individuals
 Influencias
 Inherentes
+Informaci
 Un
 UNIX
 UBA
@@ -4645,6 +4712,7 @@ Utilizando
 Ubico
 Unchained
 Utiliza
+Usa
 modo
 mode
 menso
@@ -4896,6 +4964,7 @@ mojarse
 mediciones
 medida
 modulos
+mejores
 tien
 tiene
 todos
@@ -5112,6 +5181,9 @@ there
 tecnicas
 transparencia
 transformo
+tuvo
+tomados
+trade
 inico
 interna
 infro
@@ -5359,6 +5431,7 @@ interconectados
 iteraciones
 infinita
 interrumpo
+interpretar
 fijo
 file
 fork
@@ -5515,6 +5588,9 @@ feedback
 frameworks
 fijas
 fisicas
+feature
+features
+faltantes
 Nombre
 Notas
 Not
@@ -5692,6 +5768,8 @@ Fuerza
 Flexibilidad
 Fuentes
 Formula
+Funcionan
+Forest
 Descriptors
 Descriptor
 Devuelve
@@ -5937,6 +6015,8 @@ Mergesort
 Monovaluados
 Messi
 Mariano
+Majority
+Mejor
 Table
 Todos
 This
@@ -6179,6 +6259,8 @@ Resoluci
 Responding
 Responsiveness
 Redondeo
+Requiere
+Resultado
 bien
 by
 be
@@ -6328,6 +6410,8 @@ breves
 become
 better
 bebe
+bootstrapping
+bootstrap
 will
 words
 with
@@ -6482,6 +6566,7 @@ VB
 Vp
 Voy
 Valores
+Voting
 OPTIONS
 Operativos
 Orden
@@ -6552,6 +6637,8 @@ Ow
 Operaciones
 Obtenemos
 Ofrecer
+Out
+Omega
 ya
 yo
 yM
@@ -6842,6 +6929,8 @@ GC
 Gx
 George
 Green
+Greedy
+Ganancia
 BX
 Bit
 Box
@@ -6946,6 +7035,13 @@ Bruta
 Binaria
 Basicamente
 Build
+Buena
+Bagging
+Bag
+Boosting
+Blending
+Boost
+Bosteo
 XY
 Xg
 XQG
@@ -7067,6 +7163,7 @@ HDp
 Hr
 Hw
 Hash
+Hiper
 Jacobiano
 Job
 Jusitfique

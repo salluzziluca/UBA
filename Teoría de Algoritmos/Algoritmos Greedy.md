@@ -98,4 +98,6 @@ No es perfecto. Si tengo un sistema monetasrio 1 5 6 9 voy a terminar con 9 1 1 
 
 ## Problemas de compras con inflación
 
-Tengo una lista de productos. Tengo inflacion todos los dias. Como hago para comprar lo mas posible gastando la menor guita. Puedo compar un solo producto por dia
+Tengo una lista de productos. Tengo inflacion todos los dias. Como hago para comprar lo mas posible gastando la menor guita. Puedo compar un solo producto por dia.
+
+Agarramos el mas caro primero

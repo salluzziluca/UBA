@@ -61,6 +61,8 @@ Ej: paralelepipiedo
 | D     | 1          |
 | O     | 1          |
 |       |            |
+Encolo
+
 ```python 
 def huffman(texto):
 	frecuencias = calcular_frecuencias(texto)

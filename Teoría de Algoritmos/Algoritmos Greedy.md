@@ -97,3 +97,5 @@ Esto es O(tipos_monedas)
 No es perfecto. Si tengo un sistema monetasrio 1 5 6 9 voy a terminar con 9 1 1 cuando lo mas eficiente seria 5 + 6. Esto es por la localidad
 
 ## Problemas de compras con inflación
+
+Tengo una lista de productos. Tengo inflacion todos los dias. Como hago para comprar lo mas posible gastando la menor guita. Puedo compar un solo producto por dia

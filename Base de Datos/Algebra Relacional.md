@@ -1,1 +1,1 @@
-Para interactuar con un modelo es necesario un lenguaje, h
+Para interactuar con un modelo es necesario un lenguaje, hay dos tipos: Procedurales y declarativos. Casi todos son procedurales (python, c, etc). SQL es declarativo

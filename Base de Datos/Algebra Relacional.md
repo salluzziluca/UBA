@@ -40,4 +40,4 @@ dada dos relaciones R y S conserva solo aquellas tuplas de R que no pertenecen a
 ![[Pasted image 20240903194817.png]]
 
 
-HAce un todos cont
+HAce un todos con todos

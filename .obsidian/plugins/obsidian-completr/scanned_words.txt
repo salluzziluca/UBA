@@ -700,6 +700,7 @@ calificados
 cantante
 correcciones
 cuatri
+carrera
 de
 dispositivos
 del
@@ -1033,6 +1034,8 @@ debilles
 docentes
 disjunta
 docente
+disjuntas
+disjuncion
 gestion
 gran
 guarda
@@ -1790,6 +1793,7 @@ superpuesta
 subconceptos
 subtipos
 supetipo
+superpuestas
 par
 por
 punto
@@ -2221,6 +2225,7 @@ puntuar
 puntajes
 personas
 proveedor
+posgrado
 la
 las
 le
@@ -3141,6 +3146,8 @@ unen
 uniendo
 ultima
 ups
+uniones
+unarias
 System
 Son
 Source
@@ -3930,6 +3937,7 @@ recomendable
 rondas
 ronda
 registrar
+romper
 operacion
 orden
 operaciones
@@ -5396,6 +5404,7 @@ tenes
 tytr
 tem
 ternarias
+totales
 inico
 interna
 infro
@@ -5648,6 +5657,7 @@ inf
 iterativamente
 intuitivos
 inscriben
+ing
 fijo
 file
 fork
@@ -7044,6 +7054,7 @@ juegan
 jurados
 jurado
 jugadores
+jerarquias
 Ya
 Yourself
 YAGNI
@@ -7488,6 +7499,7 @@ Jjr
 Jp
 JV
 JuegaEn
+Jerarquias
 Quienes
 Queue
 Quiere

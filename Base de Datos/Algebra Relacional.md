@@ -26,3 +26,4 @@ guardo en variables
 
 ### Redenominacion
 Permite modficar los nombres de los atributos de una relacion o el nombre de la relacion misma
+![[Pasted image 20240903193811.png]]

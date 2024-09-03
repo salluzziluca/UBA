@@ -705,6 +705,8 @@ correccion
 cmateria
 cpto
 considera
+corresponder
+codominio
 de
 dispositivos
 del
@@ -1045,6 +1047,7 @@ dicta
 declarativos
 declarativo
 duplicadas
+disjuntos
 gestion
 gran
 guarda
@@ -1514,6 +1517,7 @@ edges
 entidads
 evaluados
 englobar
+elementoe
 servicios
 son
 su
@@ -2244,6 +2248,7 @@ padroo
 padro
 procedurales
 python
+pasaria
 la
 las
 le
@@ -2434,6 +2439,7 @@ llegamos
 letra
 lados
 lgebra
+lee
 agnosticos
 apps
 al
@@ -3168,6 +3174,7 @@ ultima
 ups
 uniones
 unarias
+unico
 System
 Son
 Source
@@ -5698,6 +5705,8 @@ ing
 institucion
 inscripto
 interactuar
+incluido
+interseccion
 fijo
 file
 fork
@@ -5946,6 +5955,7 @@ Negro
 Nodo
 NfW
 NN
+Nomenclatura
 File
 For
 Funcion

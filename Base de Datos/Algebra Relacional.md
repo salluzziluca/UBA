@@ -17,3 +17,5 @@ Dad una relacion R y una condicion que se acplica a cada tupla de R. $$\sigma_{c
 
 Dada una relacion y una lista de atributos L, devuelve una relacion cuyas tuplas respresentan los posibles valores de los atributos de L en R
 ![[Pasted image 20240903192542.png]]
+
+Siempr remueve tuplas duplicadas

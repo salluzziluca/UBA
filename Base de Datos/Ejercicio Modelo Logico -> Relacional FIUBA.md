@@ -13,3 +13,11 @@
 | oportunidad(padron, codigo_depto,codigo_materia)                  |        | padron, N° op, codigo_depto,codigo_materia     | padroo, codigo depto codigo materia |     |
 | correccion(padron_,c_materia,c_depto, N°op, Cuatri, legajo, nota) |        | Padrón, N° Op, c_mat, c_depto, cuatri          | padro, cmateria, cpto, legajo, N Op |     |
 | final(N Op, Cuatri, Codigo Materia, Cod Departamento)             |        | N Op, Cuatri, Codigo Materia, Cod Departamento | Codigo Materia, Cod Departamento    |     |
+
+
+![[Pasted image 20240903120746.png]]
+
+
+| --- | --- | --- | ---- |
+| ----- | --- | --- | ---- |
+ relac  |     |     |      |

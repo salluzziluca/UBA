@@ -8,3 +8,4 @@
 | inscripto(padron, carrera, fecha)                         |        | padron, carrera                     | padron, carrera        |     |
 | materia(codigo, departamento)                             |        | codigo_materia, codigo_departamento | codigo_departamento    |     |
 | departamento(codigo_nombre)                               |        | codigo                              |                        |     |
+| profesor(legajo, )                                        |        |                                     |                        |     |

@@ -7,4 +7,6 @@ Propuesto por E. Codd en 1970, se lo considera parte integral del modelo relacio
 
 ![[Pasted image 20240903190930.png]]
 
-## Recursos utilizados
+## Operaciones Basicas 
+### Selección
+$$$$

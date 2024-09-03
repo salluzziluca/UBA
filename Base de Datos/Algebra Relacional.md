@@ -34,4 +34,4 @@ ver [[1.9 Nomenclatura]]
 
 
 ### diferencia 
-dada dos relaciones R y S conserva solo aquellas tuplas de R 
+dada dos relaciones R y S conserva solo aquellas tuplas de R que no pertenecen a S

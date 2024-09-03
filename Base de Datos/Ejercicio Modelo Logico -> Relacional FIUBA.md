@@ -9,4 +9,4 @@
 | materia(codigo, departamento)                             |        | codigo_materia, codigo_departamento | codigo_departamento    |     |
 | departamento(codigo_nombre)                               |        | codigo                              |                        |     |
 | profesor(legajo, nombre)                                  |        | legajo                              |                        |     |
-| dicta(legajo_profesor, dia, turno, materia)               |        | legajo, materia                     |                        |     |
+| dicta(legajo_profesor, dia, turno, depto, numero)         |        | legajo, dia, turno                  |                        |     |

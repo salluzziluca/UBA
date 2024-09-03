@@ -4,3 +4,6 @@
 | ------------------------------------------------------- | ------ | ------ | ---------------------- | --- |
 | Alumno(telefono, padron, nombre, codigo_inst_secundari) | padron | padron | codigo_inst_secundaria |     |
 | institucion(codigo, nombre)                             |        | codigo |                        |     |
+| carrera(codigo, nombre)                                 |        | codigo |                        |     |
+| inscripto(padron, carrera)                              |        |        |                        |     |
+|                                                         |        |        |                        |     |

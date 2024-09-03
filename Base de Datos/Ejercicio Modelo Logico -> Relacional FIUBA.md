@@ -10,4 +10,5 @@
 | departamento(codigo_nombre)                               |        | codigo                              |                        |     |
 | profesor(legajo, nombre)                                  |        | legajo                              |                        |     |
 | dicta(legajo_profesor, dia, turno, depto, numero)         |        | legajo, dia, turno                  |                        |     |
-|                                                           |        |                                     |                        |     |
+| oportunidad(padron, codigo_depto,codigo_materia)          |        |                                     |                        |     |
+| correccion(padron_,c_materia,c_depto, )                   |        |                                     |                        |     |

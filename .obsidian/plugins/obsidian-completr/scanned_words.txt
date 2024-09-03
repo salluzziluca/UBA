@@ -704,6 +704,7 @@ carrera
 correccion
 cmateria
 cpto
+considera
 de
 dispositivos
 del
@@ -1041,6 +1042,9 @@ disjuntas
 disjuncion
 departamento
 dicta
+declarativos
+declarativo
+duplicadas
 gestion
 gran
 guarda
@@ -1157,6 +1161,7 @@ gernte
 gerente
 gerentes
 gerenteDepartamento
+guardo
 especifico
 entra
 en
@@ -1801,6 +1806,7 @@ supetipo
 superpuestas
 secundari
 secundaria
+selecciona
 par
 por
 punto
@@ -2236,6 +2242,8 @@ posgrado
 profesor
 padroo
 padro
+procedurales
+python
 la
 las
 le
@@ -2425,6 +2433,7 @@ log
 llegamos
 letra
 lados
+lgebra
 agnosticos
 apps
 al
@@ -2806,6 +2815,7 @@ alumnos
 abarca
 articulos
 agregaci
+acplica
 hardware
 heap
 hay
@@ -3308,6 +3318,8 @@ Separar
 Search
 Scheduling
 SIrve
+SQL
+Siempr
 Calls
 Cmabia
 CPU
@@ -3471,6 +3483,7 @@ Comparo
 Cuatri
 Codigo
 Cod
+Casi
 Es
 El
 Estos
@@ -3951,6 +3964,8 @@ rondas
 ronda
 registrar
 romper
+respresentan
+remueve
 operacion
 orden
 operaciones
@@ -4427,6 +4442,7 @@ vertical
 viceversa
 vertice
 vender
+verdera
 Application
 API
 Asigna
@@ -4729,6 +4745,9 @@ Persona
 Pasaje
 Porque
 Padr
+Procedurales
+Propuesto
+Proyecci
 Interface
 ID
 Instructions
@@ -5193,6 +5212,7 @@ maximal
 maximo
 morse
 mat
+modficar
 tien
 tiene
 todos
@@ -5677,6 +5697,7 @@ inscriben
 ing
 institucion
 inscripto
+interactuar
 fijo
 file
 fork
@@ -6172,6 +6193,8 @@ Distancia
 Demostrar
 Debiles
 Departamento
+Dad
+Dada
 Memoria
 Multivariada
 MORE
@@ -6538,6 +6561,7 @@ Recorridos
 Recorriendo
 Recorrido
 Repetimos
+Redenominacion
 bien
 by
 be
@@ -7334,6 +7358,7 @@ BFS
 Breath
 Borra
 Busqueda
+Basicas
 XY
 Xg
 XQG

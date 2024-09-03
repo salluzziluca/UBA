@@ -4,3 +4,7 @@ Para interactuar con un modelo es necesario un lenguaje, hay dos tipos: Procedur
 
 ## Caracteristicas del Álgebra relacional 
 Propuesto por E. Codd en 1970, se lo considera parte integral del modelo relacional
+
+![[Pasted image 20240903190930.png]]
+
+## Recursos utilizados

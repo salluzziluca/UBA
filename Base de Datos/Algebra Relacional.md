@@ -19,3 +19,7 @@ Dada una relacion y una lista de atributos L, devuelve una relacion cuyas tuplas
 ![[Pasted image 20240903192542.png]]
 
 Siempr remueve tuplas duplicadas
+
+### asignacion
+![[Pasted image 20240903193206.png]]
+guardo en variables

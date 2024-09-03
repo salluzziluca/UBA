@@ -12,3 +12,5 @@ Propuesto por E. Codd en 1970, se lo considera parte integral del modelo relacio
 $$\sigma_{cond}:R\to S$$
 Dad una relacion R y una condicion que se acplica a cada tupla de R. $$\sigma_{cond}(R)$$ selecciona aquellas tuplas de R para las cuales la condicion es verdera
 ![[Pasted image 20240903191814.png]]
+
+### Proyección

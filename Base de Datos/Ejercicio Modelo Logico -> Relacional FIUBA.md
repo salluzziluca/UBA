@@ -6,4 +6,4 @@
 | institucion(codigo, nombre)                               |        | codigo          |                        |     |
 | carrera(codigo, nombre, legajo_director, nombre_director) |        | codigo          |                        |     |
 | inscripto(padron, carrera, fecha)                         |        | padron, carrera | padron, carrera        |     |
-|                                                           |        |                 |                        |     |
+| materia(codigo, departamento)                             |        |                 |                        |     |

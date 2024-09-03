@@ -701,6 +701,9 @@ cantante
 correcciones
 cuatri
 carrera
+correccion
+cmateria
+cpto
 de
 dispositivos
 del
@@ -1036,6 +1039,8 @@ disjunta
 docente
 disjuntas
 disjuncion
+departamento
+dicta
 gestion
 gran
 guarda
@@ -1794,6 +1799,8 @@ subconceptos
 subtipos
 supetipo
 superpuestas
+secundari
+secundaria
 par
 por
 punto
@@ -2226,6 +2233,9 @@ puntajes
 personas
 proveedor
 posgrado
+profesor
+padroo
+padro
 la
 las
 le
@@ -3458,6 +3468,9 @@ Comparamos
 Construcci
 Coleccion
 Comparo
+Cuatri
+Codigo
+Cod
 Es
 El
 Estos
@@ -4091,6 +4104,7 @@ optimo
 obtenerlo
 organizan
 obligado
+oportunidad
 nombre
 nuevo
 nica
@@ -4242,6 +4256,7 @@ normalmente
 nombreclub
 numtero
 normalizacion
+nota
 via
 vuelve
 viven
@@ -5405,6 +5420,8 @@ tytr
 tem
 ternarias
 totales
+telefono
+turno
 inico
 interna
 infro
@@ -5658,6 +5675,8 @@ iterativamente
 intuitivos
 inscriben
 ing
+institucion
+inscripto
 fijo
 file
 fork
@@ -6152,6 +6171,7 @@ Dijkstra
 Distancia
 Demostrar
 Debiles
+Departamento
 Memoria
 Multivariada
 MORE
@@ -6268,6 +6288,7 @@ Messi
 Mariano
 Majority
 Mejor
+Materia
 Table
 Todos
 This

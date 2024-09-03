@@ -29,9 +29,11 @@ Permite modficar los nombres de los atributos de una relacion o el nombre de la 
 ![[Pasted image 20240903193811.png]]
 
 
-### Union e interseccion 
+### Union e intersección 
 ver [[1.9 Nomenclatura]]
 
 
 ### diferencia 
 dada dos relaciones R y S conserva solo aquellas tuplas de R que no pertenecen a S
+
+### P

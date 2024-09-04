@@ -4973,6 +4973,7 @@ Unchained
 Utiliza
 Usa
 Union
+Unarias
 modo
 mode
 menso
@@ -6590,6 +6591,8 @@ Recorriendo
 Recorrido
 Repetimos
 Redenominacion
+Resumen
+REsumen
 bien
 by
 be
@@ -7387,6 +7390,7 @@ Breath
 Borra
 Busqueda
 Basicas
+Binarias
 XY
 Xg
 XQG

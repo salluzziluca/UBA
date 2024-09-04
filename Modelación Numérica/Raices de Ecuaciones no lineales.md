@@ -33,4 +33,5 @@ $$x_{1}=x_{0}-\frac{f(x_{0})}{f'(x_{0})}$$
 $$x_{k+1}=x_{k}- \frac{f(x_{k})}{f'(x_{k})}$$
 
 ![[Pasted image 20240904121345.png]]
-Usamos el x_{k+1} como nuevo x_k
+Usamos el x_{k+1} como nuevo x_k.
+La cantidad de dijitos correctos se duplica de una iteracion a la otra

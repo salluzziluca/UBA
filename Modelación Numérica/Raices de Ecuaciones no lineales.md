@@ -8,4 +8,4 @@ $f_{1}(x)\neq 0 \ \forall  \ x \in [a,b]$
 
 ## Metodo de Bisección 
 Consite en hallar el punto medio $[a,b]$, al que llamaremos $p_1$
-$$\frac{p_{1} = a_{1}+b_{1}}{}$$
+$$p_{1} =\frac{ a_{1}+b_{1}}{2}$$

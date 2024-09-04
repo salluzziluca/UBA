@@ -46,4 +46,9 @@ HAce un todos con todos
 
 ## Operaciones adicionales
 ### Proyeccion generalizada
-me permite no solo utilizar nombres de columnas sino utilizar funciones y
+me permite no solo utilizar nombres de columnas sino utilizar funciones u operaciones 
+
+### Agregacion 
+Me permite resolver consultas que tengan que ver con varias filas al mismo tiempoej: cuantos goles metio un pais?? Necesito todas las tuplas de los goles de francia. Promedio tambien
+
+### Junta externa 

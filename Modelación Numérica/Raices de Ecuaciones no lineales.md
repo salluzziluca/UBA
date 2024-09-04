@@ -35,3 +35,8 @@ $$x_{k+1}=x_{k}- \frac{f(x_{k})}{f'(x_{k})}$$
 ![[Pasted image 20240904121345.png]]
 Usamos el x_{k+1} como nuevo x_k.
 La cantidad de dijitos correctos se duplica de una iteracion a la otra
+
+
+### PRoblemas con newton Rawson
+Que pasa si f'(x_k)= 0? Entonces me encuentro con una division por 0 y no puedo resolver. No va a converger
+![[Pasted image 20240904121911.png]]

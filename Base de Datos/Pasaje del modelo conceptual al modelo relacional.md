@@ -84,3 +84,11 @@ En ambas se rompe la disjuncion. En la segunda no se puede romper la localidad, 
 
 ## Pasaje de unarias
 ![[Pasted image 20240902175917.png]]
+
+## Resumen Binarias 
+![[Pasted image 20240904110123.png]]
+## REsumen Unarias
+![[Pasted image 20240904110135.png]]
+
+## Resumen Ternarias 
+![[Pasted image 20240904110159.png]]

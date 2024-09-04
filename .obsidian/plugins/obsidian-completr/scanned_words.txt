@@ -708,6 +708,8 @@ considera
 corresponder
 codominio
 conserva
+consultas
+cuantos
 de
 dispositivos
 del
@@ -1166,6 +1168,7 @@ gerente
 gerentes
 gerenteDepartamento
 guardo
+goles
 especifico
 entra
 en
@@ -2823,6 +2826,7 @@ abarca
 articulos
 agregaci
 acplica
+adicionales
 hardware
 heap
 hay
@@ -4603,6 +4607,7 @@ Arboles
 Ambas
 Alumnos
 Aqu
+Agregacion
 Programming
 Procesos
 Partes
@@ -4756,6 +4761,8 @@ Padr
 Procedurales
 Propuesto
 Proyecci
+Proyeccion
+Promedio
 Interface
 ID
 Instructions
@@ -5221,6 +5228,7 @@ maximo
 morse
 mat
 modficar
+metio
 tien
 tiene
 todos
@@ -5450,6 +5458,8 @@ ternarias
 totales
 telefono
 turno
+tengan
+tiempoej
 inico
 interna
 infro
@@ -5879,6 +5889,7 @@ fin
 facultad
 fijadas
 fuerte
+francia
 Nombre
 Notas
 Not
@@ -5958,6 +5969,7 @@ Nodo
 NfW
 NN
 Nomenclatura
+Necesito
 File
 For
 Funcion
@@ -7559,6 +7571,7 @@ Jp
 JV
 JuegaEn
 Jerarquias
+Junta
 Quienes
 Queue
 Quiere

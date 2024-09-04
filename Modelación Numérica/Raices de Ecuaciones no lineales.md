@@ -45,3 +45,7 @@ entonces:
 ### Condiciones para que Newton Rapshon esté bien definida y converja a la raiz de f(x) en $[a,b]$
 
 ![[Pasted image 20240904122106.png]]
+
+
+### Error, convergencia cuadrática
+![[Pasted image 20240904122542.png]]

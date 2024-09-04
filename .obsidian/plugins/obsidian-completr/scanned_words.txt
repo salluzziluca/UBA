@@ -710,6 +710,7 @@ codominio
 conserva
 consultas
 cuantos
+cuyo
 de
 dispositivos
 del
@@ -1522,6 +1523,7 @@ entidads
 evaluados
 englobar
 elementoe
+exista
 servicios
 son
 su
@@ -2444,6 +2446,7 @@ letra
 lados
 lgebra
 lee
+llamaremos
 agnosticos
 apps
 al
@@ -3334,6 +3337,7 @@ SIrve
 SQL
 Siempr
 Surge
+SIendo
 Calls
 Cmabia
 CPU
@@ -3498,6 +3502,7 @@ Cuatri
 Codigo
 Cod
 Casi
+Consite
 Es
 El
 Estos
@@ -7391,6 +7396,7 @@ Borra
 Busqueda
 Basicas
 Binarias
+Bisecci
 XY
 Xg
 XQG

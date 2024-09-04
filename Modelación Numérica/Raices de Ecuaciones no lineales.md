@@ -39,4 +39,4 @@ La cantidad de dijitos correctos se duplica de una iteracion a la otra
 
 ### PRoblemas con newton Rawson
 Que pasa si f'(x_k)= 0? Entonces me encuentro con una division por 0 y no puedo resolver. No va a converger
-![[Pasted image 20240904121911.png]]
+![[Pasted image 20240904122004.png]]

@@ -23,4 +23,4 @@ La cota de error absoluto nos la da el problema que estamos resolviendo
 
 
 ## Metodo de Newton-Rawson
-Consiste
+Consiste en elegir un valor $x_{0}$, que denominaremos valor inicial, y aprocimar la funcion f(x) por los dos primeros termiinos de la serie de taylor. AKA [[Ecuacíon de la Recta Tangente]]

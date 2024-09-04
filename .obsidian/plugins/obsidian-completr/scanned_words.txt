@@ -1052,6 +1052,7 @@ declarativos
 declarativo
 duplicadas
 disjuntos
+denominaremos
 gestion
 gran
 guarda
@@ -2831,6 +2832,9 @@ agregaci
 acplica
 adicionales
 actuaci
+acercando
+absoluto
+aprocimar
 hardware
 heap
 hay
@@ -3503,6 +3507,8 @@ Codigo
 Cod
 Casi
 Consite
+Converge
+Consiste
 Es
 El
 Estos
@@ -3631,6 +3637,7 @@ ENcuentra
 EHFnuKXM
 Entidades
 Especializacion
+Ecuac
 kernel
 kt
 kU
@@ -3986,6 +3993,7 @@ romper
 respresentan
 remueve
 realizarlas
+resolviendo
 operacion
 orden
 operaciones
@@ -4616,6 +4624,7 @@ Ambas
 Alumnos
 Aqu
 Agregacion
+AKA
 Programming
 Procesos
 Partes
@@ -5469,6 +5478,8 @@ telefono
 turno
 tengan
 tiempoej
+termiinos
+taylor
 inico
 interna
 infro
@@ -5729,6 +5740,7 @@ incluido
 interseccion
 intersecci
 identificaci
+itero
 fijo
 file
 fork
@@ -5980,6 +5992,7 @@ NfW
 NN
 Nomenclatura
 Necesito
+Newton
 File
 For
 Funcion
@@ -6466,6 +6479,7 @@ Tags
 TDAs
 That
 Ternarias
+Tangente
 Realiza
 REgistrys
 Rango
@@ -6598,6 +6612,7 @@ Repetimos
 Redenominacion
 Resumen
 REsumen
+Rawson
 bien
 by
 be

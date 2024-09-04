@@ -12,6 +12,7 @@
 [[Organizacion de Datos]]
 [[Sistemas Operativos]]
 [[Taller de Programación]]
+s 
 [[Ingeniería del Software I]]
 [[Teoria de Algoritmos]]
 [[Bases de Datos]]

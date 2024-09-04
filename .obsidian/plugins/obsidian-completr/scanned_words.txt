@@ -2827,6 +2827,7 @@ articulos
 agregaci
 acplica
 adicionales
+actuaci
 hardware
 heap
 hay
@@ -3332,6 +3333,7 @@ Scheduling
 SIrve
 SQL
 Siempr
+Surge
 Calls
 Cmabia
 CPU
@@ -3978,6 +3980,7 @@ registrar
 romper
 respresentan
 remueve
+realizarlas
 operacion
 orden
 operaciones

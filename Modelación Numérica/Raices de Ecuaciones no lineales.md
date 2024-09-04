@@ -16,3 +16,5 @@ si $f(p_{1}).f(a_{1})<0$. Definimos al intervalo $[a_{2}, b_{2}]=[a_{1}, p_{1}]$
 ![[Pasted image 20240904113611.png]]
 
 itero n veces, en cada iteración me voy acercando mas y mas a la raiz
+
+![[Pasted image 20240904114851.png]]

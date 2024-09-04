@@ -30,4 +30,4 @@ luego $$0 =f'(x_{0})(x_{1}-x_{0})+f(x_{0}) $$
 $$x_{1}=x_{0}-\frac{f(x_{0})}{f'(x_{0})}$$
 
 ### Sucesion de Newton-Raphson 
-$$x_{k+1}=x_{k}- \frac{f(x_{k)}{f'(x_{k})}})$$
+$$x_{k+1}=x_{k}- \frac{f(x_{k})}{f'(x_{k})}$$

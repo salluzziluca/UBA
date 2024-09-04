@@ -41,3 +41,9 @@ dada dos relaciones R y S conserva solo aquellas tuplas de R que no pertenecen a
 
 
 HAce un todos con todos
+
+
+
+## Operaciones adicionales
+### Proyeccion generalizada
+me permite no solo utilizar nombres de columnas sino utilizar funciones y

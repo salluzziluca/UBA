@@ -707,6 +707,7 @@ cpto
 considera
 corresponder
 codominio
+conserva
 de
 dispositivos
 del
@@ -5707,6 +5708,7 @@ inscripto
 interactuar
 incluido
 interseccion
+intersecci
 fijo
 file
 fork
@@ -7495,6 +7497,7 @@ Hago
 Heap
 Hijo
 Huffman
+HAce
 Jacobiano
 Job
 Jusitfique

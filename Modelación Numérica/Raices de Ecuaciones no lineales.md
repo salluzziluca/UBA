@@ -40,3 +40,7 @@ La cantidad de dijitos correctos se duplica de una iteracion a la otra
 ### PRoblemas con newton Rawson
 Que pasa si f'(x_k)= 0? Entonces me encuentro con una division por 0 y no puedo resolver. No va a converger
 ![[Pasted image 20240904122004.png]]
+entonces:
+
+### Condiciones para que Newton Rapshon esté bien definida y converja a la raiz de f(x) en $[a,b]$
+![[Pasted image 20240904122106.png]]

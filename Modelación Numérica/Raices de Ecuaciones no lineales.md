@@ -26,4 +26,5 @@ La cota de error absoluto nos la da el problema que estamos resolviendo
 Consiste en elegir un valor $x_{0}$, que denominaremos valor inicial, y aprocimar la funcion f(x) por los dos primeros termiinos de la serie de taylor. AKA ![[Ecuacíon de la Recta Tangente]]
 Es decir, aproximo la funcion f(x) por la recta tangente que pasa por x_0, f(x_0)
 
-luego $$0 =f'(x_{0})(x_{1}-x_{0}) $$
+luego $$0 =f'(x_{0})(x_{1}-x_{0})+f(x_{0}) $$
+$$x_{1}=x_{0}-\frac{f(x_{0})}{f'(x_{0})}$$

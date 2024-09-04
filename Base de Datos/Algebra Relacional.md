@@ -53,3 +53,4 @@ Me permite resolver consultas que tengan que ver con varias filas al mismo tiemp
 
 ### Junta externa 
 ![[Pasted image 20240903211843.png]]
+![[Pasted image 20240903212004.png]]

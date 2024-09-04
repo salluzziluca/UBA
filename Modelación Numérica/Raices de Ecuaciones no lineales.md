@@ -28,3 +28,6 @@ Es decir, aproximo la funcion f(x) por la recta tangente que pasa por x_0, f(x_0
 
 luego $$0 =f'(x_{0})(x_{1}-x_{0})+f(x_{0}) $$
 $$x_{1}=x_{0}-\frac{f(x_{0})}{f'(x_{0})}$$
+
+### Sucesion de Newton-Raphson 
+$$x_{k+1}=x_{k}- f$$

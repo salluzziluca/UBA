@@ -20,3 +20,7 @@ itero n veces, en cada iteración me voy acercando mas y mas a la raiz. Converge
 ![[Pasted image 20240904114851.png]]
 
 La cota de error absoluto nos la da el problema que estamos resolviendo
+
+
+## Metodo de Newton-Rawson
+Consiste

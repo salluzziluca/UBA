@@ -43,4 +43,5 @@ Que pasa si f'(x_k)= 0? Entonces me encuentro con una division por 0 y no puedo 
 entonces:
 
 ### Condiciones para que Newton Rapshon esté bien definida y converja a la raiz de f(x) en $[a,b]$
+
 ![[Pasted image 20240904122106.png]]

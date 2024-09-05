@@ -134,4 +134,6 @@ Ordenando por los que les queda poco para llegar al deadline
  $[(1, 2), (10,10)]$. Vamos a elegir la 10,10 cuando la otra era mas urgente
 
 Ordenamos por deadline: Es optimo!!
-Decimos que un schedule tiene una inmversion si tenemos dos elementos $s_{1} \ y \ s_j$ tal que i<j pero deadline_i >deadline_j
+Decimos que un schedule tiene una inmversion si tenemos dos elementos $s_{1} \ y \ s_j$ tal que $i<j \ pero \ deadline_i >deadline_j$
+
+Invertir no puede aumentar la latencia

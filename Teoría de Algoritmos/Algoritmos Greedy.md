@@ -157,10 +157,11 @@ ver [[7.0 Memoria#Associative Map Caché|least frequently used]]
 
 ## Scheduling con multiples salas
 Tengo n charlas y k salas, quiero que se lleven a cabo TODAS las actividades (de ser posible). Intentando usar la mejor cantidad de salas posible
-Podemos ordenar por largo
+Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala. Es decir, ordeno por duracion
 Desgraciadamente no es optimo
 ![[Pasted image 20240905134345.png]]
 
-Ordenamos entonces or hora de inicio
-Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala. Si no me alcanzan las salas quiere decir que es imposible la asignacion
+Ordenamos entonces por hora de inicio
+Si no puedo acomodar el horario en ese aula, vo
+Si no me alcanzan las salas quiere decir que es imposi
 ![[Pasted image 20240905135059.png]]

@@ -138,4 +138,4 @@ Decimos que un schedule tiene una inmversion si tenemos dos elementos $s_{1} \ y
 
 Invertir no puede aumentar la latencia
 
-Para no tener inversiones solo pueden variar la posicion de teareas que tengan mismo deadlin
+Para no tener inversiones solo pueden variar la posicion de teareas que tengan mismo deadline y sean consecutivas. La ultima de estas va a tener mayor latencia

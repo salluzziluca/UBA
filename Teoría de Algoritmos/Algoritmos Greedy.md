@@ -124,3 +124,4 @@ En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando 
 
 ## Problema de Scheduling II
 Tengo tareas con duracion y deadline, pero puede hacerse en cualquier momento siempre que sea antes del deadline
+Buscamos minimizar la latencia con las que las tareas se ejecutan, quer

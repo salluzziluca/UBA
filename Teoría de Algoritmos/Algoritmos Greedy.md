@@ -140,4 +140,4 @@ Invertir no puede aumentar la latencia
 
 Para no tener inversiones solo pueden variar la posicion de teareas que tengan mismo deadline y sean consecutivas. La ultima de estas va a tener mayor latencia
 
-Si yren
+Si tengo una schedule sin inversiones, quiere decir que tengo latencia maxima, toy joyarda

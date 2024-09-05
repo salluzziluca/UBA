@@ -118,3 +118,6 @@ Conviene siempre la estacion mas lejana en la que te alcance al nafta
 Tengo elementos con peso y con valor. Quiero meter la mayor cantidad de elementos con el mayor valor posible para maximizar la ganancia. Puedo ordenarlos por peso, ordenarlos por valor u ordenarlos por valor/peso. Ambas tienen contraejemplos.
 
 Lo mejor es calcular por valor/peso y por mayor valor
+
+### Problema de la mochila II
+En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando tortas de una pasteleria)

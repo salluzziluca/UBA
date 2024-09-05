@@ -128,3 +128,4 @@ Buscamos minimizar la latencia con las que las tareas se ejecutan, queremos que 
 
 
 Podemos ordenar por duracion de tarea(t_i): nos comemos el deadline!!
+Si  yo tengo $[(1, 100), (10,10)]$ siendo el primero valor duracion y el segundo deadline nos conviene agarrar la 

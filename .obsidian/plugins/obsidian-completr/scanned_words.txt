@@ -724,6 +724,10 @@ caro
 combustible
 cambion
 ciuidad
+contraejemplos
+comemos
+criollo
+consecutivas
 de
 dispositivos
 del
@@ -1075,6 +1079,8 @@ deteneidnose
 distribuidoas
 detenerme
 direccionion
+duracion
+deadline
 gestion
 gran
 guarda
@@ -1195,6 +1201,8 @@ guardo
 goles
 gastando
 guita
+ganancia
+guardar
 especifico
 entra
 en
@@ -1551,6 +1559,7 @@ elementoe
 exista
 estaciones
 estacion
+elemehtos
 servicios
 son
 su
@@ -1844,6 +1853,9 @@ superpuestas
 secundari
 secundaria
 selecciona
+schedule
+sacar
+saco
 par
 por
 punto
@@ -2284,6 +2296,8 @@ python
 pasaria
 pasarme
 poara
+pasteleria
+pateando
 la
 las
 le
@@ -2477,6 +2491,7 @@ lgebra
 lee
 llamaremos
 lejana
+latencia
 agnosticos
 apps
 al
@@ -3004,6 +3019,7 @@ horario
 hoteles
 habitaciones
 heur
+hacerse
 que
 queda
 quien
@@ -3101,6 +3117,7 @@ quick
 quitado
 quiz
 quitando
+quizas
 utilizados
 un
 una
@@ -3218,6 +3235,7 @@ ups
 uniones
 unarias
 unico
+urgente
 System
 Son
 Source
@@ -4034,6 +4052,7 @@ realizarlas
 resolviendo
 reencolo
 repito
+robando
 operacion
 orden
 operaciones
@@ -4188,6 +4207,8 @@ obtenerlo
 organizan
 obligado
 oportunidad
+ordenarlos
+optimos
 nombre
 nuevo
 nica
@@ -4671,6 +4692,7 @@ Aqu
 Agregacion
 AKA
 ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -4954,6 +4976,7 @@ Inherentes
 Informaci
 Inorder
 Inserccion
+Invertir
 Un
 UNIX
 UBA
@@ -5299,6 +5322,10 @@ monedas
 modulo
 moneda
 monetasrio
+mochila
+meter
+maximizar
+metiendo
 tien
 tiene
 todos
@@ -5532,6 +5559,10 @@ tengan
 tiempoej
 termiinos
 taylor
+tortas
+terminan
+teareas
+terminen
 inico
 interna
 infro
@@ -5795,6 +5826,8 @@ identificaci
 itero
 inflaci
 inflacion
+inmversion
+inversion
 fijo
 file
 fork
@@ -6301,6 +6334,7 @@ Dad
 Dada
 Desencolamos
 Divido
+Decimos
 Memoria
 Multivariada
 MORE
@@ -7060,6 +7094,8 @@ Ofrecer
 Out
 Omega
 Opcion
+Ordenando
+Ordenamos
 ya
 yo
 yM

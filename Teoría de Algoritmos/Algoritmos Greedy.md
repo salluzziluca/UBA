@@ -152,4 +152,7 @@ Para no tener inversiones solo pueden variar la posicion de teareas que tengan m
 ## caché
 tengo que sacar elemehtos para meter otros, cuales saco??
 
-[[7.0 Memoria#Caché]]
+ver [[7.0 Memoria#Associative Map Caché|least frequently used]]
+
+
+## Scheduling con multiples sala

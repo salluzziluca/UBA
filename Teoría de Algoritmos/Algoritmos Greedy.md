@@ -124,7 +124,7 @@ En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando 
 
 ## Problema de Scheduling II
 Tengo tareas con duracion y deadline, pero puede hacerse en cualquier momento siempre que sea antes del deadline
-Buscamos minimizar la latencia con las que las tareas se ejecutan, queremos que lo antes posible esten terminadas
+Buscamos minimizar la latencia con las que las tareas se ejecutan, es decir, cuanto despues de su deadline terminan L= f-d
 
 
 Podemos ordenar por duracion de tarea(t_i): nos comemos el deadline!!

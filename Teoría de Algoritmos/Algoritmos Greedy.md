@@ -137,3 +137,5 @@ Ordenamos por deadline: Es optimo!!
 Decimos que un schedule tiene una inmversion si tenemos dos elementos $s_{1} \ y \ s_j$ tal que $i<j \ pero \ deadline_i >deadline_j$
 
 Invertir no puede aumentar la latencia
+
+Para no tener inversiones solo pueden variar la posicion de teareas que tengan mismo deadlin

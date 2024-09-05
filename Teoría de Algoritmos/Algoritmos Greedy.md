@@ -123,4 +123,4 @@ Lo mejor es calcular por valor/peso y por mayor valor
 En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando tortas de una pasteleria). ACa nos conviene quizas meter todo entero y despues cuando ya no nos queda tanto lugar y metiendo de a partes
 
 ## Problema de Scheduling II
-Tengo tareas con dura
+Tengo tareas con duracion y deadline, pero puede hacerse en cualquier momento siempre que sea antes del deadline

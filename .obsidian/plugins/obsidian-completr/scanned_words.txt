@@ -715,6 +715,15 @@ correctos
 converger
 converja
 convergencia
+codifico
+chequeo
+compras
+comprar
+compar
+caro
+combustible
+cambion
+ciuidad
 de
 dispositivos
 del
@@ -1060,6 +1069,11 @@ denominaremos
 dijitos
 duplica
 division
+desencolo
+dias
+deteneidnose
+distribuidoas
+detenerme
 gestion
 gran
 guarda
@@ -1178,6 +1192,8 @@ gerentes
 gerenteDepartamento
 guardo
 goles
+gastando
+guita
 especifico
 entra
 en
@@ -1532,6 +1548,8 @@ evaluados
 englobar
 elementoe
 exista
+estaciones
+estacion
 servicios
 son
 su
@@ -2263,6 +2281,8 @@ padro
 procedurales
 python
 pasaria
+pasarme
+poara
 la
 las
 le
@@ -2455,6 +2475,7 @@ lados
 lgebra
 lee
 llamaremos
+lejana
 agnosticos
 apps
 al
@@ -3519,6 +3540,8 @@ Consite
 Converge
 Consiste
 Condiciones
+Calculo
+Conviene
 Es
 El
 Estos
@@ -3649,6 +3672,8 @@ Entidades
 Especializacion
 Ecuac
 Error
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -3710,6 +3735,7 @@ kyd
 key
 keys
 kruskal
+kilometros
 realice
 realicen
 resolve
@@ -4005,6 +4031,8 @@ respresentan
 remueve
 realizarlas
 resolviendo
+reencolo
+repito
 operacion
 orden
 operaciones
@@ -4312,6 +4340,7 @@ numtero
 normalizacion
 nota
 newton
+nafta
 via
 vuelve
 viven
@@ -4483,6 +4512,9 @@ viceversa
 vertice
 vender
 verdera
+vuelto
+viaja
+viajar
 Application
 API
 Asigna
@@ -4637,6 +4669,7 @@ Alumnos
 Aqu
 Agregacion
 AKA
+ARGENTINAAAAA
 Programming
 Procesos
 Partes
@@ -5261,6 +5294,10 @@ morse
 mat
 modficar
 metio
+monedas
+modulo
+moneda
+monetasrio
 tien
 tiene
 todos
@@ -5755,6 +5792,8 @@ interseccion
 intersecci
 identificaci
 itero
+inflaci
+inflacion
 fijo
 file
 fork
@@ -5926,6 +5965,9 @@ facultad
 fijadas
 fuerte
 francia
+frecuencias
+frec
+falta
 Nombre
 Notas
 Not
@@ -6256,6 +6298,8 @@ Debiles
 Departamento
 Dad
 Dada
+Desencolamos
+Divido
 Memoria
 Multivariada
 MORE
@@ -6373,6 +6417,7 @@ Mariano
 Majority
 Mejor
 Materia
+Mejora
 Table
 Todos
 This
@@ -6494,6 +6539,7 @@ TDAs
 That
 Ternarias
 Tangente
+Tanque
 Realiza
 REgistrys
 Rango
@@ -7012,6 +7058,7 @@ Obtenemos
 Ofrecer
 Out
 Omega
+Opcion
 ya
 yo
 yM
@@ -7167,6 +7214,7 @@ jurados
 jurado
 jugadores
 jerarquias
+jijo
 Ya
 Yourself
 YAGNI
@@ -7697,6 +7745,7 @@ Quentin
 Quitar
 Quiz
 Queremos
+QUE
 ximo
 xito
 xitos

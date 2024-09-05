@@ -155,4 +155,7 @@ tengo que sacar elemehtos para meter otros, cuales saco??
 ver [[7.0 Memoria#Associative Map Caché|least frequently used]]
 
 
-## Scheduling con multiples sala
+## Scheduling con multiples salas
+Tengo n charlas y k salas, quiero que se lleven a cabo TODAS las actividades (de ser posible). Intentando usar la mejor cantidad de salas posible
+
+Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala

@@ -3,6 +3,6 @@
 
 | Relación  | Clave Primaria | Claves Candidatas | Claves Foraneas |
 | --------- | -------------- | ----------------- | --------------- |
-| H(h1, h2) | {h1}           | {h1}              | -               |
-| F(F1, F2) | {}             |                   |                 |
+| H(H1, H2) | {H1}           | {H1}              | -               |
+| F(F1, F2) | {F1}           | {F1}              | -               |
 

@@ -728,6 +728,7 @@ contraejemplos
 comemos
 criollo
 consecutivas
+cabo
 de
 dispositivos
 del
@@ -1856,6 +1857,8 @@ selecciona
 schedule
 sacar
 saco
+salas
+superposicion
 par
 por
 punto
@@ -2298,6 +2301,8 @@ pasarme
 poara
 pasteleria
 pateando
+pongo
+proxima
 la
 las
 le
@@ -2492,6 +2497,7 @@ lee
 llamaremos
 lejana
 latencia
+lleven
 agnosticos
 apps
 al
@@ -2880,6 +2886,8 @@ acercando
 absoluto
 aprocimar
 aproximo
+actividades
+alcanzan
 hardware
 heap
 hay
@@ -4977,6 +4985,7 @@ Informaci
 Inorder
 Inserccion
 Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -6335,6 +6344,7 @@ Dada
 Desencolamos
 Divido
 Decimos
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -6575,6 +6585,7 @@ That
 Ternarias
 Tangente
 Tanque
+TODAS
 Realiza
 REgistrys
 Rango

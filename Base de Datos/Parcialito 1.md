@@ -8,4 +8,6 @@
 | A(A1)         | {A1}                                     | {A1}              | -               |
 | B(B1, A1)     | {B1, A1}                                 | {B1, A1}          | {A1}            |
 | D(B1, H1)     | {B1, A1}(porque es debil y necesita a A) | {B1, A1}          | {B1, A1}        |
+| E(E1, E2, E3) | {E1, E2}                                 | {E1, E2}          |                 |
+|               |                                          |                   |                 |
 

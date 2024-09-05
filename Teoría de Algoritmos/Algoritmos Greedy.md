@@ -133,4 +133,5 @@ Si  yo tengo $[(1, 100), (10,10)]$ siendo el primero valor duracion y el segundo
 Ordenando por los que les queda poco para llegar al deadline 
  $[(1, 2), (10,10)]$. Vamos a elegir la 10,10 cuando la otra era mas urgente
 
-Ordenamos por deadline: 
+Ordenamos por deadline: Es optimo!!
+Decimos que un 

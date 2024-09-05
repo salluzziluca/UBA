@@ -34,4 +34,6 @@ comedias_peliculas = π movie_id (σ genre='Comedy'(movies_genres)) ⋊ movies
 |56044|'Casablanca'|1942|1|
 |91758|'Double Indemnity'|1944|1|
 |163485|'It s a Wonderful Life'|1946|1|
-La pelicula de categoria comedia mas vieja es Met
+La pelicula de categoria comedia mas vieja es Metrópolis
+
+Muestre el nombre y apellido de los actores que actuaron en las mismas pel´ıculas que el actor Ferdy Mayne.

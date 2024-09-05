@@ -162,4 +162,5 @@ Desgraciadamente no es optimo
 ![[Pasted image 20240905134345.png]]
 
 Ordenamos entonces or hora de inicio
-Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala
+Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala. Si no me alcanzan las salas quiere decir que es imposible la asignacion
+![[Pasted image 20240905135059.png]]

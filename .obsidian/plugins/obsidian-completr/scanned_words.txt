@@ -711,6 +711,10 @@ conserva
 consultas
 cuantos
 cuyo
+correctos
+converger
+converja
+convergencia
 de
 dispositivos
 del
@@ -1053,6 +1057,9 @@ declarativo
 duplicadas
 disjuntos
 denominaremos
+dijitos
+duplica
+division
 gestion
 gran
 guarda
@@ -2835,6 +2842,7 @@ actuaci
 acercando
 absoluto
 aprocimar
+aproximo
 hardware
 heap
 hay
@@ -3342,6 +3350,7 @@ SQL
 Siempr
 Surge
 SIendo
+Sucesion
 Calls
 Cmabia
 CPU
@@ -3509,6 +3518,7 @@ Casi
 Consite
 Converge
 Consiste
+Condiciones
 Es
 El
 Estos
@@ -3638,6 +3648,7 @@ EHFnuKXM
 Entidades
 Especializacion
 Ecuac
+Error
 kernel
 kt
 kU
@@ -4300,6 +4311,7 @@ nombreclub
 numtero
 normalizacion
 nota
+newton
 via
 vuelve
 viven
@@ -4780,6 +4792,7 @@ Propuesto
 Proyecci
 Proyeccion
 Promedio
+PRoblemas
 Interface
 ID
 Instructions
@@ -4988,6 +5001,7 @@ Utiliza
 Usa
 Union
 Unarias
+Usamos
 modo
 mode
 menso
@@ -6613,6 +6627,8 @@ Redenominacion
 Resumen
 REsumen
 Rawson
+Raphson
+Rapshon
 bien
 by
 be

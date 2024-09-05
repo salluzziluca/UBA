@@ -162,6 +162,6 @@ Desgraciadamente no es optimo
 ![[Pasted image 20240905134345.png]]
 
 Ordenamos entonces por hora de inicio
-Si no puedo acomodar el horario en ese aula, vo
+Si no puedo acomodar el horario en ese aula, voy a la proxima, repetimos hasta que todas las aulas estén asignadas
 Si no me alcanzan las salas quiere decir que es imposi
 ![[Pasted image 20240905135059.png]]

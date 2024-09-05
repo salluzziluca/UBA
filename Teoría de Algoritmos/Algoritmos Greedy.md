@@ -120,4 +120,7 @@ Tengo elementos con peso y con valor. Quiero meter la mayor cantidad de elemento
 Lo mejor es calcular por valor/peso y por mayor valor
 
 ### Problema de la mochila II
-En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando tortas de una pasteleria)
+En vez de guardar los elementos enteros, puedo guardar partes (me estoy robando tortas de una pasteleria). ACa nos conviene quizas meter todo entero y despues cuando ya no nos queda tanto lugar y metiendo de a partes
+
+## Problema de Scheduling II
+Tengo tareas con dura

@@ -15,9 +15,23 @@
 
 1. A.  Mostrar el nombre y año de filmación, de la/s película/s catalogada/s como comedia (Comedy) más vieja/s de la b
 Query:
-```R
+```
 comedias = σ(genre)='Comedy'(movies_genres)
 comedias_peliculas = π movie_id (σ genre='Comedy'(movies_genres)) ⋊ movies
 τ year ASC (comedias_peliculas)
 
 ```
+
+|movies.id|movies.name|movies.year|movies.quality|
+|---|---|---|---|
+|212097|'Metropolis'|1927|1|
+|64833|'City Lights'|1931|1|
+|163288|'It Happened One Night'|1934|1|
+|216964|'Modern Times'|1936|1|
+|131240|'Gone with the Wind'|1939|1|
+|221130|'Mr. Smith Goes to Washington'|1939|1|
+|64729|'Citizen Kane'|1941|1|
+|56044|'Casablanca'|1942|1|
+|91758|'Double Indemnity'|1944|1|
+|163485|'It s a Wonderful Life'|1946|1|
+La pelicula de categoria comedia mas vieja es Met

@@ -143,3 +143,7 @@ Para no tener inversiones solo pueden variar la posicion de teareas que tengan m
 Si tengo una schedule sin inversiones, quiere decir que tengo latencia maxima. Pero pueden o no ser optimos segun cuantas tareas terminen al mismo tiempo (de esto no se encarga la inversion)
 
 ![[Pasted image 20240905131547.png]]
+
+
+
+Al meno sexiste un schedule sin inversiones optimo

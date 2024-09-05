@@ -159,3 +159,5 @@ ver [[7.0 Memoria#Associative Map Caché|least frequently used]]
 Tengo n charlas y k salas, quiero que se lleven a cabo TODAS las actividades (de ser posible). Intentando usar la mejor cantidad de salas posible
 
 Uso el mismo algoritmo que en [[#Problema de Scheduling]] y cuando tengo una que tengo que descartar por superposicion, la pongo en una proxima sala
+Desgraciadamente no es optimo
+![[Pasted image 20240905134345.png]]

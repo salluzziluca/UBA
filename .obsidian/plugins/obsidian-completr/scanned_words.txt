@@ -3569,6 +3569,7 @@ Consiste
 Condiciones
 Calculo
 Conviene
+Candidatas
 Es
 El
 Estos
@@ -4857,6 +4858,7 @@ Proyecci
 Proyeccion
 Promedio
 PRoblemas
+Primaria
 Interface
 ID
 Instructions
@@ -6201,6 +6203,7 @@ FInalmente
 Floyd
 Fijo
 Fuhi
+Foraneas
 Descriptors
 Descriptor
 Devuelve
@@ -6721,6 +6724,7 @@ REsumen
 Rawson
 Raphson
 Rapshon
+Relaci
 bien
 by
 be

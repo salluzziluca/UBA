@@ -146,4 +146,4 @@ Si tengo una schedule sin inversiones, quiere decir que tengo latencia maxima. P
 
 
 
-Al meno sexiste un schedule sin inversiones optimo
+Al menos existe un schedule sin inversiones optimo

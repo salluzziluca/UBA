@@ -35,10 +35,23 @@ La pelicula de categoria comedia mas vieja es Metrópolis
 
 Muestre el nombre y apellido de los actores que actuaron en las mismas películas que el actor Ferdy Mayne.
 ```
+
 ferdy_mayne_id = πid(σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors))
 peliculas_con_maynee = πroles.movie_id(ferdy_mayne_id ⨝ (actors.id = roles.actor_id) roles)
-peliculas_con_maynee_renombrada = ρmovie_id -> pelicula_id(peliculas_con_maynee)  -- Renombrar movie_id a pelicula_id
+peliculas_con_maynee_renombrada = ρmovie_id → pelicula_id(peliculas_con_maynee)  -- Renombrar movie_id a pelicula_id
 actores_de_peliculas_con_mayne = peliculas_con_maynee_renombrada ⨝ (roles.pelicula_id = roles.movie_id) roles
-ids_actores_con_mayne = πroles.actor_id (actores_de_peliculas_con_mayne)
-πactors.first_name, actors.last_name (ids_actores_con_mayne ⨝ (roles.actor_id = actors.id) (actors))
+ids_actores_con_mayne = πroles.actor_id, roles.movie_id (actores_de_peliculas_con_mayne)
+
+-- Contar cuántas películas tiene cada actor con Ferdy Mayne
+conteo_actores = γ actor_id; count(movie_id) → num_peliculas (ids_actores_con_mayne)
+
+-- Filtrar actores que estuvieron en más de una película con Ferdy Mayne
+actores_en_dos_o_mas_peliculas = σ(num_peliculas >= 2) (conteo_actores)
+
+-- Join entre actores_en_dos_o_mas_peliculas y la tabla actors
+actores_con_nombre_apellido = actores_en_dos_o_mas_peliculas ⨝ (actors.id = actors.id) actors
+
+-- Proyección de los campos actor_id, first_name y last_name
+πactor_id, first_name, last_name (actores_con_nombre_apellido)
+
 ```

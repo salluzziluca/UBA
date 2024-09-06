@@ -34,3 +34,11 @@ comedias_peliculas - comedias_no_viejas
 La pelicula de categoria comedia mas vieja es Metrópolis
 
 Muestre el nombre y apellido de los actores que actuaron en las mismas películas que el actor Ferdy Mayne.
+```
+ferdy_mayne_id = πid(σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors))
+peliculas_con_maynee = πroles.movie_id(ferdy_mayne_id ⨝ (actors.id = roles.actor_id) roles)
+peliculas_con_maynee_renombrada = ρmovie_id -> pelicula_id(peliculas_con_maynee)  -- Renombrar movie_id a pelicula_id
+actores_de_peliculas_con_mayne = peliculas_con_maynee_renombrada ⨝ (roles.pelicula_id = roles.movie_id) roles
+ids_actores_con_mayne = πroles.actor_id (actores_de_peliculas_con_mayne)
+πactors.first_name, actors.last_name (ids_actores_con_mayne ⨝ (roles.actor_id = actors.id) (actors))
+```

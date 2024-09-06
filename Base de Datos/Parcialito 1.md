@@ -48,10 +48,13 @@ conteo_actores = γ actor_id; count(movie_id) → num_peliculas (ids_actores_con
 -- Filtrar actores que estuvieron en más de una película con Ferdy Mayne
 actores_en_dos_o_mas_peliculas = σ(num_peliculas >= 2) (conteo_actores)
 
--- Join entre actores_en_dos_o_mas_peliculas y la tabla actors
-actores_con_nombre_apellido = actores_en_dos_o_mas_peliculas ⨝ (actors.id = actors.id) actors
+-- Renombrar la columna actor_id en actores_en_dos_o_mas_peliculas
+actores_renombrados = ρactor_id → actor_id_con_mayne (actores_en_dos_o_mas_peliculas)
 
--- Proyección de los campos actor_id, first_name y last_name
-πactor_id, first_name, last_name (actores_con_nombre_apellido)
+-- Hacer el join con la tabla actors usando la columna renombrada
+actores_con_nombre_apellido = actores_renombrados ⨝ (actor_id_con_mayne = actors.id) actors
+
+-- Proyectar los campos actor_id_con_mayne, first_name y last_name
+πactor_id_con_mayne, first_name, last_name (actores_con_nombre_apellido) 
 
 ```

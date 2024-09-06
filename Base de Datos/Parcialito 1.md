@@ -58,3 +58,9 @@ actores_con_nombre_apellido = actores_renombrados ⨝ (actor_id_con_mayne = acto
 πactor_id_con_mayne, first_name, last_name (actores_con_nombre_apellido) 
 
 ```
+
+|   |   |   |
+|---|---|---|
+|roles.actor_id_con_mayne|actors.first_name|actors.last_name|
+|307261|Ferdy|Mayne|
+|329794|André|Morell|

@@ -55,8 +55,8 @@ actores_renombrados = ρactor_id → actor_id_con_mayne (actores_en_dos_o_mas_pe
 actores_con_nombre_apellido = actores_renombrados ⨝ (actor_id_con_mayne = actors.id) actors
 
 -- Proyectar los campos actor_id_con_mayne, first_name y last_name
-actoresss = πactor_id_con_mayne, first_name, last_name (actores_con_nombre_apellido)
-actoresss- (πid, first_name, last_name( σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors)))
+actores_con_mayne = πactor_id_con_mayne, first_name, last_name (actores_con_nombre_apellido)
+actores_con_mayne- (πid, first_name, last_name( σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors)))
 
 ```
 

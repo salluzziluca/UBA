@@ -59,6 +59,6 @@ actores_con_mayne- (πid, first_name, last_name( σ (first_name = 'Ferdy' ∧ la
 
 ```
 
-|roles.actor_id_con_mayne|actors.first_name|actors.last_name|
-|---|---|---|
-|329794|'André'|'Morell'|
+| roles.actor_id_con_mayne | actors.first_name | actors.last_name |
+| ------------------------ | ----------------- | ---------------- |
+| 329794                   | 'André'           | 'Morell'         |

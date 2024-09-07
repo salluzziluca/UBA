@@ -16,22 +16,21 @@
 1. A.  Mostrar el nombre y año de filmación, de la/s película/s catalogada/s como comedia (Comedy) más vieja/s de la b
 Query:
 ```
-comedias = σ(genre)='Comedy'(movies_genres)
-comedias_peliculas = π movie_id (σ genre='Comedy'(movies_genres)) ⋊ movies
-comedias_peliculas_renombrada=ρid→movie_id ,name→name1 ,year→year1,quality→quality1(comedias_peliculas)
+comedias = σ genre = 'Comedy' (movies_genres)
+comedias_peliculas = π movies.id, movies.name, movies.year (comedias ⨝ (movies.id = movies_genres.movie_id) movies)
+comedias_peliculas_renombrada=ρid→movie_id ,name→name1 ,year→year1(comedias_peliculas)
 comedias_conjuntas = comedias_peliculas ⨯ comedias_peliculas_renombrada
 comedias_conjuntas2 = σ(movies.year>movies.year1) comedias_conjuntas
-comedias_no_viejas = π movies.id, movies.name, movies.year, movies.quality comedias_conjuntas2
+comedias_no_viejas = π movies.id, movies.name, movies.year comedias_conjuntas2
 comedias_peliculas - comedias_no_viejas
 ```
 
 
-|           |             |             |                |
-| --------- | ----------- | ----------- | -------------- |
-| movies.id | movies.name | movies.year | movies.quality |
-| 212097    | Metropolis  | 1927        | 1              |
+|movies.id|movies.name|movies.year|
+|---|---|---|
+|64833|'City Lights'|1931|
 
-La pelicula de categoria comedia mas vieja es Metrópolis
+La pelicula de categoria comedia mas vieja es City Lights
 
 Muestre el nombre y apellido de los actores que actuaron en las mismas películas que el actor Ferdy Mayne.
 ```

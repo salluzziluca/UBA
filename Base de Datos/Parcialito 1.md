@@ -26,6 +26,7 @@ comedias_no_viejas = π movies.id, movies.name, movies.year comedias_conjuntas2
 comedias_peliculas - comedias_no_viejas
 ```
 
+Resultado:
 
 |movies.id|movies.name|movies.year|
 |---|---|---|
@@ -61,7 +62,9 @@ actores_con_mayne = πactor_id_con_mayne, first_name, last_name (actores_con_nom
 actores_con_mayne- (πid, first_name, last_name( σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors)))
 
 ```
+Resultado:
 
 | roles.actor_id_con_mayne | actors.first_name | actors.last_name |
 | ------------------------ | ----------------- | ---------------- |
 | 329794                   | 'André'           | 'Morell'         |
+El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell

@@ -33,7 +33,9 @@ comedias_peliculas - comedias_no_viejas
 
 La pelicula de categoria comedia mas vieja es City Lights
 
-Muestre el nombre y apellido de los actores que actuaron en las mismas películas que el actor Ferdy Mayne.
+2. B. Muestre el nombre y apellido de los actores que actuaron en las mismas películas que el actor Ferdy Mayne.
+
+Query:
 ```
 
 ferdy_mayne_id = πid(σ (first_name = 'Ferdy' ∧ last_name = 'Mayne') (actors))

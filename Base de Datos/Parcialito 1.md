@@ -1,3 +1,4 @@
+1. 
 ![[Pasted image 20240905161652.png]]
 
 
@@ -13,7 +14,7 @@
 | G(A1, E1, E2, F1, G1) | {A1, E1, E2, F1}                         | {A1, E1, E2, F1}  | {A1 ref A} {E1, E2 ref E} {F1 ref F} |
 
 
-1. A.  Mostrar el nombre y año de filmación, de la/s película/s catalogada/s como comedia (Comedy) más vieja/s de la b
+2. A.  Mostrar el nombre y año de filmación, de la/s película/s catalogada/s como comedia (Comedy) más vieja/s de la b
 Query:
 ```
 comedias = σ genre = 'Comedy' (movies_genres)

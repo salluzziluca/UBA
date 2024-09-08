@@ -31,4 +31,7 @@ Esto no me termina de servir porque no puedo meter en ningun lugar la 4ta reina
 
 vuelvo al inicio
 
-al final arrancar desde el 0,0 tampoco func
+al final arrancar desde el 0,0 tampoco funciona
+
+podemos ir por columnas 
+![[Pasted image 20240908195449.png]]

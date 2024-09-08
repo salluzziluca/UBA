@@ -35,3 +35,7 @@ al final arrancar desde el 0,0 tampoco funciona
 
 podemos ir por columnas 
 ![[Pasted image 20240908195449.png]]
+
+
+## Ej2: Independent Set 
+QUiero guardar en un grafo K elementos. Debo elegir K vertgices en los cuales guardar cada uno. PERO no quiero  

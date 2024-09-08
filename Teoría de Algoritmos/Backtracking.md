@@ -26,3 +26,9 @@ sigoo
 
 Esto no me termina de servir porque no puedo meter en ningun lugar la 4ta reina
 
+
+![[Pasted image 20240908195337.png]]
+
+vuelvo al inicio
+
+al final arrancar desde el 0,0 tampoco func

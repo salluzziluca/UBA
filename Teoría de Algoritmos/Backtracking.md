@@ -20,3 +20,9 @@ Esto ya no es solucion, no importa lo que yo haga esto no va a ser valido. Enton
 
 ![[Pasted image 20240908195228.png]]
 Esto funciona asi que sigo
+
+![[Pasted image 20240908195238.png]]
+sigoo
+
+Esto no me termina de servir porque no puedo meter en ningun lugar la 4ta reina
+

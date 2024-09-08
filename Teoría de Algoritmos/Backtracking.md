@@ -15,3 +15,4 @@ Las opciones son dos, ir moviendonos sin un recorrido o hacerlo con un [[Recorri
 ## Ej1: Reinas
 
 Tablero de NxN, ubicar a N reinas de de manera tal de que ninunga pueda comerse a ninguna
+![[Pasted image 20240908195134.png]]

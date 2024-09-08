@@ -40,7 +40,7 @@ podemos ir por columnas
 ## Ej2: Independent Set 
 QUiero guardar en un grafo K elementos. Debo elegir K vertgices en los cuales guardar cada uno. PERO no quiero  que haya dos elementos adyacentes. Es decir, que una arista los una. Quiero una lista de vertices que no tengan aristas entre ellos
 ![[Pasted image 20240908201731.png]]
-En este grafo los ver
+En este grafo los vertices 0, 2, 4 y 6 no tienen aristas entre ellos
 
 ```python 
 def es_compatible(grafo, puestos):

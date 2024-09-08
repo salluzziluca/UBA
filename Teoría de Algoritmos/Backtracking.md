@@ -68,4 +68,4 @@ def _ubicacion_BT(grafo, vertices, v_actual, puestos, n):
     return _ubicacion_BT(grafo, vertices, v_actual + 1, puestos, n)
 ```
 
-es O(n)
+es O(2^n)

@@ -72,5 +72,5 @@ es O(2^n)
 
 
 
-## Ej3: Camino Hamiltoniano
-un [[Grafos Hamiltonianos| camin]]
+## Ej3: [[Grafos Hamiltonianos|Caminos Hamiltonianos]]
+Tengo un grafo y busco ssu camino hamiltoniano

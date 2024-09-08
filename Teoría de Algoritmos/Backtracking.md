@@ -77,7 +77,22 @@ Tengo un grafo y busco ssu camino hamiltoniano
 
 
 ![[Pasted image 20240908204402.png]]
-
+Voy usando D
 Arranco en el 0 voy al 5, voy al 3, voy al 2, no llego a nada, vuelvo para atras, 
 0 5 3 5 7 6, me falta el 2, vuelvo al 3, no tengo opciones, del 5 voy al 6
 0 1 5 6 7 4 3 2 
+
+```python 
+def camino_hamiltoniano_dfs(grafo, v, visitados, camino):
+    visitados.add(v)
+    camino.append(v)
+    if len(visitados) == len(grafo):
+        return True
+    for w in grafo.adyacentes(v):
+        if w not in visitados: # Esta es en sí nuestra poda
+            if camino_hamiltoniano_dfs(grafo, w, visitados, camino):
+                return True
+    visitados.remove(v)     # Permitiendo volver a venir a este vértice
+    camino.pop()            # por otro camino
+    return False
+```

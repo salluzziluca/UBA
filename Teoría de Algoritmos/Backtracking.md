@@ -96,3 +96,7 @@ def camino_hamiltoniano_dfs(grafo, v, visitados, camino):
     camino.pop()            # por otro camino
     return False
 ```
+
+
+## EJ4 coloreo de grafos
+Dado un grafo de k colores diferentes, es posible pintar los vertices de tal forma que ningun par de vertices adyacentes tenga el mismo color?

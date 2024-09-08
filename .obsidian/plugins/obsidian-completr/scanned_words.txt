@@ -755,6 +755,7 @@ conectan
 cualquiera
 ciclos
 conexas
+combinatorio
 de
 dispositivos
 del
@@ -2358,6 +2359,8 @@ permutacion
 penalizacion
 poseen
 paradas
+probar
+permutaciones
 la
 las
 le
@@ -7120,6 +7123,7 @@ balancear
 borrado
 bidireccionales
 bipartito
+bruta
 will
 words
 with

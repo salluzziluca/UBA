@@ -39,3 +39,12 @@ podemos ir por columnas
 
 ## Ej2: Independent Set 
 QUiero guardar en un grafo K elementos. Debo elegir K vertgices en los cuales guardar cada uno. PERO no quiero  que haya dos adyacentes con elementos adyacentes
+
+```python 
+def es_compatible(grafo, puestos):
+    for v in puestos:
+        for w in puestos:
+            if v == w: continue
+            if grafo.hay_arista(v, w):
+                return False
+    return True

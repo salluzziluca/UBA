@@ -16,3 +16,7 @@ Las opciones son dos, ir moviendonos sin un recorrido o hacerlo con un [[Recorri
 
 Tablero de NxN, ubicar a N reinas de de manera tal de que ninunga pueda comerse a ninguna
 ![[Pasted image 20240908195134.png]]
+Esto ya no es solucion, no importa lo que yo haga esto no va a ser valido. Entonces ya pruebo otra variacion
+
+![[Pasted image 20240908195228.png]]
+Esto funciona asi que sigo

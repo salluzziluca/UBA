@@ -4,3 +4,4 @@
 [[clique]]
 [[División y Conquista]]
 [[Teorema Maestro general]]
+[[Algoritmos Greedy]]

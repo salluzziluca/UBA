@@ -1,3 +1,4 @@
+[[Inducción Matemática]]
 [[Complejidad de Algoritmos]]
 [[Grafos]]
 [[Arboles]]

@@ -38,4 +38,4 @@ podemos ir por columnas
 
 
 ## Ej2: Independent Set 
-QUiero guardar en un grafo K elementos. Debo elegir K vertgices en los cuales guardar cada uno. PERO no quiero  que haya dos adyacentes con elementos
+QUiero guardar en un grafo K elementos. Debo elegir K vertgices en los cuales guardar cada uno. PERO no quiero  que haya dos adyacentes con elementos adyacentes

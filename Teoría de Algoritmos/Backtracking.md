@@ -69,3 +69,8 @@ def _ubicacion_BT(grafo, vertices, v_actual, puestos, n):
 ```
 
 es O(2^n)
+
+
+
+## Ej3: Camino Hamiltoniano
+un [[Grafos Hamiltonianos| camin]]

@@ -758,6 +758,9 @@ ciclos
 conexas
 combinatorio
 combiene
+combinaci
+construimos
+comerse
 de
 dispositivos
 del
@@ -1116,6 +1119,7 @@ dirigidos
 denso
 disperso
 diagonal
+desmarcando
 gestion
 gran
 guarda
@@ -1908,6 +1912,9 @@ salvo
 snodos
 sii
 salen
+solucion
+sigo
+sigoo
 par
 por
 punto
@@ -2365,6 +2372,7 @@ probar
 permutaciones
 permuto
 premuto
+pruebo
 la
 las
 le
@@ -2564,6 +2572,7 @@ last
 lazo
 ltiples
 lazos
+lido
 agnosticos
 apps
 al
@@ -3495,6 +3504,7 @@ Schindler
 Saving
 Sunshine
 Spotless
+Set
 Calls
 Cmabia
 CPU
@@ -4182,6 +4192,8 @@ repetimos
 regular
 registra
 respetamos
+reinas
+reina
 operacion
 orden
 operaciones
@@ -4341,6 +4353,7 @@ optimos
 ordeno
 oel
 odenado
+opciones
 nombre
 nuevo
 nica
@@ -4496,6 +4509,7 @@ nota
 newton
 nafta
 name
+ninunga
 via
 vuelve
 viven
@@ -4672,6 +4686,12 @@ viaja
 viajar
 vieja
 verdadera
+volvemos
+veo
+visitarlo
+variacion
+vuelvo
+vertgices
 Application
 API
 Asigna
@@ -5006,6 +5026,7 @@ Private
 Pasando
 Puntos
 Pruebo
+PERO
 Interface
 ID
 Instructions
@@ -5140,6 +5161,7 @@ Ikiru
 Indiana
 Implicaciones
 Induccion
+Independent
 Un
 UNIX
 UBA
@@ -5496,6 +5518,7 @@ mayne
 mapas
 mxn
 marcamos
+moviendonos
 tien
 tiene
 todos
@@ -5737,6 +5760,7 @@ transitar
 tiende
 terminando
 toque
+tampoco
 inico
 interna
 infro
@@ -6279,6 +6303,7 @@ Nest
 Network
 Now
 Nemo
+NxN
 File
 For
 Funcion
@@ -6556,6 +6581,7 @@ Donnie
 Darko
 Demostraciones
 Directo
+Debo
 Memoria
 Multivariada
 MORE
@@ -6825,6 +6851,7 @@ Twelve
 Trainspotting
 Tesis
 Todas
+Tablero
 Realiza
 REgistrys
 Rango
@@ -6975,6 +7002,7 @@ Ryan
 Requiem
 River
 Representaciones
+Reinas
 bien
 by
 be
@@ -7373,6 +7401,7 @@ One
 Odyssey
 Over
 Oldboy
+Ordenamiento
 ya
 yo
 yM
@@ -7818,6 +7847,7 @@ Beast
 Braveheart
 Batman
 Begins
+Backtracking
 XY
 Xg
 XQG
@@ -8109,6 +8139,7 @@ Quiz
 Queremos
 QUE
 Query
+QUiero
 ximo
 xito
 xitos

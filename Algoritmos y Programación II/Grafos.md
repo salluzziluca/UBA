@@ -59,6 +59,12 @@ derecha cíclico izquierda acíclico.
 Un grafo es bipartito si todos los ciclos son de longitud par
 grafo bipartito <-> no tiene ciclos impares. Todos los nodos se pueden agrupan en dos grupos y no se conectan internamente entre grupos
 ![[Pasted image 20240823144255.png]]
+### ![[Grafos Eulerianos]]
+
+### ![[Grafos Hamiltonianos]]
+
+### ![[Grafos Regulares]]
+
 ## Camino
 Un recorrido a través de un grafo, CUALQUIERA. Pasando por sus vertices de toque
 

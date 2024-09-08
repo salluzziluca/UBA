@@ -8,4 +8,5 @@ ordenamiento por fuerza bruta: ![[Sorting#Ordenamiento por Fuerza Bruta]]
 ### Ordenamiento con Backtracking
 Cuando veo que el actual es menor que el anterior, vuelto para atrás, se que por esa rama no va a poder ser.
 
-### Grafos con Backtracking 
+### [[Grafos]] con Backtracking 
+Las opciones son dos, ir moviendonos sin un recorrido o hacerlo con un [[Recorridos Grafos#En profundidad DFS (Depth First Search)|DFS]] 

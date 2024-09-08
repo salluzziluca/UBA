@@ -10,3 +10,8 @@ Cuando veo que el actual es menor que el anterior, vuelto para atrás, se que po
 
 ### [[Grafos]] con Backtracking 
 Las opciones son dos, ir moviendonos sin un recorrido o hacerlo con un [[Recorridos Grafos#En profundidad DFS (Depth First Search)|DFS]], desmarcando los visitados cuando no hay una solucion por este camino, para poder visitarlo de vuelta desde otra rama.
+
+
+## Ej1: Reinas
+
+Tablero de NxN, ubicar a N reinas de de manera tal de que ninunga pueda comerse a ninguna

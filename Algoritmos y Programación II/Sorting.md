@@ -14,6 +14,8 @@ Caracteristicas
 	Es comparativo cuando se comparan elementos entre si
 - Adaptatividad
 	Es adaptativo cuando se adapta al comun de datos
+## Orde por Fuerza Bruta
+Pruebo todas las combinaciones posibles. Primero lo agarro como está, si no queda ordenado permuto y el primero y el segundo. Si no funciona permuto el primero con el 3ro, si no esta premuto el 2do con el 3ro, y asi. Complejidad FACTORIAL
 ## Mergesort
 Divide en dos 
 va hacia la izquierda

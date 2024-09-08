@@ -183,6 +183,7 @@ Last
 List
 Logicas
 Lemma
+Listas
 capa
 controlado
 cantidad
@@ -756,6 +757,7 @@ cualquiera
 ciclos
 conexas
 combinatorio
+combiene
 de
 dispositivos
 del
@@ -2361,6 +2363,8 @@ poseen
 paradas
 probar
 permutaciones
+permuto
+premuto
 la
 las
 le
@@ -3812,6 +3816,7 @@ ESTO
 Episode
 Empire
 Eternal
+Empaquetado
 kernel
 kt
 kU
@@ -5000,6 +5005,7 @@ Pulp
 Private
 Pasando
 Puntos
+Pruebo
 Interface
 ID
 Instructions
@@ -6393,6 +6399,7 @@ Fight
 Fish
 Finding
 Ferdy
+FACTORIAL
 Descriptors
 Descriptor
 Devuelve

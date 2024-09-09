@@ -49,3 +49,6 @@ entonces:
 
 ### Error, convergencia cuadrática
 ![[Pasted image 20240904122542.png]]
+
+
+## Método de punto fijo 

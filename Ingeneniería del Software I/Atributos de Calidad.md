@@ -1,0 +1,1 @@
+ Un atribvuto de calidad es una medida o propiedad testeable deuns istema que se usa para indicar como el sistema satisface las necesidades de sus stakeholders. 

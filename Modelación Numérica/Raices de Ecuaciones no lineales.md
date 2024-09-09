@@ -59,4 +59,6 @@ por ejemplo $g(\alpha) \alpha -f(\alpha)=\alpha -0=\alpha$
 Otra forma es despejando segun la f(x) que tengamos 
 ![[Pasted image 20240909130859.png]]
  en estos casos g seria $\alpha³ -5$ o $3\sqrt{ \alpha+5 }$ o $\frac{5}{\alpha ^2 -1}$
-Para que 
+
+### condiciones de convergencia 
+$$I / si \ x \in I \therefore |g'(x)|< 1$$

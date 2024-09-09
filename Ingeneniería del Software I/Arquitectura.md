@@ -6,4 +6,4 @@ Tipos de diagramas:
 - diagrama de componentes 
 - diagrama de despliegue
 
-[[2.10 Tipos de Relaciones]]
+![[2.10 Tipos de Relaciones]]

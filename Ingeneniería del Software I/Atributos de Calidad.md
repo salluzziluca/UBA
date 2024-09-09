@@ -11,3 +11,7 @@ Muchas veces los sistemas se rediseñan por estos atributos de calidad. Yo cambi
 
 
 Los atributos de calidad se van pisando. Si es portable performa mal
+
+
+### Usabilidad 
+![[Pasted image 20240909205409.png]]

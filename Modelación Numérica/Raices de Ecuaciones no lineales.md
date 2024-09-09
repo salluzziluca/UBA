@@ -61,4 +61,5 @@ Otra forma es despejando segun la f(x) que tengamos
  en estos casos g seria $\alpha³ -5$ o $3\sqrt{ \alpha+5 }$ o $\frac{5}{\alpha ^2 -1}$
 
 ### condiciones de convergencia 
+Siendo I un intervalo $[a,b]$
 $$I / si \ x \in I \therefore |g'(x)|< 1$$

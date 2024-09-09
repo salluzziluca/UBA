@@ -761,6 +761,11 @@ combiene
 combinaci
 construimos
 comerse
+coloreo
+colores
+color
+coloreados
+colorear
 de
 dispositivos
 del
@@ -1916,6 +1921,8 @@ solucion
 sigo
 sigoo
 ssu
+soluci
+ses
 par
 por
 punto
@@ -2374,6 +2381,8 @@ permutaciones
 permuto
 premuto
 pruebo
+probe
+pintar
 la
 las
 le
@@ -2574,6 +2583,7 @@ lazo
 ltiples
 lazos
 lido
+lida
 agnosticos
 apps
 al
@@ -4196,6 +4206,7 @@ registra
 respetamos
 reinas
 reina
+retrocedo
 operacion
 orden
 operaciones
@@ -4863,6 +4874,8 @@ Aliens
 American
 Amores
 Andr
+Avanzo
+Arranco
 Programming
 Procesos
 Partes
@@ -5763,6 +5776,7 @@ tiende
 terminando
 toque
 tampoco
+termino
 inico
 interna
 infro
@@ -6854,6 +6868,7 @@ Trainspotting
 Tesis
 Todas
 Tablero
+True
 Realiza
 REgistrys
 Rango
@@ -7324,6 +7339,7 @@ Virginia
 VI
 Vol
 Vertices
+Verifico
 OPTIONS
 Operativos
 Orden

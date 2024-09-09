@@ -26,4 +26,4 @@ Como hay que diseñar para que varias personas entiendan (usuarios, gente que re
 Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementso de diseño comunes entre diversas partes del sistema.
 
 ### Vista de procesos 
-Procesos que se estan corriendo en memoria. 
+Procesos que se estan corriendo en memoria. Toma en cuenta temas no funcionales como el rendimiento y la disponibilidad. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas.

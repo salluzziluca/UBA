@@ -8,3 +8,6 @@
 
 
 Muchas veces los sistemas se rediseñan por estos atributos de calidad. Yo cambio la tele no porque no pueda ver una peli, sino porque la puedo ver en mejor calidad
+
+
+Los atributos de calidad se van pisando. Si es portable performa mal

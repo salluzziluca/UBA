@@ -63,4 +63,4 @@ Otra forma es despejando segun la f(x) que tengamos
 ### condiciones de convergencia 
 Siendo I un intervalo $[a,b]$
 $$I / si \ x \in I \therefore |g'(x)|< 1$$
-Entonces convergera si $x_{o in I }$
+Entonces convergera si $x_{0} \in I$ y $x_{1} =g(x_{0}) \in I$

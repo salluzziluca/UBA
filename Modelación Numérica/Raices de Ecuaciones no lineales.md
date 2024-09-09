@@ -52,3 +52,4 @@ entonces:
 
 
 ## Método de punto fijo 
+El punto fijo es aquel que cuando se evalua la funcion en ese punto devuelve el mismo valor

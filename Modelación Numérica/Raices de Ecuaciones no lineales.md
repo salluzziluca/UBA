@@ -55,7 +55,7 @@ entonces:
 El punto fijo es aquel que cuando se evalua la funcion en ese punto devuelve el mismo valor
 tengo una funcion F(x) de la que quiero obtener las raices, este metodo nos permite buscar los puntos fijos de una funcion g(alpha) cuyos puntos fijos van a ser raices de F(x)
 
-por ejemplo $g(\alpha) \alpha -f(\alpha)=\alpha -0=\alpha$
+por ejemplo $g(\alpha) = \alpha -f(\alpha)=\alpha -0=\alpha$ (metodo de burden)
 Otra forma es despejando segun la f(x) que tengamos 
 ![[Pasted image 20240909130859.png]]
  en estos casos g seria $\alpha³ -5$ o $3\sqrt{ \alpha+5 }$ o $\frac{5}{\alpha ^2 -1}$
@@ -64,3 +64,5 @@ Solo funciona g2 porque el metodo de burden es muy lento
 Siendo I un intervalo $[a,b]$
 $$I / si \ x \in I \therefore |g'(x)|< 1$$
 Entonces convergera si $x_{0} \in I$ y $x_{1} =g(x_{0}) \in I$
+
+![[Pasted image 20240909140345.png]]

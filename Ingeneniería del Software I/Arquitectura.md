@@ -23,4 +23,7 @@ Como hay que diseñar para que varias personas entiendan (usuarios, gente que re
 
 
 ### Vista logica 
-Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y element
+Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementso de diseño comunes entre diversas partes del sistema.
+
+### Vista de procesos 
+Procesos que se estan corriendo en memoria. 

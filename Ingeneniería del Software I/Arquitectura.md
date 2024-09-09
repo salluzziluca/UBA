@@ -31,3 +31,5 @@ Procesos que se estan corriendo en memoria. Toma en cuenta temas no funcionales 
 ### Vista de componentes  
 la vista de desarrollo se centra en la organizacion real de los modulos de software en el ambiente de desarrollo. 
 ![[Pasted image 20240909201209.png]]
+
+### Vista fisica o de despliegue 

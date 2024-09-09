@@ -12,4 +12,4 @@ Priemera enseñanza: No seas boludo *o7*
 [[R=R]]
 [[Marco Cynefin]]
 [[Arquitectura]]
-[[atri]]
+[[Atributos de Calidad]]

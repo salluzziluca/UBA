@@ -184,6 +184,7 @@ List
 Logicas
 Lemma
 Listas
+Less
 capa
 controlado
 cantidad
@@ -1125,6 +1126,7 @@ denso
 disperso
 diagonal
 desmarcando
+don
 gestion
 gran
 guarda
@@ -1614,6 +1616,7 @@ empioeza
 entoces
 empezando
 entran
+enfocados
 servicios
 son
 su
@@ -2383,6 +2386,8 @@ premuto
 pruebo
 probe
 pintar
+ponerle
+preguntarle
 la
 las
 le
@@ -2986,6 +2991,7 @@ aquel
 aritas
 agrupan
 articulaci
+ask
 hardware
 heap
 hay
@@ -3127,6 +3133,7 @@ habitaciones
 heur
 hacerse
 hamiltoniano
+habria
 que
 queda
 quien
@@ -3839,6 +3846,7 @@ Episode
 Empire
 Eternal
 Empaquetado
+Evitar
 kernel
 kt
 kU
@@ -4207,6 +4215,7 @@ respetamos
 reinas
 reina
 retrocedo
+rectangulos
 operacion
 orden
 operaciones
@@ -4876,6 +4885,7 @@ Amores
 Andr
 Avanzo
 Arranco
+Agrupamos
 Programming
 Procesos
 Partes
@@ -5177,6 +5187,7 @@ Indiana
 Implicaciones
 Induccion
 Independent
+Implementar
 Un
 UNIX
 UBA
@@ -5777,6 +5788,8 @@ terminando
 toque
 tampoco
 termino
+tratar
+tamanio
 inico
 interna
 infro
@@ -6228,6 +6241,7 @@ frec
 falta
 filmaci
 falsa
+flechas
 Nombre
 Notas
 Not
@@ -6598,6 +6612,7 @@ Darko
 Demostraciones
 Directo
 Debo
+Dividir
 Memoria
 Multivariada
 MORE
@@ -6869,6 +6884,7 @@ Tesis
 Todas
 Tablero
 True
+Tell
 Realiza
 REgistrys
 Rango
@@ -7020,6 +7036,7 @@ Requiem
 River
 Representaciones
 Reinas
+Recurso
 bien
 by
 be
@@ -7420,6 +7437,7 @@ Odyssey
 Over
 Oldboy
 Ordenamiento
+Orientada
 ya
 yo
 yM

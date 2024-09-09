@@ -28,4 +28,5 @@ Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  p
 ### Vista de procesos 
 Procesos que se estan corriendo en memoria. Toma en cuenta temas no funcionales como el rendimiento y la disponibilidad. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas.
 
-### Vista de componentes 
+### Vista de componentes  
+la vista de desarrollo se centra 

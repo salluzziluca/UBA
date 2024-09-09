@@ -58,3 +58,4 @@ tengo una funcion F(x) de la que quiero obtener las raices, este metodo nos perm
 por ejemplo $g(\alpha) \alpha -f(\alpha)=\alpha -0=\alpha$
 Otra forma es despejando segun la f(x) que tengamos 
 ![[Pasted image 20240909130859.png]]
+ en estos casos g seria $\alpha³ -5$ o $3\sqrt{ \alpha+5 }$ o $\frac{5}{\alpha² -1$

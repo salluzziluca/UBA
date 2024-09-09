@@ -19,6 +19,7 @@ Conceptos o propiedades fundamentales  de un sistema en su entorno encarnando en
 
 
 ## Modelo de vistas 4+1 
+![[Pasted image 20240909202130.png]]
 Como hay que diseñar para que varias personas entiendan (usuarios, gente que recien llega a la empresa, contaduria, los devs, etc)
 
 

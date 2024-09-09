@@ -112,21 +112,9 @@ def camino_hamiltoniano_dfs(grafo, v, visitados, camino):
 Dado un grafo de k colores diferentes, es posible pintar los vertices de tal forma que ningun par de vertices adyacentes tenga el mismo color?
 ![[Pasted image 20240908205357.png]
 
-1. Si todos los países están coloreados, devuelvo True  
-      
-    
-2. Pruebo colorear con un color el siguiente país:
-    
-3. Verifico si la solución parcial es válida
-    
-
-1. Si no lo es, retrocedo y vuelvo a 2) a probar con otro color
-    
-2. Si lo es, llamo recursivamente y vuelvo a 1) → Si no encontramos solución, volvemos a 2) a probar con otro color  
-      
-    
-
-1. Si llego hasta aca, ya probe con todo y no encontre una solucion
-    
-
-**
+1. Si todos los países están coloreados, devuelvo True 
+2. Pruebo colorear con un color el siguiente país
+3. Verifico si la solución parcial es válido
+	1. Si no lo es, retrocedo y vuelvo a 2) a probar con otro color 
+	2. Si lo es, llamo recursivamente y vuelvo a 1) → Si no encontramos solución, volvemos a 2) a probar con otro color  
+4. Si llego hasta aca, ya probe con todo y no encontre una solucion

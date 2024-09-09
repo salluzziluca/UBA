@@ -1127,6 +1127,7 @@ disperso
 diagonal
 desmarcando
 don
+despliegue
 gestion
 gran
 guarda
@@ -4886,6 +4887,7 @@ Andr
 Avanzo
 Arranco
 Agrupamos
+Arquitectura
 Programming
 Procesos
 Partes
@@ -5272,6 +5274,7 @@ Unarias
 Usamos
 Unforgiven
 Utilizaci
+UML
 modo
 mode
 menso
@@ -7357,6 +7360,7 @@ VI
 Vol
 Vertices
 Verifico
+Vistas
 OPTIONS
 Operativos
 Orden

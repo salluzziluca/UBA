@@ -7,3 +7,6 @@ Tipos de diagramas:
 - diagrama de despliegue
 
 ![[2.10 Tipos de Relaciones]]
+
+## Modelo de Vistas de Arquitectura
+Puedo encontrar diferentes tipos de df

@@ -767,6 +767,7 @@ colores
 color
 coloreados
 colorear
+calidad
 de
 dispositivos
 del
@@ -1618,6 +1619,8 @@ entoces
 empezando
 entran
 enfocados
+estimado
+entrega
 servicios
 son
 su
@@ -1927,6 +1930,8 @@ sigoo
 ssu
 soluci
 ses
+satisface
+stakeholders
 par
 por
 punto
@@ -4533,6 +4538,7 @@ newton
 nafta
 name
 ninunga
+necesidades
 via
 vuelve
 viven
@@ -5793,6 +5799,7 @@ tampoco
 termino
 tratar
 tamanio
+testeable
 inico
 interna
 infro
@@ -6068,6 +6075,7 @@ isomorficos
 incidencia
 identificamos
 inciden
+indicar
 fijo
 file
 fork

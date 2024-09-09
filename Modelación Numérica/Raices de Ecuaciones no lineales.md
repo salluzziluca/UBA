@@ -56,3 +56,4 @@ El punto fijo es aquel que cuando se evalua la funcion en ese punto devuelve el 
 tengo una funcion F(x) de la que quiero obtener las raices, este metodo nos permite buscar los puntos fijos de una funcion g(alpha) cuyos puntos fijos van a ser raices de F(x)
 
 por ejemplo $g(\alpha) \alpha -f(\alpha)=\alpha -0=\alpha$
+Otra forma es despejando

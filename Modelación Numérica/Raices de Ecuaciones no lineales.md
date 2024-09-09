@@ -53,3 +53,4 @@ entonces:
 
 ## Método de punto fijo 
 El punto fijo es aquel que cuando se evalua la funcion en ese punto devuelve el mismo valor
+tengo una funcion F(x) de la que quiero obtener las raices, este metodo nos permite buscar los puntos fijos de una funcion g(alpha) cuyos 

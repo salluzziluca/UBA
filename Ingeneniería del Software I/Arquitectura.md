@@ -29,4 +29,5 @@ Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  p
 Procesos que se estan corriendo en memoria. Toma en cuenta temas no funcionales como el rendimiento y la disponibilidad. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas.
 
 ### Vista de componentes  
-la vista de desarrollo se centra 
+la vista de desarrollo se centra en la organizacion real de los modulos de software en el ambiente de desarrollo. 
+![[Pasted image 20240909201209.png]]

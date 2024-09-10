@@ -768,6 +768,9 @@ color
 coloreados
 colorear
 calidad
+contaduria
+comunes
+centra
 de
 dispositivos
 del
@@ -1129,6 +1132,10 @@ diagonal
 desmarcando
 don
 despliegue
+dibujitos
+decisiones
+devs
+diversas
 gestion
 gran
 guarda
@@ -1257,6 +1264,7 @@ grafos
 grados
 grupos
 guardamos
+gente
 especifico
 entra
 en
@@ -1621,6 +1629,12 @@ entran
 enfocados
 estimado
 entrega
+encarnando
+evolucion
+entiendan
+empresa
+elementso
+enfoca
 servicios
 son
 su
@@ -1932,6 +1946,7 @@ soluci
 ses
 satisface
 stakeholders
+sofwtare
 par
 por
 punto
@@ -2595,6 +2610,7 @@ ltiples
 lazos
 lido
 lida
+logicas
 agnosticos
 apps
 al
@@ -2998,6 +3014,7 @@ aritas
 agrupan
 articulaci
 ask
+ambiente
 hardware
 heap
 hay
@@ -3716,6 +3733,7 @@ CUALQUIERA
 Componente
 Conexa
 Conjunto
+Conceptos
 Es
 El
 Estos
@@ -4222,6 +4240,8 @@ reinas
 reina
 retrocedo
 rectangulos
+requiriendo
+recien
 operacion
 orden
 operaciones
@@ -4382,6 +4402,7 @@ ordeno
 oel
 odenado
 opciones
+organizacion
 nombre
 nuevo
 nica
@@ -4721,6 +4742,7 @@ visitarlo
 variacion
 vuelvo
 vertgices
+vista
 Application
 API
 Asigna
@@ -5800,6 +5822,7 @@ termino
 tratar
 tamanio
 testeable
+tolerancia
 inico
 interna
 infro
@@ -6076,6 +6099,7 @@ incidencia
 identificamos
 inciden
 indicar
+importantes
 fijo
 file
 fork
@@ -6253,6 +6277,7 @@ falta
 filmaci
 falsa
 flechas
+fundamentales
 Nombre
 Notas
 Not
@@ -6466,6 +6491,7 @@ Fish
 Finding
 Ferdy
 FACTORIAL
+Fowler
 Descriptors
 Descriptor
 Devuelve
@@ -6624,6 +6650,7 @@ Demostraciones
 Directo
 Debo
 Dividir
+Definicion
 Memoria
 Multivariada
 MORE
@@ -6762,6 +6789,7 @@ Muestre
 Mayne
 Morell
 Matriz
+Martin
 Table
 Todos
 This
@@ -7048,6 +7076,7 @@ River
 Representaciones
 Reinas
 Recurso
+Requisitos
 bien
 by
 be
@@ -7369,6 +7398,7 @@ Vol
 Vertices
 Verifico
 Vistas
+Vista
 OPTIONS
 Operativos
 Orden

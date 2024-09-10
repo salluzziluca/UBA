@@ -22,6 +22,7 @@ Conceptos o propiedades fundamentales  de un sistema en su entorno encarnando en
 ![[Pasted image 20240909202130.png]]
 Como hay que diseñar para que varias personas entiendan (usuarios, gente que recien llega a la empresa, contaduria, los devs, etc)
 
+### Vista escenario, plnateo
 
 ### Vista logica 
 Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementso de diseño comunes entre diversas partes del sistema.

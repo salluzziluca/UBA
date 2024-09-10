@@ -1,0 +1,6 @@
+---
+aliases:
+  - SQL
+  - sql
+  - Sql
+---

@@ -6,4 +6,5 @@ aliases:
 ---
  Lenguaje declarativo basado en cálculo de tuplas, trabajamos con tablas en vez de relaciones
 ## Data Definiton Language (DDL)
-Para crear esquemas uso `CREATE SCHEMA 
+Para crear esquemas uso `CREATE SCHEMA nombre`. 
+Para crear tablas, `CREATE TABLE nombre ( columna1, clumna 2`

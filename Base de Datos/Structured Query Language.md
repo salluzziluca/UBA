@@ -11,3 +11,20 @@ Para crear tablas, `CREATE TABLE nombre ( [definicion columna1, definicion colum
 
 las columnas se definen tal que `nombre_columna tipo_dato [ restricciones ]`, `padron INTEGER NOT NULL CHECK (padron > 10000)`
 ademe de los [[Tipos de Datos]] ya conocidos. Tenemos VARCHAR (string), DATE, TIME, TIMESTAMP (con o sin TimeZone) e INTERVAL (en horas, minutos, segundos)
+
+### Restricciones 
+![[Pasted image 20240910203954.png]]
+```SQL
+CREATE TABLE Persona (
+ dni INT PRIMARY KEY,
+ nombre VARCHAR(255) NOT NULL,
+ fecha_nacimiento DATE
+);
+CREATE TABLE HijoDe (
+ dni_hijo INT,
+ dni_padre INT,
+ PRIMARY KEY (dni_hijo, dni_padre),
+ FOREIGN KEY (dni_hijo) REFERENCES Persona(dni),
+ FOREIGN KEY (dni_padre) REFERENCES Persona(dni)
+);
+```

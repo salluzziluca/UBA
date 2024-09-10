@@ -29,7 +29,7 @@ aca van a estar los requerimientos, los problemas que me van a modificar mi arqu
 Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementso de diseño comunes entre diversas partes del sistema. Las soluciones al los problemas propuestos al escenario
 
 ### Vista de procesos 
-Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas.
+Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas. Los procesos que declare en componentes los pongo a correr
 
 ### Vista fisica o de despliegue 
 

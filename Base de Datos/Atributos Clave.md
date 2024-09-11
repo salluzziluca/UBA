@@ -2,7 +2,7 @@
 aliases:
   - atributo clave
 ---
-[[Base de Datos/Atributos|Atributo]] que permite distinguir entre [[entidades]] dentro de un [[conjunto de entidades]]
+[[Base de Datos/Atributos|Atributo]] que permite distinguir entre [[Entidades]] dentro de un [[Conjunto de Entidades]]
 Si no encontramos uno, creamos un ID. 
-En el diagrama de [[entidades]] se representan subrayados
+En el diagrama de [[Entidades]] se representan subrayados
 ![[Pasted image 20240820201109.png]]

@@ -11,4 +11,5 @@ Priemera enseñanza: No seas boludo *o7*
 [[Scrum]]
 [[R=R]]
 [[Marco Cynefin]]
-[[]]
+[[Arquitectura]]
+[[Atributos de Calidad]]

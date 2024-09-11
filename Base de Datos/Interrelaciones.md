@@ -1,5 +1,5 @@
 La ==aridad== ó ==grado== de un tipo de interrelación es la cantidad de tipos de [[Entidades|entidad]] que coparticipan del mismo.
-La ==cardinalidad== es la maxima cantida de instancias de cada tipo de [[Entidades|entidad]] que pueden relacionarse con una instancia concreta de los tipos de [[entidades]] rstantes
+La ==cardinalidad== es la maxima cantida de instancias de cada tipo de [[Entidades|entidad]] que pueden relacionarse con una instancia concreta de los tipos de [[Entidades]] rstantes
 ![[Pasted image 20240820201819.png]]
 Un futbolista se puede vincular a un solo Pais
 Un país a muchos futbolistas
@@ -15,10 +15,10 @@ Estas tambien pueden tener [[Base de Datos/Atributos|atributos]]
 ![[Pasted image 20240820202538.png]]
 
 ## Restricciones de Participacion 
-Tambien debemos identificar los [[atributos clave]]. Sólo pueden formar parte de los [[atributos clave]] de una interrelación los [[atributos clave]] de los tipos de [[Entidades|entidad]] que participan de la misma.
+Tambien debemos identificar los [[Atributos Clave]]. Sólo pueden formar parte de los [[Atributos Clave]] de una interrelación los [[Atributos Clave]] de los tipos de [[Entidades|entidad]] que participan de la misma.
 
 ![[Pasted image 20240820204048.png]]
-Tanto el legajo como el codigo son [[Base de Datos/Atributos|atributos]] calves de las dos [[entidades]] de la interrelacion. 
+Tanto el legajo como el codigo son [[Base de Datos/Atributos|atributos]] calves de las dos [[Entidades]] de la interrelacion. 
 
 ![[Pasted image 20240820204234.png]]
 En este modelo al forma de identificar el escribió es mediante el [[Base de Datos/Atributos|atributo]] clave nombre

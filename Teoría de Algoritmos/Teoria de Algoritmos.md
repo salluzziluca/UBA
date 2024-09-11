@@ -1,4 +1,8 @@
+[[Inducción Matemática]]
 [[Complejidad de Algoritmos]]
 [[Grafos]]
 [[Arboles]]
 [[clique]]
+[[División y Conquista]]
+[[Teorema Maestro general]]
+[[Algoritmos Greedy]]

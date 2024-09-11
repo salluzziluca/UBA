@@ -1,0 +1,19 @@
+/* https://github.com/mgmeyers/obsidian-style-settings */
+/* @settings
+
+name: Graph Banner
+id: graph-banner
+settings:
+  - id: banner-height
+    title: Banner Height
+    description: The height of the banner. (e.g. 20vh, 200px)
+    type: variable-text
+    default: 20vh
+
+*/
+
+.graph-banner-content {
+  width: auto;
+  height: var(--banner-height) !important;
+  margin-bottom: 16px;
+}

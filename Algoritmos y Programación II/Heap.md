@@ -1,4 +1,6 @@
+> Es la estructura por defecto de los [[algoritmos greedy]]
 # Heap binario
+
 Es un tipo de [[Arboles#Arbol binario|árbol binario]]
 Tiene una relación de tipo vertical. Los menores arribas y mayores abajo o viceversa
 Es un árbol casi completo: Si sobran lugares, es porque todos menos el ultimo nivel estan completos, el ultimo tiene que estar lleno de izquierda a derecha, pueden faltar cualquier cantidad de elementos y tambien puede estar completo. 

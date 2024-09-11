@@ -47,16 +47,82 @@ def mutiplicacionBigInt(x,y):
 ```
 
 ## Problema 2: obtener extremo de un poligono
-Tiene que ser convexo. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equivalente a los angulos anterioes <= 180 grad 
+Tiene que ser convexo.Para que no tenga maximos locales y poder descartar partes. Para todo segmento L el poligono tiene que ser monotionico. Que lo corte mas de 2 veces. Equivalente a los angulos anterioes <= 180 grad 
 
 ![[Pasted image 20240827122108.png]]
 En este caso busco el punto mas alto con respecto al eje y. Agarro dos vertices y los comparo. Si A crece y C crece y ademas C está mas alto que A(caso del dibujo, entonces) el punto mas alto va a estar entre c y b 
 
+Reorganizo los puntos
+![[Pasted image 20240828094615.png]]
+Ahora A esta bajando y C está bajando. Con C por debajo de A, entonces el punto mas alto esta entre A y C
 
 
+### Algoritmo
+
+Empezamos con A y B = 0, C = n/2
+
+Si tenemos 2 vertices, comparamos a mano 
+aplicamos logica de partir. 
+Nos quedamos con una mitad y comparo de vuelta, simil [[Busqueda#Binaria|busqueda binaria]]. O(logn)
 
 
+## Problema 3: Busco puntos mas cercanos en 2 dim
+Dado n puntos en un plano, buscar la pareja que se encuentre más cercana. 
+Si comparo todo es O(n^2)
 
+En una dimension-> ordenamos (O(n logn)) y despues comparamos cad elemento con sus adyacentes (O(n))
 
+En 2 dim se complica, pero podemos usar nociones de [[Sorting#Mergesort|mergesort]]. Buscamos la pareja mas cercana mas cercana del lado izq y otra del lado derecho y en tiempo lineal buscamos los mas cercanos
+1. Pongo un x de corte y obtengo las dos mitades Q y R
+2. obtengo Q_x Q_y R_x R_y 
+3. llamo recursivamente a las dos mitades y me devuelve el mejor candidato
+4. Ya se al distancia menor, agarro los puntes que esten a esa distancia "d" de la x de corte y comparo los 15 siguientes que se encuentren en esos puntos. 
+$$T(n)=2T\left( \frac{n}{2} \right)+O_{(n)}$$
 
+### algoritmo
+```python
+def closest_pairs_rec(px, py):
+	if len(px) <= 3: return el mínimo de comparar cada punto
+	#Construir Qx, Qy, Rx, Ry (O(n))
+	q0, q1 = closest_pairs_rec(Qx, Qy)
+	r0, r1 = closest_pairs_rec(Rx, Ry)
+	d = min(dist(q0, q1), dist(r0, r1))
+	x* = máxima coordenada x de Qx
+	S = puntos de P que están a distancia <= d de la recta x = x*
+	#Construir Sy (O(n))
+	#por cada punto s de Sy computar distancia contra los siguientes 15 puntos
+	#quedarse con s y s' que minimizan esa distancia
+	if dist(s, s') < d: return s, s'
+	elif dist(q0, q1) < dist(r0, r1): return q0, q1
+	else: return r0, r1
 
+```
+
+## Problema 4: Mutiplicacion de matrices
+El algoritmo sencillo es O(n^3)
+Si divido las matrices en n/2xn/2 terminamos con 8 llamados recursivos e igual nos da O(n^{2,8})
+### Algoritmo de Strassen
+En vez de 8 llamados recursivos hacemos 7
+$$T(n)= 7\left( T\left( \frac{n}{2} \right) \right)+O(1)\to T(n)=O(n^{\log_{2}7}) \approx O(n^{2,8})$$
+
+## Problema 5: FTT- Transformada rapida de Fourier
+
+Tenemos dos vectores A y B y queremos obtener la covolucion entre ambos
+
+Se puede llegar de O(n^2) a O(n logn)
+
+## Problema 6: Conteo de inversiones 
+Tengo un conjunto de b elementos '2 rreglos/listas ordenados por diferentes criterios (A y B)
+Quiero dar una semejanza endre dichas listas
+
+Tenemos A ordenado de 1 a n B tiene de 1 a n pero en desorden 
+
+Si b_i <b_i+1 para todo i B está ordenado y son iguales
+dos elementos están invertidos si b_i > b_j (con i <j)
+![[Pasted image 20240828103958.png]]
+Puedo obtener las inversiones en O(n²). El 2 con el 4 1 3 5, el 4 con el 1, 3, 5, 
+![[Pasted image 20240828104756.png]]![[Pasted image 20240828104831.png]]
+
+las inversiones totales serian 4 + 2 + 4 por el 1 + 3 por el 3 + 3 por el 4 + 3 por oel 5 = 19 
+
+O(n log n)

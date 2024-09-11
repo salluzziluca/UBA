@@ -5,7 +5,7 @@ aliases:
 
 Cada [[Entidades|entidad]] tendra ==valores particulares== para cada uno de los atributos del tipo de [[Entidades|entidad]] al que corresponde.
 
-Ej: Tipo de [[dato]] `Pais(nombre, población, superifice)`. [[Entidades|Entidad]]: `(Argentina, 40.117.096, 2.780.400km^2`
+Ej: Tipo de [[Dato]] `Pais(nombre, población, superifice)`. [[Entidades|Entidad]]: `(Argentina, 40.117.096, 2.780.400km^2`
 
 ## Dominio de un atributo
 El dominio de un atributyo es el conunto de valores que el mismo puede tomar.

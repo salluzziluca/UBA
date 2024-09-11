@@ -21,7 +21,7 @@ Se elige el vértice V sobre el cual se quiera aplicar el algoritmo
 Y así sucesivamente...
 ![[Pasted image 20220614210430.png]]
 ![[Pasted image 20220614210441.png]]
-De esta forma obtenemos la forma mas liviana de llegar a cada nodo
+De esta forma obtenemos la forma mas liviana de llegar a cada nodo. Se usa un [[Heap]]
 ## Orden topológico
 Buscar aristas con cero aristas adyacentes y recorrelo, asi obtenemos nuevos ![[Pasted image 20220621203109.png]]
 

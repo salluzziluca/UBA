@@ -568,6 +568,9 @@ cardinalidad
 calave
 club
 clubes
+correcciones
+cuatri
+carrera
 de
 dispositivos
 del
@@ -834,6 +837,8 @@ depto
 debilles
 docentes
 disjunta
+disjuntas
+disjuncion
 gestion
 gran
 guarda
@@ -1467,6 +1472,7 @@ superclaves
 subrayar
 suponemos
 subrrogadas
+superpuestas
 par
 por
 punto
@@ -1805,6 +1811,9 @@ participanetes
 participacio
 pais
 padron
+parcial
+proveedor
+posgrado
 la
 las
 le
@@ -2267,6 +2276,8 @@ algebra
 apariciones
 actuacion
 aseguras
+articulos
+agregaci
 hardware
 heap
 hay
@@ -2381,6 +2392,8 @@ homogeneos
 hoteles
 hotel
 habitaciones
+heur
+horario
 que
 queda
 quien
@@ -2575,6 +2588,8 @@ uhh
 unicidad
 usemos
 unique
+uniones
+unarias
 System
 Son
 Source
@@ -3225,6 +3240,8 @@ revisar
 rompan
 raices
 recomendable
+rompe
+romper
 operacion
 orden
 operaciones
@@ -3477,6 +3494,7 @@ naturales
 null
 nombreclub
 numtero
+normalizacion
 via
 vuelve
 viven
@@ -3616,6 +3634,7 @@ video
 valres
 validar
 validad
+vender
 Application
 API
 Asigna
@@ -3862,6 +3881,9 @@ Producto
 Peliculas
 PUedo
 Persona
+Pasaje
+Porque
+Padr
 Interface
 ID
 Instructions
@@ -4042,6 +4064,7 @@ UA
 UY
 Us
 UUID
+Unarias
 modo
 mode
 menso
@@ -4247,6 +4270,7 @@ matematia
 minimales
 miosmo
 modifico
+mat
 tien
 tiene
 todos
@@ -4444,6 +4468,8 @@ taba
 tato
 tu
 transaccion
+ternarias
+totales
 inico
 interna
 infro
@@ -4652,6 +4678,8 @@ interesantes
 identificar
 integradad
 integridad
+interrelacion
+ing
 fijo
 file
 fork
@@ -4796,6 +4824,7 @@ foraneas
 futbolistas
 futbolista
 fecha
+fuerte
 Nombre
 Notas
 Not
@@ -4869,6 +4898,7 @@ NmP
 NG
 NOc
 NY
+NN
 File
 For
 Funcion
@@ -5073,6 +5103,7 @@ DW
 Dph
 Dominio
 Dom
+Debiles
 Memoria
 Multivariada
 MORE
@@ -5400,6 +5431,8 @@ Representacion
 Restricciones
 Restriciones
 Restrccion
+Resumen
+REsumen
 bien
 by
 be
@@ -5901,6 +5934,7 @@ jlO
 jrD
 jpZY
 juegan
+jerarquias
 Ya
 Yourself
 YAGNI
@@ -6131,6 +6165,7 @@ Bases
 Buenos
 Bcn
 BsAs
+Binarias
 XY
 Xg
 XQG
@@ -6312,6 +6347,7 @@ Jjr
 Jp
 JV
 JuegaEn
+Jerarquias
 Quienes
 Queue
 Quiere

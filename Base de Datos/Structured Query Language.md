@@ -32,3 +32,7 @@ CREATE TABLE HijoDe (
 
 
 El ilike esta bueno para buscar cosas pero no para poner en un programa. Porque ademas no utiliza los indices
+
+
+
+### Between 'algo' and 'a'

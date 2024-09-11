@@ -167,6 +167,8 @@ Leqc
 LIpp
 Lyv
 Lka
+Lenguaje
+Language
 capa
 controlado
 cantidad
@@ -571,6 +573,7 @@ clubes
 correcciones
 cuatri
 carrera
+conocidos
 de
 dispositivos
 del
@@ -839,6 +842,8 @@ docentes
 disjunta
 disjuntas
 disjuncion
+declarativo
+definen
 gestion
 gran
 guarda
@@ -1473,6 +1478,8 @@ subrayar
 suponemos
 subrrogadas
 superpuestas
+sql
+segundos
 par
 por
 punto
@@ -1976,6 +1983,7 @@ lZz
 lR
 lados
 legajo
+lculo
 agnosticos
 apps
 al
@@ -2278,6 +2286,7 @@ actuacion
 aseguras
 articulos
 agregaci
+ademe
 hardware
 heap
 hay
@@ -2394,6 +2403,7 @@ hotel
 habitaciones
 heur
 horario
+horas
 que
 queda
 quien
@@ -2717,6 +2727,8 @@ ST
 Subconjuntos
 Serie
 SIrve
+SQL
+Sql
 Calls
 Cmabia
 CPU
@@ -3991,6 +4003,7 @@ Igv
 IRF
 IUU
 Insercion
+INTERVAL
 Un
 UNIX
 UBA
@@ -4470,6 +4483,7 @@ tu
 transaccion
 ternarias
 totales
+trabajamos
 inico
 interna
 infro
@@ -5104,6 +5118,9 @@ Dph
 Dominio
 Dom
 Debiles
+Definiton
+DDL
+DATE
 Memoria
 Multivariada
 MORE
@@ -5321,6 +5338,10 @@ Trantino
 Tengo
 Transacci
 Ternarias
+Tenemos
+TIME
+TIMESTAMP
+TimeZone
 Realiza
 REgistrys
 Rango
@@ -5573,6 +5594,7 @@ bcn
 bill
 borro
 borrame
+basado
 will
 words
 with
@@ -5722,6 +5744,7 @@ VZJ
 VL
 VB
 Vp
+VARCHAR
 OPTIONS
 Operativos
 Orden

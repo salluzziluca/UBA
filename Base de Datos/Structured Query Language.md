@@ -35,4 +35,5 @@ El ilike esta bueno para buscar cosas pero no para poner en un programa. Porque 
 
 
 
-### Between 'algo' and 'a'
+### Between 'algo' and 'algo'
+para valores continuos

@@ -564,6 +564,10 @@ candidata
 cambian
 chupa
 cascada
+cardinalidad
+calave
+club
+clubes
 de
 dispositivos
 del
@@ -823,6 +827,13 @@ dominio
 distintas
 direector
 diapo
+descompuesto
+dirige
+departamenteo
+depto
+debilles
+docentes
+disjunta
 gestion
 gran
 guarda
@@ -923,6 +934,11 @@ genes
 geoespaciales
 gico
 guiones
+gernte
+gerente
+gerentes
+gerenteDepartamento
+generalizacion
 especifico
 entra
 en
@@ -1213,6 +1229,7 @@ enorme
 especifican
 esas
 enteras
+entidads
 servicios
 son
 su
@@ -1782,6 +1799,12 @@ peliculas
 pelicula
 peli
 pelis
+practica
+participacion
+participanetes
+participacio
+pais
+padron
 la
 las
 le
@@ -1942,6 +1965,8 @@ lG
 lk
 lZz
 lR
+lados
+legajo
 agnosticos
 apps
 al
@@ -2241,6 +2266,7 @@ actor
 algebra
 apariciones
 actuacion
+aseguras
 hardware
 heap
 hay
@@ -2352,6 +2378,9 @@ hi
 hOl
 hs
 homogeneos
+hoteles
+hotel
+habitaciones
 que
 queda
 quien
@@ -2672,6 +2701,7 @@ SR
 ST
 Subconjuntos
 Serie
+SIrve
 Calls
 Cmabia
 CPU
@@ -2904,6 +2934,7 @@ Ejq
 Ep
 Euj
 Eliminaciont
+Entidades
 kernel
 kt
 kU
@@ -3192,6 +3223,8 @@ restrictiva
 referenciales
 revisar
 rompan
+raices
+recomendable
 operacion
 orden
 operaciones
@@ -3442,6 +3475,8 @@ nun
 nulls
 naturales
 null
+nombreclub
+numtero
 via
 vuelve
 viven
@@ -3697,6 +3732,8 @@ Argentina
 AxB
 ActoresPeliculas
 Actualizacion
+Ambas
+Alumnos
 Programming
 Procesos
 Partes
@@ -3824,6 +3861,7 @@ PPaso
 Producto
 Peliculas
 PUedo
+Persona
 Interface
 ID
 Instructions
@@ -4754,6 +4792,10 @@ filas
 foranea
 foreing
 fijarme
+foraneas
+futbolistas
+futbolista
+fecha
 Nombre
 Notas
 Not
@@ -5247,6 +5289,7 @@ Tradicionales
 Trantino
 Tengo
 Transacci
+Ternarias
 Realiza
 REgistrys
 Rango
@@ -5857,6 +5900,7 @@ jz
 jlO
 jrD
 jpZY
+juegan
 Ya
 Yourself
 YAGNI
@@ -6207,6 +6251,7 @@ HYY
 HDp
 Hr
 Hw
+Hago
 Jacobiano
 Job
 Jusitfique
@@ -6266,6 +6311,7 @@ JyZa
 Jjr
 Jp
 JV
+JuegaEn
 Quienes
 Queue
 Quiere

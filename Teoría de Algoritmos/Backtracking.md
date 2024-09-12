@@ -130,3 +130,6 @@ Para hacerlo con **backtracking** agarro un cuadrado y me fijo si por fila, colu
 Puedo pensarlo con grafos
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc5JM4I4822Il0z7PQkQc0GBFBDjfAGJ4DYicbTCxl43ISQI46Uq3DA4dbTymO9xSK8UV4CdECqpkPUtYpBNPk5et4pp8KoKeID9Zq4-UBJ7e3l0a19P-0ZnMXrgEgAZ2kLehSdB_s581IRjUHBviZ060yBRJM5=s2048?key=gKqW96ITNxjx2HmFvGD60A)**
 Y para resolverlo hago COLOREO CON 9 COLORES LESFUKINGOOO
+
+## Ej6
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeJSGYf8qEjnuThb1oRCbvO4HwqRC7LGOUpULBu3nEEAPYnPm3QBPYxJYLaMQbSpDt4cyD3ItV608oG8vZwF0E5XuIv6DmWp_Aa5JvEAFcxXGY7soAfUVdNo-5ziXE65O9zbkIHbWMXn1s0cvw-4xnfoqo-PQk=s2048?key=gKqW96ITNxjx2HmFvGD60A)**

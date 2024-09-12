@@ -142,4 +142,4 @@ Entonces cuando nos pasan el tablero creamos el grafo (conectando las aristas ad
 ## EJ7 isomorfismos
 para ver si dos grafos son [[Isomorfismo en Grafos|isomorfos]]
 ## Ej8 Materias Compatibles
-Se tiene un alista de materias que deben ser cursada s en el mismo cuatri. Cada materia está representada por una lista de cursos/horarios (solo debe elegirse un horaro)
+Se tiene un alista de materias que deben ser cursada s en el mismo cuatri. Cada materia está representada por una lista de cursos/horarios (solo debe elegirse un horario para cada curso). Cada materia puede tener varios cursos

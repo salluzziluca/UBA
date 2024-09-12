@@ -151,4 +151,23 @@ Por ejemplo, con n = 2 y s = 7, debe devolver $[1, 6] [2, 5] [3, 4] [4, 3] [5, 2
 Si me dan 2 dados, me piden de suma 5 y saco en el dado 1 6, podo, ya no voy a llegar a 5 poor  esa rama. tambien podo si el dado que me salio + el mayor valor del resto no va a llegar a sumar lo que toca
 
 ## ej 10 subset sum 
-Daddo una lista y un numero, devolver el subset de la lista que sume 
+Daddo una lista y un numero, devolver el subset de la lista que sume exactamente ese numero
+```python 
+def subset_sum(L, index, n, solucion_parcial):
+	# Si encuentro una solucion la devuelvo
+	if sum(solucion_parcial) == n:
+		return solucion_parcial
+	
+	# Si por esta rama me paso, dejo de probar
+	if sum(solucion_parcial) > n or index >= len(L):
+		return []
+
+	solucion_parcial.append(L[index])
+	solucion = subset_sum(L, index+1, n, solucion_parcial)
+	if solucion != []: # en este caso hay solución válida
+		return solucion
+	solucion_parcial.pop()
+
+	return subset_sum(L, index+1, n, solucion_parcial)
+```
+

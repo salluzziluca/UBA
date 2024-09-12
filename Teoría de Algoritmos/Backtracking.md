@@ -121,3 +121,5 @@ Dado un grafo de k colores diferentes, es posible pintar los vertices de tal for
 
 
 ## Ej5 Sudoku
+![[Pasted image 20240912103540.png]]
+Si llenara todo de unos, despues todo de dos, despues todo de 3... ...despues todo de unos menos una casilla a la qu

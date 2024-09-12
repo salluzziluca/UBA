@@ -37,3 +37,6 @@ El ilike esta bueno para buscar cosas pero no para poner en un programa. Porque 
 
 ### Between 'algo' and 'algo'
 para valores continuos
+
+Un left join va a tomar todos los elementos de la tabla de la izquiera y los de la derecha que esten en la intersección, es decir, los de la derecha que cumplan la condición
+

@@ -574,6 +574,8 @@ correcciones
 cuatri
 carrera
 conocidos
+continuos
+cmplejidad
 de
 dispositivos
 del
@@ -949,6 +951,7 @@ gerente
 gerentes
 gerenteDepartamento
 generalizacion
+grabadas
 especifico
 entra
 en
@@ -1240,6 +1243,7 @@ especifican
 esas
 enteras
 entidads
+espectral
 servicios
 son
 su
@@ -1480,6 +1484,8 @@ subrrogadas
 superpuestas
 sql
 segundos
+spark
+suben
 par
 por
 punto
@@ -1821,6 +1827,7 @@ padron
 parcial
 proveedor
 posgrado
+previos
 la
 las
 le
@@ -1984,6 +1991,7 @@ lR
 lados
 legajo
 lculo
+learning
 agnosticos
 apps
 al
@@ -2287,6 +2295,8 @@ aseguras
 articulos
 agregaci
 ademe
+ademas
+avanzado
 hardware
 heap
 hay
@@ -2729,6 +2739,7 @@ Serie
 SIrve
 SQL
 Sql
+Slack
 Calls
 Cmabia
 CPU
@@ -2857,6 +2868,8 @@ Conjntos
 Clave
 Claves
 Consulta
+Conocimientos
+Clases
 Es
 El
 Estos
@@ -3254,6 +3267,7 @@ raices
 recomendable
 rompe
 romper
+reentrega
 operacion
 orden
 operaciones
@@ -3379,6 +3393,7 @@ oyNS
 ouA
 oO
 oscars
+opcional
 nombre
 nuevo
 nica
@@ -3647,6 +3662,7 @@ valres
 validar
 validad
 vender
+vistas
 Application
 API
 Asigna
@@ -3765,6 +3781,9 @@ ActoresPeliculas
 Actualizacion
 Ambas
 Alumnos
+Administrativa
+AVA
+AVE
 Programming
 Procesos
 Partes
@@ -3896,6 +3915,7 @@ Persona
 Pasaje
 Porque
 Padr
+Pandas
 Interface
 ID
 Instructions
@@ -4284,6 +4304,8 @@ minimales
 miosmo
 modifico
 mat
+matrices
+machine
 tien
 tiene
 todos
@@ -4484,6 +4506,8 @@ transaccion
 ternarias
 totales
 trabajamos
+tabular
+tps
 inico
 interna
 infro
@@ -4694,6 +4718,8 @@ integradad
 integridad
 interrelacion
 ing
+ilike
+indices
 fijo
 file
 fork
@@ -4839,6 +4865,7 @@ futbolistas
 futbolista
 fecha
 fuerte
+factorizacion
 Nombre
 Notas
 Not
@@ -5121,6 +5148,7 @@ Debiles
 Definiton
 DDL
 DATE
+DVS
 Memoria
 Multivariada
 MORE
@@ -5229,6 +5257,7 @@ MLLH
 Modelo
 Mutiples
 Modificacion
+Machine
 Table
 Todos
 This
@@ -5342,6 +5371,7 @@ Tenemos
 TIME
 TIMESTAMP
 TimeZone
+Teoricas
 Realiza
 REgistrys
 Rango
@@ -5745,6 +5775,7 @@ VL
 VB
 Vp
 VARCHAR
+Visualizacion
 OPTIONS
 Operativos
 Orden
@@ -6096,6 +6127,7 @@ Gii
 Gu
 GC
 Gx
+Gradescope
 BX
 Bit
 Box
@@ -6189,6 +6221,7 @@ Buenos
 Bcn
 BsAs
 Binarias
+Between
 XY
 Xg
 XQG
@@ -6310,6 +6343,7 @@ HDp
 Hr
 Hw
 Hago
+HICISTE
 Jacobiano
 Job
 Jusitfique

@@ -143,3 +143,6 @@ Entonces cuando nos pasan el tablero creamos el grafo (conectando las aristas ad
 para ver si dos grafos son [[Isomorfismo en Grafos|isomorfos]]
 ## Ej8 Materias Compatibles
 Se tiene un alista de materias que deben ser cursada s en el mismo cuatri. Cada materia está representada por una lista de cursos/horarios (solo debe elegirse un horario para cada curso). Cada materia puede tener varios cursos
+
+## Ej 9 Sumatoria de n dados
+me pasan na suma y un numero de dados. tengo que dvolver todas las combinaciones posibles para que esos dos dados sumen eso

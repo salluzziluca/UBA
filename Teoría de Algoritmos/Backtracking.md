@@ -126,3 +126,5 @@ Si llenara todo de unos, despues todo de dos, despues todo de 3... ...despues to
 
 
 Para hacerlo con **backtracking** agarro un cuadrado y me fijo si por fila, columna y cuadrante puedo poner un 1. Luego voy a otro casillero y chequeo por las mismas 3 variables, pero teniendo el cuenta el numero anterior. Es muuuy ineficiente porque tengo que podar varias veces.
+
+Puedo pe

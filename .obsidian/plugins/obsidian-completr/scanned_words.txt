@@ -1510,6 +1510,7 @@ sigoo
 servir
 ssu
 ses
+sii
 par
 por
 punto
@@ -1858,6 +1859,7 @@ podamos
 probe
 pruebo
 pintar
+permutacion
 la
 las
 le
@@ -2336,6 +2338,7 @@ adyacentes
 arista
 aristas
 atras
+adyacencia
 hardware
 heap
 hay
@@ -4370,6 +4373,7 @@ matrices
 machine
 moviendonos
 meter
+matriz
 tien
 tiene
 todos
@@ -4787,6 +4791,8 @@ interrelacion
 ing
 ilike
 indices
+isomorfismos
+isomorficos
 fijo
 file
 fork

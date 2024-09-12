@@ -122,4 +122,5 @@ Dado un grafo de k colores diferentes, es posible pintar los vertices de tal for
 
 ## Ej5 Sudoku
 ![[Pasted image 20240912103540.png]]
-Si llenara todo de unos, despues todo de dos, despues todo de 3... ...despues todo de unos menos una casilla a la qu
+Si llenara todo de unos, despues todo de dos, despues todo de 3... ...despues todo de unos menos una casilla a la que le pongo un 2, despues todo de unos menos una casilla a la que le pongo un 3... Seria fuerza bruta
+Para hacerlo con backtracking agarro un cuadrado y me fijo si por fila, columna y cuadrante puedo poner un 1. Luego voy a otro casi

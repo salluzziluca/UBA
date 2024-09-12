@@ -133,3 +133,4 @@ Y para resolverlo hago COLOREO CON 9 COLORES LESFUKINGOOO
 
 ## Ej6
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeJSGYf8qEjnuThb1oRCbvO4HwqRC7LGOUpULBu3nEEAPYnPm3QBPYxJYLaMQbSpDt4cyD3ItV608oG8vZwF0E5XuIv6DmWp_Aa5JvEAFcxXGY7soAfUVdNo-5ziXE65O9zbkIHbWMXn1s0cvw-4xnfoqo-PQk=s2048?key=gKqW96ITNxjx2HmFvGD60A)**
+Esto es muy parecido a un [[camin]]

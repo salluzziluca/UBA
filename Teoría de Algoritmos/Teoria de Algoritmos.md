@@ -6,3 +6,4 @@
 [[División y Conquista]]
 [[Teorema Maestro general]]
 [[Algoritmos Greedy]]
+[[Backtracking]]

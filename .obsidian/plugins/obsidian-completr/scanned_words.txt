@@ -576,6 +576,16 @@ carrera
 conocidos
 continuos
 cmplejidad
+combinatorio
+combinaci
+construimos
+camino
+comerse
+coloreo
+colores
+color
+coloreados
+colorear
 de
 dispositivos
 del
@@ -846,6 +856,7 @@ disjuntas
 disjuncion
 declarativo
 definen
+desmarcando
 gestion
 gran
 guarda
@@ -952,6 +963,9 @@ gerentes
 gerenteDepartamento
 generalizacion
 grabadas
+guardar
+grafo
+grafos
 especifico
 entra
 en
@@ -1244,6 +1258,7 @@ esas
 enteras
 entidads
 espectral
+elegir
 servicios
 son
 su
@@ -1486,6 +1501,15 @@ sql
 segundos
 spark
 suben
+soluciones
+solucion
+soluci
+suele
+sigo
+sigoo
+servir
+ssu
+ses
 par
 por
 punto
@@ -1828,6 +1852,12 @@ parcial
 proveedor
 posgrado
 previos
+probar
+permutaciones
+podamos
+probe
+pruebo
+pintar
 la
 las
 le
@@ -1992,6 +2022,9 @@ lados
 legajo
 lculo
 learning
+lido
+lida
+llamo
 agnosticos
 apps
 al
@@ -2297,6 +2330,12 @@ agregaci
 ademe
 ademas
 avanzado
+atr
+aca
+adyacentes
+arista
+aristas
+atras
 hardware
 heap
 hay
@@ -2414,6 +2453,7 @@ habitaciones
 heur
 horario
 horas
+hamiltoniano
 que
 queda
 quien
@@ -2740,6 +2780,7 @@ SIrve
 SQL
 Sql
 Slack
+Set
 Calls
 Cmabia
 CPU
@@ -3268,6 +3309,9 @@ recomendable
 rompe
 romper
 reentrega
+retrocedo
+reinas
+reina
 operacion
 orden
 operaciones
@@ -3394,6 +3438,7 @@ ouA
 oO
 oscars
 opcional
+opciones
 nombre
 nuevo
 nica
@@ -3522,6 +3567,7 @@ null
 nombreclub
 numtero
 normalizacion
+ninunga
 via
 vuelve
 viven
@@ -3663,6 +3709,17 @@ validar
 validad
 vender
 vistas
+volvemos
+vuelvo
+veo
+vuelto
+visitados
+visitarlo
+vuelta
+variacion
+vertgices
+vertices
+voy
 Application
 API
 Asigna
@@ -3784,6 +3841,8 @@ Alumnos
 Administrativa
 AVA
 AVE
+Avanzo
+Arranco
 Programming
 Procesos
 Partes
@@ -3916,6 +3975,8 @@ Pasaje
 Porque
 Padr
 Pandas
+Pruebo
+PERO
 Interface
 ID
 Instructions
@@ -4024,6 +4085,7 @@ IRF
 IUU
 Insercion
 INTERVAL
+Independent
 Un
 UNIX
 UBA
@@ -4306,6 +4368,8 @@ modifico
 mat
 matrices
 machine
+moviendonos
+meter
 tien
 tiene
 todos
@@ -4508,6 +4572,9 @@ totales
 trabajamos
 tabular
 tps
+termino
+tampoco
+tengan
 inico
 interna
 infro
@@ -4866,6 +4933,7 @@ futbolista
 fecha
 fuerte
 factorizacion
+falta
 Nombre
 Notas
 Not
@@ -4940,6 +5008,7 @@ NG
 NOc
 NY
 NN
+NxN
 File
 For
 Funcion
@@ -5031,6 +5100,7 @@ Fp
 Ft
 FYH
 FK
+Fuerza
 Descriptors
 Descriptor
 Devuelve
@@ -5149,6 +5219,7 @@ Definiton
 DDL
 DATE
 DVS
+Debo
 Memoria
 Multivariada
 MORE
@@ -5372,6 +5443,8 @@ TIME
 TIMESTAMP
 TimeZone
 Teoricas
+Tablero
+True
 Realiza
 REgistrys
 Rango
@@ -5484,6 +5557,7 @@ Restriciones
 Restrccion
 Resumen
 REsumen
+Reinas
 bien
 by
 be
@@ -5625,6 +5699,7 @@ bill
 borro
 borrame
 basado
+bruta
 will
 words
 with
@@ -5776,6 +5851,8 @@ VB
 Vp
 VARCHAR
 Visualizacion
+Voy
+Verifico
 OPTIONS
 Operativos
 Orden
@@ -5844,6 +5921,7 @@ ObzzZD
 Oy
 Ow
 Operaciones
+Ordenamiento
 ya
 yo
 yM
@@ -6222,6 +6300,7 @@ Bcn
 BsAs
 Binarias
 Between
+Backtracking
 XY
 Xg
 XQG
@@ -6478,6 +6557,8 @@ QyJ
 QCaa
 QoEI
 Qh
+QUiero
+Quiero
 ximo
 xito
 xitos

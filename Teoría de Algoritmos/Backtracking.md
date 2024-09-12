@@ -127,4 +127,6 @@ Si llenara todo de unos, despues todo de dos, despues todo de 3... ...despues to
 
 Para hacerlo con **backtracking** agarro un cuadrado y me fijo si por fila, columna y cuadrante puedo poner un 1. Luego voy a otro casillero y chequeo por las mismas 3 variables, pero teniendo el cuenta el numero anterior. Es muuuy ineficiente porque tengo que podar varias veces.
 
-Puedo pe
+Puedo pensarlo con grafos
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc5JM4I4822Il0z7PQkQc0GBFBDjfAGJ4DYicbTCxl43ISQI46Uq3DA4dbTymO9xSK8UV4CdECqpkPUtYpBNPk5et4pp8KoKeID9Zq4-UBJ7e3l0a19P-0ZnMXrgEgAZ2kLehSdB_s581IRjUHBviZ060yBRJM5=s2048?key=gKqW96ITNxjx2HmFvGD60A)**
+Y para resolverlo hago COLOREO CON 9 COLORES LESFUKINGOOO

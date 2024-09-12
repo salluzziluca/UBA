@@ -169,6 +169,7 @@ Lyv
 Lka
 Lenguaje
 Language
+LESFUKINGOOO
 capa
 controlado
 cantidad
@@ -586,6 +587,13 @@ colores
 color
 coloreados
 colorear
+casilla
+cuadrado
+columna
+cuadrante
+casillero
+chequeo
+conectando
 de
 dispositivos
 del
@@ -1860,6 +1868,11 @@ probe
 pruebo
 pintar
 permutacion
+pongo
+podar
+pensarlo
+parecido
+pasan
 la
 las
 le
@@ -2027,6 +2040,7 @@ learning
 lido
 lida
 llamo
+llenara
 agnosticos
 apps
 al
@@ -2339,6 +2353,8 @@ arista
 aristas
 atras
 adyacencia
+agarro
+adaptar
 hardware
 heap
 hay
@@ -2784,6 +2800,8 @@ SQL
 Sql
 Slack
 Set
+Sudoku
+Seria
 Calls
 Cmabia
 CPU
@@ -2914,6 +2932,9 @@ Claves
 Consulta
 Conocimientos
 Clases
+COLOREO
+CON
+COLORES
 Es
 El
 Estos
@@ -3315,6 +3336,7 @@ reentrega
 retrocedo
 reinas
 reina
+reconstruir
 operacion
 orden
 operaciones
@@ -3723,6 +3745,7 @@ variacion
 vertgices
 vertices
 voy
+vertice
 Application
 API
 Asigna
@@ -3980,6 +4003,7 @@ Padr
 Pandas
 Pruebo
 PERO
+Planteo
 Interface
 ID
 Instructions
@@ -4374,6 +4398,7 @@ machine
 moviendonos
 meter
 matriz
+muuuy
 tien
 tiene
 todos
@@ -4579,6 +4604,8 @@ tps
 termino
 tampoco
 tengan
+tablero
+tablreo
 inico
 interna
 infro
@@ -4793,6 +4820,7 @@ ilike
 indices
 isomorfismos
 isomorficos
+ineficiente
 fijo
 file
 fork
@@ -4940,6 +4968,7 @@ fecha
 fuerte
 factorizacion
 falta
+fila
 Nombre
 Notas
 Not
@@ -5706,6 +5735,7 @@ borro
 borrame
 basado
 bruta
+backtracking
 will
 words
 with

@@ -136,3 +136,8 @@ Y para resolverlo hago COLOREO CON 9 COLORES LESFUKINGOOO
 Esto es muy parecido a un [[Grafos Hamiltonianos|camino hamiltoneano]]. Pero tenemos que adaptar el problema a un grafo. Planteo entonces que cada casilla del tablero es un vertice.
 
 Entonces cuando nos pasan el tablero creamos el grafo (conectando las aristas adyacentes) luego uso el algoritmo de camino hamiltoniano y despues reconstruir el tablreo
+
+
+
+## EJ7 isomorfismos
+para ver si dos g

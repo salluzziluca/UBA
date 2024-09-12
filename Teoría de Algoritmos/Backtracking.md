@@ -147,3 +147,5 @@ Se tiene un alista de materias que deben ser cursada s en el mismo cuatri. Cada 
 ## Ej 9 Sumatoria de n dados
 me pasan na suma y un numero de dados. tengo que dvolver todas las combinaciones posibles para que esos dos dados sumen eso
 Por ejemplo, con n = 2 y s = 7, debe devolver $[1, 6] [2, 5] [3, 4] [4, 3] [5, 2]$ [6, 1].
+
+Si me dan 2 dados, me piden de suma 5 y saco en el dado 1 6, podo, ya no voy a llegar a 5 poor  esa rama

@@ -135,4 +135,4 @@ Y para resolverlo hago COLOREO CON 9 COLORES LESFUKINGOOO
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeJSGYf8qEjnuThb1oRCbvO4HwqRC7LGOUpULBu3nEEAPYnPm3QBPYxJYLaMQbSpDt4cyD3ItV608oG8vZwF0E5XuIv6DmWp_Aa5JvEAFcxXGY7soAfUVdNo-5ziXE65O9zbkIHbWMXn1s0cvw-4xnfoqo-PQk=s2048?key=gKqW96ITNxjx2HmFvGD60A)**
 Esto es muy parecido a un [[Grafos Hamiltonianos|camino hamiltoneano]]. Pero tenemos que adaptar el problema a un grafo. Planteo entonces que cada casilla del tablero es un vertice.
 
-Entonces cuando nos pasan el tablero creamos el grafo (conectando las aristas adyacentes) luego p
+Entonces cuando nos pasan el tablero creamos el grafo (conectando las aristas adyacentes) luego uso el algoritmo de camino hamiltoniano y despues reconstruir el tablreo

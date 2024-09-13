@@ -13,3 +13,4 @@ Priemera enseñanza: No seas boludo *o7*
 [[Marco Cynefin]]
 [[Arquitectura]]
 [[Atributos de Calidad]]
+[[Product Discovery]]

@@ -1,4 +1,4 @@
-> Un clique es un subgrafo completo
+> Un clique es un [[Grafos|subgrafo]] completo
 
 ej: Un 3 clique implica un subgrafo completo de 3 vertices
 ![[clique]]

@@ -655,6 +655,7 @@ combinamos
 conexas
 cover
 cubiertos
+clique
 de
 dispositivos
 del
@@ -1681,6 +1682,7 @@ structure
 servicio
 sumatoria
 salen
+subgrafo
 par
 por
 punto
@@ -4218,6 +4220,7 @@ Algo
 ANALIZAR
 ACTUAR
 Aca
+ABC
 Programming
 Procesos
 Partes

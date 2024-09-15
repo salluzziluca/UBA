@@ -174,6 +174,7 @@ Legibilidad
 Liberar
 Layers
 Layer
+Lemma
 capa
 controlado
 cantidad
@@ -646,6 +647,12 @@ corro
 concretas
 comunicar
 conecte
+conectan
+cualquiera
+clico
+ciclos
+combinamos
+conexas
 de
 dispositivos
 del
@@ -945,6 +952,11 @@ dependencias
 darle
 desacoplar
 debuggear
+dirigido
+dirigidos
+denso
+disperso
+diagonal
 gestion
 gran
 guarda
@@ -1060,6 +1072,8 @@ gido
 grupos
 gurdado
 guarde
+grados
+guardamos
 especifico
 entra
 en
@@ -1382,6 +1396,9 @@ explota
 especificos
 empathy
 escalar
+entoces
+empezando
+entran
 servicios
 son
 su
@@ -1660,6 +1677,8 @@ sencillo
 spotify
 structure
 servicio
+sumatoria
+salen
 par
 por
 punto
@@ -2060,6 +2079,9 @@ prod
 partida
 pedacitos
 pipes
+penalizacion
+poseen
+paradas
 la
 las
 le
@@ -2240,6 +2262,9 @@ llueve
 lovable
 layer
 levantar
+lazo
+ltiples
+lazos
 agnosticos
 apps
 al
@@ -2576,6 +2601,10 @@ armando
 architecture
 afuera
 algunos
+aritas
+ac
+agrupan
+articulaci
 hardware
 heap
 hay
@@ -2695,6 +2724,7 @@ horario
 horas
 hamiltoniano
 horarios
+hMdCMdpu
 que
 queda
 quien
@@ -2896,6 +2926,9 @@ unitarios
 usualmente
 usable
 utilizable
+unidireccional
+utiles
+uLYFdk
 System
 Son
 Source
@@ -3036,6 +3069,7 @@ Simplicidad
 Self
 Sintomas
 Seguramente
+SCgXQB
 Calls
 Cmabia
 CPU
@@ -3183,6 +3217,12 @@ Caotico
 Calidad
 Conocernos
 Casos
+Clasificaci
+Camino
+CUALQUIERA
+Componente
+Conexa
+Conjunto
 Es
 El
 Estos
@@ -3613,6 +3653,10 @@ repositorio
 repositorios
 requeridos
 restaurants
+rtices
+rtice
+registra
+respetamos
 operacion
 orden
 operaciones
@@ -3746,6 +3790,7 @@ observacion
 oportunidades
 obtienen
 oraciones
+odenado
 nombre
 nuevo
 nica
@@ -4317,6 +4362,8 @@ Pipe
 Personas
 Pasamos
 POdria
+Pasando
+Puntos
 Interface
 ID
 Instructions
@@ -4510,6 +4557,7 @@ Usabilidad
 Usar
 Uno
 Usuario
+Utilizaci
 modo
 mode
 menso
@@ -4741,6 +4789,9 @@ monolitica
 mensajeria
 malo
 micro
+maximo
+mxn
+marcamos
 tien
 tiene
 todos
@@ -4965,6 +5016,10 @@ tocar
 test
 tenes
 toco
+transitar
+tiende
+terminando
+toque
 inico
 interna
 infro
@@ -5205,6 +5260,10 @@ incrementado
 inversion
 inyectan
 implenetaciones
+impar
+incidencia
+identificamos
+inciden
 fijo
 file
 fork
@@ -5799,6 +5858,7 @@ Multidisciplinario
 Minimum
 Microservices
 Micro
+Matriz
 Table
 Todos
 This
@@ -5924,6 +5984,7 @@ Thinking
 Toda
 Tantas
 Tecnica
+Todas
 Realiza
 REgistrys
 Rango
@@ -6046,6 +6107,7 @@ Riesgos
 Reduce
 Relaciones
 Resultados
+Representaciones
 bien
 by
 be
@@ -6200,6 +6262,8 @@ balanceador
 boton
 browse
 bajas
+bidireccionales
+bipartito
 will
 words
 with
@@ -6357,6 +6421,7 @@ Verifico
 Vistas
 Vista
 Validating
+Vertices
 OPTIONS
 Operativos
 Orden
@@ -6714,6 +6779,9 @@ GC
 Gx
 Gradescope
 Grady
+Grafo
+Grafos
+Grado
 BX
 Bit
 Box
@@ -6814,6 +6882,7 @@ Brainstorming
 Bocetos
 Beneficios
 Broker
+Borra
 XY
 Xg
 XQG
@@ -6938,6 +7007,7 @@ Hago
 HICISTE
 Hacer
 Hexagonal
+Handshaking
 Jacobiano
 Job
 Jusitfique
@@ -7271,6 +7341,7 @@ ZH
 Zvc
 ZR
 ZYCw
+ZAcvAQX
 zZ
 za
 zR

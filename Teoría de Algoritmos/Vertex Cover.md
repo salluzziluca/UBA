@@ -3,7 +3,7 @@ El vertex cover en un grafo es un subconjunto de vertices tal que podemos llegar
 Aca el minimmum vertex cover es de 2- Con esos dos tengo todos los vertices cubiertos
 
 
-minimmum vertex cover en python
+minimmum vertex cover en python utilizando [[Backtracking]]
 
 ```python
 def obtener_aristas(grafo):

@@ -653,6 +653,8 @@ clico
 ciclos
 combinamos
 conexas
+cover
+cubiertos
 de
 dispositivos
 del
@@ -4085,6 +4087,7 @@ vias
 viene
 viable
 version
+vertex
 Application
 API
 Asigna
@@ -4214,6 +4217,7 @@ Aun
 Algo
 ANALIZAR
 ACTUAR
+Aca
 Programming
 Procesos
 Partes
@@ -4792,6 +4796,7 @@ micro
 maximo
 mxn
 marcamos
+minimmum
 tien
 tiene
 todos

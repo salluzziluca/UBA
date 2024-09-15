@@ -1,0 +1,1 @@
+El vertex cover en un grafo es un subconjunto de aristas tal que podemos llegar a todos sus vertices que

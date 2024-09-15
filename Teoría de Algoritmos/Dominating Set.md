@@ -4,4 +4,4 @@ Un set dominante (Dominating Set) de un grafo G es un subconjunto **D** de vé
 o bien (ii) es _adyacente a un vértice en D_.
 
 ![[Pasted image 20240915145220.png]]
-En esos 3 casos puedo acceder a t
+En esos 3 casos puedo acceder a todos los vertices mediante mi dominating set

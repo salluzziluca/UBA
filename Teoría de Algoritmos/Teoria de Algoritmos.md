@@ -8,3 +8,4 @@
 [[Algoritmos Greedy]]
 [[Backtracking]]
 [[Vertex Cover]]
+[[Dominating Set]]

@@ -29,9 +29,20 @@ Unifor resource iidentifier
 Identificacion univica de recursos con cadenas de carateres 
 Identifica los recursos por clase o tipo
 Uso de sustantivos en prular por convencion (NO VERBOS)
-● Distinción de recursos principales y subordinados
+Distinción de recursos principales y subordinados
 
 
 /clientes 
 /clietnes?nombre=juan (clientes con nombre juan)
 clientes/1/compras (las compras del cliente de ID = 1)
+
+
+## Verbvos HTTP 
+- GET: solicita una representación de un recurso específico
+- POST: se utiliza para enviar una entidad a un recurso en específico
+- DELETE: borra un recurso en específico
+- PUT: reemplaza todas las representaciones actuales del recurso de destino con la carga útil
+de la petición
+- PATCH: aplica modificaciones parciales a un recurso (a diferencia de PUT)
+- OPTIONS: es utilizado para describir las opciones de comunicación para el recurso de
+destino

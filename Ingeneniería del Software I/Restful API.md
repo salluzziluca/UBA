@@ -47,4 +47,16 @@ de la petición (modificar)
 - OPTIONS: es utilizado para describir las opciones de comunicación para el recurso de
 destino
 
-## HTTP
+## HTTP status codes - Responses
+- 1xx: Informational
+ - 2xx: Success
+- 3xx: Redirection
+ - 4xx: Client Error
+- 5xx: Server Error
+
+200 - OK
+201 - Created (con el location en el header)
+400 - Bad Request
+401 - Authorization Required
+404 - Not Found
+405 - Method Not Allowed

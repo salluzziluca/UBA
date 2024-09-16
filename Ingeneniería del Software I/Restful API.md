@@ -21,4 +21,4 @@ Se promueve el uso de tokens por seguiridad
 
 
 ## Cacheable 
-El metodo mas sencillo para mejorar la performance. Si se utiliza mucho la misma respuesta, la cacheo. Utilizando etiquetas en los headers para saber si es cacheable
+El metodo mas sencillo para mejorar la performance. Si se utiliza mucho la misma respuesta, la cacheo. Utilizando etiquetas en los headers para saber si es cacheable, por cuanto tiempo, etc

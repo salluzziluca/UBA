@@ -60,3 +60,20 @@ destino
 401 - Authorization Required
 404 - Not Found
 405 - Method Not Allowed
+408 - Request Time-Out
+409 - Conflict
+422 - Unprocessable Entity
+500 - Internal Server Error
+502 - Bad Gateway
+504 - Gateway Time-Out
+
+## REST Security Desing Principles 
+- Least Privilege: Tener el menor privilegio requerido para hacer las acciones.
+- Fail-Safe Defaults: Por defecto no tener acceso a los recursos
+- Complete Mediation: El sistema debe validar los permisos de acceso a todos los recursos
+- Keep it Simple
+- Https
+- Password Hashes: (PBKDF2, bcrypt, y scrypt)
+- Never expose information on URLs: Usernames, passwords, session tokens, y API keys deberían no aparecer en la URL para evitar ser logueadas en los logs de web server logs
+- Considerar agregar Timestamp en los requests.
+- Validación de los parámetros de entrada

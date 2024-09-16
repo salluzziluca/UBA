@@ -96,3 +96,5 @@ Es como una tarjetita de seguridad, con eso podes ir a otros servicios que neces
 delego la autenticacion a un sv de tercero, por ejemplo, google.
 
 ![[Pasted image 20240916203902.png]]
+
+## Autenticacion y autorizacion JWT

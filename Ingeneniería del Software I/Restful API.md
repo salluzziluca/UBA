@@ -91,4 +91,5 @@ Es un token que el cliente provee cuando hace la llamada
 
 La gracia es que solo el cliente y el SV la saben 
 ### Bearer Authentication 
+Es como una tarje
 ### OAuth

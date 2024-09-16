@@ -19,7 +19,7 @@ itero n veces, en cada iteración me voy acercando mas y mas a la raiz. Converge
 
 
 Para saber al cantidad de iteraciones que tengo que hacer segun el error:
-$$k+1>\frac{\ln() b_{0}-a_{0}/Error)}{\ln(2)})$$
+$$k+1>\frac{\ln( b_{0}-a_{0}/Error)}{\ln(2)}$$
 
 ![[Pasted image 20240904114851.png]]
 

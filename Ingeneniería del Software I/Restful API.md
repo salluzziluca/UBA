@@ -10,3 +10,9 @@ Se utiliza en arquitecturas cliente-servidor
 El servidor es stateless. Evitar que el servidor tenga que guardar sessions IDs del cliente, hacer que el cliente se encargue de sus sesiones. 
 Es cacheable.
 Expone recursos (URIs)
+Utiliza los vervos HTTP (get, post, put)
+Es navegable (por ahi una respuesta nos da una url a otro recurso para seguir navegando)
+
+## Stateless
+Cada request se ejecute de forma independiente del resto 
+C

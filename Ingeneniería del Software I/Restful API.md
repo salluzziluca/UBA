@@ -26,4 +26,9 @@ El metodo mas sencillo para mejorar la performance. Si se utiliza mucho la misma
 
 ## URIs 
 Unifor resource iidentifier
-Identificacion univica de recu
+Identificacion univica de recursos con cadenas de carateres 
+
+
+/clientes 
+/clietnes?nombre=juan (clientes con nombre juan)
+clientes/1/compras (las compras del cliente de ID = 1)

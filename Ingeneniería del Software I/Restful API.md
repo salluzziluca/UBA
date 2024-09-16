@@ -46,3 +46,5 @@ de la petición (modificar)
 - PATCH: aplica modificaciones parciales a un recurso (a diferencia de PUT)
 - OPTIONS: es utilizado para describir las opciones de comunicación para el recurso de
 destino
+
+## HTTP

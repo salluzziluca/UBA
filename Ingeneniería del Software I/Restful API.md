@@ -78,4 +78,10 @@ destino
 - Considerar agregar Timestamp en los requests.
 - Validación de los parámetros de entrada
 - Monitorear transacciones sospechosas. Si se me rompe algo y empiezo a tirar request a lo loco con una API paga puedo llegar a cagarla (tema guita)
-## Auth
+## Auth 
+### basic auth
+
+encodea en base64 user:password
+ - API Keys
+ - Bearer Authentication 
+ - OAuth

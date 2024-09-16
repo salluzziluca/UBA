@@ -82,6 +82,9 @@ destino
 ### basic auth
 
 encodea en base64 user:password
- - API Keys
- - Bearer Authentication 
- - OAuth
+![[Pasted image 20240916201943.png]]
+Es facilmente decodificable, se debe usar con un https/sll
+### API Keys
+
+### Bearer Authentication 
+### OAuth

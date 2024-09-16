@@ -87,6 +87,8 @@ Es facilmente decodificable, se debe usar con un https/sll
 ### API Keys
 Es un token que el cliente provee cuando hace la llamada
 
+![[Pasted image 20240916202848.png]]
 
+La gracia es que solo el cliente y el SV la saben 
 ### Bearer Authentication 
 ### OAuth

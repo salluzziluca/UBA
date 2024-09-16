@@ -98,3 +98,5 @@ delego la autenticacion a un sv de tercero, por ejemplo, google.
 ![[Pasted image 20240916203902.png]]
 
 ## Autenticacion y autorizacion JWT
+El token se genera en el primero paso. Se hacer un post /token{user;"", pass:""}
+y la respuesta es eltoken. Esta credencial viaja una vez. En token no se almacena del lado del 

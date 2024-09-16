@@ -656,6 +656,12 @@ conexas
 cover
 cubiertos
 clique
+cuyo
+correctos
+converja
+convergencia
+cuadr
+convergera
 de
 dispositivos
 del
@@ -960,6 +966,11 @@ dirigidos
 denso
 disperso
 diagonal
+denominaremos
+dijitos
+duplica
+division
+despejando
 gestion
 gran
 guarda
@@ -1402,6 +1413,8 @@ escalar
 entoces
 empezando
 entran
+exista
+evalua
 servicios
 son
 su
@@ -2270,6 +2283,7 @@ levantar
 lazo
 ltiples
 lazos
+llamaremos
 agnosticos
 apps
 al
@@ -2610,6 +2624,10 @@ aritas
 ac
 agrupan
 articulaci
+acercando
+absoluto
+aprocimar
+aproximo
 hardware
 heap
 hay
@@ -2730,6 +2748,7 @@ horas
 hamiltoniano
 horarios
 hMdCMdpu
+hallar
 que
 queda
 quien
@@ -3075,6 +3094,8 @@ Self
 Sintomas
 Seguramente
 SCgXQB
+SIendo
+Sucesion
 Calls
 Cmabia
 CPU
@@ -3228,6 +3249,10 @@ CUALQUIERA
 Componente
 Conexa
 Conjunto
+Consite
+Converge
+Consiste
+Condiciones
 Es
 El
 Estos
@@ -3341,6 +3366,8 @@ Empatizar
 Enmarcar
 EXPERIMENTAR
 Earlist
+Evaluamos
+Error
 kernel
 kt
 kU
@@ -3662,6 +3689,8 @@ rtices
 rtice
 registra
 respetamos
+raiz
+resolviendo
 operacion
 orden
 operaciones
@@ -3931,6 +3960,7 @@ nuestras
 nuevos
 necesite
 necesitas
+newton
 via
 vuelve
 viven
@@ -4222,6 +4252,7 @@ ANALIZAR
 ACTUAR
 Aca
 ABC
+AKA
 Programming
 Procesos
 Partes
@@ -4372,6 +4403,7 @@ Pasamos
 POdria
 Pasando
 Puntos
+PRoblemas
 Interface
 ID
 Instructions
@@ -4566,6 +4598,7 @@ Usar
 Uno
 Usuario
 Utilizaci
+Usamos
 modo
 mode
 menso
@@ -5029,6 +5062,9 @@ transitar
 tiende
 terminando
 toque
+termiinos
+taylor
+tangente
 inico
 interna
 infro
@@ -5273,6 +5309,8 @@ impar
 incidencia
 identificamos
 inciden
+itero
+iteraci
 fijo
 file
 fork
@@ -5515,6 +5553,7 @@ Nombres
 Notaciones
 Nombrar
 Necesita
+Newton
 File
 For
 Funcion
@@ -6117,6 +6156,9 @@ Reduce
 Relaciones
 Resultados
 Representaciones
+Rawson
+Raphson
+Rapshon
 bien
 by
 be
@@ -6273,6 +6315,7 @@ browse
 bajas
 bidireccionales
 bipartito
+burden
 will
 words
 with
@@ -6892,6 +6935,7 @@ Bocetos
 Beneficios
 Broker
 Borra
+Bisecci
 XY
 Xg
 XQG

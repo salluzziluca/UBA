@@ -77,3 +77,5 @@ destino
 - Never expose information on URLs: Usernames, passwords, session tokens, y API keys deberían no aparecer en la URL para evitar ser logueadas en los logs de web server logs
 - Considerar agregar Timestamp en los requests.
 - Validación de los parámetros de entrada
+- Monitorear transacciones sospechosas. Si se me rompe algo y empiezo a tirar request a lo loco con una API paga puedo llegar a cagarla (tema guita)
+## Auth

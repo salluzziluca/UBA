@@ -15,4 +15,10 @@ Es navegable (por ahi una respuesta nos da una url a otro recurso para seguir na
 
 ## Stateless
 Cada request se ejecute de forma independiente del resto 
-C
+Cada req contieen toda la info necesaria para completarse
+La api no matiene sesion
+Se promueve el uso de tokens por seguiridad
+
+
+## Cacheable 
+El metodo mas sencillo para mejorar la performance. Si se utiliza mucho la misma respuesta, la cacheo. 

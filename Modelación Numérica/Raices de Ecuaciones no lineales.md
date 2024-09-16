@@ -13,6 +13,7 @@ SIendo $a_1 = a$ y $b_{1} = b$
 Evaluamos f(p1) y puede pasar que $f(p_{1}).f(a_{1})=0$. En cuyo caso p_1 es la raiz
 si $f(p_{1}).f(a_{1})>0$. Definimos al intervalo $[a_{2}, b_{2}]=[p_{1}, b_{1}]$
 si $f(p_{1}).f(a_{1})<0$. Definimos al intervalo $[a_{2}, b_{2}]=[a_{1}, p_{1}]$
+si es 0 que pasa?
 ![[Pasted image 20240904113611.png]]
 
 itero n veces, en cada iteración me voy acercando mas y mas a la raiz. Converge a esa unica raiz de f(x) entre a y b.

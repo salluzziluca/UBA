@@ -6,3 +6,7 @@ Surge de la tesis de Roy Fielding en el 2000. Significa representational State T
 
 Se presenta en 3 niveles de madurez. 
 
+Se utiliza en arquitecturas cliente-servidor 
+El servidor es stateless. Evitar que el servidor tenga que guardar sessions IDs del cliente, hacer que el cliente se encargue de sus sesiones. 
+Es cacheable.
+Expone recursos (URIs)

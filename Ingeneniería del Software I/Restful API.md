@@ -39,10 +39,10 @@ clientes/1/compras (las compras del cliente de ID = 1)
 
 ## Verbvos HTTP 
 - GET: solicita una representación de un recurso específico
-- POST: se utiliza para enviar una entidad a un recurso en específico
+- POST: se utiliza para enviar una entidad a un recurso en específico (para crear)
 - DELETE: borra un recurso en específico
 - PUT: reemplaza todas las representaciones actuales del recurso de destino con la carga útil
-de la petición
+de la petición (modificar)
 - PATCH: aplica modificaciones parciales a un recurso (a diferencia de PUT)
 - OPTIONS: es utilizado para describir las opciones de comunicación para el recurso de
 destino

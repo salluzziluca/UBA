@@ -85,6 +85,8 @@ encodea en base64 user:password
 ![[Pasted image 20240916201943.png]]
 Es facilmente decodificable, se debe usar con un https/sll
 ### API Keys
+Es un token que el cliente provee cuando hace la llamada
+
 
 ### Bearer Authentication 
 ### OAuth

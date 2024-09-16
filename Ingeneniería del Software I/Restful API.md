@@ -27,6 +27,9 @@ El metodo mas sencillo para mejorar la performance. Si se utiliza mucho la misma
 ## URIs 
 Unifor resource iidentifier
 Identificacion univica de recursos con cadenas de carateres 
+Identifica los recursos por clase o tipo
+Uso de sustantivos en prular por convencion (NO VERBOS)
+● Distinción de recursos principales y subordinados
 
 
 /clientes 

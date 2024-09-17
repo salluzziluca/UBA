@@ -104,3 +104,4 @@ y la respuesta es eltoken. Esta credencial viaja una vez. En token no se almacen
 cualquiera puede leer su contenido, pero si no se conoce su clave privada no puede ser modificado (porque cuando el sv reciba de nuevo el JWT se va a dar cuenta de que algo está mal)
 
 ![[Pasted image 20240916210849.png]]
+![[Pasted image 20240916211007.png]]

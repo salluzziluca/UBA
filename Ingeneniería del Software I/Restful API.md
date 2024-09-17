@@ -100,3 +100,5 @@ delego la autenticacion a un sv de tercero, por ejemplo, google.
 ## Autenticacion y autorizacion JWT
 El token se genera en el primero paso. Se hacer un post /token{user;"", pass:""}
 y la respuesta es eltoken. Esta credencial viaja una vez. En token no se almacena del lado del server para validar. Si el sv lo recibe en algun momento él puede chequear que lo envio, si esta firmado por el (si alguien lo modifica esa firma se sobreescribe) ya sabe que estas bien autenticado.y si ![[Pasted image 20240916205335.png]]
+
+cualquiera puede leer su contenido

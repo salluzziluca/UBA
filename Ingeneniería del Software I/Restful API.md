@@ -108,4 +108,4 @@ cualquiera puede leer su contenido, pero si no se conoce su clave privada no pue
 
 
 ## Refresh token 
-Los acces token tienen tiempo limitado de vida 
+Los acces token tienen tiempo limitado de vida. Es una cred que permite obtner nuevos tokens sin necesidad de que te vuelvas a logear. Cuando se vence la credencial se reenvia el resfresh 

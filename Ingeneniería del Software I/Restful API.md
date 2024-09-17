@@ -124,3 +124,8 @@ Rest no provee mecanidsmo para versuionado per se suelen ver estas estrategias:
 - Usando el Header Accept:
 	`Accept: application/vnd.example.v1+json
 	`Accept: application/vnd.example+json;version=1.
+
+# Respuestas 
+Mantenerlas lo mas estandarizads posibles
+Reducir el tamaño de la respuesta a lo necesario 
+Utilizar codigo de errores HTTP

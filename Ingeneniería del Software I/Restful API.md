@@ -105,3 +105,7 @@ cualquiera puede leer su contenido, pero si no se conoce su clave privada no pue
 
 ![[Pasted image 20240916210849.png]]
 ![[Pasted image 20240916211007.png]]
+
+
+## Refresh token 
+Los acces token tienen tiempo limitado de vida 

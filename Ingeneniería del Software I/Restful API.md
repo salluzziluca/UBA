@@ -129,3 +129,43 @@ Rest no provee mecanidsmo para versuionado per se suelen ver estas estrategias:
 Mantenerlas lo mas estandarizads posibles
 Reducir el tamaño de la respuesta a lo necesario 
 Utilizar codigo de errores HTTP
+
+```json
+HTTP CODE: 401 {
+ "success": false, // solo informativo, el error se define por el HTTP CODE
+ "message": "Invalid email or password",
+ "error_code": 1308,
+ "data": {}
+}
+HTTP CODE: 200 {
+ "success": true,
+ "message": "User logged in successfully", // optional in success responses
+ "data": { }
+}
+```
+ otro 
+ ```json 
+ {
+ "success": true,
+ "message": "User found",
+ "data": {
+ "user": {
+ "id": 2,
+ "name": "Juan",
+ "email": " juan@fi.uba.ar ",
+ "city": {
+ "id": 3,
+ "name": "Buenos Aires",
+ "country": {
+ "id": 2,
+ "name": "Argentina",
+ "code_country": "AR",
+ "avatar": " //localhost:3000/api/v1/country_AR.png ",
+ }
+ }
+ },
+ "role": "client",
+ "favorites": ["blue", "red", "white"]
+ }
+}
+```

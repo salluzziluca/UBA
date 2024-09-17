@@ -169,3 +169,6 @@ HTTP CODE: 200 {
  }
 }
 ```
+
+## Paginados filtros, ordenamientos
+Agregar en el header informacion sobre la data está

@@ -113,3 +113,14 @@ Los acces token tienen tiempo limitado de vida. Es una cred que permite obtner n
 
 # Versionado 
 Rest no provee mecanidsmo para versuionado per se suelen ver estas estrategias: 
+
+- Usando la URI:
+	`https://api.fi.uba.ar/v1`
+	`https://apiv1.fi.uba.ar`
+	`https://api.fi.uba.ar/20211101/`
+- Usando un Custom Header:
+	`Accept-version: v1
+	`Accept-version: v2
+- Usando el Header Accept:
+	`Accept: application/vnd.example.v1+json
+	`Accept: application/vnd.example+json;version=1.

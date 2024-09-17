@@ -171,4 +171,25 @@ HTTP CODE: 200 {
 ```
 
 ## Paginados filtros, ordenamientos
-Agregar en el header informacion sobre la data está
+Agregar en el header informacion sobre la data está bueno
+
+```json 
+{
+ "success": true,
+ "metadata" : {
+"page": 5,
+"per_page": 20,
+"page_count": 20,
+"total_count": 521,
+}
+ "data" : {....}
+}
+```
+
+## Logging, Health, Metrics
+Tener logs, metricas y puntos de controls ayudan a detectar los problemas antes de que realmente lleguen. Se suelen agregar endpoints para verificar o monitorear que la api esta viva, y
+obtener datos de uso de memoria, etc.
+
+/health
+/metrics
+

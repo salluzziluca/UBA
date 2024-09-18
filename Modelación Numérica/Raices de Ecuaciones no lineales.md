@@ -72,3 +72,14 @@ $$I / si \ x \in I \therefore |g'(x)|< 1$$
 Entonces convergera si $x_{0} \in I$ y $x_{1} =g(x_{0}) \in I$
 
 ![[Pasted image 20240909140345.png]]
+
+![[Pasted image 20240917112134.png]]
+
+En criollo, la g(x) tiene que entrar por la izquierda y salir por la derecha, nunca por abajo o por arriba.
+la pendiente de la g'(x) no puede ser mayor a 45 ni menor a -45
+Eso eso seria existencia y unicidad
+
+
+## Método de la secante
+
+$$\LARGE x_{k+1}=x_{k}- \frac{f(x_{k})}{\frac{{f(x_{k})-f(x_{k-1})}}{x_{k}-x_{k-1}}}$$![[Pasted image 20240917113008.png]]

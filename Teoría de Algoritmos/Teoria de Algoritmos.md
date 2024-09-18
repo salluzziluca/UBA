@@ -9,4 +9,5 @@
 [[Backtracking]]
 [[Vertex Cover]]
 [[Dominating Set]]
+[[Programación Dinámica]]
 

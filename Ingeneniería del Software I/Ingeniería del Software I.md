@@ -14,3 +14,4 @@ Priemera enseñanza: No seas boludo *o7*
 [[Arquitectura]]
 [[Atributos de Calidad]]
 [[Product Discovery]]
+[[Katas]]

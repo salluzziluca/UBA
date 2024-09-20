@@ -1502,6 +1502,7 @@ excluir
 ecuaci
 ejercicios
 encuentran
+entrenados
 servicios
 son
 su
@@ -1813,6 +1814,7 @@ superpone
 suposicion
 significativamente
 solucionar
+seguro
 par
 por
 punto
@@ -2255,6 +2257,8 @@ pesos
 permitan
 partir
 pensamos
+praticar
+practicar
 la
 las
 le
@@ -3662,6 +3666,7 @@ km
 kyd
 key
 keys
+karate
 realice
 realicen
 resolve
@@ -3950,6 +3955,7 @@ recurrencia
 reconocer
 resuelto
 resueltos
+regularidad
 operacion
 orden
 operaciones
@@ -4702,6 +4708,7 @@ Poca
 PROGRAMACION
 Pasa
 PRORGAMCAICCSIDOID
+Pensando
 Interface
 ID
 Instructions
@@ -4825,6 +4832,7 @@ Identifica
 Informational
 Internal
 INAMICAAA
+Igual
 Un
 UNIX
 UBA
@@ -5170,6 +5178,7 @@ maximizar
 maximice
 memorioza
 memorizadas
+miedo
 tien
 tiene
 todos
@@ -6994,6 +7003,7 @@ Out
 OAuth
 ODIA
 OPT
+Orientada
 ya
 yo
 yM
@@ -7291,6 +7301,7 @@ Grado
 GET
 Gateway
 Gauss
+Generalization
 BX
 Bit
 Box

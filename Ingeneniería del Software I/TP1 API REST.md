@@ -58,7 +58,8 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 
 ### 6. Seguir a otro user: 
 
-- POST `/api/v1/users/{id}/follow`
+- POST `/api/v1/users/{id}/follow` (anteriormente podriamos obtener el ID de ese user mediante un get con una busqueda. Por ejemplo: `GET /api/v1/users/search?name={nombre}`
+)
 - AUTH: Bearer Token
 - Response: 200 OK si se envió la solicitud de seguimiento 
 

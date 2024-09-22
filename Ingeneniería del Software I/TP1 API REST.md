@@ -5,9 +5,7 @@
 ### 1. Registros de usuarios:
 -  POST: /api/v1/user/registers
 - BODY: 
-  
-  
-  ```json 
+```json
   {
   "email": "email@example.com",
   "password": "password123",
@@ -16,7 +14,7 @@
   "birthdate": "1990-01-01",
   "gender": "male",
   "avatar": "avatar_url"
-}
+  }
 ```
 
 - Response: 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.

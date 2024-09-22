@@ -111,7 +111,7 @@ Response: 200 OK con una lista paginada de pepliculas
     - PUT `/api/v1/admin/categories/{id}`
     - DELETE `/api/v1/admin/categories/{id}`
 4. Gestión de usuarios ADMIN:
-    
-    - POST `/api/v1/admin/users`
-    - PUT `/api/v1/admin/users/{id}`
-    - DELETE `/api/v1/admin/users/{id}`
+    - `POST /api/v1/admin/users`
+    - `PATCH /api/v1/admin/users/{id}`
+    - `DELETE /api/v1/admin/users/{id}`
+    - Response: `201 Created`, `200 OK`, `204 No Content`

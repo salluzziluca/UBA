@@ -1,4 +1,4 @@
-> Una manera de poenr la cpa de servicio para poder ser comunicada por otro proceso 
+> Una manera de poner la capa de servicio para poder ser comunicada por otro proceso 
 
 No es un standard, no es un protocolo, no es un reemplazo de SOAP, no es una biblioteca
 
@@ -37,7 +37,7 @@ Distinción de recursos principales y subordinados
 clientes/1/compras (las compras del cliente de ID = 1)
 
 
-## Verbvos HTTP 
+## Verbos HTTP 
 - GET: solicita una representación de un recurso específico
 - POST: se utiliza para enviar una entidad a un recurso en específico (para crear)
 - DELETE: borra un recurso en específico

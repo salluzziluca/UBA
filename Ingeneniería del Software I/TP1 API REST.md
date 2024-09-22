@@ -34,8 +34,9 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 
 
 ### 3. Ver Perfil 
-- GET: /api/v1/user/me
+- GET: `/api/v1/user/me`
 - AUTH: bearer token 
 - Response: 200 OK con la info del usuario logeado
 
 ### 4. Editar perfil
+-  PUT: `/api/v1/users/me`

@@ -179,6 +179,7 @@ Lemma
 LOS
 Llamemosle
 Logging
+Login
 capa
 controlado
 cantidad
@@ -707,6 +708,8 @@ composici
 credencial
 cred
 controls
+cCI
+credenciales
 de
 dispositivos
 del
@@ -1516,6 +1519,8 @@ estrategias
 example
 estandarizads
 endpoints
+email
+eyJhbGciOiJIUzI
 servicios
 son
 su
@@ -1830,6 +1835,7 @@ solucionar
 seguro
 saben
 sobreescribe
+sesi
 par
 por
 punto
@@ -2276,6 +2282,7 @@ praticar
 practicar
 pass
 privada
+perfil
 la
 las
 le
@@ -2472,6 +2479,8 @@ leementos
 limitado
 logear
 lleguen
+lidos
+logeado
 agnosticos
 apps
 al
@@ -2843,6 +2852,7 @@ autenticado
 acces
 application
 ayudan
+access
 hardware
 heap
 hay
@@ -3635,6 +3645,8 @@ Entity
 Establecemos
 Exploraci
 Eso
+Endpoints
+Editar
 kernel
 kt
 kU
@@ -3988,6 +4000,8 @@ regularidad
 reciba
 reenvia
 resfresh
+registrado
+refresh
 operacion
 orden
 operaciones
@@ -4132,6 +4146,7 @@ optimizaciones
 optimo
 obtner
 ordenamientos
+obiBEb
 nombre
 nuevo
 nica
@@ -4589,6 +4604,7 @@ Asumo
 Autenticacion
 Accept
 Agregar
+AUTH
 Programming
 Procesos
 Partes
@@ -4754,6 +4770,7 @@ Pasa
 PRORGAMCAICCSIDOID
 Pensando
 Paginados
+Perfil
 Interface
 ID
 Instructions
@@ -4878,6 +4895,7 @@ Informational
 Internal
 INAMICAAA
 Igual
+IkpXVCJ
 Un
 UNIX
 UBA
@@ -4971,6 +4989,8 @@ USAR
 Usando
 URI
 Utilizar
+UiLCJpYXQiOjE
+Unauthorized
 modo
 mode
 menso
@@ -5746,6 +5766,9 @@ inductiva
 iterativamente
 impl
 intuici
+inv
+inicien
+incorrectas
 fijo
 file
 fork
@@ -6006,6 +6029,7 @@ Newton
 Nunca
 Never
 Necesitamos
+NiIsInR
 File
 For
 Funcion
@@ -6254,6 +6278,7 @@ Din
 Descomposici
 DONE
 Down
+Descripci
 Memoria
 Multivariada
 MORE
@@ -6381,6 +6406,7 @@ Memoization
 Memorizaci
 Mantenerlas
 Metrics
+MTYyMzkwMj
 Table
 Todos
 This
@@ -6824,6 +6850,7 @@ bottom
 basa
 buenisimo
 basamos
+bearer
 will
 words
 with
@@ -7474,6 +7501,7 @@ Busca
 Bad
 Bearer
 Bottom
+BODY
 XY
 Xg
 XQG
@@ -7604,6 +7632,7 @@ Https
 Hashes
 Header
 Health
+Headers
 Jacobiano
 Job
 Jusitfique

@@ -66,4 +66,9 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 - PUT: `/api/v1/user/{id}/follow-request
 - AUTH: Bearer token
 - Request Body 
-- 
+```json 
+{
+"status": "accepted"//or rejected
+}
+```
+Response: 200 OK, 401 Bad request

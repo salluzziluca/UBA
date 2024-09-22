@@ -5,6 +5,8 @@
 ### 1. Registros de usuarios:
 -  POST: /api/v1/user/registers
 - BODY: 
+  
+  
   ```json 
   {
   "email": "email@example.com",

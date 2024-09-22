@@ -1,8 +1,8 @@
 # API 
 
-#### Endpoints de usuario:
+### Endpoints de usuario:
 
-1. **Registro de usuarios:**
+1. Registro de usuarios:**
     
     - **POST /api/v1/users/register**
     - **Request Body:**
@@ -15,6 +15,8 @@
         
     - **Response:**
         - 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.
+
+****
 Descripción: Permite que los usuarios inicien sesión.
 Request:
 - Headers: `Authorization: Basic {base64(email:password)}`
@@ -28,3 +30,6 @@ Código HTTP: `200 OK
 }
 ```
 Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
+
+
+### v

@@ -51,4 +51,7 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 ```
 - Response: 200OK, 400 Bad Request si hay datos invalidos 
 
-### 5. Eliminar 
+### 5. Eliminar cuenta
+- DELETE: `/api/v1/users/me`
+- AUTH: bearer token
+- Response: 204 No content

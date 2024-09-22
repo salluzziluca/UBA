@@ -710,6 +710,8 @@ cred
 controls
 cCI
 credenciales
+concreto
+content
 de
 dispositivos
 del
@@ -2481,6 +2483,7 @@ logear
 lleguen
 lidos
 logeado
+last
 agnosticos
 apps
 al
@@ -2853,6 +2856,7 @@ acces
 application
 ayudan
 access
+avatar
 hardware
 heap
 hay
@@ -3194,6 +3198,7 @@ univica
 usarlos
 ultima
 utilizarlos
+users
 System
 Son
 Source
@@ -4290,6 +4295,8 @@ navegable
 navegando
 nque
 necesiten
+name
+new
 via
 vuelve
 viven
@@ -5769,6 +5776,7 @@ intuici
 inv
 inicien
 incorrectas
+invalidos
 fijo
 file
 fork
@@ -6279,6 +6287,7 @@ Descomposici
 DONE
 Down
 Descripci
+Doe
 Memoria
 Multivariada
 MORE
@@ -6407,6 +6416,7 @@ Memorizaci
 Mantenerlas
 Metrics
 MTYyMzkwMj
+Model
 Table
 Todos
 This
@@ -7019,6 +7029,7 @@ Verbvos
 Validaci
 Version
 Versionado
+Verbos
 OPTIONS
 Operativos
 Orden
@@ -7698,6 +7709,7 @@ Journeys
 Juan
 Jacobi
 JWT
+John
 Quienes
 Queue
 Quiere

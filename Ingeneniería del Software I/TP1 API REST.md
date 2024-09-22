@@ -124,4 +124,5 @@ Contariamos, entonces, con 3 capas principales
 ## Capa de Presentación (controller layer)
 Aca se gestionaran las solicitudes HTTP, como el login o la busqueda de peliculas. Los diferentes controladores recibiran las peticiones y las enviaran mediante los endpoints declarados anteriormente a la capa de negocio.
 
-## Capa de negocio.
+## Capa de negocio 
+Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer cuando un user califica una pelicula o cuando otro usuario lo sigue. Podriamos tener dos hilos principales corriendo. UserService y MovieService que se encarguen de los 

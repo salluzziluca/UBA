@@ -40,3 +40,15 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 
 ### 4. Editar perfil
 -  PUT: `/api/v1/users/me`
+- AUTH: bearer token
+- Request Body:
+```json 
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "avatar": "new_avatar_url"
+}
+```
+- Response: 200OK, 400 Bad Request si hay datos invalidos 
+
+### 5. Eliminar 

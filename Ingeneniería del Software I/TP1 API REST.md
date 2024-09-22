@@ -62,4 +62,8 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 - AUTH: Bearer Token
 - Response: 200 OK si se envió la solicitud de seguimiento 
 
-### 7. 
+### 7. Aceptar/Recgazar Solicitud de Seguimiento
+- PUT: `/api/v1/user/{id}/follow-request
+- AUTH: Bearer token
+- Request Body 
+- 

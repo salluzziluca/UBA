@@ -72,3 +72,11 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 }
 ```
 Response: 200 OK
+
+## Endpoints de Peliculas 
+### 1. Listar películas con filtros:
+
+- GET `/api/v1/movies`
+Query Params: `title, actor, category`
+Paginación: `page, limit
+Response: 200 OK con una lista paginada de pepliculas

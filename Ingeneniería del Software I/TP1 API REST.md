@@ -129,4 +129,5 @@ Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer c
 - **UserService**: Maneja la autenticación, seguimiento de usuarios y solicitudes de amistad. Aquí también se valida la lógica para asegurar que los usuarios no se sigan a sí mismos o que los tokens sean válidos.
 - **MovieService**: Gestiona la lógica de filtrado de películas, verificación de calificaciones válidas (1-10), y puede delegar el acceso a la base de datos a través de la capa de persistencia.
 
-## Capa de Persistencia 
+## Capa de Persistencia (data access layer)
+Es la parte encargada de interactuar con la base de datos para almacenar usuarios, peliculas y calificaciones

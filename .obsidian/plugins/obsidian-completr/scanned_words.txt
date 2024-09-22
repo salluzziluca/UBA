@@ -715,6 +715,12 @@ concreto
 content
 culas
 categories
+concers
+controller
+controladores
+califica
+calificaciones
+categor
 de
 dispositivos
 del
@@ -1046,6 +1052,8 @@ dadas
 darla
 dichos
 delego
+declarados
+delegar
 gestion
 gran
 guarda
@@ -1171,6 +1179,7 @@ gastaba
 gasta
 gracia
 google
+gestionaran
 especifico
 entra
 en
@@ -1526,6 +1535,12 @@ estandarizads
 endpoints
 email
 eyJhbGciOiJIUzI
+escalabilidad
+enviaran
+encarguen
+encargada
+encargados
+editar
 servicios
 son
 su
@@ -1842,6 +1857,10 @@ saben
 sobreescribe
 sesi
 search
+separation
+seguimiento
+sigan
+seguidores
 par
 por
 punto
@@ -2290,6 +2309,9 @@ pass
 privada
 perfil
 pel
+permitira
+persistencia
+podriamos
 la
 las
 le
@@ -2489,6 +2511,7 @@ lleguen
 lidos
 logeado
 last
+login
 agnosticos
 apps
 al
@@ -2864,6 +2887,9 @@ access
 avatar
 admin
 actors
+aplicacion
+autenticaci
+amistad
 hardware
 heap
 hay
@@ -3535,6 +3561,8 @@ Considerar
 Construye
 Custom
 Content
+Contariamos
+Capa
 Es
 El
 Estos
@@ -4016,6 +4044,7 @@ resfresh
 registrado
 refresh
 rating
+recibiran
 operacion
 orden
 operaciones
@@ -4306,6 +4335,7 @@ nque
 necesiten
 name
 new
+negocio
 via
 vuelve
 viven
@@ -4477,6 +4507,7 @@ vence
 versuionado
 vnd
 viva
+verificaci
 Application
 API
 Asigna
@@ -4621,6 +4652,8 @@ Autenticacion
 Accept
 Agregar
 AUTH
+Ademas
+Aqu
 Programming
 Procesos
 Partes
@@ -4789,6 +4822,9 @@ Paginados
 Perfil
 Params
 Paginaci
+Presentaci
+Podriamos
+Persistencia
 Interface
 ID
 Instructions
@@ -5009,6 +5045,8 @@ URI
 Utilizar
 UiLCJpYXQiOjE
 Unauthorized
+UserService
+UserRepository
 modo
 mode
 menso
@@ -5271,6 +5309,8 @@ metricas
 monitorear
 metrics
 movies
+mantenibilidad
+moderada
 tien
 tiene
 todos
@@ -5520,6 +5560,7 @@ terminen
 todavia
 token
 tarjetita
+tecnicos
 inico
 interna
 infro
@@ -5789,6 +5830,7 @@ inv
 inicien
 incorrectas
 invalidos
+interactuar
 fijo
 file
 fork
@@ -5966,6 +6008,7 @@ fin
 formato
 firmado
 filtros
+filtrado
 Nombre
 Notas
 Not
@@ -6429,6 +6472,9 @@ Mantenerlas
 Metrics
 MTYyMzkwMj
 Model
+MovieService
+Maneja
+MovieRepository
 Table
 Todos
 This
@@ -7415,6 +7461,7 @@ GET
 Gateway
 Gauss
 Generalization
+Gestiona
 BX
 Bit
 Box

@@ -55,3 +55,11 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 - DELETE: `/api/v1/users/me`
 - AUTH: bearer token
 - Response: 204 No content
+
+### 6. Seguir a otro user: 
+
+- POST `/api/v1/users/{id}/follow`
+- AUTH: Bearer Token
+- Response: 200 OK si se envió la solicitud de seguimiento 
+
+### 7. 

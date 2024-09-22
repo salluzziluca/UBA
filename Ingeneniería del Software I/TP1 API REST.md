@@ -1,10 +1,22 @@
 # API 
 
-### Endpoints de usuario:
+## Endpoints de usuario:
 
-#### Registros de usuarios:
--  POST: /api/v1/user
-
+## Registros de usuarios:
+-  POST: /api/v1/user/registers
+- BODY: 
+  ```json 
+  {
+  "email": "email@example.com",
+  "password": "password123",
+  "first_name": "John",
+  "last_name": "Doe",
+  "birthdate": "1990-01-01",
+  "gender": "male",
+  "avatar": "avatar_url"
+}
+```
+- Response: 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.
 
 Descripción: Permite que los usuarios inicien sesión.
 Request:

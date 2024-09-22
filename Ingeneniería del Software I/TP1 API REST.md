@@ -125,4 +125,8 @@ Contariamos, entonces, con 3 capas principales
 Aca se gestionaran las solicitudes HTTP, como el login o la busqueda de peliculas. Los diferentes controladores recibiran las peticiones y las enviaran mediante los endpoints declarados anteriormente a la capa de negocio.
 
 ## Capa de negocio 
-Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer cuando un user califica una pelicula o cuando otro usuario lo sigue. Podriamos tener dos hilos principales corriendo. UserService y MovieService que se encarguen de los 
+Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer cuando un user califica una pelicula o cuando otro usuario lo sigue. Podriamos tener dos hilos principales corriendo. UserService y MovieService que se encarguen de la logica de cada una de las partes principales de la aplicacion. 
+- **UserService**: Maneja la autenticación, seguimiento de usuarios y solicitudes de amistad. Aquí también se valida la lógica para asegurar que los usuarios no se sigan a sí mismos o que los tokens sean válidos.
+- **MovieService**: Gestiona la lógica de filtrado de películas, verificación de calificaciones válidas (1-10), y puede delegar el acceso a la base de datos a través de la capa de persistencia.
+
+## Capa de Persistencia 

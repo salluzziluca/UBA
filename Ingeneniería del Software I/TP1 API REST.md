@@ -5,7 +5,8 @@ Request:
 - POST `/api/v1/users/token`
 Response:
 Código HTTP: `200 OK
-```json {
+```json 
+{
 "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
 "refresh_token": "m9obiBEb2UiLCJpYXQiOjE1MTYyMzkwMj..."
 }

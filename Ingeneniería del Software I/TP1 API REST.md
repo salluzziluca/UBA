@@ -118,4 +118,5 @@ Response: 200 OK con una lista paginada de pepliculas
 
 
 # Propuesta de Arquitectura preliminar
-Me parece que una buena opcion debido a la simplicidad de la aplicacion movil en cuestion es la utilizacion de el patron de arquitectura de software `Layers`. Esto nos permitira diseñar una arquitectura simple, con una curva de dificultad muy baja y que se adaptará facilmente a los requerimientos 
+Me parece que una buena opcion debido a la simplicidad de la aplicacion movil en cuestion es la utilizacion de el patron de arquitectura de software `Layers`. Esto nos permitira diseñar una arquitectura simple, con una curva de dificultad muy baja y que se adaptará facilmente a los requerimientos tecnicos que necesitamos.
+Contariamos, enton

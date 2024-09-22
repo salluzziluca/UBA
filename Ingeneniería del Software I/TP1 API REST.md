@@ -80,3 +80,5 @@ Response: 200 OK
 Query Params: `title, actor, category`
 Paginación: `page, limit
 Response: 200 OK con una lista paginada de pepliculas
+
+### 2. Calificar peliculas

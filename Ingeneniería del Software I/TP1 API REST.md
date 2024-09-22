@@ -2,7 +2,7 @@
 
 ## Endpoints de usuario:
 
-### Registros de usuarios:
+### 1. Registros de usuarios:
 -  POST: /api/v1/user/registers
 - BODY: 
   ```json 
@@ -17,7 +17,7 @@
 }
 ```
 - Response: 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.
-### Login
+### 2. Login
 Descripción: Permite que los usuarios inicien sesión.
 Request:
 - Headers: `Authorization: Basic {base64(email:password)}`
@@ -33,7 +33,9 @@ Código HTTP: `200 OK
 Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 
 
-### Ver Perfil 
+### 3. Ver Perfil 
 - GET: /api/v1/user/me
 - AUTH: bearer token 
-- Response:
+- Response: 200 OK con la info del usuario logeado
+
+### 4. Editar perfil

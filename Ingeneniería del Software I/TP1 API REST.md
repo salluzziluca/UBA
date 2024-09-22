@@ -16,6 +16,7 @@
   "avatar": "avatar_url"
 }
 ```
+
 - Response: 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.
 ### 2. Login
 Descripción: Permite que los usuarios inicien sesión.

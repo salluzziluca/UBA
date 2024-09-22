@@ -116,6 +116,8 @@ Response: 200 OK con una lista paginada de pepliculas
     - `DELETE /api/v1/admin/users/{id}`
     - Response: `201 Created`, `200 OK`, `204 No Content`
 
+# Modelo de Dominio Preliminar 
+![[Pasted image 20240922201332.png]]
 
 # Propuesta de Arquitectura preliminar
 Me parece que una buena opcion debido a la simplicidad de la aplicacion movil en cuestión es la utilización de el patron de arquitectura de software `Layers`. Esto nos permitira diseñar una arquitectura simple, con una curva de dificultad muy baja y que se adaptará facilmente a los requerimientos tecnicos que necesitamos.

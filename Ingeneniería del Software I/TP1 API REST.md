@@ -2,21 +2,10 @@
 
 ### Endpoints de usuario:
 
-1. Registro de usuarios:**
-    
-    - **POST /api/v1/users/register**
-    - **Request Body:**
-        
-        json
-        
-        Copy code
-        
-        `{   "email": "email@example.com",   "password": "password123",   "first_name": "John",   "last_name": "Doe",   "birthdate": "1990-01-01",   "gender": "male",   "avatar": "avatar_url" }`
-        
-    - **Response:**
-        - 201 Created, 400 Bad Request si hay datos inválidos o el email ya está registrado.
+#### Registros de usuarios:
+-  POST: /api/v1/user
 
-****
+
 Descripción: Permite que los usuarios inicien sesión.
 Request:
 - Headers: `Authorization: Basic {base64(email:password)}`

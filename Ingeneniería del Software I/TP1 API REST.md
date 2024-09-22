@@ -124,4 +124,4 @@ Contariamos, entonces, con 3 capas principales
 ## Capa de Presentación (controller layer)
 Aca se gestionaran las solicitudes HTTP, como el login o la busqueda de peliculas. Los diferentes controladores recibiran las peticiones y las enviaran mediante los endpoints declarados anteriormente a la capa de negocio.
 
-## Capa de noegocio.
+## Capa de negocio.

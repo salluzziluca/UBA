@@ -119,6 +119,7 @@ Response: 200 OK con una lista paginada de pepliculas
 
 # Propuesta de Arquitectura preliminar
 Me parece que una buena opcion debido a la simplicidad de la aplicacion movil en cuestion es la utilizacion de el patron de arquitectura de software `Layers`. Esto nos permitira diseñar una arquitectura simple, con una curva de dificultad muy baja y que se adaptará facilmente a los requerimientos tecnicos que necesitamos.
+Ademas, cumple muy bien con el principio de diseño SoC (separation of concers), ademas de tener una buena mantenibilidad y una escalabilidad moderada
 Contariamos, entonces, con 3 capas principales
 
 ## Capa de Presentación (controller layer)

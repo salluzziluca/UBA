@@ -92,25 +92,25 @@ Response: 200 OK con una lista paginada de pepliculas
 ```
 - Reponse: 201 Created, 400 bad request si el rating es invalido
 
-#### Endpoints ADMIN:
+## Endpoints ADMIN:
 
-1. **CRUD de películas:**
+1. CRUD de películas:
     
-    - **POST /api/v1/admin/movies**
-    - **PUT /api/v1/admin/movies/{id}**
-    - **DELETE /api/v1/admin/movies/{id}**
-2. **CRUD de actores:**
+    - POST `/api/v1/admin/movies`
+    - PUT `/api/v1/admin/movies/{id}`
+    - DELETE `/api/v1/admin/movies/{id}
+2. CRUD de actores:
     
-    - **POST /api/v1/admin/actors**
-    - **PUT /api/v1/admin/actors/{id}**
-    - **DELETE /api/v1/admin/actors/{id}**
-3. **CRUD de categorías:**
+    - POST /api/v1/admin/actors
+    - PUT /api/v1/admin/actors/{id}
+    - DELETE /api/v1/admin/actors/{id}
+3. CRUD de categorías:
     
-    - **POST /api/v1/admin/categories**
-    - **PUT /api/v1/admin/categories/{id}**
-    - **DELETE /api/v1/admin/categories/{id}**
-4. **Gestión de usuarios ADMIN:**
+    - POST /api/v1/admin/categories
+    - PUT /api/v1/admin/categories/{id}
+    - DELETE /api/v1/admin/categories/{id}
+4. Gestión de usuarios ADMIN:
     
-    - **POST /api/v1/admin/users**
-    - **PUT /api/v1/admin/users/{id}**
-    - **DELETE /api/v1/admin/users/{id}**
+    - POST /api/v1/admin/users
+    - PUT /api/v1/admin/users/{id}
+    - DELETE /api/v1/admin/users/{id}

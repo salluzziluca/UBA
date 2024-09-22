@@ -130,4 +130,6 @@ Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer c
 - **MovieService**: Gestiona la lógica de filtrado de películas, verificación de calificaciones válidas (1-10), y puede delegar el acceso a la base de datos a través de la capa de persistencia.
 
 ## Capa de Persistencia (data access layer)
-Es la parte encargada de interactuar con la base de datos para almacenar usuarios, peliculas y calificaciones
+Es la parte encargada de interactuar con la base de datos para almacenar usuarios, peliculas y calificaciones. Igual que antes, podriamos tener dos componentes principales encargados del acceso a las BDD de las partes mas importantes de la Aplicacion
+- **UserRepository**: Gestiona las interacciones con la base de datos para crear, editar y eliminar usuarios, así como la gestión de los seguidores.
+- **MovieRepository**: Gestiona el acceso a la base de datos para recuperar información sobre películas, calificaciones, actores, y categorías.

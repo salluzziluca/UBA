@@ -178,6 +178,7 @@ Layer
 Lemma
 LOS
 Llamemosle
+Logging
 capa
 controlado
 cantidad
@@ -703,6 +704,9 @@ comienzo
 cita
 construido
 composici
+credencial
+cred
+controls
 de
 dispositivos
 del
@@ -1033,6 +1037,7 @@ down
 dadas
 darla
 dichos
+delego
 gestion
 gran
 guarda
@@ -1156,6 +1161,8 @@ gauss
 guardando
 gastaba
 gasta
+gracia
+google
 especifico
 entra
 en
@@ -1503,6 +1510,12 @@ ecuaci
 ejercicios
 encuentran
 entrenados
+eltoken
+envio
+estrategias
+example
+estandarizads
+endpoints
 servicios
 son
 su
@@ -1815,6 +1828,8 @@ suposicion
 significativamente
 solucionar
 seguro
+saben
+sobreescribe
 par
 por
 punto
@@ -2259,6 +2274,8 @@ partir
 pensamos
 praticar
 practicar
+pass
+privada
 la
 las
 le
@@ -2452,6 +2469,9 @@ location
 logueadas
 logs
 leementos
+limitado
+logear
+lleguen
 agnosticos
 apps
 al
@@ -2817,6 +2837,12 @@ anteriormente
 asumir
 aula
 agenda
+autenticacion
+autorizacion
+autenticado
+acces
+application
+ayudan
 hardware
 heap
 hay
@@ -2945,6 +2971,7 @@ herramientas
 hicieron
 headers
 https
+health
 que
 queda
 quien
@@ -3314,6 +3341,7 @@ Sio
 Seidel
 Solucion
 Scheduling
+SV
 Calls
 Cmabia
 CPU
@@ -3483,6 +3511,7 @@ Conflict
 Complete
 Considerar
 Construye
+Custom
 Es
 El
 Estos
@@ -3956,6 +3985,9 @@ reconocer
 resuelto
 resueltos
 regularidad
+reciba
+reenvia
+resfresh
 operacion
 orden
 operaciones
@@ -4098,6 +4130,8 @@ organizen
 obvia
 optimizaciones
 optimo
+obtner
+ordenamientos
 nombre
 nuevo
 nica
@@ -4240,6 +4274,7 @@ needed
 navegable
 navegando
 nque
+necesiten
 via
 vuelve
 viven
@@ -4405,6 +4440,12 @@ varian
 value
 vervos
 versi
+viaja
+vuelvas
+vence
+versuionado
+vnd
+viva
 Application
 API
 Asigna
@@ -4545,6 +4586,9 @@ Auth
 Authentication
 Agrego
 Asumo
+Autenticacion
+Accept
+Agregar
 Programming
 Procesos
 Partes
@@ -4709,6 +4753,7 @@ PROGRAMACION
 Pasa
 PRORGAMCAICCSIDOID
 Pensando
+Paginados
 Interface
 ID
 Instructions
@@ -4923,6 +4968,9 @@ URLs
 Usernames
 URL
 USAR
+Usando
+URI
+Utilizar
 modo
 mode
 menso
@@ -5179,6 +5227,11 @@ maximice
 memorioza
 memorizadas
 miedo
+modificado
+mecanidsmo
+metricas
+monitorear
+metrics
 tien
 tiene
 todos
@@ -5426,6 +5479,8 @@ transacciones
 tirar
 terminen
 todavia
+token
+tarjetita
 inico
 interna
 infro
@@ -5866,6 +5921,8 @@ fibonacci
 faciles
 fin
 formato
+firmado
+filtros
 Nombre
 Notas
 Not
@@ -6322,6 +6379,8 @@ Mediation
 Monitorear
 Memoization
 Memorizaci
+Mantenerlas
+Metrics
 Table
 Todos
 This
@@ -6589,6 +6648,9 @@ Request
 Required
 REST
 RECALCULOS
+Refresh
+Rest
+Reducir
 bien
 by
 be
@@ -6929,6 +6991,7 @@ VERBOS
 Verbvos
 Validaci
 Version
+Versionado
 OPTIONS
 Operativos
 Orden
@@ -7539,6 +7602,8 @@ Handshaking
 HTTP
 Https
 Hashes
+Header
+Health
 Jacobiano
 Job
 Jusitfique
@@ -7603,6 +7668,7 @@ Jerarquias
 Journeys
 Juan
 Jacobi
+JWT
 Quienes
 Queue
 Quiere

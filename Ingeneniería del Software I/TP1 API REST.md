@@ -136,3 +136,7 @@ Esta capa va a gestionar la logica de negocio de la aplicacion. Como que hacer c
 Es la parte encargada de interactuar con la base de datos para almacenar usuarios, peliculas y calificaciones. Igual que antes, podriamos tener dos componentes principales encargados del acceso a las BDD de las partes mas importantes de la Aplicacion
 - **UserRepository**: Gestiona las interacciones con la base de datos para crear, editar y eliminar usuarios, así como la gestión de los seguidores.
 - **MovieRepository**: Gestiona el acceso a la base de datos para recuperar información sobre películas, calificaciones, actores, y categorías.
+
+
+# Extra: diagrama de secuencia teniendo en cuenta todo lo visto anteriormente 
+![[Pasted image 20240922201641.png]]

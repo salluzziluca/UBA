@@ -1,3 +1,7 @@
+Alumnos: Luca Salluzzi
+Padron: 108088
+2C2024
+
 # API 
 
 ## Endpoints de usuario:

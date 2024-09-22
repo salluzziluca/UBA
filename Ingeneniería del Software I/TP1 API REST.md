@@ -71,4 +71,4 @@ Código HTTP: `401 Unauthorized si las credenciales son incorrectas.`
 "status": "accepted"//or rejected
 }
 ```
-Response: 200 OK, 401 Bad request
+Response: 200 OK

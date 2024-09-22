@@ -115,3 +115,7 @@ Response: 200 OK con una lista paginada de pepliculas
     - `PATCH /api/v1/admin/users/{id}`
     - `DELETE /api/v1/admin/users/{id}`
     - Response: `201 Created`, `200 OK`, `204 No Content`
+
+
+# Propuesta de Arquitectura preliminar
+Me parece que una buena opcion debido a la simplicidad de la aplicacion movil en cuestion es 

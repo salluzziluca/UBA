@@ -250,4 +250,5 @@ def mochila(valor, peso, N, W):
        return mochila(valor, peso, N-1, W)
    return max(mochila(valor, peso, N-1, W),
               valor[N] + mochila(valor, peso, N-1, W-peso[N]))
-              ```
+```
+[[10b]]

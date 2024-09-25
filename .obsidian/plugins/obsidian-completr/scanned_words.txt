@@ -114,6 +114,7 @@ KOG
 KiHL
 KWW
 KzD
+Kanban
 La
 Los
 Luego
@@ -3399,6 +3400,7 @@ aGW
 afw
 avanzando
 asiento
+abd
 hardware
 heap
 hay
@@ -4476,6 +4478,7 @@ EDQD
 EhT
 ELx
 EnR
+Extreme
 kernel
 kt
 kU

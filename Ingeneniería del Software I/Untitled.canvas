@@ -8,15 +8,16 @@
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-973,"y":1906,"width":400,"height":400},
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-520,"y":1906,"width":400,"height":400},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1373,"y":290,"width":331,"height":400},
-		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]]","x":-67,"y":640,"width":420,"height":310,"color":"4"},
+		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando[[Minium Viable Product]]","x":-120,"y":600,"width":473,"height":350,"color":"4"},
 		{"id":"94c56eeedc67ddc9","type":"file","file":"Cursos/Agile and Scrum/Agile.md","x":-220,"y":1000,"width":400,"height":400},
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":71,"y":1560,"width":751,"height":409},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":-304,"y":1560,"width":184,"height":60},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":-329,"y":2270,"width":400,"height":334},
 		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":-773,"y":2270,"width":400,"height":394},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":-1242,"y":2270,"width":400,"height":394},
-		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":-773,"y":1115,"width":400,"height":210},
-		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":-1373,"y":1325,"width":400,"height":400}
+		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":-1373,"y":1325,"width":400,"height":400},
+		{"id":"bfe00e58ec9bee3b","x":-622,"y":575,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md"},
+		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":-704,"y":1115,"width":400,"height":210}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -27,6 +28,7 @@
 		{"id":"579e1f6c513f6285","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3a1b1968f9ec7e0f","toSide":"top"},
 		{"id":"08e8045c8064131c","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"9e1645175a1e03c6","toSide":"top"},
 		{"id":"6dce90a1274ef81f","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"abd7f398d35b1372","toSide":"top"},
-		{"id":"06808438abb62bd8","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"b46c004cd47f291d","toSide":"top"}
+		{"id":"06808438abb62bd8","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"b46c004cd47f291d","toSide":"top"},
+		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"}
 	]
 }

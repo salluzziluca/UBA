@@ -4134,6 +4134,7 @@ redundancia
 referencian
 relaci
 representan
+representarlo
 operacion
 orden
 operaciones
@@ -4432,6 +4433,7 @@ neo
 norma
 nro
 numpad
+necesarios
 via
 vuelve
 viven
@@ -4939,6 +4941,8 @@ Podr
 Parcial
 PESO
 Pesos
+Pseudo
+Polinomial
 Interface
 ID
 Instructions
@@ -6632,6 +6636,7 @@ Modulo
 Materia
 Multivaluadas
 Mis
+Mochila
 Table
 Todos
 This

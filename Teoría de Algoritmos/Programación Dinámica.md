@@ -204,3 +204,25 @@ Necesitamos:
 
 ¿Cómo se encuentran?
 ¿En qué pensamos primero?
+
+
+## Ej 3: juan el vago
+Juan no quiere laburar 2 dias seguidos
+![[Pasted image 20240924114152.png]]![[Pasted image 20240924114222.png]]
+Es decir, o no trabaja hoy y utiliza el optimo del dia anterior. O trabaja hoy y usa el optimo de hace dos dias 
+```python
+def construir_elecciones(G,M):
+  elecciones = []
+  d = len(G)-1
+  while( d >= 0 ):
+    opt_ayer = G[d-1] if d>0 else 0
+    opt_anteayer = G[d-2] if d>1 else 0
+    valor_hoy = M[d]
+    if valor_hoy + opt_anteayer >= opt_ayer:
+      elecciones.insert(0, d)
+      d -= 2
+    else:
+      d -= 1
+  elecciones.reverse()
+  return elecciones
+```

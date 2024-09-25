@@ -1,5 +1,4 @@
-## Deuda Técnica
-Si logro hacer que el codigo funcione muy muy muy (que me tome poco tiempo de desarorollo), segurametnee estemos tomando deuda tecnica. Vamos a tener que despues invertir tiempo en refactorizar y dejalo lindo.
+
 
 Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor de lo que lo encontré
 
@@ -76,7 +75,7 @@ Timely
 - casos de prueba aislados
 - Una sola cosa en un solo caso de pruebas
 - unico metodo de assert por caso de rpueba
-- Utilizar una convencion de nombres para el 
+- Utilizar una convencion de nombres para el caso de prueba
 - utilizar mensajes descriptivos en los metodos de assert
 - mide la cobertura del codigo para entrar casos de prueba faltantes
 - Nombrar los tests descriptivamente

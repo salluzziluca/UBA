@@ -181,6 +181,7 @@ Llamemosle
 Logging
 Login
 Listar
+Laberinto
 capa
 controlado
 cantidad
@@ -1574,6 +1575,7 @@ expande
 estructuras
 esiten
 eliminamos
+elijo
 servicios
 son
 su
@@ -2952,6 +2954,7 @@ aparecen
 anomalias
 apellido
 aprobabacion
+acabo
 hardware
 heap
 hay
@@ -3298,6 +3301,7 @@ utilizarlos
 users
 unitario
 unir
+unico
 System
 Son
 Source
@@ -3639,6 +3643,8 @@ Cauchy
 Cuarta
 Codigo
 Clausura
+CAMBIADO
+Capacidad
 Es
 El
 Estos
@@ -4425,6 +4431,7 @@ negocio
 neo
 norma
 nro
+numpad
 via
 vuelve
 viven
@@ -4930,6 +4937,8 @@ Primera
 Preservar
 Podr
 Parcial
+PESO
+Pesos
 Interface
 ID
 Instructions
@@ -5424,6 +5433,7 @@ multiplicaciones
 micos
 monovaluados
 mail
+mochila
 tien
 tiene
 todos
@@ -6621,6 +6631,7 @@ Magnitudes
 Modulo
 Materia
 Multivaluadas
+Mis
 Table
 Todos
 This
@@ -7317,6 +7328,7 @@ OPT
 Orientada
 Ortogonales
 Over
+Opt
 ya
 yo
 yM

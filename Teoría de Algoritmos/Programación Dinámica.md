@@ -236,7 +236,18 @@ def construir_elecciones(G,M):
 
 
 ## Ej 6: problema de la mochila II  
-El unico tema ahora es que hay que tener mas en cuenta en el peso. Porque si yo elijo el elemento actual tengo que fijarme cual es ahora el optimo del elemento anterior CON EL PESO CAMBIADO. Es decir, con el peso que habia - el del elemento que acabo de agregar
+El unico tema ahora es que hay que tener mas en cuenta en el peso. Porque si yo elijo el elemento actual tengo que fijarme cual es ahora el optimo del elemento anterior CON EL PESO CAMBIADO. Es decir, con la capacidad que habia - el peso del elemento que acabo de agregar
 
 ![[Pasted image 20240925103035.png]]
-Mis dos opciones son: Uso el elemento y busco el optimo de n-1 con el 
+Mis dos opciones son: Uso el elemento y busco el optimo de n-1 con la capacidad que tenia -el peso del elemento 
+O no uso el elemento y busco el optimo de n-1 con el peso sin cambiar
+
+```python 
+def mochila(valor, peso, N, W):
+   if N == 0:
+       return 0
+   if W < peso[N]:
+       return mochila(valor, peso, N-1, W)
+   return max(mochila(valor, peso, N-1, W),
+              valor[N] + mochila(valor, peso, N-1, W-peso[N]))
+              ```

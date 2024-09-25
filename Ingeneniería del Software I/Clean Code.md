@@ -5,8 +5,8 @@ Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor
 
 ## Objetivos
 - Mantenibilidad
- - Simplicidad: Siempre simpleza antes de complejidad
- - Claridad 
+- Simplicidad: Siempre simpleza antes de complejidad
+- Claridad 
 - Flexibilidad
 - Legibilidad
 ## Recursos 

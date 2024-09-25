@@ -2,8 +2,6 @@
 	"nodes":[
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1373,"y":290,"width":331,"height":400},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-422,"y":-106,"width":440,"height":440},
-		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":-1360,"y":1517,"width":400,"height":400},
-		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":960,"y":2400,"width":400,"height":334},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":446,"y":185,"width":400,"height":400},
 		{"id":"38585ed19ff4f050","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":160,"y":-480,"width":400,"height":274,"color":"1"},
 		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":-286,"width":400,"height":400},
@@ -13,11 +11,13 @@
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":646,"y":1566,"width":400,"height":400},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":554,"y":1260,"width":184,"height":60},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":154,"y":1517,"width":400,"height":400},
-		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":960,"y":1050,"width":751,"height":409},
-		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":46,"y":1097,"width":308,"height":303},
+		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":46,"y":1160,"width":244,"height":240},
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando[[Minium Viable Product]]","x":-83,"y":410,"width":473,"height":350,"color":"4"},
 		{"id":"bfe00e58ec9bee3b","x":-560,"y":498,"width":398,"height":175,"type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md"},
-		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":-115,"y":780,"width":322,"height":317}
+		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":116,"y":780,"width":274,"height":270},
+		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":593,"y":1917,"width":291,"height":243},
+		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
+		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":1320,"y":1517,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -25,10 +25,11 @@
 		{"id":"575fc0194bee28fc","fromNode":"9764ef3a46c41a11","fromSide":"right","toNode":"f73c791b42be5bc0","toSide":"left","label":"En lo micro, buscamos\ncumplir con ciertas normas"},
 		{"id":"99ac24b74ff66ca5","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"61a0d247d0233220","toSide":"right","label":"Para catalogar el problema"},
 		{"id":"5023c0e8c00a8c94","fromNode":"9764ef3a46c41a11","fromSide":"bottom","toNode":"94c56eeedc67ddc9","toSide":"top","label":"Y una vez \ndiseñado, desarollo"},
-		{"id":"579e1f6c513f6285","fromNode":"94c56eeedc67ddc9","fromSide":"right","toNode":"3a1b1968f9ec7e0f","toSide":"top"},
+		{"id":"579e1f6c513f6285","fromNode":"94c56eeedc67ddc9","fromSide":"right","toNode":"3a1b1968f9ec7e0f","toSide":"left"},
 		{"id":"08e8045c8064131c","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"9e1645175a1e03c6","toSide":"top"},
 		{"id":"6dce90a1274ef81f","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"abd7f398d35b1372","toSide":"top"},
 		{"id":"06808438abb62bd8","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"b46c004cd47f291d","toSide":"top"},
-		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"}
+		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
+		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"}
 	]
 }

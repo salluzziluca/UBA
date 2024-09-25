@@ -17,7 +17,9 @@
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":1320,"y":1517,"width":400,"height":400},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":154,"y":1094,"width":244,"height":240},
-		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":154,"y":780,"width":274,"height":270}
+		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":154,"y":780,"width":274,"height":270},
+		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":1840,"y":1630,"width":398,"height":175},
+		{"id":"897418693574edae","x":1747,"y":1917,"width":400,"height":205,"type":"file","file":"zImagenes/Pasted image 20240925155838.png"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -30,6 +32,7 @@
 		{"id":"6dce90a1274ef81f","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"abd7f398d35b1372","toSide":"top"},
 		{"id":"06808438abb62bd8","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"b46c004cd47f291d","toSide":"top"},
 		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
-		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"}
+		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
+		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"right","toNode":"768899a580c59c99","toSide":"left"}
 	]
 }

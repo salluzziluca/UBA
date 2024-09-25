@@ -1,4 +1,4 @@
-[[Pasted image 20240826193614.png]]
+![[Pasted image 20240826193614.png]]
 Una forma de explicar cualquier problema. 
 
 algo claro es algo sencillo, son cosas para las que ya tenemos soluciones (como no mojarse si llueve -> paraguas). CATEGORIZARqe 

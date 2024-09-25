@@ -1,12 +1,15 @@
 {
 	"nodes":[
-		{"id":"9016654be135a1ea","x":-391,"y":778,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":446,"y":490,"width":400,"height":400},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-422,"y":80,"width":440,"height":440},
 		{"id":"f3708aa2f6687b79","x":1120,"y":1237,"width":400,"height":380,"type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"},
 		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":80,"width":400,"height":400},
 		{"id":"38585ed19ff4f050","x":446,"y":-160,"width":400,"height":274,"color":"1","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md"},
-		{"id":"b41cc4281ee0e59c","x":-201,"y":968,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/R=R.md"}
+		{"id":"94c56eeedc67ddc9","x":-509,"y":1282,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Agile.md"},
+		{"id":"3caa2fd27c11a373","x":46,"y":1020,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Scrum.md"},
+		{"id":"b41cc4281ee0e59c","x":-60,"y":785,"width":400,"height":210,"type":"file","file":"Ingeneniería del Software I/R=R.md"},
+		{"id":"b46c004cd47f291d","x":-709,"y":520,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md"},
+		{"id":"9016654be135a1ea","x":-285,"y":820,"width":331,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

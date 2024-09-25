@@ -1,13 +1,9 @@
 {
 	"nodes":[
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":446,"y":490,"width":400,"height":400},
-		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1120,"y":1237,"width":400,"height":380},
-		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":80,"width":400,"height":400},
 		{"id":"38585ed19ff4f050","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":446,"y":-160,"width":400,"height":274,"color":"1"},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1373,"y":290,"width":331,"height":400},
-		{"id":"94c56eeedc67ddc9","type":"file","file":"Cursos/Agile and Scrum/Agile.md","x":-220,"y":1000,"width":400,"height":400},
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":71,"y":1560,"width":751,"height":409},
-		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":-704,"y":1115,"width":400,"height":210},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-422,"y":-106,"width":440,"height":440},
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando[[Minium Viable Product]]","x":-220,"y":585,"width":473,"height":350,"color":"4"},
 		{"id":"bfe00e58ec9bee3b","x":-722,"y":560,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md"},
@@ -17,12 +13,16 @@
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-704,"y":1870,"width":400,"height":400},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":-528,"y":1414,"width":308,"height":303},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":17,"y":2103,"width":400,"height":334},
-		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":-1360,"y":1517,"width":400,"height":400}
+		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":-1360,"y":1517,"width":400,"height":400},
+		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1240,"y":820,"width":400,"height":380},
+		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1520,"y":360,"width":400,"height":400},
+		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":1440,"y":1460,"width":307,"height":160},
+		{"id":"94c56eeedc67ddc9","type":"file","file":"Cursos/Agile and Scrum/Agile.md","x":320,"y":1060,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
 		{"id":"15058a025f5c3ee1","fromNode":"9764ef3a46c41a11","fromSide":"right","toNode":"f3708aa2f6687b79","toSide":"left","label":"Para lograr un \nbuen diseño, utilizamos..."},
-		{"id":"575fc0194bee28fc","fromNode":"9764ef3a46c41a11","fromSide":"right","toNode":"f73c791b42be5bc0","toSide":"bottom","label":"En lo micro, buscamos\ncumplir con ciertas normas"},
+		{"id":"575fc0194bee28fc","fromNode":"9764ef3a46c41a11","fromSide":"right","toNode":"f73c791b42be5bc0","toSide":"left","label":"En lo micro, buscamos\ncumplir con ciertas normas"},
 		{"id":"99ac24b74ff66ca5","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"61a0d247d0233220","toSide":"right","label":"Para catalogar el problema"},
 		{"id":"5023c0e8c00a8c94","fromNode":"9764ef3a46c41a11","fromSide":"bottom","toNode":"94c56eeedc67ddc9","toSide":"right","label":"Y una vez \ndiseñado, desarollo"},
 		{"id":"579e1f6c513f6285","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3a1b1968f9ec7e0f","toSide":"top"},

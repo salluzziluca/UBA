@@ -226,3 +226,12 @@ def construir_elecciones(G,M):
   elecciones.reverse()
   return elecciones
 ```
+
+
+
+## Ej 4: Laberinto 
+
+
+## Ej 5: numpad 
+
+## Ej 6: problema de la mochila  

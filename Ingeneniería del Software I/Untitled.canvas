@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"f7e654c809d13683","x":-960,"y":-180,"width":800,"height":960,"type":"file","file":"Ingeneniería del Software I/Entender el Problema.md"}
+		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-960,"y":-180,"width":800,"height":960},
+		{"id":"9764ef3a46c41a11","x":446,"y":490,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"}
+	]
 }

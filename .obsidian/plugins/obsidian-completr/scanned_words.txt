@@ -3646,6 +3646,7 @@ Codigo
 Clausura
 CAMBIADO
 Capacidad
+Caracter
 Es
 El
 Estos
@@ -4436,6 +4437,7 @@ nro
 numpad
 necesarios
 nodes
+ntomas
 via
 vuelve
 viven

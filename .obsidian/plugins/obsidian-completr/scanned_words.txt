@@ -732,6 +732,8 @@ componente
 cl
 completa
 cod
+cortas
+comentado
 de
 dispositivos
 del
@@ -1078,6 +1080,7 @@ depenedncia
 dependencia
 decimos
 definien
+digos
 gestion
 gran
 guarda
@@ -1577,6 +1580,7 @@ esiten
 eliminamos
 elijo
 edges
+excepciones
 servicios
 son
 su
@@ -4438,6 +4442,7 @@ numpad
 necesarios
 nodes
 ntomas
+necesari
 via
 vuelve
 viven
@@ -5442,6 +5447,7 @@ micos
 monovaluados
 mail
 mochila
+muerto
 tien
 tiene
 todos

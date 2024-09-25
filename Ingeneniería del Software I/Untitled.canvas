@@ -3,7 +3,8 @@
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":446,"y":490,"width":400,"height":400},
 		{"id":"363af0cb99673ad1","type":"file","file":"Ingeneniería del Software I/R=R.md","x":-324,"y":1160,"width":244,"height":267},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-422,"y":80,"width":440,"height":440},
-		{"id":"f73c791b42be5bc0","x":300,"y":-120,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Clean Code.md"}
+		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":300,"y":-120,"width":400,"height":400},
+		{"id":"38585ed19ff4f050","x":-202,"y":-380,"width":400,"height":274,"color":"1","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

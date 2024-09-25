@@ -54,6 +54,8 @@ Comentarios obligatorios (no siempre es necesario comentar)
 Ruido 
 Marcadores de posicion `******`
 Al cerrar una llave (ya no es necesario)
+```} // if, Si las funciones son cortas no es necesari`
+
 
 
 ## FORMATEA LA CONCHA DE TU MADRE

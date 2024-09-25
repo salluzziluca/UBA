@@ -64,8 +64,8 @@ Usarlos como una herramienta mas,
 
 
 ## Excepciones
-
-
+-Usar excepciones en vez de códigos de error
+`If (deletePage(page) == E_OK) { ….`
 ## Test unitarios 
 Fast
 Independent

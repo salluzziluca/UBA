@@ -6,9 +6,6 @@
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":460,"y":98,"width":400,"height":400},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-480,"y":-142,"width":440,"height":440},
-		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":987,"y":1790,"width":398,"height":175},
-		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":297,"y":2055,"width":489,"height":249},
-		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":788,"y":2077,"width":399,"height":205},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
 		{"id":"38585ed19ff4f050","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":-192,"y":-1120,"width":400,"height":274,"color":"1"},
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400},
@@ -21,7 +18,10 @@
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1173,"y":30,"width":331,"height":400},
 		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":860,"y":1203,"width":307,"height":160},
 		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":216,"y":-286,"width":400,"height":274,"color":"1"},
-		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":71,"y":1635,"width":291,"height":243}
+		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":71,"y":1635,"width":291,"height":243},
+		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":968,"y":1464,"width":398,"height":175},
+		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
+		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":860,"y":1960,"width":489,"height":249}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -35,6 +35,6 @@
 		{"id":"06808438abb62bd8","fromNode":"9e1645175a1e03c6","fromSide":"bottom","toNode":"b46c004cd47f291d","toSide":"top"},
 		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
 		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
-		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"right","toNode":"768899a580c59c99","toSide":"left"}
+		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"}
 	]
 }

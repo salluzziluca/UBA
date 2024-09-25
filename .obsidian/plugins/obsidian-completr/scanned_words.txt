@@ -987,6 +987,7 @@ cdDJ
 cnm
 cE
 cfT
+convertimos
 de
 dispositivos
 del
@@ -1420,6 +1421,7 @@ dUV
 dc
 dsR
 duq
+detectamos
 gestion
 gran
 guarda
@@ -2063,6 +2065,8 @@ ePU
 esB
 eww
 eW
+eficacia
+exploraci
 servicios
 son
 su
@@ -2989,6 +2993,7 @@ pNG
 pum
 pDM
 pWy
+prototipo
 la
 las
 le
@@ -4515,6 +4520,7 @@ SPde
 Sbn
 SbZ
 STzB
+Seleccionamos
 Calls
 Cmabia
 CPU
@@ -4978,6 +4984,8 @@ EiI
 EXW
 EgN
 EKwEEPuh
+Empatizamos
+Empresa
 kernel
 kt
 kU
@@ -6327,6 +6335,7 @@ Ack
 AEnE
 ACD
 ADG
+Aborda
 Programming
 Procesos
 Partes
@@ -6590,6 +6599,9 @@ Pms
 PXj
 Pppx
 PuT
+Proponemos
+Pensamiento
+Prototipamos
 Interface
 ID
 Instructions
@@ -6803,6 +6815,10 @@ ICh
 IsK
 Idii
 IsX
+Instancias
+Investigaci
+Innovaci
+Ideamos
 Un
 UNIX
 UBA
@@ -7981,6 +7997,7 @@ ivB
 ifa
 iME
 iQI
+img
 fijo
 file
 fork
@@ -8602,6 +8619,7 @@ FrR
 FHk
 Fyc
 FRJe
+Fomenta
 Descriptors
 Descriptor
 Devuelve
@@ -8846,6 +8864,7 @@ DRt
 DNYO
 DpB
 Dwu
+Design
 Memoria
 Multivariada
 MORE
@@ -9076,6 +9095,7 @@ Mbb
 MleL
 MNb
 Marco
+Mejora
 Table
 Todos
 This
@@ -9278,6 +9298,8 @@ TIM
 TPmJ
 TGP
 TRv
+Tecnol
+Testeamos
 Realiza
 REgistrys
 Rango
@@ -11289,6 +11311,7 @@ HWB
 HGPq
 HqH
 HVL
+Hacemos
 Jacobiano
 Job
 Jusitfique

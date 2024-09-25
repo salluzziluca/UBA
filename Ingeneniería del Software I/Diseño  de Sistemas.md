@@ -8,6 +8,6 @@ Toco algo en algun lado y se rompe otra cosa (usualmente que nada que ver)
 ### Inmobilidad
 
 
-## Sintomas de buen disño 
+## Síntomas de buen diseño 
 Alta cohesion
 Bajo acoplamiento

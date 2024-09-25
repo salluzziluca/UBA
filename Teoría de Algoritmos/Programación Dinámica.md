@@ -236,3 +236,4 @@ def construir_elecciones(G,M):
 
 
 ## Ej 6: problema de la mochila II  
+El unico tema ahora es que hay que tener mas en cuenta en el peso. Porque si yo elijo el elemento actual tengo que 

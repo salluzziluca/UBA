@@ -18,3 +18,4 @@ Actualmente, las bases de datos también almacenan [[tipos de datos]] más compl
 [[Arquitectura de 3 capas ANSI-SPARC]]
 [[Modelo Entidad-Interrelacion]]
 [[Modelo Entidad-Interrelación Avanzado]]
+[[Teoría del Diseño Racional]]

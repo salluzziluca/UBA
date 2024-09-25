@@ -738,6 +738,7 @@ cortas
 comentado
 cerrado
 crearse
+cohesivas
 de
 dispositivos
 del
@@ -1086,6 +1087,7 @@ decimos
 definien
 digos
 derivar
+desacoplado
 gestion
 gran
 guarda
@@ -6945,6 +6947,7 @@ Reducir
 Resta
 Relaxation
 Responsibility
+Reponsabilidades
 bien
 by
 be

@@ -9,5 +9,5 @@ Toco algo en algún lado y se rompe otra cosa (usualmente que nada que ver)
 Tengo ciertas funcionalidades que me quiero llevar de un lugar a otro y no puedo, porque no está desacoplado en interfaces
 
 ## Síntomas de buen diseño 
-Alta cohesion
-Bajo acoplamiento
+Alta cohesion: Reponsabilidades cohesivas
+Bajo acoplamiento: que no haya muchas dependencias entre modulos, compon

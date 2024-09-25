@@ -12,15 +12,15 @@
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":554,"y":1260,"width":184,"height":60},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":154,"y":1517,"width":400,"height":400},
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando[[Minium Viable Product]]","x":-83,"y":410,"width":473,"height":350,"color":"4"},
-		{"id":"bfe00e58ec9bee3b","x":-560,"y":498,"width":398,"height":175,"type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md"},
+		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-560,"y":498,"width":398,"height":175},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":593,"y":1917,"width":291,"height":243},
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":1320,"y":1517,"width":400,"height":400},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":154,"y":1094,"width":244,"height":240},
 		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":154,"y":780,"width":274,"height":270},
 		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":1840,"y":1630,"width":398,"height":175},
-		{"id":"897418693574edae","x":1747,"y":1917,"width":400,"height":205,"type":"file","file":"zImagenes/Pasted image 20240925155838.png"},
-		{"id":"48ea4a353fec2323","x":1150,"y":1895,"width":489,"height":249,"type":"file","file":"zImagenes/Pasted image 20240925160234.png"}
+		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1747,"y":1917,"width":399,"height":205},
+		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":1150,"y":1895,"width":489,"height":249}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

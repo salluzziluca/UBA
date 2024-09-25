@@ -7,7 +7,7 @@
 > [!NOTE]
 asdas
 
-> [!NOTE]
+> [!]
 > ## Instancias del Design Thinking
 
 1. **Empatizamos**(exploración del contexto): Profunda comprensión de las necesidades. Investigación cuali/cuantitativa.

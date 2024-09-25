@@ -6,13 +6,13 @@
 		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":80,"width":400,"height":400},
 		{"id":"38585ed19ff4f050","x":446,"y":-160,"width":400,"height":274,"color":"1","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md"},
 		{"id":"3caa2fd27c11a373","x":46,"y":1020,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Scrum.md"},
-		{"id":"9016654be135a1ea","x":-1280,"y":1360,"width":331,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"},
 		{"id":"3a1b1968f9ec7e0f","x":-949,"y":690,"width":751,"height":409,"type":"file","file":"zImagenes/Pasted image 20240925153050.png"},
 		{"id":"b41cc4281ee0e59c","x":-1440,"y":994,"width":400,"height":210,"type":"file","file":"Ingeneniería del Software I/R=R.md"},
 		{"id":"94c56eeedc67ddc9","x":-773,"y":1160,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Agile.md"},
 		{"id":"abd7f398d35b1372","x":-973,"y":1906,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Kanban.md"},
 		{"id":"b46c004cd47f291d","x":-520,"y":1906,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md"},
-		{"id":"9e1645175a1e03c6","x":-665,"y":1620,"width":184,"height":60,"type":"text","text":"Agile bebe de "}
+		{"id":"9e1645175a1e03c6","x":-665,"y":1620,"width":184,"height":60,"type":"text","text":"Agile bebe de "},
+		{"id":"9016654be135a1ea","x":-1138,"y":1480,"width":331,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

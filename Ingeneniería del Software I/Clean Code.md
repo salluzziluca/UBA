@@ -57,6 +57,7 @@ Usarlos como una herramienta mas,
 ```
 } // if, Si las funciones son cortas no es necesari`
 ```
+-  Codigo comentado, muerto
 
 
 ## FORMATEA LA CONCHA DE TU MADRE

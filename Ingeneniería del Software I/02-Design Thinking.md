@@ -4,7 +4,12 @@
 > [!IMPORTANT] Design Thinking
 > Es un método para generar ideas innovadoras, que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios.
 
-## Instancias del Design Thinking
+> [!NOTE]
+asdas
+
+> [!NOTE]
+> ## Instancias del Design Thinking
+
 1. **Empatizamos**(exploración del contexto): Profunda comprensión de las necesidades. Investigación cuali/cuantitativa.
 2. **Definimos**(detectamos oportunidades): Patrones de conducta, insights y oportunidades de [Innovación](../Empresa%20de%20Base%20Tecnológica%20II/05-Innovación.md).
 3. **Ideamos**: Proponemos soluciones según el contexto y las necesidades. Pensamiento lateral y creativo. Brainstorming.

@@ -182,6 +182,8 @@ Logging
 Login
 Listar
 Laberinto
+LSP
+Liskov
 capa
 controlado
 cantidad
@@ -734,6 +736,8 @@ completa
 cod
 cortas
 comentado
+cerrado
+crearse
 de
 dispositivos
 del
@@ -1081,6 +1085,7 @@ dependencia
 decimos
 definien
 digos
+derivar
 gestion
 gran
 guarda
@@ -1581,6 +1586,8 @@ eliminamos
 elijo
 edges
 excepciones
+extension
+especificas
 servicios
 son
 su
@@ -1906,6 +1913,7 @@ sumamos
 sicas
 semantica
 seguidos
+superclases
 par
 por
 punto
@@ -2960,6 +2968,8 @@ anomalias
 apellido
 aprobabacion
 acabo
+abierto
+alterar
 hardware
 heap
 hay
@@ -3470,6 +3480,11 @@ Suma
 Schwarz
 Succesive
 Segunda
+SOLID
+SRP
+Single
+Substitution
+Segregation
 Calls
 Cmabia
 CPU
@@ -3651,6 +3666,7 @@ Clausura
 CAMBIADO
 Capacidad
 Caracter
+Closed
 Es
 El
 Estos
@@ -5078,6 +5094,8 @@ INAMICAAA
 Igual
 IkpXVCJ
 Infinita
+ISP
+Inversion
 Un
 UNIX
 UBA
@@ -5448,6 +5466,9 @@ monovaluados
 mail
 mochila
 muerto
+motivo
+modificarla
+modificaci
 tien
 tiene
 todos
@@ -5981,6 +6002,8 @@ infinita
 indivisibles
 inferir
 item
+interfaces
+implementaciones
 fijo
 file
 fork
@@ -6507,6 +6530,7 @@ Diagonal
 Despejo
 Decimos
 Dependencias
+DIP
 Memoria
 Multivariada
 MORE
@@ -6920,6 +6944,7 @@ Rest
 Reducir
 Resta
 Relaxation
+Responsibility
 bien
 by
 be
@@ -7344,6 +7369,8 @@ Orientada
 Ortogonales
 Over
 Opt
+OCP
+Open
 ya
 yo
 yM

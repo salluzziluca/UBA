@@ -10,4 +10,5 @@ Tengo ciertas funcionalidades que me quiero llevar de un lugar a otro y no puedo
 
 ## Síntomas de buen diseño 
 Alta cohesion: Reponsabilidades cohesivas
-Bajo acoplamiento: que no haya muchas dependencias entre modulos, compon
+Bajo acoplamiento: que no haya muchas dependencias entre modulos, clases, componentes
+

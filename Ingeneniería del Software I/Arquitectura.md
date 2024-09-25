@@ -53,4 +53,5 @@ Separo todo en componentes
 
 [[Patrones de Arquitectura del Software]]
 
-%%asdasdass%%
+
+

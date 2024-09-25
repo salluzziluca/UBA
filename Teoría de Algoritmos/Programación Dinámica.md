@@ -234,4 +234,4 @@ def construir_elecciones(G,M):
 
 ## Ej 5: numpad 
 
-## Ej 6: problema de la mochila  
+## Ej 6: problema de la mochila II 

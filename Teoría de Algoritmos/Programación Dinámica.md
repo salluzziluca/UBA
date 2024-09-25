@@ -236,4 +236,4 @@ def construir_elecciones(G,M):
 
 
 ## Ej 6: problema de la mochila II  
-El unico tema ahora es que hay que tener mas en cuenta en el peso. Porque si yo elijo el elemento actual tengo que 
+El unico tema ahora es que hay que tener mas en cuenta en el peso. Porque si yo elijo el elemento actual tengo que fijarme cual es ahora el optimo del elemento anterior CON EL PESO CAMBIADO. Es decir, con el peso que habia - el del elemento que acabo de agregar

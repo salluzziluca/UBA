@@ -12,7 +12,7 @@
 		{"id":"abd7f398d35b1372","x":-973,"y":1906,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Kanban.md"},
 		{"id":"b46c004cd47f291d","x":-520,"y":1906,"width":400,"height":400,"type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md"},
 		{"id":"9e1645175a1e03c6","x":-665,"y":1620,"width":184,"height":60,"type":"text","text":"Agile bebe de "},
-		{"id":"9016654be135a1ea","x":-1138,"y":1480,"width":331,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"}
+		{"id":"9016654be135a1ea","x":-1240,"y":1420,"width":331,"height":400,"type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

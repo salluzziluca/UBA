@@ -48,14 +48,15 @@ Usarlos como una herramienta mas,
 - Advertencias de consecuencias
 - Ampliar información
 ##### Malas practicas
-Redundancia
-Comentarios erroneos (pueden conducir a errores)
-Comentarios obligatorios (no siempre es necesario comentar)
-Ruido 
-Marcadores de posicion `******`
-Al cerrar una llave (ya no es necesario)
-```} // if, Si las funciones son cortas no es necesari`
-
+- Redundancia
+- Comentarios erroneos (pueden conducir a errores)
+- Comentarios obligatorios (no siempre es necesario comentar)
+- Ruido 
+- Marcadores de posicion `******`
+- Al cerrar una llave (ya no es necesario)
+```
+} // if, Si las funciones son cortas no es necesari`
+```
 
 
 ## FORMATEA LA CONCHA DE TU MADRE

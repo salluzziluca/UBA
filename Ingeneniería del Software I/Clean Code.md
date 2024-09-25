@@ -74,7 +74,9 @@ Self-Validating
 Timely 
 
 - casos de prueba aislados
-- Una sola cosa en un solo caso de pruebasunico metodo de assert por caso de rpueba
+- Una sola cosa en un solo caso de pruebas
+- unico metodo de assert por caso de rpueba
+- Utilizar una convencion de nombres para el 
 - utilizar mensajes descriptivos en los metodos de assert
 - mide la cobertura del codigo para entrar casos de prueba faltantes
 - Nombrar los tests descriptivamente

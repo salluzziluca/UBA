@@ -1576,6 +1576,7 @@ estructuras
 esiten
 eliminamos
 elijo
+edges
 servicios
 son
 su
@@ -4434,6 +4435,7 @@ norma
 nro
 numpad
 necesarios
+nodes
 via
 vuelve
 viven

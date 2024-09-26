@@ -21,7 +21,11 @@ Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña s
 -  Con artefactos de visualización
 
 #### User centered desing 
-El Equipo de Producto se comunica constantemente con usuarios y clientes
+El Equipo de Producto se comunica constantemente con usuarios y clientes, ==se co-crea junto a ellos==. Se diseñan experiencias
+
+#### Humildad Intelectual
+Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
+- 
 ## Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto

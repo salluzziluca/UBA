@@ -1051,6 +1051,8 @@ configuraciones
 conjuntamente
 completar
 cuesti
+ciles
+costosos
 de
 dispositivos
 del
@@ -1508,6 +1510,7 @@ desarolladas
 desarrolladores
 descubrir
 documento
+dif
 gestion
 gran
 guarda
@@ -3165,6 +3168,7 @@ pdf
 papel
 partido
 perspectivas
+perciben
 la
 las
 le
@@ -3939,6 +3943,7 @@ aHZ
 algunas
 altamente
 arquitect
+abordan
 hardware
 heap
 hay
@@ -9512,6 +9517,7 @@ DQC
 DescendantFonts
 DGs
 Descent
+Decisiones
 Memoria
 Multivariada
 MORE

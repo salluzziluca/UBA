@@ -12,7 +12,10 @@ Es dividir el sistema en componentes.
 - divide el sistema en componentes 
 - estos se comunican entre ellos
 ![[Pasted image 20240912192539.png]]
-## Decisiones de Arquitectu
+## Decisiones de Arquitectura 
+>[!quote] Decisiones de Arquitectura son decisiones de diseño que abordan requisitos significativos desde el punto de vista arquitectónico; se perciben como difíciles de hacer y/o costosos de cambiar.
+
+
 ## UML
 Tipos de diagramas: 
 - diagramas de clase

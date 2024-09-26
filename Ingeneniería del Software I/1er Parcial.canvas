@@ -13,7 +13,6 @@
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":897,"y":578,"width":244,"height":240},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1173,"y":30,"width":331,"height":400},
 		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":860,"y":1203,"width":307,"height":160},
-		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":216,"y":-286,"width":400,"height":274,"color":"1"},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":71,"y":1635,"width":291,"height":243},
 		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":968,"y":1464,"width":398,"height":175},
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
@@ -23,7 +22,9 @@
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
 		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
-		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400}
+		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400},
+		{"id":"af8e44158d9fa763","x":665,"y":-613,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Arquitectura.md"},
+		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":60,"y":-487,"width":400,"height":274,"color":"1"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -40,6 +41,7 @@
 		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"},
 		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"},
 		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
-		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "}
+		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "},
+		{"id":"48ee78da60b921a4","fromNode":"9764ef3a46c41a11","fromSide":"top","toNode":"af8e44158d9fa763","toSide":"bottom","label":"En la macro-escala\nusamos"}
 	]
 }

@@ -340,6 +340,7 @@ LQf
 LIaj
 LLCt
 LQWa
+Lovable
 capa
 controlado
 cantidad
@@ -981,6 +982,11 @@ cnm
 cE
 cfT
 convertimos
+corazonadas
+compartido
+centered
+convivir
+certezas
 de
 dispositivos
 del
@@ -1415,6 +1421,8 @@ dc
 dsR
 duq
 detectamos
+desing
+dded
 gestion
 gran
 guarda
@@ -1608,6 +1616,8 @@ gw
 gxd
 gRZ
 gqIS
+guste
+guerras
 especifico
 entra
 en
@@ -2060,6 +2070,10 @@ eww
 eW
 eficacia
 exploraci
+evoluci
+entregar
+entendimiento
+experiencias
 servicios
 son
 su
@@ -2987,6 +3001,8 @@ pum
 pDM
 pWy
 prototipo
+participando
+parecer
 la
 las
 le
@@ -3724,6 +3740,9 @@ aPT
 abE
 alL
 aok
+aprendizaje
+artefactos
+aprender
 hardware
 heap
 hay
@@ -3923,6 +3942,7 @@ hhV
 hHA
 hjGI
 hyV
+hip
 que
 queda
 quien
@@ -4777,6 +4797,8 @@ CkKh
 Chc
 CiYeG
 Cynefin
+Colaboracion
+Construir
 Es
 El
 Estos
@@ -4979,6 +5001,10 @@ EgN
 EKwEEPuh
 Empatizamos
 Empresa
+Earliest
+Equipo
+Evitando
+Experimentos
 kernel
 kt
 kU
@@ -5469,6 +5495,8 @@ rmk
 rgH
 rme
 rpL
+recomiende
+respeto
 operacion
 orden
 operaciones
@@ -5670,6 +5698,7 @@ olq
 oqv
 ot
 ols
+opiniones
 nombre
 nuevo
 nica
@@ -6108,6 +6137,7 @@ vxg
 vhG
 vqN
 vDM
+visualizaci
 Application
 API
 Asigna
@@ -6812,6 +6842,7 @@ Instancias
 Investigaci
 Innovaci
 Ideamos
+Intelectual
 Un
 UNIX
 UBA
@@ -7328,6 +7359,7 @@ mIR
 mik
 mnI
 mRJ
+manteniendo
 tien
 tiene
 todos
@@ -7991,6 +8023,8 @@ ifa
 iME
 iQI
 img
+incertidumbre
+inclusivo
 fijo
 file
 fork
@@ -8858,6 +8892,7 @@ DNYO
 DpB
 Dwu
 Design
+Desarrollando
 Memoria
 Multivariada
 MORE
@@ -9089,6 +9124,7 @@ MleL
 MNb
 Marco
 Mejora
+Mindset
 Table
 Todos
 This
@@ -11305,6 +11341,7 @@ HGPq
 HqH
 HVL
 Hacemos
+Humildad
 Jacobiano
 Job
 Jusitfique

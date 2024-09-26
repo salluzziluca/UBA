@@ -6,7 +6,6 @@
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":460,"y":98,"width":400,"height":400},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
-		{"id":"38585ed19ff4f050","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":-192,"y":-1120,"width":400,"height":274,"color":"1"},
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":-76,"y":1083,"width":184,"height":60},
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]] y utilizando [[Product Discovery]]","x":-144,"y":430,"width":473,"height":350,"color":"4"},
@@ -20,11 +19,10 @@
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
 		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":860,"y":1960,"width":489,"height":249},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-501,"y":-86,"width":440,"height":440},
-		{"id":"2790b378a702e487","type":"file","file":"Ingeneniería del Software I/Design Thinking.md","x":-392,"y":-640,"width":400,"height":400},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
-		{"id":"e1ff18edf023f5dc","x":-1250,"y":-512,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md"}
+		{"id":"e1ff18edf023f5dc","x":-481,"y":-780,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -39,9 +37,8 @@
 		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
 		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
 		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"},
-		{"id":"292164918e3f26cd","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"2790b378a702e487","toSide":"bottom"},
 		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"},
 		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
-		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"e1ff18edf023f5dc","toSide":"right","label":"Para entender \ny crear subproblemas "}
+		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "}
 	]
 }

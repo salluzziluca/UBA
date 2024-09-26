@@ -12,6 +12,7 @@ Es dividir el sistema en componentes.
 - divide el sistema en componentes 
 - estos se comunican entre ellos
 ![[Pasted image 20240912192539.png]]
+## Decisiones de Arquitectu
 ## UML
 Tipos de diagramas: 
 - diagramas de clase

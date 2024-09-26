@@ -1045,6 +1045,12 @@ cQB
 cim
 cyE
 com
+confiabilidad
+computadores
+configuraciones
+conjuntamente
+completar
+cuesti
 de
 dispositivos
 del
@@ -1497,6 +1503,11 @@ dSH
 dfQ
 dimr
 dbff
+disponibilidad
+desarolladas
+desarrolladores
+descubrir
+documento
 gestion
 gran
 guarda
@@ -2191,6 +2202,8 @@ emp
 eeej
 els
 exX
+empaqueta
+etapa
 servicios
 son
 su
@@ -2612,6 +2625,9 @@ sMo
 sKE
 sjA
 startxref
+sitios
+softwre
+sitos
 par
 por
 punto
@@ -3146,6 +3162,9 @@ pfK
 pZZ
 pGy
 pdf
+papel
+partido
+perspectivas
 la
 las
 le
@@ -3917,6 +3936,9 @@ aog
 anr
 atJ
 aHZ
+algunas
+altamente
+arquitect
 hardware
 heap
 hay
@@ -4525,6 +4547,7 @@ uPV
 ube
 uqe
 uUx
+usarse
 System
 Son
 Source
@@ -5081,6 +5104,8 @@ CGin
 Consolas
 CapHeight
 Count
+Conclusiones
+Concentra
 Es
 El
 Estos
@@ -5322,6 +5347,7 @@ Eco
 EoJU
 Encoding
 EOF
+Esperamos
 kernel
 kt
 kU
@@ -5841,6 +5867,10 @@ rOK
 ron
 rjM
 rGJ
+requisitos
+requisimos
+redes
+rol
 operacion
 orden
 operaciones
@@ -6524,6 +6554,8 @@ vtQE
 vbM
 vTW
 vTP
+variados
+validarlas
 Application
 API
 Asigna
@@ -7845,6 +7877,7 @@ mV
 mlM
 mtN
 mumV
+mapeados
 tien
 tiene
 todos
@@ -8156,6 +8189,9 @@ tTw
 tTP
 tQj
 trailer
+trabajan
+tomadas
+temprana
 inico
 interna
 infro
@@ -8541,6 +8577,10 @@ isK
 isk
 iWK
 icV
+identificados
+impacto
+ilustraci
+integrantes
 fijo
 file
 fork
@@ -8821,6 +8861,8 @@ fNT
 fjR
 fXaA
 faee
+flexible
+focaliz
 Nombre
 Notas
 Not
@@ -9952,6 +9994,7 @@ Trw
 TGh
 TiZR
 ToUnicode
+Toma
 Realiza
 REgistrys
 Rango

@@ -6,4 +6,8 @@
 
 
 - No deben ser amibiguas ni conflictivas 
-- 
+- Deben ser unicas, independientes uniformes y completas 
+- Deben estar bien formadas, ser minimas y atómicas
+
+>[!important] Épicas: Historias de usuario que se pueden descomponer en más historias de usuario
+

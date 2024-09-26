@@ -17,5 +17,6 @@
 ![[Pasted image 20240926103307.png]]
 
 ## Malas Practicas 
-user stories malformadas: quiero descargar reportes mensuales.
-orientadas a la solucion: Como analista, quiero poder exportar las cosas a un CSV... PARA
+- user stories malformadas: quiero descargar reportes mensuales.
+- orientadas a la solucion: Como analista, quiero poder exportar las cosas a un CSV... La historia presupone detalles de la implementacion 
+- Demasiado Grandes

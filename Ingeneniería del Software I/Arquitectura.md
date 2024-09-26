@@ -3,7 +3,8 @@
 Conceptos o propiedades fundamentales  de un sistema en su entorno encarnando en su elementos, relaciones y en los principios de su diseño y evolucion
 
 >[!quote] La arquitectura del sofwtare son aquella decisiones que son importantes y dificiles de cambiar. Martin Fowler.
->
+
+
 
 Es dividir el sistema en componentes.
 - Dcisiones significativas
@@ -29,7 +30,9 @@ Puedo encontrar diferentes tipos de dibujitos para representar la arquitectura s
 
 ## Modelo de vistas 4+1 
 ![[Pasted image 20240909202130.png]]
-Como hay que diseñar para que varias personas entiendan (usuarios, gente que recien llega a la empresa, contaduria, los devs, etc)
+>[!important] Hay que diseñar para que varias personas entiendan (usuarios, gente que recien llega a la empresa, contaduria, los devs, etc)
+
+
 
 ### Vista escenario
 aca van a estar los requerimientos, los problemas que me van a modificar mi arquitectura

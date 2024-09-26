@@ -34,8 +34,6 @@ Puedo encontrar diferentes tipos de dibujitos para representar la arquitectura s
 
 
 
-### Vista escenario
-aca van a estar los requerimientos, los problemas que me van a modificar mi arquitectura
 
 ### Vista logica 
 Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementos de diseño comunes entre diversas partes del sistema. Las soluciones al los problemas propuestos al escenario
@@ -49,6 +47,7 @@ Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribu
 Toma en cuenta los requisimos no funcionales como disponibilidad, confiabilidad (tolerancia a fallas), rendimiento y escalabilidad. 
 
 El software se ejecuta sobre una red de computadores o nodos de procesamiento. Los variados elementos identificados –redes, procesos, tareas y objetos– requieren ser mapeados sobre los nodos. 
+
 Esperamos que diferentes configuraciones puedan usarse: algunas para desarrollo y pruebas, otras para mostrar el sistema en varios sitios para distintos usuarios. Por lo tanto, la relación del software en los nodos debe ser altamente flexible y tener un impacto mínimo sobre el código fuente.
 ### Vista de componentes  
 Se centra en la organizacion real de los modulos del del softwre en el ambiente de desarrollo del software. Se empaqueta en partes pequeñas que pueden ser desarolladas por una persona o por grupos pequeños de desarrolladores. 
@@ -57,9 +56,16 @@ Tiene en cuenta los requisitos internos
 
 Separo todo en componentes
 
-----
-![[Pasted image 20240909202957.png]]
 
+### Vista escenario
+Los elementos de las cuatro vistas trabajan conjuntamente en forma natural mediante el uso de un conjunto pequeño de escenarios relevantes. Los escenarios son de alguna manera una abstracción de los requisitos más importantes. 
+Sirve a dos propósitos principales:
+• Como una guía para descubrir elementos arquitectónicos durante el diseño de arquitectura
+• Como un rol de validación e ilustración después de completar el diseño de arquitectura, en el papel y como punto de partido de las pruebas de un prototipo de la arquitectura.
+
+### Conclusiones
+
+- Permite a través de diferentes vistas analizar distintas perspectivas del problema, focalizándose en el problema en cuestión - Concentra en un único documento las principales decisiones tomadas sobre el sistema - Permite a nuevos integrantes del equipo entender la arquitectura del sistema y ubicarse dentro de la solución - Permite discutir con todos los stakeholders las distintas decisiones y validarlas en una etapa temprana
 
 [[Patrones de Arquitectura del Software]]
 

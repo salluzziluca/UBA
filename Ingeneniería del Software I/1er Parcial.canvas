@@ -22,8 +22,8 @@
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
-		{"id":"e1ff18edf023f5dc","x":-481,"y":-780,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md"},
-		{"id":"526d4ae57dbff8d4","x":-860,"y":1320,"width":400,"height":400,"type":"file","file":"zImagenes/tipos de diagramas 1.pdf"}
+		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
+		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

@@ -65,7 +65,10 @@ Sirve a dos propósitos principales:
 
 ### Conclusiones
 
-- Permite a través de diferentes vistas analizar distintas perspectivas del problema, focalizándose en el problema en cuestión - Concentra en un único documento las principales decisiones tomadas sobre el sistema - Permite a nuevos integrantes del equipo entender la arquitectura del sistema y ubicarse dentro de la solución - Permite discutir con todos los stakeholders las distintas decisiones y validarlas en una etapa temprana
+- Permite a través de diferentes vistas analizar distintas perspectivas del problema, focalizándose en el problema en cuestión
+- Concentra en un único documento las principales decisiones tomadas sobre el sistema 
+- Permite a nuevos integrantes del equipo entender la arquitectura del sistema y ubicarse dentro de la solución
+- Permite discutir con todos los stakeholders las distintas decisiones y validarlas en una etapa temprana
 
 [[Patrones de Arquitectura del Software]]
 

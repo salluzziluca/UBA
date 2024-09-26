@@ -24,8 +24,9 @@ Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña s
 El Equipo de Producto se comunica constantemente con usuarios y clientes, ==se co-crea junto a ellos==. Se diseñan experiencias
 
 #### Humildad Intelectual
-Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
-- 
+- Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
+- Experimentos: tolerancia al error y a cambiar de parecer 
+- Construir un ambiente seguro e inclusivo de respeto a todas las opiniones del equipo
 ## Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto

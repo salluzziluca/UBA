@@ -10,6 +10,10 @@ Para esto hay que tener en cuenta lo siguiente:
 - Si la historia es verdadera y emociona a quienes la crearon, es muy probable que tambien emocione a la audiencia 
 
 ## Que hacer para que la historia tenga impacto
-Tiene que ser concisa: hablar sobre todos los beneficios de lo que mostramos hace que se retengan de forma erratica
+Tiene que ser concisa: hablar sobre todos los beneficios de lo que mostramos hace que se retengan de forma errática
 Audiencia: la historia tiene que relacionarse con los intereses de la audiencia 
 orientadora: tiene que promover en la audiencia la conducta que estoy esperando en base a argumentos planteados
+
+## Como lograr que la audiencia tome acción
+
+Why? Establecer la conexión entre la necesidad de la audiencia y la necesidad propuesta

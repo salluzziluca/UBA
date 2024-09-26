@@ -33,3 +33,8 @@ Estos deben ser:
 
 # casos de uso 
 Descripcion de: 
+- una serie de acciones
+- reallizadas por un sistema 
+- que generan un resultado observable de valor para un actor en particular
+- Compuestos de un escenario principal y un conjunto de escenarios alternativos
+  ![[Pasted image 20240926105317.png]]

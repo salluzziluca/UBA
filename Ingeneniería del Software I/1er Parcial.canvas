@@ -23,7 +23,8 @@
 		{"id":"2790b378a702e487","type":"file","file":"Ingeneniería del Software I/Design Thinking.md","x":-392,"y":-640,"width":400,"height":400},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
-		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400}
+		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
+		{"id":"e1ff18edf023f5dc","x":-1250,"y":-512,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -39,6 +40,8 @@
 		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
 		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"},
 		{"id":"292164918e3f26cd","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"2790b378a702e487","toSide":"bottom"},
-		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"}
+		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"},
+		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
+		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"e1ff18edf023f5dc","toSide":"right","label":"Para entender y crear "}
 	]
 }

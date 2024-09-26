@@ -11,3 +11,5 @@ Para esto hay que tener en cuenta lo siguiente:
 
 ## Que hacer para que la historia tenga impacto
 Tiene que ser concisa: hablar sobre todos los beneficios de lo que mostramos hace que se retengan de forma erratica
+Audiencia: la historia tiene que relacionarse con los intereses de la audiencia 
+orientadora: tiene que promover en la audiencia la conducta que estoy esperando en base a argumentos planteados

@@ -1,4 +1,4 @@
-Se reemplaza el Minimum viable product por el Earliest testable usable lovable product![[Pasted image 20240902192418.png]]
+Se reemplaza el [[Minium Viable Product]] por el Earliest testable usable lovable product![[Pasted image 20240902192418.png]]
 Primero que sea testeable, después utilizable y por ultimo que esté bien hecho.
 Lovable seria que a la gente le guste, lo recomiende
 
@@ -6,6 +6,9 @@ Lovable seria que a la gente le guste, lo recomiende
 ## Discovery 
 **Clave**
 ![[Pasted image 20240902192626.png]]
+
+>[!quote] Un producto nunca está “listo”, está en constante evolución, siempre apuntando a entregar más valor a los clientes.
+
 
 Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña solo al inicio
 

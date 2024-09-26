@@ -17,3 +17,6 @@ orientadora: tiene que promover en la audiencia la conducta que estoy esperando 
 ## Como lograr que la audiencia tome acción
 
 Why? Establecer la conexión entre la necesidad de la audiencia y la necesidad propuesta
+Solucion: tiene que estar conectada a la oportunidad, ser consia y promover la conducta deseable
+
+accion: cierre con una accion a tomar que sea clara pero sin detalles, solo con la idea principal

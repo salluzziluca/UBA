@@ -11,3 +11,7 @@
 
 >[!important] Épicas: Historias de usuario que se pueden descomponer en más historias de usuario
 
+>[!example] Como estudiante, quiero inscribirme en materias para el cuatrimestre para… - … quiero saber cuando me corresponde inscribirme … - … quiero saber en qué cursos puedo inscribirme … - … quiero saber qué materias hay en mi plan de estudios … - … quiero saber qué materias tengo aprobadas … - … quiero saber qué cursos tienen cupo disponible para cada materia … - … quiero inscribirme en cursos …
+
+###### Criterio INVEST 
+![[Pasted image 20240926103307.png]]

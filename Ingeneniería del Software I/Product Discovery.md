@@ -13,7 +13,7 @@ Lovable seria que a la gente le guste, lo recomiende
 Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña solo al inicio
 
 ![[Pasted image 20240902193412.png]]
-
+## Mindset del Product Discovery
 ## Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto

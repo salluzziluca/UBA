@@ -2,4 +2,8 @@ Pilares:
 Relevancia: QUe preocupaciones y objetivos tiene la audiencia
 impacto: necesitamos un cambio de mindset? cual
 Accion: que acciones transformadoras puede tomar la audiencia
-![[Pasted image 20240926131823.png]]
+Compromiso: como conectar las aspiraciones de la audiencia con la info relevante.
+
+Para esto hay que tener:
+- Empatia: entender las necesidades de la audiencia 
+- Objetivos: 

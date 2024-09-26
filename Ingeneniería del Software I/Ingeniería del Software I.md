@@ -15,3 +15,4 @@ Priemera enseñanza: No seas boludo *o7*
 [[Atributos de Calidad]]
 [[Product Discovery]]
 [[Katas]]
+![[1er Parcial.canvas|1er Parcial]]

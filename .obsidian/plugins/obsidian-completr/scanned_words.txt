@@ -372,7 +372,6 @@ covarianza
 cuando
 condiciones
 cpu
-cambio
 cursor
 capitulo
 cartesianas
@@ -408,7 +407,6 @@ copy
 conocido
 campos
 compartidas
-cambiar
 chapas
 cargadas
 campo
@@ -465,7 +463,6 @@ comparaci
 crea
 corrobora
 contador
-cambiando
 comparando
 combinaciones
 correcto
@@ -541,7 +538,6 @@ corto
 cortito
 corta
 computadora
-cambia
 chikito
 context
 corren
@@ -572,7 +568,6 @@ capi
 capitan
 cruel
 casi
-cambiaban
 contaba
 cintura
 cantidades
@@ -734,7 +729,6 @@ claves
 candidatas
 calve
 candidata
-cambian
 chupa
 cascada
 cardinalidad
@@ -842,7 +836,6 @@ change
 cpa
 comunicada
 cambie
-cambiada
 cacheable
 contieen
 carateres

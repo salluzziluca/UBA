@@ -22,7 +22,7 @@
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
 		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":860,"y":1960,"width":489,"height":249},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-501,"y":-86,"width":440,"height":440},
-		{"id":"2790b378a702e487","x":-392,"y":-640,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Design Thinking.md"}
+		{"id":"2790b378a702e487","type":"file","file":"Ingeneniería del Software I/Design Thinking.md","x":-392,"y":-640,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

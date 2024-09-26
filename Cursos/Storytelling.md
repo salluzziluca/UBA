@@ -6,4 +6,4 @@ Compromiso: como conectar las aspiraciones de la audiencia con la info relevante
 
 Para esto hay que tener:
 - Empatia: entender las necesidades de la audiencia 
-- Objetivos: 
+- Objetivos: considerar sus metas, desafios. Buscar el punto de contacto

@@ -4,3 +4,6 @@
 
 >[!example] Como Juan Carlos (jubilado) quiero imprimir un comprobante de mi reserva de turno para tener recordatorio de mi turno si mis dispositivos electrónicos fallan
 
+
+- No deben ser amibiguas ni conflictivas 
+- 

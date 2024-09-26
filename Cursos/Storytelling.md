@@ -10,3 +10,4 @@ Para esto hay que tener en cuenta lo siguiente:
 - Si la historia es verdadera y emociona a quienes la crearon, es muy probable que tambien emocione a la audiencia 
 
 ## Que hacer para que la historia tenga impacto
+Tiene que ser concisa: hablar sobre todos los beneficios de lo que mostramos hace que se retengan de forma erratica

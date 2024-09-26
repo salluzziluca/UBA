@@ -30,3 +30,6 @@ Estos deben ser:
 - Verificables 
 - Independientes 
 - Orientados al Problema
+
+# casos de uso 
+Descripcion de: 

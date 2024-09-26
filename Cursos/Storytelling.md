@@ -24,3 +24,4 @@ accion: cierre con una accion a tomar que sea clara pero sin detalles, solo con 
 ## Como lograr que la audiencia se comprometa?
 Cratividad: Transmitir la improntra personal a traves de todos los aspectos posibles: Imagenes, vocabulario, modos, etc.
 Diseño: la historia tiene que estar relacionada con el diseño de la presentacion. Colores, formas, logos, tipografia. ==hay que trata de ser disruptivo e innovar==
+Expertise: demostrar el nivel de conocimiento sobre la solucion a abordar y la flexibilidad para buscar mejoras

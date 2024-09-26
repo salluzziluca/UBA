@@ -1,10 +1,8 @@
 {
 	"nodes":[
-		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":-286,"width":400,"height":400},
 		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1394,"y":334,"width":400,"height":380},
 		{"id":"94c56eeedc67ddc9","type":"file","file":"Cursos/Agile and Scrum/Agile.md","x":446,"y":760,"width":400,"height":400},
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
-		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":460,"y":98,"width":400,"height":400},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":-76,"y":1083,"width":184,"height":60},
@@ -22,9 +20,11 @@
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
 		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
 		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400},
-		{"id":"af8e44158d9fa763","x":665,"y":-613,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Arquitectura.md"},
+		{"id":"af8e44158d9fa763","type":"file","file":"Ingeneniería del Software I/Arquitectura.md","x":665,"y":-613,"width":400,"height":400},
 		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":60,"y":-487,"width":400,"height":274,"color":"1"},
-		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":16,"y":1659,"width":315,"height":263}
+		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":16,"y":1659,"width":315,"height":263},
+		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":-300,"width":400,"height":400},
+		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":497,"y":134,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

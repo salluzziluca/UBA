@@ -20,3 +20,5 @@ Why? Establecer la conexión entre la necesidad de la audiencia y la necesidad p
 Solucion: tiene que estar conectada a la oportunidad, ser consia y promover la conducta deseable
 
 accion: cierre con una accion a tomar que sea clara pero sin detalles, solo con la idea principal
+
+## Como lograr que la audiencia se comprometa'

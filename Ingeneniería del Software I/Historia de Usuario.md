@@ -38,3 +38,4 @@ Descripcion de:
 - que generan un resultado observable de valor para un actor en particular
 - Compuestos de un escenario principal y un conjunto de escenarios alternativos
   ![[Pasted image 20240926105317.png]]
+- ![[Pasted image 20240926105336.png]]

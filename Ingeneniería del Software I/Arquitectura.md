@@ -49,8 +49,7 @@ Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribu
 
 ![[Pasted image 20240909201831.png]]
 ### Vista de componentes  
-la vista de desarrollo se centra en la organizacion real de los modulos de software en el ambiente de desarrollo. 
-![[Pasted image 20240909201209.png]]
+Se centra en la org
 
 Separo todo en componentes
 

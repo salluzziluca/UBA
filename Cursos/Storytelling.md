@@ -22,4 +22,4 @@ Solucion: tiene que estar conectada a la oportunidad, ser consia y promover la c
 accion: cierre con una accion a tomar que sea clara pero sin detalles, solo con la idea principal
 
 ## Como lograr que la audiencia se comprometa?
-Cratividad: Transmitir la impro
+Cratividad: Transmitir la improntra personal a traves de todos los aspectos posibles: Imagenes, vocabulario, modos, etc.

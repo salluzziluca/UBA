@@ -15,3 +15,4 @@
 
 ###### Criterio INVEST 
 ![[Pasted image 20240926103307.png]]
+

@@ -38,9 +38,11 @@ Puedo encontrar diferentes tipos de dibujitos para representar la arquitectura s
 aca van a estar los requerimientos, los problemas que me van a modificar mi arquitectura
 
 ### Vista logica 
-Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementso de diseño comunes entre diversas partes del sistema. Las soluciones al los problemas propuestos al escenario
+Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementos de diseño comunes entre diversas partes del sistema. Las soluciones al los problemas propuestos al escenario
 
 ### Vista de procesos 
+Toma en cuenta requisitos no funcionales como rendimiento y disponibilidad.
+
 Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas. Los procesos que declare en componentes los pongo a correr
 
 ### Vista fisica o de despliegue 

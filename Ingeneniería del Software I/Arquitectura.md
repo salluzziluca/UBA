@@ -49,10 +49,12 @@ Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribu
 
 ![[Pasted image 20240909201831.png]]
 ### Vista de componentes  
-Se centra en la org
+Se centra en la organizacion real de los modulos del del softwre en el ambiente de desarrollo del software. Se empaqueta en partes pequeñas que pueden ser desarolladas por una persona o por grupos pequeños de desarrolladores. 
+
+Tiene en cuenta los requisitos internos
 
 Separo todo en componentes
-
+----
 ![[Pasted image 20240909202957.png]]
 
 

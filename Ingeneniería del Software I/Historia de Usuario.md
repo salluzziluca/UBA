@@ -22,7 +22,7 @@
 - Demasiado Grandes
 # Criterios de aceptacion 
 > Condiciones especificas que deben cumplirse para aceptar trabajo realizado 
-Lista de condiciones y Escenarios: Dado que <contexto>, cuando suceda <evento> entonces <consecuencia>.
+Lista de condiciones y Escenarios: Dado que \<contexto>, cuando suceda \<evento> entonces \<consecuencia>.
 
 Estos deben ser:
 - Claros 
@@ -47,3 +47,6 @@ Descripcion de:
 - Identificar actores involucrados en el sistema
 ### User story mapping 
 ![[Pasted image 20240926105516.png]]
+
+### Impact mapping
+![[Pasted image 20240926105526.png]]

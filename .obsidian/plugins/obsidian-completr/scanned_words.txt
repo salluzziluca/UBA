@@ -987,6 +987,13 @@ compartido
 centered
 convivir
 certezas
+consultar
+comprobante
+conflictivas
+completas
+cupo
+cumplirse
+consecuencia
 de
 dispositivos
 del
@@ -1423,6 +1430,9 @@ duq
 detectamos
 desing
 dded
+descomponer
+disponible
+descargar
 gestion
 gran
 guarda
@@ -1618,6 +1628,7 @@ gRZ
 gqIS
 guste
 guerras
+generan
 especifico
 entra
 en
@@ -2074,6 +2085,11 @@ evoluci
 entregar
 entendimiento
 experiencias
+estudiante
+electr
+estudios
+exportar
+escenarios
 servicios
 son
 su
@@ -2481,6 +2497,8 @@ sKo
 sdKlo
 seIv
 sYld
+suceda
+story
 par
 por
 punto
@@ -3003,6 +3021,9 @@ pWy
 prototipo
 participando
 parecer
+persona
+picas
+presupone
 la
 las
 le
@@ -3269,6 +3290,7 @@ llm
 lnl
 lDK
 llO
+listado
 agnosticos
 apps
 al
@@ -3743,6 +3765,13 @@ aok
 aprendizaje
 artefactos
 aprender
+anotarme
+amibiguas
+aprobadas
+analista
+aceptacion
+aceptar
+alternativos
 hardware
 heap
 hay
@@ -4294,6 +4323,9 @@ uCbl
 uV
 uNh
 uVVWXZ
+universitaria
+unicas
+uniformes
 System
 Son
 Source
@@ -4799,6 +4831,14 @@ CiYeG
 Cynefin
 Colaboracion
 Construir
+Carla
+Carlos
+Criterio
+CSV
+Criterios
+Claros
+Concisos
+Compuestos
 Es
 El
 Estos
@@ -5005,6 +5045,7 @@ Earliest
 Equipo
 Evitando
 Experimentos
+Escenarios
 kernel
 kt
 kU
@@ -5497,6 +5538,9 @@ rme
 rpL
 recomiende
 respeto
+recordatorio
+reportes
+reallizadas
 operacion
 orden
 operaciones
@@ -5699,6 +5743,8 @@ oqv
 ot
 ols
 opiniones
+orientadas
+observable
 nombre
 nuevo
 nica
@@ -5906,6 +5952,7 @@ nkCT
 nQr
 noQ
 nSr
+nicos
 via
 vuelve
 viven
@@ -6625,6 +6672,7 @@ PuT
 Proponemos
 Pensamiento
 Prototipamos
+Practicas
 Interface
 ID
 Instructions
@@ -6843,6 +6891,10 @@ Investigaci
 Innovaci
 Ideamos
 Intelectual
+INVEST
+Independientes
+Identificar
+Impact
 Un
 UNIX
 UBA
@@ -7360,6 +7412,11 @@ mik
 mnI
 mRJ
 manteniendo
+mis
+minimas
+malformadas
+mensuales
+mapping
 tien
 tiene
 todos
@@ -7661,6 +7718,7 @@ tdF
 tNIwL
 tbR
 tmdMU
+turno
 inico
 interna
 infro
@@ -8025,6 +8083,8 @@ iQI
 img
 incertidumbre
 inclusivo
+inscribirme
+involucrados
 fijo
 file
 fork
@@ -8289,6 +8349,8 @@ fCRa
 fqcak
 fyu
 fec
+fallan
+formadas
 Nombre
 Notas
 Not
@@ -8893,6 +8955,8 @@ DpB
 Dwu
 Design
 Desarrollando
+Demasiado
+Descripcion
 Memoria
 Multivariada
 MORE
@@ -9125,6 +9189,7 @@ MNb
 Marco
 Mejora
 Mindset
+Malas
 Table
 Todos
 This
@@ -10121,6 +10186,7 @@ VJsg
 VoS
 Vkvf
 VmP
+Verificables
 OPTIONS
 Operativos
 Orden
@@ -10265,6 +10331,7 @@ OlD
 Ode
 OzSB
 OBu
+Orientados
 ya
 yo
 yM
@@ -10543,6 +10610,7 @@ jXJh
 jYD
 jmc
 jZs
+jubilado
 Ya
 Yourself
 YAGNI
@@ -10833,6 +10901,7 @@ Giu
 GQj
 GCUr
 GbC
+Grandes
 BX
 Bit
 Box
@@ -11342,6 +11411,7 @@ HqH
 HVL
 Hacemos
 Humildad
+Historias
 Jacobiano
 Job
 Jusitfique

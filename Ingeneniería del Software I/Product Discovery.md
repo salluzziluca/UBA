@@ -14,7 +14,14 @@ Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña s
 
 ![[Pasted image 20240902193412.png]]
 ## Mindset del Product Discovery
-#### Colaboracion y aprendizaje en el equpo de producto
+#### Colaboracion y aprendizaje en el equipo de producto
+- Todo el Equipo de Producto conoce y aprende del Product Discovery, participando en las decisiones sobre la funcionalidad a crear 
+- Evitando guerras de opiniones y corazonadas 
+-  Desarrollando y manteniendo un entendimiento compartido 
+-  Con artefactos de visualización
+
+#### User centered desing 
+El Equipo de Producto se comunica constantemente con usuarios y clientes
 ## Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto

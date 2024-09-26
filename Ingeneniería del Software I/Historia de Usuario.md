@@ -20,3 +20,6 @@
 - user stories malformadas: quiero descargar reportes mensuales.
 - orientadas a la solucion: Como analista, quiero poder exportar las cosas a un CSV... La historia presupone detalles de la implementacion 
 - Demasiado Grandes
+# Criterios de aceptacion 
+> Condiciones especificas que deben cumplirse para aceptar trabajo realizado 
+Lista de condiciones y Escenarios: Dado que

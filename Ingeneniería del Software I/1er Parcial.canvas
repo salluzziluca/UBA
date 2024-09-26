@@ -23,7 +23,7 @@
 		{"id":"2790b378a702e487","type":"file","file":"Ingeneniería del Software I/Design Thinking.md","x":-392,"y":-640,"width":400,"height":400},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
-		{"id":"f4581c714a87dded","x":-1159,"y":803,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Product Discovery.md"}
+		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

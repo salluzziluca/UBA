@@ -39,3 +39,11 @@ Descripcion de:
 - Compuestos de un escenario principal y un conjunto de escenarios alternativos
   ![[Pasted image 20240926105317.png]]
 - ![[Pasted image 20240926105336.png]]
+
+
+# Tecnicas para encontrar Historias
+
+- Establecer los límites del sistema 
+- Identificar actores involucrados en el sistema
+### User story mapping 
+![[Pasted image 20240926105516.png]]

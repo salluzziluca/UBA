@@ -23,7 +23,7 @@
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
 		{"id":"e1ff18edf023f5dc","x":-481,"y":-780,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md"},
-		{"id":"57faee5a72622698","x":-959,"y":1591,"width":400,"height":400,"color":"5","type":"file","file":"zImagenes/tipos de diagramas.pdf"}
+		{"id":"57faee5a72622698","x":-960,"y":1560,"width":619,"height":440,"color":"5","type":"file","file":"zImagenes/tipos de diagramas.pdf"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

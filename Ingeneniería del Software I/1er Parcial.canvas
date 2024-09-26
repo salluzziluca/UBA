@@ -42,6 +42,6 @@
 		{"id":"292164918e3f26cd","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"2790b378a702e487","toSide":"bottom"},
 		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"},
 		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
-		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"e1ff18edf023f5dc","toSide":"right","label":"Para entender y crear "}
+		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"e1ff18edf023f5dc","toSide":"right","label":"Para entender \ny crear subproblemas "}
 	]
 }

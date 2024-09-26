@@ -6,14 +6,13 @@
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":460,"y":98,"width":400,"height":400},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
-		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400},
+		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400,"color":"1"},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":-76,"y":1083,"width":184,"height":60},
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]] y utilizando [[Product Discovery]]","x":-144,"y":430,"width":473,"height":350,"color":"4"},
 		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":160,"y":883,"width":274,"height":270},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":897,"y":578,"width":244,"height":240},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1173,"y":30,"width":331,"height":400},
 		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":860,"y":1203,"width":307,"height":160},
-		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":71,"y":1635,"width":291,"height":243},
 		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":968,"y":1464,"width":398,"height":175},
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
 		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":860,"y":1960,"width":489,"height":249},
@@ -24,7 +23,8 @@
 		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
 		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400},
 		{"id":"af8e44158d9fa763","x":665,"y":-613,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Arquitectura.md"},
-		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":60,"y":-487,"width":400,"height":274,"color":"1"}
+		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":60,"y":-487,"width":400,"height":274,"color":"1"},
+		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":16,"y":1659,"width":315,"height":263}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

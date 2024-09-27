@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"e9bcd94fab6cdece","x":280,"y":-1440,"width":1783,"height":2178,"type":"group","label":"Untitled group"},
 		{"id":"94c56eeedc67ddc9","type":"file","file":"Cursos/Agile and Scrum/Agile.md","x":446,"y":760,"width":400,"height":400},
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1019,"y":780,"width":751,"height":409},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
@@ -14,20 +15,20 @@
 		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":860,"y":1960,"width":489,"height":249},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
-		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
 		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400},
-		{"id":"af8e44158d9fa763","type":"file","file":"Ingeneniería del Software I/Arquitectura.md","x":665,"y":-613,"width":400,"height":400},
-		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":60,"y":-487,"width":400,"height":274,"color":"1"},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":16,"y":1659,"width":315,"height":263},
-		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":-300,"width":400,"height":400},
-		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":497,"y":134,"width":400,"height":400},
-		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1400,"y":260,"width":400,"height":380},
-		{"id":"fbff6af0ac3ebfd7","type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md","x":1200,"y":-750,"width":400,"height":400},
-		{"id":"01d2bd1b4113de6d","type":"file","file":"Ingeneniería del Software I/Restful API.md","x":97,"y":-1150,"width":400,"height":400},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1240,"y":-550,"width":331,"height":400},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":30,"width":400,"height":400},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-404,"y":-60,"width":440,"height":440},
-		{"id":"b5c7c19e27c50d0f","type":"file","file":"zImagenes/Pasted image 20240820103002.png","x":-14,"y":-180,"width":474,"height":181}
+		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-660,"y":-613,"width":400,"height":400},
+		{"id":"aa0f47ad304c9376","type":"file","file":"Ingeneniería del Software I/Deuda Técnica.md","x":180,"y":-487,"width":400,"height":274,"color":"1"},
+		{"id":"b5c7c19e27c50d0f","type":"file","file":"zImagenes/Pasted image 20240820103002.png","x":106,"y":-180,"width":474,"height":181},
+		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1463,"y":300,"width":400,"height":380},
+		{"id":"fbff6af0ac3ebfd7","type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md","x":1263,"y":-710,"width":400,"height":400},
+		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1503,"y":-260,"width":400,"height":400},
+		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":680,"y":174,"width":400,"height":400},
+		{"id":"01d2bd1b4113de6d","type":"file","file":"Ingeneniería del Software I/Restful API.md","x":280,"y":-1110,"width":400,"height":400},
+		{"id":"af8e44158d9fa763","type":"file","file":"Ingeneniería del Software I/Arquitectura.md","x":848,"y":-573,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

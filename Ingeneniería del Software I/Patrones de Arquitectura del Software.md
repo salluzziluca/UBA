@@ -21,7 +21,7 @@ La salida de un procso es la entrada del proximo. Voy armando cadenas de comando
 
 ### Domain Layer
 ![[Pasted image 20240912212211.png]]
-
+Los ports son parte del dominio, son las interfaces con las cuales yo me adapot, las que utilizo para luego implementar
 ### Application Layer 
 ![[Pasted image 20240912212235.png]]
 

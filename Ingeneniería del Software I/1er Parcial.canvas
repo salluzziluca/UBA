@@ -5,7 +5,7 @@
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":446,"y":1590,"width":400,"height":400},
 		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-184,"y":1264,"width":400,"height":400},
 		{"id":"9e1645175a1e03c6","type":"text","text":"Agile bebe de ","x":-76,"y":1083,"width":184,"height":60},
-		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]] y utilizando [[Product Discovery]]","x":-144,"y":430,"width":473,"height":350,"color":"4"},
+		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]] y utilizando [[Product Discovery]]","x":-184,"y":430,"width":513,"height":330,"color":"4"},
 		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":160,"y":883,"width":274,"height":270},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":897,"y":578,"width":244,"height":240},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1173,"y":30,"width":331,"height":400},

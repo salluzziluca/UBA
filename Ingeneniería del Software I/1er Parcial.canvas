@@ -22,12 +22,12 @@
 		{"id":"f73c791b42be5bc0","type":"file","file":"Ingeneniería del Software I/Clean Code.md","x":1440,"y":-300,"width":400,"height":400},
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":497,"y":134,"width":400,"height":400},
 		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1400,"y":260,"width":400,"height":380},
-		{"id":"fbff6af0ac3ebfd7","x":1200,"y":-750,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md"},
-		{"id":"01d2bd1b4113de6d","x":97,"y":-1150,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Restful API.md"},
+		{"id":"fbff6af0ac3ebfd7","type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md","x":1200,"y":-750,"width":400,"height":400},
+		{"id":"01d2bd1b4113de6d","type":"file","file":"Ingeneniería del Software I/Restful API.md","x":97,"y":-1150,"width":400,"height":400},
 		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1240,"y":-550,"width":331,"height":400},
 		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":30,"width":400,"height":400},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-404,"y":-60,"width":440,"height":440},
-		{"id":"b5c7c19e27c50d0f","x":-14,"y":-180,"width":474,"height":181,"type":"file","file":"zImagenes/Pasted image 20240820103002.png"}
+		{"id":"b5c7c19e27c50d0f","type":"file","file":"zImagenes/Pasted image 20240820103002.png","x":-14,"y":-180,"width":474,"height":181}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -42,12 +42,12 @@
 		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
 		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
 		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"},
-		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
 		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "},
 		{"id":"48ee78da60b921a4","fromNode":"9764ef3a46c41a11","fromSide":"top","toNode":"af8e44158d9fa763","toSide":"bottom","label":"En la macro-escala\nusamos"},
 		{"id":"9342bff796368310","fromNode":"af8e44158d9fa763","fromSide":"right","toNode":"fbff6af0ac3ebfd7","toSide":"left"},
 		{"id":"df079292958c4063","fromNode":"af8e44158d9fa763","fromSide":"top","toNode":"01d2bd1b4113de6d","toSide":"right","label":"Una parte clave\nen las arquitecturas\nmodernas es la API REST"},
 		{"id":"4b328d089a5ca349","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"f4581c714a87dded","toSide":"right"},
-		{"id":"69e6a5f8e2d42546","fromNode":"f4581c714a87dded","fromSide":"bottom","toNode":"bfe00e58ec9bee3b","toSide":"left"}
+		{"id":"69e6a5f8e2d42546","fromNode":"f4581c714a87dded","fromSide":"bottom","toNode":"bfe00e58ec9bee3b","toSide":"left"},
+		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"}
 	]
 }

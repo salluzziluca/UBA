@@ -34,7 +34,7 @@ Los adaptadores que se usan para con el resto de al aplicacion
 ![[4.1 SOLID#D DIP (Dependency Inversion Principle)]]
 
 #### Dependency Injection 
-La arquitectura hexagonal nos permite utilizar esta tecnica de diseño ya que yo armo la iinterfaz de diseño que permite cablear dependencias desde afuera
+La arquitectura hexagonal nos permite utilizar esta tecnica de diseño ya que yo armo la iinterfaz de port para para que los diferetnes ports concretos implementen. Esto permite cablear dependencias desde afuera
 ![[Pasted image 20240912203913.png]]
 En este caso cuando el usuario se crea le pide al repositorio ser gurdado. Esto nos permite que el user se guarde en diferentes repositorios sin tener que tocar mas el create user.
 

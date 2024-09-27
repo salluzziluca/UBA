@@ -1,4 +1,4 @@
-No desarrollar muchas cosas en paralelo, hacer de a una sola (Single Piece Flow). de esta forma podemos ver mucho antes si algo de que lo que estamos haciendo está mal, no cuando terminemos las 10239 partes en paralelo y hayamos perdido 4 horas.
+No desarrollar muchas cosas en paralelo, hacer de a una sola (Single Piece Flow). de esta forma podemos ver mucho antes si algo de que lo que estamos haciendo está mal, no cuando terminemos las 10239 partes en paralelo y hayamos perdido 12 dias.
 
 Luego, al final de cada MVP uno puede ==elegir si seguir haciendo las cosas como estaban planeadas o pivotar hacia una estrategia diferente==
 

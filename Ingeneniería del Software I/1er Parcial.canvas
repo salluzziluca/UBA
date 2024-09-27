@@ -26,7 +26,7 @@
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":497,"y":134,"width":400,"height":400},
 		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1400,"y":260,"width":400,"height":380},
 		{"id":"fbff6af0ac3ebfd7","x":1200,"y":-750,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md"},
-		{"id":"01d2bd1b4113de6d","x":260,"y":-1150,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Restful API.md"}
+		{"id":"01d2bd1b4113de6d","x":97,"y":-1150,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Restful API.md"}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -46,6 +46,6 @@
 		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "},
 		{"id":"48ee78da60b921a4","fromNode":"9764ef3a46c41a11","fromSide":"top","toNode":"af8e44158d9fa763","toSide":"bottom","label":"En la macro-escala\nusamos"},
 		{"id":"9342bff796368310","fromNode":"af8e44158d9fa763","fromSide":"right","toNode":"fbff6af0ac3ebfd7","toSide":"left"},
-		{"id":"df079292958c4063","fromNode":"af8e44158d9fa763","fromSide":"top","toNode":"01d2bd1b4113de6d","toSide":"right","label":"Una parte clave\nen las ar"}
+		{"id":"df079292958c4063","fromNode":"af8e44158d9fa763","fromSide":"top","toNode":"01d2bd1b4113de6d","toSide":"right","label":"Una parte clave\nen las arquitecturas\nmodernas es la API REST"}
 	]
 }

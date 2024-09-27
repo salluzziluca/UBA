@@ -24,13 +24,12 @@ La salida de un procso es la entrada del proximo. Voy armando cadenas de comando
 Los ports son parte del dominio, son las interfaces con las cuales yo me adapot, las que utilizo para luego implementar la Infrastructura en particular. POr ejemplo, la bdd
 ### Application Layer 
 ![[Pasted image 20240912212235.png]]
-
-### Casos de uso 
+Son los casos de uso particulares. Como se puede ver en el ejemplo, hace cosas particulares sirviendose del dominio (y seguramente con una UI por arriba)
 ![[Pasted image 20240912212246.png]]
 
 ### Infrastructure layer 
 ![[Pasted image 20240912212306.png]]
-
+Los adaptadores que se usan 
 ## Dependency inversion principle 
 ![[4.1 SOLID#D DIP (Dependency Inversion Principle)]]
 

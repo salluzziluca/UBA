@@ -427,6 +427,7 @@ LqL
 Lli
 LMu
 LkK
+Lucas
 capa
 controlado
 cantidad
@@ -2813,6 +2814,8 @@ sVT
 sJf
 sxq
 sTT
+simbolizaremos
+sico
 par
 por
 punto
@@ -3369,6 +3372,7 @@ pVv
 plg
 pRy
 pqp
+pertenezca
 la
 las
 le
@@ -5143,6 +5147,8 @@ SFJ
 SXX
 SBsH
 SOE
+Sevilla
+Star
 Calls
 Cmabia
 CPU
@@ -5482,6 +5488,9 @@ Cgpp
 CxH
 CwF
 CII
+Conjuntos
+Chile
+Cisne
 Es
 El
 Estos
@@ -5756,6 +5765,8 @@ ELCI
 ESa
 Euu
 EEF
+Espa
+Ejemplo
 kernel
 kt
 kU
@@ -6819,6 +6830,9 @@ nNQ
 nÄ
 neW
 nVW
+neos
+nomenclatura
+nmente
 via
 vuelve
 viven
@@ -7086,6 +7100,7 @@ vKQN
 vQJcG
 vHvu
 vFi
+vinculada
 Application
 API
 Asigna
@@ -7342,6 +7357,7 @@ AEa
 ALS
 AgI
 AXV
+Aronofsky
 Programming
 Procesos
 Partes
@@ -7654,6 +7670,7 @@ PiL
 PjA
 PRRB
 PRXD
+Pel
 Interface
 ID
 Instructions
@@ -8147,6 +8164,7 @@ UesP
 Ulb
 URu
 UGX
+Unchained
 modo
 mode
 menso
@@ -9609,6 +9627,7 @@ fDH
 fSI
 fsVB
 faS
+formalizaci
 Nombre
 Notas
 Not
@@ -9802,6 +9821,7 @@ NKfe
 NeU
 Njtf
 NVf
+Negro
 File
 For
 Funcion
@@ -10356,6 +10376,8 @@ DTwo
 DyE
 DNg
 DzN
+Django
+Darren
 Memoria
 Multivariada
 MORE
@@ -10877,6 +10899,8 @@ TPQ
 TdmI
 Tui
 TUEQ
+Tarantino
+Tablas
 Realiza
 REgistrys
 Rango
@@ -11145,6 +11169,7 @@ RPha
 Rxh
 RiF
 RmRh
+Relacional
 bien
 by
 be
@@ -12732,6 +12757,7 @@ GOB
 Gyf
 GoM
 GfE
+George
 BX
 Bit
 Box
@@ -12981,6 +13007,8 @@ Bxqzl
 BMM
 BiPTp
 BHv
+Barcelona
+Bill
 XY
 Xg
 XQG
@@ -13780,6 +13808,7 @@ QAJ
 QCkM
 Qmx
 QHb
+Quentin
 ximo
 xito
 xitos
@@ -13934,6 +13963,7 @@ xYGsFp
 xWk
 xqm
 xNg
+xDn
 Workload
 Walrus
 Whitley
@@ -14105,6 +14135,7 @@ WZq
 WfJ
 WPC
 WMl
+Wars
 ZZZPU
 ZX
 ZQ

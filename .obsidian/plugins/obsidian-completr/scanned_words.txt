@@ -1511,6 +1511,7 @@ desarrolladores
 descubrir
 documento
 dif
+domain
 gestion
 gran
 guarda
@@ -6097,6 +6098,7 @@ oBq
 oUS
 ocI
 obL
+object
 nombre
 nuevo
 nica

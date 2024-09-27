@@ -7,7 +7,7 @@ Estos son de mas alto nivel que los [[5.0 Patrones de Diseño]].
 ![[Pasted image 20240912192927.png]]
 ![[Pasted image 20240912193848.png]]
 
-El domain object representan todo lo del dominio
+![[Dominio]]
 ## Broker 
 Es aquel que abstrae la comunicacion entre el cliente y el servidor. Un ejemplo claro es un balanceador de cargas, recibo un request y decido a cual sv se la doy
 

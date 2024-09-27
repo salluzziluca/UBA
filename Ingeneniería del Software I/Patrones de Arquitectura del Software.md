@@ -30,7 +30,7 @@ Son los casos de uso particulares. Como se puede ver en el ejemplo, hace cosas p
 ### Infrastructure layer 
 ![[Pasted image 20240912212306.png]]
 Los adaptadores que se usan para con el resto de al aplicacion
-## Dependency inversion principle 
+#### Dependency inversion principle 
 ![[4.1 SOLID#D DIP (Dependency Inversion Principle)]]
 
 ## Dependency Injection 

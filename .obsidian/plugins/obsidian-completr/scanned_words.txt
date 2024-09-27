@@ -1053,6 +1053,7 @@ completar
 cuesti
 ciles
 costosos
+concretos
 de
 dispositivos
 del
@@ -1512,6 +1513,7 @@ descubrir
 documento
 dif
 domain
+diferetnes
 gestion
 gran
 guarda
@@ -2208,6 +2210,7 @@ els
 exX
 empaqueta
 etapa
+ebfd
 servicios
 son
 su
@@ -2632,6 +2635,7 @@ startxref
 sitios
 softwre
 sitos
+sirviendose
 par
 por
 punto
@@ -3170,6 +3174,9 @@ papel
 partido
 perspectivas
 perciben
+ports
+particulares
+port
 la
 las
 le
@@ -3945,6 +3952,8 @@ algunas
 altamente
 arquitect
 abordan
+adapot
+adaptadores
 hardware
 heap
 hay
@@ -4170,6 +4179,7 @@ hno
 hZI
 hbU
 hKg
+hexagonal
 que
 queda
 quien
@@ -4554,6 +4564,7 @@ ube
 uqe
 uUx
 usarse
+utilizo
 System
 Son
 Source
@@ -7083,6 +7094,7 @@ PbY
 PsK
 PtC
 PMO
+POr
 Interface
 ID
 Instructions
@@ -7331,6 +7343,7 @@ Identity
 IPt
 ItalicAngle
 Info
+Infrastructura
 Un
 UNIX
 UBA
@@ -8588,6 +8601,8 @@ identificados
 impacto
 ilustraci
 integrantes
+iinterfaz
+implementen
 fijo
 file
 fork
@@ -8870,6 +8885,7 @@ fXaA
 faee
 flexible
 focaliz
+fbff
 Nombre
 Notas
 Not
@@ -10241,6 +10257,7 @@ Regular
 RGXt
 RVNF
 Root
+Restful
 bien
 by
 be

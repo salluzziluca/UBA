@@ -8,7 +8,6 @@
 		{"id":"81df1c2deea8777e","type":"text","text":"# El diseño no se realiza solo una vez. Sino que se va iterando continuamente a medida que se desarolla el producto, entregando [[Minium Viable Product]] y utilizando [[Product Discovery]]","x":-184,"y":430,"width":513,"height":330,"color":"4"},
 		{"id":"40a74080f988a6b8","type":"file","file":"zImagenes/Pasted image 20240925153729.png","x":160,"y":883,"width":274,"height":270},
 		{"id":"ed45bd8f889c88a1","type":"file","file":"zImagenes/Pasted image 20240925153718.png","x":897,"y":578,"width":244,"height":240},
-		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1173,"y":30,"width":331,"height":400},
 		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":860,"y":1203,"width":307,"height":160},
 		{"id":"768899a580c59c99","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":968,"y":1464,"width":398,"height":175},
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1041,"y":1688,"width":399,"height":205},
@@ -16,7 +15,6 @@
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-501,"y":-86,"width":440,"height":440},
 		{"id":"abd7f398d35b1372","type":"file","file":"Cursos/Agile and Scrum/Kanban.md","x":-681,"y":913,"width":400,"height":400},
 		{"id":"bfe00e58ec9bee3b","type":"file","file":"Cursos/Agile and Scrum/Minium Viable Product.md","x":-759,"y":460,"width":478,"height":320},
-		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":803,"width":400,"height":400},
 		{"id":"e1ff18edf023f5dc","type":"file","file":"Ingeneniería del Software I/Historia de Usuario.md","x":-481,"y":-780,"width":400,"height":400},
 		{"id":"526d4ae57dbff8d4","type":"file","file":"zImagenes/tipos de diagramas 1.pdf","x":-860,"y":1320,"width":400,"height":400},
 		{"id":"af8e44158d9fa763","type":"file","file":"Ingeneniería del Software I/Arquitectura.md","x":665,"y":-613,"width":400,"height":400},
@@ -26,7 +24,9 @@
 		{"id":"9764ef3a46c41a11","type":"file","file":"Ingeneniería del Software I/Diseño  de Sistemas.md","x":497,"y":134,"width":400,"height":400},
 		{"id":"f3708aa2f6687b79","type":"file","file":"Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md","x":1400,"y":260,"width":400,"height":380},
 		{"id":"fbff6af0ac3ebfd7","x":1200,"y":-750,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md"},
-		{"id":"01d2bd1b4113de6d","x":97,"y":-1150,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Restful API.md"}
+		{"id":"01d2bd1b4113de6d","x":97,"y":-1150,"width":400,"height":400,"type":"file","file":"Ingeneniería del Software I/Restful API.md"},
+		{"id":"61a0d247d0233220","type":"file","file":"Ingeneniería del Software I/Marco Cynefin.md","x":-1240,"y":-550,"width":331,"height":400},
+		{"id":"f4581c714a87dded","type":"file","file":"Ingeneniería del Software I/Product Discovery.md","x":-1159,"y":30,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},
@@ -41,11 +41,12 @@
 		{"id":"7ef7d64d0f6e6956","fromNode":"81df1c2deea8777e","fromSide":"left","toNode":"bfe00e58ec9bee3b","toSide":"right"},
 		{"id":"f6f23198067663e6","fromNode":"94c56eeedc67ddc9","fromSide":"bottom","toNode":"3caa2fd27c11a373","toSide":"top","label":"Un framework agil \nparticular es"},
 		{"id":"45a59293c037411a","fromNode":"3caa2fd27c11a373","fromSide":"top","toNode":"768899a580c59c99","toSide":"left"},
-		{"id":"f052fbf27e7d2b3d","fromNode":"bfe00e58ec9bee3b","fromSide":"left","toNode":"f4581c714a87dded","toSide":"top"},
 		{"id":"163ffb9738f284ef","fromNode":"9764ef3a46c41a11","fromSide":"left","toNode":"81df1c2deea8777e","toSide":"right"},
 		{"id":"6a93eb2a23a6dcee","fromNode":"f7e654c809d13683","fromSide":"top","toNode":"e1ff18edf023f5dc","toSide":"bottom","label":"Para entender \ny crear subproblemas "},
 		{"id":"48ee78da60b921a4","fromNode":"9764ef3a46c41a11","fromSide":"top","toNode":"af8e44158d9fa763","toSide":"bottom","label":"En la macro-escala\nusamos"},
 		{"id":"9342bff796368310","fromNode":"af8e44158d9fa763","fromSide":"right","toNode":"fbff6af0ac3ebfd7","toSide":"left"},
-		{"id":"df079292958c4063","fromNode":"af8e44158d9fa763","fromSide":"top","toNode":"01d2bd1b4113de6d","toSide":"right","label":"Una parte clave\nen las arquitecturas\nmodernas es la API REST"}
+		{"id":"df079292958c4063","fromNode":"af8e44158d9fa763","fromSide":"top","toNode":"01d2bd1b4113de6d","toSide":"right","label":"Una parte clave\nen las arquitecturas\nmodernas es la API REST"},
+		{"id":"4b328d089a5ca349","fromNode":"f7e654c809d13683","fromSide":"left","toNode":"f4581c714a87dded","toSide":"right"},
+		{"id":"69e6a5f8e2d42546","fromNode":"f4581c714a87dded","fromSide":"bottom","toNode":"bfe00e58ec9bee3b","toSide":"left"}
 	]
 }

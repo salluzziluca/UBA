@@ -1640,6 +1640,7 @@ divido
 dichas
 desorden
 dejarse
+distinguir
 gestion
 gran
 guarda
@@ -2854,6 +2855,7 @@ shift
 simil
 siguientes
 serian
+subrayados
 par
 por
 punto

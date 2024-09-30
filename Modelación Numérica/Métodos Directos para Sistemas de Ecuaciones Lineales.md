@@ -14,3 +14,6 @@ tengo entonces esta matriz:
 Quiero hacer cero las demas filas. Llevo a cabo este proceso
 ![[Pasted image 20240930100219.png]]
 Ahi se ve que a todas las filas las divido por a11. Ese es el pivote
+
+#### Pivotear: 
+Intercambiar filas para tener pivote no nulo. 

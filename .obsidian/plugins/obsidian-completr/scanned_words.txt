@@ -1151,6 +1151,7 @@ comparison
 choice
 complicated
 consumo
+comouna
 de
 dispositivos
 del

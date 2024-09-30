@@ -23,3 +23,7 @@ Intercambiar filas para tener pivote no nulo.
 ![[Pasted image 20240930102423.png]]
 ## Errores en SEL directos 
 ![[Pasted image 20240930103854.png]]
+
+
+## Wilkinson 
+![[Pasted image 20240930104445.png]]

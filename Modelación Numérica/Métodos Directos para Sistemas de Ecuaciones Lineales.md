@@ -5,4 +5,4 @@ Dos sistemas equivalentes cuando comparten al solucion. Puedo aplicar tranasform
 
 ### Matrices triangulares
 Transformar un sistema para convertirno en una matriz triangular superior U. 
-Pasamos de Ax=b a Ux= y. 
+Pasamos de Ax=b a Ux= y. Es mucho mas facil sacar la solucion en Ux= y que en Ax=b

@@ -43,19 +43,20 @@ Puedo encontrar diferentes tipos de dibujitos para representar la arquitectura s
 Requisitos funcionales. Cosas logicas que nos permiten abstraer la solución.  permiten identificar mecanismos y elementos de diseño comunes entre diversas partes del sistema. Las soluciones al los problemas propuestos al escenario
 
 ### Vista de procesos 
-Toma en cuenta requisitos no funcionales como rendimiento y disponibilidad.
+Toma en cuenta requisitos no funcionales como rendimiento y disponibilidad. Se centra en la ejecucion en tiempo real
 
 Procesos que se estan corriendo en memoria. Se enfoca en concurrencia y distribución, integridad del sistema, tolerancia a fallas. Los procesos que declare en componentes los pongo a correr
 
 ### Vista fisica o de despliegue 
 Toma en cuenta los requisimos no funcionales como disponibilidad, confiabilidad (tolerancia a fallas), rendimiento y escalabilidad. 
+se trata de cómo se despliega el software en la infraestructura física.
 
 El software se ejecuta sobre una red de computadores o nodos de procesamiento. Los variados elementos identificados –redes, procesos, tareas y objetos– requieren ser mapeados sobre los nodos. 
 
 Esperamos que diferentes configuraciones puedan usarse: algunas para desarrollo y pruebas, otras para mostrar el sistema en varios sitios para distintos usuarios. Por lo tanto, la relación del software en los nodos debe ser altamente flexible y tener un impacto mínimo sobre el código fuente.
 ### Vista de desarollo
 Se centra en la organizacion real de los modulos del del softwre en el ambiente de desarrollo del software. Se empaqueta en partes pequeñas que pueden ser desarolladas por una persona o por grupos pequeños de desarrolladores. 
-
+Puede venir acompañada por snippets de codigo
 Tiene en cuenta los requisitos internos
 
 Separo todo en componentes

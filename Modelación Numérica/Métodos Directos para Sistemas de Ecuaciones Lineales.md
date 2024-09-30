@@ -27,3 +27,6 @@ Intercambiar filas para tener pivote no nulo.
 
 ## Wilkinson 
 ![[Pasted image 20240930104445.png]]
+
+
+## Refinamiento Iterativo

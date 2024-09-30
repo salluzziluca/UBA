@@ -30,3 +30,4 @@ Intercambiar filas para tener pivote no nulo.
 
 
 ## Refinamiento Iterativo
+![[Pasted image 20240930105426.png]]

@@ -1,1 +1,1 @@
- 
+ Nos da un metodo preciso con contados pasos para obtener las raices, pero eso está pensando para algebra de precision infinita en donde no nos importa el error de redondeo. 

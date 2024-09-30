@@ -7,7 +7,6 @@
 		{"id":"3a1b1968f9ec7e0f","type":"file","file":"zImagenes/Pasted image 20240925153050.png","x":1080,"y":895,"width":751,"height":409},
 		{"id":"897418693574edae","type":"file","file":"zImagenes/Pasted image 20240925155838.png","x":1000,"y":1750,"width":399,"height":205},
 		{"id":"b41cc4281ee0e59c","type":"file","file":"Ingeneniería del Software I/R=R.md","x":819,"y":1243,"width":307,"height":160},
-		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-225,"y":1304,"width":400,"height":400},
 		{"id":"aa61e7ea1679e6d8","type":"file","file":"zImagenes/Pasted image 20240925153959.png","x":-25,"y":1699,"width":315,"height":263},
 		{"id":"3caa2fd27c11a373","type":"file","file":"Cursos/Agile and Scrum/Scrum.md","x":405,"y":1630,"width":400,"height":400},
 		{"id":"48ea4a353fec2323","type":"file","file":"zImagenes/Pasted image 20240925160234.png","x":819,"y":2022,"width":489,"height":249},
@@ -31,7 +30,8 @@
 		{"id":"fbff6af0ac3ebfd7","type":"file","file":"Ingeneniería del Software I/Patrones de Arquitectura del Software.md","x":1263,"y":-710,"width":400,"height":400},
 		{"id":"9dc944c02b3ff3c9","type":"file","file":"zImagenes/Pasted image 20240902193412.png","x":-2129,"y":435,"width":650,"height":365},
 		{"id":"f7e654c809d13683","type":"file","file":"Ingeneniería del Software I/Entender el Problema.md","x":-724,"y":-120,"width":440,"height":440},
-		{"id":"01d2bd1b4113de6d","type":"file","file":"Ingeneniería del Software I/Restful API.md","x":400,"y":-1080,"width":400,"height":400}
+		{"id":"01d2bd1b4113de6d","type":"file","file":"Ingeneniería del Software I/Restful API.md","x":400,"y":-1080,"width":400,"height":400},
+		{"id":"b46c004cd47f291d","type":"file","file":"Cursos/Agile and Scrum/Extreme Programming (XP).md","x":-200,"y":1480,"width":400,"height":487}
 	],
 	"edges":[
 		{"id":"d85f78a116c3ca8a","fromNode":"f7e654c809d13683","fromSide":"right","toNode":"9764ef3a46c41a11","toSide":"left","label":"Una vez que entendi\nel problema, diseño"},

@@ -8,3 +8,9 @@ Transformar un sistema para convertirno en una matriz triangular superior U.
 Pasamos de Ax=b a Ux= y. Es mucho mas facil sacar la solucion en Ux= y que en Ax=b
 
 ![[Pasted image 20240930095151.png]]
+
+tengo entonces esta matriz:
+![[Pasted image 20240930100154.png]]
+Quiero hacer cero las demas filas. Llevo a cabo este proceso
+![[Pasted image 20240930100219.png]]
+Ahi se ve que a todas las filas las divido por a11. Ese es el pivote

@@ -1641,6 +1641,8 @@ dichas
 desorden
 dejarse
 distinguir
+despliega
+desarollo
 gestion
 gran
 guarda
@@ -2856,6 +2858,7 @@ simil
 siguientes
 serian
 subrayados
+separaci
 par
 por
 punto
@@ -4257,6 +4260,10 @@ abcdefgh
 abcd
 angulos
 anterioes
+abordando
+asegurando
+agrupaci
+arquitectonicas
 hardware
 heap
 hay
@@ -5828,6 +5835,7 @@ Ejemplos
 Escribimos
 Equivalente
 Empezamos
+Enfoque
 kernel
 kt
 kU
@@ -6904,6 +6912,7 @@ neos
 nomenclatura
 nmente
 nociones
+nicas
 via
 vuelve
 viven
@@ -7173,6 +7182,7 @@ vHvu
 vFi
 vinculada
 viola
+venir
 Application
 API
 Asigna
@@ -9410,6 +9420,8 @@ indicaremos
 incluyendo
 inversiones
 invertidos
+infraestructura
+ilustrar
 fijo
 file
 fork
@@ -9716,6 +9728,7 @@ fSI
 fsVB
 faS
 formalizaci
+flexibilidad
 Nombre
 Notas
 Not
@@ -10177,6 +10190,7 @@ FeC
 Felicitaciones
 FTT
 Fourier
+Facilitar
 Descriptors
 Descriptor
 Devuelve
@@ -10470,6 +10484,7 @@ DzN
 Django
 Darren
 Dpto
+Despliegue
 Memoria
 Multivariada
 MORE
@@ -10759,6 +10774,8 @@ MUa
 MBB
 Mutiplicacion
 Mariano
+Manejar
+Mapear
 Table
 Todos
 This
@@ -12147,6 +12164,8 @@ OZf
 OBg
 Onn
 Obtenemos
+Objetivo
+Organizaci
 ya
 yo
 yM

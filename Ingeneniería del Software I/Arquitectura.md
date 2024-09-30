@@ -56,13 +56,14 @@ El software se ejecuta sobre una red de computadores o nodos de procesamiento. L
 Esperamos que diferentes configuraciones puedan usarse: algunas para desarrollo y pruebas, otras para mostrar el sistema en varios sitios para distintos usuarios. Por lo tanto, la relación del software en los nodos debe ser altamente flexible y tener un impacto mínimo sobre el código fuente.
 ### Vista de desarollo
 Se centra en la organizacion real de los modulos del del softwre en el ambiente de desarrollo del software. Se empaqueta en partes pequeñas que pueden ser desarolladas por una persona o por grupos pequeños de desarrolladores. 
-Puede venir acompañada por snippets de codigo
+Puede venir acompañada por snippets de codigo. Se agrupan por funcionalidad y por modulos.
 Tiene en cuenta los requisitos internos
 
 Separo todo en componentes
 
 
 ### Vista escenario
+Ayuda a validar e ilustrar las decisiones arquitectonicas.
 Los elementos de las cuatro vistas trabajan conjuntamente en forma natural mediante el uso de un conjunto pequeño de escenarios relevantes. Los escenarios son de alguna manera una abstracción de los requisitos más importantes. 
 Sirve a dos propósitos principales:
 • Como una guía para descubrir elementos arquitectónicos durante el diseño de arquitectura

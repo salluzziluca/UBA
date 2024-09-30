@@ -21,3 +21,5 @@ Intercambiar filas para tener pivote no nulo.
 
 ## Factorizacion LU
 ![[Pasted image 20240930102423.png]]
+## Errores en SEL directos 
+![[Pasted image 20240930103854.png]]

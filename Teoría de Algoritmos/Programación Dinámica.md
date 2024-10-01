@@ -311,4 +311,6 @@ def camino_minimo_bf(grafo, origen):
 ```
 
 ## Distancia de edición
-Se define que el mejor alineamiento entre dos cadenas es aquel que minimice la distancia de edicion. El criterio será:  
+Se define que el mejor alineamiento entre dos cadenas es aquel que minimice la distancia de edicion. El criterio será: 
+- Por cada par de letrsa que coinciden en alineamiento, no hay costo
+- Existe la penalidad $\delta$ que refiere a no alinear las letras.  Una brecha 

@@ -330,3 +330,4 @@ occurr-ancia
 
 - Si el ultimo caracter de ambas cadenas coincide, no hay costo. Cuesta lo mismo alinear oro y lobo que oro y lobos
 - Si el ultimo no coincide, se reemplaza usando $\alpha(x_{i}, y_j)$. Y luego se calcula el anieamiento optimo con un caracter menos de cada cadena. Ej: casa y caso, reemplazo entre o y a y despues calculo cas y cas
+- Se puede introducir una brecha 

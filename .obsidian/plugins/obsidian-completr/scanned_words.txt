@@ -428,6 +428,7 @@ Lli
 LMu
 LkK
 Lucas
+Llevo
 capa
 controlado
 cantidad
@@ -1162,6 +1163,9 @@ casa
 cas
 cases
 case
+contados
+condicionados
+convertirno
 de
 dispositivos
 del
@@ -1671,6 +1675,9 @@ delay
 difficult
 describe
 descubierto
+devuelva
+demas
+directos
 gestion
 gran
 guarda
@@ -2437,6 +2444,7 @@ edici
 edicion
 etnre
 ejercicio
+ecuaciones
 servicios
 son
 su
@@ -2908,6 +2916,7 @@ significant
 slow
 sabiendo
 seleccionado
+sacar
 par
 por
 punto
@@ -3478,6 +3487,10 @@ ptimo
 penalidad
 pagados
 pasarse
+pasos
+pensando
+precision
+pivote
 la
 las
 le
@@ -4346,6 +4359,7 @@ ancia
 anieamiento
 alineo
 aproximar
+arruine
 hardware
 heap
 hay
@@ -5930,6 +5944,7 @@ Equivalente
 Empezamos
 Existe
 Enfoque
+Errores
 kernel
 kt
 kU
@@ -7871,6 +7886,7 @@ PRRB
 PRXD
 Pel
 Peero
+Pivotear
 Interface
 ID
 Instructions
@@ -8146,6 +8162,8 @@ Imagenes
 ISA
 Inicializar
 Iterando
+Incluso
+Intercambiar
 Un
 UNIX
 UBA
@@ -9128,6 +9146,9 @@ temporales
 temp
 teclado
 tmbien
+tranasformaciones
+triangulares
+triangular
 inico
 interna
 infro
@@ -10343,6 +10364,7 @@ FTT
 Fourier
 Facilitar
 Ford
+Factorizacion
 Descriptors
 Descriptor
 Devuelve
@@ -10933,6 +10955,7 @@ Manejar
 Mapear
 Microprocesador
 Microarquitectura
+Matrices
 Table
 Todos
 This
@@ -11172,6 +11195,7 @@ Tablas
 Transformada
 Transmite
 TODAS
+Transformar
 Realiza
 REgistrys
 Rango
@@ -11446,6 +11470,7 @@ Resolvemos
 Reorganizo
 Responde
 Resuelve
+Refinamiento
 bien
 by
 be
@@ -14429,6 +14454,7 @@ WfJ
 WPC
 WMl
 Wars
+Wilkinson
 ZZZPU
 ZX
 ZQ

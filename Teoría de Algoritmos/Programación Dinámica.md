@@ -257,3 +257,6 @@ def mochila(valor, peso, N, W):
 El problema de la Mochila es un algoritmo Pseudo-Polinomial.
 
 Eso habla de la dificultad del problema de la mochila.
+
+
+## Problema del Cambio

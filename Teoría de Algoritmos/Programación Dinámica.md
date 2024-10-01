@@ -260,3 +260,4 @@ Eso habla de la dificultad del problema de la mochila.
 
 
 ## Problema del Cambio
+$$C[dinero]=$$

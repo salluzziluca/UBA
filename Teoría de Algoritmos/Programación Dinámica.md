@@ -311,3 +311,4 @@ def camino_minimo_bf(grafo, origen):
 ```
 
 ## Distancia de edición
+Se define que el mejor alineamiento entre dos cadenas es aquel que minimice la distancia de edicion. El criterio será:  

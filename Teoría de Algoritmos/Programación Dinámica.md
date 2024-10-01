@@ -328,4 +328,4 @@ occurr-ancia
 3 brechas
 
 
-- Si el u
+- Si el ultimo caracter de ambas cadenas coincide, no hay costo. Cuesta lo mismo alinear oro y lobo que oro y lobos

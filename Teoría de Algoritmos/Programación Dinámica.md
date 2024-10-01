@@ -309,3 +309,5 @@ def camino_minimo_bf(grafo, origen):
 			return None # Hay un ciclo negativo (lanzar excep)
 	return padre, distancia
 ```
+
+## Distancia de edición

@@ -261,3 +261,5 @@ Eso habla de la dificultad del problema de la mochila.
 
 ## Problema del Cambio
 $$C[dinero]= 1+ min(\forall moneda \leq dinero: C[dinero-moneda])$$
+
+Pruebo con todas las monedas menores a la cantidad a la que quiero llegar y me fijo cual me da el minimo. 

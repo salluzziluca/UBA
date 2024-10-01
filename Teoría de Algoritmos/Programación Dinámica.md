@@ -359,3 +359,18 @@ Manejamos un negocio que atiende clientes en Londres y en California.
 Nos interesa cada mes decidir si operar en una u otra ciudad. Los costos de operación para cada mes pueden variar y son dados: Li y Ci para todo n.
 Naturalmente, si en un mes operamos en una ciudad, y al siguiente en una distinta, habrá un costo fijo M por la mudanza.
 Dados los costos de operación en Londres (L) y California (C), indicar la secuencia de las n localizaciones en las que operar durante n meses, sabiendo que queremos minimizar los costos de operación. Se puede empezar en cualquier ciudad.
+
+
+Para un mes n, un plan que termina en Londres puede tener los siguientes costos:
+
+- Ln + los costos operativos que hayamos tenido en meses anteriores terminando en Londres.
+    
+- Ln + los costos operativos que hayamos tenido en meses anteriores terminando en California + M.
+    
+
+Para un mes n, un plan que termina en California puede tener los siguientes costos:
+
+- Cn + los costos operativos que hayamos tenido en meses anteriores terminando en California.
+    
+
+Cn + los costos operativos que hayamos tenido en meses anteriores terminando en Londres + M.**

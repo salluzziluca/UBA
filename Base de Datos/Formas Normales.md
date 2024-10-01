@@ -46,3 +46,7 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 2. Busco [[Base de Datos/Atributos|atributos]] que solo aparecen en lado izq -> estan en todas las [[claves candidatas]] 
 3. Busco [[Base de Datos/Atributos|atributos]] que esten solo de lados derechos -> no estan en ninguna clave candidata
 4. Los que aparecen tanto en izq como en derecho, no tenemos infomracion
+
+
+### Algoritmo de descomposicion a 3FN 
+![[Pasted image 20241001202209.png]]

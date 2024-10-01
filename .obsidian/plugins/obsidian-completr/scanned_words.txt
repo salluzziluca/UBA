@@ -1152,6 +1152,16 @@ choice
 complicated
 consumo
 comouna
+considera
+caminos
+coinciden
+cercania
+costos
+cadena
+casa
+cas
+cases
+case
 de
 dispositivos
 del
@@ -1660,6 +1670,7 @@ degree
 delay
 difficult
 describe
+descubierto
 gestion
 gran
 guarda
@@ -1900,6 +1911,7 @@ gIf
 gkq
 grad
 gicas
+gap
 especifico
 entra
 en
@@ -2421,6 +2433,10 @@ execution
 ejectuar
 enviada
 ejecutarla
+edici
+edicion
+etnre
+ejercicio
 servicios
 son
 su
@@ -2890,6 +2906,8 @@ simplifies
 set
 significant
 slow
+sabiendo
+seleccionado
 par
 por
 punto
@@ -3455,6 +3473,11 @@ puntes
 programado
 puertos
 program
+padres
+ptimo
+penalidad
+pagados
+pasarse
 la
 las
 le
@@ -3772,6 +3795,10 @@ logic
 large
 lends
 level
+letrsa
+letras
+lobo
+lobos
 agnosticos
 apps
 al
@@ -4309,6 +4336,16 @@ arqui
 aspectos
 arimetico
 adicionales
+actualizar
+actualizan
+analizarlo
+atravesar
+alineamiento
+alinear
+ancia
+anieamiento
+alineo
+aproximar
 hardware
 heap
 hay
@@ -4558,6 +4595,7 @@ hgx
 hZJ
 hnv
 hardwired
+habr
 que
 queda
 quien
@@ -4984,6 +5022,9 @@ uKoDe
 ujj
 uknD
 umP
+urr
+urre
+ultimos
 System
 Son
 Source
@@ -5256,6 +5297,9 @@ SOE
 Sevilla
 Star
 Strassen
+Subset
+Sum
+Sino
 Calls
 Cmabia
 CPU
@@ -5602,6 +5646,8 @@ Combinamos
 Conteo
 Comput
 Cambio
+Cuesta
+Convertir
 Es
 El
 Estos
@@ -6725,6 +6771,11 @@ organized
 offs
 ordenada
 operandos
+ocurrencia
+occurrancia
+occurr
+oro
+optima
 nombre
 nuevo
 nica
@@ -6969,6 +7020,10 @@ nociones
 nicas
 nanoprogramming
 necesaris
+negativas
+negativo
+nimos
+ncia
 via
 vuelve
 viven
@@ -7501,6 +7556,7 @@ Aronofsky
 Actuaciones
 Agarro
 Algoritmo
+Ahi
 Programming
 Procesos
 Partes
@@ -8088,6 +8144,8 @@ IOg
 INi
 Imagenes
 ISA
+Inicializar
+Iterando
 Un
 UNIX
 UBA
@@ -8726,6 +8784,7 @@ modifying
 microinstruction
 modify
 monedas
+minimice
 tien
 tiene
 todos
@@ -9067,6 +9126,8 @@ trade
 typically
 temporales
 temp
+teclado
+tmbien
 inico
 interna
 infro
@@ -9814,6 +9875,7 @@ faS
 formalizaci
 flexibilidad
 fast
+finalizadas
 Nombre
 Notas
 Not
@@ -10010,6 +10072,8 @@ NVf
 Negro
 Nanoprogramming
 Neumann
+None
+Ning
 File
 For
 Funcion
@@ -10278,6 +10342,7 @@ Felicitaciones
 FTT
 Fourier
 Facilitar
+Ford
 Descriptors
 Descriptor
 Devuelve
@@ -10573,6 +10638,8 @@ Darren
 Dpto
 Despliegue
 Datapath
+Dijkstra
+Distancia
 Memoria
 Multivariada
 MORE
@@ -11104,6 +11171,7 @@ Tarantino
 Tablas
 Transformada
 Transmite
+TODAS
 Realiza
 REgistrys
 Rango
@@ -11377,6 +11445,7 @@ Restriccion
 Resolvemos
 Reorganizo
 Responde
+Resuelve
 bien
 by
 be
@@ -11675,6 +11744,8 @@ bYV
 bna
 bajando
 but
+brecha
+brechas
 will
 words
 with
@@ -12067,6 +12138,7 @@ Vgg
 Vif
 VIS
 Von
+Verificar
 OPTIONS
 Operativos
 Orden
@@ -13227,6 +13299,7 @@ Bill
 Busco
 Buscamos
 Beir
+Bellman
 XY
 Xg
 XQG

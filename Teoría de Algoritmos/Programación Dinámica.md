@@ -341,4 +341,20 @@ brecha en cadena2
 ## Subset sum
 Tenemos un conjunto de números v1, v2, … vn, y queremos obtener un subconjunto de todos esos números cuya suma sea igual a un valor V, o bien aproximar lo mayor posible a ese valor V, sin pasarse.
 Se puede adaptar al de la mochila. La capacidad es el numero al que quiero llegar y cada numero serian las cosas que puedo meter en la mochila
-![[Pasted image 20241001131107.png]]
+![[Pasted image 20241001131107.png]]**
+
+¿Podemos usar el Problema de la Mochila para resolver este ejercicio?
+
+1. Convertir la entrada de este ejercicio en una entrada válida del Problema de la Mochila
+    
+2. Usar la solución al Problema de la Mochila
+    
+3. Verificar en base a esa solución, la solución de Subset-Sum
+    
+
+Si el Problema de la Mochila encuentra un valor igual a V, resuelto.
+
+Sino, habrá encontrado el valor más cercano sin superar V.
+
+  
+**

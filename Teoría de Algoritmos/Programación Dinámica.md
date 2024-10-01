@@ -318,3 +318,5 @@ Se define que el mejor alineamiento entre dos cadenas es aquel que minimice la d
 - El costo total del alineamiento seleccionado es la suma total de todos los costos pagados por brechas y por costo de reemplazo (cambiar letras)
 
 eg: ocurrencia y occurrancia
+oc-urr*e*ncia
+occurr*a*ncia

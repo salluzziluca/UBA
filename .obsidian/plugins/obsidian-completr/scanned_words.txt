@@ -5601,6 +5601,7 @@ Cisne
 Combinamos
 Conteo
 Comput
+Cambio
 Es
 El
 Estos
@@ -8724,6 +8725,7 @@ maintain
 modifying
 microinstruction
 modify
+monedas
 tien
 tiene
 todos

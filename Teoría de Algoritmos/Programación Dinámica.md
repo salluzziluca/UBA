@@ -278,3 +278,10 @@ def cant_monedas(sist_monetario, dinero):
        cant[i] = minimo
    return cant[dinero]
 ```
+
+
+## Algoritmo de Bellman-Ford (camino mínimo)
+
+- Inicializar todos los vértices en infinito y padres en None. El origen lo ponemos a distancia 0. 
+- Iterando V veces, sobre TODAS las aristas y se busca la posibilidad de actualizar los pesos, buscando mejorar el camino mínimo. La diferencia con Dijkstra es que un camino descubierto puede mejorar gracias a las aristas negativas.
+- Una vez finalizadas las V iteraciones, se verifica si aún se actualizan los pesos: en ese caso estamos ante un ciclo negativo.

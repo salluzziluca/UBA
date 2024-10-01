@@ -285,3 +285,27 @@ def cant_monedas(sist_monetario, dinero):
 - Inicializar todos los vértices en infinito y padres en None. El origen lo ponemos a distancia 0. 
 - Iterando V veces, sobre TODAS las aristas y se busca la posibilidad de actualizar los pesos, buscando mejorar el camino mínimo. La diferencia con Dijkstra es que un camino descubierto puede mejorar gracias a las aristas negativas.
 - Una vez finalizadas las V iteraciones, se verifica si aún se actualizan los pesos: en ese caso estamos ante un ciclo negativo.
+- considera la existencia de aristas negativas, sabiendo que puede llegar a tener que cambiar los caminos mínimos.
+- Para analizarlo de forma ordenada, plantea la forma de los sub-problemas como: encontrar el camino mínimo sabiendo que solamente podemos pasar por N vértices.
+- Resuelve el problema iterativamente desde N=0 hasta $N= \#vertices$
+- Ningún camino óptimo puede atravesar más de V vértices.
+```python 
+def camino_minimo_bf(grafo, origen):
+	distancia = {}
+	padre = {}
+	for v in grafo:
+		distancia[v] = infinito
+	distancia[origen] = 0
+	padre[origen] = None
+	aristas = obtener_aristas(grafo)
+	for i in range(len(grafo)):
+		for v, w, peso in aristas:
+			if distancia[v] + peso < distancia[w]:
+				padre[w] = v
+				distancia[w] = distancia[v] + peso
+	
+	for v, w, peso in aristas:
+		if distancia[v] + peso < distancia[w]:
+			return None # Hay un ciclo negativo (lanzar excep)
+	return padre, distancia
+```

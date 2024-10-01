@@ -340,4 +340,4 @@ brecha en cadena2
 
 ## Subset sum
 Tenemos un conjunto de números v1, v2, … vn, y queremos obtener un subconjunto de todos esos números cuya suma sea igual a un valor V, o bien aproximar lo mayor posible a ese valor V, sin pasarse.
-Se puede adaptar al de la mochila. La capacidad es el numero al que quiero llegar y cada numero seria
+Se puede adaptar al de la mochila. La capacidad es el numero al que quiero llegar y cada numero serian las cosas que puedo meter en la mochila

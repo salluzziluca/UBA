@@ -19,3 +19,4 @@ Actualmente, las bases de datos también almacenan [[tipos de datos]] más compl
 [[Modelo Entidad-Interrelacion]]
 [[Modelo Entidad-Interrelación Avanzado]]
 [[Teoría del Diseño Racional]]
+[[Formas Normales]]

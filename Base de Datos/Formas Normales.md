@@ -39,3 +39,6 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 ![[Pasted image 20240924211541.png]]
 
 ## Dependencias Multivaluadas y 4FN
+
+
+##  Algoritmos para busca

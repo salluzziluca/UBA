@@ -41,4 +41,6 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 ## Dependencias Multivaluadas y 4FN
 
 
-##  Algoritmos para busca
+##  Algoritmos para buscar claves candidatas
+1. Busco atributos independientes
+2. Busco atributos que solo aparecen en lado izq

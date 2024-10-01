@@ -315,3 +315,6 @@ Se define que el mejor alineamiento entre dos cadenas es aquel que minimice la d
 - Por cada par de letrsa que coinciden en alineamiento, no hay costo
 - Existe la penalidad $\delta$ que refiere a no alinear las letras. Decimos que hay una brecha (gap)
 - Por cada par de letras que no coinciden hay un costo $\alpha(x_{i}, y_{j})$ segun la diferencia etnre xi y yj. eg: el costo al alinear V y B puede ser bajo, por su parecido y cercania en el teclado
+- El costo total del alineamiento seleccionado es la suma total de todos los costos pagados por brechas y por costo de reemplazo (cambiar letras)
+
+eg: ocurrencia y occurrancia

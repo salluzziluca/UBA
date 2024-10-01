@@ -325,3 +325,4 @@ un cambio $\alpha(e, a)$ y un una brecha $\delta$
 tmbien lo puedo pensar como 
 oc-urre-ncia
 occurr-ancia
+3 brechas

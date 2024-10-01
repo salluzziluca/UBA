@@ -354,4 +354,8 @@ Si el Problema de la Mochila encuentra un valor igual a V, resuelto.
 Sino, habrá encontrado el valor más cercano sin superar V.
 
 
-## Tu a londres yo
+## Tu a londres y yo a california
+Manejamos un negocio que atiende clientes en Londres y en California.
+Nos interesa cada mes decidir si operar en una u otra ciudad. Los costos de operación para cada mes pueden variar y son dados: Li y Ci para todo n.
+Naturalmente, si en un mes operamos en una ciudad, y al siguiente en una distinta, habrá un costo fijo M por la mudanza.
+Dados los costos de operación en Londres (L) y California (C), indicar la secuencia de las n localizaciones en las que operar durante n meses, sabiendo que queremos minimizar los costos de operación. Se puede empezar en cualquier ciudad.

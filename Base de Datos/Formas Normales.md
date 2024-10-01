@@ -1,4 +1,4 @@
->Las Formas Normales son una serie de estructuras con las que un esquema de base de datos puede cumplir o no
+>Las Formas Normales son una serie de estructuras con las que un esquema de [[Bases de Datos|base de datos]] puede cumplir o no
 
 Las formas normales clásicas son: 
 - Primera forma normal (1FN) (E. Codd, 1970) 
@@ -18,23 +18,23 @@ Busca:
 - Evitar las anomalias de ABM
 
 ## Primera Forma Normal (1FN)
->Decimos que un esquema de base de datos relacional está en primera forma normal (1FN) cuando los dominios de todos sus atributos sólo permiten valores atómicos (es decir, indivisibles) y monovaluados
+>Decimos que un esquema de [[Bases de Datos|base de datos]] relacional está en primera forma normal (1FN) cuando los dominios de todos sus [[Base de Datos/Atributos|atributos]] sólo permiten valores atómicos (es decir, indivisibles) y monovaluados
 
 ![[Pasted image 20240924192916.png]]este ejemplo no cumple
 Podríamos tener tabla con n tupas nombre, mail o varias columnas, una por mail
 
 ## Segunda Forma Normal (2FN)
-Decimos que una relación está en segunda forma normal (2FN) cuando todos sus [[Atributo Primo de una Relacion|atributos no primos]] tienen [[Dependencia Funcional#Dependencia funcional completa|dependencia funcional completa]] de las claves candidatas
+Decimos que una relación está en segunda forma normal (2FN) cuando todos sus [[Atributo Primo de una Relacion|atributos no primos]] tienen [[Dependencia Funcional#Dependencia funcional completa|dependencia funcional completa]] de las [[claves candidatas]]
 
 
 ## Tercera Forma Normal (3FN)
 
-Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]]CK->Y de atributos no primos con CK clave candidata
+Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]]CK->Y de [[Base de Datos/Atributos|atributos]] no primos con CK clave candidata
 
 
 ## Forma Normal Boyce-Codd
->Una relación está en forma normal Boyce-Codd (FNBC) cuando no existen dependencias transitivas CK → Y, con CK clave candidata. Es decir, eliminamos la posibilidad de tener dependencias transitivas X → Y en las que Y es un atributo primo.
-Dicho de otra forma, una relación está en FNBC cuando para toda dependencia funcional no trivial X → Y, X es superclave.
+>Una relación está en forma normal Boyce-Codd (FNBC) cuando no existen dependencias transitivas CK → Y, con CK clave candidata. Es decir, eliminamos la posibilidad de tener dependencias transitivas X → Y en las que Y es un [[Base de Datos/Atributos|atributo]] primo.
+Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia funcional]] no trivial X → Y, X es [[Superclave (SK)|superclave]].
 
 ![[Pasted image 20240924211541.png]]
 

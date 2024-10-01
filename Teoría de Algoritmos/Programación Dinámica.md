@@ -364,13 +364,18 @@ Dados los costos de operación en Londres (L) y California (C), indicar la secue
 Para un mes n, un plan que termina en Londres puede tener los siguientes costos:
 
 - Ln + los costos operativos que hayamos tenido en meses anteriores terminando en Londres.
-    
 - Ln + los costos operativos que hayamos tenido en meses anteriores terminando en California + M.
-    
 
 Para un mes n, un plan que termina en California puede tener los siguientes costos:
 
 - Cn + los costos operativos que hayamos tenido en meses anteriores terminando en California.
-    
 
-Cn + los costos operativos que hayamos tenido en meses anteriores terminando en Londres + M.**
+- Cn + los costos operativos que hayamos tenido en meses anteriores terminando en Londres + M.**
+
+
+$$OPT londres [n] = L[n] + min( OPT londres [n-1], M + OPT california [n-1] )$$
+
+  
+
+$$OPT california [n] = C[n] + min( OPT california [n-1], M + OPT londres [n-1] )$$
+

@@ -263,3 +263,18 @@ Eso habla de la dificultad del problema de la mochila.
 $$C[dinero]= 1+ min(\forall moneda \leq dinero: C[dinero-moneda])$$
 
 Pruebo con todas las monedas menores a la cantidad a la que quiero llegar y me fijo cual me da el minimo. 
+```python 
+def cant_monedas(sist_monetario, dinero):
+   cant = [0] * (dinero + 1)
+   for i in range(1, dinero + 1):
+       minimo = i  # usar todas monedas de 1
+       for moneda in sist_monetario:
+           if moneda > i: 
+           #si la moneda es mayor al dinero que estoy buscando, la salteo
+               continue
+           cantidad = 1 + cant[i - moneda]
+           if cantidad < minimo:
+               minimo = cantidad
+       cant[i] = minimo
+   return cant[dinero]
+```

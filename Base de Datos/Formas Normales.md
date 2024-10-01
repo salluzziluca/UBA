@@ -41,7 +41,8 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 ## Dependencias Multivaluadas y 4FN
 
 
-##  Algoritmos para buscar claves candidatas
-1. Busco atributos independientes-> estan en todas las Claves Candidatas
-2. Busco atributos que solo aparecen en lado izq -> estan en todas las claves candidatas 
-3. Busco atributos que esten solo de lado
+##  Algoritmos para buscar [[claves candidatas]]
+1. Busco [[Base de Datos/Atributos|atributos]] independientes-> estan en todas las [[Claves Candidatas]]
+2. Busco [[Base de Datos/Atributos|atributos]] que solo aparecen en lado izq -> estan en todas las [[claves candidatas]] 
+3. Busco [[Base de Datos/Atributos|atributos]] que esten solo de lados derechos -> no estan en ninguna clave candidata
+4. Los que aparecen tanto en izq como en derecho, no tenemos infomracion

@@ -7589,6 +7589,7 @@ Agarro
 Algoritmo
 Ahi
 Atributos
+Atributo
 Programming
 Procesos
 Partes
@@ -7905,6 +7906,8 @@ Pel
 Peero
 Pivotear
 Par
+Primo
+Primos
 Interface
 ID
 Instructions

@@ -53,3 +53,6 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 
 ### Algoritmo de descomposicion de FNBC
 ![[Pasted image 20241001210602.png]]
+
+
+### Algoritmo de verificación de junta sin perdida

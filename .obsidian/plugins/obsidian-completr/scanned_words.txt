@@ -1678,6 +1678,10 @@ descubierto
 devuelva
 demas
 directos
+derechos
+descomposicion
+descomposici
+difieren
 gestion
 gran
 guarda
@@ -2917,6 +2921,8 @@ slow
 sabiendo
 seleccionado
 sacar
+superkey
+superkeys
 par
 por
 punto
@@ -3491,6 +3497,8 @@ pasos
 pensando
 precision
 pivote
+presentado
+preservaci
 la
 las
 le
@@ -5662,6 +5670,7 @@ Comput
 Cambio
 Cuesta
 Convertir
+Chase
 Es
 El
 Estos
@@ -6535,6 +6544,7 @@ realizarse
 restricci
 reduced
 register
+recuperarse
 operacion
 orden
 operaciones
@@ -6791,6 +6801,7 @@ occurrancia
 occurr
 oro
 optima
+obtuvo
 nombre
 nuevo
 nica
@@ -9588,6 +9599,7 @@ implementations
 identifica
 internas
 invisibles
+infomracion
 fijo
 file
 fork
@@ -13713,6 +13725,7 @@ HBA
 HHLd
 Harvard
 Hardware
+Hemos
 Jacobiano
 Job
 Jusitfique

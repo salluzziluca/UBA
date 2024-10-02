@@ -29,7 +29,7 @@ Decimos que una relación está en segunda forma normal (2FN) cuando todos sus [
 
 ## Tercera Forma Normal (3FN)
 
-Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]]CK->Y de [[Base de Datos/Atributos|atributos]] no primos con CK clave candidata
+Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]]CK->Y de [[Atributo Primo de una Relacion|atributos no primos]] con CK clave candidata
 
 
 ## Forma Normal Boyce-Codd

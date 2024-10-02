@@ -34,7 +34,7 @@ Decimos que una relacion esta en tercera forma normal cuando no esiten [[Depende
 
 ## Forma Normal Boyce-Codd
 >Una relación está en forma normal Boyce-Codd (FNBC) cuando no existen dependencias transitivas CK → Y, con CK clave candidata. Es decir, eliminamos la posibilidad de tener dependencias transitivas X → Y en las que Y es un [[Base de Datos/Atributos|atributo]] primo.
-Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia funcional]] no trivial X → Y, X es [[Superclave (SK)|superclave]].
+Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia funcional]] no trivial X → Y, X es [[Superclave (SK)|superclave]]. Cuando Y es primo
 
 ![[Pasted image 20240924211541.png]]
 

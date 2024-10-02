@@ -50,3 +50,5 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 
 ### Algoritmo de descomposicion a 3FN 
 ![[Pasted image 20241001202209.png]]
+
+## A

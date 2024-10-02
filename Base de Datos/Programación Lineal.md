@@ -9,18 +9,6 @@ Se usa principalmente en investigación operativa para maximizar ganancias o min
 ## Componentes de programación lineal 
 
 1. Variables (primero vemos continuas, pero pueden ser enteras)
-    
 2. Ecuaciones e inecuaciones lineales que definen restricciones sobre dichas variables: 
-    
-
-  
-
 3. Buscamos maximizar o minimizar una función objetivo: 
-    
-
-  
-
 4. Luego aplicamos un algoritmo que resuelva el modelo lineal (Simplex)
-    
-
-**

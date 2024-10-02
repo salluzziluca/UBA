@@ -1166,6 +1166,7 @@ case
 contados
 condicionados
 convertirno
+conunto
 de
 dispositivos
 del
@@ -1682,6 +1683,7 @@ derechos
 descomposicion
 descomposici
 difieren
+derivados
 gestion
 gran
 guarda
@@ -2923,6 +2925,7 @@ seleccionado
 sacar
 superkey
 superkeys
+superficie
 par
 por
 punto
@@ -3499,6 +3502,7 @@ precision
 pivote
 presentado
 preservaci
+poblaci
 la
 las
 le
@@ -4368,6 +4372,7 @@ anieamiento
 alineo
 aproximar
 arruine
+atributyo
 hardware
 heap
 hay
@@ -7583,6 +7588,7 @@ Actuaciones
 Agarro
 Algoritmo
 Ahi
+Atributos
 Programming
 Procesos
 Partes
@@ -8815,6 +8821,8 @@ microinstruction
 modify
 monedas
 minimice
+multivaluados
+multivaluado
 tien
 tiene
 todos
@@ -9161,6 +9169,7 @@ tmbien
 tranasformaciones
 triangulares
 triangular
+tendra
 inico
 interna
 infro
@@ -10675,6 +10684,7 @@ Despliegue
 Datapath
 Dijkstra
 Distancia
+Depende
 Memoria
 Multivariada
 MORE
@@ -10969,6 +10979,7 @@ Mapear
 Microprocesador
 Microarquitectura
 Matrices
+Monovaluados
 Table
 Todos
 This

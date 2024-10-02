@@ -56,3 +56,6 @@ Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia 
 
 
 ### Algoritmo de verificación de junta sin perdida
+Hemos presentado algoritmos de descomposición a 3FN y FNBC que preservan la información. 
+- La preservación de información implica que dada una relación R y una descomposición de R en D = (R1(Z1), R2(Z2), ..., Rn(Zn)), toda instancia r de R puede recuperarse como: r = πZ1 (r) ∗ πZ2 (r) ∗ ... ∗ πZn (r)
+-  El algoritmo de Chase nos permite verificar la preservación de información de una descomposición aún sin saber cómo la misma se obtuvo.

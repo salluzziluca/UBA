@@ -28,3 +28,17 @@ Nuestra empresa cereales tiene que cumplir con un pedido de al menos 100 kgr del
 - Salud Sustentable: nos vende cajas de 2 kgr de amaranto y 5 kgr de frutos rojos por $6 (máximo 30 cajas
 
 ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfShqF2P_Jx-dp1f3j763GUsGIxG4-KXLBt1L1S9tdX_m2tYbo8ktZr21mm7ExSL1UD9bCdrVrLjp0ZeeLW1DmrVHl2LL4yWO7OCtddGNsZqnb0xXsUMIyLgLXWTcs61dqZWVTaH8rGR03B9bQY7LMzCfdj3Bcy=s2048?key=bB6JHxg9eZbeHq3LLKC6wA)![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcTkUf5PJcG92Skd5PRXXJbLgN9SukR5ZhaXq_X5kV4f161oOCYT6zFwbLd-Lowrcgqi5vDTsKvo9cFvkDyzf0bg2iDbzoTm4Iynqu3Xwga19bUKG1RYDENe1gLen75z56QAfn9b2UK7JjMiEB2IGUaMJi-qWg=s2048?key=bB6JHxg9eZbeHq3LLKC6wA)![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfLSK5bVpvEOMXeWlRsVDngUrPtrtf-oPGz2t0G7YW_BgV6nIfgjy-FlRCs-WKGpqtD36BwXOmVYNAa0scMjWFyft-8JKESguPIvx24lduhpF_MTLJ7xy0NOKAt-ku0reZ9n0FNCLSWI22ZDQq2VcWUGpGgd_js=s2048?key=bB6JHxg9eZbeHq3LLKC6wA)![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcusDC6jZcSeG16uq4VQ8BxT-lD1LnvHthxeESMCy7EXQMKLWFMgs336qIVshWeBSTpTeq6EaDk0DrOwGD8ilUeU_O4YeSaRGZofqO3CU3Vhf5hU2OxuoMV_L-5A4ecbxPAZa-IDTsZrOZyZZzPqPakBmE280k=s2048?key=bB6JHxg9eZbeHq3LLKC6wA)![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdD6wreJBHorq_Wr7lbj79kD-f_HrDd1WdmlFnEU30er6F-jHsQQ6tXYPtGwLySmjBJZcpIkJLLIGmWpg8EwEkC2RuLElZe4tzAQA221JGmKoqq70BVyzXVBk11bV5NuMS9Qat_ICjptUmfVbdclfqqVOxlh2DJ=s2048?key=bB6JHxg9eZbeHq3LLKC6wA)
+
+```python 
+def ejemplo():
+    problem = pulp.LpProblem("products", pulp.LpMinimize)
+    vp = pulp.LpVariable("vp")
+    ss = pulp.LpVariable("ss")
+    problem += vp <= 40
+    problem += ss <= 30
+    problem += 5 * ss >= 50  # mostrar cambiando a 51
+    problem += vp + 2 * ss >= 50  # mostrar cambiando a 51
+    problem += 1 * vp + 6 * ss
+    problem.solve()
+    return pulp.value(vp), pulp.value(ss)
+```

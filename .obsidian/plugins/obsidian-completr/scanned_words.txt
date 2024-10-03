@@ -1139,6 +1139,9 @@ complica
 candidato
 covolucion
 criterios
+cito
+conunto
+cadena
 de
 dispositivos
 del
@@ -1646,6 +1649,7 @@ desarollo
 derechos
 descomposicion
 descomposici
+derivados
 gestion
 gran
 guarda
@@ -2862,6 +2866,7 @@ siguientes
 serian
 subrayados
 separaci
+superficie
 par
 por
 punto
@@ -3426,6 +3431,7 @@ pareja
 puntes
 presentado
 preservaci
+poblaci
 la
 las
 le
@@ -4269,6 +4275,7 @@ abordando
 asegurando
 agrupaci
 arquitectonicas
+atributyo
 hardware
 heap
 hay
@@ -6431,6 +6438,7 @@ rreglos
 realizarse
 restricci
 recuperarse
+representado
 operacion
 orden
 operaciones
@@ -7451,6 +7459,7 @@ Aronofsky
 Actuaciones
 Agarro
 Algoritmo
+Atributos
 Programming
 Procesos
 Partes
@@ -8665,6 +8674,8 @@ mitad
 maximos
 monotionico
 mitades
+multivaluados
+multivaluado
 tien
 tiene
 todos
@@ -9000,6 +9011,7 @@ tQq
 tlg
 tcz
 tuvieramos
+tendra
 inico
 interna
 infro
@@ -10494,6 +10506,7 @@ Django
 Darren
 Dpto
 Despliegue
+Depende
 Memoria
 Multivariada
 MORE
@@ -10785,6 +10798,7 @@ Mutiplicacion
 Mariano
 Manejar
 Mapear
+Monovaluados
 Table
 Todos
 This

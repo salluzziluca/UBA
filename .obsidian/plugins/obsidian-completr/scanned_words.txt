@@ -1156,6 +1156,16 @@ comedia
 categoria
 comparti
 consulta
+coparticipan
+cantida
+concreta
+cardinalidades
+calves
+concurso
+canto
+cantantes
+calificados
+cantante
 de
 dispositivos
 del
@@ -1669,6 +1679,8 @@ distinguirlas
 devuelva
 deberian
 difieren
+docente
+discriminante
 gestion
 gran
 guarda
@@ -2435,6 +2447,9 @@ estrella
 elaborar
 efiicientes
 ejecuten
+escribi
+evaluados
+englobar
 servicios
 son
 su
@@ -2906,6 +2921,11 @@ select
 subconjuntos
 superkey
 superkeys
+superpuesta
+subconceptos
+subtipos
+supetipo
+sorbe
 par
 por
 punto
@@ -3475,6 +3495,10 @@ principalmente
 programaci
 proveedores
 postgres
+participaci
+participan
+participantes
+puntuar
 la
 las
 le
@@ -4323,6 +4347,12 @@ amaranto
 actuaron
 autorizados
 asber
+actuaci
+aridad
+aquellas
+agregacion
+alumnos
+abarca
 hardware
 heap
 hay
@@ -5909,6 +5939,8 @@ Enfoque
 Esos
 EVITAR
 Ecuaciones
+Eliminaci
+Especializacion
 kernel
 kt
 kU
@@ -6509,6 +6541,15 @@ repercutan
 recuperacion
 restringir
 revocar
+rechazar
+referencien
+realizarlas
+relacionarse
+rstantes
+rondas
+ronda
+registrar
+resprenta
 operacion
 orden
 operaciones
@@ -6761,6 +6802,8 @@ ocurrencias
 operativa
 opcion
 opci
+organizan
+obligado
 nombre
 nuevo
 nica
@@ -7004,6 +7047,8 @@ nmente
 nociones
 nicas
 normativas
+nacieron
+naci
 via
 vuelve
 viven
@@ -7278,6 +7323,9 @@ vende
 verse
 vendido
 vieja
+viole
+vincular
+vaticano
 Application
 API
 Asigna
@@ -7543,6 +7591,7 @@ Andr
 Almacenamiento
 Asegurar
 Acceso
+Actualizaci
 Programming
 Procesos
 Partes
@@ -7861,6 +7910,8 @@ Patagua
 Primaria
 Permitir
 Par
+Pais
+Participacion
 Interface
 ID
 Instructions
@@ -8135,6 +8186,7 @@ INi
 Imagenes
 Independencia
 Integridad
+Inserci
 Un
 UNIX
 UBA
@@ -8357,6 +8409,7 @@ Ulb
 URu
 UGX
 Unchained
+Union
 modo
 mode
 menso
@@ -8768,6 +8821,8 @@ multivaluado
 minimal
 mayne
 manipulaci
+maxima
+manipualr
 tien
 tiene
 todos
@@ -9106,6 +9161,7 @@ tuvieramos
 tendra
 triple
 transaccional
+tem
 inico
 interna
 infro
@@ -9542,6 +9598,12 @@ inecuaciones
 inserto
 insertadas
 indicando
+interrelaci
+interrelaciones
+inscriben
+identificaci
+identidad
+identificadora
 fijo
 file
 fork
@@ -9851,6 +9913,7 @@ formalizaci
 flexibilidad
 frutos
 filmaci
+fijadas
 Nombre
 Notas
 Not
@@ -10316,6 +10379,9 @@ Fourier
 Facilitar
 Foraneas
 Ferdy
+Futbolista
+Fijo
+Fuhi
 Descriptors
 Descriptor
 Devuelve
@@ -11148,6 +11214,7 @@ Transformada
 TeoAlgoSoft
 TOdo
 Transacciones
+Tanto
 Realiza
 REgistrys
 Rango
@@ -11426,6 +11493,7 @@ Resuelve
 Recuperaci
 RETURNING
 ROLLBACK
+Rechazo
 bien
 by
 be
@@ -12652,6 +12720,10 @@ jgg
 jeT
 jSPP
 jomE
+jurados
+jurado
+jugadores
+jugador
 Ya
 Yourself
 YAGNI
@@ -13024,6 +13096,7 @@ GoM
 GfE
 George
 GRANT
+Generaliazacion
 BX
 Bit
 Box

@@ -1,0 +1,1 @@
+Cuando Y ⊂ X decimos que X → Y es trivial

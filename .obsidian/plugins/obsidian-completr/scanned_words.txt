@@ -2454,6 +2454,7 @@ edicion
 etnre
 ejercicio
 ecuaciones
+ejemplar
 servicios
 son
 su
@@ -3511,6 +3512,7 @@ poblaci
 puedeResolver
 profesor
 parcialmente
+parcialitos
 la
 las
 le
@@ -4388,6 +4390,8 @@ atiende
 alias
 autonomia
 asignatura
+autonom
+alumnos
 hardware
 heap
 hay
@@ -5059,6 +5063,7 @@ umP
 urr
 urre
 ultimos
+umero
 System
 Son
 Source
@@ -7345,6 +7350,7 @@ viola
 venir
 visible
 visibles
+venta
 Application
 API
 Asigna
@@ -7609,6 +7615,7 @@ Ahi
 Atributos
 Atributo
 ACE
+ACH
 Programming
 Procesos
 Partes
@@ -9640,6 +9647,7 @@ invisibles
 infomracion
 interesa
 implicantes
+indicador
 fijo
 file
 fork
@@ -10719,6 +10727,7 @@ Depende
 Dados
 DEA
 DEC
+DEH
 Memoria
 Multivariada
 MORE
@@ -11833,6 +11842,7 @@ bajando
 but
 brecha
 brechas
+bater
 will
 words
 with
@@ -13389,6 +13399,8 @@ Busco
 Buscamos
 Beir
 Bellman
+BAD
+BCD
 XY
 Xg
 XQG
@@ -13977,6 +13989,7 @@ JLK
 JLc
 JIEx
 JkM
+JuanciTron
 Quienes
 Queue
 Quiere

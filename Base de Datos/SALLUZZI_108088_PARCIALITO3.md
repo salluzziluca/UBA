@@ -77,3 +77,5 @@ N°Serie->Ejemplar
 Ejemplar->alias, autonomia, puedeResolver, Version
 fecha, DNI, N°Serie-> Venta
 DNI-> Nombre
+
+Se sabe que cada ejemplar del modelo JuanciTron2C24 se identifica con su n´umero de serie (¡un entero!), y tiene un alias, una autonom´ıa para su bater´ıa(medida en horas) y un indicador para saber si puede resolver los parcialitos de Base de Datos (no est´a a la venta para alumnos). Se registra par

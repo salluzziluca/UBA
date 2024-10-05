@@ -37,14 +37,10 @@ $(BEH)^+=\{BEH\}$
 $(BACD)^+=\{BACD, H, E, A, G\}$ Es redundante con BAD
 $(BACE)^+=\{BACE, H\}$
 $(BDEA)^+=\{BDEA, H, G, C\}$ es redundante con BAD
-$(HDEC)^+=\{HDEC\}$ es redundante con HCD
+$(BDEC)^+=\{BDEC, E, A, G\}$ es redundante con BCD
 
 ## Paso 6:
-Agrego la independencia
-$$HGB, HADB, HCDB $$
-
-==RTA: HGB, HADB, HCDB== 
-
+No hay independiente
 # 2
 
 {AG → B, D → H, EC → A, HE → D}

@@ -33,7 +33,7 @@ $(BDH)^+=\{BDH\}$
 $(BEH)^+=\{BEH\}$
 
 
-#### Tercer ciclo, sin usar G: O sea uso ACD, ACE, DEA, DEC
+#### Tercer ciclo, sin usar G: O sea uso ACD, ACE,ACH, DEA, DEC, DEH
 $(HACD)^+=\{HACD\}$ Es redundante con HAD
 $(HACE)^+=\{HACE\}$
 $(HDEA)^+=\{HDEA\}$ es redundante con HAD

@@ -18,13 +18,7 @@ $(BC)^+=\{BC, H\}$
 $(BE)^+=\{BE, H\}$
 $(BD)^+=\{BD, H, E\}$
 $(BG)^+=\{BG, H, D, E, C,A\}$
-$(BH)^+=\{BH\}$
-$(HA)^+=\{HA\}$
-$(HC)^+=\{HC\}$
-$(HD)^+=\{HD, E\}$
-$(HG)^+=\{HG, D, E, C, A, G\}$
-Con HG llego a D, luego con HD lleg o a E. Con GDE llego a C y con CDE llego a A. Finalmente, con AD tambien llego a G
-
+Con HG llego a D, con BD llego a E, con GDE llego a C, con CDE llego a A.
 #### Segundo ciclo, sin usar G: o sea, uso AC AD AE CD CE DE
 $(HAC)^+=\{HAC\}$
 $(HAD)^+=\{HAD, G, D, E, C, A\}$

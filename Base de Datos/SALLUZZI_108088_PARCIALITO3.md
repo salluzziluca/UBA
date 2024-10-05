@@ -64,4 +64,4 @@ Pruebo todas las opciones
 CEGB no es clave
 $CEGD^+=${B, D, H, C, E, G} es clave
 
-$CEGH^+=${}
+$CEGH^+=${C, E , G}

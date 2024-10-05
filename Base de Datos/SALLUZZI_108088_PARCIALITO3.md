@@ -71,3 +71,5 @@ Me fijo si esta en 2FN. B no es primo y solo puedo llegar a el mediante ECG.
 
 # 3.
 Precio, MaterialChasis->Version
+N°Serie->Ejemplar
+Ejemplar->alias, autonomia, puedeResolver

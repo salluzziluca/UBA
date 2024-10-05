@@ -34,9 +34,9 @@ $(BEH)^+=\{BEH\}$
 
 
 #### Tercer ciclo, sin usar G: O sea uso ACD, ACE,ACH, DEA, DEC, DEH
-$(BACD)^+=\{BACD, H, E, A, G\}$ Es redundante con HAD
+$(BACD)^+=\{BACD, H, E, A, G\}$ Es redundante con BAD
 $(BACE)^+=\{BACE\}$
-$(BDEA)^+=\{BDEA\}$ es redundante con HAD
+$(BDEA)^+=\{BDEA\}$ es redundante con BAD
 $(HDEC)^+=\{HDEC\}$ es redundante con HCD
 
 ## Paso 6:

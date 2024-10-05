@@ -3509,6 +3509,7 @@ presentado
 preservaci
 poblaci
 puedeResolver
+profesor
 la
 las
 le
@@ -4385,6 +4386,7 @@ atributyo
 atiende
 alias
 autonomia
+asignatura
 hardware
 heap
 hay

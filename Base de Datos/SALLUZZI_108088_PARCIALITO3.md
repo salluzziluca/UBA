@@ -55,7 +55,7 @@ Es 3FN porque no existen dependencias transitivas CK(clave candidata)->Y de atri
 Es FNBC porque para toda dependencia funcional no trivial X->Y, x es superclave
 ### R2
 R2(B, C, D, E, G, H)
-F2: EC->A, HE->D, D->H
+F2:ECG->B HE->D, D->H
 
 
 Claves independientes: B

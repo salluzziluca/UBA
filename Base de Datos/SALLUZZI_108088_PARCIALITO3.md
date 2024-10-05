@@ -11,8 +11,8 @@ No hay atributos equivalentes
 K = {B}. B no es clave porque con B puedo llegar solamente a H y a B.
 $B^+ ={B}$
 ## Paso5: 
-{A, C, D, E, G}
-Combino todos esos con H secuencialmente.
+{A, C, D, E, G, H}
+Combino todos esos con B secuencialmente.
 $(HA)^+=\{HA\}$
 $(HC)^+=\{HC\}$
 $(HD)^+=\{HD, E\}$

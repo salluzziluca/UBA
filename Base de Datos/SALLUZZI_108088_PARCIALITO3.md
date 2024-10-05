@@ -60,4 +60,7 @@ F2:ECG->B HE->D, D->H
 
 No hay equivalentes
 implicantes Ai: CEG
+Pruebo todas las opciones 
+CEGB no es clave
+$CEGD^+=${B, D, }
 

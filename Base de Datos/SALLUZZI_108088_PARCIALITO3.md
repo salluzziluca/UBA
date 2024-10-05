@@ -41,6 +41,8 @@ $(BDEC)^+=\{BDEC, E, A, G\}$ es redundante con BCD
 
 ## Paso 6:
 No hay independiente
+
+==RTA: BG, BAD, BCD==
 # 2
 
 {AG → B, D → H, EC → A, HE → D}

@@ -73,4 +73,5 @@ Me fijo si esta en 2FN. B no es primo y solo puedo llegar a el mediante ECG.
 Precio, MaterialChasis->Version
 N°Serie->Ejemplar
 Ejemplar->alias, autonomia, puedeResolver, Version
-fecha, DNI, nombre, N°Serie-> Venta
+fecha, DNI, N°Serie-> Venta
+DNI-> Nombre

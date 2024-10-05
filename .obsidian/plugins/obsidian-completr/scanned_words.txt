@@ -3510,6 +3510,7 @@ preservaci
 poblaci
 puedeResolver
 profesor
+parcialmente
 la
 las
 le
@@ -5688,6 +5689,8 @@ CDE
 Combino
 CEG
 CEGB
+CEGD
+CEGH
 Es
 El
 Estos

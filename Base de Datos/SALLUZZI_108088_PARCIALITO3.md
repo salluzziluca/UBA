@@ -29,6 +29,8 @@ $(BCD)^+=\{BCD,H, E, A, G\}$
 $(BCE)^+=\{BCE, H\}$
 $(BCH)^+=\{BCH\}$
 $(BDE)^+=\{BDE, H\}$
+$(BDH)^+=\{BDH\}$
+$(BEH)^+=\{BEH\}$
 
 
 #### Tercer ciclo, sin usar G: O sea uso ACD, ACE, DEA, DEC

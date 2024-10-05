@@ -66,4 +66,4 @@ $CEGD^+=${B, D, H, C, E, G} es clave
 
 $CEGH^+=${C, E , G, H, D, B} es clave
 
-Me fijo si esta en 2FN. B 
+Me fijo si esta en 2FN. B no es primo

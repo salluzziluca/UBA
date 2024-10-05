@@ -66,7 +66,9 @@ $CEGD^+=${B, D, H, C, E, G} es clave
 
 $CEGH^+=${C, E , G, H, D, B} es clave
 
-Me fijo si no está en 2FN. B no es primo y puedo llegar tanto mediante CEGD como mediante  
+Me fijo si no está en 2FN. B no es primo y puedo llegar tanto mediante CEGD como mediante CEGH. Depende parcialmente de ambas claves
+
+Por ende, R2 esta solamente en 1FN
 
 
 # 3.

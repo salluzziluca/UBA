@@ -22,11 +22,11 @@ Con HG llego a D, con BD llego a E, con GDE llego a C, con CDE llego a A.
 #### Segundo ciclo, sin usar G: o sea, uso AC AD AE AH CD CE CH DE DH EH
 
 $(BAC)^+=\{BAC, H\}$
-$(BAD)^+=\{BAD,H, G, D, E, C, A\}$
+$(BAD)^+=\{BAD,H, G, E, C\}$
 $(BAE)^+=\{BAE, H\}$
 $(BAH)^+=\{BAH\}$
 $(BCD)^+=\{BCD,H, E, A, G\}$
-$(HCE)^+=\{HCE\}$
+$(BCE)^+=\{HCE\}$
 $(HDE)^+=\{HDE\}$
 
 #### Tercer ciclo, sin usar G: O sea uso ACD, ACE, DEA, DEC

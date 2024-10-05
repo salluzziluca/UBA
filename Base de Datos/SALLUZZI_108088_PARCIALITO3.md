@@ -8,8 +8,8 @@ En este caso, no hay atributos independientes
 No hay atributos equivalentes 
 
 ## Paso4: Busco K
-K = {H}. H no es clave porque con H puedo llegar solamente a H.
-$H^+ ={H}$
+K = {B}. B no es clave porque con B puedo llegar solamente a H y a B.
+$B^+ ={B}$
 ## Paso5: 
 {A, C, D, E, G}
 Combino todos esos con H secuencialmente.

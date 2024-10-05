@@ -59,4 +59,6 @@ F2: EC->A, HE->D, D->H
 
 
 Claves independientes: B
+No hay equivalentes
+implicantes Ai: EC
 

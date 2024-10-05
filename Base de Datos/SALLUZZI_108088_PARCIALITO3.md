@@ -13,10 +13,11 @@ $B^+ ={B}$
 ## Paso5: 
 {A, C, D, E, G, H}
 Combino todos esos con B secuencialmente.
-$(BA)^+=\{BA\}$
-$(BC)^+=\{BC\}$
-$(BE)^+=\{BE\}$
-$(BD)^+=\{BD, E\}$
+$(BA)^+=\{BA, H\}$
+$(BC)^+=\{BC, H\}$
+$(BE)^+=\{BE, H\}$
+$(BD)^+=\{BD, H, E\}$
+$(BG)^+=\{BG, H, D, E, C,A\}$
 $(HA)^+=\{HA\}$
 $(HC)^+=\{HC\}$
 $(HD)^+=\{HD, E\}$

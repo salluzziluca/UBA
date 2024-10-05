@@ -4388,14 +4388,9 @@ hijo
 historia
 hasta
 hizo
-hacaia
-hacia
 hago
-hacer
-hace
 hits
 hijos
-hacerlo
 hu
 hablamos
 hora
@@ -4407,13 +4402,10 @@ humanos
 herencia
 heredaria
 hoc
-hacen
 hecho
-hacemos
 header
 haga
 haya
-haciendo
 historias
 huecos
 ha
@@ -13612,7 +13604,6 @@ Hr
 Hw
 Hago
 HICISTE
-Hacer
 Hexagonal
 Handshaking
 HTTP
@@ -13717,7 +13708,6 @@ HWB
 HGPq
 HqH
 HVL
-Hacemos
 Humildad
 Historias
 Historia

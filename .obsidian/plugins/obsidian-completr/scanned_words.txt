@@ -5680,6 +5680,8 @@ Chase
 California
 CDE
 Combino
+CEG
+CEGB
 Es
 El
 Estos
@@ -5963,6 +5965,7 @@ Empezamos
 Existe
 Enfoque
 Errores
+ECG
 kernel
 kt
 kU
@@ -9624,6 +9627,7 @@ internas
 invisibles
 infomracion
 interesa
+implicantes
 fijo
 file
 fork

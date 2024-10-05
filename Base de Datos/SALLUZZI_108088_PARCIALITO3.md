@@ -3,8 +3,7 @@
 # 1.
 F={AD->G, B->H, BD->E, HG->D, CDE->A, GDE->C}
 ## Paso2: Atributos Independientes
-En este caso, B es independiente porque no depende de ningun otro atributo. Solo se encuentra en el lado izquierdo. Para poder sacarlo de F, sabemos que B-> y que BD->E. Por lo que HD->E
-F={AD->G, HD->E, HG->D, CDE->A, GDE->C}
+En este caso, no hay atributos independientes
 ## Paso3: Atributos equivalentes 
 No hay atributos equivalentes 
 

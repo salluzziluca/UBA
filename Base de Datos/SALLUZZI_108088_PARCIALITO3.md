@@ -46,13 +46,14 @@ $$HGB, HADB, HCDB $$
 R1(E, C, A)
 R2(B, C, D, E, G, H)
 Obtener los conjuntos minimales F1 y F2 de dependencias funcionales y los conjuntos CC1 y CC2
-
+### R1
 El conjunto minimal $F{1min}$ es $F{1min}= \{EC\to A\}$
 CC = EC
 Forma normal de R1:
 Es 2FN porque A es no primo y tiene dependencia funcional completa (solamente puedo llegar a A mediante AC)
 Es 3FN porque no existen dependencias transitivas CK(clave candidata)->Y de atributos no primos. A es el unico atributo no primo y depende pura y exclusivamente de EC.
 Es FNBC porque para toda dependencia funcional no trivial X->Y, x es superclave
-### F2
-EC->A, HE->D, D->H
+### R2
+R2(B, C, D, E, G, H)
+F2: EC->A, HE->D, D->H
 

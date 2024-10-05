@@ -75,6 +75,6 @@ Por ende, R2 esta solamente en 1FN
 # 3.
 Version-> Precio, MaterialChasis
 N°Serie(determina el ejemplar)->alias, autonomia, puedeResolver, Version
-fecha, DNI-> Venta
+fecha, DNI, N°Serie-> Venta
 DNI-> Nombre
 

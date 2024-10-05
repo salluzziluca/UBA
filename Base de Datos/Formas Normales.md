@@ -29,12 +29,12 @@ Decimos que una relación está en segunda forma normal (2FN) cuando todos sus [
 
 ## Tercera Forma Normal (3FN)
 
-Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]]CK->Y de [[Atributo Primo de una Relacion|atributos no primos]] con CK clave candidata
+Decimos que una relacion esta en tercera forma normal cuando no esiten [[Dependencia Funcional#Dependencia transitivas|dependencias transitivas]] CK->Y de [[Atributo Primo de una Relacion|atributos no primos]] con CK clave candidata
 
 
 ## Forma Normal Boyce-Codd
->Una relación está en forma normal Boyce-Codd (FNBC) cuando no existen dependencias transitivas CK → Y, con CK clave candidata. Es decir, eliminamos la posibilidad de tener dependencias transitivas X → Y en las que Y es un [[Atributo Primo de una Relacion|atributo primo]]
-Dicho de otra forma, una relación está en FNBC cuando para toda [[dependencia funcional]] no trivial X → Y, X es [[Superclave (SK)|superclave]].
+>Una relación está en forma normal Boyce-Codd (FNBC) cuando no existen dependencias transitivas CK → Y, con CK clave candidata. Es decir, eliminamos la posibilidad de tener dependencias transitivas X → Y en las que Y es un [[Atributo Primo de una Relacion|atributo primo]]. Esto seria como agarrar la 3FN y sumarle la condicion de que Y sea primo tmb. Es decir, ahora se cumple para Y primo e Y no primo.
+Dicho de otra forma, una relación está en FNBC cuando para **toda** [[dependencia funcional]] no trivial X → Y, X es [[Superclave (SK)|superclave]].
 
 ![[Pasted image 20240924211541.png]]
 

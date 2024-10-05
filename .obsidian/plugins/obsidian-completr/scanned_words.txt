@@ -429,6 +429,7 @@ LMu
 LkK
 Lucas
 Llevo
+Londres
 capa
 controlado
 cantidad
@@ -1167,6 +1168,8 @@ contados
 condicionados
 convertirno
 conunto
+california
+ciudad
 de
 dispositivos
 del
@@ -2926,6 +2929,7 @@ sacar
 superkey
 superkeys
 superficie
+sacarlo
 par
 por
 punto
@@ -3824,6 +3828,9 @@ letrsa
 letras
 lobo
 lobos
+londres
+localizaciones
+lleg
 agnosticos
 apps
 al
@@ -4373,6 +4380,7 @@ alineo
 aproximar
 arruine
 atributyo
+atiende
 hardware
 heap
 hay
@@ -5327,6 +5335,7 @@ Strassen
 Subset
 Sum
 Sino
+Segundo
 Calls
 Cmabia
 CPU
@@ -5676,6 +5685,9 @@ Cambio
 Cuesta
 Convertir
 Chase
+California
+CDE
+Combino
 Es
 El
 Estos
@@ -6807,6 +6819,7 @@ occurr
 oro
 optima
 obtuvo
+operamos
 nombre
 nuevo
 nica
@@ -7590,6 +7603,7 @@ Algoritmo
 Ahi
 Atributos
 Atributo
+ACE
 Programming
 Procesos
 Partes
@@ -8826,6 +8840,9 @@ monedas
 minimice
 multivaluados
 multivaluado
+mes
+mudanza
+minimal
 tien
 tiene
 todos
@@ -9173,6 +9190,7 @@ tranasformaciones
 triangulares
 triangular
 tendra
+tenido
 inico
 interna
 infro
@@ -9613,6 +9631,7 @@ identifica
 internas
 invisibles
 infomracion
+interesa
 fijo
 file
 fork
@@ -10120,6 +10139,7 @@ Nanoprogramming
 Neumann
 None
 Ning
+Naturalmente
 File
 For
 Funcion
@@ -10688,6 +10708,9 @@ Datapath
 Dijkstra
 Distancia
 Depende
+Dados
+DEA
+DEC
 Memoria
 Multivariada
 MORE
@@ -10983,6 +11006,7 @@ Microprocesador
 Microarquitectura
 Matrices
 Monovaluados
+Manejamos
 Table
 Todos
 This
@@ -11223,6 +11247,7 @@ Transformada
 Transmite
 TODAS
 Transformar
+Tercer
 Realiza
 REgistrys
 Rango
@@ -11498,6 +11523,7 @@ Reorganizo
 Responde
 Resuelve
 Refinamiento
+RTA
 bien
 by
 be
@@ -13097,6 +13123,7 @@ Gyf
 GoM
 GfE
 George
+GDE
 BX
 Bit
 Box
@@ -13741,6 +13768,11 @@ HHLd
 Harvard
 Hardware
 Hemos
+HAD
+HCD
+HGB
+HADB
+HCDB
 Jacobiano
 Job
 Jusitfique

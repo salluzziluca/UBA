@@ -26,8 +26,10 @@ $(BAD)^+=\{BAD,H, G, E, C\}$
 $(BAE)^+=\{BAE, H\}$
 $(BAH)^+=\{BAH\}$
 $(BCD)^+=\{BCD,H, E, A, G\}$
-$(BCE)^+=\{HCE\}$
-$(HDE)^+=\{HDE\}$
+$(BCE)^+=\{BCE, H\}$
+$(BCH)^+=\{BCH\}$
+$(BDE)^+=\{BDE, H\}$
+
 
 #### Tercer ciclo, sin usar G: O sea uso ACD, ACE, DEA, DEC
 $(HACD)^+=\{HACD\}$ Es redundante con HAD

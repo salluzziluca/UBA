@@ -29,12 +29,12 @@ $(BCD)^+=\{BCD,H, E, A, G\}$
 $(BCE)^+=\{BCE, H\}$
 $(BCH)^+=\{BCH\}$
 $(BDE)^+=\{BDE, H\}$
-$(BDH)^+=\{BDH\}$
+$(BDH)^+=\{BDH, E\}$
 $(BEH)^+=\{BEH\}$
 
 
 #### Tercer ciclo, sin usar G: O sea uso ACD, ACE,ACH, DEA, DEC, DEH
-$(HACD)^+=\{HACD\}$ Es redundante con HAD
+$(BACD)^+=\{BACD, H\}$ Es redundante con HAD
 $(HACE)^+=\{HACE\}$
 $(HDEA)^+=\{HDEA\}$ es redundante con HAD
 $(HDEC)^+=\{HDEC\}$ es redundante con HCD

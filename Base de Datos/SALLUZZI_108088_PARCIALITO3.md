@@ -62,5 +62,6 @@ No hay equivalentes
 implicantes Ai: CEG
 Pruebo todas las opciones 
 CEGB no es clave
-$CEGD^+=${B, D, }
+$CEGD^+=${B, D, H, C, E, G} es clave
 
+$CEGH^+=${}

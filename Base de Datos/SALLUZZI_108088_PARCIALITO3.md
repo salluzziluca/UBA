@@ -20,8 +20,9 @@ $(BD)^+=\{BD, H, E\}$
 $(BG)^+=\{BG, H, D, E, C,A\}$
 Con HG llego a D, con BD llego a E, con GDE llego a C, con CDE llego a A.
 #### Segundo ciclo, sin usar G: o sea, uso AC AD AE AH CD CE CH DE DH EH
-$(HAC)^+=\{HAC\}$
-$(HAD)^+=\{HAD, G, D, E, C, A\}$
+
+$(BAC)^+=\{BAC, H\}$
+$(BAD)^+=\{HAD, G, D, E, C, A\}$
 $(HAE)^+=\{HAE\}$
 $(HCD)^+=\{HCD, E, A, G\}$
 $(HCE)^+=\{HCE\}$

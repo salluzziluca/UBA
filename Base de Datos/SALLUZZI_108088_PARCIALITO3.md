@@ -13,6 +13,9 @@ $B^+ ={B}$
 ## Paso5: 
 {A, C, D, E, G, H}
 Combino todos esos con B secuencialmente.
+$(BA)^+=\{BA\}$
+$(BC)^+=\{BC\}$
+
 $(HA)^+=\{HA\}$
 $(HC)^+=\{HC\}$
 $(HD)^+=\{HD, E\}$

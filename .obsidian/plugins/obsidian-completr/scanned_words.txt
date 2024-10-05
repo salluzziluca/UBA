@@ -2930,6 +2930,7 @@ superkey
 superkeys
 superficie
 sacarlo
+sumarle
 par
 por
 punto
@@ -9186,6 +9187,7 @@ triangulares
 triangular
 tendra
 tenido
+tmb
 inico
 interna
 infro

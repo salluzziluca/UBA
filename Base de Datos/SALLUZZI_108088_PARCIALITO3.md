@@ -15,7 +15,8 @@ $B^+ ={B}$
 Combino todos esos con B secuencialmente.
 $(BA)^+=\{BA\}$
 $(BC)^+=\{BC\}$
-
+$(BE)^+=\{BE\}$
+$(BD)^+=\{BD, E\}$
 $(HA)^+=\{HA\}$
 $(HC)^+=\{HC\}$
 $(HD)^+=\{HD, E\}$

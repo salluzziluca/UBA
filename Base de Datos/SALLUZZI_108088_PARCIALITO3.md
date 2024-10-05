@@ -58,7 +58,6 @@ R2(B, C, D, E, G, H)
 F2:ECG->B HE->D, D->H
 
 
-Claves independientes: B
 No hay equivalentes
-implicantes Ai: EC
+implicantes Ai: ECG
 

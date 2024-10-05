@@ -22,8 +22,8 @@ Con HG llego a D, con BD llego a E, con GDE llego a C, con CDE llego a A.
 #### Segundo ciclo, sin usar G: o sea, uso AC AD AE AH CD CE CH DE DH EH
 
 $(BAC)^+=\{BAC, H\}$
-$(BAD)^+=\{HAD, G, D, E, C, A\}$
-$(HAE)^+=\{HAE\}$
+$(BAD)^+=\{BAD,H, G, D, E, C, A\}$
+$(BAE)^+=\{BAE\}$
 $(HCD)^+=\{HCD, E, A, G\}$
 $(HCE)^+=\{HCE\}$
 $(HDE)^+=\{HDE\}$

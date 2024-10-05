@@ -3508,6 +3508,7 @@ pivote
 presentado
 preservaci
 poblaci
+puedeResolver
 la
 las
 le
@@ -4382,6 +4383,8 @@ aproximar
 arruine
 atributyo
 atiende
+alias
+autonomia
 hardware
 heap
 hay
@@ -5967,6 +5970,7 @@ Existe
 Enfoque
 Errores
 ECG
+Ejemplar
 kernel
 kt
 kU
@@ -7918,6 +7922,7 @@ Pivotear
 Par
 Primo
 Primos
+Precio
 Interface
 ID
 Instructions
@@ -11005,6 +11010,7 @@ Microarquitectura
 Matrices
 Monovaluados
 Manejamos
+MaterialChasis
 Table
 Todos
 This
@@ -12215,6 +12221,7 @@ Vif
 VIS
 Von
 Verificar
+Venta
 OPTIONS
 Operativos
 Orden

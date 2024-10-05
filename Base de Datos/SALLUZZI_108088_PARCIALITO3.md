@@ -52,7 +52,7 @@ CC = EC
 Forma normal de R1:
 Es 2FN porque A es no primo y tiene dependencia funcional completa (solamente puedo llegar a A mediante AC)
 Es 3FN porque no existen dependencias transitivas CK(clave candidata)->Y de atributos no primos. A es el unico atributo no primo y depende pura y exclusivamente de EC.
-Es FNBC porque para toda dependencia funcional no trivial X->Y, x es superclave
+Es FNBC porque para toda dependencia funcional no [[Dependencia Funcional Trivial|trivial]] X->Y, x es superclave
 ### R2
 R2(B, C, D, E, G, H)
 F2: HE->D, D->H, ECG->B

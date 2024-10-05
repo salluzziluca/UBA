@@ -59,5 +59,5 @@ F2:ECG->B HE->D, D->H
 
 
 No hay equivalentes
-implicantes Ai: ECG
+implicantes Ai: CEG
 

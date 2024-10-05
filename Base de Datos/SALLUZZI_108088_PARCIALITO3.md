@@ -4,7 +4,6 @@ F={AD->G, B->H, BD->E, HG->D, CDE->A, GDE->C}
 En este caso, no hay atributos independientes
 ## Paso3: Atributos equivalentes 
 No hay atributos equivalentes 
-
 ## Paso4: Busco K
 K = {B}. B no es clave porque con B puedo llegar solamente a H y a B.
 $B^+ ={B}$
@@ -75,6 +74,6 @@ Por ende, R2 esta solamente en 1FN
 # 3.
 Version-> Precio, MaterialChasis
 N°Serie(determina el ejemplar)->alias, autonomia, puedeResolver, Version
-fecha, DNI, N°Serie-> Venta
+fecha, DNI-> Venta
 DNI-> Nombre
 

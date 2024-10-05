@@ -1,5 +1,3 @@
-![[Pasted image 20241003150217.png]]
-
 # 1.
 F={AD->G, B->H, BD->E, HG->D, CDE->A, GDE->C}
 ## Paso2: Atributos Independientes
@@ -81,4 +79,3 @@ Ejemplar->alias, autonomia, puedeResolver, Version
 fecha, DNI, N°Serie-> Venta
 DNI-> Nombre
 
-Se sabe que cada ejemplar del modelo JuanciTron2C24 se identifica con su n´umero de serie (¡un entero!), y tiene un alias, una autonom´ıa para su bater´ıa(medida en horas) y un indicador para saber si puede resolver los parcialitos de Base de Datos (no est´a a la venta para alumnos). Se registra par

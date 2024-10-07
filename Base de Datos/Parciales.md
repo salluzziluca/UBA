@@ -75,7 +75,7 @@ El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell
 
 | Relación              | Clave Primaria                           | Claves Candidatas | Claves Foraneas                      |
 | --------------------- | ---------------------------------------- | ----------------- | ------------------------------------ |
-| H(H1)                 | {H1}                                     | {H1}              |                                      |
+| H(H1, E1)             | {H1}                                     | {H1}              | {E1}                                 |
 | E(E1, E2, E3)         | {E1}                                     | {E1}              | -                                    |
 | F(F1, F2)             | {F1, F2}                                 | {F1, F2}          | -                                    |
 | B(B1, A1)             | {B1, A1}                                 | {B1, A1}          | {A1 ref. A}                          |

@@ -6014,6 +6014,7 @@ Enfoque
 Errores
 ECG
 Ejemplar
+Equivalentes
 kernel
 kt
 kU
@@ -10484,6 +10485,7 @@ Factorizacion
 Foraneas
 Ferdy
 Futbolista
+FNCB
 Descriptors
 Descriptor
 Devuelve

@@ -119,3 +119,7 @@ esta en FNCB
 
 
 ![[Pasted image 20241007114703.png]]
+
+Localidad-> codigo postal
+Codigo postal ->localidad
+Nombre escuela, codigo ->

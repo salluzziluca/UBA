@@ -84,6 +84,8 @@ JOIN
     CIRCUITOS C ON R.id_circuito = C.id_circuito
 GROUP BY 
     P.nombre, P.nacionalidad, E.nombre, C.nombre_circuito
+HAVING 
+	
 
 ```
 ![[Pasted image 20241007100215.png]]

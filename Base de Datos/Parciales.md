@@ -93,7 +93,11 @@ HAVING
 ```SQL
 SELECT AVG(C.puntos_ganados) as promedio_puntos
 FROM CARRERAS C
-JOIN PILOTOS P on c.nro_piloto = p.numero_piloto AND p.cod_equipo = c.cod_equipo where promedio_puntos >= 10
+JOIN PILOTOS P on c.nro_piloto = p.numero_piloto AND p.cod_equipo = c.cod_equipo 
+GROUP BY p.nombre, p.apellido
+HAVING promedio_puntos >= 10
+ORDER BY promedio_puntos desc
+Limit 3
 
 ```
 

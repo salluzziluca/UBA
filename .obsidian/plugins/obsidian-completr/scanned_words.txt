@@ -1177,6 +1177,9 @@ comedia
 categoria
 comparti
 clinica
+correccion
+cmateria
+cpto
 de
 dispositivos
 del
@@ -1696,6 +1699,8 @@ difieren
 derivados
 discriminante
 definici
+departamento
+dicta
 gestion
 gran
 guarda
@@ -2945,6 +2950,8 @@ sumarle
 subordinada
 semantico
 similares
+secundari
+secundaria
 par
 por
 punto
@@ -3527,6 +3534,8 @@ profesor
 parcialmente
 parcialitos
 planteado
+padroo
+padro
 la
 las
 le
@@ -5718,6 +5727,8 @@ Comedy
 City
 Chen
 Club
+Cuatri
+Cod
 Es
 El
 Estos
@@ -6853,6 +6864,7 @@ oro
 optima
 obtuvo
 operamos
+oportunidad
 nombre
 nuevo
 nica
@@ -7102,6 +7114,7 @@ negativo
 nimos
 ncia
 naci
+nota
 via
 vuelve
 viven
@@ -9238,6 +9251,7 @@ triangular
 tendra
 tenido
 tmb
+telefono
 inico
 interna
 infro
@@ -9684,6 +9698,8 @@ indicador
 identidad
 identificadora
 identificarlas
+institucion
+inscripto
 fijo
 file
 fork
@@ -10769,6 +10785,7 @@ Dados
 DEA
 DEC
 DEH
+Departamento
 Memoria
 Multivariada
 MORE

@@ -85,4 +85,7 @@ El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell
 
 ![[Pasted image 20241007105434.png]]
 
-R1 ()
+R1 (A,B,C)
+F1{AB->C, C->D, B->E, D->G, EG->H}
+
+41

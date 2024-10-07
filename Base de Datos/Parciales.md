@@ -91,9 +91,10 @@ HAVING
 
 ![[Pasted image 20241007123833.png]]
 ```SQL
-SELECT AVG(C.puntos_ganados) as promedio
+SELECT AVG(C.puntos_ganados) as promedio_puntos
 FROM CARRERAS C
-JOIN PILOTOS P on c.nro_piloto = p.numero_piloto
+JOIN PILOTOS P on c.nro_piloto = p.numero_piloto where promedio_puntos >=
+
 ```
 
 ![[Pasted image 20241007100215.png]]

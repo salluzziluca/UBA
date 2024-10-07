@@ -74,7 +74,7 @@ El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell
 ![[Pasted image 20241007121021.png]]
 ```SQL
 Select * from pilotos p
-	JOIN(select )
+	JOIN carreras c on p
 
 ```
 ![[Pasted image 20241007100215.png]]

@@ -91,6 +91,7 @@ $AB^+ = {A, B, C}$
 AC^+={A,C}
 ABC es redundante
 Clave: AB
+Esta en 2FN
 
 R2(A,C,D,E) 
 F2{C->D, D->E, ED->D}

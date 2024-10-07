@@ -105,7 +105,7 @@ clave ACD y ACE
 esta en 3FN
 
 R3(E, G, H)
-F3 (EG->H H->E, H->G, E->H, EG->G)
+F3 (EG->H H->E, H->G, E->H, E->G, G->)
 no hay indep
 E-> H y H->E son equivalentes 
 EG->G

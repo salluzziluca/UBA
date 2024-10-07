@@ -92,9 +92,12 @@ AC^+={A,C}
 ABC es redundante
 Clave: AB
 Esta en 2FN
+Esta en 3FN
+No está en FNBC
 
 R2(A,C,D,E) 
 F2{C->D, D->E, ED->D}
+CD⁺= 
 
 R3(E, G, H)
 F3 (EG->H H->E, H->G)

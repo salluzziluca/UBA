@@ -92,7 +92,8 @@ HAVING
 ![[Pasted image 20241007123833.png]]
 ```SQL
 SELECT 
-FROM 
+FROM CARRERAS C
+JOIN PILOTOS P on c.nro_piloto = p.numero_piloto
 ```
 
 ![[Pasted image 20241007100215.png]]

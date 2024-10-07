@@ -101,6 +101,7 @@ F2{C->D, D->E, ED->D}
 Indep = A
 CD⁺= {C, D, E}
 CE->{C, E}
-clave = AC
+clave = ACD
+
 R3(E, G, H)
 F3 (EG->H H->E, H->G)

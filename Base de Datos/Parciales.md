@@ -101,6 +101,11 @@ Limit 3
 
 ```
 
+
+![[Pasted image 20241007124746.png]]
+
+
+
 ![[Pasted image 20241007100215.png]]
 
 | Relación          | Clave Primaria | Claves Candidatas | Claves Foraneas              |

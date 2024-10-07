@@ -1180,6 +1180,9 @@ clinica
 correccion
 cmateria
 cpto
+conserva
+consultas
+cuantos
 de
 dispositivos
 del
@@ -1702,6 +1705,8 @@ definici
 departamento
 dicta
 dni
+declarativos
+duplicadas
 gestion
 gran
 guarda
@@ -1943,6 +1948,8 @@ gkq
 grad
 gicas
 gap
+guardo
+goles
 especifico
 entra
 en
@@ -2955,6 +2962,7 @@ semantico
 similares
 secundari
 secundaria
+selecciona
 par
 por
 punto
@@ -3540,6 +3548,7 @@ planteado
 padroo
 padro
 postal
+procedurales
 la
 las
 le
@@ -3865,6 +3874,7 @@ londres
 localizaciones
 lleg
 lacual
+lgebra
 agnosticos
 apps
 al
@@ -4422,6 +4432,8 @@ autonom
 alumnos
 actuaron
 asociaciones
+acplica
+aquellas
 hardware
 heap
 hay
@@ -5372,6 +5384,8 @@ Subset
 Sum
 Sino
 Segundo
+Selecci
+Siempr
 Calls
 Cmabia
 CPU
@@ -5733,6 +5747,7 @@ Chen
 Club
 Cuatri
 Cod
+Casi
 Es
 El
 Estos
@@ -6611,6 +6626,8 @@ reduced
 register
 recuperarse
 ref
+respresentan
+remueve
 operacion
 orden
 operaciones
@@ -7394,6 +7411,7 @@ visible
 visibles
 venta
 vieja
+verdera
 Application
 API
 Asigna
@@ -7660,6 +7678,7 @@ Atributo
 ACE
 ACH
 Andr
+Agregacion
 Programming
 Procesos
 Partes
@@ -7982,6 +8001,10 @@ Precio
 Primaria
 Propusto
 Pais
+Procedurales
+Propuesto
+Proyecci
+Promedio
 Interface
 ID
 Instructions
@@ -8483,6 +8506,7 @@ Ulb
 URu
 UGX
 Unchained
+Union
 modo
 mode
 menso
@@ -8908,6 +8932,8 @@ minimal
 mayne
 medico
 modelado
+modficar
+metio
 tien
 tiene
 todos
@@ -9258,6 +9284,7 @@ tendra
 tenido
 tmb
 telefono
+tiempoej
 inico
 interna
 infro
@@ -10016,6 +10043,7 @@ flexibilidad
 fast
 finalizadas
 filmaci
+francia
 Nombre
 Notas
 Not
@@ -10216,6 +10244,7 @@ None
 Ning
 Naturalmente
 Numero
+Necesito
 File
 For
 Funcion
@@ -10793,6 +10822,8 @@ DEA
 DEC
 DEH
 Departamento
+Dad
+Dada
 Memoria
 Multivariada
 MORE
@@ -11614,6 +11645,7 @@ Refinamiento
 RTA
 Relaci
 Resultado
+Redenominacion
 bien
 by
 be
@@ -13473,6 +13505,7 @@ Beir
 Bellman
 BAD
 BCD
+Basicas
 XY
 Xg
 XQG
@@ -13865,6 +13898,7 @@ HCD
 HGB
 HADB
 HCDB
+HAce
 Jacobiano
 Job
 Jusitfique
@@ -14062,6 +14096,7 @@ JLc
 JIEx
 JkM
 JuanciTron
+Junta
 Quienes
 Queue
 Quiere

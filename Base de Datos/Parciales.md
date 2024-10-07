@@ -91,7 +91,7 @@ HAVING
 
 ![[Pasted image 20241007123833.png]]
 ```SQL
-SELECT 
+SELECT AVG(C.puntos_ganados) as promedio
 FROM CARRERAS C
 JOIN PILOTOS P on c.nro_piloto = p.numero_piloto
 ```

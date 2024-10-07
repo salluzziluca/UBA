@@ -1701,6 +1701,7 @@ discriminante
 definici
 departamento
 dicta
+dni
 gestion
 gran
 guarda
@@ -2470,6 +2471,8 @@ ejercicio
 ecuaciones
 ejemplar
 entidaed
+escuela
+edad
 servicios
 son
 su
@@ -3536,6 +3539,7 @@ parcialitos
 planteado
 padroo
 padro
+postal
 la
 las
 le

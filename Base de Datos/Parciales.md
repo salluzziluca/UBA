@@ -89,4 +89,4 @@ R1 (A,B,C)
 F1{AB->C, C->B}
 
 R2(A,C,D,E) 
-F2{C->D}
+F2{C->D, D->E, ED->D}

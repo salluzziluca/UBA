@@ -123,3 +123,4 @@ esta en FNCB
 Localidad-> codigo postal
 Codigo postal ->localidad
 Nombre escuela, codigo postal escuela-> direccion_escuela
+Nombre_hijo, dni persojna

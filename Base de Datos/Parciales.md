@@ -90,7 +90,9 @@ HAVING
 ```
 
 ![[Pasted image 20241007123833.png]]
-```SQL 
+```SQL
+SELECT 
+FROM 
 ```
 
 ![[Pasted image 20241007100215.png]]

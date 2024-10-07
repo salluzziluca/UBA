@@ -122,4 +122,4 @@ esta en FNCB
 
 Localidad-> codigo postal
 Codigo postal ->localidad
-Nombre escuela, codigo ->
+Nombre escuela, codigo postal escuela-> direccion_escuela

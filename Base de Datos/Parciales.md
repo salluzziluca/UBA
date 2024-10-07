@@ -109,4 +109,10 @@ F3 (EG->H H->E, H->G, E->H, E->G, G->H)
 no hay indep
 E-> H y H->E son equivalentes 
 E->G G-> son equivalentes
-H->G y G->H t
+H->G y G->H tmb 
+claves 
+E
+G
+H
+
+esta en FNCB

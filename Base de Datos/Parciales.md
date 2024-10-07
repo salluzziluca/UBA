@@ -99,9 +99,9 @@ R2(A,C,D,E)
 F2{C->D, D->E, E->D}
 
 Indep = A
-CD⁺= {C, D, E}
-CE->{C, E}
-clave = ACD
+Equivalentes A y E
+
+clave ACD y ACE
 
 R3(E, G, H)
 F3 (EG->H H->E, H->G)

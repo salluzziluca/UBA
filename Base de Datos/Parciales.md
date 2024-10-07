@@ -73,13 +73,13 @@ El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell
 # 1C 2024
 ![[Pasted image 20241007100215.png]]
 
-| Relación      | Clave Primaria | Claves Candidatas | Claves Foraneas           |
-| ------------- | -------------- | ----------------- | ------------------------- |
-| H(H1, E1)     | {H1}           | {H1}              | {E1}ref E                 |
-| E(E1, E2, E3) | {E1}           | {E1}              | -                         |
-| F(F1, F2)     | {F1, F2}       | {F1, F2}          | -                         |
-| G(F1, F2, E1) | {F1, F2, E1}   | {F1, F2, E1}      | {F1, F2} ref F {E1} ref E |
-| A(A1, A2)     | {A1}           | {A1}              | -                         |
-| B(A1, B1, B2) | {A1, B1}       | {A1, B1}          | {A1} ref A                |
-| D             |                |                   |                           |
+| Relación          | Clave Primaria | Claves Candidatas | Claves Foraneas           |
+| ----------------- | -------------- | ----------------- | ------------------------- |
+| H(H1, E1)         | {H1}           | {H1}              | {E1}ref E                 |
+| E(E1, E2, E3)     | {E1}           | {E1}              | -                         |
+| F(F1, F2)         | {F1, F2}       | {F1, F2}          | -                         |
+| G(F1, F2, E1)     | {F1, F2, E1}   | {F1, F2, E1}      | {F1, F2} ref F {E1} ref E |
+| A(A1, A2)         | {A1}           | {A1}              | -                         |
+| B(A1, B1, B2)     | {A1, B1}       | {A1, B1}          | {A1} ref A                |
+| D(A1, B1, E1, D1) | {A1, B1, E1}   | {A1, B1, E1}      | {A1} r, B1, E1}           |
 

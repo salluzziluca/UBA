@@ -96,7 +96,7 @@ Esta en 3FN
 No está en FNBC
 
 R2(A,C,D,E) 
-F2{C->D, D->E, ED->D}
+F2{C->D, D->E, E->D}
 
 Indep = A
 CD⁺= {C, D, E}

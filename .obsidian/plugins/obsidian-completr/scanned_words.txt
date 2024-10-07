@@ -1695,6 +1695,7 @@ descomposici
 difieren
 derivados
 discriminante
+definici
 gestion
 gran
 guarda
@@ -2942,6 +2943,8 @@ superficie
 sacarlo
 sumarle
 subordinada
+semantico
+similares
 par
 por
 punto
@@ -3523,6 +3526,7 @@ puedeResolver
 profesor
 parcialmente
 parcialitos
+planteado
 la
 las
 le
@@ -4404,6 +4408,7 @@ asignatura
 autonom
 alumnos
 actuaron
+asociaciones
 hardware
 heap
 hay
@@ -5711,6 +5716,8 @@ CEGH
 Candidatas
 Comedy
 City
+Chen
+Club
 Es
 El
 Estos
@@ -7094,6 +7101,7 @@ negativas
 negativo
 nimos
 ncia
+naci
 via
 vuelve
 viven
@@ -7954,6 +7962,8 @@ Primo
 Primos
 Precio
 Primaria
+Propusto
+Pais
 Interface
 ID
 Instructions
@@ -8231,6 +8241,7 @@ Inicializar
 Iterando
 Incluso
 Intercambiar
+Interrelacion
 Un
 UNIX
 UBA
@@ -8877,6 +8888,7 @@ mudanza
 minimal
 mayne
 medico
+modelado
 tien
 tiene
 todos
@@ -10454,6 +10466,7 @@ Ford
 Factorizacion
 Foraneas
 Ferdy
+Futbolista
 Descriptors
 Descriptor
 Devuelve
@@ -11057,6 +11070,7 @@ Mostrar
 Muestre
 Mayne
 Morell
+Messi
 Table
 Todos
 This

@@ -102,6 +102,7 @@ Indep = A
 Equivalentes A y E
 
 clave ACD y ACE
+esta en 3FN
 
 R3(E, G, H)
 F3 (EG->H H->E, H->G)

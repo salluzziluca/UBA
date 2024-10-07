@@ -88,6 +88,11 @@ HAVING
 	COUNT(CASE WHEN r.posicion <4 and R.ms_mejor_vuelta >60000 THEN 1 END) = COUNT(*)
 
 ```
+
+![[Pasted image 20241007123833.png]]
+```SQL 
+```
+
 ![[Pasted image 20241007100215.png]]
 
 | Relación          | Clave Primaria | Claves Candidatas | Claves Foraneas              |

@@ -116,3 +116,6 @@ G
 H
 
 esta en FNCB
+
+
+![[Pasted image 20241007114703.png]]

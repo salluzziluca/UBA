@@ -1,1 +1,2 @@
-Se busca aproximar mediante polinomios una ecuacion
+Se busca aproximar mediante polinomios una ecuación
+Dfi

@@ -104,6 +104,8 @@ Limit 3
 
 ![[Pasted image 20241007124746.png]]
 
+π (PILOTOS.nombre, PILOTOS.apellido, PILOTOS.nro_piloto, CARRERAS.ms_mejor_vuelta) 
+(σ (ms_mejor_vuelta = MIN(ms_mejor_vuelta)) (CARRERAS) ⋊⋉ (CARRERAS.cod_equipo = PILOTOS.cod_equipo AND CARRERAS.nro_piloto = PILOTOS.nro_piloto) (PILOTOS))
 
 
 ![[Pasted image 20241007100215.png]]

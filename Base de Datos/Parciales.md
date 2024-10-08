@@ -174,8 +174,7 @@ FROM c CIRCUITO
 JOIN CARRERAS r on c.id_circuito = r.id_circuito 
 JOIN PILOTOS p on p.cod_equipo = r.cod_equipo and p.nro_piloto = r.nro_piloto
 JOIN EQUIPOS e on p.cod_equipo = e.cod_equipo
-GROUP BY p.cod_equipos, p.nro_piloto
-
+WHERE r.ms_mejor_vuleta = min(ms_mejor_vuelta)
 ```
 
 ![[Pasted image 20241007154120.png]]

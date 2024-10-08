@@ -202,6 +202,8 @@ WHERE
 i
 ```SQL 
 SELECT r.cod_equipo, r.nro_piloto, c.vueltas * c.longitud_km as cantidad_km
+FROM carreras r 
+JOIN CIRCUITOS c on c. 
 GROUP BY r.cod_equipo, r.nro_piloto
 HAVING cantidad_km > 500000
 ```

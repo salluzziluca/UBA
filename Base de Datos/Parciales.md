@@ -199,7 +199,9 @@ WHERE
 
 
 ![[Pasted image 20241008105837.png]]
-
+i
+```SQL 
+SELECT 
 ```
 ![[Pasted image 20241007154120.png]]
 

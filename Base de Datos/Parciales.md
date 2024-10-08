@@ -169,7 +169,9 @@ Nombre_hijo, dni persona-> edad_hijo
 
 ![[Pasted image 20241008101403.png]]
 ```SQL 
-SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.milisegun
+SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.ms_mejor_vuelta
+FROM c CIRCUITO
+JOIN CARRERAS r on c.id_circuito = 
 ```
 
 ![[Pasted image 20241007154120.png]]

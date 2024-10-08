@@ -201,8 +201,9 @@ WHERE
 ![[Pasted image 20241008105837.png]]
 i
 ```SQL 
-SELECT r.codigo_equipo, r.nro_piloto, c.vueltas * c.longitud_km as cantidad_km
-GROUP BY r.cod
+SELECT r.cod_equipo, r.nro_piloto, c.vueltas * c.longitud_km as cantidad_km
+GROUP BY r.cod_equipo, r.nro_piloto
+HAVING cantidad_km > 500000
 ```
 ![[Pasted image 20241007154120.png]]
 

@@ -171,7 +171,8 @@ Nombre_hijo, dni persona-> edad_hijo
 ```SQL 
 SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.ms_mejor_vuelta
 FROM c CIRCUITO
-JOIN CARRERAS r on c.id_circuito = 
+JOIN CARRERAS r on c.id_circuito = r.id_circuito 
+JOIN PILOTOS p on p.cod_equipo = r.cod_equipo and p.nro_piloto = 
 ```
 
 ![[Pasted image 20241007154120.png]]

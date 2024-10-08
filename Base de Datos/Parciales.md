@@ -213,7 +213,7 @@ HAVING r.vueltas_finalizadas * c_longitud_km > 500000
 
 ![[Pasted image 20241008111112.png]]
 ![[Pasted image 20241008111121.png]]
-$\pi(EQUIPOS.cod_equipo, PILOTO.nroo_piloto, PILOTO.nombre, PILOTO.apellido, PILOTO.nacionalidad)(\sigma(ve))$
+$\pi(EQUIPOS.cod_equipo, PILOTO.nroo_piloto, PILOTO.nombre, PILOTO.apellido, PILOTO.nacionalidad)(\sigma(veces_campeon = max(veces_campeon)EQUIPOS))$
 ![[Pasted image 20241007154120.png]]
 
 | Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                    |

@@ -169,12 +169,32 @@ Nombre_hijo, dni persona-> edad_hijo
 
 ![[Pasted image 20241008101403.png]]
 ```SQL 
-SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.ms_mejor_vuelta
-FROM CIRCUITO c
-JOIN CARRERAS r on c.id_circuito = r.id_circuito 
-JOIN PILOTOS p on p.cod_equipo = r.cod_equipo and p.nro_piloto = r.nro_piloto
-JOIN EQUIPOS e on p.cod_equipo = e.cod_equipo
-WHERE r.ms_mejor_vuleta = min(ms_mejor_vuelta)
+SELECT 
+    c.nombre circuito,
+    p.nombre,
+    p.apellido,
+    p.nacionalidad,
+    e.nombre equipo,
+    r.ms_mejor_vuelta
+FROM 
+    CIRCUITOS c
+JOIN 
+    CARRERAS r ON c.id_circuito = r.id_circuito 
+JOIN 
+    PILOTOS p ON p.cod_equipo = r.cod_equipo 
+    AND p.nro_piloto = r.nro_piloto
+JOIN 
+    EQUIPOS e ON p.cod_equipo = e.cod_equipo
+WHERE 
+    (r.id_circuito, r.ms_mejor_vuelta) IN (
+        SELECT 
+            id_circuito, MIN(ms_mejor_vuelta)
+        FROM 
+            CARRERAS
+        GROUP BY 
+            id_circuito
+    );
+
 ```
 
 ![[Pasted image 20241007154120.png]]

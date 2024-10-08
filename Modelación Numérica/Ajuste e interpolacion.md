@@ -9,4 +9,4 @@ F^* polinomio que vamos a ajusgar
 $F^*= \sum^{m}_{j=0}c_{j}\varphi_{j}(x)$
 
 entonces, cuadrados minimos-> $$\sum^{m}_{k=0}(f(x_{k})-f^*(x_{k}))$$![[Pasted image 20241008133759.png]]
-$||f-f^*||^2=(f-f^*, f-f*) $
+$||f-f^*||^2=(f-f^*, f-f^*)= \sum^{m}_{k=0}(f(x_{k})-f^*(x_{k}))$

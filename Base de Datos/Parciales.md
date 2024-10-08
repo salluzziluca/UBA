@@ -227,7 +227,7 @@ $\pi(EQUIPOS.cod_equipo, PILOTO.nroo_piloto, PILOTO.nombre, PILOTO.apellido, PIL
 | G(F1, A1, E1, E2, G1) | {F1, A1, E1, E2} | {F1, A1, E1, E2}  | F1 ref F, A1 ref A, {E1, E2} ref E |
 ![[Pasted image 20241007155424.png]]
 
-
+![[Pasted image 20241008204445.png]]
 
 ![[Pasted image 20241007155954.png]]
 No hay independientes 

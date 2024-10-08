@@ -201,7 +201,7 @@ WHERE
 ![[Pasted image 20241008105837.png]]
 i
 ```SQL 
-SELECT 
+SELECT r.codigo_equipo, r.nro_piloto, AGR()
 ```
 ![[Pasted image 20241007154120.png]]
 

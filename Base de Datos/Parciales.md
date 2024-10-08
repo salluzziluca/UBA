@@ -106,7 +106,7 @@ Limit 3
 
 π (PILOTOS.nombre, PILOTOS.apellido, PILOTOS.nro_piloto, CARRERAS.ms_mejor_vuelta) 
 (σ (ms_mejor_vuelta = MIN(ms_mejor_vuelta)) (CARRERAS) ⋊⋉ (CARRERAS.cod_equipo = PILOTOS.cod_equipo AND CARRERAS.nro_piloto = PILOTOS.nro_piloto) (PILOTOS))
-
+![[Pasted image 20241008111108.png]]
 
 ![[Pasted image 20241007100215.png]]
 
@@ -209,6 +209,9 @@ JOIN CIRCUITOS c on r.id_circuito = c.id_circuito
 GROUP BY r.cod_equipo, r.nro_piloto
 HAVING r.vueltas_finalizadas * c_longitud_km > 500000
 ```
+
+
+![[Pasted image 20241008111112.png]]
 ![[Pasted image 20241007154120.png]]
 
 | Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                    |

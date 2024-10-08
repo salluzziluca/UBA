@@ -201,11 +201,11 @@ WHERE
 ![[Pasted image 20241008105837.png]]
 i
 ```SQL 
-SELECT r.cod_equipo, r.nro_piloto, c.vueltas * c.longitud_km as cantidad_km
+SELECT r.cod_equipo, r.nro_piloto, c.vueltas_finalizadas * c.longitud_km as cantidad_km
 FROM carreras r 
 JOIN CIRCUITOS c on r.id_circuito = c.id_circuito 
 GROUP BY r.cod_equipo, r.nro_piloto
-HAVING c.vueltas * c_longitud_km > 500000
+HAVING r.vueltas_finalizadas * c_longitud_km > 500000
 ```
 ![[Pasted image 20241007154120.png]]
 

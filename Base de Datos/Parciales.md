@@ -167,6 +167,9 @@ Nombre_hijo, dni persona-> edad_hijo
 
 ## 1
 
+![[Pasted image 20241008101403.png]]
+```SQL 
+
 
 ![[Pasted image 20241007154120.png]]
 

@@ -197,6 +197,10 @@ WHERE
 
 ```
 
+
+![[Pasted image 20241008105837.png]]
+
+```
 ![[Pasted image 20241007154120.png]]
 
 | Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                    |

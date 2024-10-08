@@ -15,4 +15,5 @@ Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
 
 
 
-# Interpolacion
+# Interpolacion segun vandermonde 
+![[Pasted image 20241008135126.png]]

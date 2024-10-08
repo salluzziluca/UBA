@@ -6,4 +6,4 @@ Si el polinomio tiene muchos datos x_i se hace un ajusto al grado dle polinomio
 # [[3.5 Mínimos Cuadrados]]
 F = funcion que queremos ajustar (dato)
 F^* polinomio que vamos a ajusgar 
-$F^*= \sum^{m}_{#}$
+$F^*= \sum^{m}_{j=0}c_{j}\varphi_{j}(x)$

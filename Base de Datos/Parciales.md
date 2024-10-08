@@ -172,7 +172,9 @@ Nombre_hijo, dni persona-> edad_hijo
 SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.ms_mejor_vuelta
 FROM c CIRCUITO
 JOIN CARRERAS r on c.id_circuito = r.id_circuito 
-JOIN PILOTOS p on p.cod_equipo = r.cod_equipo and p.nro_piloto = 
+JOIN PILOTOS p on p.cod_equipo = r.cod_equipo and p.nro_piloto = r.nro_piloto
+JOIN EQUIPOS e on p.cod_equipo = e.cod_equipo
+GROUP BY p.cod_equipos, p.numero
 ```
 
 ![[Pasted image 20241007154120.png]]

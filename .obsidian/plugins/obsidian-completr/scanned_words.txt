@@ -3551,6 +3551,7 @@ padro
 postal
 procedurales
 patente
+piloto
 la
 las
 le
@@ -5752,6 +5753,7 @@ Cuatri
 Cod
 Casi
 CBGD
+CARRERAS
 Es
 El
 Estos
@@ -7691,6 +7693,7 @@ ABGD
 ABCD
 ABEG
 ABE
+AND
 Programming
 Procesos
 Partes
@@ -8017,6 +8020,7 @@ Procedurales
 Propuesto
 Proyecci
 Promedio
+PILOTOS
 Interface
 ID
 Instructions
@@ -11138,6 +11142,7 @@ Muestre
 Mayne
 Morell
 Messi
+MIN
 Table
 Todos
 This

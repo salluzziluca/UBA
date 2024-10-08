@@ -1,0 +1,1 @@
+Se busca aproximar mediante polinomios una ecuacion

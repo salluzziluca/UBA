@@ -12,3 +12,7 @@ entonces, cuadrados minimos-> $$\sum^{m}_{k=0}(f(x_{k})-f^*(x_{k}))^2$$![[Pasted
 $||f-f^*||^2=(f-f^*, f-f^*)= \sum^{m}_{k=0}(f(x_{k})-f^*(x_{k}))(f(x_{k})-f^*(x_{k})=\sum^{m}_{k=0}(f(x_{k})-f^*(x_{k}))^2$
 
 Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
+
+
+
+# Interpolacion

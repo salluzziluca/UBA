@@ -29,3 +29,4 @@ haciendo
 CEG
 CEGB
 bna
+bCg

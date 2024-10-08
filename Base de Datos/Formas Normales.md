@@ -17,6 +17,12 @@ Busca:
 - Eliminar la redundancia (si los datos aparecen una sola vez y despues se referencian, cuando tengo que cambiar el valor hago una sola modificacion)
 - Evitar las anomalias de ABM
 
+
+2FN: si de la derecha hay un atributo no primo, de la izquierda hay una superclave completa u otro atributo no primo
+
+3FN: a la izquierda tiene que haber una superclave completa o de la derecha tiene que haber un atributo primo
+
+FNBC: a la izquierda tiene que haber una superclave completa
 ## Primera Forma Normal (1FN)
 >Decimos que un esquema de [[Bases de Datos|base de datos]] relacional está en primera forma normal (1FN) cuando los dominios de todos sus [[Base de Datos/Atributos|atributos]] sólo permiten valores atómicos (es decir, indivisibles) y monovaluados
 

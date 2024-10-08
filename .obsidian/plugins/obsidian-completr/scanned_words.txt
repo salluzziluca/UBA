@@ -431,6 +431,7 @@ Lucas
 Llevo
 Londres
 Lights
+Les
 capa
 controlado
 cantidad
@@ -5748,6 +5749,7 @@ Club
 Cuatri
 Cod
 Casi
+CBGD
 Es
 El
 Estos
@@ -6628,6 +6630,8 @@ recuperarse
 ref
 respresentan
 remueve
+recu
+redundantes
 operacion
 orden
 operaciones
@@ -7679,6 +7683,11 @@ ACE
 ACH
 Andr
 Agregacion
+ACGD
+ABGD
+ABCD
+ABEG
+ABE
 Programming
 Procesos
 Partes
@@ -11646,6 +11655,7 @@ RTA
 Relaci
 Resultado
 Redenominacion
+REF
 bien
 by
 be
@@ -13248,6 +13258,9 @@ GoM
 GfE
 George
 GDE
+GAD
+GCD
+GHD
 BX
 Bit
 Box
@@ -13506,6 +13519,7 @@ Bellman
 BAD
 BCD
 Basicas
+BCGD
 XY
 Xg
 XQG

@@ -160,3 +160,73 @@ Codigo postal ->localidad
 Nombre escuela, codigo postal escuela-> direccion_escuela
 codigo_postal_escuela->localidad_escuela
 Nombre_hijo, dni persona-> edad_hijo
+
+
+
+# 1er recu  1C2024
+
+
+![[Pasted image 20241007154120.png]]
+
+| Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                    |
+| --------------------- | ---------------- | ----------------- | ---------------------------------- |
+| H(H1, H2, F1)         | {H1}             | {H1}              | {F1} referencia F                  |
+| F(F1, F2)             | {F1}             | {F1}              | -                                  |
+| A(A1)                 | {A1}             | {A1}              | -                                  |
+| B(B1, A1)             | {B1, A1}         | {B1, A1}          | A1 ref A                           |
+| D(B1, A1)             | {B1, A1}         | {B1, A1}          | B1 REF B A1 REF A                  |
+| E(E1, E2, E3)         | {E1, E2}         | {E1, E2}          | -                                  |
+| G(F1, A1, E1, E2, G1) | {F1, A1, E1, E2} | {F1, A1, E1, E2}  | F1 ref F, A1 ref A, {E1, E2} ref E |
+![[Pasted image 20241007155424.png]]
+
+
+
+![[Pasted image 20241007155954.png]]
+No hay independientes 
+
+A->H y H->A Son redundantes
+
+Nos queda F={A->B, AG->C, DG->E, BC->A, C->E}
+
+K =G,D PERO NO ES CLAVE 
+
+A, C, B. 
+GAD⁺={GAD, C, E, B}
+GCD⁺= no es clave porque no tengo A para llegar a B
+GDB⁺={GDB, E}
+
+ACGD es redundante con GAD
+ABGD es redundante con GAD
+CBGD⁺={BCGD, A, E}
+
+Les sumo el equivalente
+
+GAD, BCGD, GHD
+
+
+G->A, E->D, D->B, C->D, AB->C, CE->G
+
+R1 ABCD F1= AB->C, D->B C->D
+AB
+AC
+AD
+2FN
+es 3FN
+No es FNBC
+
+
+R2 ABEG F2= G->A ABE->G, E->B,
+AE
+GE
+
+es 1FN
+
+
+
+
+
+codigo->ronda 
+ronda->fecha, horaInicio, legajo, patente
+patente->modelo
+legajo->nombre
+

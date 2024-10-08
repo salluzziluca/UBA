@@ -169,7 +169,7 @@ Nombre_hijo, dni persona-> edad_hijo
 
 ![[Pasted image 20241008101403.png]]
 ```SQL 
-SELECT c.nombre_circuito, p.nombre
+SELECT c.nombre_circuito, p.nombre, p.apellido, p.nacionalidad, e.nombre, r.milisegun
 ```
 
 ![[Pasted image 20241007154120.png]]

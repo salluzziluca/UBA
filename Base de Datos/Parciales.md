@@ -263,6 +263,74 @@ codigo->ronda
 ronda->fecha, horaInicio, legajo, patente
 patente->modelo
 legajo->nombre
+
+# 2024 recu 2
+
+
+![[Pasted image 20241009170555.png]]
+![[Pasted image 20241009152946.png]]
+
+| Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |
+| --------------------- | ---------------- | ----------------- | -------------------------------------------- |
+| H(H1)                 | {H1}             | {H1}              |                                              |
+| C(C1, B1, A1, C2)     | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
+| B(B1, A1, B2)         | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
+| G(H1, C1, B1, A1)     | {H1,C1, B1, A1}  | {H1,C1, B1, A1}   | {H1} ref H1, {C1} ref C, {B1}ref B {A1}ref A |
+| A(A1, A2)             | A1               | A1                | -                                            |
+| E(E1, E2)             | E1               | E1                |                                              |
+| F(F1, F2)             | {F1, F2}         | {F1, F2}          |                                              |
+| D(E1, F1, F2, A1, D1) | {E1, F1, F2}     | {E1, F1, F2}      | E1 REF E {F1, F2} ref F                      |
+:DDDDDD
+
+
+![[Pasted image 20241009153709.png]]
+B ES INDEPENIENTE 
+E es solo implicante
+
+
+EA= EA, H, D, C, G ES CLAVE
+EC = EC, A, H, D, G ES CLAVE
+ED = ED
+EH= EH
+implicantes implicados: C, A, D, H
+
+ECA=  superclave de EA y EC
+ECD = superclave de EC
+ECH= superclave
+EAD = superclave EA
+EAH = superclave EA
+EDH = EDH, C, A, G es clave
+
+ECAD superclave
+ECAH superclave 
+EADH superclave 
+EDHC superclave 
+
+CC: EDHB, EAB, ECB
+
+
+![[Pasted image 20241009155431.png]]
+
+AB->D 
+R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
+AB, BG y BD clave
+NO ES FNBC
+3FN
+R2 = A, B, E,C. F2: E->B, ABC->E
+CAB es clave
+CAE es clave
+
+3FN
+
+
+![[Pasted image 20241009161623.png]]
+
+charlas, articulos->workshop
+articulo->escritor 
+charla->expositor
+workshop->fecha
+escritor->fecha
+expositor->fecha
 # 2C 2023 
 ![[Pasted image 20241008212050.png]]
 ```SQL 
@@ -366,69 +434,3 @@ WHERE
 
 ```
 
-
-![[Pasted image 20241009151523.png]]
-![[Pasted image 20241009170555.png]]
-![[Pasted image 20241009152946.png]]
-
-| Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |
-| --------------------- | ---------------- | ----------------- | -------------------------------------------- |
-| H(H1)                 | {H1}             | {H1}              |                                              |
-| C(C1, B1, A1, C2)     | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
-| B(B1, A1, B2)         | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
-| G(H1, C1, B1, A1)     | {H1,C1, B1, A1}  | {H1,C1, B1, A1}   | {H1} ref H1, {C1} ref C, {B1}ref B {A1}ref A |
-| A(A1, A2)             | A1               | A1                | -                                            |
-| E(E1, E2)             | E1               | E1                |                                              |
-| F(F1, F2)             | {F1, F2}         | {F1, F2}          |                                              |
-| D(E1, F1, F2, A1, D1) | {E1, F1, F2}     | {E1, F1, F2}      | E1 REF E {F1, F2} ref F                      |
-:DDDDDD
-
-
-![[Pasted image 20241009153709.png]]
-B ES INDEPENIENTE 
-E es solo implicante
-
-
-EA= EA, H, D, C, G ES CLAVE
-EC = EC, A, H, D, G ES CLAVE
-ED = ED
-EH= EH
-implicantes implicados: C, A, D, H
-
-ECA=  superclave de EA y EC
-ECD = superclave de EC
-ECH= superclave
-EAD = superclave EA
-EAH = superclave EA
-EDH = EDH, C, A, G es clave
-
-ECAD superclave
-ECAH superclave 
-EADH superclave 
-EDHC superclave 
-
-CC: EDHB, EAB, ECB
-
-
-![[Pasted image 20241009155431.png]]
-
-AB->D 
-R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
-AB, BG y BD clave
-NO ES FNBC
-3FN
-R2 = A, B, E,C. F2: E->B, ABC->E
-CAB es clave
-CAE es clave
-
-3FN
-
-
-![[Pasted image 20241009161623.png]]
-
-charlas, articulos->workshop
-articulo->escritor 
-charla->expositor
-workshop->fecha
-escritor->fecha
-expositor->fecha

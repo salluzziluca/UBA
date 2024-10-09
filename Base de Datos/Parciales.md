@@ -367,7 +367,9 @@ WHERE
 - **Efecto:** Si **no existe una marca** para ese ciclista en esa etapa, entonces la subconsulta devuelve un resultado, y esto hace que la condición `NOT EXISTS` sea verdadera, indicando que el ciclista **no ha completado** esa etapa.
 
 ```SQL
-SELECT c.cod_ciclistas 
-FROM 
+SELECT m.cod_ciclistas 
+FROM MARCAS
+GROUP BY m.num_etapa 
+ORDER BY 
 
 ```

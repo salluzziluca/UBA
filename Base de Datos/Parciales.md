@@ -442,3 +442,6 @@ AB->D
 R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
 AB, BG y BD clave
 R2 = A, B, E,C. F2: E->B, ABC->E, AB->A
+CAB es clave
+CAE es clave
+CEBA

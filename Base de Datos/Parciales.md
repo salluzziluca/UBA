@@ -446,3 +446,5 @@ NO ES FNBC
 R2 = A, B, E,C. F2: E->B, ABC->E
 CAB es clave
 CAE es clave
+
+3FN

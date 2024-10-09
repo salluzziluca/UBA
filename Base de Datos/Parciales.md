@@ -418,12 +418,12 @@ E es solo implicante
 EA= EA, H, D, C, G ES CLAVE
 EC = EC, A, H, D, G ES CLAVE
 ED = ED
-EH= 
+EH= EH
 implicantes implicados: C, A, D, H
 
-ECA=  ECA, H, D, G es c
-CD
-CH
-AD
-AH
-DH
+ECA=  superclave de EA y EC
+ECD = superclave de EC
+ECH= superclave
+EAD = superclave EA
+EAH = superclave EA
+EDH

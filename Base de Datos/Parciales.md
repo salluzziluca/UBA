@@ -414,9 +414,14 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
 B ES INDEPENIENTE 
 E es solo implicante
 
+
+EA= EA, H, D, C
+EC
+ED
+EH
 implicantes implicados: C, A, D, H
 
-ECA=  ECA, H, D
+ECA=  ECA, H, D, G es c
 CD
 CH
 AD

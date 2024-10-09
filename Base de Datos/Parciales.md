@@ -368,16 +368,7 @@ WHERE
 
 
 ![[Pasted image 20241009151523.png]]
-CircuitosCon61Vueltas = σ(vueltas >60)(CIRCUITOS)
-CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circuito = Carreras.id_circuito (Carreras)
-
-π(nombre, nro_piloto, nombre_circuito, vueltas) (
-    (γ id_circuito; MIN(ms_mejor_vuelta) → vuelta_mas_rapida (
-        σ(vueltas > 60) (CIRCUITOS) 
-        ⋊⋉ CARRERAS)
-    ) 
-    ⋊⋉ PILOTOS
-)
+![[Pasted image 20241009170555.png]]
 ![[Pasted image 20241009152946.png]]
 
 | Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |

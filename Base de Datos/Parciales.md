@@ -285,5 +285,7 @@ legajo->nombre
 ```SQL 
 SELECT v.matricula, v.marca, v.modelo
 FROM VEHICULO v 
-JOIN MULTA o
+JOIN MULTA m ON m.matricula = v.matricula
+JOIN PROPIETARIO p ON v.matricula = p.matricula
+JOIN PERSONA 
 ```

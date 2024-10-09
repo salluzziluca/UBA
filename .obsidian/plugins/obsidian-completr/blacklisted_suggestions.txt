@@ -34,3 +34,6 @@ ddd
 DDD
 dddp
 DDDd
+indep
+Independent
+independencia

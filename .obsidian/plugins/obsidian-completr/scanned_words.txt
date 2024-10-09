@@ -1184,6 +1184,8 @@ cpto
 conserva
 consultas
 cuantos
+ciclista
+completado
 de
 dispositivos
 del
@@ -1708,6 +1710,7 @@ dicta
 dni
 declarativos
 duplicadas
+detiene
 gestion
 gran
 guarda
@@ -2964,6 +2967,7 @@ similares
 secundari
 secundaria
 selecciona
+subconsulta
 par
 por
 punto
@@ -3553,6 +3557,8 @@ procedurales
 patente
 piloto
 pagar
+pierte
+participado
 la
 las
 le
@@ -5757,6 +5763,7 @@ Cod
 Casi
 CBGD
 CARRERAS
+Compara
 Es
 El
 Estos
@@ -6043,6 +6050,8 @@ Errores
 ECG
 Ejemplar
 Equivalentes
+Est
+Efecto
 kernel
 kt
 kU
@@ -7424,6 +7433,7 @@ visibles
 venta
 vieja
 verdera
+verdadera
 Application
 API
 Asigna
@@ -8955,6 +8965,7 @@ modelado
 modficar
 metio
 matricula
+marca
 tien
 tiene
 todos
@@ -9755,6 +9766,7 @@ identificarlas
 institucion
 inscripto
 importe
+indicando
 fijo
 file
 fork
@@ -10066,6 +10078,7 @@ fast
 finalizadas
 filmaci
 francia
+fallar
 Nombre
 Notas
 Not

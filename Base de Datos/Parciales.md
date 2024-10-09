@@ -357,3 +357,13 @@ WHERE
         FROM tiempos_ciclistas
     );
 ```
+
+- - **Objetivo:** Verifica que **no exista ninguna etapa** en la tabla `ETAPAS` que el ciclista no haya completado. Si existe alguna etapa que el ciclista no ha registrado en `MARCAS`, entonces esa etapa se devuelve por la subconsulta interna, y la condición `NOT EXISTS` fallaría.
+    - **Efecto:** Si un ciclista ha participado en todas las etapas, entonces **no se devolverán resultados** de la subconsulta, lo cual satisface la condición `NOT EXISTS`.
+- - **Objetivo:** Esta subconsulta se utiliza para cada etapa (`e`) y verifica si **no existe** una marca (`MARCAS`) correspondiente para ese ciclista en esa etapa.
+- **Explicación:**
+    - **`m2.cod_ciclista = c.cod_ciclista`**: Compara si el código del ciclista en la tabla `MARCAS` coincide con el ciclista actual.
+    - **`m2.num_etapa = e.num_etapa`**: Compara si el número de etapa en la tabla `MARCAS` coincide con la etapa actual en la tabla `ETAPAS`.
+- **Efecto:** Si **no existe una marca** para ese ciclista en esa etapa, entonces la subconsulta devuelve un resultado, y esto hace que la condición `NOT EXISTS` sea verdadera, indicando que el ciclista **no ha completado** esa etapa.
+
+```

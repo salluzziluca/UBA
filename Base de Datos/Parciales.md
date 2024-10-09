@@ -318,19 +318,19 @@ ORDER BY total_a_pagar DESC;
 
 1. **Seleccionar los vehículos de la marca HONDA**:
     
-    VHONDA=σmarca=′HONDA′(VEHICULO)V_{\text{HONDA}} = \sigma_{\text{marca} = 'HONDA'}(\text{VEHICULO})VHONDA​=σmarca=′HONDA′​(VEHICULO)
+    VHONDA=$σmarca=′HONDA′(VEHICULO)V_{\text{HONDA}} = \sigma_{\text{marca} = 'HONDA'}(\text{VEHICULO})VHONDA​=σmarca=′HONDA′​(VEHICULO)$
     
     Esto nos da todos los vehículos marca HONDA.
     
 2. **Obtener todos los tipos de multa**:
     
-    Ttipos=πtipo(MULTA)T_{\text{tipos}} = \pi_{\text{tipo}}(\text{MULTA})Ttipos​=πtipo​(MULTA)
+    Ttipos=$πtipo(MULTA)T_{\text{tipos}} = \pi_{\text{tipo}}(\text{MULTA})Ttipos​=πtipo​(MULTA)$
     
     Esto nos da el conjunto de todos los tipos de multa.
     
 3. **Obtener las multas de los vehículos marca HONDA**:
     
-    $MHONDA=$πmatricula, tipo(MULTA⋈VHONDA)M_{\text{HONDA}} = \pi_{\text{matricula, tipo}}(\text{MULTA} \bowtie V_{\text{HONDA}})MHONDA​=πmatricula, tipo​(MULTA⋈VHONDA​)$
+    MHONDA=$πmatricula, tipo(MULTA⋈VHONDA)M_{\text{HONDA}} = \pi_{\text{matricula, tipo}}(\text{MULTA} \bowtie V_{\text{HONDA}})MHONDA​=πmatricula, tipo​(MULTA⋈VHONDA​)$
     
     Esto une los vehículos marca HONDA con las multas que tienen registradas, proyectando sólo la matrícula y el tipo de multa.
     

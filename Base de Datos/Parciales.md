@@ -417,8 +417,8 @@ E es solo implicante
 
 EA= EA, H, D, C, G ES CLAVE
 EC = EC, A, H, D, G ES CLAVE
-ED = 
-EH
+ED = ED
+EH= 
 implicantes implicados: C, A, D, H
 
 ECA=  ECA, H, D, G es c

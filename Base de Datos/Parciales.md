@@ -310,4 +310,9 @@ ORDER BY total_a_pagar DESC;
 
 ![[Pasted image 20241009122658.png]]
 
-R1: D, A, B, C. F1 = D->A, D->B, d
+R1: {D, A, B, C} F1 = D->A, D->B, D->C. CC = D
+
+R2: D, E G F2: DE->G.
+CC DE
+
+Se pierte g->C. Ambas estan en FNBC

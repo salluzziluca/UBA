@@ -433,4 +433,18 @@ WHERE
     m3.num_etapa = 3 AND m3.tiempo = (SELECT MIN(tiempo) FROM MARCAS WHERE num_etapa = 3);
 
 ```
+o
+```SQL
+with mayor_puntaje_por_etapa as (
+	select m.num_etapa, max(m.puntaje) as max_puntaje
+	from marcas m
+	group by (m.num_etapa))
+
+select c.nombre_ciclista as ganador, c.cod_ciclista, me.num_etapa, me.max_puntaje
+from ciclistas c
+inner join marcas m using (cod_ciclista)
+inner join mayor_puntaje_por_etapa me using (num_etapa)
+where m.puntaje = me.max_puntaje
+```
+
 

@@ -448,3 +448,6 @@ CAB es clave
 CAE es clave
 
 3FN
+
+
+![[Pasted image 20241009161623.png]]

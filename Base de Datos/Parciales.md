@@ -400,6 +400,9 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
 | Relación          | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |
 | ----------------- | ---------------- | ----------------- | -------------------------------------------- |
 | H(H1)             | {H1}             | {H1}              |                                              |
-| C(C1, B1, A1)     | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
-| B(B1, A1)         | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
+| C(C1, B1, A1, C2) | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
+| B(B1, A1, B2)     | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
 | G(H1, C1, B1, A1) | {H1,C1, B1, A1}  | {H1,C1, B1, A1}   | {H1} ref H1, {C1} ref C, {B1}ref B {A1}ref A |
+| A(A1, A2)         | A1               | A1                | -                                            |
+| E(E1, E2)         | E1               | E1                |                                              |
+|                   |                  |                   |                                              |

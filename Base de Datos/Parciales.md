@@ -415,9 +415,9 @@ B ES INDEPENIENTE
 E es solo implicante
 
 
-EA= EA, H, D, C
-EC
-ED
+EA= EA, H, D, C, G ES CLAVE
+EC = EC, A, H, D, G ES CLAVE
+ED = 
 EH
 implicantes implicados: C, A, D, H
 

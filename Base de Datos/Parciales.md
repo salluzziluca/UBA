@@ -366,4 +366,7 @@ WHERE
     - **`m2.num_etapa = e.num_etapa`**: Compara si el número de etapa en la tabla `MARCAS` coincide con la etapa actual en la tabla `ETAPAS`.
 - **Efecto:** Si **no existe una marca** para ese ciclista en esa etapa, entonces la subconsulta devuelve un resultado, y esto hace que la condición `NOT EXISTS` sea verdadera, indicando que el ciclista **no ha completado** esa etapa.
 
+```SQL
+SELECT 
+
 ```

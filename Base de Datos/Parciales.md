@@ -336,5 +336,7 @@ NombreyCapacidad = pi(ReservasConFelis1995)
 SELECT c.cod_ciclista, SUM(m.tiempo) as tiempo_total, SUM(m.puntaje) as puntaje_total
 FROM CICLISTAS c 
 JOIN MARCAS m on c.cod_cilista = m.cod_ciclista 
-JOIN ETA
+JOIN ETAPAS e on e.num_etapa = m.num_etapa
+GROUP BY c.cod_ciclista, c.cod_equipo
+HAVING tiempo_total = 
 ```

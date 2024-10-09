@@ -324,5 +324,5 @@ AnimalesFelis = σ(genero = 'Felis')(animal)
 animalEnReservaFelis = animal_en_reserva ⋊⋉ animal_en_reserva.nombre_cientifico = AnimalesFelis.nombre_cientifico AnimalesFelis
 ReservasConFelis = reserva_natural ⋊⋉ reserva_natural.id_reserva = animalEnReservaFelis.id_reserva animalEnReservaFelis
 ReservasConFelis1995 = σ(año_creacion > '1995')(animalEnReservaFelis)
-Nombre
+NombreyCapacidad = pi(ReservasConFelis1995)
 ```

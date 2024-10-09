@@ -30,3 +30,7 @@ CEG
 CEGB
 bna
 bCg
+ddd
+DDD
+dddp
+DDDd

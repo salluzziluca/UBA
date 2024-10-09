@@ -370,6 +370,7 @@ WHERE
 SELECT m.cod_ciclistas 
 FROM MARCAS
 GROUP BY m.num_etapa 
-ORDER BY 
+ORDER BY m.puntaje ASC
+LIMIT 1
 
 ```

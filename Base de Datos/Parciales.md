@@ -296,5 +296,5 @@ HAVING m.importe > 50000 and BETWEEN '2022-01-01' AND '2022-12-31' and pe.ciudad
 SELECT p.DNI p.matricula SUM(importe) as total_a_pagar
 FROM PROPIETARIO p 
 JOIN MULTA m on p.matricula = m.matricula
-HAVING m.fecha BETWEEN '2022-01-01' AND ''
+HAVING m.fecha BETWEEN '2022-01-01' AND '2022-12-31'
 GROUP BY m.matricula

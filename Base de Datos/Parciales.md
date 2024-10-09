@@ -338,5 +338,5 @@ FROM CICLISTAS c
 JOIN MARCAS m on c.cod_cilista = m.cod_ciclista 
 JOIN ETAPAS e on e.num_etapa = m.num_etapa
 GROUP BY c.cod_ciclista, c.cod_equipo
-HAVING tiempo_total = 
+HAVING tiempo_total = MIN(tiempo_total)
 ```

@@ -397,12 +397,13 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
 )
 ![[Pasted image 20241009152946.png]]
 
-| Relación          | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |
-| ----------------- | ---------------- | ----------------- | -------------------------------------------- |
-| H(H1)             | {H1}             | {H1}              |                                              |
-| C(C1, B1, A1, C2) | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
-| B(B1, A1, B2)     | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
-| G(H1, C1, B1, A1) | {H1,C1, B1, A1}  | {H1,C1, B1, A1}   | {H1} ref H1, {C1} ref C, {B1}ref B {A1}ref A |
-| A(A1, A2)         | A1               | A1                | -                                            |
-| E(E1, E2)         | E1               | E1                |                                              |
-|                   |                  |                   |                                              |
+| Relación              | Clave Primaria   | Claves Candidatas | Claves Foraneas                              |
+| --------------------- | ---------------- | ----------------- | -------------------------------------------- |
+| H(H1)                 | {H1}             | {H1}              |                                              |
+| C(C1, B1, A1, C2)     | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A                    |
+| B(B1, A1, B2)         | {B1, A1}         | {B1, a1}          | {A1} ref A                                   |
+| G(H1, C1, B1, A1)     | {H1,C1, B1, A1}  | {H1,C1, B1, A1}   | {H1} ref H1, {C1} ref C, {B1}ref B {A1}ref A |
+| A(A1, A2)             | A1               | A1                | -                                            |
+| E(E1, E2)             | E1               | E1                |                                              |
+| F(F1, F2)             | {F1, F2}         | {F1, F2}          |                                              |
+| D(E1, F1, F2, A1, D1) | {E1, F1, F2}     | {E1, F1, F2}      | E1 REF e {F1, F2                             |

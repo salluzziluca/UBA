@@ -67,9 +67,6 @@ Resultado:
 | ------------------------ | ----------------- | ---------------- |
 | 329794                   | 'André'           | 'Morell'         |
 El actor con el que Ferdy Mayne compartió todas sus peliculas es André Morell
-
-
-
 # 1C 2024
 ![[Pasted image 20241007121021.png]]
 ```SQL
@@ -154,7 +151,6 @@ H
 
 esta en FNCB
 
-
 ![[Pasted image 20241007114703.png]]
 
 Localidad-> codigo postal
@@ -162,12 +158,7 @@ Codigo postal ->localidad
 Nombre escuela, codigo postal escuela-> direccion_escuela
 codigo_postal_escuela->localidad_escuela
 Nombre_hijo, dni persona-> edad_hijo
-
-
-
 # 1er recu  1C2024
-
-## 1
 
 ![[Pasted image 20241008101403.png]]
 ```SQL 
@@ -262,24 +253,16 @@ AD
 es 3FN
 No es FNBC
 
-
 R2 ABEG F2= G->A ABE->G, E->B,
 AE
 GE
 
 es 1FN
 
-
-
-
-
 codigo->ronda 
 ronda->fecha, horaInicio, legajo, patente
 patente->modelo
 legajo->nombre
-
-
-
 # 2C 2023 
 ![[Pasted image 20241008212050.png]]
 ```SQL 

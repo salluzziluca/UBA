@@ -411,4 +411,5 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
 
 
 ![[Pasted image 20241009153709.png]]
-B ES INDEP
+B ES INDEPENIENTE 
+E es solo implicante

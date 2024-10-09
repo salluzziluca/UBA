@@ -3552,6 +3552,7 @@ postal
 procedurales
 patente
 piloto
+pagar
 la
 las
 le
@@ -5390,6 +5391,8 @@ Sino
 Segundo
 Selecci
 Siempr
+SELECT
+SUM
 Calls
 Cmabia
 CPU
@@ -8021,6 +8024,7 @@ Propuesto
 Proyecci
 Promedio
 PILOTOS
+PROPIETARIO
 Interface
 ID
 Instructions
@@ -8950,6 +8954,7 @@ medico
 modelado
 modficar
 metio
+matricula
 tien
 tiene
 todos
@@ -9749,6 +9754,7 @@ identificadora
 identificarlas
 institucion
 inscripto
+importe
 fijo
 file
 fork
@@ -10535,6 +10541,7 @@ Foraneas
 Ferdy
 Futbolista
 FNCB
+FROM
 Descriptors
 Descriptor
 Devuelve
@@ -10840,6 +10847,7 @@ DEH
 Departamento
 Dad
 Dada
+DESC
 Memoria
 Multivariada
 MORE
@@ -11143,6 +11151,7 @@ Mayne
 Morell
 Messi
 MIN
+MULTA
 Table
 Todos
 This
@@ -12552,6 +12561,7 @@ Onn
 Obtenemos
 Objetivo
 Organizaci
+ORDER
 ya
 yo
 yM
@@ -13268,6 +13278,7 @@ GDE
 GAD
 GCD
 GHD
+GROUP
 BX
 Bit
 Box
@@ -13527,6 +13538,7 @@ BAD
 BCD
 Basicas
 BCGD
+BETWEEN
 XY
 Xg
 XQG
@@ -14118,6 +14130,7 @@ JIEx
 JkM
 JuanciTron
 Junta
+JOIN
 Quienes
 Queue
 Quiere
@@ -14664,6 +14677,7 @@ WPC
 WMl
 Wars
 Wilkinson
+WHERE
 ZZZPU
 ZX
 ZQ

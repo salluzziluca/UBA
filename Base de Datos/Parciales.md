@@ -395,9 +395,9 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
     ) 
     ⋊⋉ PILOTOS
 )
-
+![[Pasted image 20241009152946.png]]
 
 | Relación  | Clave Primaria | Claves Candidatas | Claves Foraneas |
 | --------- | -------------- | ----------------- | --------------- |
 | H(H1)     | {H1}           | {H1}              | -               |
-| C(C1, H1) |                |                   |                 |
+| C(C1, H1) | {H1, C1}       | {H1, C1}          |                 |

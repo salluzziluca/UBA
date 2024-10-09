@@ -426,4 +426,8 @@ ECD = superclave de EC
 ECH= superclave
 EAD = superclave EA
 EAH = superclave EA
-EDH
+EDH = EDH, C, A, G es clave
+
+ECAD
+ECAH
+EADH

@@ -282,3 +282,6 @@ legajo->nombre
 
 # 2C 2023 
 ![[Pasted image 20241008212050.png]]
+```SQL 
+SELECT v.matricula, 
+```

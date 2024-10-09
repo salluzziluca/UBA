@@ -319,4 +319,4 @@ Se pierte g->C.
 
 El algoritmo no se detiene
 ![[WhatsApp Image 2024-10-09 at 12.56.03.jpeg]]
-AnimalesFelis = σ
+AnimalesFelis = σ(genero = 'Felis')(animal)

@@ -443,6 +443,6 @@ R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
 AB, BG y BD clave
 NO ES FNBC
 3FN
-R2 = A, B, E,C. F2: E->B, ABC->E, AB->A
+R2 = A, B, E,C. F2: E->B, ABC->E
 CAB es clave
 CAE es clave

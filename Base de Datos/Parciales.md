@@ -415,3 +415,10 @@ B ES INDEPENIENTE
 E es solo implicante
 
 implicantes implicados: C, A, D, H
+
+ECA=  ECA, H, D
+CD
+CH
+AD
+AH
+DH

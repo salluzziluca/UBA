@@ -326,3 +326,10 @@ ReservasConFelis = reserva_natural ⋊⋉ reserva_natural.id_reserva = animalEnR
 ReservasConFelis1995 = σ(año_creacion > '1995')(animalEnReservaFelis)
 NombreyCapacidad = pi(ReservasConFelis1995)
 ```
+
+
+
+![[Pasted image 20241009142846.png]]
+
+
+SELECT c.cod_ciclista, 

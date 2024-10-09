@@ -334,5 +334,7 @@ NombreyCapacidad = pi(ReservasConFelis1995)
 
 ```SQL
 SELECT c.cod_ciclista, SUM(m.tiempo) as tiempo_total, SUM(m.puntaje) as puntaje_total
-FROM 
+FROM CICLISTAS c 
+JOIN MARCAS m on c.cod_cilista = m.cod_ciclista 
+JOIN ETA
 ```

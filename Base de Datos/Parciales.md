@@ -288,5 +288,5 @@ FROM VEHICULO v
 JOIN MULTA m ON m.matricula = v.matricula
 JOIN PROPIETARIO p ON v.matricula = p.matricula
 JOIN PERSONA pe on pe.DNI = p.DNI
-HAVING m.importe > 50000
+HAVING m.importe > 50000 and BETWEEN '2022-01-01' AND '2022-12-31' and pe.ciudad = 'Rosario'
 ```

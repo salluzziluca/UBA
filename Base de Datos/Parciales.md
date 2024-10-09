@@ -266,7 +266,7 @@ legajo->nombre
 
 # 2024 recu 2
 
-
+Obtener el nombre, n´umero de piloto, nombre de circuito, y cantidad de vueltas de aquellos pilotos que hayan hecho la vuelta m´as r´apida, en los circuitos que tengan m´as de 60 vueltas.
 ![[Pasted image 20241009170555.png]]
 ![[Pasted image 20241009152946.png]]
 

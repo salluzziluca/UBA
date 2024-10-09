@@ -457,3 +457,4 @@ articulo->escritor
 charla->expositor
 workshop->fecha
 escritor->fecha
+expositor->fecha

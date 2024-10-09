@@ -303,60 +303,6 @@ ORDER BY total_a_pagar DESC;
 
 
 ![[Pasted image 20241009102553.png]]
-`$π(Nombre)(σ(marca = 'Honda')(MULTA⋊⋉(MULTA.matricula = VEHICULO.matricula)(VEHICULO)⋊⋉(MULTA.DN$`
 
 
-### Pasos para resolver la consulta:
-
-1. **Seleccionar vehículos de la marca HONDA**: Utilizamos una selección sobre la tabla `VEHICULO` para quedarnos con los vehículos de la marca HONDA.
-2. **Obtener los tipos de multa existentes**: Seleccionamos todos los distintos tipos de multa en la tabla `MULTA` para saber cuáles son todos los posibles tipos.
-3. **Seleccionar las multas que tienen los vehículos marca HONDA**: A partir de los vehículos de la marca HONDA, obtenemos las multas asociadas a esos vehículos.
-4. **Usar la operación de división**: Para encontrar aquellos dueños de vehículos HONDA que tienen registrados todos los tipos de multa.
-5. **Obtener el nombre de los dueños**: Finalmente, proyectamos el nombre de las personas que son dueños de esos vehículos.
-
-### Resolución en álgebra relacional:
-
-1. **Seleccionar los vehículos de la marca HONDA**:
-    
-    VHONDA=$σmarca=′HONDA′(VEHICULO)V_{\text{HONDA}} = \sigma_{\text{marca} = 'HONDA'}(\text{VEHICULO})VHONDA​=σmarca=′HONDA′​(VEHICULO)$
-    
-    Esto nos da todos los vehículos marca HONDA.
-    
-2. **Obtener todos los tipos de multa**:
-    
-    Ttipos=$πtipo(MULTA)T_{\text{tipos}} = \pi_{\text{tipo}}(\text{MULTA})Ttipos​=πtipo​(MULTA)$
-    
-    Esto nos da el conjunto de todos los tipos de multa.
-    
-3. **Obtener las multas de los vehículos marca HONDA**:
-    
-    MHONDA=$πmatricula, tipo(MULTA⋈VHONDA)M_{\text{HONDA}} = \pi_{\text{matricula, tipo}}(\text{MULTA} \bowtie V_{\text{HONDA}})MHONDA​=πmatricula, tipo​(MULTA⋈VHONDA​)$
-    
-    Esto une los vehículos marca HONDA con las multas que tienen registradas, proyectando sólo la matrícula y el tipo de multa.
-    
-4. **División para obtener los vehículos que tienen todos los tipos de multa**:
-    
-    Vcompletos=MHONDA÷TtiposV_{\text{completos}} = M_{\text{HONDA}} \div T_{\text{tipos}}Vcompletos​=MHONDA​÷Ttipos​
-    
-    La división nos da las matrículas de los vehículos marca HONDA que tienen registrados todos los tipos de multa.
-    
-5. **Obtener los dueños de esos vehículos**:
-    
-    Pduen˜os$=πDNI(PROPIETARIO⋈Vcompletos)P_{\text{dueños}} = \pi_{\text{DNI}}(\text{PROPIETARIO} \bowtie V_{\text{completos}})Pduen˜os​=πDNI​(PROPIETARIO⋈Vcompletos​)$
-    $
-    Esto nos da los DNI de los dueños de esos vehículos.
-    
-6. **Obtener el nombre de los dueños**:
-    
-    Resultado=πnombre(Pduen˜os⋈PERSONA)\text{Resultado} = \pi_{\text{nombre}}(P_{\text{dueños}} \bowtie \text{PERSONA})Resultado=πnombre​(Pduen˜os​⋈PERSONA)
-    
-    Finalmente, proyectamos los nombres de las personas que coinciden con los DNI obtenidos.
-    
-
-### Explicación final:
-
-- La **división** MHONDA÷TtiposM_{\text{HONDA}} \div T_{\text{tipos}}MHONDA​÷Ttipos​ nos permite obtener los vehículos marca HONDA que tienen **todos** los tipos de multa registrados.
-- Luego, unimos esos vehículos con los dueños en la tabla `PROPIETARIO` para obtener los **DNI** de los propietarios.
-- Finalmente, proyectamos los **nombres** de los dueños a partir de los DNI.
-
-Este enfoque te dará el resultado deseado en álgebra relacional.
+![[Pasted image 20241009115128.png]]

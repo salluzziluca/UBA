@@ -440,4 +440,4 @@ CC: EDHB, EAB, ECB
 
 AB->D 
 R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
-R2 = E,C. F2: AB->D, D->G, G->A. Entonces AB->A.
+R2 = A, B, E,C. F2: AB->D, D->G, G->A. Entonces AB->A.

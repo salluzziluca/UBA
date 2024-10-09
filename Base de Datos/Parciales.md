@@ -453,5 +453,6 @@ CAE es clave
 ![[Pasted image 20241009161623.png]]
 
 charlas, articulos->workshop
-articulo->persona 
+articulo->escritor 
 charla->expositor
+workshop->fecha

@@ -453,4 +453,5 @@ CAE es clave
 ![[Pasted image 20241009161623.png]]
 
 charlas, articulos->workshop
-a
+articulo->persona 
+charla->expositor

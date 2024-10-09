@@ -1186,6 +1186,7 @@ consultas
 cuantos
 ciclista
 completado
+circuito
 de
 dispositivos
 del
@@ -5764,6 +5765,10 @@ Casi
 CBGD
 CARRERAS
 Compara
+CircuitosCon
+CIRCUITOS
+CarrerasCon
+Carreras
 Es
 El
 Estos
@@ -7434,6 +7439,7 @@ venta
 vieja
 verdera
 verdadera
+vueltas
 Application
 API
 Asigna
@@ -12379,6 +12385,8 @@ VIS
 Von
 Verificar
 Venta
+Vueltas
+Vuetlas
 OPTIONS
 Operativos
 Orden

@@ -401,4 +401,5 @@ CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ CircuitosCon61Vueltas.id_circ
 | ------------- | ---------------- | ----------------- | ------------------------- |
 | H(H1)         | {H1}             | {H1}              |                           |
 | C(C1, B1, A1) | {C1, B1, A1}<br> | {C1, B1, A1}      | {B1} REF b,{A1} ref<br> A |
-| B(B1, A1)     | {B1, A1}         | {B1, }            |                           |
+| B(B1, A1)     | {B1, A1}         | {B1, a1}          | {A1} ref A                |
+|               |                  |                   |                           |

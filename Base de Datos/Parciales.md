@@ -439,5 +439,5 @@ CC: EDHB, EAB, ECB
 ![[Pasted image 20241009155431.png]]
 
 AB->D 
-R1 = AB⁺= AB, D,G
+R1 = AB⁺= AB, D,G. F2; AB->D, D->G, G->A
 R2 = E,C. F2: 

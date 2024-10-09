@@ -288,6 +288,5 @@ FROM VEHICULO v
 JOIN MULTA m ON m.matricula = v.matricula
 JOIN PROPIETARIO p ON v.matricula = p.matricula
 JOIN PERSONA pe on pe.DNI = p.DNI
-
-GROUP BY 
+HAVING m.importe > 50000
 ```

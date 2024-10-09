@@ -6057,6 +6057,19 @@ Ejemplar
 Equivalentes
 Est
 Efecto
+ECA
+ECD
+ECH
+EAD
+EAH
+EDH
+ECAD
+ECAH
+EADH
+EDHC
+EDHB
+EAB
+ECB
 kernel
 kt
 kU
@@ -8320,6 +8333,7 @@ Incluso
 Intercambiar
 Interrelacion
 Indep
+INDEPENIENTE
 Un
 UNIX
 UBA
@@ -9773,6 +9787,8 @@ institucion
 inscripto
 importe
 indicando
+implicante
+implicados
 fijo
 file
 fork
@@ -10867,6 +10883,7 @@ Departamento
 Dad
 Dada
 DESC
+DDDDDD
 Memoria
 Multivariada
 MORE

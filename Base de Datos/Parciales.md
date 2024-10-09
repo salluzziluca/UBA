@@ -332,4 +332,7 @@ NombreyCapacidad = pi(ReservasConFelis1995)
 ![[Pasted image 20241009142846.png]]
 
 
-SELECT c.cod_ciclista, SUM(m.tiempo) as tiempo_total
+```SQL
+SELECT c.cod_ciclista, SUM(m.tiempo) as tiempo_total, SUM(m.puntaje) as puntaje_total
+FROM 
+```

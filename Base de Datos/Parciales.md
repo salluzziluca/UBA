@@ -428,6 +428,8 @@ EAD = superclave EA
 EAH = superclave EA
 EDH = EDH, C, A, G es clave
 
-ECAD
-ECAH
+ECAD superclave
+ECAH superclave 
+
 EADH
+EDHC

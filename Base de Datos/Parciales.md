@@ -434,3 +434,9 @@ EADH superclave
 EDHC superclave 
 
 CC: EDHB, EAB, ECB
+
+
+![[Pasted image 20241009155431.png]]
+
+AB->D 
+AB⁺= AB, D,G

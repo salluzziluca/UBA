@@ -306,3 +306,8 @@ ORDER BY total_a_pagar DESC;
 
 
 ![[Pasted image 20241009115128.png]]
+
+
+![[Pasted image 20241009122658.png]]
+
+R1: D, A, B, C. F1 = D->A, D->B, d

@@ -316,3 +316,5 @@ R2: D, E G F2: DE->G.
 CC DE 
 Está en FNBC
 Se pierte g->C. 
+
+El algoritmo no se detiene

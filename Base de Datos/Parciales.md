@@ -430,6 +430,7 @@ EDH = EDH, C, A, G es clave
 
 ECAD superclave
 ECAH superclave 
+EADH superclave 
+EDHC superclave 
 
-EADH
-EDHC
+CC: EDHB, EAB, ECB

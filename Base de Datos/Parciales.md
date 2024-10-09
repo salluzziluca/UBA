@@ -303,4 +303,4 @@ ORDER BY total_a_pagar DESC;
 
 
 ![[Pasted image 20241009102553.png]]
-`$π(Nombre)$`
+`$π(Nombre)($`

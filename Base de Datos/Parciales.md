@@ -313,6 +313,5 @@ ORDER BY total_a_pagar DESC;
 R1: {D, A, B, C} F1 = D->A, D->B, D->C, B->C, A->B CC = D
 Esta en 2FN
 R2: D, E G F2: DE->G.
-CC DE
-
+CC DEEstá
 Se pierte g->C. 

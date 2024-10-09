@@ -385,4 +385,4 @@ WHERE
 
 
 ![[Pasted image 20241009151523.png]]
-CarrerasCon61Vueltas = σ()
+CircuitosCon61Vueltas = σ(vueltas >60)(CIRCUITOS)

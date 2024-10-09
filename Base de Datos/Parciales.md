@@ -386,3 +386,4 @@ WHERE
 
 ![[Pasted image 20241009151523.png]]
 CircuitosCon61Vueltas = σ(vueltas >60)(CIRCUITOS)
+CarrerasCon61Vuetlas = CircuitosCon61Vueltas⋊⋉ Carreras

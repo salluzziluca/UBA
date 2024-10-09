@@ -382,3 +382,7 @@ WHERE
     m3.num_etapa = 3 AND m3.tiempo = (SELECT MIN(tiempo) FROM MARCAS WHERE num_etapa = 3);
 
 ```
+
+
+![[Pasted image 20241009151523.png]]
+CarrerasCon61Vueltas = σ()

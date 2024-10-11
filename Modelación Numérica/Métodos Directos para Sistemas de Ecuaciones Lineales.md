@@ -34,3 +34,7 @@ Intercambiar filas para tener pivote no nulo.
 
 
 ![[Pasted image 20241011193811.png]]
+
+
+## numero de condicion de matriz de coeficinetes
+![[Pasted image 20241011194511.png]]

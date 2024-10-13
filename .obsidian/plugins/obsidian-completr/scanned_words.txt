@@ -1199,6 +1199,7 @@ ciuidad
 contraejemplos
 comemos
 consecutivas
+cuadrados
 de
 dispositivos
 del
@@ -2512,6 +2513,7 @@ expositor
 estaciones
 estacion
 elemehtos
+evaluado
 servicios
 son
 su
@@ -3602,6 +3604,8 @@ poara
 pasteleria
 pateando
 proxima
+polinomios
+polonomio
 la
 las
 le
@@ -4500,6 +4504,9 @@ acomodar
 aulas
 asignadas
 alcanzan
+ajusto
+ajustar
+ajusgar
 hardware
 heap
 hay
@@ -7529,6 +7536,8 @@ verdera
 verdadera
 vueltas
 viajar
+vale
+vandermonde
 Application
 API
 Asigna
@@ -8416,6 +8425,7 @@ Indep
 INDEPENIENTE
 Invertir
 Intentando
+Interpolacion
 Un
 UNIX
 UBA
@@ -9073,6 +9083,7 @@ moneda
 monetasrio
 metiendo
 maxima
+minimos
 tien
 tiene
 todos
@@ -9882,6 +9893,9 @@ inflaci
 inflacion
 inmversion
 imposi
+interpolacioon
+inerpolante
+interpolacion
 fijo
 file
 fork

@@ -1189,6 +1189,16 @@ completado
 circuito
 circuitos
 coeficinetes
+comprimir
+codifico
+compar
+caro
+combustible
+cambion
+ciuidad
+contraejemplos
+comemos
+consecutivas
 de
 dispositivos
 del
@@ -1712,6 +1722,14 @@ dni
 declarativos
 duplicadas
 detiene
+deontologista
+descarto
+desencolo
+deteneidnose
+distribuidoas
+detenerme
+duracion
+deadline
 gestion
 gran
 guarda
@@ -1955,6 +1973,10 @@ gicas
 gap
 guardo
 goles
+greedy
+greedys
+gastando
+ganancia
 especifico
 entra
 en
@@ -2487,6 +2509,9 @@ escuela
 edad
 escritor
 expositor
+estaciones
+estacion
+elemehtos
 servicios
 son
 su
@@ -2971,6 +2996,12 @@ secundari
 secundaria
 selecciona
 subconsulta
+superponen
+superponga
+segundo
+schedule
+salas
+superposicion
 par
 por
 punto
@@ -3563,6 +3594,14 @@ pagar
 pierte
 participado
 pilotos
+pienso
+permita
+paralelepipiedo
+pasarme
+poara
+pasteleria
+pateando
+proxima
 la
 las
 le
@@ -3889,6 +3928,11 @@ localizaciones
 lleg
 lacual
 lgebra
+lleve
+letra
+lejana
+latencia
+lleven
 agnosticos
 apps
 al
@@ -4450,6 +4494,12 @@ acplica
 aquellas
 articulo
 apida
+aproximaciones
+actividades
+acomodar
+aulas
+asignadas
+alcanzan
 hardware
 heap
 hay
@@ -4696,6 +4746,7 @@ habitacion
 habtiaciones
 horaInicio
 hayan
+hacerse
 que
 queda
 quien
@@ -4882,6 +4933,7 @@ qjA
 qcrr
 qIS
 qrl
+quizas
 utilizados
 un
 una
@@ -5126,6 +5178,7 @@ urr
 urre
 ultimos
 umero
+urgente
 System
 Son
 Source
@@ -5777,6 +5830,8 @@ CarrerasCon
 Carreras
 CAB
 CAE
+Calculo
+Conviene
 Es
 El
 Estos
@@ -6078,6 +6133,8 @@ EDHC
 EDHB
 EAB
 ECB
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -6245,6 +6302,7 @@ kRz
 koe
 knn
 kMW
+kilometros
 realice
 realicen
 resolve
@@ -6675,6 +6733,11 @@ remueve
 recu
 redundantes
 ronda
+rapidos
+reencolo
+repito
+robando
+repetimos
 operacion
 orden
 operaciones
@@ -6934,6 +6997,9 @@ optima
 obtuvo
 operamos
 oportunidad
+ordenarlos
+optimos
+ordeno
 nombre
 nuevo
 nica
@@ -7184,6 +7250,7 @@ nimos
 ncia
 naci
 nota
+nafta
 via
 vuelve
 viven
@@ -7461,6 +7528,7 @@ vieja
 verdera
 verdadera
 vueltas
+viajar
 Application
 API
 Asigna
@@ -7734,6 +7802,10 @@ ABCD
 ABEG
 ABE
 AND
+AHORA
+Aplicamos
+ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -8062,6 +8134,7 @@ Proyecci
 Promedio
 PILOTOS
 PROPIETARIO
+Plantea
 Interface
 ID
 Instructions
@@ -8341,6 +8414,8 @@ Intercambiar
 Interrelacion
 Indep
 INDEPENIENTE
+Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -8993,6 +9068,11 @@ modficar
 metio
 matricula
 marca
+morse
+moneda
+monetasrio
+metiendo
+maxima
 tien
 tiene
 todos
@@ -9344,6 +9424,9 @@ tenido
 tmb
 telefono
 tiempoej
+tortas
+terminan
+teareas
 inico
 interna
 infro
@@ -9794,6 +9877,11 @@ importe
 indicando
 implicante
 implicados
+intuitivos
+inflaci
+inflacion
+inmversion
+imposi
 fijo
 file
 fork
@@ -10106,6 +10194,10 @@ finalizadas
 filmaci
 francia
 fallar
+futuro
+facultad
+frecuencias
+frec
 Nombre
 Notas
 Not
@@ -10887,6 +10979,10 @@ Dad
 Dada
 DESC
 DDDDDD
+Demostrar
+Desencolamos
+Divido
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -11432,6 +11528,7 @@ Transmite
 TODAS
 Transformar
 Tercer
+Tanque
 Realiza
 REgistrys
 Rango
@@ -12604,6 +12701,9 @@ Obtenemos
 Objetivo
 Organizaci
 ORDER
+Opcion
+Ordenando
+Ordenamos
 ya
 yo
 yM
@@ -12945,6 +13045,7 @@ jgg
 jeT
 jSPP
 jomE
+jijo
 Ya
 Yourself
 YAGNI
@@ -13321,6 +13422,7 @@ GAD
 GCD
 GHD
 GROUP
+Greedy
 BX
 Bit
 Box
@@ -13974,6 +14076,7 @@ HGB
 HADB
 HCDB
 HAce
+Huffman
 Jacobiano
 Job
 Jusitfique
@@ -14391,6 +14494,7 @@ QCkM
 Qmx
 QHb
 Quentin
+QUE
 ximo
 xito
 xitos

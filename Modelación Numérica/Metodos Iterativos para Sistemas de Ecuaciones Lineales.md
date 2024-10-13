@@ -15,7 +15,7 @@ Donde los elementos de la diagonal en **valor absoluto (modulo)** son mas grande
 
 
 T_j es la matriz de Jacobi. ![[Pasted image 20240917182522.png]]
-
+Si la matriz A es diagonal dominante entonces converge. Si no es diagonal dominante, no sabemos
 El metodo de jacobi converge si el radio espectral (mayor autovalor) tiene que ser menor que 1
 
 ## Gauss Seidel 

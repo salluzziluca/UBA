@@ -90,4 +90,11 @@ Ahora tenemos que ver si ese solapamiento es serializable o no
 
 para ese par de transacciones existen dos ejecuciones seriales posibles
 
->[!hint] Existen n!
+>[!hint] Existen n! ejecuciones seriales distintas entre n transacciones 
+
+
+>[!note] Decimos que un solapamiento de un conjunto de transacciones T1, T2, ..., Tn es serializable cuando la ejecución de sus instrucciones en dicho orden deja a la base de datos en un estado equivalente a aquél en que la hubiera dejado alguna ejecución serial de T1, T2, ..., Tn.
+
+
+## Equivalencia 
+### Equivalencia de resu

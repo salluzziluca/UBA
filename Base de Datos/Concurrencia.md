@@ -103,5 +103,11 @@ Cuando ambas dejan la bdd en el mismo estado
 ### Equivalencia de conflictos 
 Cuando ambos órdenes de ejecución poseen los mismos conflictos entre instrucciones.
 
+![[Pasted image 20241015200021.png]]
+
+TLDR un conflcto se da cuando una transaccion escribe un ti
+
 ### Equivalencia de vistas 
 Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito por la misma transacción j, WTj (X). Además se pide que en ambos órdenes la última modificación de cada ítem X haya sido hecha por la misma transacción.
+
+

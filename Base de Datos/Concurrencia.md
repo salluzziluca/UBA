@@ -23,4 +23,6 @@ las instrucciones atomicas basicas son leerItem y escribirItem
 
 >[!note] El tamaño de ítem escogido se conoce como granularidad, y afecta sustancialmente al control de concurrencia
 
->[!important] 
+>[!important]  No nos importan las lecturas y escrituras per se, solo el hecho de escribir y leer. No QUE leen y QUE escriben
+
+>[]

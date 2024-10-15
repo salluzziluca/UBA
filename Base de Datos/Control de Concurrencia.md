@@ -12,7 +12,10 @@ ver [[Sistemas Operativos/Concurrencia#Locks|locks]]
 LoS SGBD implementan dos tipos de locks: 
 -  De escritura (exclusivos)
 - De lectura (no exclusivos)
-Solo con locks no al
+Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
+1. Fase de adquisicion 
+2. Fase de liberacion 
+
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

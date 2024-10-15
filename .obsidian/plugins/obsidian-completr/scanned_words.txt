@@ -3028,6 +3028,7 @@ serializable
 seriales
 serializacion
 serialozable
+snapshots
 par
 por
 punto
@@ -3624,6 +3625,7 @@ propiuedades
 persistir
 produzco
 precedencias
+pesimista
 la
 las
 le
@@ -3958,6 +3960,7 @@ lee
 leido
 lock
 leyo
+locks
 agnosticos
 apps
 al
@@ -12749,6 +12752,7 @@ Objetivo
 Organizaci
 ORDER
 Observar
+Optimi
 ya
 yo
 yM

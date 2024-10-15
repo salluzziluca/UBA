@@ -17,4 +17,6 @@ El resultado difiere no seugn cual empieza primera, sino que parte de cada instr
 
 ## Modelo de datos
 Consideraremos que nuestra bdd esta formada por ==items== 
-Un item uede representar: atributo
+Un item uede representar: valor de atributo en fila determinada, una fila de una tala, un bloque de disco, una tabla
+
+las instrucciones atomicas basicas son leerItem y escribirItem

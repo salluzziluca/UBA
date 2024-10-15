@@ -436,6 +436,7 @@ Lost
 Linux
 Locks
 LoS
+Lock
 capa
 controlado
 cantidad
@@ -1213,6 +1214,8 @@ concurrentes
 creacion
 clone
 cvlasses
+coloca
+comenzar
 de
 dispositivos
 del
@@ -1766,6 +1769,7 @@ distincion
 desplazaba
 decrementando
 deadlocks
+detecta
 gestion
 gran
 guarda
@@ -4028,6 +4032,7 @@ links
 libres
 liberacion
 llamad
+livelock
 agnosticos
 apps
 al
@@ -4605,6 +4610,10 @@ aumentando
 adquisicion
 ado
 aproceso
+alocaci
+arco
+adquisici
+adquiera
 hardware
 heap
 hay
@@ -6878,6 +6887,7 @@ rden
 repetidamente
 rehizo
 referida
+respeten
 operacion
 orden
 operaciones
@@ -7147,6 +7157,7 @@ osible
 ocks
 ocupada
 ofrecer
+obligar
 nombre
 nuevo
 nica
@@ -7400,6 +7411,7 @@ nota
 neas
 necesitarse
 necesitaba
+nea
 via
 vuelve
 viven
@@ -7965,6 +7977,7 @@ Anomalias
 Anomalia
 Adem
 Adquiri
+Analizar
 Programming
 Procesos
 Partes
@@ -8295,6 +8308,7 @@ PILOTOS
 PROPIETARIO
 Progress
 Prioridad
+Prevencion
 Interface
 ID
 Instructions
@@ -9597,6 +9611,8 @@ temrinado
 task
 tenerlo
 trabados
+timeout
+timestamps
 inico
 interna
 infro
@@ -10061,6 +10077,7 @@ incapacidad
 inodo
 inodos
 identity
+involucradas
 fijo
 file
 fork
@@ -11169,6 +11186,8 @@ Deberia
 Durabilidad
 Despues
 Diferencias
+Deteccion
+Definir
 Memoria
 Multivariada
 MORE
@@ -12314,6 +12333,7 @@ bloquearse
 bloquear
 block
 bitmap
+basados
 will
 words
 with

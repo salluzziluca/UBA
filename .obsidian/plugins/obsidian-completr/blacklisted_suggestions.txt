@@ -37,3 +37,4 @@ DDDd
 indep
 Independent
 independencia
+aciertos

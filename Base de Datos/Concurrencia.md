@@ -28,3 +28,11 @@ las instrucciones atomicas basicas son leerItem y escribirItem
 >[!important] Leer y escribir no es efectivamente leer y escribir EN DISCO, puede estar todo en un buffer, hay que tener en cuenta los permisos que efecitvamente tiene el SGBD
 
 
+
+Una transaccion es una unidad logica de trabajo en la SGBD
+Es una secuencia ordenada de instrucciones que deben ser ejecutadas en su totalidad o bien no ser ejecutadas, al margen de la interferencia con otras transacciones simultáneas.
+
+
+La ejecucion de una transaccion debera cumplir con las propiuedades ACID
+Atomicidad
+

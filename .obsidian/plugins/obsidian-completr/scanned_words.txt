@@ -1212,6 +1212,7 @@ compiten
 concurrentes
 creacion
 clone
+cvlasses
 de
 dispositivos
 del
@@ -2571,6 +2572,8 @@ enviado
 estrucutara
 exclusivos
 esot
+ejecutandose
+ejecutados
 servicios
 son
 su
@@ -3079,6 +3082,9 @@ serializabilidad
 suelta
 space
 seriabilizad
+shceduler
+slices
+sched
 par
 por
 punto
@@ -3678,6 +3684,8 @@ precedencias
 pesimista
 parecidos
 phtread
+porcion
+proridades
 la
 las
 le
@@ -4019,6 +4027,7 @@ lockeado
 links
 libres
 liberacion
+llamad
 agnosticos
 apps
 al
@@ -4594,6 +4603,8 @@ apuntan
 apuntar
 aumentando
 adquisicion
+ado
+aproceso
 hardware
 heap
 hay
@@ -5284,6 +5295,7 @@ uede
 update
 unrepeteale
 usaba
+utilizaba
 System
 Son
 Source
@@ -5570,6 +5582,7 @@ Sincronizacion
 Seccion
 Spinlock
 Sleeplock
+Scheduler
 Calls
 Cmabia
 CPU
@@ -5948,6 +5961,9 @@ Comienzo
 CAso
 Componentes
 Cad
+Completely
+CFS
+CPS
 Es
 El
 Estos
@@ -6252,6 +6268,8 @@ ECB
 Equivalencia
 Exclusion
 Explique
+Entre
+Equidad
 kernel
 kt
 kU
@@ -6858,6 +6876,8 @@ read
 rdenes
 rden
 repetidamente
+rehizo
+referida
 operacion
 orden
 operaciones
@@ -7126,6 +7146,7 @@ ocurrido
 osible
 ocks
 ocupada
+ofrecer
 nombre
 nuevo
 nica
@@ -7660,6 +7681,9 @@ voum
 valoida
 volviera
 visibilidad
+volviendolo
+vrtuntime
+vruntine
 Application
 API
 Asigna
@@ -8270,6 +8294,7 @@ Promedio
 PILOTOS
 PROPIETARIO
 Progress
+Prioridad
 Interface
 ID
 Instructions
@@ -8553,6 +8578,7 @@ Integrales
 Interprocess
 Implementaciones
 Inodos
+Ingo
 Un
 UNIX
 UBA
@@ -10034,6 +10060,7 @@ impementa
 incapacidad
 inodo
 inodos
+identity
 fijo
 file
 fork
@@ -10351,6 +10378,7 @@ fantasma
 finita
 fechas
 filesystem
+fair
 Nombre
 Notas
 Not
@@ -10829,6 +10857,7 @@ FNCB
 FROM
 Fijarse
 Fase
+Fair
 Descriptors
 Descriptor
 Devuelve
@@ -11446,6 +11475,7 @@ MIN
 MULTA
 Masa
 Mutual
+Molnar
 Table
 Todos
 This
@@ -11976,6 +12006,7 @@ REF
 Reescribir
 RTi
 Race
+Runtime
 bien
 by
 be
@@ -12684,6 +12715,7 @@ Vueltas
 Vuetlas
 Verifca
 VFS
+Virtual
 OPTIONS
 Operativos
 Orden
@@ -13224,6 +13256,7 @@ jeT
 jSPP
 jomE
 juntaron
+justa
 Ya
 Yourself
 YAGNI

@@ -112,3 +112,11 @@ Todas dos instrucciones consecutivas que no tengan conflicto se pueden invertir
 Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito por la misma transacción j, WTj (X). Además se pide que en ambos órdenes la última modificación de cada ítem X haya sido hecha por la misma transacción.
 
 
+
+
+![[Pasted image 20241015200748.png]]
+
+
+
+
+Grafo de presedencias. Pueden ser evaluadas a 

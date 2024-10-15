@@ -32,7 +32,7 @@ Definir un timeout para la adquisición del Lock(X), después del cual se aborta
 Que cada transacción adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). 2 Definir un ordenamiento de los recursos, y obligar a que luego todas las transacciones respeten dicho ordenamiento en la adquisición de locks. 3 Métodos basados en timestamps.
 
 #### Starvation
-
+ver [[Scheduling#Starvation]]. 
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

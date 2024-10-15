@@ -87,3 +87,7 @@ Un solapamiento se da cuando
 bT1 ; RT1 (X); bT2 ; RT2 (X); WT2 (X); RT1 (Y); WT1 (Y); cT2 ; cT
 
 Ahora tenemos que ver si ese solapamiento es serializable o no
+
+para ese par de transacciones existen dos ejecuciones seriales posibles
+
+>[!hint] Existen n!

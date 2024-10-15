@@ -77,3 +77,4 @@ Busco valores qu ecumplan una condicion. Despues una T2 modifica un item y este 
 
 
 ## Serializabilidad
+RT (X): La transacción T lee el ítem X. WT (X): La transacción T escribe el ítem X. bT : Comienzo de la transacción T. cT : La transacción T realiza el commit. aT : Se aborta la transacción T (abort)

@@ -47,6 +47,12 @@ commit: indica que esta ha temrinado exitosamente
 abort: indica que se produzco error o falla y que todos los efectos deben ser dehechos (rollback)
 
 ## Anomalias 
-### Lectura sucia 
+### Lectura sucia (dirty read)
 Se llama lectura sucia cuando una transaccion T2 lee un item que fue modificado por otra transaccion 
 Si luego t1 se deshace, la lectura que hizo t2 no es valoida
+
+![[Pasted image 20241015193602.png]]
+
+### Lost update 
+
+Cuando una trsa

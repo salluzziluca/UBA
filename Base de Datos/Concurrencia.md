@@ -97,4 +97,7 @@ para ese par de transacciones existen dos ejecuciones seriales posibles
 
 
 ## Equivalencia 
-### Equivalencia de resu
+### Equivalencia de resultados 
+Cuando ambas dejan la bdd en el mism
+
+### Equivalencia de conflictos 

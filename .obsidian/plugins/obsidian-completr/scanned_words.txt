@@ -1190,6 +1190,7 @@ circuito
 circuitos
 computo
 concurrentemente
+cito
 de
 dispositivos
 del
@@ -1714,6 +1715,8 @@ declarativos
 duplicadas
 detiene
 deberiamos
+distinguir
+determinado
 gestion
 gran
 guarda
@@ -2976,6 +2979,7 @@ secundaria
 selecciona
 subconsulta
 simltanea
+subrayados
 par
 por
 punto
@@ -6683,6 +6687,7 @@ recu
 redundantes
 ronda
 rmuktiples
+representado
 operacion
 orden
 operaciones
@@ -6942,6 +6947,7 @@ optima
 obtuvo
 operamos
 oportunidad
+ocurrencias
 nombre
 nuevo
 nica

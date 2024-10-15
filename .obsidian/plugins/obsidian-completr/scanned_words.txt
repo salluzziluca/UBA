@@ -429,6 +429,7 @@ LMu
 LkK
 Lucas
 Lights
+Llevo
 capa
 controlado
 cantidad
@@ -1166,6 +1167,10 @@ canto
 cantantes
 calificados
 cantante
+contados
+condicionados
+convertirno
+coeficinetes
 de
 dispositivos
 del
@@ -1681,6 +1686,8 @@ deberian
 difieren
 docente
 discriminante
+demas
+directos
 gestion
 gran
 guarda
@@ -2926,6 +2933,7 @@ subconceptos
 subtipos
 supetipo
 sorbe
+sacar
 par
 por
 punto
@@ -3499,6 +3507,10 @@ participaci
 participan
 participantes
 puntuar
+pasos
+pensando
+precision
+pivote
 la
 las
 le
@@ -4353,6 +4365,7 @@ aquellas
 agregacion
 alumnos
 abarca
+arruine
 hardware
 heap
 hay
@@ -5941,6 +5954,8 @@ EVITAR
 Ecuaciones
 Eliminaci
 Especializacion
+Errores
+Existe
 kernel
 kt
 kU
@@ -7592,6 +7607,7 @@ Almacenamiento
 Asegurar
 Acceso
 Actualizaci
+Ahi
 Programming
 Procesos
 Partes
@@ -7912,6 +7928,7 @@ Permitir
 Par
 Pais
 Participacion
+Pivotear
 Interface
 ID
 Instructions
@@ -8187,6 +8204,8 @@ Imagenes
 Independencia
 Integridad
 Inserci
+Incluso
+Intercambiar
 Un
 UNIX
 UBA
@@ -9162,6 +9181,9 @@ tendra
 triple
 transaccional
 tem
+tranasformaciones
+triangulares
+triangular
 inico
 interna
 infro
@@ -10382,6 +10404,7 @@ Ferdy
 Futbolista
 Fijo
 Fuhi
+Factorizacion
 Descriptors
 Descriptor
 Devuelve
@@ -10974,6 +10997,7 @@ Mostrar
 Muestre
 Mayne
 Morell
+Matrices
 Table
 Todos
 This
@@ -11215,6 +11239,7 @@ TeoAlgoSoft
 TOdo
 Transacciones
 Tanto
+Transformar
 Realiza
 REgistrys
 Rango
@@ -11494,6 +11519,7 @@ Recuperaci
 RETURNING
 ROLLBACK
 Rechazo
+Refinamiento
 bien
 by
 be
@@ -14480,6 +14506,7 @@ WfJ
 WPC
 WMl
 Wars
+Wilkinson
 ZZZPU
 ZX
 ZQ

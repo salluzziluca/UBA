@@ -119,4 +119,4 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 
 
-Grafo de presedencias. Pueden ser evaluadas a 
+Grafo de presedencias. Pueden ser evaluadas a traves del graeo

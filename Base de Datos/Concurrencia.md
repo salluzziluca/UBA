@@ -56,3 +56,7 @@ Si luego t1 se deshace, la lectura que hizo t2 no es valoida
 ### Lost update 
 
 Cuando una transaccion modifica un item que fue leido anteriormente por una primera transaccion que aun no termino. 
+
+
+Si la primera luego modifica y escribe el item que leyó, se pierde el valor modificado por T2
+Si en cambio, la T1 volviera a leer el item, se encontraria

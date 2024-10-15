@@ -21,7 +21,9 @@ Si necesito A y B puedo adquirir A, hacer lo que tengo que hacer, Adquiri B, lib
 Con esot garantizamos que haya seriabilizad
 Puedo tener [[Parcial#Deadlock|deadlock]] o un livelock
 
-P
+#### Deteccion de deadlocks
+
+Analizar el grafo de alocación de recursos: un grafo dirigido que posee a las transacciones y los recursos como nodos, y en el cual se coloca un arco de una transacción a un recurso cada vez que una transacción espera por un recurso, y un arco de un recurso a una transacción cada vez que la transacción posee el lock de dicho recurso. Cuando se detecta un ciclo en este grafo, se aborta (rollback) una de las transacciones involucradas. El concepto es muy similar al del grafo de precedencias para un solapamiento.
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

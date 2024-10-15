@@ -59,4 +59,4 @@ Cuando una transaccion modifica un item que fue leido anteriormente por una prim
 
 
 Si la primera luego modifica y escribe el item que leyó, se pierde el valor modificado por T2
-Si en cambio, la T1 volviera a leer el item, se encontraria
+Si en cambio, la T1 volviera a leer el item, se encontraria con otro valor (unrepeteale read)

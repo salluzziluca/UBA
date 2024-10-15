@@ -8,6 +8,11 @@ Una vez insertados, las transacciones compiten entre ellas por su ejecución
 Es ṕosible pero no trivial garantizar la serializabilidad
 
 ver [[Sistemas Operativos/Concurrencia#Locks|locks]]
+
+LoS SGBD implementan dos tipos de locks: 
+-  De escritura (exclusivos)
+- De lectura (no exclusivos)
+Solo con locks no al
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

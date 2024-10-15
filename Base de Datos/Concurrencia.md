@@ -67,4 +67,8 @@ el saldo deberia ser 500 pero termina siendo 400
 
 
 ### Dirty Write 
-Cuando escribo algo que ya fue escrito pero no commiteado. El scheduler me saca el lock justo antes de 
+Cuando escribo algo que ya fue escrito pero no commiteado. El scheduler me saca el lock antes de commitear mi Write
+![[Pasted image 20241015194428.png]]
+
+
+### Anomalia del fantasma 

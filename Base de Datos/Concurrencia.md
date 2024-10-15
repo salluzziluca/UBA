@@ -105,7 +105,9 @@ Cuando ambos órdenes de ejecución poseen los mismos conflictos entre instrucci
 
 ![[Pasted image 20241015200021.png]]
 
-TLDR un conflcto se da cuando una transaccion escribe un ti
+TLDR un conflcto se da cuando una transaccion escribe un item que otra leyo, una transaccion lee un item que otra escribio, dos escriben el mismo item. Es decir, cuando dos transacciones ejecutan instrucciones sobre un mismo item y al menos una de las dos instrucciones es una escritura 
+
+Todas dos instrucciones consecutivas que no tengan conglkicto 
 
 ### Equivalencia de vistas 
 Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito por la misma transacción j, WTj (X). Además se pide que en ambos órdenes la última modificación de cada ítem X haya sido hecha por la misma transacción.

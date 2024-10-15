@@ -31,3 +31,10 @@ Intercambiar filas para tener pivote no nulo.
 
 ## Refinamiento Iterativo
 ![[Pasted image 20240930105426.png]]
+
+
+![[Pasted image 20241011193811.png]]
+
+
+## numero de condicion de matriz de coeficinetes
+![[Pasted image 20241011194511.png]]

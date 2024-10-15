@@ -1,0 +1,1 @@
+Este es mi repo personal de mis apuntes de la carrera de Ingeniería Informática en la Universidad de Buenos Aires. en [UBA.md](https://github.com/salluzziluca/UBA/blob/main/UBA.md) pueden encontrar el indice a todas las materias

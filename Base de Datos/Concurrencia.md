@@ -132,3 +132,5 @@ EJ;
 ![[Pasted image 20241015201752.png]]
 
 Hay un ciclo, no es serialozable
+
+

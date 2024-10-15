@@ -35,4 +35,5 @@ Es una secuencia ordenada de instrucciones que deben ser ejecutadas en su totali
 
 La ejecucion de una transaccion debera cumplir con las propiuedades ACID
 Atomicidad
-
+Consistnecia
+aIslamiento: cuando ejecuto varias trsnacciones concrrentemente. Deberia obtener el mismo resultado que si ejecuto primero una y despues la otra.

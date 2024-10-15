@@ -435,6 +435,7 @@ Les
 Lost
 Linux
 Locks
+LoS
 capa
 controlado
 cantidad
@@ -1208,6 +1209,9 @@ criticia
 candado
 chequea
 compiten
+concurrentes
+creacion
+clone
 de
 dispositivos
 del
@@ -1750,6 +1754,17 @@ dormirse
 duerme
 despierta
 deadlock
+describa
+detenida
+detenga
+datablocks
+datab
+directorio
+descriptores
+distincion
+desplazaba
+decrementando
+deadlocks
 gestion
 gran
 guarda
@@ -1997,6 +2012,7 @@ granularidad
 graeo
 gane
 garantizar
+garantizamos
 especifico
 entra
 en
@@ -2549,6 +2565,12 @@ ejecuutan
 esperan
 exclusi
 ejecuciion
+externo
+exterior
+enviado
+estrucutara
+exclusivos
+esot
 servicios
 son
 su
@@ -3054,6 +3076,9 @@ seccion
 sincronizaci
 situacion
 serializabilidad
+suelta
+space
+seriabilizad
 par
 por
 punto
@@ -3652,6 +3677,7 @@ produzco
 precedencias
 pesimista
 parecidos
+phtread
 la
 las
 le
@@ -3989,6 +4015,10 @@ leyo
 locks
 loop
 loscks
+lockeado
+links
+libres
+liberacion
 agnosticos
 apps
 al
@@ -4559,6 +4589,11 @@ aun
 aborta
 aqu
 activamente
+adquirir
+apuntan
+apuntar
+aumentando
+adquisicion
 hardware
 heap
 hay
@@ -4809,6 +4844,9 @@ hubiera
 hecha
 heredan
 hilo
+hard
+hardlinks
+homonimos
 que
 queda
 quien
@@ -4997,6 +5035,7 @@ qIS
 qrl
 querys
 quire
+queden
 utilizados
 un
 una
@@ -5907,6 +5946,8 @@ Consideraremos
 Consistnecia
 Comienzo
 CAso
+Componentes
+Cad
 Es
 El
 Estos
@@ -6210,6 +6251,7 @@ EAB
 ECB
 Equivalencia
 Exclusion
+Explique
 kernel
 kt
 kU
@@ -7082,6 +7124,8 @@ obtenerlo
 ocurra
 ocurrido
 osible
+ocks
+ocupada
 nombre
 nuevo
 nica
@@ -7333,6 +7377,8 @@ ncia
 naci
 nota
 neas
+necesitarse
+necesitaba
 via
 vuelve
 viven
@@ -7894,6 +7940,7 @@ ALGUNA
 Anomalias
 Anomalia
 Adem
+Adquiri
 Programming
 Procesos
 Partes
@@ -8505,6 +8552,7 @@ INDEPENIENTE
 Integrales
 Interprocess
 Implementaciones
+Inodos
 Un
 UNIX
 UBA
@@ -8729,6 +8777,7 @@ UGX
 Unchained
 Union
 Utilizaremos
+UID
 modo
 mode
 menso
@@ -9161,6 +9210,7 @@ marca
 margen
 monton
 mutua
+marcaban
 tien
 tiene
 todos
@@ -9520,6 +9570,7 @@ trsnaccion
 temrinado
 task
 tenerlo
+trabados
 inico
 interna
 infro
@@ -9980,6 +10031,9 @@ implementciones
 interprocess
 intercalan
 impementa
+incapacidad
+inodo
+inodos
 fijo
 file
 fork
@@ -10295,6 +10349,8 @@ fallar
 falla
 fantasma
 finita
+fechas
+filesystem
 Nombre
 Notas
 Not
@@ -10772,6 +10828,7 @@ Futbolista
 FNCB
 FROM
 Fijarse
+Fase
 Descriptors
 Descriptor
 Devuelve
@@ -11082,6 +11139,7 @@ DISCO
 Deberia
 Durabilidad
 Despues
+Diferencias
 Memoria
 Multivariada
 MORE
@@ -11634,6 +11692,7 @@ TODOS
 TLDR
 TGID
 TID
+Tienen
 Realiza
 REgistrys
 Rango
@@ -12222,6 +12281,8 @@ begin
 busy
 bloquearse
 bloquear
+block
+bitmap
 will
 words
 with
@@ -12414,6 +12475,7 @@ which
 whereas
 workshop
 wait
+wrappers
 VA
 VIEW
 Volumen
@@ -12621,6 +12683,7 @@ Venta
 Vueltas
 Vuetlas
 Verifca
+VFS
 OPTIONS
 Operativos
 Orden
@@ -13537,6 +13600,7 @@ GAD
 GCD
 GHD
 GROUP
+GID
 BX
 Bit
 Box
@@ -13798,6 +13862,7 @@ Basicas
 BCGD
 BETWEEN
 Bounded
+Bitmap
 XY
 Xg
 XQG

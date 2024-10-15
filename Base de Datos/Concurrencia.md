@@ -74,3 +74,6 @@ Cuando escribo algo que ya fue escrito pero no commiteado. El scheduler me saca 
 ### Anomalia del fantasma 
 Busco valores qu ecumplan una condicion. Despues una T2 modifica un item y este ahora pasa a cumplir la condicion 
 ![[Pasted image 20241015194723.png]]
+
+
+## Serializabilidad

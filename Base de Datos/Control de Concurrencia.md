@@ -5,7 +5,7 @@ Utiliza locks para bloquear los recursos, Los loscks son insertados por le SGBD 
 
 Una vez insertados, las transacciones compiten entre ellas por su ejecución
 
-Es ṕosible pero no trivial garantizar la seriabilidad
+Es ṕosible pero no trivial garantizar la serializabilidad
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

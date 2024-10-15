@@ -18,6 +18,8 @@ Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
 
 Si necesito A y B puedo adquirir A, hacer lo que tengo que hacer, Adquiri B, liberar A al toque y al final liberar B.
 
+Con esot garantizamos que haya seriabilizad
+Puedo tener deadlocks o 
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

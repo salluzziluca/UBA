@@ -83,4 +83,7 @@ bT : Comienzo de la transacción T.
 cT : La transacción T realiza el commit. 
 aT : Se aborta la transacción T (abort)
 
-Un solapamiento se da cuanto
+Un solapamiento se da cuando
+bT1 ; RT1 (X); bT2 ; RT2 (X); WT2 (X); RT1 (Y); WT1 (Y); cT2 ; cT
+
+Ahora tenemos que ver si ese solapamiento es serializable o no

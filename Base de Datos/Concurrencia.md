@@ -119,4 +119,8 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 
 
-Grafo de presedencias. Pueden ser evaluadas a traves del graeo
+## Grafo de precedencias. 
+La serializaPueden ser evaluadas a traves del graeo
+
+
+![[Pasted image 20241015201645.png]]

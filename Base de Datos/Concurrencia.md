@@ -25,4 +25,6 @@ las instrucciones atomicas basicas son leerItem y escribirItem
 
 >[!important]  No nos importan las lecturas y escrituras per se, solo el hecho de escribir y leer. No QUE leen y QUE escriben
 
->[]
+>[!important] Leer y escribir no es efectivamente leer y escribir EN DISCO, puede estar todo en un buffer, hay que tener en cuenta los permisos que efecitvamente tiene el SGBD
+
+

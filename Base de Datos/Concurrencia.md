@@ -42,3 +42,6 @@ Durabilidad: Una vez que el SGBD infoma que la trsnaccion se completo, esta se d
 
 Se disponen de mecanismos de recuperacion para deshacer rehacer transacciones en caso de fallas (todo o nada)
 
+begin: indica el comienzo de la trsnacciones
+commit: indica que esta ha temrinado exitosamente 
+abort: indica que se produzco error o falla y que todos los efectos deben ser dehechos (rollback)

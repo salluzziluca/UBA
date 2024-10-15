@@ -16,7 +16,8 @@ Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
 1. Fase de adquisicion 
 2. Fase de liberacion 
 
-Si necesito A y B puedo aq
+Si necesito A y B puedo adquirir A, hacer lo que tengo que hacer, Adquiri B, liberar A al toque y al final liberar B.
+
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

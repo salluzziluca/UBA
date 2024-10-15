@@ -3,4 +3,11 @@ La idea es aprovechar al maximo la capacidad de computo( si dos querys usan dos 
 
 Serializar no es una opcion (???
 
-Los recursos compartid
+Los recursos compartidos son los datos, ahi esta el problema
+
+
+Utilizaremos concurrencia solapada
+
+
+![[Pasted image 20241015191657.png]]
+

@@ -45,3 +45,4 @@ Se disponen de mecanismos de recuperacion para deshacer rehacer transacciones en
 begin: indica el comienzo de la trsnacciones
 commit: indica que esta ha temrinado exitosamente 
 abort: indica que se produzco error o falla y que todos los efectos deben ser dehechos (rollback)
+

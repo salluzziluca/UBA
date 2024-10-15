@@ -1717,6 +1717,7 @@ detiene
 deberiamos
 distinguir
 determinado
+determinante
 gestion
 gran
 guarda
@@ -3898,6 +3899,8 @@ localizaciones
 lleg
 lacual
 lgebra
+lugo
+limites
 agnosticos
 apps
 al
@@ -4460,6 +4463,8 @@ aquellas
 articulo
 apida
 aprovechar
+anotarlos
+aparaece
 hardware
 heap
 hay
@@ -5788,6 +5793,7 @@ CarrerasCon
 Carreras
 CAB
 CAE
+Calcular
 Es
 El
 Estos
@@ -7475,6 +7481,7 @@ vieja
 verdera
 verdadera
 vueltas
+voum
 Application
 API
 Asigna
@@ -7748,6 +7755,7 @@ ABCD
 ABEG
 ABE
 AND
+Aplicaciones
 Programming
 Procesos
 Partes
@@ -8355,6 +8363,7 @@ Intercambiar
 Interrelacion
 Indep
 INDEPENIENTE
+Integrales
 Un
 UNIX
 UBA
@@ -9809,6 +9818,8 @@ importe
 indicando
 implicante
 implicados
+igualar
+igualamos
 fijo
 file
 fork
@@ -10597,6 +10608,7 @@ Ferdy
 Futbolista
 FNCB
 FROM
+Fijarse
 Descriptors
 Descriptor
 Devuelve
@@ -10902,6 +10914,7 @@ Dad
 Dada
 DESC
 DDDDDD
+Dibujar
 Memoria
 Multivariada
 MORE
@@ -11206,6 +11219,7 @@ Morell
 Messi
 MIN
 MULTA
+Masa
 Table
 Todos
 This
@@ -11447,6 +11461,8 @@ Transmite
 TODAS
 Transformar
 Tercer
+Triples
+TODOS
 Realiza
 REgistrys
 Rango
@@ -11727,6 +11743,7 @@ Relaci
 Resultado
 Redenominacion
 REF
+Reescribir
 bien
 by
 be
@@ -12620,6 +12637,7 @@ Obtenemos
 Objetivo
 Organizaci
 ORDER
+Observar
 ya
 yo
 yM

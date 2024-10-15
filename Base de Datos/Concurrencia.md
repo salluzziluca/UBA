@@ -38,4 +38,7 @@ Atomicidad
 Consistnecia: cad ejecucion debe oreservar la consistencia de datos
 aIslamiento: cuando ejecuto varias trsnacciones concrrentemente. Deberia obtener el mismo resultado que si ejecuto primero una y despues la otra. La ejecucion concurrente debe ser equivalente a ALGUNA ejecucion serial
 
-Durabilidad: Una vez que el SGBD infoma que la trsnaccion se completo, esta se debe persistir. No puede el SGBD decir: esto termino!! y que no quede guardada,
+Durabilidad: Una vez que el SGBD infoma que la trsnaccion se completo, esta se debe persistir. No puede el SGBD decir: esto termino!! y que no quede guardada
+
+Se disponen de mecanismos de recuperacion para deshacer rehacer transacciones en caso de fallas (todo o nada)
+

@@ -4614,6 +4614,7 @@ alocaci
 arco
 adquisici
 adquiera
+asigno
 hardware
 heap
 hay

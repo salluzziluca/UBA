@@ -134,3 +134,4 @@ EJ;
 Hay un ciclo, no es serialozable
 
 
+[[Control de Concurrencia]]

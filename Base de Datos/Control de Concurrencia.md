@@ -7,7 +7,7 @@ Una vez insertados, las transacciones compiten entre ellas por su ejecución
 
 Es ṕosible pero no trivial garantizar la serializabilidad
 
-ver [[Taller de Programación/Concurrencia|Concurrencia]]
+ver [[Sistemas Operativos/Concurrencia#Locks|locks]]
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 ## Control por snapshots

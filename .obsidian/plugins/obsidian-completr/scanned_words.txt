@@ -433,6 +433,8 @@ Londres
 Lights
 Les
 Lost
+Linux
+Locks
 capa
 controlado
 cantidad
@@ -1200,6 +1202,12 @@ conflictos
 conflcto
 consecutivas
 conflicto
+communication
+contidions
+criticia
+candado
+chequea
+compiten
 de
 dispositivos
 del
@@ -1737,6 +1745,11 @@ dirty
 deshace
 dejado
 dejan
+dividirse
+dormirse
+duerme
+despierta
+deadlock
 gestion
 gran
 guarda
@@ -1982,6 +1995,8 @@ guardo
 goles
 granularidad
 graeo
+gane
+garantizar
 especifico
 entra
 en
@@ -2530,6 +2545,10 @@ ecumplan
 ejecuciones
 escribio
 evaluadar
+ejecuutan
+esperan
+exclusi
+ejecuciion
 servicios
 son
 su
@@ -3029,6 +3048,12 @@ seriales
 serializacion
 serialozable
 snapshots
+setea
+sockets
+seccion
+sincronizaci
+situacion
+serializabilidad
 par
 por
 punto
@@ -3626,6 +3651,7 @@ persistir
 produzco
 precedencias
 pesimista
+parecidos
 la
 las
 le
@@ -3961,6 +3987,8 @@ leido
 lock
 leyo
 locks
+loop
+loscks
 agnosticos
 apps
 al
@@ -4530,6 +4558,7 @@ abort
 aun
 aborta
 aqu
+activamente
 hardware
 heap
 hay
@@ -4778,6 +4807,8 @@ horaInicio
 hayan
 hubiera
 hecha
+heredan
+hilo
 que
 queda
 quien
@@ -4965,6 +4996,7 @@ qcrr
 qIS
 qrl
 querys
+quire
 utilizados
 un
 una
@@ -5212,6 +5244,7 @@ umero
 uede
 update
 unrepeteale
+usaba
 System
 Son
 Source
@@ -5494,6 +5527,10 @@ SELECT
 SUM
 Serializar
 Serializabilidad
+Sincronizacion
+Seccion
+Spinlock
+Sleeplock
 Calls
 Cmabia
 CPU
@@ -5869,6 +5906,7 @@ Calcular
 Consideraremos
 Consistnecia
 Comienzo
+CAso
 Es
 El
 Estos
@@ -6171,6 +6209,7 @@ EDHB
 EAB
 ECB
 Equivalencia
+Exclusion
 kernel
 kt
 kU
@@ -6776,6 +6815,7 @@ rollback
 read
 rdenes
 rden
+repetidamente
 operacion
 orden
 operaciones
@@ -7038,6 +7078,10 @@ oportunidad
 ocurrencias
 opcion
 oreservar
+obtenerlo
+ocurra
+ocurrido
+osible
 nombre
 nuevo
 nica
@@ -7569,6 +7613,7 @@ vueltas
 voum
 valoida
 volviera
+visibilidad
 Application
 API
 Asigna
@@ -8177,6 +8222,7 @@ Proyecci
 Promedio
 PILOTOS
 PROPIETARIO
+Progress
 Interface
 ID
 Instructions
@@ -8457,6 +8503,8 @@ Interrelacion
 Indep
 INDEPENIENTE
 Integrales
+Interprocess
+Implementaciones
 Un
 UNIX
 UBA
@@ -9111,6 +9159,8 @@ metio
 matricula
 marca
 margen
+monton
+mutua
 tien
 tiene
 todos
@@ -9468,6 +9518,8 @@ tala
 tem
 trsnaccion
 temrinado
+task
+tenerlo
 inico
 interna
 infro
@@ -9924,6 +9976,10 @@ importan
 interferencia
 infoma
 istruccion
+implementciones
+interprocess
+intercalan
+impementa
 fijo
 file
 fork
@@ -10238,6 +10294,7 @@ francia
 fallar
 falla
 fantasma
+finita
 Nombre
 Notas
 Not
@@ -11330,6 +11387,7 @@ Messi
 MIN
 MULTA
 Masa
+Mutual
 Table
 Todos
 This
@@ -11574,6 +11632,8 @@ Tercer
 Triples
 TODOS
 TLDR
+TGID
+TID
 Realiza
 REgistrys
 Rango
@@ -11856,6 +11916,7 @@ Redenominacion
 REF
 Reescribir
 RTi
+Race
 bien
 by
 be
@@ -12158,6 +12219,9 @@ bater
 bra
 basicas
 begin
+busy
+bloquearse
+bloquear
 will
 words
 with
@@ -12349,6 +12413,7 @@ wak
 which
 whereas
 workshop
+wait
 VA
 VIEW
 Volumen
@@ -12555,6 +12620,7 @@ Verificar
 Venta
 Vueltas
 Vuetlas
+Verifca
 OPTIONS
 Operativos
 Orden
@@ -13094,6 +13160,7 @@ jgg
 jeT
 jSPP
 jomE
+juntaron
 Ya
 Yourself
 YAGNI
@@ -13730,6 +13797,7 @@ BCD
 Basicas
 BCGD
 BETWEEN
+Bounded
 XY
 Xg
 XQG
@@ -14871,6 +14939,7 @@ Wars
 Wilkinson
 WHERE
 WTj
+Waiting
 ZZZPU
 ZX
 ZQ

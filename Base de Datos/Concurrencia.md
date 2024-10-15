@@ -98,6 +98,10 @@ para ese par de transacciones existen dos ejecuciones seriales posibles
 
 ## Equivalencia 
 ### Equivalencia de resultados 
-Cuando ambas dejan la bdd en el mism
+Cuando ambas dejan la bdd en el mismo estado 
 
 ### Equivalencia de conflictos 
+Cuando ambos órdenes de ejecución poseen los mismos conflictos entre instrucciones.
+
+### Equivalencia de vistas 
+Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito por la misma transacción j, WTj (X). Además se pide que en ambos órdenes la última modificación de cada ítem X haya sido hecha por la misma transacción.

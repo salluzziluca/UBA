@@ -11,3 +11,4 @@ Utilizaremos concurrencia solapada
 
 ![[Pasted image 20241015191657.png]]
 
+El resultado difiere no seugn cual empieza primera, sino que parte de cada instruccion se 

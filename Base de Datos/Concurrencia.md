@@ -65,3 +65,6 @@ Si en cambio, la T1 volviera a leer el item, se encontraria con otro valor (unre
 el saldo deberia ser 500 pero termina siendo 400
 
 
+
+### Dirty Write 
+Cuando escribo algo que ya fue escrito pero no commiteado. El scheduler me saca el lock justo antes de 

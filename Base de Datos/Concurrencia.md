@@ -46,3 +46,6 @@ begin: indica el comienzo de la trsnacciones
 commit: indica que esta ha temrinado exitosamente 
 abort: indica que se produzco error o falla y que todos los efectos deben ser dehechos (rollback)
 
+## Anomalias 
+### Lectura sucia 
+Se llama lectura sucia cuando una transaccion T2 lee un

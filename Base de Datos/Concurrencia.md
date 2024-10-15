@@ -120,7 +120,15 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 
 ## Grafo de precedencias. 
-La serializaPueden ser evaluadas a traves del graeo
+La serializacion se puede evaluadar a traves del graeo
 
 
 ![[Pasted image 20241015201645.png]]
+
+
+EJ; 
+![[Pasted image 20241015201734.png]]
+
+![[Pasted image 20241015201752.png]]
+
+Hay un ciclo, no es serialozable

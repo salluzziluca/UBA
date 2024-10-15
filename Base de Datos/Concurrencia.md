@@ -20,3 +20,7 @@ Consideraremos que nuestra bdd esta formada por ==items==
 Un item uede representar: valor de atributo en fila determinada, una fila de una tala, un bloque de disco, una tabla
 
 las instrucciones atomicas basicas son leerItem y escribirItem
+
+>[!note] El tamaño de ítem escogido se conoce como granularidad, y afecta sustancialmente al control de concurrencia
+
+>[!important] 

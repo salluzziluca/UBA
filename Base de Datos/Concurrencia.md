@@ -55,4 +55,4 @@ Si luego t1 se deshace, la lectura que hizo t2 no es valoida
 
 ### Lost update 
 
-Cuando una trsa
+Cuando una transaccion modifica un item que fue leido anteriormente por una primera transaccion que aun no termino. 

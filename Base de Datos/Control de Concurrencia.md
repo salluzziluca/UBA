@@ -45,5 +45,5 @@ Si una transaciion quier leer o escribir se fija en los readTS y writeTS. Si fue
 ## Control por snapshots
 
 Cada transaccion ve una spanshot de la la base de datos correspondiente al instante e su inicio. 
-Permite un mayot solapamiento pero requiere mas memoria y, cuando hay conflictos, obliga a deshacer una de ellas.
+Permite un mayot solapamiento pero requiere mas memoria y, cuando hay conflictos, obliga a deshacer una de ellas. La que commiteo prinmero gana
 [[Enfoque de Control de Concurrencia Optimista]]

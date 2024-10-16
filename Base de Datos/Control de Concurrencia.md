@@ -1,7 +1,7 @@
 ## Control con locks
 Es pesimista, bloqueo por si llega a pasar algo.
 
-Utiliza locks para bloquear los recursos, Los loscks son insertados por le SGBD como instrucciones especiales en medio de la transaccion 
+Utiliza locks para bloquear los recursos, Los loscks son insertados por le [[Sistemas de Gestion de Bases de Datos|SGBD]] como instrucciones especiales en medio de la transaccion 
 
 Una vez insertados, las transacciones compiten entre ellas por su ejecución
 
@@ -9,7 +9,7 @@ Es ṕosible pero no trivial garantizar la serializabilidad
 
 ver [[Sistemas Operativos/Concurrencia#Locks|locks]]
 
-LoS SGBD implementan dos tipos de locks: 
+LoS [[Sistemas de Gestion de Bases de Datos|SGBD]] implementan dos tipos de locks: 
 -  De escritura (exclusivos)
 - De lectura (no exclusivos)
 Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
@@ -29,7 +29,7 @@ Definir un timeout para la adquisición del Lock(X), después del cual se aborta
 
 
 #### Prevencion de deadlock 
-Que cada [[transacción]] adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). 2 Definir un ordenamiento de los recursos, y obligar a que luego todas las transacciones respeten dicho ordenamiento en la adquisición de locks. 3 Métodos basados en timestamps.
+Que cada [[transacción]] adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). 2 Definir un [[ordenamiento]] de los recursos, y obligar a que luego todas las transacciones respeten dicho [[ordenamiento]] en la adquisición de locks. 3 Métodos basados en timestamps.
 
 #### Starvation
 ver [[Scheduling#Starvation]]. 
@@ -44,6 +44,6 @@ Cada item tiene un readTS y un writeTS. Este devuelve el timestamp de la transac
 Si una transaciion quier leer o escribir se fija en los readTS y writeTS. Si fue escrito o leido por alguien con un timestamp mayor al suyo, ABORTA (read too late o write too late)
 ## Control por snapshots
 
-Cada transaccion ve una spanshot de la la base de datos correspondiente al instante e su inicio. 
-Permite un mayot solapamiento pero requiere mas memoria y, cuando hay conflictos, obliga a deshacer una de ellas. La que commiteo prinmero gana
+Cada transaccion ve una spanshot de la la [[Bases de Datos|base de datos]] correspondiente al instante e su inicio. 
+Permite un mayot solapamiento pero requiere mas [[memoria]] y, cuando hay conflictos, obliga a deshacer una de ellas. La que commiteo prinmero gana
 [[Enfoque de Control de Concurrencia Optimista]]

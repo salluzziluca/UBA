@@ -17,7 +17,7 @@ El SO ejecuta una parte de un prograama, luego una parte de otro, luego una part
 Diferentes usuarios comparten de forma concurrente un recurso computacional (CPU, memoria, etc.) mediante multiprogramacion e interrupciones de reloj por parte del SO
 
 
-## Virtualización de Memoria
+## [[Virtualización]] de Memoria
 
 La memoria virtual es agarrar a memoria fisica (fea y desordenada y mediante un software (mmu), simplificar todo para el [[Proceso]].  El mmu está adentro del cpu (`registro satp: <tabla_A>`)
 Cuando activas la memoria virtual, el procesador ya no puede ver mas la memoria fisica. Para él solo existe la virtual
@@ -26,9 +26,9 @@ El mmu tambien puede dar aclaraciones sobre diferentes direccines de memoria
 
 Tiene que ser eficiente, no se puede permitir que los programas requieran mas lentos o requieran mas espacio.
 
-El sistema operativo tiene que asegurarse de proteger a los procesos unos de otros como también proteger al sistema operativo de los proceso
+El sistema operativo tiene que asegurarse de proteger a los procesos unos de otros como también proteger al sistema operativo de los [[proceso]]
 
-El [[ Proceso]] tiene un user thread, si cambio de proceso, elnuevo proceso va a tener ese mismo user thread, se lovan a pasar
+El [[ Proceso]] tiene un user thread, si cambio de [[proceso]], elnuevo [[proceso]] va a tener ese mismo user thread, se lovan a pasar
 
 ![[context switch]]
 
@@ -39,7 +39,7 @@ Formalmente, es un mapeo
 #### Base and Bound (segmentacion)
 Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
-Hay un base and bound para heap, otro para stack y otro para el codigo.
+Hay un base and bound para [[heap]], otro para stack y otro para el codigo.
 ![[Pasted image 20240605124358.png]]
 ![[Pasted image 20240605124409.png]]
 ![[Pasted image 20240416113147.png]]
@@ -52,18 +52,18 @@ Se puden compactar la memoria fisica para que no haya tanto huecos y que la memo
 ##### implementacion en x86
 AX, BX, CX, DX : Registros Generales 
 CS, DS, SS, ES : Registros de Segmentos, manejan la traducción en modo real.( Code Segment, Data Segment, Extra Data Segment) 
-SI, DI, BP, SP, IP: Registros de Punteros y Registro de Índices. (Base Pointer, Stack Pointer y Instruction Pointer
+SI, DI, BP, SP, IP: Registros de [[Punteros]] y Registro de Índices. (Base Pointer, Stack Pointer y Instruction Pointer
 
 CS:IP localiza la próxima instrucción a ser ejecutada en modo real. 
 SS:SP localiza la dirección del puntero al stack, a veces también puede ser SS:BP. 
 DS: BX,DI,SI localizan el puntero a una dirección de memoria dentro del data address. 
-ES:DI puntero al extra data address donde van los strings.
+ES:DI puntero al extra data address donde van los [[strings]].
 ![[Pasted image 20240416113542.png]]
 
 #### Tabla de Segmentos
-==Cuando se necesita mas memoria, se alarga el chunk de memoria que se le da a ese proceso en particular==
-EL problema con base and bound qes que se tiene solo un reg base y un reg segmento. La esolucion es que cada proceso tenga asignado un base and bound. 
-El número de segmento es el índice de la tabla para ubicar el inicio del segmento en la memoria física. El registro bound es chequeado contra la suma del registro base+offset para prevenir que el proceso lea o escriba fuera de su región de memoria.
+==Cuando se necesita mas memoria, se alarga el chunk de memoria que se le da a ese [[proceso]] en particular==
+EL problema con base and bound qes que se tiene solo un reg base y un reg segmento. La esolucion es que cada [[proceso]] tenga asignado un base and bound. 
+El número de segmento es el índice de la tabla para ubicar el inicio del segmento en la memoria física. El registro bound es chequeado contra la suma del registro base+offset para prevenir que el [[proceso]] lea o escriba fuera de su región de memoria.
 
 > los bit de más alto orden son utilizados como índice en la tabla de segmentos. El resto se toma como offset y es sumado al registro base y comparado contra el registro bound. El número de segmentos depende de la cantidad de bits que se utilizan como indice
 
@@ -75,9 +75,9 @@ El número de segmento es el índice de la tabla para ubicar el inicio del segme
 
 
 #### Memoria Paginada
-==cuando se necesita mas memoria, se le dan 1 o más paginas (de tamaño fijo) al proceso==
+==cuando se necesita mas memoria, se le dan 1 o más paginas (de tamaño fijo) al [[proceso]]==
 
-En vez de tener una página de segmentos cuyas entradas contienen punteros a segmentos, hay una tabla de páginas por cada proceso cuyas entradas contienen punteros a las page frames
+En vez de tener una página de segmentos cuyas entradas contienen [[punteros]] a segmentos, hay una tabla de páginas por cada [[proceso]] cuyas entradas contienen [[punteros]] a las page frames
 las entradas en la page table sólo tienen que proveer los bit superiores de la dirección de la page frame. De esta forma van a ser más compactos. No es necesario tener un límite; la página entera se reserva como una unidad
 
 El numero de la pagina virtual es el indice en la page table para obtener el page fram en la memoria fisica.
@@ -113,7 +113,7 @@ la page directory posee 1024 entradas. ![[Pasted image 20240417110821.png]]
 - Accessed (A): Este bit se establece por hardware cada vez que se accede a la región de memoria mapeada. Es útil para la gestión de la memoria y la optimización de algoritmos de reemplazo de páginas. 
 - Dirty (D): Este bit se establece por hardware cada vez que se escribe en la región de memoria mapeada. Indica que la página ha sido modificada desde la última vez que se limpió. 
 - Large Page (PS): Si este bit está configurado, indica que la entrada PDE apunta a una tabla de páginas de tamaño grande (4 MB en lugar de 4 KB). Esto se utiliza para el soporte de páginas grandes y puede mejorar el rendimiento en ciertos casos. 
-- Global (G): Este bit se utiliza para páginas globales. Si está establecido, la página no se elimina del caché de traducción de direcciones (TLB) cuando se cambia el contexto del proceso. 
+- Global (G): Este bit se utiliza para páginas globales. Si está establecido, la página no se elimina del caché de traducción de direcciones (TLB) cuando se cambia el contexto del [[proceso]]. 
 - Available(Avail):Estos bits están disponibles para el uso del software y pueden ser utilizados para almacenar información
 
 #### Page table entry
@@ -156,7 +156,7 @@ que consiste en una copia de ciertos datos que pueden
 ser accedidos más de una vez más rápidamente.
 El concepto de Cache es ampliamente utilizado en
 muchas ramas de las ciencias de la computación:
-arquitectura de computadoras, sistemas operativos,
+[[arquitectura]] de computadoras, [[sistemas operativos]],
 sistemas distribuidos
 
 ![[Pasted image 20240410202038.png]]
@@ -179,6 +179,6 @@ allá le estan espaciando las localidades
 >Una TLB no es la excepción. Para una ejecución correcta y segura de un programa, el sistema operativo tiene que asegurarse que cada programa ve su propia memoria y la de nadie más.
 
 
-- Context switch: Las direcciones virtuales del viejo proceso ya no son más válidas, y no deben ser válidas, para el nuevo proceso. Se hace un flush de la tlb.
+- [[Context switch]]: Las direcciones virtuales del viejo proceso ya no son más válidas, y no deben ser válidas, para el nuevo proceso. Se hace un flush de la tlb.
 - Reducción de Permiso: Qué sucede cuando el sistema operativo modifica una entrada en una page table?Normalmente no se provee consistencia por hardware para la TLB; mantener la TLB consistente con la page table es responsabilidad del sistema operativo.
 - TLB shutdown: En un sistema multiprocesador cada uno puede tener cacheada una copia de una transacción en su TLB. Por ende, para seguridad y correctitud, cada vez que una entrada en la page table es modificada, la correspondiente entrada en todas las TLB de los procesadores tiene que ser descartada antes que los cambios tomen efecto.

@@ -36,5 +36,7 @@ ver [[Scheduling#Starvation]].
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
 Cada vez que empieza una transaccion le asigno un timestamp. Y se guarda siempre en cada item modificado quien y cuando lo modifico
+
+Se permite la ocurrencia de conflictos, pero siempre que las transacciones de cada conflicto aparezcan de acuerdo al orden serial equivalente: (WTi (X), RTj (X)) → TS(Ti) < TS(Tj)
 ## Control por snapshots
 [[Enfoque de Control de Concurrencia Optimista]]

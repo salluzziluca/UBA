@@ -5602,6 +5602,7 @@ Seccion
 Spinlock
 Sleeplock
 Scheduler
+SUCIA
 Calls
 Cmabia
 CPU
@@ -6289,6 +6290,8 @@ Exclusion
 Explique
 Entre
 Equidad
+EVITA
+ESCRITURA
 kernel
 kt
 kU

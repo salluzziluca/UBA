@@ -136,5 +136,7 @@ Hay un ciclo, no es serialozable
 
 [[Control de Concurrencia]]
 
+## Niveles de aislamiento
 
-[[Niveles De Aislamiento]]
+![[Pasted image 20241015212531.png]]
+SIEMPRE SE EVITA LA ESCRITURA SUCIA

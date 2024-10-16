@@ -38,5 +38,9 @@ ver [[Scheduling#Starvation]].
 Cada vez que empieza una transaccion le asigno un timestamp. Y se guarda siempre en cada item modificado quien y cuando lo modifico
 
 Se permite la ocurrencia de conflictos, pero siempre que las transacciones de cada conflicto aparezcan de acuerdo al orden serial equivalente: (WTi (X), RTj (X)) → TS(Ti) < TS(Tj)
+
+Cada item tiene un readTS y un writeTS. Este devuelve el timestamp de la transaccion mas joven que leyo/escribio el item.
+
+Si una tr
 ## Control por snapshots
 [[Enfoque de Control de Concurrencia Optimista]]

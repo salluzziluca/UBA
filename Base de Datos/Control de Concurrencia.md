@@ -35,6 +35,6 @@ Que cada [[transacción]] adquiera todos los locks que necesita antes de comenza
 ver [[Scheduling#Starvation]]. 
 ## Control por timestamp 
 [[Enfoque de Control de Concurrencia Optimista]]
-Cada vez que empieza una transaccion le asigno un timestamp. Y se le asigna a cada item un 
+Cada vez que empieza una transaccion le asigno un timestamp. Y se guarda siempre en cada item modificado quien y cuando lo modifico
 ## Control por snapshots
 [[Enfoque de Control de Concurrencia Optimista]]

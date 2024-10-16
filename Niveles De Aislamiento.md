@@ -1,0 +1,1 @@
+Read uncommited: carencia total de aislamiento. No se usan locks

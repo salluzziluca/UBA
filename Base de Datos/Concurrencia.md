@@ -135,3 +135,6 @@ Hay un ciclo, no es serialozable
 
 
 [[Control de Concurrencia]]
+
+
+[[Niveles De Aislamiento]]

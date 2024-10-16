@@ -44,5 +44,6 @@ Cada item tiene un readTS y un writeTS. Este devuelve el timestamp de la transac
 Si una transaciion quier leer o escribir se fija en los readTS y writeTS. Si fue escrito o leido por alguien con un timestamp mayor al suyo, ABORTA (read too late o write too late)
 ## Control por snapshots
 
-Cada transaccion ve una spanshot de la la base de datos corresp
+Cada transaccion ve una spanshot de la la base de datos correspondiente al instante e su inicio. 
+Permite un mayot solapamiento pero requiere mas memoria y, cuando hay conflictos, obliga a deshacer una de ellas.
 [[Enfoque de Control de Concurrencia Optimista]]

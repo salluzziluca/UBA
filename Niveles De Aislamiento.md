@@ -1,2 +1,3 @@
 
-![[Pasted image 20241015212531.png]
+![[Pasted image 20241015212531.png]]
+SIEMPRE SE EVITA LA ESCRITURA SUCIA

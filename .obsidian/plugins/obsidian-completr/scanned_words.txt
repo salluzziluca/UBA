@@ -1216,6 +1216,7 @@ clone
 cvlasses
 coloca
 comenzar
+commiteo
 de
 dispositivos
 del
@@ -2018,6 +2019,7 @@ graeo
 gane
 garantizar
 garantizamos
+gana
 especifico
 entra
 en
@@ -3089,6 +3091,8 @@ seriabilizad
 shceduler
 slices
 sched
+suyo
+spanshot
 par
 por
 punto
@@ -3690,6 +3694,7 @@ parecidos
 phtread
 porcion
 proridades
+prinmero
 la
 las
 le
@@ -4033,6 +4038,7 @@ libres
 liberacion
 llamad
 livelock
+late
 agnosticos
 apps
 al
@@ -4615,6 +4621,8 @@ arco
 adquisici
 adquiera
 asigno
+aparezcan
+acuerdo
 hardware
 heap
 hay
@@ -5057,6 +5065,7 @@ qrl
 querys
 quire
 queden
+quier
 utilizados
 un
 una
@@ -6889,6 +6898,7 @@ repetidamente
 rehizo
 referida
 respeten
+readTS
 operacion
 orden
 operaciones
@@ -7159,6 +7169,7 @@ ocks
 ocupada
 ofrecer
 obligar
+obliga
 nombre
 nuevo
 nica
@@ -7979,6 +7990,7 @@ Anomalia
 Adem
 Adquiri
 Analizar
+ABORTA
 Programming
 Procesos
 Partes
@@ -9252,6 +9264,7 @@ margen
 monton
 mutua
 marcaban
+mayot
 tien
 tiene
 todos
@@ -9614,6 +9627,8 @@ tenerlo
 trabados
 timeout
 timestamps
+transaciion
+too
 inico
 interna
 infro
@@ -12027,6 +12042,7 @@ Reescribir
 RTi
 Race
 Runtime
+RTj
 bien
 by
 be
@@ -12528,6 +12544,8 @@ whereas
 workshop
 wait
 wrappers
+writeTS
+write
 VA
 VIEW
 Volumen
@@ -13278,6 +13296,7 @@ jSPP
 jomE
 juntaron
 justa
+joven
 Ya
 Yourself
 YAGNI
@@ -15059,6 +15078,7 @@ Wilkinson
 WHERE
 WTj
 Waiting
+WTi
 ZZZPU
 ZX
 ZQ

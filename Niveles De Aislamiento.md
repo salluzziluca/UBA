@@ -1,1 +1,2 @@
-Read uncommited: carencia total de aislamiento. No se usan locks
+
+![[Pasted image 20241015212531.png]

@@ -84,4 +84,5 @@ siendo C la zmax
 ![[Pasted image 20241017145959.png]]![[Pasted image 20241017150336.png]]![[Pasted image 20241017150350.png]]
 
 
-## Branch 
+## Branch and Bounds 
+Es como [[back]]

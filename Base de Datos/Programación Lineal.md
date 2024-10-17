@@ -85,4 +85,8 @@ siendo C la zmax
 
 
 ## Branch and Bounds 
-Es como [[back]]
+Es como [[Backtracking]], aplicando branching para ver diferentes alternativas, con bounds (restricciones) como podas
+
+1. Buscamos solución relajada (no consideramos variables enteras)
+2. Sobre la solución relajada, para variables enteras, vemos una variable y volvemos a resolver agregando una restricción: X <= [a] , y otra vez con X >= [a] + 1, y además vemos que valga eso. Ramificamos y resolvemos.
+3. Seguir aplicando 2 hasta que todas las variables que deban ser enteras, sean enteras. Vamos quedándonos con la mejor solución cada vez que volvemos. 

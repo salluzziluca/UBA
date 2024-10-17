@@ -71,4 +71,4 @@ Complejidad = O(cant_vertices) <= O(2^n)
 caso lineal continuo: se demostro que es O(n^9)
 
 ![[Pasted image 20241017145218.png]]
-de esa forma nos aseguramos 
+de esa forma nos aseguramos de que x1 y x2 pueden valer 0 

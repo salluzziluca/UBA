@@ -77,3 +77,5 @@ de esa forma nos aseguramos de que x1 y x2 pueden valer 0
 otro caso![[Pasted image 20241017145620.png]]
 
 
+![[Pasted image 20241017145654.png]]
+siendo C la zmax

@@ -52,3 +52,7 @@ c: cambio al que queremos lelgar (constante)
 
 M_i= cantidad de monedads de denominacion i que usamos para el cambio 
 ![[Pasted image 20241017102456.png]]
+
+## Problema del viajante por PLE 
+Agregamos virtualmente las aritas faltantes con pedo F= "infinito" (sumatoria de todas las artistas existentes +1)
+Construimos nuestras variables $Y_{}$

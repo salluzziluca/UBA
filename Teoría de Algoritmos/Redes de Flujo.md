@@ -34,4 +34,7 @@ En el peor de los casos el grafo residual tiene el doble de aristas
 
 ### augmentin path 
 Si encontramos un camino de la fuente s al sumidero t en el grafo residual, entonces encontramos un camino por qel que podemos aumentar el flujo.  
-Buscamos aumentar el flujo total,pero puede reducirse el que pasa por una arista en particular. 
+Buscamos aumentar el flujo total, pero puede reducirse el que pasa por una arista en particular. 
+
+Dependiendo de cómo se haga esto, puede no converger el algoritmo!
+Luego repasamos, pero lo vamos a hacer con un BFS

@@ -10,3 +10,5 @@ Cad vertice intermedio simplemente traslada lo que le pasan, no produce ni consu
 - No puede hacer ciclos de dos vertices (aristas antiparalelas)
 - Solo puede haber una fuente
 - Solo puede haber un sumidero
+
+Para eliminar aristas antiparalelas: ![[Pasted image 20241017153236.png]]

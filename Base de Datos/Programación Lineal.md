@@ -50,4 +50,5 @@ valores de entrada:
 v_i = valor de moneda de denominacion i (constante)
 c: cambio al que queremos lelgar (constante)
 
-M_i= cantidad de monedads de denominacion i qu
+M_i= cantidad de monedads de denominacion i que usamos para el cambio 
+![[Pasted image 20241017102456.png]]

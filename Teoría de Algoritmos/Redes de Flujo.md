@@ -20,3 +20,9 @@ Para tener solo una fuente:
 
 para tener solo un sumidero: 
 ![[Pasted image 20241017153432.png]]
+
+
+
+## Red residual 
+Grafo con los mismo vertices, pero tiene como aristas: 
+1. las mismas del a

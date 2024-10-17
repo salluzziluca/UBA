@@ -12,3 +12,7 @@ Cad vertice intermedio simplemente traslada lo que le pasan, no produce ni consu
 - Solo puede haber un sumidero
 
 Para eliminar aristas antiparalelas: ![[Pasted image 20241017153236.png]]
+
+
+Para tener solo una fuente:
+![[Pasted image 20241017153402.png]]

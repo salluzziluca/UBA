@@ -42,3 +42,12 @@ def ejemplo():
     problem.solve()
     return pulp.value(vp), pulp.value(ss)
 ```
+
+
+## Problema del cambio 
+
+valores de entrada: 
+v_i = valor de moneda de denominacion i (constante)
+c: cambio al que queremos lelgar (constante)
+
+M_i= cantidad de monedads de denominacion i qu

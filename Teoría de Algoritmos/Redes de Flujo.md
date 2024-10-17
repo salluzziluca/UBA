@@ -16,3 +16,7 @@ Para eliminar aristas antiparalelas: ![[Pasted image 20241017153236.png]]
 
 Para tener solo una fuente:
 ![[Pasted image 20241017153402.png]]
+
+
+para tener solo un sumidero: 
+![[Pasted image 20241017153432.png]]

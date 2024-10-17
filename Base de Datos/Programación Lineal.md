@@ -56,4 +56,6 @@ M_i= cantidad de monedads de denominacion i que usamos para el cambio
 ## Problema del viajante por PLE 
 Agregamos virtualmente las aritas faltantes con pedo F= "infinito" (sumatoria de todas las artistas existentes +1)
 Construimos nuestras variables $Y_{i,j}= 1$ si usamos la arista i->j (0 sino)
-$\sum_{j} Y_{i,j}=1$ de todos salgo una sola vez $\sum_{i} Y_{i,j} = 1$ a todos entro una sola vez
+$\sum_{j} Y_{i,j}=1$ de todos salgo una sola vez $\sum_{i} Y_{i,j} = 1$ a todos entro una sola vez. De todos entro y salgo una sola vez, genera un ciclo 
+![[Pasted image 20241017103218.png]]
+el tema es que puede generar subciclos cuando necesito uno solo

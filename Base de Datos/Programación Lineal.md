@@ -65,3 +65,5 @@ $p_i-p_j + nY_{i,j} \leq n-1$
 
 
 ## Simplex 
+AL ser un problema lineal, los optimos van a estar si o si en vertices 
+Es greedy, busca optimos locales esperando que sean op

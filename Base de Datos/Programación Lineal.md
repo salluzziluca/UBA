@@ -61,3 +61,7 @@ $\sum_{j} Y_{i,j}=1$ de todos salgo una sola vez $\sum_{i} Y_{i,j} = 1$ a todos 
 el tema es que puede generar subciclos cuando necesito uno solo
 agrego una restriccion de secuencia. p_i = numero de secuencia en la cual visito a la ciudad i 
 $p_i-p_j + nY_{i,j} \leq n-1$
+
+
+
+## Simplex 

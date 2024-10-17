@@ -10,4 +10,5 @@
 [[Vertex Cover]]
 [[Dominating Set]]
 [[Programación Dinámica]]
+[[Programación Lineal]]
 

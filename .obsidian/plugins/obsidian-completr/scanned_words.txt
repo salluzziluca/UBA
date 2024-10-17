@@ -1200,6 +1200,12 @@ contraejemplos
 comemos
 consecutivas
 cuadrados
+cten
+comestibles
+cuestiones
+cereales
+contamos
+cajas
 de
 dispositivos
 del
@@ -1978,6 +1984,7 @@ greedy
 greedys
 gastando
 ganancia
+ganancias
 especifico
 entra
 en
@@ -2514,6 +2521,10 @@ estaciones
 estacion
 elemehtos
 evaluado
+exceder
+exceda
+estrella
+elaborar
 servicios
 son
 su
@@ -3004,6 +3015,10 @@ segundo
 schedule
 salas
 superposicion
+seguime
+semana
+supermercados
+secos
 par
 por
 punto
@@ -3606,6 +3621,9 @@ pateando
 proxima
 polinomios
 polonomio
+principalmente
+programaci
+proveedores
 la
 las
 le
@@ -4007,7 +4025,6 @@ anterior
 actualizado
 alguno
 accede
-aciertos
 arim
 arquitectura
 are
@@ -4507,6 +4524,7 @@ alcanzan
 ajusto
 ajustar
 ajusgar
+amaranto
 hardware
 heap
 hay
@@ -5466,6 +5484,7 @@ Selecci
 Siempr
 SELECT
 SUM
+Simplex
 Calls
 Cmabia
 CPU
@@ -5839,6 +5858,7 @@ CAB
 CAE
 Calculo
 Conviene
+Componentes
 Es
 El
 Estos
@@ -6142,6 +6162,8 @@ EAB
 ECB
 Encolo
 ESTO
+EVITAR
+Ecuaciones
 kernel
 kt
 kU
@@ -6310,6 +6332,9 @@ koe
 knn
 kMW
 kilometros
+kilo
+kilos
+kgr
 realice
 realicen
 resolve
@@ -6745,6 +6770,8 @@ reencolo
 repito
 robando
 repetimos
+rgenes
+resuelva
 operacion
 orden
 operaciones
@@ -7007,6 +7034,7 @@ oportunidad
 ordenarlos
 optimos
 ordeno
+operativa
 nombre
 nuevo
 nica
@@ -7258,6 +7286,7 @@ ncia
 naci
 nota
 nafta
+normativas
 via
 vuelve
 viven
@@ -7538,6 +7567,9 @@ vueltas
 viajar
 vale
 vandermonde
+vende
+verse
+vendido
 Application
 API
 Asigna
@@ -8144,6 +8176,7 @@ Promedio
 PILOTOS
 PROPIETARIO
 Plantea
+Patagua
 Interface
 ID
 Instructions
@@ -9438,6 +9471,7 @@ tiempoej
 tortas
 terminan
 teareas
+triple
 inico
 interna
 infro
@@ -9896,6 +9930,8 @@ imposi
 interpolacioon
 inerpolante
 interpolacion
+investigaci
+inecuaciones
 fijo
 file
 fork
@@ -10212,6 +10248,7 @@ futuro
 facultad
 frecuencias
 frec
+frutos
 Nombre
 Notas
 Not
@@ -10413,6 +10450,7 @@ Ning
 Naturalmente
 Numero
 Necesito
+Nuestra
 File
 For
 Funcion
@@ -11543,6 +11581,7 @@ TODAS
 Transformar
 Tercer
 Tanque
+TeoAlgoSoft
 Realiza
 REgistrys
 Rango
@@ -12519,6 +12558,8 @@ Verificar
 Venta
 Vueltas
 Vuetlas
+Vos
+Valle
 OPTIONS
 Operativos
 Orden

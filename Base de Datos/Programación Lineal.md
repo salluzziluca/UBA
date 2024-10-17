@@ -79,3 +79,5 @@ otro caso![[Pasted image 20241017145620.png]]
 
 ![[Pasted image 20241017145654.png]]
 siendo C la zmax
+
+![[Pasted image 20241017145806.png]]

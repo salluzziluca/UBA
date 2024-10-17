@@ -55,4 +55,5 @@ M_i= cantidad de monedads de denominacion i que usamos para el cambio
 
 ## Problema del viajante por PLE 
 Agregamos virtualmente las aritas faltantes con pedo F= "infinito" (sumatoria de todas las artistas existentes +1)
-Construimos nuestras variables $Y_{}$
+Construimos nuestras variables $Y_{i,j}= 1$ si usamos la arista i->j (0 sino)
+$\sum_{j} Y$

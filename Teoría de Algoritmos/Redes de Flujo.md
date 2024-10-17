@@ -30,3 +30,5 @@ Grafo con los mismo vertices, pero tiene como aristas:
 3. Si alguno de los anteriores es 0, no hay arista.
 En el peor de los casos el grafo residual tiene el doble de aristas
 **Un grafo residual es una red de flujo, salvo por las aristas antiparalelas.**
+
+

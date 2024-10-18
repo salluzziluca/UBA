@@ -42,4 +42,6 @@ Nuevas condiciones:
 Condición de capacidad: Le <= f(e) <= Ce
 Condición de demanda: fin(v) - fout(v) = dv
 
-Lo que hacemos entonces es definir un flujo que cumpla las capacidades
+Lo que hacemos entonces es definir un flujo que cumpla las capacidades (incluyendo cotas)
+
+Y creamos un grafo nuevo con capacidad = C_v - consumido (excepto que la demanda se cumpla, en cuyo caso no ponemos ni el vertice y ni las artias)

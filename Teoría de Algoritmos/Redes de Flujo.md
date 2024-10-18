@@ -61,3 +61,24 @@ A ver, antes de 3 a 5 estabamos usando 11 y teniamos de residual (nos sobraba) 8
 ![[Pasted image 20241018124530.png]]
 
 Finalmente, podemos usar el 1 de flujo que le estaba sobrando a 1-3 ya que le llega ese 1 de flujo desde 2-1. Maximizo entonces 1-3 y 3-5
+
+
+```python 
+def flujo(grafo, s, t):
+	flujo = {}
+	for v in grafo:
+		for w in grafo.adyacentes(v):
+			flujo[(v, w)] = 0
+	grafo_residual = copiar(grafo)
+	while (camino = obtener_camino(grafo_residual, s, t)) is not None:
+		capacidad_residual_camino = min_peso(grafo_residual, camino)
+		for i in range(1, len(camino)):
+			if grafo.hay_arista(camino[i-1], camino[i]):
+				flujo[(camino[i-1], camino[i])] += capacidad_residual_camino
+			else:
+				flujo[(camino[i], camino[i-1])] -= capacidad_residual_camino
+			actualizar_grafo_residual(grafo_residual, camino[i-1], camino[i], capacidad_residual_camino)
+
+	return flujo
+
+```

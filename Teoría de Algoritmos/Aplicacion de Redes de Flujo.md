@@ -17,3 +17,7 @@ Un camino podria ser 0 1 2 6 5 7 y otro 0 2 3 6 7
 
 # Circulacion con demandas
 Supongamos que tenemos varias "fuentes" con un suministro, y "sumideros" con una demanda. Ahora cada nodo tiene una demanda (positiva, negativa o 0). 
+
+Nuevas condiciones: 
+1. Condición de capacidad: 0 <= f(e) <= Ce
+2. Condición de demanda: fin(v) - fout(v) = dv

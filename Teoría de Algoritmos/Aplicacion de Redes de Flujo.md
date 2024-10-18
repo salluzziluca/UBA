@@ -10,3 +10,6 @@ Y le ponemos a cada vertice peso 1, de esa forma se puede usar una sola vez cada
 ## Disjoint paths
 **Decimos que dos caminos son disjuntos si no comparten aristas (pueden compartir nodos).**
 ![[Pasted image 20241018135834.png]]
+
+
+Un camino podria ser 0 1 2 6 5 7 y otro 0 2 3 

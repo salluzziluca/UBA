@@ -33,3 +33,9 @@ Supongamos que tenemos un sistema de una facultad en el que cada alumno puede pe
 
 
 ![[Pasted image 20241018142506.png]]
+
+
+## Cotas minimas
+Ahora para cada arista, además de tener una capacidad tenemos una cota inferior que debe cumplirse, y cada nodo puede tener una demanda. 
+
+Nueva

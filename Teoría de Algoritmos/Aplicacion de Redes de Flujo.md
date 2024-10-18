@@ -45,3 +45,7 @@ Condición de demanda: fin(v) - fout(v) = dv
 Lo que hacemos entonces es definir un flujo que cumpla las capacidades (incluyendo cotas)
 
 Y creamos un grafo nuevo con capacidad = C_v - consumido (excepto que la demanda se cumpla, en cuyo caso no ponemos ni el vertice y ni las artias)
+
+![[Pasted image 20241018201047.png]]
+
+En este caso yo tengo 8 y 5 de capacidad. Me piden que de minima pase 3 por lo que creo un grafo con capacidad = cota

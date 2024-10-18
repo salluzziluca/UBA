@@ -1,0 +1,43 @@
+Uso las [[Redes de Flujo]] como si fueran una tecnica de disenioo
+
+
+
+## Para [[Grafos#Grafo bipartito|grafos bipartitos]]
+![[Pasted image 20241018135627.png]]
+Y le ponemos a cada vertice peso 1, de esa forma se puede usar una sola vez cada vertice
+
+
+## Disjoint paths
+**Decimos que dos caminos son disjuntos si no comparten aristas (pueden compartir nodos).**
+![[Pasted image 20241018135834.png]]
+
+
+Un camino podria ser 0 1 2 6 5 7 y otro 0 2 3 6 7
+
+
+# Circulacion con demandas
+Supongamos que tenemos varias "fuentes" con un suministro, y "sumideros" con una demanda. Ahora cada nodo tiene una demanda (positiva, negativa o 0). 
+
+Nuevas condiciones: 
+1. Condición de capacidad: 0 <= f(e) <= Ce
+2. Condición de demanda: fin(v) - fout(v) = dv
+
+## EJ: biblioteca 
+Supongamos que tenemos un sistema de una facultad en el que cada alumno puede pedir hasta 10 libros de la biblioteca. La biblioteca tiene 3 copias de cada libro. Cada alumno desea pedir libros diferentes. Implementar un algoritmo que nos permita obtener la forma de asignar libros a alumnos de tal forma que la cantidad de préstamos sea máxima. 
+
+
+
+1. Creamos super fuente y super sumidero.
+2. Para los sumideros, agregamos una arista de t a t* con capacidad = demanda. 
+3. Para las fuentes, agregamos una arista de s* a s con capacidad = suministro.
+
+
+![[Pasted image 20241018142506.png]]
+
+
+## Cotas minimas
+Ahora para cada arista, además de tener una capacidad tenemos una cota inferior que debe cumplirse, y cada nodo puede tener una demanda. 
+
+Nuevas condiciones:
+Condición de capacidad: Le <= f(e) <= Ce
+Condición de demanda: fin(v) - fout(v) = dv

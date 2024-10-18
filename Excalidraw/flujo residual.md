@@ -108,8 +108,8 @@ d976d2e8fe7cd1b386f034171983ea6b146e3896: [[Pasted Image 20241018123814_433.png]
 			"type": "text",
 			"x": -161.4545454545454,
 			"y": -55.86505681818181,
-			"width": 147.858022516424,
-			"height": 25.311247569411332,
+			"width": 147.75119018554688,
+			"height": 25.31124756941133,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -121,8 +121,8 @@ d976d2e8fe7cd1b386f034171983ea6b146e3896: [[Pasted Image 20241018123814_433.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1282241834,
-			"version": 178,
-			"versionNonce": 2064135606,
+			"version": 179,
+			"versionNonce": 228191082,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -130,7 +130,7 @@ d976d2e8fe7cd1b386f034171983ea6b146e3896: [[Pasted Image 20241018123814_433.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1729265975428,
+			"updated": 1729270536584,
 			"link": null,
 			"locked": false,
 			"text": "Arista Inversa",
@@ -139,7 +139,7 @@ d976d2e8fe7cd1b386f034171983ea6b146e3896: [[Pasted Image 20241018123814_433.png]
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17.000000000000004,
+			"baseline": 17,
 			"containerId": null,
 			"originalText": "Arista Inversa",
 			"lineHeight": 1.25

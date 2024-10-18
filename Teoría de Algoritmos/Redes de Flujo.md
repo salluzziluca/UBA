@@ -48,6 +48,6 @@ def flujo(grafo, s, t):
 
 Dependiendo de cómo se haga esto, puede no converger el algoritmo!
 Busca encontrar el flujo maximo, no el camino mas corto
-
+![[Pasted image 20241018122745.png]]
 ![[Pasted image 20241018122729.png]]
-ahi vemos que como el flujo de 
+ahi vemos que como el flujo de 0 a 1 es 11 y el de 1 a 3 es 12, el primero capea al 2do

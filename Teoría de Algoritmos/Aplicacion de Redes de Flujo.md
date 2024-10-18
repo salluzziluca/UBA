@@ -38,4 +38,6 @@ Supongamos que tenemos un sistema de una facultad en el que cada alumno puede pe
 ## Cotas minimas
 Ahora para cada arista, además de tener una capacidad tenemos una cota inferior que debe cumplirse, y cada nodo puede tener una demanda. 
 
-Nueva
+Nuevas condiciones:
+Condición de capacidad: Le <= f(e) <= Ce
+Condición de demanda: fin(v) - fout(v) = dv

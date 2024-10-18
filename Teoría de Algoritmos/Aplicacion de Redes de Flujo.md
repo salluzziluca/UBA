@@ -59,4 +59,19 @@ Podemos decir que podemos usar un avión para un segmento/vuelo i y luego para o
 Decimos que el vuelo j es alcanzable desde el vuelo i si es posible usar el avión del vuelo i y después para el vuelo j. 
 Problema: ¿Podemos cumplir con los m vuelos usando a lo sumo k aviones?
 
-![[Pasted image 20241018203451.png]]
+![[Pasted image 20241018203451.png]]**1. Nuestras unidades de flujo son literalmente los aviones.
+    
+1. Ponemos las aristas de los vuelos que queremos si o si cumplir con cota mínima y capacidad = 1 (para forzar que se usen). 
+    
+2. Si otro vuelo es alcanzable por las reglas anteriores, ponemos otra arista de capacidad 1. 
+    
+3. Ponemos una fuente con aristas de capacidad 1 a los orígenes. 
+    
+4. Ponemos un sumidero con aristas de capacidad 1 desde los destinos.
+    
+5. Se une fuente y sumidero con capacidad K
+    
+6. La fuente tiene demanda -K y el sumidero K.**
+
+
+## Project selection

@@ -51,3 +51,8 @@ Busca encontrar el flujo maximo, no el camino mas corto
 ![[Pasted image 20241018122745.png]]
 ![[Pasted image 20241018122729.png]]
 ahi vemos que como el flujo de 0 a 1 es 11 y el de 1 a 3 es 12, el primero capea al 2do
+
+
+![[Pasted image 20241018124408.png]]
+
+A ver, antes de 3 a 5 estabamos usando 11 y teniamos de residual (nos sobraba) 8. Pero como de 4 a 3 llega un flujo de 7, usa 

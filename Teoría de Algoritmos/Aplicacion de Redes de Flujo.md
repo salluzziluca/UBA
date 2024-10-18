@@ -30,3 +30,6 @@ Supongamos que tenemos un sistema de una facultad en el que cada alumno puede pe
 1. Creamos super fuente y super sumidero.
 2. Para los sumideros, agregamos una arista de t a t* con capacidad = demanda. 
 3. Para las fuentes, agregamos una arista de s* a s con capacidad = suministro.
+
+
+![[Pasted image 20241018142506.png]]

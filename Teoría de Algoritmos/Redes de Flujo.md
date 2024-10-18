@@ -96,3 +96,7 @@ def actualizar_grafo_residual(grafo_residual, u, v, valor):
 
 
 ```
+
+
+### Teorema Max Flow
+Si el grafo corresponde a una red de flujo, entonces el corte mínimo tiene capacidad igual al flujo máximo. 

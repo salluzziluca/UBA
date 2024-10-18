@@ -47,4 +47,4 @@ def flujo(grafo, s, t):
 ```
 
 Dependiendo de cómo se haga esto, puede no converger el algoritmo!
-Luego repasamos, pero lo vamos a hacer con un BFS
+Busca encontrar el flujo maximo, no el camino mas corto

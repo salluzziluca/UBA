@@ -21,3 +21,12 @@ Supongamos que tenemos varias "fuentes" con un suministro, y "sumideros" con una
 Nuevas condiciones: 
 1. Condición de capacidad: 0 <= f(e) <= Ce
 2. Condición de demanda: fin(v) - fout(v) = dv
+
+## EJ: biblioteca 
+Supongamos que tenemos un sistema de una facultad en el que cada alumno puede pedir hasta 10 libros de la biblioteca. La biblioteca tiene 3 copias de cada libro. Cada alumno desea pedir libros diferentes. Implementar un algoritmo que nos permita obtener la forma de asignar libros a alumnos de tal forma que la cantidad de préstamos sea máxima. 
+
+
+
+1. Creamos super fuente y super sumidero.
+2. Para los sumideros, agregamos una arista de t a t* con capacidad = demanda. 
+3. Para las fuentes, agregamos una arista de s* a s con capacidad = suministro.

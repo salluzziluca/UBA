@@ -1207,6 +1207,8 @@ cereales
 contamos
 cajas
 cloacas
+capea
+compartir
 de
 dispositivos
 del
@@ -1739,6 +1741,11 @@ detenerme
 duracion
 deadline
 diriigido
+disenioo
+disjuntos
+demandas
+demanda
+desea
 gestion
 gran
 guarda
@@ -2527,6 +2534,7 @@ exceder
 exceda
 estrella
 elaborar
+estabamos
 servicios
 son
 su
@@ -3022,6 +3030,11 @@ semana
 supermercados
 secos
 salvo
+sobraba
+sobrando
+suministro
+sumideros
+stamos
 par
 por
 punto
@@ -3629,6 +3642,8 @@ programaci
 proveedores
 produce
 path
+paths
+podria
 la
 las
 le
@@ -3960,6 +3975,8 @@ letra
 lejana
 latencia
 lleven
+llegamos
+libros
 agnosticos
 apps
 al
@@ -4533,6 +4550,11 @@ amaranto
 aceptan
 antiparalelas
 augmentin
+agrego
+agregaria
+alumno
+agregamos
+adem
 hardware
 heap
 hay
@@ -4780,6 +4802,7 @@ habtiaciones
 horaInicio
 hayan
 hacerse
+hubiera
 que
 queda
 quien
@@ -5870,6 +5893,10 @@ Conviene
 Componentes
 Cad
 Ccada
+Circulacion
+Condici
+Creamos
+Cotas
 Es
 El
 Estos
@@ -6788,6 +6815,7 @@ residual
 restante
 reducirse
 repasamos
+residuales
 operacion
 orden
 operaciones
@@ -7303,6 +7331,7 @@ naci
 nota
 nafta
 normativas
+negativa
 via
 vuelve
 viven
@@ -8475,6 +8504,7 @@ INDEPENIENTE
 Invertir
 Intentando
 Interpolacion
+Implementar
 Un
 UNIX
 UBA
@@ -9492,6 +9522,7 @@ teareas
 triple
 traslada
 transporte
+teniamos
 inico
 interna
 infro
@@ -10272,6 +10303,10 @@ frutos
 flujos
 ford
 fulkerson
+flow
+fueran
+fuentes
+fout
 Nombre
 Notas
 Not
@@ -10474,6 +10509,7 @@ Naturalmente
 Numero
 Necesito
 Nuestra
+Nuevas
 File
 For
 Funcion
@@ -11058,6 +11094,7 @@ Demostrar
 Desencolamos
 Divido
 Desgraciadamente
+Disjoint
 Memoria
 Multivariada
 MORE
@@ -11362,6 +11399,7 @@ Morell
 Messi
 MIN
 MULTA
+Maximizo
 Table
 Todos
 This
@@ -12585,6 +12623,7 @@ Vueltas
 Vuetlas
 Vos
 Valle
+Vemos
 OPTIONS
 Operativos
 Orden

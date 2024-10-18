@@ -48,4 +48,4 @@ Y creamos un grafo nuevo con capacidad = C_v - consumido (excepto que la demanda
 
 ![[Pasted image 20241018201047.png]]
 
-En este caso yo tengo 8 y 5 de capacidad. Me piden que de minima pase 3 por lo que creo un grafo con capacidad = cota
+En este caso yo tengo 8 y 5 de capacidad. Me piden que de minima pase 3 por lo que creo un grafo con capacidad = C_v (8 y 5) -3

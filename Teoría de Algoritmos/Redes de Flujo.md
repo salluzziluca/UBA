@@ -31,7 +31,7 @@ Grafo con los mismo vertices, pero tiene como aristas:
 En el peor de los casos el grafo residual tiene el doble de aristas
 **Un grafo residual es una red de flujo, salvo por las aristas antiparalelas.**
 
-
+![[flujo residual]]
 ### augmentin path 
 Si encontramos un camino de la fuente s al sumidero t en el grafo residual, entonces encontramos un camino por qel que podemos aumentar el flujo.  
 Buscamos aumentar el flujo total, pero puede reducirse el que pasa por una arista en particular. 

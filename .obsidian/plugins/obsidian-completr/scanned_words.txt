@@ -1207,6 +1207,7 @@ cereales
 contamos
 cajas
 cloacas
+capea
 de
 dispositivos
 del
@@ -3022,6 +3023,7 @@ semana
 supermercados
 secos
 salvo
+saYfscB
 par
 por
 punto
@@ -4968,6 +4970,7 @@ qIS
 qrl
 quizas
 qel
+qgnHwLwp
 utilizados
 un
 una
@@ -6175,6 +6178,7 @@ Encolo
 ESTO
 EVITAR
 Ecuaciones
+Embedded
 kernel
 kt
 kU
@@ -7863,6 +7867,7 @@ AHORA
 Aplicamos
 ARGENTINAAAAA
 ACa
+Arista
 Programming
 Procesos
 Partes
@@ -10749,6 +10754,7 @@ Ferdy
 Futbolista
 FNCB
 FROM
+Flujo
 Descriptors
 Descriptor
 Devuelve
@@ -11886,6 +11892,7 @@ Resultado
 Redenominacion
 REF
 Red
+Residual
 bien
 by
 be

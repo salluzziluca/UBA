@@ -55,4 +55,9 @@ ahi vemos que como el flujo de 0 a 1 es 11 y el de 1 a 3 es 12, el primero capea
 
 ![[Pasted image 20241018124408.png]]
 
-A ver, antes de 3 a 5 estabamos usando 11 y teniamos de residual (nos sobraba) 8. Pero como de 4 a 3 llega un flujo de 7, usa 
+A ver, antes de 3 a 5 estabamos usando 11 y teniamos de residual (nos sobraba) 8. Pero como de 4 a 3 llega un flujo de 7, usa 7 de los 8 residuales de 3 a 5 y terminamos usando 18 con 1 residual
+
+
+![[Pasted image 20241018124530.png]]
+
+Finalmente, podemos u

@@ -1741,6 +1741,7 @@ detenerme
 duracion
 deadline
 diriigido
+disenioo
 gestion
 gran
 guarda
@@ -4542,6 +4543,7 @@ aceptan
 antiparalelas
 augmentin
 agrego
+agregaria
 hardware
 heap
 hay
@@ -4789,6 +4791,7 @@ habtiaciones
 horaInicio
 hayan
 hacerse
+hubiera
 que
 queda
 quien
@@ -10288,6 +10291,7 @@ ford
 fulkerson
 flow
 fda
+fueran
 Nombre
 Notas
 Not

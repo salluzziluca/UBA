@@ -75,3 +75,15 @@ Problema: ¿Podemos cumplir con los m vuelos usando a lo sumo k aviones?
 
 
 ## Project selection
+Tenemos proyectos que podemos realizar. Algunos dan ganancia positiva y otros negativa. Hay dependencias: puede que para hacer un proyecto i también tengamos que hacer un proyecto j, sin ciclos. 
+
+Por supuesto un proyecto con ganancia negativa sin otro proyecto (positivo) que dependa de este, no se hará. 
+
+Un proyecto que tiene ganancia positiva y no depende de uno negativo, se hará. 
+
+1. Ponemos vértices = proyectos. Arista (i, j) cuando el proyecto i depende del j. 
+2. Ponemos fuente, y unimos a proyectos positivos con capacidad igual al beneficio del proyecto. 
+3. Ponemos sumidero, y unimos los proyectos negativos con capacidad -beneficio del proyecto. 
+4. A las aristas de las dependencias le ponemos "capacidad infinita" (o la suma de los proyectos positivos + 1). 
+Obtenemos el corte mínimo (A', B') y nos quedamos con A' - {fuente}. 
+

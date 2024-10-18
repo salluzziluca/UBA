@@ -2528,6 +2528,7 @@ exceder
 exceda
 estrella
 elaborar
+estabamos
 servicios
 son
 su
@@ -3024,6 +3025,8 @@ supermercados
 secos
 salvo
 saYfscB
+sobraba
+sobrando
 par
 por
 punto
@@ -3962,6 +3965,7 @@ letra
 lejana
 latencia
 lleven
+llegamos
 agnosticos
 apps
 al
@@ -4535,6 +4539,7 @@ amaranto
 aceptan
 antiparalelas
 augmentin
+agrego
 hardware
 heap
 hay
@@ -6792,6 +6797,7 @@ residual
 restante
 reducirse
 repasamos
+residuales
 operacion
 orden
 operaciones
@@ -9497,6 +9503,7 @@ teareas
 triple
 traslada
 transporte
+teniamos
 inico
 interna
 infro
@@ -10277,6 +10284,7 @@ frutos
 flujos
 ford
 fulkerson
+flow
 Nombre
 Notas
 Not
@@ -11368,6 +11376,7 @@ Morell
 Messi
 MIN
 MULTA
+Maximizo
 Table
 Todos
 This
@@ -12592,6 +12601,7 @@ Vueltas
 Vuetlas
 Vos
 Valle
+Vemos
 OPTIONS
 Operativos
 Orden

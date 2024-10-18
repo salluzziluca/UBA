@@ -98,11 +98,13 @@ def actualizar_grafo_residual(grafo_residual, u, v, valor):
 ```
 
 
-### Teorema Max Flow
+### Teorema flow min cut
 Si el grafo corresponde a una red de flujo, entonces el corte mínimo tiene capacidad igual al flujo máximo. 
 
 1. Agarramos nuestro grafo residual
 2. Vemos todos los vértices a los que llegamos desde la fuente
 3. Todas las aristas (del grafo original) que vayan de un vértice al que podamos llegar (en el residual) a uno que no (idem), son parte del corte
 en el ejemplo anterior
-![[Pasted image 20241018131322.png]]
+
+En otras palabras, si de la fuente puedo llegar a algun lado, lo agrego al cut
+""

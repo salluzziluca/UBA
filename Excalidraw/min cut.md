@@ -38,11 +38,11 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1683573110,
-			"version": 14,
-			"versionNonce": 682011190,
+			"version": 18,
+			"versionNonce": 1936577770,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729268480687,
+			"updated": 1729268528438,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -70,11 +70,11 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 437828650,
-			"version": 81,
-			"versionNonce": 721766954,
+			"version": 83,
+			"versionNonce": 582338230,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729268484864,
+			"updated": 1729268528438,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -420,11 +420,11 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1785415030,
-			"version": 243,
-			"versionNonce": 1237736630,
+			"version": 245,
+			"versionNonce": 1635231658,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729268490368,
+			"updated": 1729268528438,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1401,6 +1401,48 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			]
 		},
 		{
+			"id": "jMWd2SwJ8440wcW6hd0tT",
+			"type": "freedraw",
+			"x": -23,
+			"y": 44.7265625,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1642295722,
+			"version": 5,
+			"versionNonce": 2084119146,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729268528438,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"id": "NUEtXk4q",
 			"type": "text",
 			"x": -163,
@@ -1418,11 +1460,11 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1931742966,
-			"version": 2,
-			"versionNonce": 1277231978,
+			"version": 4,
+			"versionNonce": 1358397430,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1729268473415,
+			"updated": 1729268528438,
 			"link": null,
 			"locked": false,
 			"text": "![[Pasted image 20241018131322.png]]",
@@ -1435,6 +1477,48 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 			"containerId": null,
 			"originalText": "![[Pasted image 20241018131322.png]]",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "efj-ksMkTtWFtuiMdlXHm",
+			"type": "freedraw",
+			"x": -23,
+			"y": 44.7265625,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1502816054,
+			"version": 4,
+			"versionNonce": 660790326,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1729268517087,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
 		}
 	],
 	"appState": {
@@ -1452,8 +1536,8 @@ b144be2468f7417776f6ebc9e264d34220c15bfd: [[Pasted Image 20241018132131_066.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 787,
-		"scrollY": 484.7265625,
+		"scrollX": 783,
+		"scrollY": 478.7265625,
 		"zoom": {
 			"value": 1
 		},

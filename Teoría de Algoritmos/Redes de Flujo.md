@@ -48,3 +48,6 @@ def flujo(grafo, s, t):
 
 Dependiendo de cómo se haga esto, puede no converger el algoritmo!
 Busca encontrar el flujo maximo, no el camino mas corto
+
+![[Pasted image 20241018122729.png]]
+ahi vemos que como el flujo de 

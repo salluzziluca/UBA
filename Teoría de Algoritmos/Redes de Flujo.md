@@ -108,3 +108,5 @@ en el ejemplo anterior
 
 En otras palabras, si de la fuente puedo llegar a algun lado, lo agrego al cut
 ![[min cut]]
+
+Si hubiera alguna arista que 

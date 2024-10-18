@@ -110,3 +110,7 @@ En otras palabras, si de la fuente puedo llegar a algun lado, lo agrego al cut
 ![[min cut]]
 
 Si hubiera alguna arista que fuera de la fuente a algun nodo (todavia tenemos residual) la agregaria
+
+
+
+

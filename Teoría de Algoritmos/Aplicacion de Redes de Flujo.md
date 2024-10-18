@@ -53,3 +53,10 @@ En este caso yo tengo 8 y 5 de capacidad. Me piden que de minima pase 3 por lo q
 
 
 ### Ej: aviones
+Podemos decir que podemos usar un avión para un segmento/vuelo i y luego para otro j si: 
+1. El destino de i y el origen de j son el mismo. 
+2. Podemos agregar un vuelo desde el destino de i al origen de j con tiempo suficiente. 
+Decimos que el vuelo j es alcanzable desde el vuelo i si es posible usar el avión del vuelo i y después para el vuelo j. 
+Problema: ¿Podemos cumplir con los m vuelos usando a lo sumo k aviones?
+
+![[Pasted image 20241018203451.png]]

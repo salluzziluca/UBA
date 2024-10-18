@@ -25,7 +25,7 @@ para tener solo un sumidero:
 
 ## Red residual 
 Grafo con los mismo vertices, pero tiene como aristas: 
-1. Las mismas del original, al que aún les quede capacidad por utilizar. El peso es esa capacidad restante
+1. Las mismas del original, al que aún les quede capacidad por utilizar. El peso es esa capacidad restante. Si yo tenia 12 de capacidad pero solo use 10, me quedan 2 de residual
 2. La arista opuesta, con peso la capacidad utilizada. 
 3. Si alguno de los anteriores es 0, no hay arista.
 En el peor de los casos el grafo residual tiene el doble de aristas

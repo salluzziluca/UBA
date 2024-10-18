@@ -60,4 +60,4 @@ A ver, antes de 3 a 5 estabamos usando 11 y teniamos de residual (nos sobraba) 8
 
 ![[Pasted image 20241018124530.png]]
 
-Finalmente, podemos u
+Finalmente, podemos usar el 1 de flujo que le estaba sobrando a 1-3 ya que le llega ese 1 de flujo desde 2-1. Maximizo entonces 1-3 y 3-5

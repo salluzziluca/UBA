@@ -17,9 +17,9 @@ El resultado difiere no segun cual empieza primera, sino que parte de cada instr
 
 ## Modelo de datos
 Consideraremos que nuestra [[Bases de Datos|bdd]] esta formada por ==items== 
-Un item puede representar: valor de [[Base de Datos/Atributos|atributo]] en fila determinada, una fila de una tala, un bloque de disco, una tabla
+Un item puede representar: valor de [[Base de Datos/Atributos|atributo]] en fila determinada, una fila de una tabla, un bloque de disco, una tabla entera
 
-las instrucciones atomicas basicas son leerItem y escribirItem
+las instrucciones atómicas básicas son `leerItem()` y `escribirItem()`
 
 >[!note] El tamaño de ítem escogido se conoce como granularidad, y afecta sustancialmente al [[control de concurrencia]]
 

@@ -114,7 +114,7 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 
 ## Grafo de precedencias. 
-La serializacion se puede evaluadar a traves del graeo
+La serializacion se puede evaluadar a traves del [[Grafos|grafo]]
 
 
 ![[Pasted image 20241015201645.png]]

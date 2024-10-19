@@ -46,10 +46,10 @@ Se disponen de mecanismos de recuperación para deshacer rehacer transacciones e
 - commit: indica que esta ha terminado exitosamente 
 - abort: indica que se produzco error o falla y que todos los efectos deben ser deshechos (rollback)
 
-## Anomalias 
+## Anomalías 
 ### Lectura sucia (dirty read)
-Se llama lectura sucia cuando una transaccion T2 lee un item que fue modificado por otra transaccion 
-Si luego t1 se deshace, la lectura que hizo t2 no es valoida
+Se llama lectura sucia cuando una transacción T2 lee un item que fue modificado por otra transacción 
+Si luego t1 se deshace, la lectura que hizo t2 no es válida
 
 ![[Pasted image 20241015193602.png]]
 

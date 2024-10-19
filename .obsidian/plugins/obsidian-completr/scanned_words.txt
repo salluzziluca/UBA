@@ -1228,6 +1228,9 @@ coloca
 comenzar
 commiteo
 consulta
+caen
+centro
+cer
 de
 dispositivos
 del
@@ -1782,6 +1785,7 @@ deadlocks
 detecta
 deadlock
 deshechos
+difraccion
 gestion
 gran
 guarda
@@ -3736,6 +3740,7 @@ precedencias
 pesimista
 prinmero
 preservar
+pared
 la
 las
 le
@@ -4678,6 +4683,7 @@ adquiera
 asigno
 aparezcan
 acuerdo
+ancho
 hardware
 heap
 hay
@@ -6344,6 +6350,7 @@ Ecuaciones
 Equivalencia
 EVITA
 ESCRITURA
+Entre
 kernel
 kt
 kU
@@ -6968,6 +6975,8 @@ rden
 respeten
 readTS
 recuperaci
+rendijas
+ranuras
 operacion
 orden
 operaciones
@@ -7238,6 +7247,8 @@ obligar
 obliga
 opci
 onsistnecia
+oscuras
+ordenes
 nombre
 nuevo
 nica
@@ -8689,6 +8700,7 @@ Invertir
 Intentando
 Interpolacion
 Implementar
+Interferencia
 Un
 UNIX
 UBA
@@ -10191,6 +10203,7 @@ infoma
 istruccion
 involucradas
 informa
+intesidad
 fijo
 file
 fork
@@ -10518,6 +10531,8 @@ fout
 forzar
 falla
 fantasma
+franjas
+franja
 Nombre
 Notas
 Not
@@ -12452,6 +12467,7 @@ basicas
 begin
 bloquear
 basados
+brillantes
 will
 words
 with
@@ -15001,6 +15017,7 @@ xWk
 xqm
 xNg
 xDn
+ximos
 Workload
 Walrus
 Whitley

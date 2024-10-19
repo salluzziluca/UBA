@@ -1,8 +1,8 @@
-ejecutar multiples transacciones en forma simultanea. 
+ejecutar multiples [[Transacción|transacciones]] en forma simultanea. 
 La idea es aprovechar al máximo la capacidad de computo( si dos querys usan dos 6 datos distintos, deberíamos poder ejecutándolas concurrentemente
 
 Serializar no es una opción. Serializar = ir en serie. No empezar una hasta no terminar la otra. Esto no es bueno porque una lenta tapa una rápida
-Mientras una [[transacción]] espera que el SO escriba una página en disco, otra [[transacción]] podría realizar una operación en memoria
+Mientras una [[transacción]] espera que el SO escriba una página en disco, otra [[transacción]] podría realizar una operación en [[memoria]]
 
 >[!important] Los recursos compartidos son los datos, ahí esta el problema
 
@@ -29,7 +29,7 @@ las instrucciones atómicas básicas son `leerItem()` y `escribirItem()`
 
 
 
-Una transacción es una unidad lógica de trabajo en la SGBD
+Una [[transacción]] es una unidad lógica de trabajo en la [[Sistemas de Gestion de Bases de Datos|SGBD]]
 Es una secuencia ordenada de instrucciones que deben ser ejecutadas en su totalidad o bien no ser ejecutadas, al margen de la interferencia con otras transacciones simultáneas.
 
 
@@ -127,7 +127,7 @@ EJ;
 Hay un ciclo, no es serializable
 
 
-[[Control de Concurrencia]]
+![[Control de Concurrencia]]
 
 ## Niveles de aislamiento
 

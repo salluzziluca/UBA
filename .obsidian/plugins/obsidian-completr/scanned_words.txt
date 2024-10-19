@@ -1227,6 +1227,7 @@ compiten
 coloca
 comenzar
 commiteo
+consulta
 de
 dispositivos
 del
@@ -1780,6 +1781,7 @@ dejan
 deadlocks
 detecta
 deadlock
+deshechos
 gestion
 gran
 guarda
@@ -3113,6 +3115,9 @@ suyo
 snapshots
 spanshot
 simultanea
+slamiento
+solapadas
+serializables
 par
 por
 punto
@@ -3730,6 +3735,7 @@ produzco
 precedencias
 pesimista
 prinmero
+preservar
 la
 las
 le
@@ -5362,6 +5368,7 @@ unimos
 uede
 update
 unrepeteale
+urabilidad
 System
 Son
 Source
@@ -6960,6 +6967,7 @@ rdenes
 rden
 respeten
 readTS
+recuperaci
 operacion
 orden
 operaciones
@@ -7229,6 +7237,7 @@ osible
 obligar
 obliga
 opci
+onsistnecia
 nombre
 nuevo
 nica
@@ -7487,6 +7496,7 @@ negativos
 neas
 nea
 ndolas
+nes
 via
 vuelve
 viven
@@ -8062,6 +8072,7 @@ Adem
 Adquiri
 Analizar
 ABORTA
+Anomal
 Programming
 Procesos
 Partes
@@ -9710,6 +9721,10 @@ timeout
 timestamps
 transaciion
 too
+tomicidad
+transaction
+transaccionales
+terminado
 inico
 interna
 infro
@@ -10175,6 +10190,7 @@ interferencia
 infoma
 istruccion
 involucradas
+informa
 fijo
 file
 fork

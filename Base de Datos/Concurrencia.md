@@ -115,8 +115,7 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 ## Grafo de precedencias. 
 La serializacion se puede evaluadar a traves del [[Grafos|grafo]]
-
-
+Si en el grafo hay algun ciclo, no es serializable
 ![[Pasted image 20241015201645.png]]
 
 
@@ -125,7 +124,7 @@ EJ;
 
 ![[Pasted image 20241015201752.png]]
 
-Hay un ciclo, no es serialozable
+Hay un ciclo, no es serializable
 
 
 [[Control de Concurrencia]]

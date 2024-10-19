@@ -65,8 +65,6 @@ el saldo deberia ser 500 pero termina siendo 400
 ### Dirty Write 
 Cuando escribo algo que ya fue escrito pero no commiteado. El scheduler me saca el lock antes de commitear mi Write
 ![[Pasted image 20241015194428.png]]
-
-
 ### Anomalia del fantasma 
 Busco valores qu ecumplan una condicion. Despues una T2 modifica un item y este ahora pasa a cumplir la condicion 
 ![[Pasted image 20241015194723.png]]
@@ -84,7 +82,7 @@ bT1 ; RT1 (X); bT2 ; RT2 (X); WT2 (X); RT1 (Y); WT1 (Y); cT2 ; cT
 
 Ahora tenemos que ver si ese solapamiento es serializable o no
 
-para ese par de transacciónes existen dos ejecuciones seriales posibles
+para ese par de transacciones existen dos ejecuciones seriales posibles
 
 >[!hint] Existen n! ejecuciones seriales distintas entre n transacciónes 
 

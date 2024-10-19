@@ -29,12 +29,12 @@ las instrucciones atómicas básicas son `leerItem()` y `escribirItem()`
 
 
 
-Una transaccion es una unidad logica de trabajo en la SGBD
+Una transacción es una unidad lógica de trabajo en la SGBD
 Es una secuencia ordenada de instrucciones que deben ser ejecutadas en su totalidad o bien no ser ejecutadas, al margen de la interferencia con otras transacciones simultáneas.
 
 
-La ejecucion de una transaccion debera cumplir con las propiuedades ACID
-Atomicidad
+La ejecución de una transacción deberá cumplir con las propiedades ACID
+**A**tomicidad
 Consistnecia: cad ejecucion debe oreservar la consistencia de datos
 aIslamiento: cuando ejecuto varias trsnacciones concrrentemente. Deberia obtener el mismo resultado que si ejecuto primero una y despues la otra. La ejecucion concurrente debe ser equivalente a ALGUNA ejecucion serial
 

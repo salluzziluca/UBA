@@ -54,9 +54,7 @@ Si luego t1 se deshace, la lectura que hizo t2 no es válida
 ![[Pasted image 20241015193602.png]]
 
 ### Lost update 
-
 Cuando una transaccion modifica un item que fue leido anteriormente por una primera transaccion que aun no termino. 
-
 
 Si la primera luego modifica y escribe el item que leyó, se pierde el valor modificado por T2
 Si en cambio, la T1 volviera a leer el item, se encontraria con otro valor (unrepeteale read)
@@ -88,12 +86,12 @@ bT1 ; RT1 (X); bT2 ; RT2 (X); WT2 (X); RT1 (Y); WT1 (Y); cT2 ; cT
 
 Ahora tenemos que ver si ese solapamiento es serializable o no
 
-para ese par de transacciones existen dos ejecuciones seriales posibles
+para ese par de transacciónes existen dos ejecuciones seriales posibles
 
->[!hint] Existen n! ejecuciones seriales distintas entre n transacciones 
+>[!hint] Existen n! ejecuciones seriales distintas entre n transacciónes 
 
 
->[!note] Decimos que un solapamiento de un conjunto de transacciones T1, T2, ..., Tn es serializable cuando la ejecución de sus instrucciones en dicho orden deja a la base de datos en un estado equivalente a aquél en que la hubiera dejado alguna ejecución serial de T1, T2, ..., Tn.
+>[!note] Decimos que un solapamiento de un conjunto de transacciónes T1, T2, ..., Tn es serializable cuando la ejecución de sus instrucciones en dicho orden deja a la base de datos en un estado equivalente a aquél en que la hubiera dejado alguna ejecución serial de T1, T2, ..., Tn.
 
 
 ## Equivalencia 
@@ -104,7 +102,7 @@ Cuando ambas dejan la bdd en el mismo estado
 Cuando ambos órdenes de ejecución poseen los mismos conflictos entre instrucciones.
 
 
-TLDR un conflcto se da cuando una istruccion de una transaccion escribe un item que otra leyo, una transaccion lee un item que otra escribio, dos escriben el mismo item. Es decir, cuando dos transacciones ejecutan instrucciones sobre un mismo item y al menos una de las dos instrucciones es una escritura 
+TLDR un conflcto se da cuando una istruccion de una transacción escribe un item que otra leyo, una transacción lee un item que otra escribio, dos escriben el mismo item. Es decir, cuando dos transacciónes ejecutan instrucciones sobre un mismo item y al menos una de las dos instrucciones es una escritura 
 
 Todas dos instrucciones consecutivas que no tengan conflicto se pueden invertir 
 

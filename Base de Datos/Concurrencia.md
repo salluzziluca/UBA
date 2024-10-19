@@ -38,13 +38,13 @@ La ejecución de una transacción deberá cumplir con las propiedades ACID
 **C**onsistnecia: cad ejecución debe preservar la consistencia de datos
 a**I**slamiento: **cuando ejecuto varias transacciones concurrentemente. Deberia obtener el mismo resultado que si ejecuto primero una y despues la otra. La ejecucion concurrente debe ser equivalente a ALGUNA ejecucion serial**
 
-**D**urabilidad: Una vez que el SGBD infoma que la trsnaccion se completo, esta se debe persistir. No puede el SGBD decir: esto termino!! y que no quede guardada
+**D**urabilidad: Una vez que el SGBD informa que la transaction se completo, esta se debe persistir. No puede el SGBD decir: esto termino!! y que no quede guardada
 
-Se disponen de mecanismos de recuperacion para deshacer rehacer transacciones en caso de fallas (todo o nada)
+Se disponen de mecanismos de recuperación para deshacer rehacer transacciones en caso de fallas (todo o nada)
 
-begin: indica el comienzo de la trsnacciones
-commit: indica que esta ha temrinado exitosamente 
-abort: indica que se produzco error o falla y que todos los efectos deben ser dehechos (rollback)
+- begin: indica el comienzo de la transaccionales
+- commit: indica que esta ha terminado exitosamente 
+- abort: indica que se produzco error o falla y que todos los efectos deben ser deshechos (rollback)
 
 ## Anomalias 
 ### Lectura sucia (dirty read)

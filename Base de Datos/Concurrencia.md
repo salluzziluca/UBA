@@ -1,5 +1,5 @@
-ejecutra rmuktiples trsnacciones en forma simltanea. 
-La idea es aprovechar al maximo la capacidad de computo( si dos querys usan dos 6 datos distintos, deberiamos poder ejecutandolas concurrentemente
+ejecutar multiples transacciones en forma simultanea. 
+La idea es aprovechar al máximo la capacidad de computo( si dos querys usan dos 6 datos distintos, deberíamos poder ejecutándolas concurrentemente
 
 Serializar no es una opcion. Serializar = ir en serie. No empezar una hasta no terminar la otra. Esto no es bueno porque una lenta tapa una rapida
 Mientras una [[transacción]] espera que el SO escriba una página en disco, otra [[transacción]] podría realizar una operación en memoria

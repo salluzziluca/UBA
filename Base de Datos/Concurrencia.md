@@ -98,7 +98,7 @@ Cuando ambas dejan la bdd en el mismo estado
 Cuando ambos órdenes de ejecución poseen los mismos conflictos entre instrucciones.
 
 
-TLDR un conflcto se da cuando una istruccion de una transacción escribe un item que otra leyo, una transacción lee un item que otra escribio, dos escriben el mismo item. Es decir, cuando dos transacciónes ejecutan instrucciones sobre un mismo item y al menos una de las dos instrucciones es una escritura 
+TLDR un conflcto se da cuando una instruccion de una transacción escribe un item que otra leyo, una transacción lee un item que otra escribio, dos escriben el mismo item. Es decir, cuando dos transacciónes ejecutan instrucciones sobre un mismo item y al menos una de las dos instrucciones es una escritura 
 
 Todas dos instrucciones consecutivas que no tengan conflicto se pueden invertir 
 

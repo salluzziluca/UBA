@@ -36,7 +36,11 @@ Definir un timeout para la adquisición del Lock(X), después del cual se aborta
 2. Definir un [[ordenamiento]] de los recursos, y obligar a que luego todas las [[Transacción|transacciones]] respeten dicho [[ordenamiento]] en la adquisición de locks. 
 3. Los locks solo se pueden liberar despues de hacer commit (2PL riguroso)
 4. Una transacción no puede adquirir un lock luego de haber liberado uno que había adquirido, y los locks de escritura sólo pueden ser liberados después de haber commiteado la transacción. (2PL Estricto)
-5.  Métodos basados en timestamps.
+5.  Métodos basados en timestamps
+![[Pasted image 20241020172924.png]]
+
+
+S2PL y R2PL garantizan que todo solapamiento sea no sólo serializable, sino también recuperable, y garantiza además que no se producirán cascadas de rollbacks al deshacer una transacción. Pero no evitan los interbloqueos, por lo que se combinan con 2PL conservador o por marcas de tiempo.
 
 Hay que tener cuidado porque siempre se puede generar [[Scheduling#Starvation|starvation]] 
 ## Control por timestamp 

@@ -10,7 +10,7 @@ Padron: 108088
 -  POST: /api/v1/user/registers
 - BODY: 
 ```json
-  {
+  {[[TP1 API REST]]
   "email": "email@example.com",
   "password": "password123",
   "first_name": "John",

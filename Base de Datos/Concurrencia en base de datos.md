@@ -136,3 +136,4 @@ SIEMPRE SE EVITA LA ESCRITURA SUCIA
 
 
 # Recuperabilidad 
+Un solapamiento es recuperable si y sólo si ninguna transacción Ti realiza el commit hasta tanto todas las transacciones que escribieron datos antes de que Ti los leyera hayan commiteado.

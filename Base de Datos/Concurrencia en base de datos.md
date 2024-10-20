@@ -143,7 +143,7 @@ SIEMPRE SE EVITA LA ESCRITURA SUCIA
 
 aca no puedo updatear pero si puedo METER UN DATO nuevo![[Pasted image 20241020174511.png]]
 
-En serializable no puedo hacer nada en T1 porque t0 tien bloqueados todos los datos.
+En serializable no puedo hacer nada en T1 porque t0 tien bloqueados todos los datos. Esto me puede terminar bloqueando todos los datos 
 
 ### Phantom Reads 
 ![[Pasted image 20241020174307.png]]

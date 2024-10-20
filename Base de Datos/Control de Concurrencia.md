@@ -34,7 +34,9 @@ Definir un timeout para la adquisición del Lock(X), después del cual se aborta
 #### Prevencion de deadlock 
 1. Que cada [[transacción]] adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). (2PL Conservador)
 2. Definir un [[ordenamiento]] de los recursos, y obligar a que luego todas las [[Transacción|transacciones]] respeten dicho [[ordenamiento]] en la adquisición de locks. 
-3.  Métodos basados en timestamps.
+3. Los locks solo se pueden liberar despues de hacer commit (2PL riguroso)
+4. Una transacción no puede adquirir un lock luego de haber liberado uno que había adquirido, y los locks de escritura sólo pueden ser liberados después de haber commiteado la transacción. (2PL E)
+5.  Métodos basados en timestamps.
 
 Hay que tener cuidado porque siempre se puede generar [[Scheduling#Starvation|starvation]] 
 ## Control por timestamp 

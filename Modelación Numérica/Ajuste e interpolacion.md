@@ -25,3 +25,6 @@ La idea seria interpolar sin tener que hacer un sistema de ecuaciones
 
 
 ## Metodo de Lagrange 
+
+Tengo dos polinomios de grado 1. $\delta_{0} \ y \ \delta_{1}$
+delta0 vale 1 en x_0 y delta1 vale 1 en :

@@ -70,3 +70,7 @@ Pero es mucho lio, para eso uso
 $$f[]x_{0},x_{1},x_{2}, \dots, x_{m}]= \frac{f^{m}(x)}{m!}$$
 
 EJ: $f[x_{0}, x_{0} ]= f'(x_{0}), \ f[x_{0},x_{0},x_{0}]= \frac{f''(x_{0})}{2!}$
+
+
+
+## Te

@@ -12,7 +12,7 @@ ver [[Sistemas Operativos/Concurrencia#Locks|locks]]
 LoS [[Sistemas de Gestion de Bases de Datos|SGBD]] implementan dos tipos de locks: 
 -  De escritura (exclusivos)
 - De lectura (no exclusivos)
-Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
+Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases. (2 Phase Lock -2PL)
 1. Fase de adquisicion 
 2. Fase de liberacion 
 ![[Pasted image 20241020171956.png]]
@@ -32,7 +32,8 @@ Definir un timeout para la adquisición del Lock(X), después del cual se aborta
 
 
 #### Prevencion de deadlock 
-Que cada [[transacción]] adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). 2 Definir un [[ordenamiento]] de los recursos, y obligar a que luego todas las [[Transacción|transacciones]] respeten dicho [[ordenamiento]] en la adquisición de locks. 3 Métodos basados en timestamps.
+1. Que cada [[transacción]] adquiera todos los locks que necesita antes de comenzar su primera instrucción, y en forma simultánea. (Lock(X1, X2, ...Xn)). ("PL Conservador)
+2. Definir un [[ordenamiento]] de los recursos, y obligar a que luego todas las [[Transacción|transacciones]] respeten dicho [[ordenamiento]] en la adquisición de locks. 3 Métodos basados en timestamps.
 
 Hay que tener cuidado porque siempre se puede generar [[Scheduling#Starvation|starvation]] 
 ## Control por timestamp 

@@ -42,4 +42,4 @@ $$\delta_{1}(x)= \frac{x-x_{0}}{x_{1}-x_{0}}$$
 
 
 ### Grado 2
-![[Pasted image 20241020202144.png]]$$p_{1}(x_{0})= f(x_{0})\delta_{0}(x_{0})+f(x_{1})\delta_{1}(x_{0})$$
+![[Pasted image 20241020202144.png]]$$p_{2}(x)= f(x_{0})\delta^2_{0}(x)+f(x_{1})\delta^2_{1}(x)+f(x_{1})\delta^2_{1}(x_{0})$$

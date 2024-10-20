@@ -51,4 +51,5 @@ $$\delta^2_{1}= \frac{(x-x_{0})(x-x_{1})}{(x_{2}-x_{0})(x_{2}-x_{1})}$$
 
 ## metodo de interpolacion de Newton 
 
-$\phi_{0}(x)=1, \phi_{1}(x)=(x-x_{0}), \ \phi_{2}=(x-x_{0})(x-)$
+$\phi_{0}(x)=1, \phi_{1}(x)=(x-x_{0}), \ \phi_{2}=(x-x_{0})(x-x_{1})$
+

@@ -73,4 +73,4 @@ EJ: $f[x_{0}, x_{0} ]= f'(x_{0}), \ f[x_{0},x_{0},x_{0}]= \frac{f''(x_{0})}{2!}$
 
 
 
-## Te
+## Teorema error interpolacion 

@@ -60,3 +60,7 @@ $$p_{2}(x_{0})= c_{0}=f(x_{0})$$
 $$p_{2}(x_{1})= c_{0}+c_{1}(x-x_{0}) \to c_{1}= \frac {f(x_{1})-f(x_{0})}{(x_{1}-x_{0})}=\frac {f(x_{1})-c_{0}}{(x_{1}-x_{0})}$$
 y asi despejo c2
 
+Pero es mucho lio, para eso uso 
+
+### Tabla de diferencia divididas 
+![[Pasted image 20241020204133.png]]

@@ -141,6 +141,10 @@ SIEMPRE SE EVITA LA ESCRITURA SUCIA
 ![[Pasted image 20241020174240.png]]
 
 
+aca no puedo updatear pero si puedo METER UN DATO nuevo![[Pasted image 20241020174511.png]]
+
+En serializable no puedo hacer nada
+
 ### Phantom Reads 
 ![[Pasted image 20241020174307.png]]
 # Recuperabilidad 

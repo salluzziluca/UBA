@@ -146,4 +146,5 @@ se guardan en el log
 Begin(T)
 Write(T, X, Xold, Xnew)
 Read(T, X)
-Commit()
+Commit(T)
+Abort(T)

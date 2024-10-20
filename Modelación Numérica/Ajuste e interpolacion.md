@@ -25,7 +25,7 @@ La idea seria interpolar sin tener que hacer un sistema de ecuaciones
 
 
 ## Metodo de Lagrange 
-
+### Grado 1
 Tengo dos polinomios de grado 1. $\delta_{0} \ y \ \delta_{1}$
 delta0 vale 1 en x_0 y delta1 vale 1 en x_1
 ![[Pasted image 20241020201312.png]]
@@ -38,4 +38,8 @@ Si lo evaluo en x1 se me anula la parte de x0 (ya que $\delta_{0}(x_{1})=0$)
 
 
 $$\delta_{0}(x)=\frac{x-x_{1}}{x_{0}-x_{1}}$$
-$$\delta_{1}(x)= \frac{x-x_{0}}{x_{1}-x_{0}}$
+$$\delta_{1}(x)= \frac{x-x_{0}}{x_{1}-x_{0}}$$
+
+
+### Grado 2
+![[Pasted image 20241020202144.png]]$$p_{1}(x_{0})= f(x_{0})\delta_{0}(x_{0})+f(x_{1})\delta_{1}(x_{0})$$

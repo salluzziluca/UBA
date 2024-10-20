@@ -38,7 +38,7 @@ La ejecución de una [[transacción]] deberá cumplir con las propiedades ACID
 **C**onsistnecia: cad ejecución debe preservar la consistencia de datos
 a**I**slamiento: **cuando ejecuto varias [[Transacción|transacciones]] concurrentemente. Deberia obtener el mismo resultado que si ejecuto primero una y despues la otra. La ejecucion concurrente debe ser equivalente a ALGUNA ejecucion serial**
 
-**D**urabilidad: Una vez que el [[Sistemas de Gestion de Bases de Datos|SGBD]] informa que la transaction se completo, esta se debe persistir. No puede el [[Sistemas de Gestion de Bases de Datos|SGBD]] decir: esto termino!! y que no quede guardada
+**D**urabilidad: Una vez que el [[Sistemas de Gestion de Bases de Datos|SGBD]] informa que la transaction se completo (commit), esta se debe persistir. No puede el [[Sistemas de Gestion de Bases de Datos|SGBD]] decir: esto termino!! y que no quede guardada
 
 Se disponen de mecanismos de recuperación para deshacer rehacer [[Transacción|transacciones]] en caso de fallas (todo o nada)
 

@@ -31,4 +31,4 @@ delta0 vale 1 en x_0 y delta1 vale 1 en x_1
 ![[Pasted image 20241020201312.png]]
 
 el polinomio de grado 1 se construye tal que: 
-$$p_{1}(x_{0})$$
+$$p_{1}(x_{0})= f(x_{0})\delta_{0}(x_{0})+f(x_{1})\delta_{1}(x_{0})$$

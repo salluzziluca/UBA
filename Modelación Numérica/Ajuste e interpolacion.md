@@ -16,4 +16,6 @@ Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
 
 
 # Interpolacion segun vandermonde 
+
+X evaluado en el polino
 ![[Pasted image 20241008135126.png]]

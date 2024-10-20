@@ -18,4 +18,4 @@ Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
 # Interpolacion segun vandermonde 
 
 El polinomio evaluado en x_i es igual que la funcion evaluada en x_i
-![[Pasted image 20241008135126.png]]
+![[Pasted image 20241008135126.png]]el determinante de A es distinto de 0 si los x

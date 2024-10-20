@@ -37,4 +37,5 @@ si lo evaluo en $x_{0}$ (caso de arriba) se me anula la parte de x_1 (ya que $\d
 Si lo evaluo en x1 se me anula la parte de x0 (ya que $\delta_{0}(x_{1})=0$)
 
 
-$$\delta_{0}=$$
+$$\delta_{0}(x)=\frac{x-x_{1}}{x_{0}-x_{1}}$$
+$$\delta_{1}(x)= \frac{x-x_{0}}{x_{1}-x_{0}}$

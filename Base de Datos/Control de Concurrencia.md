@@ -15,6 +15,8 @@ LoS [[Sistemas de Gestion de Bases de Datos|SGBD]] implementan dos tipos de lock
 Solo con locks no alcanza. Se utiliza el protocolo de lock de dos fases.
 1. Fase de adquisicion 
 2. Fase de liberacion 
+![[Pasted image 20241020171956.png]]
+
 
 Si necesito A y B puedo adquirir A, hacer lo que tengo que hacer, Adquiri B, liberar A al toque y al final liberar B.
 

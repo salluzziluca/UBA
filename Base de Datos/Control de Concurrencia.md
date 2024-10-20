@@ -27,6 +27,7 @@ Puedo tener [[Parcial#Deadlock|deadlock]] o un livelock
 
 Analizar el [[Grafos|grafo]] de alocación de recursos: un [[Grafos|grafo]] dirigido que posee a las [[Transacción|transacciones]] y los recursos como nodos, y en el cual se coloca un arco de una [[transacción]] a un recurso cada vez que una [[transacción]] espera por un recurso, y un arco de un recurso a una [[transacción]] cada vez que la [[transacción]] posee el lock de dicho recurso. Cuando se detecta un ciclo en este [[Grafos|grafo]], se aborta (rollback) una de las [[Transacción|transacciones]] involucradas. El concepto es muy similar al del [[Grafos|grafo]] de precedencias para un solapamiento.
 
+![[Pasted image 20241020172125.png]]
 Definir un timeout para la adquisición del Lock(X), después del cual se aborta la [[transacción]].
 
 

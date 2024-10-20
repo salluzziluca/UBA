@@ -140,4 +140,10 @@ Un solapamiento es recuperable si y sólo si ninguna transacción Ti realiza el 
 
 ![[Pasted image 20241020173324.png]]
 
-si yo tengo un log se que cosas p
+si yo tengo un log se que cosas puedo deshacer
+
+se guardan en el log
+Begin(T)
+Write(T, X, Xold, Xnew)
+Read(T, X)
+Commit()

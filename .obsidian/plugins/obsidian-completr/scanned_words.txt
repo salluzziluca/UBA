@@ -1773,6 +1773,7 @@ decrementando
 deadlocks
 detecta
 distinguirlas
+deshechos
 gestion
 gran
 guarda
@@ -3099,6 +3100,8 @@ sched
 suyo
 spanshot
 simultaneo
+simultanea
+slamiento
 par
 por
 punto
@@ -3701,6 +3704,7 @@ phtread
 porcion
 proridades
 prinmero
+preservar
 la
 las
 le
@@ -5322,6 +5326,7 @@ update
 unrepeteale
 usaba
 utilizaba
+urabilidad
 System
 Son
 Source
@@ -6915,6 +6920,7 @@ referida
 respeten
 readTS
 repercutan
+recuperaci
 operacion
 orden
 operaciones
@@ -7186,6 +7192,8 @@ ocupada
 ofrecer
 obligar
 obliga
+opci
+onsistnecia
 nombre
 nuevo
 nica
@@ -7440,6 +7448,8 @@ neas
 necesitarse
 necesitaba
 nea
+ndolas
+nes
 via
 vuelve
 viven
@@ -8009,6 +8019,7 @@ Analizar
 ABORTA
 Almacenamiento
 Asegurar
+Anomal
 Programming
 Procesos
 Partes
@@ -9652,6 +9663,10 @@ timestamps
 transaciion
 too
 transaccional
+tomicidad
+transaction
+transaccionales
+terminado
 inico
 interna
 infro
@@ -10117,6 +10132,7 @@ inodo
 inodos
 identity
 involucradas
+informa
 fijo
 file
 fork

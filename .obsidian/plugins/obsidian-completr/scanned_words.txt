@@ -1217,6 +1217,7 @@ cvlasses
 coloca
 comenzar
 commiteo
+consulta
 de
 dispositivos
 del
@@ -2020,6 +2021,7 @@ gane
 garantizar
 garantizamos
 gana
+gestiona
 especifico
 entra
 en
@@ -2580,6 +2582,7 @@ exclusivos
 esot
 ejecutandose
 ejecutados
+efiicientes
 servicios
 son
 su
@@ -3093,6 +3096,7 @@ slices
 sched
 suyo
 spanshot
+simultaneo
 par
 por
 punto
@@ -4623,6 +4627,7 @@ asigno
 aparezcan
 acuerdo
 aislamiento
+autorizados
 hardware
 heap
 hay
@@ -5603,6 +5608,9 @@ Spinlock
 Sleeplock
 Scheduler
 SUCIA
+SGBDD
+SGBDs
+Soportre
 Calls
 Cmabia
 CPU
@@ -5984,6 +5992,7 @@ Cad
 Completely
 CFS
 CPS
+Concurrencia
 Es
 El
 Estos
@@ -6902,6 +6911,7 @@ rehizo
 referida
 respeten
 readTS
+repercutan
 operacion
 orden
 operaciones
@@ -7994,6 +8004,8 @@ Adem
 Adquiri
 Analizar
 ABORTA
+Almacenamiento
+Asegurar
 Programming
 Procesos
 Partes
@@ -8325,6 +8337,7 @@ PROPIETARIO
 Progress
 Prioridad
 Prevencion
+Permitir
 Interface
 ID
 Instructions
@@ -8609,6 +8622,8 @@ Interprocess
 Implementaciones
 Inodos
 Ingo
+Independencia
+Integridad
 Un
 UNIX
 UBA
@@ -9268,6 +9283,7 @@ monton
 mutua
 marcaban
 mayot
+manipulaci
 tien
 tiene
 todos
@@ -9632,6 +9648,7 @@ timeout
 timestamps
 transaciion
 too
+transaccional
 inico
 interna
 infro
@@ -12047,6 +12064,7 @@ RTi
 Race
 Runtime
 RTj
+Recuperaci
 bien
 by
 be
@@ -12957,6 +12975,7 @@ Organizaci
 ORDER
 Observar
 Optimi
+Ofrecer
 ya
 yo
 yM

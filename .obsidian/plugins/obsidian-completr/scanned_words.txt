@@ -1232,6 +1232,9 @@ caen
 centro
 cer
 cuidado
+cascadas
+combinan
+conservador
 de
 dispositivos
 del
@@ -2040,6 +2043,7 @@ graeo
 garantizar
 garantizamos
 gana
+garantizan
 especifico
 entra
 en
@@ -2600,6 +2604,7 @@ escribio
 evaluadar
 exclusivos
 esot
+evitan
 servicios
 son
 su
@@ -3742,6 +3747,7 @@ pesimista
 prinmero
 preservar
 pared
+producir
 la
 las
 le
@@ -4086,6 +4092,8 @@ loscks
 liberacion
 livelock
 late
+liberado
+liberados
 agnosticos
 apps
 al
@@ -4685,6 +4693,7 @@ asigno
 aparezcan
 acuerdo
 ancho
+adquirido
 hardware
 heap
 hay
@@ -4935,6 +4944,7 @@ hacerse
 hubiera
 har
 hecha
+hab
 que
 queda
 quien
@@ -6043,6 +6053,7 @@ Cotas
 Consideraremos
 Consistnecia
 Comienzo
+Conservador
 Es
 El
 Estos
@@ -6352,6 +6363,7 @@ Equivalencia
 EVITA
 ESCRITURA
 Entre
+Estricto
 kernel
 kt
 kU
@@ -6978,6 +6990,9 @@ readTS
 recuperaci
 rendijas
 ranuras
+riguroso
+recuperable
+rollbacks
 operacion
 orden
 operaciones
@@ -8418,6 +8433,7 @@ Patagua
 Ponemos
 Project
 Prevencion
+Phase
 Interface
 ID
 Instructions
@@ -9366,6 +9382,7 @@ materiales
 minima
 margen
 mayot
+marcas
 tien
 tiene
 todos
@@ -10205,6 +10222,7 @@ istruccion
 involucradas
 informa
 intesidad
+interbloqueos
 fijo
 file
 fork

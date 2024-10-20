@@ -17,5 +17,5 @@ Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
 
 # Interpolacion segun vandermonde 
 
-X evaluado en el polino
+El polinomio evaluado en x_i es igual que la funcion evaluada en x_i
 ![[Pasted image 20241008135126.png]]

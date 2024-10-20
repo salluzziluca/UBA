@@ -1772,6 +1772,7 @@ desplazaba
 decrementando
 deadlocks
 detecta
+distinguirlas
 gestion
 gran
 guarda
@@ -2583,6 +2584,7 @@ esot
 ejecutandose
 ejecutados
 efiicientes
+entidades
 servicios
 son
 su
@@ -6301,6 +6303,7 @@ Entre
 Equidad
 EVITA
 ESCRITURA
+Esos
 kernel
 kt
 kU

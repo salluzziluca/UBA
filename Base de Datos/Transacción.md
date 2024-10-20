@@ -16,9 +16,12 @@ Nombre | saldo
 ---------------------------------
 Alberto | 2.200
 UPDATE cuentas SET saldo = 8.000 WHERE cod_cli = 2564 ;
-COMMIT;
+COMMIT; --ACA SE TERMINA LA TRANSACCION
 SELECT nombre, saldo FROM cuentas WHERE cod_cli = 2564;
 Nombre | saldo
 ---------------------------------
 Alberto | 8.000
 ```
+
+
+```SQL 

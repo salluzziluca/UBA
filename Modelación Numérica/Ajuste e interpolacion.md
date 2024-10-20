@@ -67,4 +67,6 @@ Pero es mucho lio, para eso uso
 ![[Pasted image 20241020204133.png]]
 
 #### Relacion entre derivadas y diferencias divididas
-$$f(x_{0},x_{1},x_{2}, \dots)$$
+$$f(x_{0},x_{1},x_{2}, \dots, x_{m})= \frac{f^{m}(x)}{m!}$$
+
+EJ: $f[x_{0}, x_{0} ]= f'$

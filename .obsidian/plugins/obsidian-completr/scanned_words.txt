@@ -435,6 +435,7 @@ Les
 Lost
 LoS
 Lock
+Lagrange
 capa
 controlado
 cantidad
@@ -1235,6 +1236,7 @@ cuidado
 cascadas
 combinan
 conservador
+construye
 de
 dispositivos
 del
@@ -1790,6 +1792,9 @@ detecta
 deadlock
 deshechos
 difraccion
+determinante
+delta
+divididas
 gestion
 gran
 guarda
@@ -2605,6 +2610,8 @@ evaluadar
 exclusivos
 esot
 evitan
+evaluada
+evaluo
 servicios
 son
 su
@@ -4094,6 +4101,7 @@ livelock
 late
 liberado
 liberados
+lio
 agnosticos
 apps
 al
@@ -4694,6 +4702,7 @@ aparezcan
 acuerdo
 ancho
 adquirido
+anula
 hardware
 heap
 hay
@@ -10223,6 +10232,7 @@ involucradas
 informa
 intesidad
 interbloqueos
+interpolar
 fijo
 file
 fork
@@ -12889,6 +12899,7 @@ Vuetlas
 Vos
 Valle
 Vemos
+Vandermonde
 OPTIONS
 Operativos
 Orden

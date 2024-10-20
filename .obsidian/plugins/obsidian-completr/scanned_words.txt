@@ -4109,7 +4109,6 @@ anterior
 actualizado
 alguno
 accede
-aciertos
 arim
 arquitectura
 are
@@ -4623,6 +4622,7 @@ adquiera
 asigno
 aparezcan
 acuerdo
+aislamiento
 hardware
 heap
 hay
@@ -10616,6 +10616,7 @@ Ning
 Naturalmente
 Numero
 Necesito
+Niveles
 File
 For
 Funcion

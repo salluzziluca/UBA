@@ -48,3 +48,5 @@ $$\delta^2_{1}= \frac{(x-x_{0})(x-x_{2})}{(x_{1}-x_{0})(x_{1}-x_{2})}$$
 $$\delta^2_{1}= \frac{(x-x_{0})(x-x_{1})}{(x_{2}-x_{0})(x_{2}-x_{1})}$$
 
 ![[Pasted image 20241020202714.png]]
+
+## metodo de interpolacion de Newton 

@@ -79,4 +79,4 @@ EJ: $f[x_{0}, x_{0} ]= f'(x_{0}), \ f[x_{0},x_{0},x_{0}]= \frac{f''(x_{0})}{2!}$
 ## Fenomeno de Runge 
 ![[Pasted image 20241020210034.png]]
 
-Se descubre que efectuando la interpolacion de f(x) propuesta por Runge el grado del polinom
+Se descubre que efectuando la interpolacion de f(x) propuesta por Runge al aumentar el grado del polinomio interpolante el error de aproximacion disminuye en la zoan central pero aumenta fuertemente cerca los extremos del intervalo

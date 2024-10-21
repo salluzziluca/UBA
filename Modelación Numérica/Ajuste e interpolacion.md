@@ -82,4 +82,6 @@ EJ: $f[x_{0}, x_{0} ]= f'(x_{0}), \ f[x_{0},x_{0},x_{0}]= \frac{f''(x_{0})}{2!}$
 Se descubre que efectuando la interpolacion de f(x) propuesta por Runge al aumentar el grado del polinomio interpolante el error de aproximacion disminuye en la zoan central pero aumenta fuertemente cerca los extremos del intervalo
 
 
-## We
+## Weierstrass 
+$$em(f)= \min\mid\mid f-p_{n}(x)\mid\mid_{\infty}$$
+Weierstrass plantea que hay que usar

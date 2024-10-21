@@ -1219,15 +1219,12 @@ computo
 concurrentemente
 compartidos
 concrrentemente
-commiteado
-commitear
 conflictos
 conflcto
 conflicto
 compiten
 coloca
 comenzar
-commiteo
 consulta
 caen
 centro
@@ -2612,6 +2609,9 @@ esot
 evitan
 evaluada
 evaluo
+efectuando
+extremos
+equidistantes
 servicios
 son
 su
@@ -5144,6 +5144,7 @@ quizas
 qel
 querys
 quier
+qeu
 utilizados
 un
 una
@@ -6544,16 +6545,13 @@ kilometros
 kilo
 kilos
 kgr
-realice
 realicen
 resolve
 recommend
 replace
-reales
 remember
 ricas
 recta
-real
 reervada
 regs
 regstro
@@ -6576,7 +6574,6 @@ reacciones
 random
 refiere
 representa
-rea
 recargada
 rapida
 referenciado
@@ -6618,7 +6615,6 @@ referiremos
 repetiir
 recordar
 reduciendo
-realizo
 reacciona
 recibidos
 recibido
@@ -6629,7 +6625,6 @@ retornado
 reduccion
 refactorizar
 rTbSnKla
-realloc
 restricciones
 reservo
 runtime
@@ -6640,7 +6635,6 @@ recursos
 renunciado
 reduce
 recursivas
-realiza
 resolverlo
 recursivamente
 reescribir
@@ -6758,7 +6752,6 @@ rg
 rDi
 rm
 ricos
-reacion
 representados
 relacon
 referencial
@@ -6884,7 +6877,6 @@ rTZ
 rsO
 rES
 rwp
-rEa
 rHo
 rn
 rxM
@@ -6991,11 +6983,9 @@ rmuktiples
 recuperacion
 rehacer
 rollback
-read
 rdenes
 rden
 respeten
-readTS
 recuperaci
 rendijas
 ranuras
@@ -9392,6 +9382,8 @@ minima
 margen
 mayot
 marcas
+mejores
+minimce
 tien
 tiene
 todos
@@ -10233,6 +10225,7 @@ informa
 intesidad
 interbloqueos
 interpolar
+interpolante
 fijo
 file
 fork
@@ -10562,6 +10555,7 @@ falla
 fantasma
 franjas
 franja
+fuertemente
 Nombre
 Notas
 Not
@@ -11043,6 +11037,7 @@ Futbolista
 FNCB
 FROM
 Fase
+Fenomeno
 Descriptors
 Descriptor
 Devuelve
@@ -11908,6 +11903,7 @@ Tercer
 Tanque
 TeoAlgoSoft
 TLDR
+Teng
 Realiza
 REgistrys
 Rango
@@ -11917,7 +11913,6 @@ Referencias
 RAM
 RAMs
 ROM
-Read
 ROMs
 Recently
 Random
@@ -12191,6 +12186,7 @@ REF
 Red
 RTi
 RTj
+Runge
 bien
 by
 be
@@ -15548,6 +15544,7 @@ zqW
 zXiz
 zRV
 zHG
+zoan
 ÄB
 ÄG
 Äo

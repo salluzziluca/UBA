@@ -1234,6 +1234,8 @@ cascadas
 combinan
 conservador
 construye
+clasifican
+conveniencia
 de
 dispositivos
 del
@@ -1792,6 +1794,10 @@ difraccion
 determinante
 delta
 divididas
+diferencial
+despejar
+derivamos
+determinados
 gestion
 gran
 guarda
@@ -2612,6 +2618,11 @@ evaluo
 efectuando
 extremos
 equidistantes
+elevada
+ejemplos
+expl
+escuaciones
+esenciales
 servicios
 son
 su
@@ -3135,6 +3146,11 @@ simultanea
 slamiento
 solapadas
 serializables
+satisfaga
+sacamos
+separables
+sec
+separadas
 par
 por
 punto
@@ -3755,6 +3771,7 @@ prinmero
 preservar
 pared
 producir
+potencia
 la
 las
 le
@@ -4102,6 +4119,7 @@ late
 liberado
 liberados
 lio
+llevarse
 agnosticos
 apps
 al
@@ -4703,6 +4721,9 @@ acuerdo
 ancho
 adquirido
 anula
+adoptamos
+arbitrarias
+analizamos
 hardware
 heap
 hay
@@ -4954,6 +4975,8 @@ hubiera
 har
 hecha
 hab
+haay
+homogenea
 que
 queda
 quien
@@ -5680,6 +5703,9 @@ Simplex
 Serializar
 Serializabilidad
 SUCIA
+Segun
+Soluci
+Separables
 Calls
 Cmabia
 CPU
@@ -6374,6 +6400,9 @@ EVITA
 ESCRITURA
 Entre
 Estricto
+EDO
+Ecuaci
+EDOS
 kernel
 kt
 kU
@@ -6992,6 +7021,8 @@ ranuras
 riguroso
 recuperable
 rollbacks
+reemplazamos
+resolvemos
 operacion
 orden
 operaciones
@@ -7264,6 +7295,9 @@ opci
 onsistnecia
 oscuras
 ordenes
+ordenadas
+obteniendo
+ordinaria
 nombre
 nuevo
 nica
@@ -7523,6 +7557,7 @@ neas
 nea
 ndolas
 nes
+ndole
 via
 vuelve
 viven
@@ -7810,6 +7845,7 @@ vuelo
 vuelos
 valoida
 volviera
+vayamos
 Application
 API
 Asigna
@@ -8099,6 +8135,7 @@ Adquiri
 Analizar
 ABORTA
 Anomal
+Aplicaciones
 Programming
 Procesos
 Partes
@@ -8433,6 +8470,7 @@ Ponemos
 Project
 Prevencion
 Phase
+Pensamos
 Interface
 ID
 Instructions
@@ -9756,6 +9794,8 @@ tomicidad
 transaction
 transaccionales
 terminado
+tips
+terminos
 inico
 interna
 infro
@@ -10226,6 +10266,10 @@ intesidad
 interbloqueos
 interpolar
 interpolante
+intentamos
+igualamos
+involucra
+incluida
 fijo
 file
 fork
@@ -11354,6 +11398,7 @@ Durabilidad
 Despues
 Deteccion
 Definir
+Diferenciales
 Memoria
 Multivariada
 MORE
@@ -12187,6 +12232,7 @@ Red
 RTi
 RTj
 Runge
+Reemplazamos
 bien
 by
 be
@@ -14470,6 +14516,7 @@ HADB
 HCDB
 HAce
 Huffman
+Homog
 Jacobiano
 Job
 Jusitfique

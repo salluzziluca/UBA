@@ -84,4 +84,4 @@ Se descubre que efectuando la interpolacion de f(x) propuesta por Runge al aumen
 
 ## Weierstrass 
 $$Em(f)= \min\mid\mid f-p_{n}(x)\mid\mid_{\infty}$$
-Weierstrass plantea que hay que usar los mejores, no los equidistantes. Si usamos los equidistantes (como plantea Runge) aumenta el error. Teng qeu buscar el polinomio de grado n que minimce esa diferencia. Y ahi si se cumple que $\lim_{ n \to \infty }E_{n}(f)= 0$. Es decir, que mientras mas grande el grado menos 
+Weierstrass plantea que hay que usar los mejores, no los equidistantes. Si usamos los equidistantes (como plantea Runge) aumenta el error. Teng qeu buscar el polinomio de grado n que minimce esa diferencia. Y ahi si se cumple que $\lim_{ n \to \infty }E_{n}(f)= 0$. Es decir, que mientras mas grande el grado menor el error

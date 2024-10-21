@@ -2052,6 +2052,7 @@ garantizar
 garantizamos
 gana
 garantizan
+guardan
 especifico
 entra
 en
@@ -6090,6 +6091,7 @@ Consideraremos
 Consistnecia
 Comienzo
 Conservador
+Cajas
 Es
 El
 Estos

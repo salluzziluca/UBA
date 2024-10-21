@@ -1,6 +1,6 @@
   ## Solución de una ecuación diferencial ordinaria.
     
-Solución general (SG): si la EDO es de orden n, la SG es una solución que involucra n constantes arbitrarias esenciales.
+Solución general (SG): si la EDO es de orden n, la SG es una solución que involucra n [[constantes]] arbitrarias esenciales.
 Ej :    
 
 1. $y=1/3 x^3+C$ es SG de $y^′=x^2$, ya que si derivamos $y=1/3 x^3+C$ nos da $x^2$

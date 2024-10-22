@@ -60,3 +60,7 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 
 En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia haber guardado en disco) y asegurarse que todo lo de T2 esta guardado.
 ![[Pasted image 20241022204327.png]]
+
+
+# Checkpoints
+Para no tener que cargar el log de TODA la base de bdd que se creo en mar de ajo 94' usamos checkpoint

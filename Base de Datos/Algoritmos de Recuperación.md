@@ -28,7 +28,8 @@ El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]]
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.
 
-No guardo el item modificado, solo el registo de log.
+¿Ésto me obliga a guardar el ítem modificado en disco antes de commitear la transacción que lo modificó? 
+No, sólo el registro de log! De hecho, en el algoritmo REDO el ítem es actualizado en disco luego de commitear la transacción.
 
 El algoritmo debe commitear sin guardar en disco los items modificados. 
 Ante una falla posterior al commit, sera necesario hacer un REDO de todos los valores que la tranasccion habia asiganado a los items 

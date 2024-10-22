@@ -6,4 +6,4 @@ Definición: Un solapamiento es recuperable si y sólo si ninguna [[transacción
 Un [[Sistemas de Gestion de Bases de Datos|SGBD]] no deberia jamas permtir la edecucion de un solapamiento no recuperable 
 
 
-Si tengo dos transacciones $T_{i}$ y $T_{j}$ y T_i leyo un dato de T_j, si J rollbackea, 
+Si tengo dos transacciones $T_{i}$ y $T_{j}$ y T_i leyo un dato de T_j, si J rollbackea, hay que ir a T_i a cambiar eso tmb (y rezar porque no haya commiteado). Esto nos puede generar una cascada de rollback

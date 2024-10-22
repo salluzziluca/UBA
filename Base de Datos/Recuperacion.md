@@ -12,3 +12,6 @@ Antes de guardar un item modificado en el disco, se de escribir el regstro de lo
 
 ## Regla FLC 
 Antes de realizaar el commit el log debe ser volcado a disco
+
+
+![[Algoritmos de Recuperación]]

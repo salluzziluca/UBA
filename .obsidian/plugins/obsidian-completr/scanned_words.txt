@@ -4133,6 +4133,7 @@ lio
 llevarse
 leyera
 loq
+llevado
 agnosticos
 apps
 al
@@ -4740,6 +4741,8 @@ analizamos
 asegura
 ayudar
 asegurra
+acerca
+ahead
 hardware
 heap
 hay
@@ -7043,6 +7046,9 @@ resolvemos
 rollbackea
 rezar
 recuperabilidad
+reinica
+realizando
+realizaar
 operacion
 orden
 operaciones
@@ -7866,6 +7872,7 @@ vuelos
 valoida
 volviera
 vayamos
+volcado
 Application
 API
 Asigna
@@ -10290,6 +10297,7 @@ intentamos
 igualamos
 involucra
 incluida
+inmediato
 fijo
 file
 fork
@@ -11102,6 +11110,7 @@ FNCB
 FROM
 Fase
 Fenomeno
+FLC
 Descriptors
 Descriptor
 Devuelve
@@ -11419,6 +11428,7 @@ Despues
 Deteccion
 Definir
 Diferenciales
+Disco
 Memoria
 Multivariada
 MORE
@@ -14143,6 +14153,7 @@ Basicas
 BCGD
 BETWEEN
 BFS
+Buffer
 XY
 Xg
 XQG
@@ -15289,6 +15300,7 @@ WHERE
 WTj
 WTi
 Weierstrass
+WAL
 ZZZPU
 ZX
 ZQ

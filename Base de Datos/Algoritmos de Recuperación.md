@@ -25,7 +25,10 @@ El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]]
 ![[Pasted image 20241022195555.png]]
 
 ### Checkpoint 
-[[Checkpoints#Checkpoints inactivos|checkpoint]]
+El procedimiento de [[Checkpoints#Checkpoints inactivos|checkpoint inactivo]] se llevaria a cabo de esta forma: 
+dejo de acpetar nuevas transacciones 
+espero a que todas hagan commit 
+escribo CKPT en el log y vuelco a disco
 ## REDO (deferred update)
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.

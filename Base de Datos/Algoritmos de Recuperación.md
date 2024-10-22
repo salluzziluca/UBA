@@ -59,3 +59,4 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 ![[Pasted image 20241022204043.png]]
 
 En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia haber guardado en disco) y asegurarse que todo lo de T2 esta guardado.
+![[Pasted image 20241022204327.png]]

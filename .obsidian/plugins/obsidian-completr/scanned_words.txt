@@ -1242,6 +1242,9 @@ commiteada
 cumplimentado
 cancelacion
 caida
+continuo
+cuadratica
+cifra
 de
 dispositivos
 del
@@ -1807,6 +1810,8 @@ determinados
 deba
 deshecha
 durabilidad
+dicretizacion
+discreto
 gestion
 gran
 guarda
@@ -2641,6 +2646,7 @@ evitamos
 estricto
 euler
 externas
+eventualmente
 servicios
 son
 su
@@ -3795,6 +3801,8 @@ producir
 potencia
 permtir
 provienen
+poropagan
+propagar
 la
 las
 le
@@ -4146,6 +4154,7 @@ llevarse
 leyera
 loq
 llevado
+linealizando
 agnosticos
 apps
 al
@@ -4757,6 +4766,7 @@ acerca
 ahead
 asumen
 aseguran
+agregan
 hardware
 heap
 hay
@@ -5740,6 +5750,7 @@ SUCIA
 Segun
 Soluci
 Separables
+Sabiendo
 Calls
 Cmabia
 CPU
@@ -7074,6 +7085,7 @@ reinicia
 restaurar
 reinicio
 rigidos
+restar
 operacion
 orden
 operaciones
@@ -7610,6 +7622,7 @@ nea
 ndolas
 nes
 ndole
+numericos
 via
 vuelve
 viven
@@ -8812,6 +8825,7 @@ Intentando
 Interpolacion
 Implementar
 Interferencia
+Inherentes
 Un
 UNIX
 UBA
@@ -9480,6 +9494,7 @@ mayot
 marcas
 mejores
 minimce
+mediciones
 tien
 tiene
 todos
@@ -9857,6 +9872,7 @@ terminos
 tres
 terremoto
 tension
+transformo
 inico
 interna
 infro
@@ -10334,6 +10350,7 @@ incluida
 inmediato
 inmmediate
 idempotente
+interrumpo
 fijo
 file
 fork
@@ -10666,6 +10683,7 @@ franja
 fuertemente
 flushed
 fault
+fisicas
 Nombre
 Notas
 Not
@@ -11151,6 +11169,8 @@ Fenomeno
 FLC
 Fallas
 Fuego
+Fuentes
+Formula
 Descriptors
 Descriptor
 Devuelve
@@ -11470,6 +11490,7 @@ Definir
 Diferenciales
 Disco
 Divison
+Discretizacion
 Memoria
 Multivariada
 MORE
@@ -12306,6 +12327,7 @@ Runge
 Reemplazamos
 REDO
 Reinicio
+Redondeo
 bien
 by
 be

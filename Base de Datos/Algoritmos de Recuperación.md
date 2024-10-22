@@ -10,14 +10,16 @@ En los 3 se asumen que los solapamientos son recuperables y que evitan rollbacks
 4. Cuando Ti hace commit, se escribe (COMMIT, Ti) en el log y se hace flush del log a disco (FLC).
 
 Los tres primeros puntos aseguran que todas las modificaciones realizadas sean escritas a disco antes de que la transacción termine. 
-De esta forma, una vez cumplimentado el paso 4, ya nunca será necesario hacer REDO. Si la transacción falla antes ó durante el punto 4, será deshecha (UNDO) al reiniciar. 
+De esta forma, una vez cumplimentado el paso 4, ya nunca será necesario hacer REDO. Si la transacción [[Fallas|falla]] antes ó durante el punto 4, será deshecha (UNDO) al reiniciar. 
 Se considera que la transacción commiteó cuando el registro (COMMIT, Ti) queda escrito en el log, en disco
 
 
 ### Reinicio
 Cuando el sistema se reinicia 
 
-1. Se recorre el log de adelante hacia atrás, y por cada transacción de la que no se encuentra el COMMIT se aplica cada uno de los WRITE para restaurar el valor anterior a la misma en disco. 
-2.  Luego, por cada transacción de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.
+1. Se recorre el log de adelante hacia atrás, y por cada [[transacción]] de la que no se encuentra el COMMIT se aplica cada uno de los WRITE para restaurar el valor anterior a la misma en disco. 
+2.  Luego, por cada [[transacción]] de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.
 
-El reinicio es idempotente. Si se ejecuta varias veces (hay una falla en el reinicio) no pasa nada
+El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]] en el reinicio) no pasa nada
+
+![[Pasted image 20241022195555.png]]

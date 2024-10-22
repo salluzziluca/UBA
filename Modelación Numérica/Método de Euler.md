@@ -3,3 +3,5 @@ $$x_{n}=x_{0}+nh $$
 Error_{global} = 
 
 ![[Pasted image 20241022114025.png]]
+
+## Estabilidad del metodo de euler 

@@ -51,6 +51,10 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 3. Cuando Ti hace commit, se escribe (COMMIT, Ti) en el log y se hace flush del log a disco. 
 4. Los ítems modificados pueden ser guardados en disco antes o después de hacer commit
 
+### Reinicio 
+1. Se recorre el log de adelante hacia atrás, y por cada transacción de la que no se encuentra el COMMIT se aplica cada uno de los WRITE para restaurar el valor anterior a la misma en disco. 
+2. Luego se recorre de atrás hacia adelante volviendo a aplicar cada uno de los WRITE de las transacciones que commitearon, para asegurar que quede asignado el nuevo valor de cada ítem. 
+3. Finalmente, por cada transacción de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.
 
 ![[Pasted image 20241022204043.png]]
 

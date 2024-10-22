@@ -36,5 +36,6 @@ Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de lo
 
 
 ### reinicio 
-Se analiza cuales transacciones commitaron 
+1. Se analiza cuales transacciones commitaron 
 2. Se reocrre el log de atras para adelante volviendo a aplicar el wirte de las transacciones que ya commitearon , para asegurar que quede actualizado el valor de cada ítem.
+3. Luego, por cada transacción de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.

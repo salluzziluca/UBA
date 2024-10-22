@@ -12,3 +12,10 @@ Si tengo dos transacciones $T_{i}$ y $T_{j}$ y T_i leyo un dato de T_j, si J rol
 Que un solapamiento sea recuperable, no implica que no sea necesario tener que hacer rollbacks en cascada de transacciones que aún no commitearon.
 
 Para evitar rollbacks de cascada loq ue conviene hacer es no leer valores que todavia no fueron commiteado. SI evitamos rollbacks en cascada esa transaccion se vuelve recuperable
+
+
+
+![[Pasted image 20241022192842.png]]
+
+
+Algunos locks t

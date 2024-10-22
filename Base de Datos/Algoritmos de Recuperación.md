@@ -40,3 +40,7 @@ Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de lo
 1. Se analiza cuales transacciones commitaron 
 2. Se reocrre el log de atras para adelante volviendo a aplicar el wirte de las transacciones que ya commitearon , para asegurar que quede actualizado el valor de cada ítem.
 3. Luego, por cada transacción de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.
+
+
+## Algoritmo UNDO/REDO 
+Buscamos evitar que una transaccion que se grabo a disco no haya commiteado 

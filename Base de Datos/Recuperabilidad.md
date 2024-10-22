@@ -18,4 +18,5 @@ Para evitar rollbacks de cascada loq ue conviene hacer es no leer valores que to
 ![[Pasted image 20241022192842.png]]
 
 
-Algunos locks t
+Algunos locks tambien pueden ayudar a a asegurra recuperabilidad
+El protocolo 2PL estricto ayuda

@@ -24,6 +24,8 @@ El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]]
 
 ![[Pasted image 20241022195555.png]]
 
+### Checkpoint 
+[[Checkpoints#Checkpoints inactivos|checkpoint]]
 ## REDO (deferred update)
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.
@@ -62,12 +64,4 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 ![[Pasted image 20241022204327.png]]
 
 
-# Checkpoints
-Para no tener que cargar el log de TODA la base de bdd que se creo en mar de ajo 94' usamos checkpoints.
-Un punto de control (checkpoint) es una registro especial en el archivo de log que indica que indica que todos los ítems modificados hasta ese punto han sido almacenados en disco.
-
-## Checkpoints inactivos 
-La creación de un checkpoint inactivo en el log implica la suspensión momentánea de todas las transacciones para hacer el volcado (flush) de todos los buffers en memoria al disco.
-
-## Checkpoints activos 
-Para aminorar la pérdida de tiempo de ejecución en el volcado a disco puede utilizarse una técnica conocida como checkpointing activo (non-quiescent o fuzzy checkpointing), que utiliza dos tipos de registros de checkpoint: (BEGIN CKPT, tact) y(END CKPT), en donde tact es un listado de todas las transacciones que se encuentran activas (es decir, que aún no hicieron commit). El procedimiento varía según cada algoritmo de recuperación.
+[[Checkpoints]]

@@ -1238,6 +1238,10 @@ clasifican
 conveniencia
 commite
 commitearon
+commiteada
+cumplimentado
+cancelacion
+caida
 de
 dispositivos
 del
@@ -2058,6 +2062,8 @@ garantizamos
 gana
 garantizan
 guardan
+global
+guardado
 especifico
 entra
 en
@@ -2633,6 +2639,8 @@ escribieron
 edecucion
 evitamos
 estricto
+euler
+externas
 servicios
 son
 su
@@ -3161,6 +3169,9 @@ sacamos
 separables
 sec
 separadas
+solapamientos
+salvaguardar
+segmentation
 par
 por
 punto
@@ -3783,6 +3794,7 @@ pared
 producir
 potencia
 permtir
+provienen
 la
 las
 le
@@ -4743,6 +4755,8 @@ ayudar
 asegurra
 acerca
 ahead
+asumen
+aseguran
 hardware
 heap
 hay
@@ -4996,6 +5010,7 @@ hecha
 hab
 haay
 homogenea
+hardarwe
 que
 queda
 quien
@@ -6110,6 +6125,7 @@ Consistnecia
 Comienzo
 Conservador
 Cajas
+COMMIT
 Es
 El
 Estos
@@ -6423,6 +6439,7 @@ Estricto
 EDO
 Ecuaci
 EDOS
+Estabilidad
 kernel
 kt
 kU
@@ -7049,6 +7066,14 @@ recuperabilidad
 reinica
 realizando
 realizaar
+recuperables
+reemplazando
+realizadas
+reiniciar
+reinicia
+restaurar
+reinicio
+rigidos
 operacion
 orden
 operaciones
@@ -7324,6 +7349,7 @@ ordenes
 ordenadas
 obteniendo
 ordinaria
+old
 nombre
 nuevo
 nica
@@ -7873,6 +7899,7 @@ valoida
 volviera
 vayamos
 volcado
+vold
 Application
 API
 Asigna
@@ -8163,6 +8190,8 @@ Analizar
 ABORTA
 Anomal
 Aplicaciones
+ABORT
+Aquellas
 Programming
 Procesos
 Partes
@@ -8498,6 +8527,7 @@ Project
 Prevencion
 Phase
 Pensamos
+Propviienen
 Interface
 ID
 Instructions
@@ -9006,6 +9036,7 @@ UGX
 Unchained
 Union
 Utilizaremos
+UNDO
 modo
 mode
 menso
@@ -9823,6 +9854,9 @@ transaccionales
 terminado
 tips
 terminos
+tres
+terremoto
+tension
 inico
 interna
 infro
@@ -10298,6 +10332,8 @@ igualamos
 involucra
 incluida
 inmediato
+inmmediate
+idempotente
 fijo
 file
 fork
@@ -10628,6 +10664,8 @@ fantasma
 franjas
 franja
 fuertemente
+flushed
+fault
 Nombre
 Notas
 Not
@@ -11111,6 +11149,8 @@ FROM
 Fase
 Fenomeno
 FLC
+Fallas
+Fuego
 Descriptors
 Descriptor
 Devuelve
@@ -11429,6 +11469,7 @@ Deteccion
 Definir
 Diferenciales
 Disco
+Divison
 Memoria
 Multivariada
 MORE
@@ -12263,6 +12304,8 @@ RTi
 RTj
 Runge
 Reemplazamos
+REDO
+Reinicio
 bien
 by
 be
@@ -12569,6 +12612,7 @@ begin
 bloquear
 basados
 brillantes
+backup
 will
 words
 with
@@ -15301,6 +15345,7 @@ WTj
 WTi
 Weierstrass
 WAL
+WRITE
 ZZZPU
 ZX
 ZQ

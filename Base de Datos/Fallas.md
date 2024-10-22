@@ -1,12 +1,16 @@
+---
+aliases:
+  - falla
+---
 ## Fallas de sistema 
-Errores de sofwtare o hardarwe. Divison por cero, segmentation fault, fallas de memoria
+[[Errores]] de sofwtare o hardarwe. Divison por cero, segmentation fault, fallas de [[memoria]]
 
 ## Fallas de aplicacion 
-Propviienen de la aplicacion que utiliza la bdd. Por ejemplo, cancelacion o vuelta de atras de una transaccion 
+Propviienen de la aplicacion que utiliza la [[Bases de Datos|bdd]]. Por ejemplo, cancelacion o vuelta de atras de una transaccion 
 
 ## Fallas de dispositivos 
 
-Aquellas que provienen de un daño fisico com disco rigidos o memoria 
+Aquellas que provienen de un daño fisico com disco rigidos o [[memoria]] 
 
 
 ## Fallas naturales externas 

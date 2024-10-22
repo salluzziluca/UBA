@@ -19,3 +19,5 @@ Cuando el sistema se reinicia
 
 1. Se recorre el log de adelante hacia atrás, y por cada transacción de la que no se encuentra el COMMIT se aplica cada uno de los WRITE para restaurar el valor anterior a la misma en disco. 
 2.  Luego, por cada transacción de la que no se encontró el COMMIT se escribe (ABORT, T) en el log y se hace flush del log a disco.
+
+El reinicio es idempotente. Si se ejecuta varias veces (hay una falla en el reinicio) no pasa nada

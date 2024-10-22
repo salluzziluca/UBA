@@ -1,0 +1,1 @@
+Si nos encontramos ante una [[Fallas|falla]] del tipo 1 o 2, e

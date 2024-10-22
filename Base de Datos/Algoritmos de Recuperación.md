@@ -29,6 +29,8 @@ El procedimiento de [[Checkpoints#Checkpoints inactivos|checkpoint inactivo]] se
 dejo de acpetar nuevas transacciones 
 espero a que todas hagan commit 
 escribo CKPT en el log y vuelco a disco
+
+En cambio, para el [[Checkpoints]]
 ## REDO (deferred update)
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.

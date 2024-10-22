@@ -1236,6 +1236,8 @@ conservador
 construye
 clasifican
 conveniencia
+commite
+commitearon
 de
 dispositivos
 del
@@ -1798,6 +1800,9 @@ diferencial
 despejar
 derivamos
 determinados
+deba
+deshecha
+durabilidad
 gestion
 gran
 guarda
@@ -2624,6 +2629,10 @@ ejemplos
 expl
 escuaciones
 esenciales
+escribieron
+edecucion
+evitamos
+estricto
 servicios
 son
 su
@@ -3773,6 +3782,7 @@ preservar
 pared
 producir
 potencia
+permtir
 la
 las
 le
@@ -4121,6 +4131,8 @@ liberado
 liberados
 lio
 llevarse
+leyera
+loq
 agnosticos
 apps
 al
@@ -4725,6 +4737,9 @@ anula
 adoptamos
 arbitrarias
 analizamos
+asegura
+ayudar
+asegurra
 hardware
 heap
 hay
@@ -7025,6 +7040,9 @@ recuperable
 rollbacks
 reemplazamos
 resolvemos
+rollbackea
+rezar
+recuperabilidad
 operacion
 orden
 operaciones
@@ -13486,6 +13504,7 @@ jSPP
 jomE
 jijo
 joven
+jamas
 Ya
 Yourself
 YAGNI

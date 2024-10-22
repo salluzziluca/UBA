@@ -31,4 +31,10 @@ El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]]
 No guardo el item modificado, solo el registo de log.
 
 El algoritmo debe commitear sin guardar en disco los items modificados. 
-Ante una falla posterior al commit, sera necesario hacer un REDO de todos l
+Ante una falla posterior al commit, sera necesario hacer un REDO de todos los valores que la tranasccion habia asiganado a los items 
+Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de los write 
+
+
+### reinicio 
+Se analiza cuales transacciones commitaron 
+2. Se reocrre el log de atras para adelante volviendo a aplicar el wirte de las transacciones que ya commitearon 

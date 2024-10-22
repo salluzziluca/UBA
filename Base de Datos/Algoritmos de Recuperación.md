@@ -43,4 +43,10 @@ Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de lo
 
 
 ## Algoritmo UNDO/REDO 
-Buscamos evitar que una transaccion que se grabo a disco no haya commiteado 
+Buscamos evitar que una transaccion que se grabo a disco no haya commiteado y que una transaccion que ya commiteo no haya sido grabada a disco 
+
+En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El procedimiento es el siguiente:
+1. Cuando una transacción Ti modifica el item X remplazando un valor vold por v, se escribe (WRITE, Ti , X, vold , v) en el log. 
+2. El registro (WRITE, Ti , X, vold , v) debe ser escrito en el log en disco (flushed) antes de escribir (flush) el nuevo valor de X en disco. 
+3. Cuando Ti hace commit, se escribe (COMMIT, Ti) en el log y se hace flush del log a disco. 
+4. Los ítems modificados pueden ser guardados en disco antes o después de hacer commit

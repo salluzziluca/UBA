@@ -7,3 +7,6 @@ Un [[Sistemas de Gestion de Bases de Datos|SGBD]] no deberia jamas permtir la ed
 
 
 Si tengo dos transacciones $T_{i}$ y $T_{j}$ y T_i leyo un dato de T_j, si J rollbackea, hay que ir a T_i a cambiar eso tmb (y rezar porque no haya commiteado). Esto nos puede generar una cascada de rollback
+
+
+Que un solapamiento sea recuperable, no implica que no sea necesario tener que hacer rollbacks en cascada de transacciones que aún no commitearon.

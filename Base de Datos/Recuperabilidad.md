@@ -1,6 +1,6 @@
-La serializabilidad de las transacciones ya nos asegura la propiedad de aislamiento. 
-Nos interesa ahora asegurar que una vez que una transacción commiteó, la misma no deba ser deshecha. Esto nos ayudará a implementar de una forma sencilla la propiedad de durabilidad.
-Definición: Un solapamiento es recuperable si y sólo si ninguna transacción T realiza el commit hasta tanto todas las transacciones que escribieron datos antes de que T los leyera hayan commiteado.
+La serializabilidad de las [[Transacción|transacciones]] ya nos asegura la propiedad de aislamiento. 
+Nos interesa ahora asegurar que una vez que una [[transacción]] commiteó, la misma no deba ser deshecha. Esto nos ayudará a implementar de una forma sencilla la propiedad de durabilidad.
+Definición: Un solapamiento es recuperable si y sólo si ninguna [[transacción]] T realiza el commit hasta tanto todas las [[Transacción|transacciones]] que escribieron datos antes de que T los leyera hayan commiteado.
 
 
-Un SGBD no deberia jamas permtir la edecucion de un solapamiento no recuperable 
+Un [[Sistemas de Gestion de Bases de Datos|SGBD]] no deberia jamas permtir la edecucion de un solapamiento no recuperable 

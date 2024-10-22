@@ -1,4 +1,13 @@
 En los 3 se asumen que los solapamientos son recuperables y que evitan rollbacks en cascada (ver [[Recuperabilidad]])
 
 ## Algoritmo UNDO (inmmediate update) 
+>[!quote] Antes de que una modificación sobre un ítem X ← v_new por parte de una transacción no commiteada sea guardada en disco (flushed), se debe salvaguardar en el log en disco el último valor commiteado vold de ese ítem.
+
+
 1. Cuando al transaccion T_i modifica el item X reemplazando su valor v_old por v, se escribe (WRITE, T_i, X, v_old) en log. Luego se hace flush al log del disco
+2. El registro (WRITE, Ti , X, vold ) debe ser escrito en el log en disco (flushed) antes de escribir (flush) el nuevo valor de X en disco (WAL).
+3. Todo ítem modificado debe ser guardado en disco antes de hacer commit.
+4. Cuando Ti hace commit, se escribe (COMMIT, Ti) en el log y se hace flush del log a disco (FLC).
+
+Los tres primeros puntos aseguran que todas las modificaciones realizadas sean escritas a disco antes de que la transacción termine. 
+De esta forma, una vez cumplimentado el paso 4, ya nunca será necesario hacer REDO. Si la transacción falla antes ó durante el punto 4, será deshecha (UNDO) al reiniciar. Se considera que la transacción commiteó cuando el registro (COMMIT, Ti) queda escrito en el log, en disco

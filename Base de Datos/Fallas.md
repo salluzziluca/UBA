@@ -13,4 +13,4 @@ Aquellas que provienen de un daño fisico com disco rigidos o memoria
 Fuego, terremoto, caida de tension.
 
 
-Para dispositivos y fallas naturales hay que
+Para dispositivos y fallas naturales hay que tener backup.

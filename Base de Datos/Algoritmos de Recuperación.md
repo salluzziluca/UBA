@@ -30,7 +30,10 @@ dejo de acpetar nuevas transacciones
 espero a que todas hagan commit 
 escribo CKPT en el log y vuelco a disco
 
-En cambio, para el [[Checkpoints]]
+En cambio, para el [[Checkpoints#Checkpoints activos|checkpoint activo]]:
+1. Escribo un registro BEGIN CKPT, T_act(transacciones activas)
+2. Espero a que todas las activas hagan su commit (pero sin dejar de recibir nuevas transacciones)
+3. Escribir END CKPT en log y volcarlo a disco
 ## REDO (deferred update)
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.

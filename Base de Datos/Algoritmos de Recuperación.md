@@ -23,3 +23,8 @@ Cuando el sistema se reinicia
 El reinicio es idempotente. Si se ejecuta varias veces (hay una [[Fallas|falla]] en el reinicio) no pasa nada
 
 ![[Pasted image 20241022195555.png]]
+
+## REDO (deferred update)
+
+>[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la transacción debe ser salvaguardado en el log, en disco.
+

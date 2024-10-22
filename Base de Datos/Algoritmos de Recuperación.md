@@ -50,3 +50,8 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 2. El registro (WRITE, Ti , X, vold , v) debe ser escrito en el log en disco (flushed) antes de escribir (flush) el nuevo valor de X en disco. 
 3. Cuando Ti hace commit, se escribe (COMMIT, Ti) en el log y se hace flush del log a disco. 
 4. Los ítems modificados pueden ser guardados en disco antes o después de hacer commit
+
+
+![[Pasted image 20241022204043.png]]
+
+En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia haber guardado en disco) y asegurarse que todo lo de T2 esta guardado.

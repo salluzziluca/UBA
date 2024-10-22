@@ -8,4 +8,7 @@ Para cada instruccion:
 
 ## Regla WAL (write ahead log)
 
-Antes de guardar un item modificado en el disco, se de 
+Antes de guardar un item modificado en el disco, se de escribir el regstro de log correspondiente en el disco. 
+
+## Regla FLC 
+Antes de realizaar el commit el log debe ser volcado a disco

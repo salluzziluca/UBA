@@ -54,3 +54,7 @@ Notar: con esto resolveeríamos el problema más general, y podemos usar búsque
 
 ## Problema 1: Independent set vs vertex cover
 ![[Pasted image 20241023131055.png]]
+
+Sabemos que no podemos resolver ambos en tiempo polinomial, pero,, y su dificultad relativa?
+
+S es un set independiente de G sii V - S es ver

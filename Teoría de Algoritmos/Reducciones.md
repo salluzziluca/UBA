@@ -111,3 +111,5 @@ No necesitamos demostrar que 3-SAT ≤p Vertex Cover.
 Un probuela puede tener diferentes soluciones (algoritmos)-> tomamos lo mas eficiente 
 Dado un problema un algoritmo nos da una solucion 
 Dado un probleama y una solucion, deberiamos tener un validador
+
+Tenemos un certificador eficiente si un validador es correcto y se ejecuta en tiempo polinomial

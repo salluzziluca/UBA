@@ -82,3 +82,7 @@ Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 - Cláusulas con 3 términos: nada que hacer
 - Cláusulas con más de 3: 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcIscgB7v6DRF_YPtudOpKNCIHe8eJBx3iqsCpVlT_wluzTyrucayVQ4B7KjQGWnLF7krxGvSQU2EO0wFjmuJ2J4M0lBZtGzdOYepYfdQEQWiPKHHmPpWQaRek0tShQR_5oMHiSTIV8VjIP4fLrRbIpNmBPtDrT=s2048?key=CZi-J0L0AHjEjsxwcKVr9g)
+
+
+
+## 3-SAT $\leq_{p}$ INdependent set

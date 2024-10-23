@@ -57,4 +57,4 @@ Notar: con esto resolveeríamos el problema más general, y podemos usar búsque
 
 Sabemos que no podemos resolver ambos en tiempo polinomial, pero,, y su dificultad relativa?
 
-S es un set independiente de G sii V - S es ver
+S es un set independiente de G sii V - S es vertex cover de G

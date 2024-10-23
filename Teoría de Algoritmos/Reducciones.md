@@ -59,4 +59,7 @@ Sabemos que no podemos resolver ambos en tiempo polinomial, pero,, y su dificult
 
 S es un set independiente de G sii V - S es vertex cover de G
 
-Reducimos IS<= vertex cover si teenmos una caja negra que ressuelve sdi un grago tiene un VC de tamaño K. 
+Reducimos IS<= vertex cover si teenmos una caja negra que ressuelve sdi un grago tiene un VC de tamaño K. Para ver si tiene un IS de tamaño X le consultamos a lla caja negra si el mismo grafo tiene un VC de tamaño k= n-X
+
+
+**Como IS ≤p VC y VC ≤p IS, son igual de difíciles.**

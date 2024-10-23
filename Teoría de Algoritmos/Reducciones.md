@@ -140,4 +140,6 @@ basicamente hay que demostrar si *chananananan*
 
 # $$P = NP$$
 
-
+![[Pasted image 20241023140653.png]]
+Buscamos ver si esa diferencia entre P y NP realmente existe
+Los problemas que estan en el borde son los mas dificiles, los NP completos

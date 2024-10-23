@@ -14,3 +14,6 @@ Si una instancia arbitraria de Y puede ser ser resuelta con una cantidad de paso
 $$Y \leq_{p}X$$
 
 En criollo: Resolver Y se reduce a reoslver X y hacer cosas para que coincida
+
+
+Como X es al menos tan dificil como Y, si X se peude resolvr en tiempo polinomial, entonces Y tambien se puede resolver en tiempo polinomico

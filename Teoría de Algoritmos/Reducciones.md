@@ -28,3 +28,7 @@ Ademas, sabemosq ue hay un algoritmo polinomial para ordenar-> encontrar un maxi
 Ejercicio de redfes de flujo. Efectivamente s ehizo una reduccion, se busco llevarlo a redes de flujo y listo, resuelto. 
 
 ## Ej3: independen set y N-reinas
+conviene reducir N-Reinas a Independent Set o Independent Set a N-Reinas?
+
+
+## Ej4: Subset Sum y problema de la mochila

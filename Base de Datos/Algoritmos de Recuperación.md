@@ -36,7 +36,7 @@ En cambio, para el [[Checkpoints#Checkpoints activos|checkpoint activo]]:
 3. Escribir END CKPT en log y volcarlo a disco
 
 En la recuperación hay nuevamente dos situaciones: Que encontremos primero un registro (END CKPT).En ese caso, deberemos retroceder hasta el (BEGIN , Tx ) más antiguo del listado que figure en el (BEGIN CKPT) para rehacer todas las transacciones que commitearon. Escribir (ABORT, Ty ) para aquellas que no hayan commiteado.
-bQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve, y entonces deberemos ir a buscar un checkpoint anterior en el log.
+bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve, y entonces deberemos ir a buscar un checkpoint anterior en el log.
 ## REDO (deferred update)
 
 >[!quote] Antes de realizar el commit, todo nuevo valor v asignado por la [[transacción]] debe ser salvaguardado en el log, en disco.

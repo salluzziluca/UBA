@@ -89,3 +89,14 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 
 
 En la recuperación es posible que debamos retroceder hasta el inicio de la transacción más antigua en el listado de transacciones, para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.
+
+
+
+
+
+## Ejemplos 
+
+### Undo/Redp 
+![[Pasted image 20241023204308.png]]
+
+Miro de abajo hacia arriba y pongo los valores 

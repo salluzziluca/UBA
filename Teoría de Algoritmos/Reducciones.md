@@ -105,3 +105,9 @@ La notación ≤p es transitiva.
 3-SAT ≤p Independent Set
 Independent Set ≤p Vertex Cover
 No necesitamos demostrar que 3-SAT ≤p Vertex Cover. 
+
+
+## Problemas vs Algoritmos vs Chequeos 
+Un probuela puede tener diferentes soluciones (algoritmos)-> tomamos lo mas eficiente 
+Dado un problema un algoritmo nos da una solucion 
+Dado un probleama y una solucion, deberiamos tener un validador

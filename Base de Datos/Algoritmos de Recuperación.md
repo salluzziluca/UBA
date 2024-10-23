@@ -81,3 +81,8 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia haber guardado en disco) y asegurarse que todo lo de T2 esta guardado.
 ![[Pasted image 20241022204327.png]]
 
+
+### Checkpoint 
+1. Escribir un registro (BEGIN CKPT, tact) con el listado de todas las transacciones activas hasta el momento y volcar el log a disco. 
+2. Hacer el volcado a disco de todos los ítems que hayan sido modificados antes del (BEGIN CKPT). 
+3. Escribir (END CKPT) en el log y volcarlo a disco

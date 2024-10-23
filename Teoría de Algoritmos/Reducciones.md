@@ -43,3 +43,4 @@ POLINOMILAMENTE No se puede. Porque, de vuelta, no es poilonomial
 ### Ej6: 
 Tenemos una caja que eleva al cuadrado 
 Podemos reducir $a*b$ al problema de elevar al cuadrado 
+recordemos que $$(a+b)^2= $$

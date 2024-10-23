@@ -35,4 +35,4 @@ conviene reducir N-Reinas a Independent Set o Independent Set a N-Reinas?
 
 ### Ej5: Busquedas I 
 Podemos reducir el problema de "buscar un elemento en un arreglo ordenado" a "buscar un elemento en un arreglo(desordenado)"
-
+De un ordenado a un desordenado si (seria peor) pero no al reves

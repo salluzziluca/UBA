@@ -8,4 +8,6 @@ Una reduccion es una herramienta para comprarar dificultad entre problemas.
 >[!quote] El problema X es al menos tan dificil de resolver como el problema Y
 
 Redujimos Y a X
-Asumimos que tenemos una caja negra que resuelve X y vamos a probar que por tener esa caja ya podemos resolver Y
+Asumimos que tenemos una caja negra que resuelve X y vamos a probar que por tener esa caja ya podemos resolver Y.
+
+Si una instancia arbitraria de Y puede ser ser resuelta con una cantidad de pasos polinomicos y una cantidad de llamads polinomicas a la caja que resuelve X decimos que Y es reducible polinomia

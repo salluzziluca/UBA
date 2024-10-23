@@ -86,4 +86,7 @@ Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 
 
 ## 3-SAT $\leq_{p}$ Independent set
-Ponemos nodos = terminos (para cada termino ponemos un nodo, teniendo )
+1. Ponemos nodos = terminos (para cada termino ponemos un nodo, teniendo en cuenta los negados $3*k$ nodos)
+2. Creamos triangulos por cada clausula 
+3. ponemos aritas en posibles conflictos 
+4. se puede demostrar que G tiene un set independiente de tamaño K sii el 3-SAT es satisfacible

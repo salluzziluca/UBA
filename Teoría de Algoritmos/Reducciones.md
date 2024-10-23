@@ -143,3 +143,5 @@ basicamente hay que demostrar si *chananananan*
 ![[Pasted image 20241023140653.png]]
 Buscamos ver si esa diferencia entre P y NP realmente existe
 Los problemas que estan en el borde son los mas dificiles, los NP completos. Todos los problemas se peuden reducir a NP completos
+
+Entonces si yo encuentro una buena solucion para 3SAT (que es NP completo) puede reducir todos los problemas a 3SAT

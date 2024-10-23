@@ -92,3 +92,5 @@ Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 4. se puede demostrar que G tiene un set independiente de tamaño K sii el 3-SAT es satisfacible
 
 pero no podrian dos variables estar en 1 dentro de la misma clausula? sip
+
+pero no estamos buscando resolver el problema, solo saber si se puede resolver

@@ -44,3 +44,12 @@ POLINOMILAMENTE No se puede. Porque, de vuelta, no es poilonomial
 Tenemos una caja que eleva al cuadrado 
 Podemos reducir $a*b$ al problema de elevar al cuadrado 
 recordemos que $$(a+b)^2= \frac{(a+b)^2 -a^2-b^2}{2}$$
+
+
+---
+
+
+A partir de ahora vamos a plantear los problemas de una forma más booleana. Por ejemplo, en Independent Set el problema original es encontrar el set independiente más grande, pero vamos a plantear si existe un set de (al menos) tamaño k. 
+Notar: con esto resolveeríamos el problema más general, y podemos usar búsqueda binaria para buscar el máximo k. 
+
+## Problema 1: Independent set vs vertex cover

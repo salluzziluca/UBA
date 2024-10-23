@@ -25,3 +25,4 @@ Ordenar es al menos tan dificil como encontrar el maximo en un arreglo. Redujimo
 Ademas, sabemosq ue hay un algoritmo polinomial para ordenar-> encontrar un maximo tambien es polinomial
 
 ## Ej2: Bipartite Matching 
+Ejercicio de redfes de flujo. Efectivamente s ehizo una reduccion, se busco llevarlo a redes de flujo y listo, resu

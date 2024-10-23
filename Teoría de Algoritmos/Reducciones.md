@@ -128,4 +128,7 @@ NP: probvlemas para los que existe un certificador eficiente-> se pueden validar
 - [x] problema de al mochilas 
 - [x] n reinas
 - [x] independent set
-- [ ] vertex 
+- [x] vertex cover
+- [x] 3-SAT
+
+## $$P \cong $$

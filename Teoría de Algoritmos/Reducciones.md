@@ -37,5 +37,5 @@ conviene reducir N-Reinas a Independent Set o Independent Set a N-Reinas?
 Podemos reducir el problema de "buscar un elemento en un arreglo ordenado" a "buscar un elemento en un arreglo(desordenado)"
 De un ordenado a un desordenado si (seria peor) pero no al reves
 #### Busquedas II 
-Podemore reducir l abusqueda del maximo de un arreglo a la busqueda de un elemento en un arreglo?
-sisi, se puede
+Podemore reducir polinomialmente la busqueda del maximo de un arreglo a la busqueda de un elemento en un arreglo?
+POLINOMILAMENTE No se puede 

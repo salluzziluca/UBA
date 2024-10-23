@@ -123,3 +123,9 @@ NP: probvlemas para los que existe un certificador eficiente-> se pueden validar
 - [x] Busqueda de un arreglo maxiimo
 - [x] determinar si un grafo es bipartito 
 - [x] problema de scheduling
+- [x] puntos mas cercanos en un plano 
+- [x] fuljo en una red
+- [x] problema de al mochilas 
+- [x] n reinas
+- [x] independent set
+- [ ] vertex 

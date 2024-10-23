@@ -113,3 +113,7 @@ Dado un problema un algoritmo nos da una solucion
 Dado un probleama y una solucion, deberiamos tener un validador
 
 Tenemos un certificador eficiente si un validador es correcto y se ejecuta en tiempo polinomial
+
+
+## Clases de complejidad
+P es problema que se puede resolver en tiempo polinomial (de forma eficiente) Puede ser re

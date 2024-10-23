@@ -77,8 +77,8 @@ Luego, busco que S sea true. Este problema es lo **suficientemente general** com
 Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 
 
-- Cláusulas con 2 términos (w, y): reemplazar por (y ⋁ w ⋁ z) y (y ⋁ w ⋁ z)
-- Cláusulas con 1 término (y): Reemplazamos esa cláusula por (y ⋁ z1 ⋁ z2) y demás variantes (4)
+- Cláusulas con 2 términos (w, y): reemplazar por (y ⋁ w ⋁ z) y ($y ⋁ w ⋁ \bar{z}$)
+- Cláusulas con 1 término (y): Reemplazamos esa cláusula por (y ⋁ z1 ⋁ z2) y demás variantes (4) (con los negados)
 - Cláusulas con 3 términos: nada que hacer
 - Cláusulas con más de 3: 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcIscgB7v6DRF_YPtudOpKNCIHe8eJBx3iqsCpVlT_wluzTyrucayVQ4B7KjQGWnLF7krxGvSQU2EO0wFjmuJ2J4M0lBZtGzdOYepYfdQEQWiPKHHmPpWQaRek0tShQR_5oMHiSTIV8VjIP4fLrRbIpNmBPtDrT=s2048?key=CZi-J0L0AHjEjsxwcKVr9g)

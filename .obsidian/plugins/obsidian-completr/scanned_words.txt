@@ -12219,6 +12219,7 @@ Tactivas
 Tanto
 TOdo
 Transacciones
+Transaccion
 Realiza
 REgistrys
 Rango

@@ -160,3 +160,6 @@ Write(T, X, Xold, Xnew)
 Read(T, X)
 Commit(T)
 Abort(T)
+
+![[Recuperacion]]
+![[Recuperabilidad]]

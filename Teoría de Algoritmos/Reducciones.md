@@ -132,5 +132,12 @@ NP: probvlemas para los que existe un certificador eficiente-> se pueden validar
 - [x] 3-SAT
 
 ## $P \subseteq NP?$
+SI
 
 ## $NP \subseteq P?$
+NO SE SABE 
+basicamente hay que demostrar si *chananananan*
+
+# $$P = NP$$
+
+

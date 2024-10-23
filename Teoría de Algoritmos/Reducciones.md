@@ -68,3 +68,4 @@ Entonces si puedo resolver a uno en tiempo polinomial puedo resolver el otro en 
 
 
 ## Satisficibilidad
+yo tengo clausulas, una composicion de ORs 

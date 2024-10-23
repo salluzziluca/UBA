@@ -119,7 +119,7 @@ Tenemos un certificador eficiente si un validador es correcto y se ejecuta en ti
 P es problema que se puede resolver en tiempo polinomial (de forma eficiente) Puede ser resueltos en tiempo polinomial por una maquina de turing deterministica 
 
 NP(Nondeterministic Polynomial): probvlemas para los que existe un certificador eficiente-> se pueden validar en tiempo polinomial-> pueden sre resueltos en tiempo polinomial por una maquina de turing deterministica
-Aunque encontrar una solución puede ser difícil, verificarla es eficiente. 
+Aunque encontrar una solución puede ser difícil, verificarla es eficiente. Algunos problemas NP son extremadamente complejos y no se conoce un algoritmo que los resuelva en tiempo polinómico.
 #### Estan los siguientes problemas en NP?
 - [x] Busqueda de un arreglo maxiimo
 - [x] determinar si un grafo es bipartito 
@@ -145,4 +145,4 @@ basicamente hay que demostrar si *chananananan*
 Buscamos ver si esa diferencia entre P y NP realmente existe
 Los problemas que estan en el borde son los mas dificiles, los NP completos. Todos los problemas se peuden reducir a NP completos
 
-Entonces si yo encuentro una buena solucion para 3SAT (que es NP completo) puede reducir todos los problemas a 3SAT
+Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP completo) puede reducir todos los problemas a 3SAT

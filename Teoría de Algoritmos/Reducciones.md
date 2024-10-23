@@ -97,3 +97,6 @@ pero no estamos buscando resolver el problema, solo saber si se puede resolver
 
 ##### Si hay 3-sat, hay independent set
 Si es satisfacible, al menos 1 nodo de cada triangulo es True/1. Agarramos un vertice de cada triangulo tal que valga Trye/1 -> ese set es independiente (no puede generar conflictos)
+
+##### Si hay independent set, hay 3 sat 
+por cada X, si esta en el set, vca1, sei esta el complemento va el 0. Si no hay ninguno ponemos alguno en 0 y otro en 1 (no pueden estar ambos). Como es un independent set de tamaño k, necesariamente hay al menos un 1 por cada triangulo, se cu

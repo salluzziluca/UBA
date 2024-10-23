@@ -70,3 +70,4 @@ Entonces si puedo resolver a uno en tiempo polinomial puedo resolver el otro en 
 ## Satisficibilidad
 yo tengo clausulas, una composicion de ORs 
 $$C_{1}= x_{1}\lor x_{2} \lor x_{3} or x_{4} \lor\dots \lor x_{n}$$
+y despues tengo $$C_{1} \land C_{2} \land C_{3} \land\dots \land$ C_{k}$

@@ -86,3 +86,6 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 1. Escribir un registro (BEGIN CKPT, tact) con el listado de todas las transacciones activas hasta el momento y volcar el log a disco. 
 2. Hacer el volcado a disco de todos los ítems que hayan sido modificados antes del (BEGIN CKPT). 
 3. Escribir (END CKPT) en el log y volcarlo a disco
+
+
+En la recuperación es posible que debamos retroceder hasta el inicio de la transacción más antigua en el listado de transacciones, para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.

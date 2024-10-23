@@ -100,3 +100,8 @@ Si es satisfacible, al menos 1 nodo de cada triangulo es True/1. Agarramos un ve
 
 ##### Si hay independent set, hay 3 sat 
 por cada X, si esta en el set, vca1, sei esta el complemento va el 0. Si no hay ninguno ponemos alguno en 0 y otro en 1 (no pueden estar ambos). Como es un independent set de tamaño k, necesariamente hay al menos un 1 por cada triangulo, se cumple 3 sat
+
+La notación ≤p es transitiva. 
+3-SAT ≤p Independent Set
+Independent Set ≤p Vertex Cover
+No necesitamos demostrar que 3-SAT ≤p Vertex Cover. 

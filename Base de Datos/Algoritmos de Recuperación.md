@@ -96,7 +96,7 @@ En la recuperación es posible que debamos retroceder hasta el inicio de la tran
 
 ## Ejemplos 
 
-### Undo/Redo
+### Undo/Redob
 ![[Pasted image 20241023204308.png]]
 
 Miro de abajo hacia arriba y pongo los valores viejos de t1 (el que no commiteo) 

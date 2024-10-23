@@ -58,3 +58,5 @@ Notar: con esto resolveeríamos el problema más general, y podemos usar búsque
 Sabemos que no podemos resolver ambos en tiempo polinomial, pero,, y su dificultad relativa?
 
 S es un set independiente de G sii V - S es vertex cover de G
+
+Reducimos IS<= vertex cover si teenmos una caja negra que ressuelve sdi un grago tiene un VC de tamaño K. 

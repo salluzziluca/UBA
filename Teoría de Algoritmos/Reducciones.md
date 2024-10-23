@@ -94,3 +94,5 @@ Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 pero no podrian dos variables estar en 1 dentro de la misma clausula? sip
 
 pero no estamos buscando resolver el problema, solo saber si se puede resolver
+
+Si es satisfacible, al menos 1 nodo de cada triangulo es True/1. Agarramos un vertice de cada triangulo tal que valga Trye/1 -> ese set es independiente (no puede generar conflictos)

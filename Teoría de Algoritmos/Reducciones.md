@@ -21,3 +21,7 @@ Como X es al menos tan dificil como Y, si X se peude resolvr en tiempo polinomia
 
 ## EJ1: ordenar vs encontrar el maximo 
 Ordenar es al menos tan dificil como encontrar el maximo en un arreglo. Redujimos encontrar el maximo a ordenar
+
+Ademas, sabemosq ue hay un algoritmo polinomial para ordenar-> encontrar un maximo tambien es polinomial
+
+## Ej2: Bipartite Matching 

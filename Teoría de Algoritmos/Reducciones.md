@@ -53,3 +53,4 @@ A partir de ahora vamos a plantear los problemas de una forma más booleana. Por
 Notar: con esto resolveeríamos el problema más general, y podemos usar búsqueda binaria para buscar el máximo k. 
 
 ## Problema 1: Independent set vs vertex cover
+![[Pasted image 20241023131055.png]]

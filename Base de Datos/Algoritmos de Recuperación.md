@@ -99,4 +99,6 @@ En la recuperación es posible que debamos retroceder hasta el inicio de la tran
 ### Undo/Redp 
 ![[Pasted image 20241023204308.png]]
 
-Miro de abajo hacia arriba y pongo los valores 
+Miro de abajo hacia arriba y pongo los valores viejos de t1 (el que no commiteo) 
+Voy de arriba hacia abajo y guardo los valores de T2 (que si commiteo) para asegurarme que esten 
+Aborto todos los que no hayan commiteado

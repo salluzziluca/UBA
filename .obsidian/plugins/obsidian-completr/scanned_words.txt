@@ -1216,6 +1216,12 @@ coloca
 comenzar
 consulta
 cuidado
+commiteada
+cumplimentado
+commite
+commitearon
+checkpoint
+commitaron
 de
 dispositivos
 del
@@ -1772,6 +1778,12 @@ deadlocks
 detecta
 distinguirlas
 deshechos
+deshecha
+deberemos
+deferred
+diisco
+debamos
+deshacerla
 gestion
 gran
 guarda
@@ -2023,6 +2035,10 @@ garantizamos
 gana
 gestiona
 guardan
+guardado
+grabo
+grabada
+guardados
 especifico
 entra
 en
@@ -2586,6 +2602,9 @@ ejecutados
 efiicientes
 entidades
 escribieron
+evitan
+espero
+encontremos
 servicios
 son
 su
@@ -3102,6 +3121,11 @@ spanshot
 simultaneo
 simultanea
 slamiento
+solapamientos
+salvaguardar
+situaciones
+salvaguardado
+sto
 par
 por
 punto
@@ -3705,6 +3729,7 @@ porcion
 proridades
 prinmero
 preservar
+posteriores
 la
 las
 le
@@ -4050,6 +4075,7 @@ llamad
 livelock
 late
 leyera
+llevaria
 agnosticos
 apps
 al
@@ -4635,6 +4661,13 @@ aparezcan
 acuerdo
 aislamiento
 autorizados
+asumen
+aseguran
+acpetar
+act
+antiguo
+asiganado
+adelanteaplicando
 hardware
 heap
 hay
@@ -6004,6 +6037,9 @@ CPS
 Concurrencia
 COMMITED
 Commit
+COMMIT
+Checkpoint
+CKPT
 Es
 El
 Estos
@@ -6313,6 +6349,10 @@ Equidad
 EVITA
 ESCRITURA
 Esos
+Escribo
+Espero
+Escribir
+END
 kernel
 kt
 kU
@@ -6915,6 +6955,17 @@ respeten
 repercutan
 recuperaci
 recuperable
+recuperables
+rollbacks
+reemplazando
+realizadas
+reiniciar
+reinicia
+restaurar
+reinicio
+retroceder
+reocrre
+remplazando
 operacion
 orden
 operaciones
@@ -7188,6 +7239,7 @@ obligar
 obliga
 opci
 onsistnecia
+old
 nombre
 nuevo
 nica
@@ -7444,6 +7496,7 @@ necesitaba
 nea
 ndolas
 nes
+nuevamente
 via
 vuelve
 viven
@@ -7728,6 +7781,12 @@ visibilidad
 volviendolo
 vrtuntime
 vruntine
+vold
+vuelco
+volcarlo
+volviendo
+volcado
+volcar
 Application
 API
 Asigna
@@ -8015,6 +8074,8 @@ Almacenamiento
 Asegurar
 Anomal
 Abort
+ABORT
+Ante
 Programming
 Procesos
 Partes
@@ -8859,6 +8920,7 @@ Unchained
 Union
 Utilizaremos
 UID
+UNDO
 modo
 mode
 menso
@@ -9294,6 +9356,8 @@ mutua
 marcaban
 mayot
 manipulaci
+modific
+modificados
 tien
 tiene
 todos
@@ -9663,6 +9727,10 @@ tomicidad
 transaction
 transaccionales
 terminado
+tres
+tranasccion
+tems
+tact
 inico
 interna
 infro
@@ -10129,6 +10197,8 @@ inodos
 identity
 involucradas
 informa
+inmmediate
+idempotente
 fijo
 file
 fork
@@ -10447,6 +10517,8 @@ finita
 fechas
 filesystem
 fair
+flushed
+figure
 Nombre
 Notas
 Not
@@ -10927,6 +10999,7 @@ FROM
 Fijarse
 Fase
 Fair
+FLC
 Descriptors
 Descriptor
 Devuelve
@@ -11796,6 +11869,7 @@ TLDR
 TGID
 TID
 Tienen
+Tactivas
 Realiza
 REgistrys
 Rango
@@ -12084,6 +12158,8 @@ Recuperaci
 READ
 Reads
 Recuperabilidad
+REDO
+Reinicio
 bien
 by
 be
@@ -12589,6 +12665,7 @@ wait
 wrappers
 writeTS
 write
+wirte
 VA
 VIEW
 Volumen
@@ -13981,6 +14058,7 @@ BETWEEN
 Bounded
 Bitmap
 Begin
+BEGIN
 XY
 Xg
 XQG
@@ -15126,6 +15204,8 @@ WHERE
 WTj
 Waiting
 WTi
+WRITE
+WAL
 ZZZPU
 ZX
 ZQ

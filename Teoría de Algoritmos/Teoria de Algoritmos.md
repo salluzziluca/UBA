@@ -11,4 +11,5 @@
 [[Dominating Set]]
 [[Programación Dinámica]]
 [[Programación Lineal]]
+[[Reducciones]]
 

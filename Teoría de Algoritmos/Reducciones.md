@@ -131,4 +131,6 @@ NP: probvlemas para los que existe un certificador eficiente-> se pueden validar
 - [x] vertex cover
 - [x] 3-SAT
 
-## $$P \cong $$
+## $P \subseteq NP?$
+
+## $NP \subseteq P?$

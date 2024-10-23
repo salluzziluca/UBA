@@ -118,7 +118,7 @@ Tenemos un certificador eficiente si un validador es correcto y se ejecuta en ti
 ## Clases de complejidad
 P es problema que se puede resolver en tiempo polinomial (de forma eficiente) Puede ser resueltos en tiempo polinomial por una maquina de turing deterministica 
 
-NP: probvlemas para los que existe un certificador eficiente-> se pueden validar en tiempo polinomial-> pueden sre resueltos en tiempo polinomial por una maquina de turing deterministica
+NP(Nondeterministic Polynomial): probvlemas para los que existe un certificador eficiente-> se pueden validar en tiempo polinomial-> pueden sre resueltos en tiempo polinomial por una maquina de turing deterministica
 #### Estan los siguientes problemas en NP?
 - [x] Busqueda de un arreglo maxiimo
 - [x] determinar si un grafo es bipartito 

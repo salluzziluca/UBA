@@ -71,5 +71,7 @@ En el algoritmo UNDO/REDO es necesario cumplir con ambas reglas a la vez. El pro
 En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia haber guardado en disco) y asegurarse que todo lo de T2 esta guardado.
 ![[Pasted image 20241022204327.png]]
 
-
-[[Checkpoints]]
+## Checkpoint 
+Utilizando [[Checkpoints#Checkpoints activos|active checkpoint]]:
+Escribir un registro BEGIN CKPT, Tactivas con el listado de todas las transacciones activas y vuelvo el log a disco 
+Hago 

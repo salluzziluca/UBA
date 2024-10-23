@@ -65,3 +65,6 @@ Reducimos IS<= vertex cover si teenmos una caja negra que ressuelve sdi un grago
 **Como IS ≤p VC y VC ≤p IS, son igual de difíciles.**
 
 Entonces si puedo resolver a uno en tiempo polinomial puedo resolver el otro en tiempo polinomial
+
+
+## Satisficibilidad

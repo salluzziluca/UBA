@@ -17,3 +17,7 @@ En criollo: Resolver Y se reduce a reoslver X y hacer cosas para que coincida
 
 
 Como X es al menos tan dificil como Y, si X se peude resolvr en tiempo polinomial, entonces Y tambien se puede resolver en tiempo polinomico
+
+
+## EJ1: ordenar vs encontrar el maximo 
+Ordenar es al menos tan dificil como encontrar el maximo en un arreglo. Redujimos encontrar el maximo a ordenar

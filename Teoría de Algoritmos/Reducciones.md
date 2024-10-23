@@ -85,4 +85,5 @@ Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 
 
 
-## 3-SAT $\leq_{p}$ INdependent set
+## 3-SAT $\leq_{p}$ Independent set
+Ponemos nodos = terminos (para cada termino ponemos un nodo, teniendo )

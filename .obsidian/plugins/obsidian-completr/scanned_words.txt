@@ -1198,8 +1198,6 @@ concurrentemente
 cito
 compartidos
 concrrentemente
-commiteado
-commitear
 conflictos
 conflcto
 consecutivas
@@ -1216,7 +1214,6 @@ clone
 cvlasses
 coloca
 comenzar
-commiteo
 consulta
 cuidado
 de
@@ -2025,6 +2022,7 @@ garantizar
 garantizamos
 gana
 gestiona
+guardan
 especifico
 entra
 en
@@ -2587,6 +2585,7 @@ ejecutandose
 ejecutados
 efiicientes
 entidades
+escribieron
 servicios
 son
 su
@@ -4050,6 +4049,7 @@ liberacion
 llamad
 livelock
 late
+leyera
 agnosticos
 apps
 al
@@ -5328,6 +5328,7 @@ unrepeteale
 usaba
 utilizaba
 urabilidad
+updatear
 System
 Son
 Source
@@ -6001,6 +6002,8 @@ Completely
 CFS
 CPS
 Concurrencia
+COMMITED
+Commit
 Es
 El
 Estos
@@ -6477,16 +6480,13 @@ kRz
 koe
 knn
 kMW
-realice
 realicen
 resolve
 recommend
 replace
-reales
 remember
 ricas
 recta
-real
 reervada
 regs
 regstro
@@ -6509,7 +6509,6 @@ reacciones
 random
 refiere
 representa
-rea
 recargada
 rapida
 referenciado
@@ -6551,7 +6550,6 @@ referiremos
 repetiir
 recordar
 reduciendo
-realizo
 reacciona
 recibidos
 recibido
@@ -6562,7 +6560,6 @@ retornado
 reduccion
 refactorizar
 rTbSnKla
-realloc
 restricciones
 reservo
 runtime
@@ -6573,7 +6570,6 @@ recursos
 renunciado
 reduce
 recursivas
-realiza
 resolverlo
 recursivamente
 reescribir
@@ -6691,7 +6687,6 @@ rg
 rDi
 rm
 ricos
-reacion
 representados
 relacon
 referencial
@@ -6817,7 +6812,6 @@ rTZ
 rsO
 rES
 rwp
-rEa
 rHo
 rn
 rxM
@@ -6912,16 +6906,15 @@ representado
 recuperacion
 rehacer
 rollback
-read
 rdenes
 rden
 repetidamente
 rehizo
 referida
 respeten
-readTS
 repercutan
 recuperaci
+recuperable
 operacion
 orden
 operaciones
@@ -8021,6 +8014,7 @@ ABORTA
 Almacenamiento
 Asegurar
 Anomal
+Abort
 Programming
 Procesos
 Partes
@@ -8353,6 +8347,7 @@ Progress
 Prioridad
 Prevencion
 Permitir
+Phantom
 Interface
 ID
 Instructions
@@ -11245,6 +11240,7 @@ Despues
 Diferencias
 Deteccion
 Definir
+DATO
 Memoria
 Multivariada
 MORE
@@ -11552,6 +11548,7 @@ MULTA
 Masa
 Mutual
 Molnar
+METER
 Table
 Todos
 This
@@ -11808,7 +11805,6 @@ Referencias
 RAM
 RAMs
 ROM
-Read
 ROMs
 Recently
 Random
@@ -12085,6 +12081,9 @@ Race
 Runtime
 RTj
 Recuperaci
+READ
+Reads
+Recuperabilidad
 bien
 by
 be
@@ -12393,6 +12392,8 @@ bloquear
 block
 bitmap
 basados
+bloqueados
+bloqueando
 will
 words
 with
@@ -13979,6 +13980,7 @@ BCGD
 BETWEEN
 Bounded
 Bitmap
+Begin
 XY
 Xg
 XQG
@@ -14145,6 +14147,8 @@ XVq
 XIRP
 Xvq
 XAVo
+Xold
+Xnew
 HEAD
 Hay
 Herencia

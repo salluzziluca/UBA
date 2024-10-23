@@ -38,4 +38,8 @@ Podemos reducir el problema de "buscar un elemento en un arreglo ordenado" a "bu
 De un ordenado a un desordenado si (seria peor) pero no al reves
 #### Busquedas II 
 Podemore reducir polinomialmente la busqueda del maximo de un arreglo a la busqueda de un elemento en un arreglo?
-POLINOMILAMENTE No se puede 
+POLINOMILAMENTE No se puede. Porque, de vuelta, no es poilonomial 
+
+### Ej6: 
+Tenemos una caja que eleva al cuadrado 
+Podemos reducir $a*b$ al problema de elevar al cuadrado 

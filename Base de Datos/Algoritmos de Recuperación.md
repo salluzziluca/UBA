@@ -74,4 +74,5 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 ## Checkpoint 
 Utilizando [[Checkpoints#Checkpoints activos|active checkpoint]]:
 Escribir un registro BEGIN CKPT, Tactivas con el listado de todas las transacciones activas y vuelvo el log a disco 
-Hago 
+Hago el volcado a diisco de todos los items que hayan sido modificados por transacciones que ya commitearon 
+Escribo END CKPT en el log y lo vuelco a disco 

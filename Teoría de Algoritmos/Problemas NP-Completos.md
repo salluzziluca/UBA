@@ -81,4 +81,8 @@ Como es dificil de comparar coloreo a otro problema, vamos a 3-SAT (reducimos 3S
 3. Creamos 3 nodos especiales: True, False y Base. (para los 3 colores)
 4. Unimos a cada variable y complemento con Base, para formar triángulos
 5. Unimos True y False con Base para formar otro triángulo. 
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdCw4Kc3Bwm5TUyuQX6eCd2FJvToeBzuU5rkigEe0GAb6CmRc2nrFxIBMWpT71KSvfBsze6-iillj_iAb26kC5XvJI-EqEwBknhT1M8vjWPJB-GOoZ-zxqmPvB6E8TxcFySNbJMYByr7NlDl0mJ59RlJ9xkv2g=s2048?key=ddV7CqlIamrZHzGhNajamQ)**
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdCw4Kc3Bwm5TUyuQX6eCd2FJvToeBzuU5rkigEe0GAb6CmRc2nrFxIBMWpT71KSvfBsze6-iillj_iAb26kC5XvJI-EqEwBknhT1M8vjWPJB-GOoZ-zxqmPvB6E8TxcFySNbJMYByr7NlDl0mJ59RlJ9xkv2g=s2048?key=ddV7CqlIamrZHzGhNajamQ)
+Supongamos que tenemos la expresión $x1 ⋁ \bar{  x_{2}} ⋁ x3$
+Al menos 1 debe ser True → Al menos 1 debe tener el color de True.
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdXxII12DZk-lJaPs7TTGD1519yBMh96jYBSCDcp9Hx3DqFsxmrQrH7KIbgtaocLadko1dJzWnjNvRv7NoLcwOBUwKTcb4yCR_zWUtLdnAUxx1w7beJUc3NkUHTw0v26xLhFBstyyENxFUEBtsbKgzJgN2_IbvX=s2048?key=ddV7CqlIamrZHzGhNajamQ)**

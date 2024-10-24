@@ -7272,6 +7272,7 @@ relativa
 ressuelve
 resolverse
 resolverda
+resolvedora
 operacion
 orden
 operaciones
@@ -11753,6 +11754,7 @@ Describe
 Describ
 DATO
 Distintos
+Demostracion
 Memoria
 Multivariada
 MORE

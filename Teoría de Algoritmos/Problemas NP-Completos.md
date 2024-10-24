@@ -44,7 +44,7 @@ Como es un si y solo si y independent set es NP-Completo, K-clicke es NP-Complet
 lo ponemos dirigido y sin cumplir la desigualdad triangular.
 Existe un camino de costo/distancia con maximo D?
 
-como podemos reducir [[Grafos Hamiltonianos]] a el problema del viajante?
+como podemos reducir Ciclo hamiltoniano a el problema del viajante?
 a las aristas que no existe le agrego peso 2 (para que no vaya por ahi) y a las que existen peso 1. 
 Existe un ciclo hamiltoniano en el original sii existe un camino TSP en el nuevo grafo de a lo sumo (y exactamente) n = cantidad de vertices. No puede ser menos que n. Si es mayor que N, uso una arista de peso 2-> uso una arista que no existe en el orginal
 

@@ -45,7 +45,10 @@ bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo 
 No, sólo el registro de log! De hecho, en el algoritmo REDO el ítem es actualizado en disco luego de commitear la [[transacción]].
 
 El algoritmo debe commitear sin guardar en disco los items modificados. 
-Ante una [[Fallas|falla]] posterior al commit, sera necesario hacer un REDO de todos los valores que la tranasccion habia asiganado a los items 
+Ante una [[Fallas|falla]] posterior al commit, sera necesario hacer un REDO de todos los valores que la tranasccion habia asiEn la recuperación es posible que debamos retroceder
+hasta el inicio de la transacción más antigua en el listado
+de transacciones, para deshacerla en caso de que no
+haya commiteado.ganado a los items 
 Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de los write 
 
 

@@ -60,4 +60,8 @@ Demostracion: tu vieja
 ### CAMINO hamiltoniano es NP-Completo?
 
 Reducimos ciclo hamiltoniano a camino hamiltoniano 
-1. Agarro un v3etice al azar y lo reemplazo por v' y v'' 
+1. Agarro un v3etice al azar y lo reemplazo por v' y v''. Todas las aristas salientes de v ahora salen de v', todas las entrantes entran a v'' 
+2. Existe cilco hamiltopniano en el ogiginal si existe camino hamiltoniano en el nuevo (este necesariamente empieza en v' y termina en v'')
+
+### Ejercicioo tranqui: 
+determin

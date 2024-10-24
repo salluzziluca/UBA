@@ -71,3 +71,5 @@ Como podemos reducir este problema al problema del viajante?QUEEEEEE
 obvio que se puede ajkdas
 
 ### Coloreo de grafos
+Cuando k=2 -> problema de grafo bipartito 
+cuando k

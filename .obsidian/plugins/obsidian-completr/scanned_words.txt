@@ -1259,6 +1259,12 @@ cantantes
 calificados
 cantante
 cant
+comprarar
+coincida
+consultamos
+clausulas
+composicion
+completos
 de
 dispositivos
 del
@@ -1838,6 +1844,7 @@ denominacion
 demostro
 deban
 deberian
+desordenado
 gestion
 gran
 guarda
@@ -2099,6 +2106,7 @@ grabo
 grabada
 guardados
 gestiona
+grago
 especifico
 entra
 en
@@ -2686,6 +2694,9 @@ englobar
 existentes
 efiicientes
 ejecuten
+ehizo
+eleva
+elevar
 servicios
 son
 su
@@ -3232,6 +3243,9 @@ subciclos
 simultaneo
 select
 subconjuntos
+sabemosq
+sdi
+subseteq
 par
 por
 punto
@@ -3864,6 +3878,14 @@ participantes
 puntuar
 podas
 postgres
+polinomicos
+polinomicas
+polinomialmente
+peude
+polinomico
+poilonomial
+peuden
+polinomica
 la
 las
 le
@@ -4218,6 +4240,10 @@ llevado
 linealizando
 llevaria
 lelgar
+llamads
+llevarlo
+lla
+leq
 agnosticos
 apps
 al
@@ -4846,6 +4872,7 @@ artistas
 aseguramos
 autorizados
 asber
+arbitraria
 hardware
 heap
 hay
@@ -5838,6 +5865,9 @@ Seguir
 SGBDD
 SGBDs
 Soportre
+Sabemos
+Satisficibilidad
+SAT
 Calls
 Cmabia
 CPU
@@ -6550,6 +6580,8 @@ Escribir
 END
 Especializacion
 Eliminaci
+Ejercicio
+Efectivamente
 kernel
 kt
 kU
@@ -7201,6 +7233,17 @@ relajada
 repercutan
 restringir
 revocar
+resuelta
+reducible
+reoslver
+resolvr
+reducciones
+redfes
+reves
+recordemos
+resolveer
+relativa
+ressuelve
 operacion
 orden
 operaciones
@@ -8347,6 +8390,7 @@ Agregamos
 Almacenamiento
 Asegurar
 Acceso
+Asumimos
 Programming
 Procesos
 Partes
@@ -8687,6 +8731,8 @@ Phantom
 Participacion
 PLE
 Permitir
+Podemore
+POLINOMILAMENTE
 Interface
 ID
 Instructions
@@ -10031,6 +10077,7 @@ tranasccion
 tems
 tact
 transaccional
+teenmos
 inico
 interna
 infro
@@ -10515,6 +10562,7 @@ interrelaciones
 inscriben
 inserto
 insertadas
+independen
 fijo
 file
 fork
@@ -11056,6 +11104,7 @@ Nuestra
 Nuevas
 Nuestras
 Niveles
+Notar
 File
 For
 Funcion
@@ -11970,6 +12019,7 @@ MIN
 MULTA
 Maximizo
 METER
+Matching
 Table
 Todos
 This
@@ -12516,6 +12566,9 @@ Ramificamos
 Recuperaci
 RETURNING
 ROLLBACK
+Redujimos
+Resolver
+Reducimos
 bien
 by
 be
@@ -12827,6 +12880,8 @@ bloqueados
 bloqueando
 branching
 bounds
+booleana
+bar
 will
 words
 with
@@ -13432,6 +13487,8 @@ Ordenando
 Ordenamos
 Ofrecer
 OPTION
+Ordenar
+ORs
 ya
 yo
 yM
@@ -14425,6 +14482,8 @@ BEGIN
 Begin
 Branch
 Borrado
+Bipartite
+Busquedas
 XY
 Xg
 XQG

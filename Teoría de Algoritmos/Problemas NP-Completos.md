@@ -20,3 +20,4 @@ Si logramos reducir un NP completo a otro problema X->X es NP-completo (por tran
 Si puedo reducir circuit satisfability a 3-SAT transformando el problema a SAT con 3 terminos y luego pasando a SAT
 
 ![[Pasted image 20241024105452.png]]
+#### 3-SAT $\leq_{p} Independent Set$

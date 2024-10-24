@@ -10,5 +10,10 @@ Si al menos un problema [[NP (nondetherministic polynomial)|NP]]-Completo puede 
 
 
 ### Problemas NP completos
+#### Teorema de Cook & Levin: Circuit Satisfiability 
 
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfGOJvAdFpiIYGKUngmron3TZdQALAKQaXdp8Hz-stiCtOcvdq55hsOrtg4xaORV_OjeM91iIjd_7nfgZCRD_2bjGrb5UPhxJ7iK-wUU1i6jtFwvRVzhvKugbTTP6FWEbiEzuKwWdvscf495q6VrzSh8SJh99L3=s2048?key=ddV7CqlIamrZHzGhNajamQ)**
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfGOJvAdFpiIYGKUngmron3TZdQALAKQaXdp8Hz-stiCtOcvdq55hsOrtg4xaORV_OjeM91iIjd_7nfgZCRD_2bjGrb5UPhxJ7iK-wUU1i6jtFwvRVzhvKugbTTP6FWEbiEzuKwWdvscf495q6VrzSh8SJh99L3=s2048?key=ddV7CqlIamrZHzGhNajamQ)
+
+Ese es un problema NP completo.
+
+Si logramos reducir un NP completo a otro problema X->X es NP-completo ( )

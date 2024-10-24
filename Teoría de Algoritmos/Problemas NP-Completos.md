@@ -22,3 +22,6 @@ Si puedo reducir circuit satisfability a 3-SAT transformando el problema a SAT c
 ![[Pasted image 20241024105452.png]]
 
 como vimos en [[Reducciones]] $3-SAT \leq_{p} Independet \ set \leq_{p} vertex \ cover$ por lo que independent set y vertex cover tambien son NP completos 
+
+
+### Ej1: Reducir "si un numero es multiplo de otro" a "ver si un elemento está en una lista"

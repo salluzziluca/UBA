@@ -436,6 +436,7 @@ Lost
 LoS
 Lock
 Lagrange
+Levin
 capa
 controlado
 cantidad
@@ -1266,6 +1267,11 @@ clausulas
 composicion
 completos
 certificador
+cerrandolo
+circuit
+cuestion
+complemento
+clicke
 de
 dispositivos
 del
@@ -2700,6 +2706,9 @@ ehizo
 eleva
 elevar
 extremadamente
+equivalencia
+especial
+encodeo
 servicios
 son
 su
@@ -3250,6 +3259,7 @@ sabemosq
 sdi
 subseteq
 sre
+satisfability
 par
 por
 punto
@@ -3892,6 +3902,7 @@ peuden
 polinomica
 probvlemas
 polin
+pasando
 la
 las
 le
@@ -4250,6 +4261,7 @@ llamads
 llevarlo
 lla
 leq
+logramos
 agnosticos
 apps
 al
@@ -4879,6 +4891,7 @@ aseguramos
 autorizados
 asber
 arbitraria
+astisfacible
 hardware
 heap
 hay
@@ -5133,6 +5146,7 @@ hab
 haay
 homogenea
 hardarwe
+hamiltonianos
 que
 queda
 quien
@@ -5874,6 +5888,7 @@ Soportre
 Sabemos
 Satisficibilidad
 SAT
+Satisfiability
 Calls
 Cmabia
 CPU
@@ -6268,6 +6283,8 @@ Construimos
 Concurrencia
 Consecuencias
 Completo
+Cook
+Circuit
 Es
 El
 Estos
@@ -6590,6 +6607,7 @@ Especializacion
 Eliminaci
 Ejercicio
 Efectivamente
+Estrategias
 kernel
 kt
 kU
@@ -7253,6 +7271,7 @@ resolveer
 relativa
 ressuelve
 resolverse
+resolverda
 operacion
 orden
 operaciones
@@ -7534,6 +7553,7 @@ ocurrencias
 organizan
 obligado
 optiomos
+orginal
 nombre
 nuevo
 nica
@@ -8101,6 +8121,7 @@ visito
 valer
 valga
 verificarla
+vimos
 Application
 API
 Asigna
@@ -8401,6 +8422,7 @@ Almacenamiento
 Asegurar
 Acceso
 Asumimos
+Aristas
 Programming
 Procesos
 Partes
@@ -9706,6 +9728,8 @@ manipualr
 monedads
 manipulaci
 maquina
+multiplo
+multiplos
 tien
 tiene
 todos
@@ -10090,6 +10114,8 @@ tact
 transaccional
 teenmos
 turing
+transitividad
+transformando
 inico
 interna
 infro
@@ -10575,6 +10601,7 @@ inscriben
 inserto
 insertadas
 independen
+independent
 fijo
 file
 fork
@@ -10911,6 +10938,7 @@ fisicas
 figure
 foreanea
 fijadas
+fijamos
 Nombre
 Notas
 Not
@@ -12282,6 +12310,7 @@ Tanto
 TOdo
 Transacciones
 Transaccion
+TSP
 Realiza
 REgistrys
 Rango
@@ -12581,6 +12610,8 @@ ROLLBACK
 Redujimos
 Resolver
 Reducimos
+Reduccion
+Reduciendo
 bien
 by
 be
@@ -14893,6 +14924,7 @@ HCDB
 HAce
 Huffman
 Homog
+Hamiltoniano
 Jacobiano
 Job
 Jusitfique

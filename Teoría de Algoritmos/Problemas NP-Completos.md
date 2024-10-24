@@ -49,3 +49,7 @@ a las aristas que no existe le agrego peso 2 (para que no vaya por ahi) y a las 
 Existe un ciclo hamiltoniano en el original sii existe un camino TSP en el nuevo grafo de a lo sumo (y exactamente) n = cantidad de vertices. No puede ser menos que n. Si es mayor que N, uso una arista de peso 2-> uso una arista que no existe en el orginal
 
 ### Reduciendo 3-SAT a Ciclo hamiltoniano 
+
+Por que a 3SAT? porque es siempre una buena idea cuando no se nos ocurre a que mas reducir, ya que es bastante simple 
+
+Dado un problema 3-ST cualquiera (variables, clausulas) como definimos si es astisfacible por tener una caja resolverda de [[hai]]

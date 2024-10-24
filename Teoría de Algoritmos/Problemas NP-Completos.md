@@ -89,4 +89,4 @@ Al menos 1 debe ser True → Al menos 1 debe tener el color de True.
 
 
 
-### Reducimos 
+### Reducimos 3-coloreo a k-coloreo

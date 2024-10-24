@@ -99,3 +99,5 @@ El grafo resultante es k-coloreable si el original grafo es 3-coloreable.
 
 pinto con dos colores y listo
 
+### Subser sum 
+Por programación dinámica: O(nW) → pseudopolinomial → No depende del tamaño de la entrada sino de los valores (y termina siendo exponencial). Salvo que W = Polinomio(n). 

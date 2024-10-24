@@ -86,3 +86,7 @@ Supongamos que tenemos la expresión $x1 ⋁ \bar{  x_{2}} ⋁ x3$
 Al menos 1 debe ser True → Al menos 1 debe tener el color de True.
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdXxII12DZk-lJaPs7TTGD1519yBMh96jYBSCDcp9Hx3DqFsxmrQrH7KIbgtaocLadko1dJzWnjNvRv7NoLcwOBUwKTcb4yCR_zWUtLdnAUxx1w7beJUc3NkUHTw0v26xLhFBstyyENxFUEBtsbKgzJgN2_IbvX=s2048?key=ddV7CqlIamrZHzGhNajamQ)**
+
+
+
+### Reducimos 

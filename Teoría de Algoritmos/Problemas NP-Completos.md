@@ -56,3 +56,6 @@ Dado un problema 3-ST cualquiera (variables, clausulas) como definimos si es ast
 
 Demostracion: tu vieja 
 
+
+### CAMINO hamiltoniano es NP-Completo?
+

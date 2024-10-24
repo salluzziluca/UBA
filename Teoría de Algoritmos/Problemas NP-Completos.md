@@ -16,4 +16,7 @@ Si al menos un problema [[NP (nondetherministic polynomial)|NP]]-Completo puede 
 
 Ese es un problema NP completo.
 
-Si logramos reducir un NP completo a otro problema X->X es NP-completo ( )
+Si logramos reducir un NP completo a otro problema X->X es NP-completo (por transitividad)
+Si puedo reducir circuit satisfability a 3-SAT transformando el problema a SAT con 3 terminos y luego pasando a SAT
+
+![[Pasted image 20241024105452.png]]

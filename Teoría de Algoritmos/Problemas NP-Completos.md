@@ -25,4 +25,7 @@ como vimos en [[Reducciones]] $3-SAT \leq_{p} Independet \ set \leq_{p} vertex \
 
 
 ### Ej1: Reducir "si un numero es multiplo de otro" a "ver si un elemento está en una lista"
-Tenemos una lista con todos los mu
+Tenemos una lista con todos los multiplos de ese numero y nos fijamos si el numero en cuestion se encuenta en la lista
+
+
+### Ej2: reduciendo independent set a k-clique

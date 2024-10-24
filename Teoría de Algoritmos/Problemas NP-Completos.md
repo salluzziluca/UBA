@@ -73,4 +73,4 @@ obvio que se puede ajkdas
 ### Coloreo de grafos
 Cuando k=2 -> problema de grafo bipartito 
 cuando k=3-> ya nos fuimos a NP completo??
-Como es dificil de comparar coloreo a otro problema, va
+Como es dificil de comparar coloreo a otro problema, vamos a 3-SAT (reducimos 3SAT a colreo de 3 colores)

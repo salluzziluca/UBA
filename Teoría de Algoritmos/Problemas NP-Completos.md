@@ -57,7 +57,7 @@ Dado un problema 3-ST cualquiera (variables, clausulas) como definimos si es ast
 Demostracion: tu vieja 
 
 
-### CAMINO hamiltoniano es NP-Completo?
+### CAMINO hamiltoniano es [[NP (nondetherministic polynomial)|NP]]-Completo?
 
 Reducimos ciclo hamiltoniano a camino hamiltoniano 
 1. Agarro un v3etice al azar y lo reemplazo por v' y v''. Todas las aristas salientes de v ahora salen de v', todas las entrantes entran a v'' 
@@ -65,6 +65,9 @@ Reducimos ciclo hamiltoniano a camino hamiltoniano
 
 ### Ejercicioo tranqui: Algoritmo para ver si a + b = c
 
-Está en NP? si
-Esta en P? Si
+Está en [[NP (nondetherministic polynomial)|NP]]? si
+Esta en [[P]]? Si
 Como podemos reducir este problema al problema del viajante?QUEEEEEE
+obvio que se puede ajkdas
+
+### Coloreo de grafos

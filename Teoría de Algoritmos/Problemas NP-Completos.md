@@ -94,3 +94,8 @@ Al menos 1 debe ser True → Al menos 1 debe tener el color de True.
 Agregamos k-3 nodos que se unen entre sí y a todos los vértices originales; 
 El grafo resultante es k-coloreable si el original grafo es 3-coloreable.
 → Para todo K > 3 también es NP-Completo
+
+### Bipartito a coloreo 
+
+pinto con dos colores y listo
+

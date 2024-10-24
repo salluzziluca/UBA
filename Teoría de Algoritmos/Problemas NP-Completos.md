@@ -72,4 +72,4 @@ obvio que se puede ajkdas
 
 ### Coloreo de grafos
 Cuando k=2 -> problema de grafo bipartito 
-cuando k
+cuando k=3-> ya nos fuimos a NP completo

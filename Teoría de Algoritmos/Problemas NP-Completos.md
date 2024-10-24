@@ -52,4 +52,7 @@ Existe un ciclo hamiltoniano en el original sii existe un camino TSP en el nuevo
 
 Por que a 3SAT? porque es siempre una buena idea cuando no se nos ocurre a que mas reducir, ya que es bastante simple 
 
-Dado un problema 3-ST cualquiera (variables, clausulas) como definimos si es astisfacible por tener una caja resolverda de [[Grafos Hamiltonianos|caminos hamiltonianos]]
+Dado un problema 3-ST cualquiera (variables, clausulas) como definimos si es astisfacible por tener una caja resolvedora de [[Grafos Hamiltonianos|caminos hamiltonianos]]
+
+Demostracion: tu vieja 
+

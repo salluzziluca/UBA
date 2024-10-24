@@ -1265,6 +1265,7 @@ consultamos
 clausulas
 composicion
 completos
+certificador
 de
 dispositivos
 del
@@ -1845,6 +1846,7 @@ demostro
 deban
 deberian
 desordenado
+deterministica
 gestion
 gran
 guarda
@@ -2697,6 +2699,7 @@ ejecuten
 ehizo
 eleva
 elevar
+extremadamente
 servicios
 son
 su
@@ -3246,6 +3249,7 @@ subconjuntos
 sabemosq
 sdi
 subseteq
+sre
 par
 por
 punto
@@ -3886,6 +3890,8 @@ polinomico
 poilonomial
 peuden
 polinomica
+probvlemas
+polin
 la
 las
 le
@@ -8091,6 +8097,7 @@ virtualmente
 visito
 valer
 valga
+verificarla
 Application
 API
 Asigna
@@ -9695,6 +9702,7 @@ modificados
 manipualr
 monedads
 manipulaci
+maquina
 tien
 tiene
 todos
@@ -10078,6 +10086,7 @@ tems
 tact
 transaccional
 teenmos
+turing
 inico
 interna
 infro

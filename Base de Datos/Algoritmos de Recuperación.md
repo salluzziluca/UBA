@@ -111,3 +111,7 @@ Es necesario rehacer las transacciones 2, 3 y 5 (que son las que commitearon) de
 
 
 ### checkpoint activo en undo/redo
+
+
+
+![[Pasted image 20241023211552.png]]

@@ -89,7 +89,7 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 3. Escribir (END CKPT) en el log y volcarlo a disco
 
 
-En la recuperación es posible que debamos retroceder hasta el inicio de la transacción más antigua en el listado de transacciones, para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.
+En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.
 
 
 
@@ -107,7 +107,7 @@ Aborto todos los que no hayan commiteado
 ### checkpoint activo en redo 
 ![[Pasted image 20241023210057.png]]
 
-Es necesario rehacer las transacciones 2, 3 y 5 (que son las que commitearon) desde la línea 03. Entonces, asignamos B = 5, D = 8, E = 5, F = 7, H = 20. Finalmente agregamos (ABORT, T4) al log
+Es necesario rehacer las [[Transacción|transacciones]] 2, 3 y 5 (que son las que commitearon) desde la línea 03. Entonces, asignamos B = 5, D = 8, E = 5, F = 7, H = 20. Finalmente agregamos (ABORT, T4) al log
 
 
 ### checkpoint activo en undo/redo

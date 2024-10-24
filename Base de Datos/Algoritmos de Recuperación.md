@@ -35,7 +35,7 @@ En cambio, para el [[Checkpoints#Checkpoints activos|checkpoint activo]]:
 2. Espero a que todas las activas hagan su commit (pero sin dejar de recibir nuevas [[Transacción|transacciones]])
 3. Escribir END CKPT en log y volcarlo a disco
 
-En la recuperación hay nuevamente dos situaciones: Que encontremos primero un registro (END CKPT).En ese caso, deberemos retroceder hasta el (BEGIN , Tx ) más antiguo del listado que figure en el (BEGIN CKPT) para rehacer todas las transacciones que commitearon. Escribir (ABORT, Ty ) para aquellas que no hayan commiteado.
+En la recuperación hay nuevamente dos situaciones: Que encontremos primero un registro (END CKPT).En ese caso, deberemos retroceder hasta el (BEGIN , Tx ) más antiguo del listado que figure en el (BEGIN CKPT) para rehacer todas las [[Transacción|transacciones]] que commitearon. Escribir (ABORT, Ty ) para aquellas que no hayan commiteado.
 bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve, y entonces deberemos ir a buscar un checkpoint anterior en el log.
 ## REDO (deferred update)
 
@@ -56,12 +56,12 @@ Esto implica recorrer todo el log de atras para adelanteaplicando cada uno de lo
 
 ### Checkpoint 
 Utilizando [[Checkpoints#Checkpoints activos|active checkpoint]]:
-Escribir un registro BEGIN CKPT, Tactivas con el listado de todas las transacciones activas y vuelvo el log a disco 
-Hago el volcado a diisco de todos los items que hayan sido modificados por transacciones que ya commitearon 
+Escribir un registro BEGIN CKPT, Tactivas con el listado de todas las [[Transacción|transacciones]] activas y vuelvo el log a disco 
+Hago el volcado a diisco de todos los items que hayan sido modificados por [[Transacción|transacciones]] que ya commitearon 
 Escribo END CKPT en el log y lo vuelco a disco 
 
 
-En la recuperación es posible que debamos retroceder hasta el inicio de la transacción más antigua en el listado de transacciones, para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado
+En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado
 
 ## Algoritmo UNDO/REDO 
 Buscamos evitar que una transaccion que se grabo a disco no haya commiteado y que una transaccion que ya commiteo no haya sido grabada a disco 
@@ -84,7 +84,7 @@ En este caso tiene que deshacer todos los cambios de T1 (porque no se deberia ha
 
 
 ### Checkpoint 
-1. Escribir un registro (BEGIN CKPT, tact) con el listado de todas las transacciones activas hasta el momento y volcar el log a disco. 
+1. Escribir un registro (BEGIN CKPT, tact) con el listado de todas las [[Transacción|transacciones]] activas hasta el momento y volcar el log a disco. 
 2. Hacer el volcado a disco de todos los ítems que hayan sido modificados antes del (BEGIN CKPT). 
 3. Escribir (END CKPT) en el log y volcarlo a disco
 

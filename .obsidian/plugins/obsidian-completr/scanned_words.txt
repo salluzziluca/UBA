@@ -4668,6 +4668,9 @@ act
 antiguo
 asiganado
 adelanteaplicando
+asegurarme
+asignamos
+agregamos
 hardware
 heap
 hay
@@ -5362,6 +5365,7 @@ usaba
 utilizaba
 urabilidad
 updatear
+undo
 System
 Son
 Source
@@ -6966,6 +6970,7 @@ reinicio
 retroceder
 reocrre
 remplazando
+redo
 operacion
 orden
 operaciones
@@ -7787,6 +7792,7 @@ volcarlo
 volviendo
 volcado
 volcar
+viejos
 Application
 API
 Asigna
@@ -8076,6 +8082,7 @@ Anomal
 Abort
 ABORT
 Ante
+Aborto
 Programming
 Procesos
 Partes
@@ -8921,6 +8928,7 @@ Union
 Utilizaremos
 UID
 UNDO
+Undo
 modo
 mode
 menso
@@ -11622,6 +11630,7 @@ Masa
 Mutual
 Molnar
 METER
+Miro
 Table
 Todos
 This
@@ -11870,6 +11879,7 @@ TGID
 TID
 Tienen
 Tactivas
+Transaccion
 Realiza
 REgistrys
 Rango
@@ -12160,6 +12170,7 @@ Reads
 Recuperabilidad
 REDO
 Reinicio
+Redob
 bien
 by
 be
@@ -12470,6 +12481,7 @@ bitmap
 basados
 bloqueados
 bloqueando
+bdQue
 will
 words
 with

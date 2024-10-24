@@ -6266,6 +6266,8 @@ COMMITED
 Commit
 Construimos
 Concurrencia
+Consecuencias
+Completo
 Es
 El
 Estos
@@ -7250,6 +7252,7 @@ recordemos
 resolveer
 relativa
 ressuelve
+resolverse
 operacion
 orden
 operaciones

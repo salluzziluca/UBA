@@ -5,4 +5,8 @@ son lo mas dificil de lo mas dificil
 
 ##### Consecuencias: 
 Si X es un problema [[NP (nondetherministic polynomial)|NP]]-Completo, solo puedo resolverse en tiempo polinomial sii [[P]] = [[NP (nondetherministic polynomial)|NP]] 
-Si al menos un problema NP-Completo puede resolverse en tiempo polinomial, entonces todos pueden y P=NP
+Si al menos un problema [[NP (nondetherministic polynomial)|NP]]-Completo puede resolverse en tiempo polinomial, entonces todos pueden y [[P]]=[[NP (nondetherministic polynomial)|NP]]
+
+
+
+### Prob

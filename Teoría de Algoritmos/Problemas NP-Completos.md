@@ -37,4 +37,7 @@ Como es un si y solo si y independent set es NP-Completo, K-clicke es NP-Complet
 ## Estrategias para reducir en general 
 - Reduccion por equivalencia simple (independent set y vertex cover o lo de arriba con clique)
 - Reduccion de caso especial a caso general(N reinas a independent set)
-- Reduccion por encodeo de
+- Reduccion por encodeo de caracteristicas
+
+
+### Ej3 Problema del viajante 

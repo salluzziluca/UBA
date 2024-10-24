@@ -74,3 +74,10 @@ obvio que se puede ajkdas
 Cuando k=2 -> problema de grafo bipartito 
 cuando k=3-> ya nos fuimos a NP completo??
 Como es dificil de comparar coloreo a otro problema, vamos a 3-SAT (reducimos 3SAT a colreo de 3 colores)
+
+
+1. Creamos un nodo por cada variable xi y un nodo por su complemento
+2. Unimos los vértices de variables con sus complementos
+3. Creamos 3 nodos especiales: True, False y Base.
+4. Unimos a cada variable y complemento con Base, para formar triángulos
+Unimos True y False con Base para formar otro triángulo. 

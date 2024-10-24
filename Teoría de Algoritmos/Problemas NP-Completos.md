@@ -25,3 +25,4 @@ como vimos en [[Reducciones]] $3-SAT \leq_{p} Independet \ set \leq_{p} vertex \
 
 
 ### Ej1: Reducir "si un numero es multiplo de otro" a "ver si un elemento está en una lista"
+Tenemos una lista con todos los mu

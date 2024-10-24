@@ -104,3 +104,15 @@ Por programación dinámica: O(nW) → pseudopolinomial → No depende del tama�
 
 ¿Es NP?
 podemos reducir otro problema (3-dimensional-matching) a este → es NP-Completo. 
+
+
+### Scheduling 
+Problema más general: No tenemos sólo deadlines y duración, sino también release times (momento en el cual la tarea comienza a estar disponible)
+Bueno… este problema es NP-Completo. 
+
+Reducimos SubsetSum a este: 
+1. Definimos a S como la suma de todos los elementos. Creamos las tareas: la tarea i tiene duración wi, release de 0 y deadline S+1 (entonces se los puede ordenar a todos). 
+2. Creamos una n-ésima+1 tarea con release time W y deadline W+1, de duración 1. 
+3. Si el problema de scheduling puede resolverse, es únicamente porque se pudieron poner cosas que sumen W justo antes de esta tarea, y luego todas las demás. Además no puede haber tiempo al pedo porque todo suma S, y teníamos S+1 de tiempo total, con 1 ya consumido por esta tarea. 
+
+**Reducir desde el caso particular donde empecemos con un SubsetSum con W = Polinomio(n) no implica nada → Este caso no es NP-Completo.**

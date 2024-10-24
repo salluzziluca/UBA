@@ -73,7 +73,7 @@ obvio que se puede ajkdas
 ### Coloreo de grafos
 Cuando k=2 -> problema de grafo bipartito 
 cuando k=3-> ya nos fuimos a NP completo??
-Como es dificil de comparar coloreo a otro problema, vamos a 3-SAT (reducimos 3SAT a colreo de 3 colores)
+Como es dificil de comparar [[coloreo]] a otro problema, vamos a 3-SAT (reducimos 3SAT a colreo de 3 colores)
 
 
 1. Creamos un nodo por cada variable xi y un nodo por su complemento
@@ -89,4 +89,8 @@ Al menos 1 debe ser True → Al menos 1 debe tener el color de True.
 
 
 
-### Reducimos 3-coloreo a k-coloreo
+### Reducimos 3-[[coloreo]] a k-[[coloreo]]
+
+Agregamos k-3 nodos que se unen entre sí y a todos los vértices originales; 
+El grafo resultante es k-coloreable si el original grafo es 3-coloreable.
+→ Para todo K > 3 también es NP-Completo

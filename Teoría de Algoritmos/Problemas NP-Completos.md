@@ -20,6 +20,5 @@ Si logramos reducir un [[NP (nondetherministic polynomial)|NP]] completo a otro 
 Si puedo reducir circuit satisfability a 3-SAT transformando el problema a SAT con 3 terminos y luego pasando a SAT
 
 ![[Pasted image 20241024105452.png]]
-#### 3-SAT $\leq_{p} Independent Set$
-1. POnemos nodos = terminos ($3*k \ nodos$) de cada clausula
-2. Creamos triangulos para cada clausulasPOnemos aristas en posibles conlictos (variables opuestas)
+
+como vimos en [[Reducciones]] $3-SAT \leq_{p} Independet \ set $

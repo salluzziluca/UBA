@@ -65,4 +65,6 @@ Reducimos ciclo hamiltoniano a camino hamiltoniano
 
 ### Ejercicioo tranqui: Algoritmo para ver si a + b = c
 
-Está en NP?
+Está en NP? si
+Esta en P? Si
+Como podemos reducir este problema al problema del viajante?QUEEEEEE

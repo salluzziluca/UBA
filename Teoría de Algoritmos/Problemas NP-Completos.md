@@ -41,3 +41,9 @@ Como es un si y solo si y independent set es NP-Completo, K-clicke es NP-Complet
 
 
 ### Ej3 Problema del viajante 
+lo ponemos dirigido y sin cumplir la desigualdad triangular.
+Existe un camino de costo/distancia con maximo D?
+
+
+#### Camino hamiltoniano 
+ver [[Grafos Hamiltonianos]]

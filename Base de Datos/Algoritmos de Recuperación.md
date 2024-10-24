@@ -61,7 +61,9 @@ Hago el volcado a diisco de todos los items que hayan sido modificados por [[Tra
 Escribo END CKPT en el log y lo vuelco a disco 
 
 
-En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado
+Que encontremos primero un registro (END CKPT).En ese caso, deberemos retroceder hasta el (BEGIN , Tx ) más antiguo del listado que figure en el (BEGIN CKPT) para rehacer todas las transacciones que commitearon. Escribir (ABORT, Ty ) para aquellas que no hayan commiteado. 
+
+Que encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve, y entonces deberemos ir a buscar un checkpoint anterior en el l
 
 ## Algoritmo UNDO/REDO 
 Buscamos evitar que una transaccion que se grabo a disco no haya commiteado y que una transaccion que ya commiteo no haya sido grabada a disco 

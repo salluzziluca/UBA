@@ -45,3 +45,4 @@ lo ponemos dirigido y sin cumplir la desigualdad triangular.
 Existe un camino de costo/distancia con maximo D?
 
 como podemos reducir [[Grafos Hamiltonianos]] a el problema del viajante?
+a las aristas que no existe le agrego peso 2 (para que no vaya por ahi)

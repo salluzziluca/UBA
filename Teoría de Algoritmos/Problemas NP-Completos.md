@@ -30,4 +30,4 @@ Tenemos una lista con todos los multiplos de ese numero y nos fijamos si el nume
 
 ### Ej2: reduciendo independent set a k-clique
 1. Obtenemos el grafo complemento ->Aristas que no estan en G 
-2. Definimos que hay un independent set de al menos K vertices sii hay un clique de al men
+2. Definimos que hay un independent set de al menos K vertices sii hay un clique de al menos K vertices en el grafo complemento

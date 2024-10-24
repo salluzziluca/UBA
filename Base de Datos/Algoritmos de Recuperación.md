@@ -106,3 +106,8 @@ Aborto todos los que no hayan commiteado
 
 ### checkpoint activo en redo 
 ![[Pasted image 20241023210057.png]]
+
+Es necesario rehacer las transacciones 2, 3 y 5 (que son las que commitearon) desde la línea 03. Entonces, asignamos B = 5, D = 8, E = 5, F = 7, H = 20. Finalmente agregamos (ABORT, T4) al log
+
+
+### checkpoint activo en undo/redo

@@ -186,6 +186,8 @@ KQtuu
 Khs
 KJx
 KqQ
+KdO
+KYb
 La
 Los
 Luego
@@ -1853,6 +1855,8 @@ deban
 deberian
 desordenado
 deterministica
+dBoaI
+dDl
 gestion
 gran
 guarda
@@ -3903,6 +3907,7 @@ polinomica
 probvlemas
 polin
 pasando
+pxQ
 la
 las
 le
@@ -4892,6 +4897,7 @@ autorizados
 asber
 arbitraria
 astisfacible
+axh
 hardware
 heap
 hay
@@ -5147,6 +5153,7 @@ haay
 homogenea
 hardarwe
 hamiltonianos
+hkm
 que
 queda
 quien
@@ -6285,6 +6292,7 @@ Consecuencias
 Completo
 Cook
 Circuit
+COO
 Es
 El
 Estos
@@ -8123,6 +8131,7 @@ valer
 valga
 verificarla
 vimos
+vRt
 Application
 API
 Asigna
@@ -8424,6 +8433,7 @@ Asegurar
 Acceso
 Asumimos
 Aristas
+Acc
 Programming
 Procesos
 Partes
@@ -8766,6 +8776,8 @@ PLE
 Permitir
 Podemore
 POLINOMILAMENTE
+PZZJ
+PTTD
 Interface
 ID
 Instructions
@@ -9279,6 +9291,7 @@ Unchained
 Union
 Utilizaremos
 UNDO
+UTT
 modo
 mode
 menso
@@ -11430,6 +11443,10 @@ Fuentes
 Formula
 Fijo
 Fuhi
+FNN
+FcQ
+Fii
+FLLL
 Descriptors
 Descriptor
 Devuelve
@@ -11755,6 +11772,7 @@ Describ
 DATO
 Distintos
 Demostracion
+Dii
 Memoria
 Multivariada
 MORE
@@ -12313,6 +12331,7 @@ TOdo
 Transacciones
 Transaccion
 TSP
+Thu
 Realiza
 REgistrys
 Rango
@@ -12614,6 +12633,7 @@ Resolver
 Reducimos
 Reduccion
 Reduciendo
+RcP
 bien
 by
 be
@@ -12927,6 +12947,7 @@ branching
 bounds
 booleana
 bar
+bTUU
 will
 words
 with
@@ -13534,6 +13555,7 @@ Ofrecer
 OPTION
 Ordenar
 ORs
+Oct
 ya
 yo
 yM
@@ -14261,6 +14283,7 @@ GROUP
 Greedy
 Generaliazacion
 GRANT
+GVV
 BX
 Bit
 Box
@@ -14529,6 +14552,7 @@ Branch
 Borrado
 Bipartite
 Busquedas
+Bww
 XY
 Xg
 XQG
@@ -14697,6 +14721,7 @@ Xvq
 XAVo
 Xold
 Xnew
+XWW
 HEAD
 Hay
 Herencia
@@ -15345,6 +15370,7 @@ Qmx
 QHb
 Quentin
 QUE
+QZFL
 ximo
 xito
 xitos
@@ -15501,6 +15527,7 @@ xqm
 xNg
 xDn
 ximos
+xgaB
 Workload
 Walrus
 Whitley
@@ -15680,6 +15707,7 @@ WTi
 Weierstrass
 WAL
 WRITE
+WrE
 ZZZPU
 ZX
 ZQ
@@ -15853,6 +15881,10 @@ ZZg
 ZKKF
 Zfd
 Ztv
+ZPM
+ZiK
+Zyz
+ZFjYq
 zZ
 za
 zR

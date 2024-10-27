@@ -1274,6 +1274,8 @@ circuit
 cuestion
 complemento
 clicke
+cubro
+cubrir
 de
 dispositivos
 del
@@ -10132,6 +10134,7 @@ teenmos
 turing
 transitividad
 transformando
+triangulo
 inico
 interna
 infro

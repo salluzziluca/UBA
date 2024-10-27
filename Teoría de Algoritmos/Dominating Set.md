@@ -5,3 +5,6 @@ o bien (ii) es _adyacente a un vértice en D_.
 
 ![[Pasted image 20240915145220.png]]
 En esos 3 casos puedo acceder a todos los vertices mediante mi dominating set
+
+
+No es lo mismo que [[Vertex Cover]],

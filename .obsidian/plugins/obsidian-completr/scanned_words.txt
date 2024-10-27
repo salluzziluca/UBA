@@ -1857,6 +1857,7 @@ desordenado
 deterministica
 dBoaI
 dDl
+dominating
 gestion
 gran
 guarda
@@ -4898,6 +4899,7 @@ asber
 arbitraria
 astisfacible
 axh
+adyacente
 hardware
 heap
 hay
@@ -11773,6 +11775,7 @@ DATO
 Distintos
 Demostracion
 Dii
+Dominating
 Memoria
 Multivariada
 MORE

@@ -151,3 +151,4 @@ Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP co
 
 
 ## [[Dominating Set]] es NP?
+Es un problema de elección de subconjuntos

@@ -1276,6 +1276,7 @@ complemento
 clicke
 cubro
 cubrir
+cnAUk
 de
 dispositivos
 del
@@ -6297,6 +6298,8 @@ Completo
 Cook
 Circuit
 COO
+CatIA
+Cover
 Es
 El
 Estos
@@ -13358,6 +13361,7 @@ Vos
 Valle
 Vemos
 Vandermonde
+Vertex
 OPTIONS
 Operativos
 Orden
@@ -14728,6 +14732,7 @@ XAVo
 Xold
 Xnew
 XWW
+XWkEpp
 HEAD
 Hay
 Herencia

@@ -440,6 +440,7 @@ Lock
 Lagrange
 Levin
 Location
+Link
 capa
 controlado
 cantidad
@@ -1291,6 +1292,10 @@ conocida
 checkpointing
 carpeta
 cursando
+crearFrontmatter
+createFolder
+catch
+creation
 de
 dispositivos
 del
@@ -2149,6 +2154,9 @@ grago
 ganado
 genuid
 getAbstractFileByPath
+groupBy
+grupoCapitulo
+getActiveFile
 especifico
 entra
 en
@@ -2748,6 +2756,7 @@ etice
 empecemos
 entendes
 escribiendo
+else
 servicios
 son
 su
@@ -3309,6 +3318,11 @@ suspensi
 sdjkhasdjk
 susus
 susssss
+split
+sort
+splice
+suggester
+startsWith
 par
 por
 punto
@@ -3964,6 +3978,12 @@ perooo
 perro
 prompt
 property
+preguntarMateria
+pathActual
+pages
+parseInt
+primerCapitulo
+processFrontMatter
 la
 las
 le
@@ -4324,6 +4344,8 @@ lla
 leq
 logramos
 let
+length
+link
 agnosticos
 apps
 al
@@ -4965,6 +4987,9 @@ activos
 aminorar
 autor
 await
+async
+archivoActivo
+autores
 hardware
 heap
 hay
@@ -5675,6 +5700,7 @@ unen
 undo
 updated
 usususus
+ubicaci
 System
 Son
 Source
@@ -6380,6 +6406,7 @@ CUENTEA
 CANTIODAD
 CARACTERISTICAS
 Checkpoints
+Capitulo
 Es
 El
 Estos
@@ -7376,6 +7403,9 @@ resultante
 release
 redo
 rdida
+return
+rows
+rename
 operacion
 orden
 operaciones
@@ -8234,6 +8264,7 @@ vimos
 vRt
 viejos
 vault
+values
 Application
 API
 Asigna
@@ -8541,6 +8572,7 @@ AUTENTICAR
 ATRIBUTOS
 Articulo
 Apuntes
+Autor
 Programming
 Procesos
 Partes
@@ -9409,6 +9441,7 @@ UTT
 Unimos
 Undo
 UNO
+Untitle
 modo
 mode
 menso
@@ -9865,6 +9898,10 @@ matching
 moment
 mierda
 modified
+materiaArchivo
+moverArchivo
+move
+mensaje
 tien
 tiene
 todos
@@ -10260,6 +10297,13 @@ triste
 template
 tfile
 titulo
+temasExistentes
+tArchivos
+tArchivo
+try
+tempCreado
+trash
+title
 inico
 interna
 infro
@@ -10749,6 +10793,7 @@ independent
 inactivos
 inactivo
 iandnasdnasn
+ingreso
 fijo
 file
 fork
@@ -11092,6 +11137,11 @@ fuimos
 foto
 fuzzy
 find
+folder
+filter
+fileManager
+frontmatter
+function
 Nombre
 Notas
 Not
@@ -11300,6 +11350,7 @@ Niveles
 Notar
 Ningun
 NOMBRE
+Notice
 File
 For
 Funcion
@@ -12485,6 +12536,7 @@ Thu
 TODA
 TRISTE
 Template
+Titulo
 Realiza
 REgistrys
 Rango
@@ -13302,6 +13354,7 @@ writeTS
 write
 wirte
 writes
+workspace
 VA
 VIEW
 Volumen

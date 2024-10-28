@@ -26,3 +26,11 @@ Problemas que se resuelven con un algoritmo que consume una cantidad polinomial 
 
 ### Cuantificacion (QSAT)
 ![[Pasted image 20241028113744.png]]
+Si usáramos dos arreglos en cada paso de la recursividad: S(n) = 2 S(n-1) + p(n)
+Pero podemos reutilizar → S(n) = S(n-1) + p(n)  <= n p(n) → QSAT está en PSPACE. 
+
+
+### Juegos de 2 jugadores 
+1. Ajedrez 
+2. Go 
+3. Competitive Facility Location Problem

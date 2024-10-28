@@ -164,3 +164,6 @@ Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, enton
 Si hay vertex cover de al menos k vertices hay dominating set de al menos k vertices
 
 ### Por 3 sat
+Partimos de tener n variables y m cláusulas. Creamos un grafo de 3n + m nodos: Tenemos un nodo por cada variable (xi), por cada complemento, y uno extra (ui), y uno por cada cláusula. 
+
+Formamos triángulos entre el vértice de xi, su complemento y su extra → El extra sólo se une a variable o complemento → uno de los dos debe quedar seleccionado (si es ui, es que puede ser cualquiera). 

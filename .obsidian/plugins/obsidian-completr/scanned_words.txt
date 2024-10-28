@@ -3302,6 +3302,8 @@ salientes
 sima
 suspensi
 sdjkhasdjk
+susus
+susssss
 par
 por
 punto
@@ -3953,6 +3955,7 @@ pseudopolinomial
 pudieron
 pasoo
 perepepep
+perooo
 la
 las
 le
@@ -5661,6 +5664,7 @@ usula
 unen
 undo
 updated
+usususus
 System
 Son
 Source
@@ -9847,6 +9851,7 @@ multiplos
 matching
 moment
 mierda
+modified
 tien
 tiene
 todos
@@ -10238,6 +10243,7 @@ tri
 tranqui
 times
 ten
+triste
 inico
 interna
 infro
@@ -12458,6 +12464,7 @@ Transaccion
 TSP
 Thu
 TODA
+TRISTE
 Realiza
 REgistrys
 Rango
@@ -15093,6 +15100,7 @@ Huffman
 Homog
 Hamiltoniano
 Hamiltonianos
+HOLDUP
 Jacobiano
 Job
 Jusitfique
@@ -15850,6 +15858,7 @@ Weierstrass
 WAL
 WRITE
 WrE
+WJEJEJE
 ZZZPU
 ZX
 ZQ

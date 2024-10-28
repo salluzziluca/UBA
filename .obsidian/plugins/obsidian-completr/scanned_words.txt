@@ -2137,6 +2137,7 @@ grabada
 guardados
 gestiona
 grago
+ganado
 especifico
 entra
 en
@@ -4933,6 +4934,9 @@ astisfacible
 axh
 adyacente
 ajkdas
+asiEn
+asegurarme
+asignamos
 hardware
 heap
 hay
@@ -5639,6 +5643,7 @@ uisar
 usulas
 usula
 unen
+undo
 System
 Son
 Source
@@ -7331,6 +7336,7 @@ resolvedora
 reducimos
 resultante
 release
+redo
 operacion
 orden
 operaciones
@@ -8186,6 +8192,7 @@ valga
 verificarla
 vimos
 vRt
+viejos
 Application
 API
 Asigna
@@ -8488,6 +8495,7 @@ Acceso
 Asumimos
 Aristas
 Acc
+Aborto
 Programming
 Procesos
 Partes
@@ -9349,6 +9357,7 @@ Utilizaremos
 UNDO
 UTT
 Unimos
+Undo
 modo
 mode
 menso
@@ -11843,6 +11852,8 @@ Distintos
 Demostracion
 Dii
 Dominating
+Deshago
+Deberemos
 Memoria
 Multivariada
 MORE
@@ -12150,6 +12161,7 @@ MULTA
 Maximizo
 METER
 Matching
+Miro
 Table
 Todos
 This
@@ -12704,6 +12716,7 @@ Reducimos
 Reduccion
 Reduciendo
 RcP
+Redob
 bien
 by
 be
@@ -13018,6 +13031,7 @@ bounds
 booleana
 bar
 bTUU
+bdQue
 will
 words
 with
@@ -13212,6 +13226,7 @@ workshop
 writeTS
 write
 wirte
+writes
 VA
 VIEW
 Volumen

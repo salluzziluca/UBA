@@ -1,4 +1,3 @@
 ---
 Dia: <% tp.date.now() %>
-Modificado: `this.file.mday`
 ---

@@ -24,3 +24,15 @@ al item F lo pongo en 50 (UNDO)
 
 3b Termina antes de la linea 22
 Encuentro un END CKPT, subo hasta encontrar un START CKPT (linea 7). Se entonces que T1 y T2 terminaron (tengo que hacer REDO). Tambien se que T3 y T4 empezaron pero no commitearon, tengo que hacer UNDO. 
+El item A lo pongo en 50
+El item B en 60
+El item A en 70
+el item C en 25
+El item B en 80
+El item D en 40
+Al item C lo pongo en 35
+Al item E lo pongo en 70 (undo)
+Al item D lo pongo en 60 
+al item F lo pongo en 50 (UNDO)
+Al Item G lo pongo en 80 (UNDO)
+

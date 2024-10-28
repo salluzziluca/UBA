@@ -162,3 +162,5 @@ Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, enton
 ![[Pasted image 20241027210819.png]]
 
 Si hay vertex cover de al menos k vertices hay dominating set de al menos k vertices
+
+

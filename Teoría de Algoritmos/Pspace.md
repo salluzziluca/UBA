@@ -92,4 +92,12 @@ Ahora… ¿por qué tenemos que ir por adyacentes?
 Para cada posible C' vemos si podemos llegar de C1 a C' en hasta L/2 pasos, y de C' a C2 en L/2 pasos. 
 Como sólo nos importa el true/false, se descarta cualquier otra cosa. 
 Entonces, se hacen hasta log2(L) = n llamados recursivos (= consumo de memoria → espacio polinomial), aparte puede depender de un polinomio de n y k. 
-→ Planning está en PSPACE
+→**Planning está en PSPACE**
+
+**QSAT es PSPACE-completo.**
+**
+
+QSAT <=P Competitive 3-SAT y Competitive 3-SAT <=P QSAT
+
+**
+**Se puede reducir (*) QSAT a CFL, por lo que CFL también es PSPACE-completo.**

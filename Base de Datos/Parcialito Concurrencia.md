@@ -23,3 +23,4 @@ al item F lo pongo en 50 (UNDO)
 
 
 3b Termina antes de la linea 22
+Encuentro un END CKPT, subo hasta encontrar un START CKPT (linea 7). Se entonces que T1 y T2 terminaron (tengo que hacer REDO). Tambien se que T3 y T4 empezaron pero no commitearon, tengo que hacer UNDO. 

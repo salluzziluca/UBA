@@ -116,7 +116,7 @@ Tenemos un certificador eficiente si un validador es correcto y se ejecuta en ti
 
 
 ## Clases de complejidad
-![[P]]
+![[Teoría de Algoritmos/P]]
 
 
 

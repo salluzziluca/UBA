@@ -4,8 +4,8 @@ Todo problema [[NP (nondetherministic polynomial)|NP]] se puede reducir a ese. E
 son lo mas dificil de lo mas dificil
 
 ##### Consecuencias: 
-Si X es un problema [[NP (nondetherministic polynomial)|NP]]-Completo, solo puedo resolverse en tiempo polinomial sii [[P]] = [[NP (nondetherministic polynomial)|NP]] 
-Si al menos un problema [[NP (nondetherministic polynomial)|NP]]-Completo puede resolverse en tiempo polinomial, entonces todos pueden y [[P]]=[[NP (nondetherministic polynomial)|NP]]
+Si X es un problema [[NP (nondetherministic polynomial)|NP]]-Completo, solo puedo resolverse en tiempo polinomial sii [[Teoría de Algoritmos/P]] = [[NP (nondetherministic polynomial)|NP]] 
+Si al menos un problema [[NP (nondetherministic polynomial)|NP]]-Completo puede resolverse en tiempo polinomial, entonces todos pueden y [[Teoría de Algoritmos/P]]=[[NP (nondetherministic polynomial)|NP]]
 
 
 
@@ -66,7 +66,7 @@ Reducimos ciclo hamiltoniano a camino hamiltoniano
 ### Ejercicioo tranqui: Algoritmo para ver si a + b = c
 
 Está en [[NP (nondetherministic polynomial)|NP]]? si
-Esta en [[P]]? Si
+Esta en [[Teoría de Algoritmos/P]]? Si
 Como podemos reducir este problema al problema del viajante?QUEEEEEE
 obvio que se puede ajkdas
 

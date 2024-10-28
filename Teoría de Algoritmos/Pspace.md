@@ -21,13 +21,13 @@ Problemas que se resuelven con un algoritmo que consume una cantidad polinomial 
 
 1. Mergesort es PSPACE? Si, porque partimos en arreglos, mas o menos consumimos O(n)
 2. Fibonacci es PSPACE? Si, porque lo resolvemos en O(n)
-3. [[P]] es PSPACE? Si, porque necesitas pedirle si o si el espacio polinomial al sistema.
+3. [[Teoría de Algoritmos/P]] es PSPACE? Si, porque necesitas pedirle si o si el espacio polinomial al sistema.
 
 
 ### Cuantificacion (QSAT)
 ![[Pasted image 20241028113744.png]]
-Si usáramos dos arreglos en cada paso de la recursividad: S(n) = 2 S(n-1) + [[p]](n)
-Pero podemos reutilizar → S(n) = S(n-1) + [[p]](n)  <= n [[p]](n) → QSAT está en PSPACE. 
+Si usáramos dos arreglos en cada paso de la recursividad: S(n) = 2 S(n-1) + [[Teoría de Algoritmos/P]](n)
+Pero podemos reutilizar → S(n) = S(n-1) + [[Teoría de Algoritmos/P]](n)  <= n [[Teoría de Algoritmos/P]](n) → QSAT está en PSPACE. 
 
 
 ### Juegos de 2 jugadores 

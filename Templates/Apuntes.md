@@ -1,5 +1,5 @@
 ---
-dia: {{DATE:MM-DD-YY}}
+my-file-property-name:  {{date:YYYY-MM-DD}} {{time}}
 ---
 
 

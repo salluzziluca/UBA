@@ -1,3 +1,3 @@
 ---
-Dia: <% tp.date.now("DD.MMMM YYYY") %>
+Dia: <% tp.date.now() %>
 ---

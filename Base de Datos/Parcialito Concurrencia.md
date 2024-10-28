@@ -12,6 +12,12 @@ el item C en 25
 El item B en 80
 El item D en 40
 Al item C lo pongo en 35
+Al item E lo pongo en 70 (undo)
+Al item D lo pongo en 60 
+al item F lo pongo en 50 (UNDO)
 
+| --  | A   | B   | C   | D   | E   | F   | G   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 18  |     |     |     |     |     |     |     |
 
 

@@ -167,3 +167,11 @@ Si hay vertex cover de al menos k vertices hay dominating set de al menos k vert
 Partimos de tener n variables y m cláusulas. Creamos un grafo de 3n + m nodos: Tenemos un nodo por cada variable (xi), por cada complemento, y uno extra (ui), y uno por cada cláusula. 
 
 Formamos triángulos entre el vértice de xi, su complemento y su extra → El extra sólo se une a variable o complemento → uno de los dos debe quedar seleccionado (si es ui, es que puede ser cualquiera). 
+
+
+Tenemos n triángulos donde un vértice (extra) sólo se une a 2 de estos → al menos uno de esos 3 debe quedar seleccionado (similar a 3-SAT <=pIndependent Set), pero no puede haber más de 1 por triángulo porque podemos seleccionar hasta n, sino es imposible dominar las variables extra. 
+
+Luego, para que los vértices de claúsulas queden dominados, alguna de sus variables deben quedar en el conjunto → si hay Dominating Set, esta asignación permite que todas las cláusulas del 3-SAT sean satisfechas. 
+
+
+Ningun triangulo de la clausula puede estar en dominating 

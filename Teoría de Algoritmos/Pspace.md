@@ -25,3 +25,4 @@ Problemas que se resuelven con un algoritmo que consume una cantidad polinomial 
 
 
 ### Cuantificacion (QSAT)
+![[Pasted image 20241028113744.png]]

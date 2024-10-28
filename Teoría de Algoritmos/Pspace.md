@@ -69,3 +69,8 @@ En el marco de nuestro problema, … ¿Existe un camino de C0 a C*?
 En el peor de los casos tenemos que pasar por todos los estados posibles (→ O(2n))
 (Si fueran de un tamaño polinomial, estaría en NP porque validarlo se hace en tiempo polinomial)
 
+
+¿Creamos el grafo de las configuraciones?
+¿Hacemos un BFS/DFS simulando el comportamiento?
+No, porque no podemos cargar todos los estados en memoria (en jarras se puede porque son 24 nomas)
+¿Y entonces para qué vimos lo 

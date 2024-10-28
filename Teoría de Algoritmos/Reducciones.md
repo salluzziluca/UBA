@@ -154,3 +154,5 @@ Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP co
 Es un problema de elección de subconjuntos. 
 
 Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)
+
+Si tengo un grafo con un vertex cover y uno los vertices a los que lleguen 

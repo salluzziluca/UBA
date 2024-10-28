@@ -73,4 +73,7 @@ En el peor de los casos tenemos que pasar por todos los estados posibles (→ O(
 ¿Creamos el grafo de las configuraciones?
 ¿Hacemos un BFS/DFS simulando el comportamiento?
 No, porque no podemos cargar todos los estados en memoria (en jarras se puede porque son 24 nomas)
-¿Y entonces para qué vimos lo 
+
+Como BFS y DFS mantienen un historial muy grande y no reusan espacio suficiente usamos algo similar a D&C
+
+

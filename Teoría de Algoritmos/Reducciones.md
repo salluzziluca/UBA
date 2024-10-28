@@ -183,3 +183,5 @@ Si hay un domianting set necesariamente los vertices de las clausulas estan domi
 Ej: x1 not x2 y x3. Me uno a x1, no x2 y x3. Si o si alguno de esos 3 vertices tiene que estar en el dominating set. Si yo le pongo true a ese toda la clausula seria true. 
 
 yo llamo a dominating set con un grafo formado de esta forma 
+
+**esta asignación permite que todas las cláusulas del 3-SAT sean satisfecha**

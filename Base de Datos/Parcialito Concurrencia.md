@@ -22,4 +22,4 @@ al item F lo pongo en 50 (UNDO)
 | 22    |     |     |     |     |     |     |     |
 
 
-3b Termina
+3b Termina antes de la linea 22

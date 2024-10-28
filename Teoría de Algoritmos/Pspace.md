@@ -17,4 +17,8 @@ Hay algo peor que las cosas que toman mas tiempo que exponencial
 
 
 # PSPACE
-Problemas que se resuelven conun algor
+Problemas que se resuelven con un algoritmo que consume una cantidad polinomial de espacio
+
+1. Mergesort es PSPACE
+2. Fibonacci es PSPACE
+3. P es PSPACE

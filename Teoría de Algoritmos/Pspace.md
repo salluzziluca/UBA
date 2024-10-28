@@ -22,3 +22,6 @@ Problemas que se resuelven con un algoritmo que consume una cantidad polinomial 
 1. Mergesort es PSPACE? Si, porque partimos en arreglos, mas o menos consumimos O(n)
 2. Fibonacci es PSPACE? Si, porque lo resolvemos en O(n)
 3. P es PSPACE? Si, porque necesitas pedirle si o si el espacio polinomial al sistema.
+
+
+### Cuantificacion (QSAT)

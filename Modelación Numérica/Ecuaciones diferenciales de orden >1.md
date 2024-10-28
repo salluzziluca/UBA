@@ -1,0 +1,1 @@
+Divido la ecuaciones de segundo orden en dos de orden 1

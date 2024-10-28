@@ -73,7 +73,7 @@ $$C_{1}= x_{1}\lor x_{2} \lor x_{3} or x_{4} \lor\dots \lor x_{n}$$
 y despues tengo $$S= C_{1} \land C_{2} \land C_{3} \land\dots \land$ C_{k}$$
 Luego, busco que S sea true. Este problema es lo **suficientemente general** como para poder resolver un monton de cosas
 
-### 3SAT 
+### 3-SAT 
 Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 
 

@@ -1277,6 +1277,13 @@ clicke
 cubro
 cubrir
 cnAUk
+cla
+clausula
+cilco
+colreo
+complementos
+coloreable
+comienza
 de
 dispositivos
 del
@@ -1861,6 +1868,13 @@ deterministica
 dBoaI
 dDl
 dominating
+dominant
+dominar
+dominados
+domianting
+dimensional
+deadlines
+dem
 gestion
 gran
 guarda
@@ -2717,6 +2731,9 @@ extremadamente
 equivalencia
 especial
 encodeo
+elecci
+etice
+empecemos
 servicios
 son
 su
@@ -3268,6 +3285,12 @@ sdi
 subseteq
 sre
 satisfability
+sat
+sulas
+satisfechas
+satisfecha
+salientes
+sima
 par
 por
 punto
@@ -3912,6 +3935,11 @@ probvlemas
 polin
 pasando
 pxQ
+pIndependent
+ponerla
+pinto
+pseudopolinomial
+pudieron
 la
 las
 le
@@ -4903,6 +4931,7 @@ arbitraria
 astisfacible
 axh
 adyacente
+ajkdas
 hardware
 heap
 hay
@@ -5159,6 +5188,7 @@ homogenea
 hardarwe
 hamiltonianos
 hkm
+hamiltopniano
 que
 queda
 quien
@@ -5351,6 +5381,7 @@ querys
 quier
 qeu
 qued
+queden
 utilizados
 un
 una
@@ -5604,6 +5635,9 @@ unrepeteale
 urabilidad
 updatear
 uisar
+usulas
+usula
+unen
 System
 Son
 Source
@@ -5901,6 +5935,9 @@ Sabemos
 Satisficibilidad
 SAT
 Satisfiability
+Subser
+Salvo
+SubsetSum
 Calls
 Cmabia
 CPU
@@ -6300,6 +6337,7 @@ Circuit
 COO
 CatIA
 Cover
+CAMINO
 Es
 El
 Estos
@@ -6623,6 +6661,7 @@ Eliminaci
 Ejercicio
 Efectivamente
 Estrategias
+Ejercicioo
 kernel
 kt
 kU
@@ -7288,6 +7327,9 @@ ressuelve
 resolverse
 resolverda
 resolvedora
+reducimos
+resultante
+release
 operacion
 orden
 operaciones
@@ -7570,6 +7612,8 @@ organizan
 obligado
 optiomos
 orginal
+ogiginal
+obvio
 nombre
 nuevo
 nica
@@ -7834,6 +7878,8 @@ numericos
 nuevamente
 ntica
 nacieron
+ngulos
+ngulo
 via
 vuelve
 viven
@@ -8785,6 +8831,8 @@ Podemore
 POLINOMILAMENTE
 PZZJ
 PTTD
+Partimos
+Polinomio
 Interface
 ID
 Instructions
@@ -9299,6 +9347,7 @@ Union
 Utilizaremos
 UNDO
 UTT
+Unimos
 modo
 mode
 menso
@@ -9751,6 +9800,7 @@ manipulaci
 maquina
 multiplo
 multiplos
+matching
 tien
 tiene
 todos
@@ -10138,6 +10188,10 @@ turing
 transitividad
 transformando
 triangulo
+tri
+tranqui
+times
+ten
 inico
 interna
 infro
@@ -10961,6 +11015,9 @@ figure
 foreanea
 fijadas
 fijamos
+forman
+formado
+fuimos
 Nombre
 Notas
 Not
@@ -11167,6 +11224,7 @@ Nuevas
 Nuestras
 Niveles
 Notar
+Ningun
 File
 For
 Funcion
@@ -11455,6 +11513,8 @@ FNN
 FcQ
 Fii
 FLLL
+Formamos
+False
 Descriptors
 Descriptor
 Devuelve
@@ -13914,6 +13974,7 @@ jurados
 jurado
 jugadores
 jugador
+justo
 Ya
 Yourself
 YAGNI
@@ -14563,6 +14624,8 @@ Borrado
 Bipartite
 Busquedas
 Bww
+Bipartito
+Bueno
 XY
 Xg
 XQG
@@ -15382,6 +15445,7 @@ QHb
 Quentin
 QUE
 QZFL
+QUEEEEEE
 ximo
 xito
 xitos

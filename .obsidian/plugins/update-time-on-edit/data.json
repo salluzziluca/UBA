@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-dd-MM'T'HH:mm",
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
   "enableCreateTime": true,
   "headerUpdated": "updated",
   "headerCreated": "created",

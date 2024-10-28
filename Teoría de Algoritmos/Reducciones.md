@@ -160,3 +160,5 @@ Aparte, tenemos un vértice por cada arista del grafo original. Unimos los vért
 Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, entonces esos mismos vértices forman un dominant set en el nuevo grafo → si hay un dominant set de tamaño k, hay un vertex cover de tamaño k →  pudimos reducir VC a DS → DS es NP Completo.
 
 ![[Pasted image 20241027210819.png]]
+
+Si hay vertex cover de al menos k vertices hay dominating set de al menos k vertices

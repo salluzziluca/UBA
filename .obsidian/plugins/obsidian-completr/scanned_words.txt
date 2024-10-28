@@ -1289,6 +1289,7 @@ checkpoints
 conocida
 checkpointing
 carpeta
+cursando
 de
 dispositivos
 del
@@ -8537,6 +8538,7 @@ Aborto
 AUTENTICAR
 ATRIBUTOS
 Articulo
+Apuntes
 Programming
 Procesos
 Partes

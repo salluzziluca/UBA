@@ -152,7 +152,7 @@ Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP co
 
 ## [[Dominating Set]] es NP?
 Es un problema de elección de subconjuntos. 
-
+### Por vertex cover
 Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)
 
 Tenemos nuestro grafo original G, y vamos a construir otro grafo. Este nuevo grafo va a tener los mismos vértices que el original.
@@ -163,4 +163,4 @@ Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, enton
 
 Si hay vertex cover de al menos k vertices hay dominating set de al menos k vertices
 
-
+### Por 3 sat

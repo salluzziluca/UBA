@@ -1284,6 +1284,7 @@ colreo
 complementos
 coloreable
 comienza
+created
 de
 dispositivos
 del
@@ -1876,6 +1877,7 @@ dimensional
 deadlines
 dem
 date
+domicilio
 gestion
 gran
 guarda
@@ -5645,6 +5647,7 @@ usulas
 usula
 unen
 undo
+updated
 System
 Son
 Source
@@ -6346,6 +6349,9 @@ CatIA
 Cover
 CAMINO
 Caminos
+CUENTEA
+CANTIODAD
+CARACTERISTICAS
 Es
 El
 Estos
@@ -6670,6 +6676,8 @@ Ejercicio
 Efectivamente
 Estrategias
 Ejercicioo
+EMAIL
+EXTENSIBLES
 kernel
 kt
 kU
@@ -7889,6 +7897,7 @@ ntica
 nacieron
 ngulos
 ngulo
+nero
 via
 vuelve
 viven
@@ -8498,6 +8507,8 @@ Asumimos
 Aristas
 Acc
 Aborto
+AUTENTICAR
+ATRIBUTOS
 Programming
 Procesos
 Partes
@@ -8844,6 +8855,10 @@ PZZJ
 PTTD
 Partimos
 Polinomio
+PASS
+PRODUCTOS
+PEDIDOS
+POR
 Interface
 ID
 Instructions
@@ -9132,6 +9147,7 @@ Inherentes
 Inserci
 Independencia
 Integridad
+INCLUIR
 Un
 UNIX
 UBA
@@ -9360,6 +9376,7 @@ UNDO
 UTT
 Unimos
 Undo
+UNO
 modo
 mode
 menso
@@ -11030,6 +11047,7 @@ fijamos
 forman
 formado
 fuimos
+foto
 Nombre
 Notas
 Not
@@ -11237,6 +11255,7 @@ Nuestras
 Niveles
 Notar
 Ningun
+NOMBRE
 File
 For
 Funcion
@@ -11527,6 +11546,7 @@ Fii
 FLLL
 Formamos
 False
+FORMAS
 Descriptors
 Descriptor
 Devuelve
@@ -12719,6 +12739,8 @@ Reduccion
 Reduciendo
 RcP
 Redob
+REGISTRAR
+RECUPERAR
 bien
 by
 be
@@ -13440,6 +13462,7 @@ Valle
 Vemos
 Vandermonde
 Vertex
+VALIDADO
 OPTIONS
 Operativos
 Orden
@@ -13644,6 +13667,7 @@ OPTION
 Ordenar
 ORs
 Oct
+OLVIDA
 ya
 yo
 yM

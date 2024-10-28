@@ -100,4 +100,10 @@ Entonces, se hacen hasta log2(L) = n llamados recursivos (= consumo de memoria �
 QSAT <=P Competitive 3-SAT y Competitive 3-SAT <=P QSAT
 
 **
-**Se puede reducir (*) QSAT a CFL, por lo que CFL también es PSPACE-completo.**
+Se puede reducir (citation needed) QSAT a CFL, por lo que CFL también es PSPACE-completo.
+
+
+
+Un PSPACE completo, ¿Es NP-Completo?
+
+No son NP-Completo, sino NP-difícil.

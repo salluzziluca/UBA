@@ -10,3 +10,11 @@ Como ahora en vez de "existe algun camino/seleccion/particion" es un "para todo 
 
 Si un problema pertenece a NP → es fácil demostrar cuando algo es solución. 
 Si un problema pertenece a co-NP → es fácil demostrar que algo no es solución/no tiene solución ("No existe un camino de largo como mucho N", etc…). 
+
+
+## Mas allá de NP 
+Hay algo peor que las cosas que toman mas tiempo que exponencial
+
+
+# PSPACE
+Problemas que se resuelven conun algor

@@ -155,6 +155,8 @@ Es un problema de elección de subconjuntos.
 
 Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)
 
-Si tengo un grafo con un vertex cover y uno los vertices a los que lleguen dos aristas del VC, tengo un dominating set
+Tenemos nuestro grafo original G, y vamos a construir otro grafo. Este nuevo grafo va a tener los mismos vértices que el original.
+Aparte, tenemos un vértice por cada arista del grafo original. Unimos los vértices adicionales con los vértices que originalmente unían (como poner un vértice en el medio). 
+Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, entonces esos mismos vértices forman un dominant set en el nuevo grafo → si hay un dominant set de tamaño k, hay un vertex cover de tamaño k →  pudimos reducir VC a DS → DS es NP Completo.
 
 ![[Pasted image 20241027210819.png]]

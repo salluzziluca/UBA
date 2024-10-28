@@ -76,4 +76,8 @@ No, porque no podemos cargar todos los estados en memoria (en jarras se puede po
 
 Como BFS y DFS mantienen un historial muy grande y no reusan espacio suficiente usamos algo similar a D&C
 
+ **dividir el problema en dos partes, resolver una, tirar (casi) todo el trabajo intermedio y resolver la otra. **
 
+Definimos Path(C1, C2, L) que determina si existe camino de largo a lo sumo L. 
+
+Nuestro problema comienza con Path(C0, C*, 2n).

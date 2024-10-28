@@ -1,3 +1,3 @@
 ---
-dia:
+date: {{date:YY}}
 ---

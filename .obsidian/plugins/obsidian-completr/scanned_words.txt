@@ -1524,13 +1524,11 @@ dWAS
 dH
 dFQ
 du
-dddp
 dff
 dupo
 dz
 dE
 dee
-ddd
 dg
 dea
 dSU
@@ -4373,14 +4371,9 @@ hijo
 historia
 hasta
 hizo
-hacaia
-hacia
 hago
-hacer
-hace
 hits
 hijos
-hacerlo
 hu
 hablamos
 hora
@@ -4392,13 +4385,10 @@ humanos
 herencia
 heredaria
 hoc
-hacen
 hecho
-hacemos
 header
 haga
 haya
-haciendo
 historias
 huecos
 ha
@@ -8037,7 +8027,6 @@ IRF
 IUU
 Insercion
 INTERVAL
-Independent
 Inmobilidad
 Idear
 Insight
@@ -9193,8 +9182,6 @@ implementacion
 in
 independientes
 implica
-independencia
-indep
 identicamente
 iniformes
 instante
@@ -10575,7 +10562,6 @@ DcQ
 DL
 DKW
 Dbab
-DDD
 DUy
 Dev
 Dq
@@ -10589,7 +10575,6 @@ DY
 Df
 DV
 DQD
-DDDd
 DbWB
 DWr
 DlJH
@@ -11706,7 +11691,6 @@ bccm
 bdgg
 bo
 bC
-bCg
 bB
 bj
 blQ
@@ -11815,7 +11799,6 @@ blgdLk
 blD
 bth
 bYV
-bna
 bajando
 will
 words
@@ -13611,7 +13594,6 @@ Hr
 Hw
 Hago
 HICISTE
-Hacer
 Hexagonal
 Handshaking
 HTTP
@@ -13716,7 +13698,6 @@ HWB
 HGPq
 HqH
 HVL
-Hacemos
 Humildad
 Historias
 Historia

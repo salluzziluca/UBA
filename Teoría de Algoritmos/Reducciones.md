@@ -174,4 +174,8 @@ Tenemos n triángulos donde un vértice (extra) sólo se une a 2 de estos → al
 Luego, para que los vértices de claúsulas queden dominados, alguna de sus variables deben quedar en el conjunto → si hay Dominating Set, esta asignación permite que todas las cláusulas del 3-SAT sean satisfechas. 
 
 
-Ningun triangulo de la clausula puede estar en dominating 
+Ningun triangulo de la clausula puede estar en dominating set
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeT9I8dcAuTAQdNEec0ae6gph3J6PFTLRMaS2uSAOIVqHzHQ7kuNZYuk05pJNQID05BF7Bi0lq8jYZEWjAZwKWIRX6LAezw696_3haDBXV6JpHUAo2INM6mcoZRdVvVjC9hiUFPSrUQdyyWgMdBWnUsm8AwHCw=s2048?key=dOksPkXbGgnHIZbYEi2SXw)**
+
+Si hay un domianting set necesariamente los v

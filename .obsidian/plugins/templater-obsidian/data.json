@@ -16,7 +16,10 @@
   "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    "",
+    ""
+  ],
   "startup_templates": [
     ""
   ],

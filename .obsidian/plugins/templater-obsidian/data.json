@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Templates/Apuntes.md"
+      "template": "Templates/apunte2.md"
     }
   ],
   "syntax_highlighting": true,

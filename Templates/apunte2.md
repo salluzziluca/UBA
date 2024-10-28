@@ -1,5 +1,3 @@
 ---
-aliases: 
-tags: 
-Date: <% tp.date.now() %>
+Dia: <% tp.date.now() %>
 ---

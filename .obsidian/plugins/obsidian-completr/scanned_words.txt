@@ -7958,6 +7958,7 @@ nacieron
 ngulos
 ngulo
 nero
+now
 via
 vuelve
 viven
@@ -11976,6 +11977,7 @@ Deshago
 Deberemos
 DIOS
 Date
+Dia
 Memoria
 Multivariada
 MORE

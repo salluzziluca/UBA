@@ -4,4 +4,4 @@ Si $X \in P \to \bar{X} \in P$
 
 Pero... si  $X \in NP\dots¿ \bar{X} in NP?$
 
-Como ahora en
+Como ahora en vez de "existe algun camino/seleccion/particion" es un "para todo camino/seleccion/..." y sucede que para ese caso tan general no hay solucion

@@ -35,3 +35,10 @@ Pero podemos reutilizar → S(n) = S(n-1) + p(n)  <= n p(n) → QSAT está en PS
 2. Go 
 3. Competitive Facility Location Problem
 estan en PSPACE
+
+
+### Generalizacion 
+Tengo un conjunto C0 de condiciones iniciales
+Tengo un conjunto C* de condiciones finales al que queremos llegar
+Tengo un conjunto de operaciones/operadores O1, …, Ok, con cada Operador i con pre-requisitos Pi, una "add-list" Ai y una "delete list" Di. 
+¿Es posible aplicar una secuencia de operaciones desde C0 tal que lleguemos a C*?

@@ -81,3 +81,15 @@ Como BFS y DFS mantienen un historial muy grande y no reusan espacio suficiente 
 Definimos Path(C1, C2, L) que determina si existe camino de largo a lo sumo L. 
 
 Nuestro problema comienza con Path(C0, C*, 2n).
+
+
+
+La versión BFS hasta podría verse como un pseudo Programación dinámica → Para obtener Path(C1, C2, L) calcula Path(C', C2, L-1) tal que C1 tenga arista a C'. 
+→ BFS genera una enorme cantidad de configuraciones para sólo reducir en 1 a L. 
+Ahora… ¿por qué tenemos que ir por adyacentes?
+
+
+Para cada posible C' vemos si podemos llegar de C1 a C' en hasta L/2 pasos, y de C' a C2 en L/2 pasos. 
+Como sólo nos importa el true/false, se descarta cualquier otra cosa. 
+Entonces, se hacen hasta log2(L) = n llamados recursivos (= consumo de memoria → espacio polinomial), aparte puede depender de un polinomio de n y k. 
+→ Planning está en PSPACE

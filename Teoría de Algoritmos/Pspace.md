@@ -34,3 +34,4 @@ Pero podemos reutilizar → S(n) = S(n-1) + p(n)  <= n p(n) → QSAT está en PS
 1. Ajedrez 
 2. Go 
 3. Competitive Facility Location Problem
+estan en PSPACE

@@ -1,5 +1,5 @@
 ---
-date:{{date}}
+dia: {{date}}
 ---
 
 

@@ -151,4 +151,6 @@ Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP co
 
 
 ## [[Dominating Set]] es NP?
-Es un problema de elección de subconjuntos
+Es un problema de elección de subconjuntos. 
+
+Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)

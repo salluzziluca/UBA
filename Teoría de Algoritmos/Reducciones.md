@@ -155,4 +155,6 @@ Es un problema de elección de subconjuntos.
 
 Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)
 
-Si tengo un grafo con un vertex cover y uno los vertices a los que lleguen 
+Si tengo un grafo con un vertex cover y uno los vertices a los que lleguen dos aristas del VC, tengo un dominating set
+
+![[Pasted image 20241027210819.png]]

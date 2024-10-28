@@ -185,3 +185,5 @@ Ej: x1 not x2 y x3. Me uno a x1, no x2 y x3. Si o si alguno de esos 3 vertices t
 yo llamo a dominating set con un grafo formado de esta forma 
 
 **esta asignación permite que todas las cláusulas del 3-SAT sean satisfecha**
+
+Entonces si hay dominating set hay 3sat

@@ -41,4 +41,23 @@ estan en PSPACE
 Tengo un conjunto C0 de condiciones iniciales
 Tengo un conjunto C* de condiciones finales al que queremos llegar
 Tengo un conjunto de operaciones/operadores O1, …, Ok, con cada Operador i con pre-requisitos Pi, una "add-list" Ai y una "delete list" Di. 
-¿Es posible aplicar una secuencia de operaciones desde C0 tal que lleguemos a C*?
+¿Es posible aplicar una secuencia de operaciones desde C0 tal que lleguemos a C*?}
+
+
+### Juego de las jaras
+![[Pasted image 20241028114943.png]]
+Tengo una jarra de 5 y una de 3 y quiero llegar a 4 litros
+
+hacemos BFS: 
+(0, 0) → 
+(5, 0); (0, 3) → 
+(2, 3); (5, 3); (3, 0) → 
+(2; 0); (3; 3) → 
+(0, 2); (5, 1) → 
+(5, 2); (0, 1) → 
+(4, 3); (1, 0)
+
+Vemos que conseguimos: 
+(0, 0) → (5, 0) → (2, 3) → (2, 0) → (0, 2) → (5, 2) → (4, 3)
+Vemos que por DFS podríamos haber conseguido también:
+(0, 0) → (0, 3) → (3, 0) → (3, 3) → (5, 1) → (0, 1) → (1, 0) → (1, 3) → (4, 0)

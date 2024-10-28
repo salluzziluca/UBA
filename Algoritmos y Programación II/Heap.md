@@ -1,4 +1,4 @@
-> Es la estructura por defecto de los [[algoritmos greedy]]
+> Es la estructura por defecto de los [[Algoritmos Greedy]]
 # Heap binario
 
 Es un tipo de [[Arboles#Arbol binario|árbol binario]]

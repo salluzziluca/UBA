@@ -1285,6 +1285,9 @@ complementos
 coloreable
 comienza
 created
+checkpoints
+conocida
+checkpointing
 de
 dispositivos
 del
@@ -3295,6 +3298,7 @@ satisfechas
 satisfecha
 salientes
 sima
+suspensi
 par
 por
 punto
@@ -4940,6 +4944,9 @@ ajkdas
 asiEn
 asegurarme
 asignamos
+ajo
+activos
+aminorar
 hardware
 heap
 hay
@@ -5197,6 +5204,7 @@ hardarwe
 hamiltonianos
 hkm
 hamiltopniano
+han
 que
 queda
 quien
@@ -5390,6 +5398,7 @@ quier
 qeu
 qued
 queden
+quiescent
 utilizados
 un
 una
@@ -6352,6 +6361,7 @@ Caminos
 CUENTEA
 CANTIODAD
 CARACTERISTICAS
+Checkpoints
 Es
 El
 Estos
@@ -7347,6 +7357,7 @@ reducimos
 resultante
 release
 redo
+rdida
 operacion
 orden
 operaciones
@@ -9830,6 +9841,7 @@ maquina
 multiplo
 multiplos
 matching
+moment
 tien
 tiene
 todos
@@ -10707,6 +10719,8 @@ inserto
 insertadas
 independen
 independent
+inactivos
+inactivo
 fijo
 file
 fork
@@ -11048,6 +11062,7 @@ forman
 formado
 fuimos
 foto
+fuzzy
 Nombre
 Notas
 Not
@@ -12436,6 +12451,7 @@ Transacciones
 Transaccion
 TSP
 Thu
+TODA
 Realiza
 REgistrys
 Rango
@@ -13056,6 +13072,7 @@ booleana
 bar
 bTUU
 bdQue
+buffers
 will
 words
 with

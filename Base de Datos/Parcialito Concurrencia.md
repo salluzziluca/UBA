@@ -22,3 +22,4 @@ al item F lo pongo en 50 (UNDO)
 | 22    |     |     |     |     |     |     |     |
 
 
+3b Termina

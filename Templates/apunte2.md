@@ -1,4 +1,3 @@
 ---
 Dia: <% tp.date.now() %>
-Last Modified: `=dateformat(this.file.mtime, "DDDD, HH:mm")`
 ---

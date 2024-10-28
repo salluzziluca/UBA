@@ -1288,6 +1288,7 @@ created
 checkpoints
 conocida
 checkpointing
+carpeta
 de
 dispositivos
 del
@@ -2145,6 +2146,7 @@ gestiona
 grago
 ganado
 genuid
+getAbstractFileByPath
 especifico
 entra
 en
@@ -3956,6 +3958,8 @@ pudieron
 pasoo
 perepepep
 perooo
+perro
+prompt
 la
 las
 le
@@ -4315,6 +4319,7 @@ llevarlo
 lla
 leq
 logramos
+let
 agnosticos
 apps
 al
@@ -4954,6 +4959,8 @@ asignamos
 ajo
 activos
 aminorar
+autor
+await
 hardware
 heap
 hay
@@ -8223,6 +8230,7 @@ verificarla
 vimos
 vRt
 viejos
+vault
 Application
 API
 Asigna
@@ -8528,6 +8536,7 @@ Acc
 Aborto
 AUTENTICAR
 ATRIBUTOS
+Articulo
 Programming
 Procesos
 Partes
@@ -10244,6 +10253,9 @@ tranqui
 times
 ten
 triste
+template
+tfile
+titulo
 inico
 interna
 infro
@@ -11075,6 +11087,7 @@ formado
 fuimos
 foto
 fuzzy
+find
 Nombre
 Notas
 Not
@@ -12465,6 +12478,7 @@ TSP
 Thu
 TODA
 TRISTE
+Template
 Realiza
 REgistrys
 Rango
@@ -12770,6 +12784,7 @@ RcP
 Redob
 REGISTRAR
 RECUPERAR
+Referencia
 bien
 by
 be

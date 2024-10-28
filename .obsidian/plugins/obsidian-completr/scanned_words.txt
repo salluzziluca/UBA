@@ -2759,6 +2759,7 @@ empecemos
 entendes
 escribiendo
 else
+end
 servicios
 son
 su
@@ -3325,6 +3326,7 @@ sort
 splice
 suggester
 startsWith
+start
 par
 por
 punto
@@ -6004,6 +6006,8 @@ Satisfiability
 Subser
 Salvo
 SubsetSum
+Subo
+START
 Calls
 Cmabia
 CPU
@@ -12551,6 +12555,7 @@ TODA
 TRISTE
 Template
 Titulo
+Termina
 Realiza
 REgistrys
 Rango

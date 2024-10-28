@@ -178,4 +178,6 @@ Ningun triangulo de la clausula puede estar en dominating set
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeT9I8dcAuTAQdNEec0ae6gph3J6PFTLRMaS2uSAOIVqHzHQ7kuNZYuk05pJNQID05BF7Bi0lq8jYZEWjAZwKWIRX6LAezw696_3haDBXV6JpHUAo2INM6mcoZRdVvVjC9hiUFPSrUQdyyWgMdBWnUsm8AwHCw=s2048?key=dOksPkXbGgnHIZbYEi2SXw)**
 
-Si hay un domianting set necesariamente los v
+Si hay un domianting set necesariamente los vertices de las clausulas estan dominados y la clausula existe una forma de ponerla en true (eso en cada clausula, por ende la salida sera true)
+
+Ej: x1 not x2 y x3. Me uno a x1, no x2 y x3

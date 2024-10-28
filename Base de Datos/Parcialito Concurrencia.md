@@ -16,8 +16,9 @@ Al item E lo pongo en 70 (undo)
 Al item D lo pongo en 60 
 al item F lo pongo en 50 (UNDO)
 
-| --  | A   | B   | C   | D   | E   | F   | G   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 18  |     |     |     |     |     |     |     |
+| Linea | A   | B   | C   | D   | E   | F   | G   |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
+| 22    |     |     |     |     |     |     |     |
 
 

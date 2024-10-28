@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date:YYYY-MM-DD }": 
+date: 2024-10-28
 modified: "[[2024-10-28]]"
 ---
 

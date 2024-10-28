@@ -6345,6 +6345,7 @@ COO
 CatIA
 Cover
 CAMINO
+Caminos
 Es
 El
 Estos
@@ -15044,6 +15045,7 @@ HAce
 Huffman
 Homog
 Hamiltoniano
+Hamiltonianos
 Jacobiano
 Job
 Jusitfique

@@ -9,4 +9,4 @@ $q_{2}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{1}}{2}\right)$
 $q_{3}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{2}}{2}\right)$
 $q_{1}=hf(x_{i}+h, y_{i}+q_{3})$
 
-$$$$
+$$y_{i+1}=y_{i} \frac{q_{1}+2q_{2}+2q_{3}+q_{4}}{6}$$

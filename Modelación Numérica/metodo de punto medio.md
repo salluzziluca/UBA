@@ -1,0 +1,1 @@
+Avanzo medio pasoo con la pendiente del [[Método de Euler]]. Ahi evaluo la pendiente

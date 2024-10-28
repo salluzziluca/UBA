@@ -15,8 +15,11 @@ Actualmente, las bases de datos también almacenan [[tipos de datos]] más compl
 
 ---
 [[Sistemas de Gestion de Bases de Datos]]
+[[Algebra Relacional]]
 [[Arquitectura de 3 capas ANSI-SPARC]]
 [[Modelo Entidad-Interrelacion]]
 [[Modelo Entidad-Interrelación Avanzado]]
 [[Teoría del Diseño Racional]]
 [[Formas Normales]]
+[[Structured Query Language|SQL]]
+[[Concurrencia en base de datos|Concurrencia en base de datos]]

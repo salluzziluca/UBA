@@ -8,6 +8,8 @@
 [[Algoritmos Greedy]]
 [[Backtracking]]
 [[Vertex Cover]]
-[[Dominating Set]]
+[[Teoría de Algoritmos/Dominating Set]]
 [[Programación Dinámica]]
+[[Programación Lineal]]
+[[Reducciones]]
 

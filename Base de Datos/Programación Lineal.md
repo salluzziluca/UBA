@@ -42,3 +42,54 @@ def ejemplo():
     problem.solve()
     return pulp.value(vp), pulp.value(ss)
 ```
+
+
+## Problema del cambio 
+
+valores de entrada: 
+v_i = valor de moneda de denominacion i (constante)
+c: cambio al que queremos lelgar (constante)
+
+M_i= cantidad de monedads de denominacion i que usamos para el cambio 
+![[Pasted image 20241017102456.png]]
+
+## Problema del viajante por PLE 
+Agregamos virtualmente las aritas faltantes con pedo F= "infinito" (sumatoria de todas las artistas existentes +1)
+Construimos nuestras variables $Y_{i,j}= 1$ si usamos la arista i->j (0 sino)
+$\sum_{j} Y_{i,j}=1$ de todos salgo una sola vez $\sum_{i} Y_{i,j} = 1$ a todos entro una sola vez. De todos entro y salgo una sola vez, genera un ciclo 
+![[Pasted image 20241017103218.png]]
+el tema es que puede generar subciclos cuando necesito uno solo
+agrego una restriccion de secuencia. p_i = numero de secuencia en la cual visito a la ciudad i 
+$p_i-p_j + nY_{i,j} \leq n-1$
+
+
+
+## Simplex 
+AL ser un problema lineal, los optimos van a estar si o si en vertices 
+Es greedy, busca optimos locales esperando que sean optiomos generales tmb 
+Complejidad = O(cant_vertices) <= O(2^n)
+caso lineal continuo: se demostro que es O(n^9)
+
+![[Pasted image 20241017145218.png]]
+de esa forma nos aseguramos de que x1 y x2 pueden valer 0 
+
+
+otro caso![[Pasted image 20241017145620.png]]
+
+
+![[Pasted image 20241017145654.png]]
+siendo C la zmax
+
+![[Pasted image 20241017145806.png]]
+![[Pasted image 20241017145959.png]]![[Pasted image 20241017150336.png]]![[Pasted image 20241017150350.png]]
+
+
+## Branch and Bounds 
+Es como [[Backtracking]], aplicando branching para ver diferentes alternativas, con bounds (restricciones) como podas
+
+1. Buscamos solución relajada (no consideramos variables enteras)
+2. Sobre la solución relajada, para variables enteras, vemos una variable y volvemos a resolver agregando una restricción: X <= [a] , y otra vez con X >= [a] + 1, y además vemos que valga eso. Ramificamos y resolvemos.
+3. Seguir aplicando 2 hasta que todas las variables que deban ser enteras, sean enteras. Vamos quedándonos con la mejor solución cada vez que volvemos. 
+
+
+![[Pasted image 20241017151109.png]]![[Pasted image 20241017151115.png]]

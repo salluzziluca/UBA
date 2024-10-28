@@ -1,0 +1,1 @@
+Es un problema que se puede resolver en tiempo polinomial (de forma eficiente) Puede ser resueltos en tiempo polinomial por una maquina de turing deterministica 

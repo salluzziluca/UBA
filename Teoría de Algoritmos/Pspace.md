@@ -107,3 +107,10 @@ Se puede reducir (citation needed) QSAT a CFL, por lo que CFL también es PSPACE
 Un PSPACE completo, ¿Es NP-Completo?
 
 No son NP-Completo, sino NP-difícil.
+
+
+## Peor que PSPACE 
+EXP/EXPTIME → Problemas que se resuelven en tiempo O(2p(n))
+NEXP/NEXPTIME → Problemas que se resuelven en tiempo O(2n^O(1))
+EXPSPACE → Problemas que se resuelven en espacio O(2p(n))
+R → Problemas que se pueden resolver (hablamos más tarde de esto).

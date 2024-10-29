@@ -18,6 +18,7 @@ WW: T2 escribe en C, luego T3 vuelve a escribir.
 
 Hay un ciclo por lo cual no es serializable. 
 b. ![[grafo precedencias 1b]]
+No hay ciclos por lo que es serializable
 
 
 

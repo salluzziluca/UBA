@@ -30,5 +30,13 @@ Los joins de tablas son COSTOSOS
 el manejo de transacciones en forma distribuida no escala 
 
 
-En los ultimos años aumento mucho la velocidad de almacenamiento, su latencia y bajo mucho su costo. Tanto en RAM como en almacenamiento.
+En los ultimos años aumento mucho la velocidad de almacenamiento, su latencia y bajo mucho su costo. Tanto en RAM como en almacenamiento. tambien aumento la velocidad del internet
 Lo que no mejoro fue la velocidad de procesamiento 
+![[Pasted image 20241029192254.png]]
+
+Por eso era importante hacer sistemas distribuidos
+
+## Tipos de Bases de Datos
+
+![[Pasted image 20241029192318.png]]
+

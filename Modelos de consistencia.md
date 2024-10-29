@@ -28,3 +28,15 @@ Dos eventos no relacionados son concurrentes.
 ![[Pasted image 20241029204326.png]]
 
 Aca no hay escrituras causales. Son todas concurrentes.
+
+inicial a= 5, b= 7
+![[Pasted image 20241029204837.png]]
+
+Aca p2 lee 20, por lo que tiene que ir primero p1. El problema es que p2 si o si escribe b=3, pero p3 quiere leer b=3 y a=5. Esta ejecucion no tiene consistencia casual.
+
+
+
+## consistencia eventual 
+>[!info] si en el sistema no se producen modificaciones (escrituras) por un tiempo suficientemente grande, entonces eventualmente todos los procesos verán los mismos valores
+
+Esto es debido a que en la mayoria de sistemas reales son pocos los procesos que realizan modificaciones mientras que la mayoria lee.

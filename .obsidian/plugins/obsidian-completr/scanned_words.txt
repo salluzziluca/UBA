@@ -1431,6 +1431,11 @@ cluster
 consistnecias
 cloud
 computing
+capturar
+casualmente
+causalidad
+causales
+casual
 de
 dispositivos
 del
@@ -6936,6 +6941,7 @@ CpVh
 Cqo
 CUA
 Consistencia
+Casual
 Es
 El
 Estos
@@ -9005,6 +9011,7 @@ vuc
 vwv
 vvCV
 vMylN
+vean
 Application
 API
 Asigna
@@ -11790,6 +11797,7 @@ instances
 inconsistencias
 iQK
 iutolizas
+influenciado
 fijo
 file
 fork

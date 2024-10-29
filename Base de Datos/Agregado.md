@@ -1,5 +1,9 @@
 ---
 Dia: 2024-10-29
+aliases:
+  - agregados
+  - Agregados
+  - agregado
 ---
 >[!info] cómo conjuntos de objetos relacionados se agrupan en colecciones para ser tratados como unidad y ser almacenados en un mismo lugar. 
 >

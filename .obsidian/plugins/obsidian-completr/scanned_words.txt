@@ -437,6 +437,7 @@ Linux
 Locks
 LoS
 Lock
+Lookup
 capa
 controlado
 cantidad
@@ -1224,6 +1225,7 @@ checkpoint
 commitaron
 conmjuntos
 colecciones
+computado
 de
 dispositivos
 del
@@ -3143,6 +3145,7 @@ sto
 slluciones
 semiestrucutrada
 style
+separo
 par
 por
 punto
@@ -3754,6 +3757,7 @@ podia
 proesamiento
 perosnales
 posteo
+personales
 la
 las
 le
@@ -4701,6 +4705,8 @@ alrededor
 alamcneamiento
 automatica
 agregado
+agregados
+amas
 hardware
 heap
 hay
@@ -9417,6 +9423,7 @@ masivas
 mente
 mark
 mejoro
+maner
 tien
 tiene
 todos
@@ -11068,6 +11075,8 @@ Fijarse
 Fase
 Fair
 FLC
+Fragmentacion
+Facebook
 Descriptors
 Descriptor
 Devuelve
@@ -11696,6 +11705,8 @@ Molnar
 METER
 Miro
 Mayor
+Metodos
+Modelos
 Table
 Todos
 This
@@ -11946,6 +11957,7 @@ Tienen
 Tactivas
 Transaccion
 Tanto
+Tarea
 Realiza
 REgistrys
 Rango
@@ -12237,6 +12249,7 @@ Recuperabilidad
 REDO
 Reinicio
 Redob
+Replicacion
 bien
 by
 be

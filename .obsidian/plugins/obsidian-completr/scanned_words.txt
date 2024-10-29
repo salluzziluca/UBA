@@ -2050,6 +2050,7 @@ dAG
 dYnI
 diE
 diccionarios
+delete
 gestion
 gran
 guarda
@@ -2971,6 +2972,7 @@ elp
 eGa
 eie
 eTf
+ekiminar
 servicios
 son
 su
@@ -5258,6 +5260,7 @@ abV
 aHg
 aDO
 asocitivos
+amazon
 hardware
 heap
 hay
@@ -7992,6 +7995,8 @@ rOr
 rbE
 rpw
 requisito
+resitricciones
+repartir
 operacion
 orden
 operaciones
@@ -9700,6 +9705,7 @@ PTc
 PDRVDJ
 Pzf
 Prp
+Provee
 Interface
 ID
 Instructions
@@ -11739,6 +11745,7 @@ iwK
 iDv
 icMn
 iSH
+interrelaciones
 fijo
 file
 fork
@@ -13080,6 +13087,8 @@ DPw
 DnI
 DflYd
 DuU
+Dynamo
+DDLs
 Memoria
 Multivariada
 MORE
@@ -14989,6 +14998,7 @@ VmZW
 VqI
 VIW
 VkY
+Velocidad
 OPTIONS
 Operativos
 Orden

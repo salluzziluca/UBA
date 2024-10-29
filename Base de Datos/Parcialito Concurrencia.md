@@ -23,7 +23,7 @@ b.
 
 RW: T1 lee X, luego T2 escribe X
 WR: T1 escribe X, luego T2 lee
-WW, 
+WW: T1 escribe X, luego T2 lee X
 
 
 ![[Pasted image 20241028180149.png]]

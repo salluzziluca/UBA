@@ -21,7 +21,9 @@ b.
 ![[Pasted image 20241029104808.png]]
 ![[grafo precedencias 1b]]
 
-
+RW: T1 lee X, luego T2 escribe X
+WR: T1 escribe X, luego T2 lee
+WW, 
 
 
 ![[Pasted image 20241028180149.png]]

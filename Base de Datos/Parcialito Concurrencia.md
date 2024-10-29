@@ -27,8 +27,10 @@ WW: T1 escribe X, luego T2 lee X
 
 WR: T4 escribe Z, T1 lee
 WR: T4 escribe Z, T3 lee 
-RW: T4 lee, luego T1 y T3 escriben 
+RW: T4 lee Z, luego T1 y T3 escriben 
+WW: T4 escribe Z, luego T1 y T3 escriben 
 
+WW T1 y T3 escriben Z
 
 
 ![[Pasted image 20241028180149.png]]

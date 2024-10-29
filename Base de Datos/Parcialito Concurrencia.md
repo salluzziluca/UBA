@@ -37,7 +37,7 @@ c.
 WR: T1 escribe A, luego T4 lee A.
 WR: T4 escribe A, luego T2 lee A
 WR: T3 Escribe C, luego T1 lee C
-WR
+
 
 
 ![[Pasted image 20241028180149.png]]

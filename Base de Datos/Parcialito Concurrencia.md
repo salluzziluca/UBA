@@ -48,7 +48,11 @@ RT4(A), WT2(A)
 WT4(A), RT2(A) 
 WT4(A), WT2(A) 
 RT2(B), WT4(B)
-WT2(B), RT4(B) WT2(B), WT4(B) RT3(C), WT1(C) WT3(C), RT1(C) WT3(C), WT1(C)
+WT2(B), RT4(B)
+WT2(B), WT4(B) 
+RT3(C), WT1(C) 
+WT3(C), RT1(C) 
+WT3(C), WT1(C)
 Hay un ciclo por lo cual no es serializable
 
 # 2

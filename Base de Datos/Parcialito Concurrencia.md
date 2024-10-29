@@ -48,6 +48,13 @@ T1
 bT1
 Lock(D)
 RT1(D)
+WT1(D)
+LOCK(B)
+UNLOCK(D)
+RT1(B)
+WT1(B)
+UNLOCK(B) 
+CT1
 
 # 3
 

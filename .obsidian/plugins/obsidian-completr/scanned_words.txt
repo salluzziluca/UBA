@@ -1784,6 +1784,11 @@ deferred
 diisco
 debamos
 deshacerla
+dedatos
+digitalizacion
+distribuido
+distribuida
+date
 gestion
 gran
 guarda
@@ -2040,6 +2045,7 @@ grabo
 grabada
 guardados
 ganado
+gorda
 especifico
 entra
 en
@@ -2606,6 +2612,7 @@ escribieron
 evitan
 espero
 encontremos
+evolucione
 servicios
 son
 su
@@ -3127,6 +3134,9 @@ salvaguardar
 situaciones
 salvaguardado
 sto
+slluciones
+semiestrucutrada
+style
 par
 por
 punto
@@ -3731,6 +3741,10 @@ proridades
 prinmero
 preservar
 posteriores
+probelema
+pensadas
+prioriza
+podia
 la
 las
 le
@@ -4077,6 +4091,7 @@ livelock
 late
 leyera
 llevaria
+latencia
 agnosticos
 apps
 al
@@ -4673,6 +4688,9 @@ asegurarme
 asignamos
 agregamos
 asiEn
+alrededor
+alamcneamiento
+automatica
 hardware
 heap
 hay
@@ -4926,6 +4944,7 @@ hilo
 hard
 hardlinks
 homonimos
+habian
 que
 queda
 quien
@@ -6046,6 +6065,7 @@ Commit
 COMMIT
 Checkpoint
 CKPT
+COSTOSOS
 Es
 El
 Estos
@@ -6359,6 +6379,8 @@ Escribo
 Espero
 Escribir
 END
+Escalabilidad
+Era
 kernel
 kt
 kU
@@ -6973,6 +6995,9 @@ retroceder
 reocrre
 remplazando
 redo
+relacionales
+rigidos
+replicacion
 operacion
 orden
 operaciones
@@ -7247,6 +7272,7 @@ obliga
 opci
 onsistnecia
 old
+organizar
 nombre
 nuevo
 nica
@@ -7504,6 +7530,8 @@ nea
 ndolas
 nes
 nuevamente
+nacieron
+now
 via
 vuelve
 viven
@@ -7795,6 +7823,7 @@ volviendo
 volcado
 volcar
 viejos
+volumenes
 Application
 API
 Asigna
@@ -8704,6 +8733,7 @@ Inodos
 Ingo
 Independencia
 Integridad
+Iba
 Un
 UNIX
 UBA
@@ -9368,6 +9398,11 @@ mayot
 manipulaci
 modific
 modificados
+masificacion
+masivas
+mente
+mark
+mejoro
 tien
 tiene
 todos
@@ -9741,6 +9776,8 @@ tres
 tranasccion
 tems
 tact
+tecnologicos
+tuvieran
 inico
 interna
 infro
@@ -10529,6 +10566,9 @@ filesystem
 fair
 flushed
 figure
+form
+fragmentacion
+format
 Nombre
 Notas
 Not
@@ -11326,6 +11366,7 @@ Definir
 DATO
 Deshago
 Deberemos
+Dia
 Memoria
 Multivariada
 MORE
@@ -11635,6 +11676,7 @@ Mutual
 Molnar
 METER
 Miro
+Mayor
 Table
 Todos
 This
@@ -11884,6 +11926,7 @@ TID
 Tienen
 Tactivas
 Transaccion
+Tanto
 Realiza
 REgistrys
 Rango
@@ -12486,6 +12529,8 @@ basados
 bloqueados
 bloqueando
 bdQue
+buscaban
+background
 will
 words
 with
@@ -13435,6 +13480,7 @@ jomE
 juntaron
 justa
 joven
+joins
 Ya
 Yourself
 YAGNI
@@ -13596,6 +13642,7 @@ YhK
 Ysb
 YgQSS
 YaJ
+YYYY
 Generales
 Global
 GDT
@@ -14076,6 +14123,7 @@ Bounded
 Bitmap
 Begin
 BEGIN
+BBFABBA
 XY
 Xg
 XQG

@@ -36,7 +36,15 @@ Lo que no mejoro fue la velocidad de procesamiento
 
 Por eso era importante hacer sistemas distribuidos
 
-## Tipos de Bases de Datos
+## Tipos de de SGBD No-SQL 
+En cada una cambia la definicion de agregado, es decir como los conmjuntos de objetos relacionados se agrupan en colecciones para ser tratados como unidad y ser almacenados en un mismo lugar 
+- El conjunto de datos perosnales de un cliente de una empresa 
+- Un post de facebook (con comentarios, posteo en si, usuarios)
 
-![[Pasted image 20241029192318.png]]
+### Clave Valor 
+
+### Orientadas a documentos 
+### Wide Column 
+
+### Basadas en Grafos 
 

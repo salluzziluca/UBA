@@ -30,7 +30,7 @@ WR: T4 escribe Z, T3 lee
 RW: T4 lee Z, luego T1 Escribe
 RW: T4 lee, luego T3 escribe
 WW: T4 escribe Z, luego T1 y T3 escriben 
-RW: 
+RW: T1 lee Z, luego T3 escribe
 RW: T3 lee z, luego T1 escribe 
 WW T1 y T3 escriben Z
 Hay ciclo por lo cual no es serializable
@@ -38,10 +38,17 @@ Hay ciclo por lo cual no es serializable
 c.
 ![[Pasted image 20241029110756.png]]
 ![[grafo precedencias 1c]]
-WR: T1 escribe A, luego T4 lee A.
-WR: T2 escribe B, luego T4 lee
-WR: T4 escribe A, luego T2 lee A
-WR: T3 Escribe C, luego T1 lee C
+RT1(A), WT4(A)
+RT1(A), WT2(A)
+WT1(A), RT4(A) 
+WT1(A), WT4(A) 
+WT1(A), RT2(A) 
+WT1(A), WT2(A) 
+RT4(A), WT2(A) 
+WT4(A), RT2(A) 
+WT4(A), WT2(A) 
+RT2(B), WT4(B)
+WT2(B), RT4(B) WT2(B), WT4(B) RT3(C), WT1(C) WT3(C), RT1(C) WT3(C), WT1(C)
 Hay un ciclo por lo cual no es serializable
 
 # 2

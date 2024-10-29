@@ -3,7 +3,7 @@ Dia: 2024-10-28
 aliases:
 ---
 
-## 1
+# 1
 ![[Pasted image 20241029102903.png]]
 ![[grafo precedencia 1.a]]
 T1 lee A y luego T2 lo escribe RW

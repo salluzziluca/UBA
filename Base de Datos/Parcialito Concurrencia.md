@@ -25,6 +25,8 @@ RW: T1 lee X, luego T2 escribe X
 WR: T1 escribe X, luego T2 lee
 WW: T1 escribe X, luego T2 lee X
 
+RW: T4 escribe Z, 
+
 
 ![[Pasted image 20241028180149.png]]
 3a. Termina justo antes de la 18. Subo de la 17 hasta la 1, me encuentro con el START T3 y el START CKPT (T1, T2) de la linea 7. Sus transacciones activas son T1 y T2. No encontré el checkpoint pero se que commitearon (linea 10 y 15. Como no encontre el commit de T3 (solo start y writes). Voy a tener que hacer UNDO y abort de T3 y REDO de T1 y T2.

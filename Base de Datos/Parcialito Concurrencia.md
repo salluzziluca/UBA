@@ -8,6 +8,8 @@ aliases:
 ![[grafo precedencia 1.a]]
 T1 lee A y luego T2 lo escribe RW
 WR: T1 escribe en A y luego T2 lee
+WW: T1 escribe en A y luego T2 vuelve a escribir 
+RW: T3 lee B y luego 
 
 
 

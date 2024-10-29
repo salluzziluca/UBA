@@ -44,7 +44,7 @@ Hay un ciclo por lo cual no es serializable
 
 # 2
 ![[Pasted image 20241029112452.png]]
-```
+```java
 bT1
 bT2
 LockT1(D)
@@ -78,7 +78,9 @@ cT3
 ```
 Recuperabilidad: 
 Definición: Un solapamiento es recuperable si y sólo si ninguna [[transacción]] T realiza el commit hasta tanto todas las [[Transacción|transacciones]] que escribieron datos antes de que T los leyera hayan commiteado.
-Analizemos traa
+Analizemos transaccion a transacción 
+T1: lee D y B, esos datos no son modificados por nadie antes que T1 los lea asi que no hay problema alguno. 
+T2: 
 # 3
 
 ![[Pasted image 20241028180149.png]]

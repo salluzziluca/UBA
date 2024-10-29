@@ -44,12 +44,11 @@ Hay un ciclo por lo cual no es serializable
 
 # 2
 ![[Pasted image 20241029112452.png]]
-T1
-bT1
-Lock(D)
-RT1(D)
-WT1(D)
-LOCK(B)
+bT1, bT2
+LockT1(D), LockT2(A)
+RT1(D), RT2(A)
+WT1(D), WT2(A)
+LOCK(B), LOCK
 UNLOCK(D)
 RT1(B)
 WT1(B)

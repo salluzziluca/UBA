@@ -44,6 +44,7 @@ Hay un ciclo por lo cual no es serializable
 
 # 2
 ![[Pasted image 20241029112452.png]]
+```
 bT1
 bT2
 LockT1(D)
@@ -74,6 +75,7 @@ RT3(B)
 WRT(B)
 UNLOCK3T(B)
 cT3
+```
 # 3
 
 ![[Pasted image 20241028180149.png]]

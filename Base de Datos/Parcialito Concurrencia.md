@@ -42,7 +42,7 @@ La linea 20 no modifiica el valor de E porque estamos haciendo UNDO de T3 y T4
 | 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
 | 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80  |
 
-3c termina despues de la linea 22.  Es decir, esta es la ultima que se guarda en el log. En este caso sasbemos que t1 y t2 commitearon (porque su checkpoint terminó) y sabemos que T3 y T4 no llegaron a commitear. Por lo que hariamos UNDO de T3 y T4 y REDO de T1 y T2
+3c. Termina despues de la linea 22.  Es decir, esta es la ultima que se guarda en el log. En este caso sasbemos que t1 y t2 commitearon (porque su checkpoint terminó) y sabemos que T3 y T4 no llegaron a commitear. Por lo que hariamos UNDO de T3 y T4 y REDO de T1 y T2
 El item A lo pongo en 50
 El item B en 60
 El item A en 70
@@ -55,10 +55,10 @@ Al item D lo pongo en 60
 al item F lo pongo en 50
 Al Item G lo pongo en 80
 A E lo dejo en 70 
-A G lo pongo en 140
+A G lo dejo en 80
 
 | Linea | A   | B   | C   | D   | E   | F   | G   |
 | ----- | --- | --- | --- | --- | --- | --- | --- |
 | 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
 | 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80  |
-| 24    | 70  | 60  | 35  | 60  | 110 | 100 | 140 |
+| 24    | 70  | 60  | 35  | 60  | 70  | 50  | 80  |

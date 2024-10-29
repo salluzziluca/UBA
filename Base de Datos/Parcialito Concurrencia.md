@@ -11,10 +11,10 @@ WR: T1 escribe en A y luego T2 lee
 WW: T1 escribe en A y luego T2 vuelve a escribir 
 RW: T3 lee B, luego T1 lo escribe 
 WR: T3 escribe en B, luego T1 lee
-WW: T3 escribe en B, lueog T1 vuelve a escribir.
-RW: T3 lee B, luego T1 lo escribe 
-WR: T3 escribe en B, luego T1 lee
-WW: T3 escribe en B, lueog T1 vuelve a escribir.
+WW: T3 escribe en B, luego T1 vuelve a escribir.
+RW: T2 lee C, luego T3 lo escribe 
+WR: T2 escribe en C, luego T3 lee
+WW: T2 escribe en C, luego T3 vuelve a escribir.
 
 
 

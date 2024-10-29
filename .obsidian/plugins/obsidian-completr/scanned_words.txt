@@ -1429,6 +1429,8 @@ cZh
 comparable
 cluster
 consistnecias
+cloud
+computing
 de
 dispositivos
 del
@@ -5275,6 +5277,7 @@ aDO
 asocitivos
 amazon
 agujas
+actualizo
 hardware
 heap
 hay
@@ -6487,6 +6490,7 @@ SRk
 SQj
 SGI
 SoA
+Secuencial
 Calls
 Cmabia
 CPU
@@ -6928,6 +6932,7 @@ CFZ
 CpVh
 Cqo
 CUA
+Consistencia
 Es
 El
 Estos
@@ -10058,6 +10063,7 @@ IwU
 IoD
 IKb
 Index
+Internet
 Un
 UNIX
 UBA

@@ -12,4 +12,16 @@ Flexibilidad de datos:
 Estructura de datos que evolucione con el tiempo 
 los SGBD relacionales son muy rigidos. Agregar una columna puede ser muy costosos
 El desarollo web busca darle mayor libertad al desarrollador para organizar los datos en una form semiestrucutrada. 
-Esta flexibilidad tiene mucho que 
+Esta flexibilidad tiene mucho que ver con metodologias [[Agile|agiles]] y [[Minium Viable Product|MVP]] 
+
+
+### Distribucion 
+Las grandes SGBD relaciones no habian sido pensadas con distribucion en mente 
+Se busca una mayor disponibilidad y tolerancia a fallas 
+Se requieren mecanismos de replicacion y fragmentacion automatica de datos 
+Se prioriza la capacidad de procesamiento distribuido.
+Era algo necesario, no se podia hacer la vista gorda
+
+--- 
+Los joins de tablas son COSTOSOS 
+el manejo de tr

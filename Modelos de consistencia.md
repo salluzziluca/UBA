@@ -23,4 +23,8 @@ En este caso P1 esta leyendo un valor de a desactualizado
 
 Se busca capturar eventos que esten casualmente relacionados 
  Si el evento b fue influenciado por un evento a, la causalidad requieren que todos vean a antes que b.
-Dos eventos no relacionados son concurrentes
+Dos eventos no relacionados son concurrentes.
+
+![[Pasted image 20241029204326.png]]
+
+Aca no hay escrituras causales. Son todas concurrentes.

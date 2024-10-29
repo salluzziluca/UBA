@@ -76,20 +76,19 @@ WT1(B)
 UNLOCKT1(B)
 
 LOCKT2(D)
+RT2(D)
+WT2(D)
+UNLOCKT2(D)
 
 bT3
 LOCKT3(A)
-
-RT2(D)
 RT3(A)
-
-WT2(D)
 WT3(A)
-
-UNLOCKT2(D)
 UNLOCKT3(A)
+
 CT1
 CT2
+
 LOCK3T(B)
 RT3(B)
 WRT(B)
@@ -119,10 +118,10 @@ Al item E lo pongo en 70 (undo)
 Al item D lo pongo en 60 
 al item F lo pongo en 50 (UNDO)
 
-| Linea | A   | B   | C   | D   | E   | F   | G   |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
-| 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
-| 22    |     |     |     |     |     |     |     |
+| Linea | A   | B   | C   | D   | E   | F   | G             |
+| ----- | --- | --- | --- | --- | --- | --- | ------------- |
+| 18    | 70  | 80  | 35  | 60  | 70  | 50  | valor inicial |
+| 22    |     |     |     |     |     |     |               |
 
 
 3b Termina antes de la linea 22

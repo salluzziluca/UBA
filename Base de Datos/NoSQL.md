@@ -1,3 +1,6 @@
+---
+dia: 2024-10-29
+---
 Las SGBD no relaciones nacieron alrededor del 2000 con la masificacion de web y cambios tecnologicos 
 
 Se buscaban slluciones nuevas al probelema del alamcneamiento de datos que tuvieran:
@@ -20,8 +23,12 @@ Las grandes SGBD relaciones no habian sido pensadas con distribucion en mente
 Se busca una mayor disponibilidad y tolerancia a fallas 
 Se requieren mecanismos de replicacion y fragmentacion automatica de datos 
 Se prioriza la capacidad de procesamiento distribuido.
-Era algo necesario, no se podia hacer la vista gorda
+<mark style="background: #BBFABBA6;">Era algo necesario, no se podia hacer la vista gorda</mark>
 
 --- 
 Los joins de tablas son COSTOSOS 
-el manejo de tr
+el manejo de transacciones en forma distribuida no escala 
+
+
+En los ultimos años aumento mucho la velocidad de almacenamiento, su latencia y bajo mucho su costo. Tanto en RAM como en almacenamiento.
+Lo que no mejoro fue la velocidad de procesamiento 

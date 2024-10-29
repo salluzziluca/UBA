@@ -53,4 +53,5 @@ reacion
 commiteo
 commitear
 commiteado
-hOl
+SGBDD
+SGBDs

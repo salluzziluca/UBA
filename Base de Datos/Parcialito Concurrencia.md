@@ -42,8 +42,7 @@ La linea 20 no modifiica el valor de E porque estamos haciendo UNDO de T3 y T4
 | 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
 | 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80  |
 
-3c termina despues de la linea 22. En este caso podemos ver que tanto t3 com t4 commitearon, por lo que todas las transacciones llevadas a cabo commitearon y debemos hacer REDO de todas.
-
+3c termina despues de la linea 22.  Es decir, esta es la ultima que se guarda en el log.
 El item A lo pongo en 50
 El item B en 60
 El item A en 70

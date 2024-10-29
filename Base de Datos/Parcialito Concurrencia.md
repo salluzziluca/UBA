@@ -47,15 +47,14 @@ El item A lo pongo en 50
 El item B en 60
 El item A en 70
 el item C en 25
-El item E lo ponbo en 
 El item B en 80
 El item D en 40
 Al item C lo pongo en 35
-Al item E lo pongo en 90
+Al item E lo pongo en 70
 Al item D lo pongo en 60 
-al item F lo pongo en 100
-Al Item G lo pongo en 120
-A E lo pongo en 110 
+al item F lo pongo en 50
+Al Item G lo pongo en 80
+A E lo dejo en 70 
 A G lo pongo en 140
 
 | Linea | A   | B   | C   | D   | E   | F   | G   |

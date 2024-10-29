@@ -6,4 +6,4 @@ las [[bases de datos NoSQL]] buscan aumentar la velocidad de proesamiento y la c
 ## Fragmentacion 
 
 ## Replicacion 
-A veces me conviene 
+A veces me conviene tener las cosas en mas de una computado

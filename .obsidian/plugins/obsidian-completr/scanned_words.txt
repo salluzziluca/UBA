@@ -2050,6 +2050,7 @@ grabada
 guardados
 ganado
 gorda
+git
 especifico
 entra
 en

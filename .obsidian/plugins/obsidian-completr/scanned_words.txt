@@ -1222,6 +1222,8 @@ commite
 commitearon
 checkpoint
 commitaron
+conmjuntos
+colecciones
 de
 dispositivos
 del
@@ -1789,6 +1791,8 @@ digitalizacion
 distribuido
 distribuida
 date
+definicion
+documentos
 gestion
 gran
 guarda
@@ -2613,6 +2617,7 @@ evitan
 espero
 encontremos
 evolucione
+explotando
 servicios
 son
 su
@@ -3745,6 +3750,9 @@ probelema
 pensadas
 prioriza
 podia
+proesamiento
+perosnales
+posteo
 la
 las
 le
@@ -4691,6 +4699,7 @@ asiEn
 alrededor
 alamcneamiento
 automatica
+agregado
 hardware
 heap
 hay
@@ -5387,6 +5396,7 @@ utilizaba
 urabilidad
 updatear
 undo
+uKLGxc
 System
 Son
 Source
@@ -6066,6 +6076,7 @@ COMMIT
 Checkpoint
 CKPT
 COSTOSOS
+Column
 Es
 El
 Estos
@@ -7824,6 +7835,7 @@ volcado
 volcar
 viejos
 volumenes
+ventajas
 Application
 API
 Asigna
@@ -8447,6 +8459,7 @@ Prioridad
 Prevencion
 Permitir
 Phantom
+PtcZjw
 Interface
 ID
 Instructions
@@ -9778,6 +9791,7 @@ tems
 tact
 tecnologicos
 tuvieran
+tratados
 inico
 interna
 infro
@@ -10246,6 +10260,7 @@ involucradas
 informa
 inmmediate
 idempotente
+iSd
 fijo
 file
 fork
@@ -10569,6 +10584,7 @@ figure
 form
 fragmentacion
 format
+facebook
 Nombre
 Notas
 Not
@@ -10771,6 +10787,7 @@ Naturalmente
 Numero
 Necesito
 Niveles
+NoSQL
 File
 For
 Funcion
@@ -11367,6 +11384,7 @@ DATO
 Deshago
 Deberemos
 Dia
+Distribuido
 Memoria
 Multivariada
 MORE
@@ -12531,6 +12549,7 @@ bloqueando
 bdQue
 buscaban
 background
+brindan
 will
 words
 with
@@ -13136,6 +13155,7 @@ ORDER
 Observar
 Optimi
 Ofrecer
+Orientadas
 ya
 yo
 yM
@@ -14124,6 +14144,8 @@ Bitmap
 Begin
 BEGIN
 BBFABBA
+BeKKUAxU
+Basadas
 XY
 Xg
 XQG
@@ -14292,6 +14314,7 @@ Xvq
 XAVo
 Xold
 Xnew
+XUN
 HEAD
 Hay
 Herencia
@@ -15271,6 +15294,7 @@ Waiting
 WTi
 WRITE
 WAL
+Wide
 ZZZPU
 ZX
 ZQ

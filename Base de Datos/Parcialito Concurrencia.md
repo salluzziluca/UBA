@@ -7,7 +7,8 @@ aliases:
 ![[Pasted image 20241029102903.png]]
 ![[grafo precedencia 1.a]]
 T1 lee A y luego T2 lo escribe RW
-WR: T1 lee 
+WR: T1 escribe en A y luego T2 lee
+
 
 
 ![[Pasted image 20241028180149.png]]

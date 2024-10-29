@@ -13,5 +13,6 @@
   },
   "attachmentFolderPath": "zImagenes",
   "readableLineLength": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showLineNumber": true
 }

@@ -2039,6 +2039,7 @@ guardado
 grabo
 grabada
 guardados
+ganado
 especifico
 entra
 en
@@ -4671,6 +4672,7 @@ adelanteaplicando
 asegurarme
 asignamos
 agregamos
+asiEn
 hardware
 heap
 hay
@@ -11322,6 +11324,8 @@ Diferencias
 Deteccion
 Definir
 DATO
+Deshago
+Deberemos
 Memoria
 Multivariada
 MORE
@@ -12678,6 +12682,7 @@ wrappers
 writeTS
 write
 wirte
+writes
 VA
 VIEW
 Volumen

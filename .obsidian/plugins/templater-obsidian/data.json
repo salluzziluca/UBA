@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_template",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -13,10 +13,18 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [],
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "Templates/apunte2.md"
+    }
+  ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    "",
+    ""
+  ],
   "startup_templates": [
     ""
   ],

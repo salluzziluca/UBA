@@ -73,7 +73,7 @@ $$C_{1}= x_{1}\lor x_{2} \lor x_{3} or x_{4} \lor\dots \lor x_{n}$$
 y despues tengo $$S= C_{1} \land C_{2} \land C_{3} \land\dots \land$ C_{k}$$
 Luego, busco que S sea true. Este problema es lo **suficientemente general** como para poder resolver un monton de cosas
 
-### 3SAT 
+### 3-SAT 
 Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
 
 
@@ -116,10 +116,10 @@ Tenemos un certificador eficiente si un validador es correcto y se ejecuta en ti
 
 
 ## Clases de complejidad
-P es problema que se puede resolver en tiempo polinomial (de forma eficiente) Puede ser resueltos en tiempo polinomial por una maquina de turing deterministica 
+![[Teoría de Algoritmos/P]]
 
-NP(Nondeterministic Polynomial): probvlemas para los que existe un certificador eficiente-> se pueden validar en tiempo polinomial-> pueden sre resueltos en tiempo polinomial por una maquina de turing deterministica
-Aunque encontrar una solución puede ser difícil, verificarla es eficiente. Algunos problemas NP son extremadamente complejos y no se conoce un algoritmo que los resuelva en tiempo polinómico.
+
+
 #### Estan los siguientes problemas en NP?
 - [x] Busqueda de un arreglo maxiimo
 - [x] determinar si un grafo es bipartito 
@@ -146,3 +146,44 @@ Buscamos ver si esa diferencia entre P y NP realmente existe
 Los problemas que estan en el borde son los mas dificiles, los NP completos. Todos los problemas se peuden reducir a NP completos
 
 Entonces si yo encuentro una buena solucion (polinomica) para 3SAT (que es NP completo) puede reducir todos los problemas a 3SAT
+
+
+
+
+## [[Dominating Set]] es NP?
+Es un problema de elección de subconjuntos. 
+### Por vertex cover
+Voy a reducir vertex cover a dominating set (digo que vertex cover es tan dificil como dominating set)
+
+Tenemos nuestro grafo original G, y vamos a construir otro grafo. Este nuevo grafo va a tener los mismos vértices que el original.
+Aparte, tenemos un vértice por cada arista del grafo original. Unimos los vértices adicionales con los vértices que originalmente unían (como poner un vértice en el medio). 
+Ahora resulta que si el grafo original tiene un vertex cover de tamaño K, entonces esos mismos vértices forman un dominant set en el nuevo grafo → si hay un dominant set de tamaño k, hay un vertex cover de tamaño k →  pudimos reducir VC a DS → DS es NP Completo.
+
+![[Pasted image 20241027210819.png]]
+
+Si hay vertex cover de al menos k vertices hay dominating set de al menos k vertices
+
+### Por 3 sat
+Partimos de tener n variables y m cláusulas. Creamos un grafo de 3n + m nodos: Tenemos un nodo por cada variable (xi), por cada complemento, y uno extra (ui), y uno por cada cláusula. 
+
+Formamos triángulos entre el vértice de xi, su complemento y su extra → El extra sólo se une a variable o complemento → uno de los dos debe quedar seleccionado (si es ui, es que puede ser cualquiera). 
+
+
+Tenemos n triángulos donde un vértice (extra) sólo se une a 2 de estos → al menos uno de esos 3 debe quedar seleccionado (similar a 3-SAT <=pIndependent Set), pero no puede haber más de 1 por triángulo porque podemos seleccionar hasta n, sino es imposible dominar las variables extra. 
+
+Luego, para que los vértices de claúsulas queden dominados, alguna de sus variables deben quedar en el conjunto → si hay Dominating Set, esta asignación permite que todas las cláusulas del 3-SAT sean satisfechas. 
+
+
+Ningun triangulo de la clausula puede estar en dominating set
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeT9I8dcAuTAQdNEec0ae6gph3J6PFTLRMaS2uSAOIVqHzHQ7kuNZYuk05pJNQID05BF7Bi0lq8jYZEWjAZwKWIRX6LAezw696_3haDBXV6JpHUAo2INM6mcoZRdVvVjC9hiUFPSrUQdyyWgMdBWnUsm8AwHCw=s2048?key=dOksPkXbGgnHIZbYEi2SXw)**
+
+Si hay un domianting set necesariamente los vertices de las clausulas estan dominados y la clausula existe una forma de ponerla en true (eso en cada clausula, por ende la salida sera true)
+
+Ej: x1 not x2 y x3. Me uno a x1, no x2 y x3. Si o si alguno de esos 3 vertices tiene que estar en el dominating set. Si yo le pongo true a ese toda la clausula seria true. 
+
+yo llamo a dominating set con un grafo formado de esta forma 
+
+**esta asignación permite que todas las cláusulas del 3-SAT sean satisfecha**
+
+Entonces si hay dominating set hay 3sat

@@ -24,13 +24,5 @@
       ],
       "key": "L"
     }
-  ],
-  "insert-current-date": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
   ]
 }

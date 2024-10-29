@@ -2160,6 +2160,7 @@ getAbstractFileByPath
 groupBy
 grupoCapitulo
 getActiveFile
+gGTEvC
 especifico
 entra
 en
@@ -5259,6 +5260,7 @@ hkm
 hamiltopniano
 han
 hariamos
+hrvvgl
 que
 queda
 quien
@@ -6748,6 +6750,7 @@ Ejercicioo
 EMAIL
 EXTENSIBLES
 Encuentro
+Embedded
 kernel
 kt
 kU
@@ -7705,6 +7708,7 @@ optiomos
 orginal
 ogiginal
 obvio
+oEL
 nombre
 nuevo
 nica
@@ -10328,6 +10332,7 @@ trash
 title
 terminaron
 termin
+tAzf
 inico
 interna
 infro
@@ -11166,6 +11171,7 @@ filter
 fileManager
 frontmatter
 function
+fAUmQSgY
 Nombre
 Notas
 Not
@@ -11375,6 +11381,7 @@ Notar
 Ningun
 NOMBRE
 Notice
+NRd
 File
 For
 Funcion
@@ -11999,6 +12006,7 @@ DIOS
 Date
 Dia
 DDDD
+DLpVsRMo
 Memoria
 Multivariada
 MORE

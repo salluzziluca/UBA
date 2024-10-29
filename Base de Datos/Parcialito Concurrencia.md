@@ -76,6 +76,9 @@ WRT(B)
 UNLOCK3T(B)
 cT3
 ```
+Recuperabilidad: 
+Definición: Un solapamiento es recuperable si y sólo si ninguna [[transacción]] T realiza el commit hasta tanto todas las [[Transacción|transacciones]] que escribieron datos antes de que T los leyera hayan commiteado.
+Analizemos traa
 # 3
 
 ![[Pasted image 20241028180149.png]]

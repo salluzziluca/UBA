@@ -1,5 +1,7 @@
 ---
 dia: 2024-10-29
+aliases:
+  - NoSQL
 ---
 Las SGBD no relaciones nacieron alrededor del 2000 con la masificacion de web y cambios tecnologicos 
 

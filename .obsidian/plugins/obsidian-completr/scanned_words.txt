@@ -2058,6 +2058,7 @@ diccionarios
 delete
 dHx
 dintnso
+desactualizado
 gestion
 gran
 guarda
@@ -5278,6 +5279,7 @@ asocitivos
 amazon
 agujas
 actualizo
+aplico
 hardware
 heap
 hay
@@ -5594,6 +5596,7 @@ hashing
 hash
 hasheo
 hashea
+horizontal
 que
 queda
 quien
@@ -16565,6 +16568,7 @@ BmSI
 Bjmc
 BeoEx
 BOw
+Busqueda
 XY
 Xg
 XQG

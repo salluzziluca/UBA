@@ -66,7 +66,8 @@ Provee replicacion y permite repartir consultas entre nodos
 #### Dynamo 
 Dynamo es el key-value store de Amazon. Está diseñado siguiendo una arquitectura orientada a servicio (SoA): la base de datos está distribuida en un server cluster que posee servidores web, routers de agregación y nodos de procesamiento (Dynamo instances). Utiliza un método de lookup denominado hashing consistente que reduce la cantidad de movimientos de pares necesarios cuando cambia la cantidad de nodos S. Esto hace que sea muy sencillo agregar nodos en forma dinámica, con un impacto mínimo. Utiliza un modelo de consistencia denominado consistencia eventual, que tolera pequeñas inconsistencias en los valores almacenados en distintas réplicas
 
-##### Hashing Consistente
+##### Hashing consistente
+Tenemos una funcio de hash que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M represneta la cantidad de bits del resultadol
   
 ### Orientadas a documentos 
 ### Wide Column 

@@ -34,6 +34,7 @@ WW T1 y T3 escriben Z
 
 c.
 ![[Pasted image 20241029110756.png]]
+![[grafo precedencias 1c]]
 WR: T1 escribe A, luego T4 lee A.
 WR: T2 escribe B, luego T4 lee
 WR: T4 escribe A, luego T2 lee A

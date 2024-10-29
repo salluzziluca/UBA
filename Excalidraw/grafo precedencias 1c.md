@@ -24,9 +24,7 @@ C ^FHURXGGy
 
 A ^FshFjRBQ
 
-
-# Embedded files
-95f5c808d05da21053e321fd297b097a2df8e3a1: [[Pasted Image 20241029111025_679.png]]
+B ^stTsmkJc
 
 %%
 # Drawing
@@ -36,38 +34,6 @@ A ^FshFjRBQ
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.23",
 	"elements": [
-		{
-			"id": "rohbrD7CU1I9ando2UyFX",
-			"type": "image",
-			"x": -312,
-			"y": -252.7734375,
-			"width": 642,
-			"height": 57,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1209349038,
-			"version": 30,
-			"versionNonce": 1302721902,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1730211028057,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "95f5c808d05da21053e321fd297b097a2df8e3a1",
-			"scale": [
-				1,
-				1
-			]
-		},
 		{
 			"type": "ellipse",
 			"version": 30,
@@ -155,8 +121,8 @@ A ^FshFjRBQ
 		},
 		{
 			"type": "ellipse",
-			"version": 28,
-			"versionNonce": 833715950,
+			"version": 29,
+			"versionNonce": 1785975150,
 			"isDeleted": false,
 			"id": "Y-9Ns0V5nMmEViaqReBgL",
 			"fillStyle": "hachure",
@@ -188,9 +154,13 @@ A ^FshFjRBQ
 				{
 					"id": "snD_se9j0IlXnD5bdNosq",
 					"type": "arrow"
+				},
+				{
+					"id": "sQKm08oyLQsBP8DKQ6Nzt",
+					"type": "arrow"
 				}
 			],
-			"updated": 1730211280551,
+			"updated": 1730211691067,
 			"link": null,
 			"locked": false
 		},
@@ -305,8 +275,8 @@ A ^FshFjRBQ
 		},
 		{
 			"type": "ellipse",
-			"version": 36,
-			"versionNonce": 1877187122,
+			"version": 38,
+			"versionNonce": 1822850162,
 			"isDeleted": false,
 			"id": "7FN6aWTM73wzvGaMZsek8",
 			"fillStyle": "hachure",
@@ -338,9 +308,13 @@ A ^FshFjRBQ
 				{
 					"id": "jZX4FHJSw356Qcl0szLcJ",
 					"type": "arrow"
+				},
+				{
+					"id": "sQKm08oyLQsBP8DKQ6Nzt",
+					"type": "arrow"
 				}
 			],
-			"updated": 1730211309882,
+			"updated": 1730211695004,
 			"link": null,
 			"locked": false
 		},
@@ -383,10 +357,10 @@ A ^FshFjRBQ
 		{
 			"id": "snD_se9j0IlXnD5bdNosq",
 			"type": "arrow",
-			"x": 226,
-			"y": 147.7265625,
-			"width": 3,
-			"height": 111,
+			"x": 238,
+			"y": 156.7265625,
+			"width": 25,
+			"height": 126,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -400,8 +374,8 @@ A ^FshFjRBQ
 				"type": 2
 			},
 			"seed": 152518450,
-			"version": 119,
-			"versionNonce": 642680370,
+			"version": 163,
+			"versionNonce": 1396327666,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -409,7 +383,7 @@ A ^FshFjRBQ
 					"id": "wNbr7TrN"
 				}
 			],
-			"updated": 1730211286757,
+			"updated": 1730211686852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -418,20 +392,24 @@ A ^FshFjRBQ
 					0
 				],
 				[
-					-3,
-					-111
+					25,
+					-65
+				],
+				[
+					4,
+					-126
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "7FN6aWTM73wzvGaMZsek8",
-				"focus": 0.06521923671581673,
-				"gap": 15.024700450290311
+				"focus": -0.12940464385014502,
+				"gap": 7.352495574815329
 			},
 			"endBinding": {
 				"elementId": "Y-9Ns0V5nMmEViaqReBgL",
-				"focus": -0.09223863478379793,
-				"gap": 10.322025370057425
+				"focus": -0.1165951904207741,
+				"gap": 8.713548047590457
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -747,6 +725,134 @@ A ^FshFjRBQ
 			"containerId": "jZX4FHJSw356Qcl0szLcJ",
 			"originalText": "A",
 			"lineHeight": 1.15
+		},
+		{
+			"type": "arrow",
+			"version": 315,
+			"versionNonce": 1295713582,
+			"isDeleted": false,
+			"id": "sQKm08oyLQsBP8DKQ6Nzt",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 198.32601624677386,
+			"y": 37.7265625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 33,
+			"height": 126,
+			"seed": 1210989358,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "stTsmkJc"
+				}
+			],
+			"updated": 1730211698084,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "Y-9Ns0V5nMmEViaqReBgL",
+				"focus": -0.33534798802870247,
+				"gap": 13.009591918259346
+			},
+			"endBinding": {
+				"elementId": "7FN6aWTM73wzvGaMZsek8",
+				"focus": -0.04072392323127214,
+				"gap": 3.2152735511505313
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-31,
+					48
+				],
+				[
+					2,
+					126
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 59,
+			"versionNonce": 300028334,
+			"isDeleted": false,
+			"id": "stTsmkJc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 160.65609437177386,
+			"y": 74.2265625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13.33984375,
+			"height": 23,
+			"seed": 1162401458,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1730211699579,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "B",
+			"rawText": "B",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "sQKm08oyLQsBP8DKQ6Nzt",
+			"originalText": "B",
+			"lineHeight": 1.15,
+			"baseline": 18
+		},
+		{
+			"id": "rohbrD7CU1I9ando2UyFX",
+			"type": "image",
+			"x": -312,
+			"y": -252.7734375,
+			"width": 642,
+			"height": 57,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1209349038,
+			"version": 31,
+			"versionNonce": 1807995378,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1730211722629,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "95f5c808d05da21053e321fd297b097a2df8e3a1",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {

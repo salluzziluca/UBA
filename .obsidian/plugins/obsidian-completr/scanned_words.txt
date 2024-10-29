@@ -1298,6 +1298,7 @@ crearFrontmatter
 createFolder
 catch
 creation
+commitea
 de
 dispositivos
 del
@@ -8603,6 +8604,7 @@ ATRIBUTOS
 Articulo
 Apuntes
 Autor
+Analizemos
 Programming
 Procesos
 Partes

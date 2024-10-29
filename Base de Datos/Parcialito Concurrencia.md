@@ -44,23 +44,36 @@ Hay un ciclo por lo cual no es serializable
 
 # 2
 ![[Pasted image 20241029112452.png]]
-bT1, bT2
-LockT1(D), LockT2(A)
-RT1(D), RT2(A)
-WT1(D), WT2(A)
-LOCKT1(B),
-UNLOCKT1(D), LOCKT2(D)
+bT1
+bT2
+LockT1(D)
+LockT2(A)
+RT1(D)
+RT2(A)
+WT1(D)
+WT2(A)
+LOCKT1(B)
+UNLOCKT1(D)
+LOCKT2(D)
 UNLOCKT2(A)
 bT3
 LOCKT3(A)
-RT1(B), RT2(D), RT3(A)
-WT1(B), WT2(D), WT3(A)
-UNLOCKT1(B), UNLOCKT2(D), UNLOCKT3(A)
-CT1, CT2, LOCK3T(A)
+RT1(B)
+RT2(D)
 RT3(A)
-WRT(A)
-UNLOCK
-
+WT1(B)
+WT2(D)
+WT3(A)
+UNLOCKT1(B)
+UNLOCKT2(D)
+UNLOCKT3(A)
+CT1
+CT2
+LOCK3T(B)
+RT3(B)
+WRT(B)
+UNLOCK3T(B)
+cT3
 # 3
 
 ![[Pasted image 20241028180149.png]]

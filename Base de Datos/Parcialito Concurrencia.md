@@ -31,6 +31,7 @@ RW: T4 lee Z, luego T1 y T3 escriben
 WW: T4 escribe Z, luego T1 y T3 escriben 
 
 WW T1 y T3 escriben Z
+Hay ciclo por lo cual no es serializable
 
 c.
 ![[Pasted image 20241029110756.png]]

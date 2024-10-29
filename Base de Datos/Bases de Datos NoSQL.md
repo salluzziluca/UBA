@@ -71,7 +71,11 @@ Tenemos una funcio de hash que dada una clave devuelve un valor h(k)  entre 0 y 
 
 ![[hash consistente]]
 
-sI hasheo y me da 50, voy en sentido de las agujas del reloj hasta el nodo mas cercano, n1. Si me hashea en 130, vamos a n3. 220? n4 y asi
+sI hasheo y me da 50, voy en sentido de las agujas del reloj hasta el nodo mas cercano, n1. Si me hashea en 130, vamos a n3. 220? n4 y asi.
+
+Es facil crear replicar. Puedo hacer que si uno cae en el 50, se guarde en el nodo 1 y se replique en el n2. Puedo hacer que replique en todos los nodos que quiero
+
+Si quiero agregar un nodo nuevo y cae, por ejemplo, entre 192 y nodo4, este le tiene que pasar todos los datos correspondientes (si cae en 193, darle desde n3 a 193) y guardarse los suyo.
   
 ### Orientadas a documentos 
 ### Wide Column 

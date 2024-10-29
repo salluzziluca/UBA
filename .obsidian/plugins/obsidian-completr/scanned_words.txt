@@ -3993,6 +3993,7 @@ pages
 parseInt
 primerCapitulo
 processFrontMatter
+pqRpzK
 la
 las
 le
@@ -5263,6 +5264,7 @@ han
 hariamos
 hrvvgl
 hfI
+hsKKOa
 que
 queda
 quien
@@ -7428,6 +7430,7 @@ return
 rows
 rename
 rjVL
+rZS
 operacion
 orden
 operaciones
@@ -8289,6 +8292,7 @@ vRt
 viejos
 vault
 values
+vrY
 Application
 API
 Asigna
@@ -12582,6 +12586,7 @@ TRISTE
 Template
 Titulo
 Termina
+TrN
 Realiza
 REgistrys
 Rango
@@ -13401,6 +13406,7 @@ write
 wirte
 writes
 workspace
+wNbr
 VA
 VIEW
 Volumen
@@ -14822,6 +14828,7 @@ Busquedas
 Bww
 Bipartito
 Bueno
+Brl
 XY
 Xg
 XQG
@@ -15423,6 +15430,7 @@ JkM
 JuanciTron
 Junta
 JOIN
+JBqLu
 Quienes
 Queue
 Quiere

@@ -68,6 +68,10 @@ Dynamo es el key-value store de Amazon. Está diseñado siguiendo una arquitectu
 
 ##### Hashing consistente
 Tenemos una funcio de hash que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M represneta la cantidad de bits del resultadol
+
+![[hash consistente]]
+
+sI hasheo y me da 50, voy en sentido de las agujas del reloj hasta el nodo mas cercano, n1. Si me hashea en 130, vamos a n3. 220? n4 y asi
   
 ### Orientadas a documentos 
 ### Wide Column 

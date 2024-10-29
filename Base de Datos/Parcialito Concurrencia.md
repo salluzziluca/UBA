@@ -16,6 +16,9 @@ RW: T2 lee C, luego T3 lo escribe
 WR: T2 escribe en C, luego T3 lee
 WW: T2 escribe en C, luego T3 vuelve a escribir.
 
+Hay un ciclo por lo cual no es serializable. 
+
+
 
 
 

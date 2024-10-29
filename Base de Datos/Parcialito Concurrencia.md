@@ -28,8 +28,10 @@ WW: T1 escribe X, luego T2 lee X
 WR: T4 escribe Z, T1 lee
 WR: T4 escribe Z, T3 lee 
 RW: T4 lee Z, luego T1 Escribe
+RW: T4 lee, luego T3 escribe
 WW: T4 escribe Z, luego T1 y T3 escriben 
-RW: T3 lee z, luego 51 escribe 
+RW: 
+RW: T3 lee z, luego T1 escribe 
 WW T1 y T3 escriben Z
 Hay ciclo por lo cual no es serializable
 

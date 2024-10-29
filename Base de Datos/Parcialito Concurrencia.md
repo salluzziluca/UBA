@@ -44,6 +44,10 @@ Hay un ciclo por lo cual no es serializable
 
 # 2
 ![[Pasted image 20241029112452.png]]
+T1
+bT1
+Lock(D)
+RT1(D)
 
 # 3
 

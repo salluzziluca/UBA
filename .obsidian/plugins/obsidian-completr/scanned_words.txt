@@ -1445,6 +1445,7 @@ consulto
 confirmaci
 comunicarse
 contesto
+caiga
 de
 dispositivos
 del
@@ -2076,6 +2077,7 @@ desactualizado
 docuemnto
 descreiben
 demostro
+devolvernos
 gestion
 gran
 guarda
@@ -2377,6 +2379,7 @@ gVT
 guardarse
 generalmente
 garantice
+guarden
 especifico
 entra
 en
@@ -3010,6 +3013,7 @@ estructural
 erroneamente
 efectiva
 esperamos
+enlaces
 servicios
 son
 su
@@ -3590,6 +3594,7 @@ sYT
 siguiendo
 secuencial
 simultaneamente
+soft
 par
 por
 punto
@@ -4271,6 +4276,7 @@ postulo
 particiones
 particionada
 podremos
+plica
 la
 las
 le
@@ -6532,6 +6538,7 @@ SQj
 SGI
 SoA
 Secuencial
+Soft
 Calls
 Cmabia
 CPU
@@ -11329,6 +11336,7 @@ tlu
 tezh
 tolera
 tirvuidoas
+tolerar
 inico
 interna
 infro
@@ -11849,6 +11857,7 @@ iutolizas
 influenciado
 incluido
 imposibilidad
+indeterminada
 fijo
 file
 fork
@@ -16638,6 +16647,8 @@ BeoEx
 BOw
 Busqueda
 Brewer
+BASE
+BasicAvailability
 XY
 Xg
 XQG

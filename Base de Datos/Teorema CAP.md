@@ -40,3 +40,12 @@ Si te contesto rapido, no voy a estar respondiendo siempre el mismo, si repsondo
 
 Si queremos consistencia y disponibilidad, entonces no podremos tolerar que una cantidad indeterminada de enlaces se caiga
 
+
+
+# Propiedades BASE 
+
+BasicAvailability: EL SGBD esta siempre en funcionamiento, aunque eventualmente puede devolvernos un error, o un valor desactualizado 
+
+Soft State: Estado débil (soft state): No es necesario que todas los nodos réplica guarden el mismo valor de un ítem en un determinado instante. No existe entonces un “estado actual de la base de datos”
+
+Consistencia eventual (eventual consistency): Si dejaran de producirse actualizaciones, eventualmente todos los nodos réplica alcanzarían el mismo estado.

@@ -71,7 +71,7 @@ UNLOCKT1(D)
 RT1(B)
 WT1(B)
 UNLOCKT1(B)
-
+CT1
 
 LockT2(A)
 RT2(A)
@@ -82,7 +82,7 @@ UNLOCKT2(A)
 RT2(D)
 WT2(D)
 UNLOCKT2(D)
-CT1
+
 CT2
 
 bT3
@@ -103,7 +103,7 @@ Analizemos transaccion a transacción
 T1: lee D y B, esos datos no son modificados por nadie antes que T1 los lea asi que no hay problema alguno. 
 T2: lee A y D. A no es modificado por nadie y D es modificado anteriormente por T1. Pero como el commit de T1 se da antes que el commit de T2 y "Un solapamiento es recuperable si y sólo si ninguna [[transacción]] T realiza el commit hasta tanto todas las [[Transacción|transacciones]] que escribieron datos antes de que T los leyera hayan commiteado.", es recuperable.
 T3: finalmente, T3 commitea a lo ultimo, por lo que no realiza su commit antes de que todas las transacciones que escribieron datos antes de que T los leyera (t1 por B y t2 por A) hayan commiteado.
-Este solapamiento es recupr
+Este solapamiento es recuperable
 # 3
 
 ![[Pasted image 20241028180149.png]]

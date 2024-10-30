@@ -1440,6 +1440,11 @@ causales
 casual
 confirman
 cierta
+caidas
+consulto
+confirmaci
+comunicarse
+contesto
 de
 dispositivos
 del
@@ -2070,6 +2075,7 @@ dintnso
 desactualizado
 docuemnto
 descreiben
+demostro
 gestion
 gran
 guarda
@@ -2370,6 +2376,7 @@ gfg
 gVT
 guardarse
 generalmente
+garantice
 especifico
 entra
 en
@@ -3000,6 +3007,9 @@ eventualmente
 esctritura
 estrcritura
 estructural
+erroneamente
+efectiva
+esperamos
 servicios
 son
 su
@@ -3579,6 +3589,7 @@ ssAW
 sYT
 siguiendo
 secuencial
+simultaneamente
 par
 por
 punto
@@ -4256,6 +4267,10 @@ producen
 propagar
 parmetros
 preferencia
+postulo
+particiones
+particionada
+podremos
 la
 las
 le
@@ -6961,6 +6976,7 @@ CUA
 Consistencia
 Casual
 Cassandra
+Consistency
 Es
 El
 Estos
@@ -8056,6 +8072,11 @@ resultadol
 replicar
 replique
 registraron
+relojero
+repsonder
+respondiendo
+respondan
+repsondo
 operacion
 orden
 operaciones
@@ -8391,6 +8412,8 @@ omT
 orientada
 okay
 ofrecen
+osi
+optar
 nombre
 nuevo
 nica
@@ -9034,6 +9057,7 @@ vwv
 vvCV
 vMylN
 vean
+viajando
 Application
 API
 Asigna
@@ -9381,6 +9405,7 @@ AAu
 Avb
 Amacenan
 Amazon
+Availability
 Programming
 Procesos
 Partes
@@ -9770,6 +9795,7 @@ PDRVDJ
 Pzf
 Prp
 Provee
+Partition
 Interface
 ID
 Instructions
@@ -10877,6 +10903,7 @@ mga
 mUt
 movimientos
 modelos
+muestre
 tien
 tiene
 todos
@@ -11821,6 +11848,7 @@ iQK
 iutolizas
 influenciado
 incluido
+imposibilidad
 fijo
 file
 fork
@@ -13525,6 +13553,8 @@ MnQ
 Mkc
 Mayuq
 MongoDB
+Momo
+Mom
 Table
 Todos
 This
@@ -13829,6 +13859,8 @@ TOfo
 Tnup
 TQi
 TXaU
+Tolerance
+Tolerancia
 Realiza
 REgistrys
 Rango
@@ -15329,6 +15361,7 @@ Oel
 Owi
 OUGm
 OwZ
+Osi
 ya
 yo
 yM
@@ -16274,6 +16307,7 @@ Geg
 GsUp
 GLpxKr
 Guardan
+Garantizaremos
 BX
 Bit
 Box
@@ -16603,6 +16637,7 @@ Bjmc
 BeoEx
 BOw
 Busqueda
+Brewer
 XY
 Xg
 XQG

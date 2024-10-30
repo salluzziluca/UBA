@@ -1446,6 +1446,7 @@ confirmaci
 comunicarse
 contesto
 caiga
+consistency
 de
 dispositivos
 del
@@ -2078,6 +2079,7 @@ docuemnto
 descreiben
 demostro
 devolvernos
+dejaran
 gestion
 gran
 guarda
@@ -4277,6 +4279,7 @@ particiones
 particionada
 podremos
 plica
+producirse
 la
 las
 le
@@ -5323,6 +5326,9 @@ actualizo
 aplico
 admiten
 admite
+actualizaciones
+alcanzar
+asdajdsj
 hardware
 heap
 hay
@@ -6476,8 +6482,6 @@ Spinlock
 Sleeplock
 Scheduler
 SUCIA
-SGBDD
-SGBDs
 Soportre
 StU
 SxN

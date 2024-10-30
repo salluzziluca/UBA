@@ -45,4 +45,7 @@ El tema es que tenemos varios estados de una misma BDD, hasta que se llega a pro
 
 Es por esto que se definen dos parmetros 
 Quorum de esctritura: 
-Recien digo que la estructura esta okay cuando W-1 nodos del 
+Recien digo que la estructura esta okay cuando W-1 nodos del listado de preferencia registraron la estrcritura 
+
+Quorum de lectura: Te devuelve el dato luego de que R nodos distintos (incluido el mismo) confirman la lectura
+![[Pasted image 20241029210023.png]]

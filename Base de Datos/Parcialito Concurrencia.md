@@ -82,17 +82,16 @@ LOCKT2(D)
 RT2(D)
 WT2(D)
 UNLOCKT2(D)
+CT1
 CT2
+
 bT3
 LOCKT3(A)
 RT3(A)
 WT3(A)
-UNLOCKT3(A)
-
-CT1
-
-
 LOCK3T(B)
+//aca empieza la fase de unlock
+UNLOCKT3(A)
 RT3(B)
 WRT(B)
 UNLOCK3T(B)

@@ -2068,6 +2068,8 @@ delete
 dHx
 dintnso
 desactualizado
+docuemnto
+descreiben
 gestion
 gran
 guarda
@@ -2367,6 +2369,7 @@ ggnF
 gfg
 gVT
 guardarse
+generalmente
 especifico
 entra
 en
@@ -5297,6 +5300,8 @@ amazon
 agujas
 actualizo
 aplico
+admiten
+admite
 hardware
 heap
 hay
@@ -6955,6 +6960,7 @@ Cqo
 CUA
 Consistencia
 Casual
+Cassandra
 Es
 El
 Estos
@@ -8384,6 +8390,7 @@ oFs
 omT
 orientada
 okay
+ofrecen
 nombre
 nuevo
 nica
@@ -13517,6 +13524,7 @@ MJu
 MnQ
 Mkc
 Mayuq
+MongoDB
 Table
 Todos
 This
@@ -16006,6 +16014,7 @@ YmAJ
 Ymy
 YPs
 YhVR
+YAML
 Generales
 Global
 GDT
@@ -16823,6 +16832,7 @@ XjCQ
 XDE
 XLt
 XRef
+XML
 HEAD
 Hay
 Herencia
@@ -17098,6 +17108,7 @@ HNX
 HUT
 HYe
 Hashing
+HTML
 Jacobiano
 Job
 Jusitfique
@@ -17344,6 +17355,7 @@ JHC
 Jhn
 JoidEMD
 JWJMKVJ
+JSON
 Quienes
 Queue
 Quiere

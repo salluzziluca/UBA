@@ -71,14 +71,14 @@ UNLOCKT1(D)
 RT1(B)
 WT1(B)
 UNLOCKT1(B)
+
+
 LockT2(A)
 RT2(A)
 WT2(A)
-UNLOCKT2(A)
-
-
-
 LOCKT2(D)
+//aca empieza la fase de unlock
+UNLOCKT2(A)
 RT2(D)
 WT2(D)
 UNLOCKT2(D)

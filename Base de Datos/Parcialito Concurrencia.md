@@ -141,10 +141,10 @@ al item F lo pongo en 50 (UNDO)
 Al Item G lo pongo en 80 (UNDO)
 La linea 20 no modifiica el valor de E porque estamos haciendo UNDO de T3 y T4
 
-| Linea | A   | B   | C   | D   | E   | F   | G   |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
-| 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
-| 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80  |
+| Linea | A   | B   | C   | D   | E   | F   | G             |
+| ----- | --- | --- | --- | --- | --- | --- | ------------- |
+| 18    | 70  | 80  | 35  | 60  | 70  | 50  | valor inicial |
+| 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80            |
 
 3c. Termina despues de la linea 22.  Es decir, esta es la ultima que se guarda en el log. En este caso sasbemos que t1 y t2 commitearon (porque su checkpoint terminó) y sabemos que T3 y T4 no llegaron a commitear. Por lo que hariamos UNDO de T3 y T4 y REDO de T1 y T2
 El item A lo pongo en 50
@@ -161,8 +161,8 @@ Al Item G lo pongo en 80
 A E lo dejo en 70 
 A G lo dejo en 80
 
-| Linea | A   | B   | C   | D   | E   | F   | G   |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
-| 18    | 70  | 80  | 35  | 60  | 70  | 50  | -   |
-| 22    | 70  | 80  | 35  | 60  | 70  | 50  | 80  |
-| 24    | 70  | 60  | 35  | 60  | 70  | 50  | 80  |
+| Linea            | A   | B   | C   | D   | E   | F   | G             |
+| ---------------- | --- | --- | --- | --- | --- | --- | ------------- |
+| 18               | 70  | 80  | 35  | 60  | 70  | 50  | valor inicial |
+| 22(sin flushear) | 70  | 80  | 35  | 60  | 70  | 50  | 80            |
+| 22(flusheada)    | 70  | 60  | 35  | 60  | 70  | 50  | 80            |

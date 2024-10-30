@@ -65,9 +65,10 @@ bT2
 LockT1(D)
 RT1(D)
 WT1(D)
-UNLOCKT1(D)
+
 
 LockT2(A)
+UNLOCKT1(D)
 RT2(A)
 WT2(A)
 UNLOCKT2(A)

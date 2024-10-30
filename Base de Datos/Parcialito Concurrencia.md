@@ -65,24 +65,24 @@ bT2
 LockT1(D)
 RT1(D)
 WT1(D)
-
-
-LockT2(A)
+LOCKT1(B)
+// aca empieza la fase de unlock
 UNLOCKT1(D)
+RT1(B)
+WT1(B)
+UNLOCKT1(B)
+LockT2(A)
 RT2(A)
 WT2(A)
 UNLOCKT2(A)
 
-LOCKT1(B)
-RT1(B)
-WT1(B)
-UNLOCKT1(B)
+
 
 LOCKT2(D)
 RT2(D)
 WT2(D)
 UNLOCKT2(D)
-
+CT2
 bT3
 LOCKT3(A)
 RT3(A)
@@ -90,7 +90,7 @@ WT3(A)
 UNLOCKT3(A)
 
 CT1
-CT2
+
 
 LOCK3T(B)
 RT3(B)

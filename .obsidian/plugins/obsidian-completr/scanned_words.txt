@@ -573,6 +573,7 @@ LuY
 LsG
 LKvY
 LIK
+Linea
 capa
 controlado
 cantidad
@@ -1447,6 +1448,7 @@ comunicarse
 contesto
 caiga
 consistency
+commitea
 de
 dispositivos
 del
@@ -3016,6 +3018,7 @@ erroneamente
 efectiva
 esperamos
 enlaces
+empezaron
 servicios
 son
 su
@@ -3597,6 +3600,9 @@ siguiendo
 secuencial
 simultaneamente
 soft
+start
+subo
+sasbemos
 par
 por
 punto
@@ -4673,6 +4679,7 @@ lXp
 loa
 lookup
 lAq
+llegaron
 agnosticos
 apps
 al
@@ -5646,6 +5653,7 @@ hash
 hasheo
 hashea
 horizontal
+hariamos
 que
 queda
 quien
@@ -6543,6 +6551,8 @@ SGI
 SoA
 Secuencial
 Soft
+Subo
+START
 Calls
 Cmabia
 CPU
@@ -7362,6 +7372,8 @@ Esh
 Env
 EcE
 ESz
+Escribe
+Encuentro
 kernel
 kt
 kU
@@ -8088,6 +8100,7 @@ repsonder
 respondiendo
 respondan
 repsondo
+recupr
 operacion
 orden
 operaciones
@@ -9417,6 +9430,7 @@ Avb
 Amacenan
 Amazon
 Availability
+Analizemos
 Programming
 Procesos
 Partes
@@ -10133,6 +10147,7 @@ IoD
 IKb
 Index
 Internet
+Item
 Un
 UNIX
 UBA
@@ -10915,6 +10930,7 @@ mUt
 movimientos
 modelos
 muestre
+modifiica
 tien
 tiene
 todos
@@ -11341,6 +11357,8 @@ tezh
 tolera
 tirvuidoas
 tolerar
+terminaron
+termin
 inico
 interna
 infro
@@ -13874,6 +13892,7 @@ TQi
 TXaU
 Tolerance
 Tolerancia
+Termina
 Realiza
 REgistrys
 Rango
@@ -15853,6 +15872,7 @@ jRkC
 jKf
 jWY
 jaFzH
+justo
 Ya
 Yourself
 YAGNI

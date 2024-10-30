@@ -1438,6 +1438,7 @@ casualmente
 causalidad
 causales
 casual
+confirman
 de
 dispositivos
 del
@@ -2992,6 +2993,8 @@ ekiminar
 eventual
 estudio
 eventualmente
+esctritura
+estrcritura
 servicios
 son
 su
@@ -4245,6 +4248,9 @@ pTph
 posean
 plicas
 producen
+propagar
+parmetros
+preferencia
 la
 las
 le
@@ -8041,6 +8047,7 @@ represneta
 resultadol
 replicar
 replique
+registraron
 operacion
 orden
 operaciones
@@ -8374,6 +8381,7 @@ oiE
 oFs
 omT
 orientada
+okay
 nombre
 nuevo
 nica
@@ -11803,6 +11811,7 @@ inconsistencias
 iQK
 iutolizas
 influenciado
+incluido
 fijo
 file
 fork
@@ -14158,6 +14167,7 @@ Rwe
 RdR
 RZE
 RyK
+Recien
 bien
 by
 be
@@ -17608,6 +17618,7 @@ QEv
 QRw
 QkTS
 QQAy
+Quorum
 ximo
 xito
 xitos

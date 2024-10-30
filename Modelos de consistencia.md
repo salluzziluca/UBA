@@ -49,3 +49,6 @@ Recien digo que la estructura esta okay cuando W-1 nodos del listado de preferen
 
 Quorum de lectura: Te devuelve el dato luego de que R nodos distintos (incluido el mismo) confirman la lectura
 ![[Pasted image 20241029210023.png]]
+
+
+Para mantener sincronizadas las réplicas, Dynamo utiliza una estructura llamada Merkle tree que consiste en un árbol en que cada nodo no-hoja es un hash criptográfico de los valores de sus hijos.

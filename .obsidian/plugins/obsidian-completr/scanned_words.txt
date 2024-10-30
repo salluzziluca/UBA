@@ -1439,6 +1439,7 @@ causalidad
 causales
 casual
 confirman
+cierta
 de
 dispositivos
 del
@@ -2995,6 +2996,7 @@ estudio
 eventualmente
 esctritura
 estrcritura
+estructural
 servicios
 son
 su

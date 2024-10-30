@@ -87,6 +87,11 @@ Busqueda: aplico hash a la clave y se que en el proximo sv está
 [[Modelos de consistencia]]
   
 ### Orientadas a documentos 
+Un documento es una unidad estructural de informacion(agregado) que almacena datos bajo una cierta estructura.
+
+Sin necesidad de definir un esquema rígido para la estructura del documento, estas bases de datos ofrecen la posibilidad de manejar estructuras un poco más complejas que un simple par clave: valor.
+
+generalmente un documento tiene conjuntos de clave:valor que representan atributos de documento y sus valores. Se admiten atributos multivaluados, se admite que el valor de un atributo sea tmb un documento. Las estructuras de un docuemnto se 
 ### Wide Column 
 
 ### Basadas en [[Grafos]] 

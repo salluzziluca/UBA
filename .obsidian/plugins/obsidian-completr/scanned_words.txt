@@ -575,6 +575,7 @@ LKvY
 LIK
 Linea
 Lagrange
+Linealmente
 capa
 controlado
 cantidad
@@ -1452,6 +1453,9 @@ consistency
 commitea
 cuadrados
 construye
+cuadratico
+col
+conjugado
 de
 dispositivos
 del
@@ -3616,6 +3620,7 @@ start
 subo
 sasbemos
 stTsmkJc
+subespacio
 par
 por
 punto
@@ -4302,6 +4307,9 @@ producirse
 pqRpzK
 polinomios
 polonomio
+pseudo
+proyecci
+proyeccion
 la
 las
 le
@@ -4698,6 +4706,7 @@ lAq
 llegaron
 lDMlBFdZ
 lio
+llegamos
 agnosticos
 apps
 al
@@ -5679,6 +5688,7 @@ hariamos
 hrvvgl
 hfI
 hsKKOa
+herm
 que
 queda
 quien
@@ -6579,6 +6589,9 @@ Secuencial
 Soft
 Subo
 START
+Simetrica
+SOLO
+Schmidt
 Calls
 Cmabia
 CPU
@@ -7024,6 +7037,12 @@ Consistencia
 Casual
 Cassandra
 Consistency
+Complejos
+Cualquier
+Complemento
+Can
+CUANDO
+Cuadrados
 Es
 El
 Estos
@@ -7400,6 +7419,9 @@ EcE
 ESz
 Escribe
 Encuentro
+ENTONCES
+ENTONCESSSS
+Esa
 kernel
 kt
 kU
@@ -8129,6 +8151,7 @@ repsondo
 recupr
 rjVL
 rZS
+rango
 operacion
 orden
 operaciones
@@ -8467,6 +8490,8 @@ ofrecen
 osi
 optar
 oEL
+ortogonales
+ortonormal
 nombre
 nuevo
 nica
@@ -8769,6 +8794,8 @@ nKg
 nFc
 nnzPw
 nux
+nima
+nul
 via
 vuelve
 viven
@@ -9853,6 +9880,7 @@ Pzf
 Prp
 Provee
 Partition
+PIC
 Interface
 ID
 Instructions
@@ -10181,6 +10209,7 @@ Index
 Internet
 Item
 Interpolacion
+Inequality
 Un
 UNIX
 UBA
@@ -10967,6 +10996,7 @@ modifiica
 minimos
 mejores
 minimce
+max
 tien
 tiene
 todos
@@ -11396,6 +11426,7 @@ tolerar
 terminaron
 termin
 tAzf
+theta
 inico
 interna
 infro
@@ -11922,6 +11953,7 @@ inerpolante
 interpolacion
 interpolar
 interpolante
+igualdad
 fijo
 file
 fork
@@ -12898,6 +12930,7 @@ FKk
 FHURXGGy
 FshFjRBQ
 Fenomeno
+Formula
 Descriptors
 Descriptor
 Devuelve
@@ -13276,6 +13309,8 @@ Dynamo
 DDLs
 DLpVsRMo
 DZBWYXvl
+Dependientes
+Desigualdad
 Memoria
 Multivariada
 MORE
@@ -15453,6 +15488,9 @@ Owi
 OUGm
 OwZ
 Osi
+Observaciones
+Ortogonalidad
+Ortogonal
 ya
 yo
 yM
@@ -16402,6 +16440,8 @@ GsUp
 GLpxKr
 Guardan
 Garantizaremos
+Generalizaci
+Gram
 BX
 Bit
 Box
@@ -16735,6 +16775,7 @@ Brewer
 BASE
 BasicAvailability
 Brl
+Bunyakovsky
 XY
 Xg
 XQG
@@ -17241,6 +17282,8 @@ HUT
 HYe
 Hashing
 HTML
+Haciendo
+Herm
 Jacobiano
 Job
 Jusitfique

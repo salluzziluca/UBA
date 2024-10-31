@@ -10,7 +10,8 @@ Nace para resolver [[Docker#Desafios de implementar docker|los desafios de imple
 Kubernetes le asigna dos roles a los servidores, master y workers.
 Para interactuar con los servidores uso una API.
 
-Un master (replicado n veces) y varios workers conforman un Cluster.
+<mark style="background: #FFB8EBA6;">Un master (replicado n veces) y varios workers conforman un Cluster.</mark>
+
 
 
 ### Masters

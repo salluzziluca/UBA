@@ -574,6 +574,7 @@ LsG
 LKvY
 LIK
 Linea
+Lagrange
 capa
 controlado
 cantidad
@@ -1449,6 +1450,8 @@ contesto
 caiga
 consistency
 commitea
+cuadrados
+construye
 de
 dispositivos
 del
@@ -2082,6 +2085,8 @@ descreiben
 demostro
 devolvernos
 dejaran
+delta
+divididas
 gestion
 gran
 guarda
@@ -3020,6 +3025,12 @@ efectiva
 esperamos
 enlaces
 empezaron
+evaluado
+evaluada
+evaluo
+efectuando
+extremos
+equidistantes
 servicios
 son
 su
@@ -4289,6 +4300,8 @@ podremos
 plica
 producirse
 pqRpzK
+polinomios
+polonomio
 la
 las
 le
@@ -4684,6 +4697,7 @@ lookup
 lAq
 llegaron
 lDMlBFdZ
+lio
 agnosticos
 apps
 al
@@ -5340,6 +5354,10 @@ admite
 actualizaciones
 alcanzar
 asdajdsj
+ajusto
+ajustar
+ajusgar
+anula
 hardware
 heap
 hay
@@ -5899,6 +5917,7 @@ qbR
 qen
 qHB
 qnWj
+qeu
 utilizados
 un
 una
@@ -9093,6 +9112,7 @@ vMylN
 vean
 viajando
 vrY
+vale
 Application
 API
 Asigna
@@ -10160,6 +10180,7 @@ IKb
 Index
 Internet
 Item
+Interpolacion
 Un
 UNIX
 UBA
@@ -10943,6 +10964,9 @@ movimientos
 modelos
 muestre
 modifiica
+minimos
+mejores
+minimce
 tien
 tiene
 todos
@@ -11893,6 +11917,11 @@ influenciado
 incluido
 imposibilidad
 indeterminada
+interpolacioon
+inerpolante
+interpolacion
+interpolar
+interpolante
 fijo
 file
 fork
@@ -12273,6 +12302,7 @@ fsz
 funcio
 fuertes
 fAUmQSgY
+fuertemente
 Nombre
 Notas
 Not
@@ -12867,6 +12897,7 @@ FlRU
 FKk
 FHURXGGy
 FshFjRBQ
+Fenomeno
 Descriptors
 Descriptor
 Devuelve
@@ -13914,6 +13945,7 @@ Tolerance
 Tolerancia
 Termina
 TrN
+Teng
 Realiza
 REgistrys
 Rango
@@ -14264,6 +14296,7 @@ RZE
 RyK
 Recien
 RaV
+Runge
 bien
 by
 be
@@ -15167,6 +15200,7 @@ VqI
 VIW
 VkY
 Velocidad
+Vandermonde
 OPTIONS
 Operativos
 Orden
@@ -18186,6 +18220,7 @@ WEu
 WxrrPL
 WAn
 WKcMpm
+Weierstrass
 ZZZPU
 ZX
 ZQ
@@ -18618,6 +18653,7 @@ zyW
 zyA
 zOoi
 zaf
+zoan
 ÄB
 ÄG
 Äo

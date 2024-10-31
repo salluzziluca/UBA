@@ -17,3 +17,8 @@ A partir de él se crea nuestra imagen, nos permite customizar.
 
 ## Dockercompose
 Nos permite ejecutar varios contenedores al mismo tiempo.
+
+
+# Desafios de implementar docker 
+- Conectividad entre contenedores 
+- Rollba

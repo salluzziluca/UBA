@@ -22,5 +22,11 @@ Son la mente central, solo buscan mantener y sincronizar el estado de todo el cl
 
 Pueden ser varios. Como tiene que ser redundante, [[cloud native]], etc, se usan varios para que sea redundante en caso de [[fallas]].
 
+### Workers 
+
+Corren los pods de nuestras apps.
+
+Los pods pueden
+
 
 

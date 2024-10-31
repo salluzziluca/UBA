@@ -11,3 +11,7 @@ Kubernetes le asigna dos roles a los clusters, master y workers.
 Para interactuar con los clusters uso una API. 
 
 
+### Masters 
+Pueden ser varios. Como tiene que ser redudante, cloud native, etc, se usan varios para que sea redundante en caso 
+
+

@@ -20,5 +20,8 @@ Nos permite ejecutar varios contenedores al mismo tiempo.
 
 
 # Desafios de implementar docker 
-- Conectividad entre contenedores 
-- Rollba
+- Conectividad entre contenedores entre diferentes maquinas
+- Rollback en todos los hosts en caso de [[fallas]] 
+- Despliegue de conetndores en varios hosts 
+- balanceo de carga 
+- actualizacion de los servicios con control de downtime

@@ -8,7 +8,7 @@ Le permite a las organizaciones construir y desarrollar apps en infraestructura 
 
 >[!important]  Una app es cloud native cuando fue hecha para correr en el cloud
 
-
+micro 
 ## Cloud Computing 
 Yo accedo a servicios/recursos a demanda. Pido y el proveedor de cloud me lo entrega.
 Pongo guita, pido una VM y me la dan.

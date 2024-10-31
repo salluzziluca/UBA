@@ -7,6 +7,7 @@ Nace para resolver [[Docker#Desafios de implementar docker|los desafios de imple
 
 ## Arquitectura de Kubernetes (Alto Nivel)
 
-
+Kubernetes le asigna dos roles a los clusters, master y workers.
+Para interactuar con los clusters uso una API. 
 
 

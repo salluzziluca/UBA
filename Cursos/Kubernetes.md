@@ -76,4 +76,6 @@ spec:
 
 
 ## Service 
-Abstracciones que permiten direigir el trafico de un grupo de podes que provee un microservicio
+Abstracciones que permiten direigir el trafico de un grupo de pods que provee un microservicio
+
+![[Pasted image 20241031200732.png]]

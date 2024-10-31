@@ -24,7 +24,9 @@ Pueden ser varios. Como tiene que ser redundante, [[cloud native]], etc, se usan
 
 ### Workers 
 
-Corren los pods de nuestras apps.
+Corren los pods de nuestras apps. Puede tener n pods
+
+#### Pods
 
 Los pods pueden tener 1 o mas containers adentro. Este tiene una sola IP.
 

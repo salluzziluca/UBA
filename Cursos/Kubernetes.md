@@ -30,6 +30,10 @@ Los pods pueden tener 1 o mas containers adentro. Este tiene una sola IP.
 
 Como el pod es efimero, preferimos siempre desplegar 
 
+### Deployments 
+Un recutrso que nos permite instanciar pods de un mismo tipo 
+
+Kubernetes te asegura que una determinada cantidad de Pods (campo replicas) este corriendo al mismo tiempo. Siempre voy a tener las replicas que pedi,
 
 
 

@@ -37,5 +37,41 @@ Kubernetes te asegura que una determinada cantidad de Pods (campo replicas) este
 
 Se pueden cambiar la cantidad de replicas (operacion `scale`) de manera continua usando `rolling updates`
 
+```YAML
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: nginx
+  name: nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  strategy:
+    rollingUpdate:
+      maxUnavailable: 50%
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - image: nginx:1.25
+        name: nginx
+        resources:
+          requests:
+            cpu: 100m
+            memory: 800Mi
+          limits:
+            cpu: 100m
+            memory: 800Mi
+                            
+```
+
+
 
 

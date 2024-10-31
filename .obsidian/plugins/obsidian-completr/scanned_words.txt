@@ -1450,6 +1450,11 @@ contesto
 caiga
 consistency
 commitea
+computacion
+caracterisiticas
+customizarlas
+customizar
+contenedores
 de
 dispositivos
 del
@@ -2083,6 +2088,8 @@ descreiben
 demostro
 devolvernos
 dejaran
+demanda
+despreciables
 gestion
 gran
 guarda
@@ -3021,6 +3028,8 @@ efectiva
 esperamos
 enlaces
 empezaron
+entornos
+efficient
 servicios
 son
 su
@@ -3606,6 +3615,7 @@ start
 subo
 sasbemos
 stTsmkJc
+sabiamente
 par
 por
 punto
@@ -4290,6 +4300,9 @@ podremos
 plica
 producirse
 pqRpzK
+pido
+predictable
+pensados
 la
 las
 le
@@ -5341,6 +5354,7 @@ admite
 actualizaciones
 alcanzar
 asdajdsj
+administrar
 hardware
 heap
 hay
@@ -6561,6 +6575,7 @@ Secuencial
 Soft
 Subo
 START
+Sistema
 Calls
 Cmabia
 CPU
@@ -7006,6 +7021,10 @@ Consistencia
 Casual
 Cassandra
 Consistency
+Cloud
+Computing
+Contenedores
+Cerrado
 Es
 El
 Estos
@@ -7382,6 +7401,7 @@ EcE
 ESz
 Escribe
 Encuentro
+Emula
 kernel
 kt
 kU
@@ -8111,6 +8131,7 @@ repsondo
 recupr
 rjVL
 rZS
+redistribuye
 operacion
 orden
 operaciones
@@ -8449,6 +8470,7 @@ ofrecen
 osi
 optar
 oEL
+organizaciones
 nombre
 nuevo
 nica
@@ -8751,6 +8773,9 @@ nKg
 nFc
 nnzPw
 nux
+nefoque
+nube
+native
 via
 vuelve
 viven
@@ -9834,6 +9859,7 @@ Pzf
 Prp
 Provee
 Partition
+Pido
 Interface
 ID
 Instructions
@@ -10944,6 +10970,7 @@ movimientos
 modelos
 muestre
 modifiica
+modernas
 tien
 tiene
 todos
@@ -11895,6 +11922,7 @@ influenciado
 incluido
 imposibilidad
 indeterminada
+imagen
 fijo
 file
 fork
@@ -13249,6 +13277,9 @@ Dynamo
 DDLs
 DLpVsRMo
 DZBWYXvl
+Docker
+Dockerfile
+Dockercompose
 Memoria
 Multivariada
 MORE
@@ -15423,6 +15454,7 @@ Owi
 OUGm
 OwZ
 Osi
+Operativo
 ya
 yo
 yM

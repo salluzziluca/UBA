@@ -1,4 +1,3 @@
-# Docker
 > Docker makes development efficient and predictable
 
 Docker nos permite trabajar con un estandar para que en el servidor y lo que esta en nuestro pc tenga las mismas caracterisiticas. 

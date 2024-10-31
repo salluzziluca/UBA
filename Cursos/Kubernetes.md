@@ -14,6 +14,8 @@ Para interactuar con los servidores uso una API.
 <mark style="background: #FFB8EBA6;">Un master (replicado n veces) y varios workers conforman un Cluster.</mark>
 
 
+el kubectl le pega primero al balanceador de carga y este redirige a los masters
+
 
 ### Masters
 Son la mente central, solo buscan mantener y sincronizar el estado de todo el cluster

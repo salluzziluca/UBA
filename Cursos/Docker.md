@@ -24,4 +24,4 @@ Nos permite ejecutar varios contenedores al mismo tiempo.
 - Rollback en todos los hosts en caso de [[fallas]] 
 - Despliegue de conetndores en varios hosts 
 - balanceo de carga 
-- actualizacion de los servicios con control de downtime
+- actualizacion de los servicios con control de downtime. No esta bueno t

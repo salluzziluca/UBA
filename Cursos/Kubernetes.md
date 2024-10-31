@@ -36,7 +36,7 @@ Un recutrso que nos permite instanciar pods de un mismo tipo
 Kubernetes te asegura que una determinada cantidad de Pods (campo replicas) este corriendo al mismo tiempo. Siempre voy a tener las replicas que pedi, 
 
 Se pueden cambiar la cantidad de replicas (operacion `scale`) de manera continua usando `rolling updates`
-Kubernetes va a estar guardando las upd
+Kubernetes va a estar guardando las versiones del mismo de deployement y va a ir swapeando entre la vieja y la nueva version.
 ```YAML
 apiVersion: apps/v1
 kind: Deployment

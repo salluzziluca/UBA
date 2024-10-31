@@ -244,6 +244,7 @@ KFN
 KWel
 KhkN
 KJHNM
+Kubernetes
 La
 Los
 Luego
@@ -11372,6 +11373,7 @@ tolerar
 terminaron
 termin
 tAzf
+tecnologia
 inico
 interna
 infro

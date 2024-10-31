@@ -26,7 +26,10 @@ Pueden ser varios. Como tiene que ser redundante, [[cloud native]], etc, se usan
 
 Corren los pods de nuestras apps.
 
-Los pods pueden
+Los pods pueden tener 1 o mas containers adentro. Este tiene una sola IP.
+
+Como el pod es efimero, preferimos siempre desplegar 
+
 
 
 

@@ -10,6 +10,7 @@ Podemos crear las nuestras y customizarlas
 ## Contenedores
 Cerrado y aislados, pensados para ser despreciables
 
+
 ## Dockerfile
 A partir de él se crea nuestra imagen, nos permite customizar
 

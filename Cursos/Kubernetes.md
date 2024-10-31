@@ -80,4 +80,17 @@ spec:
 ## Service 
 Abstracciones que permiten direigir el trafico de un grupo de pods que provee un microservicio
 
-![[Pasted image 20241031200732.png]]
+Los servicios (services) son abstracciones que permiten dirigir el tráfico de un grupo de pods que provee un microservicio.
+El agente kube-proxy, el cual está presente en todo los worker nodes, está siempre pendiente del Kubernetes API por nuevos servicios.
+Kube-proxy se encarga de configurar cada nodo para que así se redirija el tráfico a los pods de una misma aplicación.
+Existen tres tipo de servicios:
+ClusterIP
+Es el servicio que se crea por default. Sólo provee acceso internamente.
+NodePort
+Expone el servicio en un puerto estático. Por default el puerto está en el rango 30000-32767.
+Load Balancer
+Estos servicios son implementados en proveedores de nube pública como GKE (Google Kubernetes Engine) y AWS (Amazon Web Services).
+
+
+
+![[Pasted image 20241031201332.png]]

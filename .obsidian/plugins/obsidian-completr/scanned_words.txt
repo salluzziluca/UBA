@@ -1458,6 +1458,7 @@ contenedores
 cancelacion
 caida
 clusters
+containers
 de
 dispositivos
 del
@@ -2093,6 +2094,9 @@ devolvernos
 dejaran
 demanda
 despreciables
+desplegar
+deployement
+direigir
 gestion
 gran
 guarda
@@ -3035,6 +3039,7 @@ entornos
 efficient
 externas
 engine
+efimero
 servicios
 son
 su
@@ -3623,6 +3628,7 @@ stTsmkJc
 sabiamente
 segmentation
 sincronizar
+swapeando
 par
 por
 punto
@@ -4311,6 +4317,9 @@ pido
 predictable
 pensados
 provienen
+pega
+pods
+pod
 la
 las
 le
@@ -5363,6 +5372,7 @@ actualizaciones
 alcanzar
 asdajdsj
 administrar
+asegura
 hardware
 heap
 hay
@@ -6585,6 +6595,7 @@ Soft
 Subo
 START
 Sistema
+Service
 Calls
 Cmabia
 CPU
@@ -7035,6 +7046,7 @@ Computing
 Contenedores
 Cerrado
 Cluster
+Corren
 Es
 El
 Estos
@@ -7618,6 +7630,7 @@ kmk
 kXAa
 kVb
 kuml
+kubectl
 realicen
 resolve
 recommend
@@ -8145,6 +8158,9 @@ rZS
 redistribuye
 redudante
 replicado
+redirige
+recutrso
+replicas
 operacion
 orden
 operaciones
@@ -9485,6 +9501,7 @@ Analizemos
 Aclaro
 Aquellas
 Alto
+Abstracciones
 Programming
 Procesos
 Partes
@@ -9878,6 +9895,7 @@ Partition
 Pido
 Propviienen
 Pueden
+Pods
 Interface
 ID
 Instructions
@@ -10990,6 +11008,8 @@ muestre
 modifiica
 modernas
 master
+masters
+microservicio
 tien
 tiene
 todos
@@ -11422,6 +11442,7 @@ tAzf
 tecnologia
 terremoto
 tension
+trafico
 inico
 interna
 infro
@@ -11944,6 +11965,7 @@ incluido
 imposibilidad
 indeterminada
 imagen
+instanciar
 fijo
 file
 fork
@@ -13308,6 +13330,7 @@ Docker
 Dockerfile
 Dockercompose
 Divison
+Deployments
 Memoria
 Multivariada
 MORE
@@ -18253,6 +18276,7 @@ WEu
 WxrrPL
 WAn
 WKcMpm
+Workers
 ZZZPU
 ZX
 ZQ

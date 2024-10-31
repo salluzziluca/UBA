@@ -36,7 +36,7 @@ Un recutrso que nos permite instanciar pods de un mismo tipo
 Kubernetes te asegura que una determinada cantidad de Pods (campo replicas) este corriendo al mismo tiempo. Siempre voy a tener las replicas que pedi, 
 
 Se pueden cambiar la cantidad de replicas (operacion `scale`) de manera continua usando `rolling updates`
-
+Kubernetes va a estar guardando las upd
 ```YAML
 apiVersion: apps/v1
 kind: Deployment
@@ -46,7 +46,7 @@ metadata:
     app: nginx
   name: nginx
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: nginx

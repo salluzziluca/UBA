@@ -1455,6 +1455,9 @@ caracterisiticas
 customizarlas
 customizar
 contenedores
+cancelacion
+caida
+clusters
 de
 dispositivos
 del
@@ -3030,6 +3033,8 @@ enlaces
 empezaron
 entornos
 efficient
+externas
+engine
 servicios
 son
 su
@@ -3616,6 +3621,7 @@ subo
 sasbemos
 stTsmkJc
 sabiamente
+segmentation
 par
 por
 punto
@@ -4303,6 +4309,7 @@ pqRpzK
 pido
 predictable
 pensados
+provienen
 la
 las
 le
@@ -5676,6 +5683,7 @@ hariamos
 hrvvgl
 hfI
 hsKKOa
+hardarwe
 que
 queda
 quien
@@ -8132,6 +8140,7 @@ recupr
 rjVL
 rZS
 redistribuye
+redudante
 operacion
 orden
 operaciones
@@ -8471,6 +8480,7 @@ osi
 optar
 oEL
 organizaciones
+orchestration
 nombre
 nuevo
 nica
@@ -9469,6 +9479,8 @@ Amazon
 Availability
 Analizemos
 Aclaro
+Aquellas
+Alto
 Programming
 Procesos
 Partes
@@ -9860,6 +9872,8 @@ Prp
 Provee
 Partition
 Pido
+Propviienen
+Pueden
 Interface
 ID
 Instructions
@@ -10971,6 +10985,7 @@ modelos
 muestre
 modifiica
 modernas
+master
 tien
 tiene
 todos
@@ -11401,6 +11416,8 @@ terminaron
 termin
 tAzf
 tecnologia
+terremoto
+tension
 inico
 interna
 infro
@@ -12305,6 +12322,7 @@ fuertes
 fAUmQSgY
 flushear
 flusheada
+fault
 Nombre
 Notas
 Not
@@ -12556,6 +12574,7 @@ NKL
 NWSo
 NRd
 Nace
+Nivel
 File
 For
 Funcion
@@ -12900,6 +12919,8 @@ FlRU
 FKk
 FHURXGGy
 FshFjRBQ
+Fallas
+Fuego
 Descriptors
 Descriptor
 Devuelve
@@ -13281,6 +13302,7 @@ DZBWYXvl
 Docker
 Dockerfile
 Dockercompose
+Divison
 Memoria
 Multivariada
 MORE
@@ -13642,6 +13664,7 @@ Mayuq
 MongoDB
 Momo
 Mom
+Masters
 Table
 Todos
 This
@@ -14680,6 +14703,7 @@ bDj
 bYW
 bNB
 basico
+backup
 will
 words
 with
@@ -14936,6 +14960,7 @@ wBuu
 wdD
 wDTDap
 wNbr
+workers
 VA
 VIEW
 Volumen

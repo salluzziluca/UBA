@@ -6,7 +6,7 @@ Es un [[Docker#Contenedores|container]] orchestration engine
 Nace para resolver [[Docker#Desafios de implementar docker|los desafios de implementar docker]]
 
 ## Arquitectura de Kubernetes (Alto Nivel)
-![[Pasted image 20241031195325.png]]
+![[arqutectura cluster kubernetes]]
 
 Kubernetes le asigna dos roles a los servidores, master y workers.
 Para interactuar con los servidores uso una API.

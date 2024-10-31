@@ -3622,6 +3622,7 @@ sasbemos
 stTsmkJc
 sabiamente
 segmentation
+sincronizar
 par
 por
 punto
@@ -7033,6 +7034,7 @@ Cloud
 Computing
 Contenedores
 Cerrado
+Cluster
 Es
 El
 Estos
@@ -7410,6 +7412,7 @@ ESz
 Escribe
 Encuentro
 Emula
+EBA
 kernel
 kt
 kU
@@ -8141,6 +8144,7 @@ rjVL
 rZS
 redistribuye
 redudante
+replicado
 operacion
 orden
 operaciones
@@ -12921,6 +12925,7 @@ FHURXGGy
 FshFjRBQ
 Fallas
 Fuego
+FFB
 Descriptors
 Descriptor
 Devuelve

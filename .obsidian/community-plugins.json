@@ -17,5 +17,8 @@
   "homepage",
   "obsidian-style-settings",
   "obsidian-excel-to-markdown-table",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "file-explorer-note-count",
+  "obsidian-reading-time",
+  "dataview"
 ]

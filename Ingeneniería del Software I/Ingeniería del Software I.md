@@ -5,6 +5,7 @@ Priemera enseñanza: No seas boludo *o7*
 
 ---
 [[Clean Code]]
+[[Deuda Técnica]]
 [[Diseño  de Sistemas]]
 [[Agile]]
 [[Working with Agile]]

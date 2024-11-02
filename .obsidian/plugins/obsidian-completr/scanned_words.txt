@@ -2102,6 +2102,7 @@ divididas
 diriigido
 distribuir
 describen
+decode
 gestion
 gran
 guarda
@@ -10249,6 +10250,7 @@ Internet
 Item
 Interpolacion
 Inequality
+Instruccion
 Un
 UNIX
 UBA

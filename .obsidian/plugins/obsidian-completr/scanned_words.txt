@@ -1459,6 +1459,11 @@ conjugado
 cloacas
 capea
 criptogr
+caben
+consultos
+combinacion
+compartir
+coherente
 de
 dispositivos
 del
@@ -2095,6 +2100,8 @@ dejaran
 delta
 divididas
 diriigido
+distribuir
+describen
 gestion
 gran
 guarda
@@ -5386,6 +5393,7 @@ augmentin
 agrego
 agregaria
 asociativos
+aprovechando
 hardware
 heap
 hay
@@ -9167,6 +9175,7 @@ viajando
 vrY
 vale
 vol
+vertical
 Application
 API
 Asigna
@@ -9518,6 +9527,7 @@ Availability
 Analizemos
 Aclaro
 Almacenan
+Almacenar
 Programming
 Procesos
 Partes
@@ -9909,6 +9919,7 @@ Prp
 Provee
 Partition
 PIC
+Paralelizar
 Interface
 ID
 Instructions
@@ -11991,6 +12002,7 @@ interpolacion
 interpolar
 interpolante
 igualdad
+integrar
 fijo
 file
 fork
@@ -13352,6 +13364,7 @@ DLpVsRMo
 DZBWYXvl
 Dependientes
 Desigualdad
+Distintos
 Memoria
 Multivariada
 MORE
@@ -14377,6 +14390,7 @@ RaV
 Runge
 Red
 Reci
+Replicas
 bien
 by
 be
@@ -14758,6 +14772,8 @@ bYW
 bNB
 basico
 bucles
+backup
+brindando
 will
 words
 with

@@ -3,11 +3,11 @@ dia: 2024-10-29
 aliases:
   - NoSQL
 ---
-Las SGBD no relaciones nacieron alrededor del 2000 con la masificacion de web y cambios tecnologicos 
+Las SGBD no relaciones nacieron alrededor del 2000 con la masificación de web y cambios tecnológicos 
 
-Se buscaban slluciones nuevas al probelema del alamcneamiento de datos que tuvieran:
+Se buscaban soluciones nuevas al problema del almacenamiento de datos que tuvieran:
 
-Escalabilidad para trabajar grandes volumenes de datos:
+Escalabilidad para trabajar grandes volúmenes de datos:
 - Se necesita almacenar y procesar cantidades masivas dedatos 
 - Iba de la mano de la digitalizacion y de la disponibilidad de datos en la red
 

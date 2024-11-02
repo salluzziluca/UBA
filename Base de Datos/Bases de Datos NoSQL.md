@@ -26,7 +26,7 @@ Se busca una mayor disponibilidad y tolerancia a fallas
 Se requieren mecanismos de replicacion y fragmentacion automatica de datos 
 Se prioriza la capacidad de procesamiento distribuido.
 <mark style="background: #BBFABBA6;">Era algo necesario, no se podia hacer la vista gorda</mark>
-ver [[base de datos]]
+ver [[Bases de Datos Distribuidas]]
 
 --- 
 Los joins de tablas son COSTOSOS 

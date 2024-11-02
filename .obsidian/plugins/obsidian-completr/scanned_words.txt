@@ -1456,6 +1456,8 @@ construye
 cuadratico
 col
 conjugado
+cloacas
+capea
 de
 dispositivos
 del
@@ -2091,6 +2093,7 @@ devolvernos
 dejaran
 delta
 divididas
+diriigido
 gestion
 gran
 guarda
@@ -3035,6 +3038,7 @@ evaluo
 efectuando
 extremos
 equidistantes
+estabamos
 servicios
 son
 su
@@ -3621,6 +3625,9 @@ subo
 sasbemos
 stTsmkJc
 subespacio
+salvo
+sobraba
+sobrando
 par
 por
 punto
@@ -4310,6 +4317,8 @@ polonomio
 pseudo
 proyecci
 proyeccion
+produce
+path
 la
 las
 le
@@ -5367,6 +5376,11 @@ ajusto
 ajustar
 ajusgar
 anula
+aceptan
+antiparalelas
+augmentin
+agrego
+agregaria
 hardware
 heap
 hay
@@ -5928,6 +5942,7 @@ qen
 qHB
 qnWj
 qeu
+qel
 utilizados
 un
 una
@@ -7043,6 +7058,7 @@ Complemento
 Can
 CUANDO
 Cuadrados
+Ccada
 Es
 El
 Estos
@@ -8152,6 +8168,11 @@ recupr
 rjVL
 rZS
 rango
+refleja
+residual
+restante
+reducirse
+residuales
 operacion
 orden
 operaciones
@@ -10997,6 +11018,8 @@ minimos
 mejores
 minimce
 max
+modelar
+materiales
 tien
 tiene
 todos
@@ -11427,6 +11450,9 @@ terminaron
 termin
 tAzf
 theta
+traslada
+transporte
+teniamos
 inico
 interna
 infro
@@ -12335,6 +12361,10 @@ funcio
 fuertes
 fAUmQSgY
 fuertemente
+flujos
+ford
+fulkerson
+flow
 Nombre
 Notas
 Not
@@ -13672,6 +13702,7 @@ Mayuq
 MongoDB
 Momo
 Mom
+Maximizo
 Table
 Todos
 This
@@ -14332,6 +14363,7 @@ RyK
 Recien
 RaV
 Runge
+Red
 bien
 by
 be
@@ -14712,6 +14744,7 @@ bDj
 bYW
 bNB
 basico
+bucles
 will
 words
 with
@@ -15236,6 +15269,7 @@ VIW
 VkY
 Velocidad
 Vandermonde
+Vemos
 OPTIONS
 Operativos
 Orden

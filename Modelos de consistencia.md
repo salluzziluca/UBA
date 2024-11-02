@@ -39,13 +39,13 @@ Aca p2 lee 20, por lo que tiene que ir primero p1. El problema es que p2 si o si
 ## consistencia eventual 
 >[!info] si en el sistema no se producen modificaciones (escrituras) por un tiempo suficientemente grande, entonces eventualmente todos los procesos verán los mismos valores
 
-Esto es debido a que en la mayoria de sistemas reales son pocos los procesos que realizan modificaciones mientras que la mayoria lee.uhjwef       
+Esto es debido a que en la mayoría de sistemas reales son pocos los procesos que realizan modificaciones mientras que la mayoria lee
 
 El tema es que tenemos varios estados de una misma BDD, hasta que se llega a propagar todo.
 
-Es por esto que se definen dos parmetros 
-Quorum de esctritura: 
-Recien digo que la estructura esta okay cuando W-1 nodos del listado de preferencia registraron la estrcritura 
+Es por esto que se definen dos parámetros 
+Quorum de escritura: 
+Recién digo que la estructura esta okay cuando W-1 nodos del listado de preferencia registraron la escriturara 
 
 Quorum de lectura: Te devuelve el dato luego de que R nodos distintos (incluido el mismo) confirman la lectura
 ![[Pasted image 20241029210023.png]]

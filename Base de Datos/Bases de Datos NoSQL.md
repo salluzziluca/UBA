@@ -44,20 +44,20 @@ En cada una cambia la definicion de agregado, es decir como los conmjuntos de ob
 - Un post de facebook (con comentarios, posteo en si, usuarios)
 
 ### Clave Valor 
-Amacenan vectores asocitivos o [[diccionarios]], Guardan conjuntos asociados
+Almacenan vectores asociativos o [[diccionarios]], Guardan conjuntos asociados
 Las claves son únicas (es decir, no puede haber dos pares que posean la misma clave), y el único requisito sobre su dominio es que sea comparable por igual (=)
 
 Ej: Dynamo (amazon)
 #### primitivas
 Insertar (put)
-ekiminar (delete)
+eliminar (delete)
 update 
 get
 #### ventajas 
 ##### Simplicidad 
 No se definen esquemas
-No hay DDLs, resitricciones de integridad, ni dominios 
-El [[agregado]] es minimo limitado al par
+No hay DDLs, restricciones de integridad, ni dominios 
+El [[agregado]] es mínimo limitado al par
 Se buscar guardar y consultar grandes cantidades de datos pero no [[interrelaciones]]
 ##### Velocidad 
 se prioriza la eficiencia sobre la integridad de los datos
@@ -69,7 +69,7 @@ Provee replicacion y permite repartir consultas entre nodos
 Dynamo es el key-value store de Amazon. Está diseñado siguiendo una [[arquitectura]] orientada a servicio (SoA): la [[Bases de Datos|base de datos]] está distribuida en un server cluster que posee servidores web, routers de agregación y nodos de procesamiento (Dynamo instances). Utiliza un método de lookup denominado hashing consistente que reduce la cantidad de movimientos de pares necesarios cuando cambia la cantidad de nodos S. Esto hace que sea muy sencillo agregar nodos en forma dinámica, con un impacto mínimo. Utiliza un modelo de consistencia denominado consistencia eventual, que tolera pequeñas inconsistencias en los valores almacenados en distintas réplicas
 
 ##### Hashing consistente
-Tenemos una funcio de [[hash]] que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M represneta la cantidad de bits del resultadol
+Tenemos una función de [[hash]] que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M representa la cantidad de bits del resultado
 
 ![[hash consistente]]
 

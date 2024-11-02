@@ -1458,6 +1458,7 @@ col
 conjugado
 cloacas
 capea
+criptogr
 de
 dispositivos
 del
@@ -2397,6 +2398,7 @@ generalmente
 garantice
 guarden
 gGTEvC
+gicos
 especifico
 entra
 en
@@ -3628,6 +3630,7 @@ subespacio
 salvo
 sobraba
 sobrando
+sincronizadas
 par
 por
 punto
@@ -5381,6 +5384,7 @@ antiparalelas
 augmentin
 agrego
 agregaria
+asociativos
 hardware
 heap
 hay
@@ -9161,6 +9165,7 @@ vean
 viajando
 vrY
 vale
+vol
 Application
 API
 Asigna
@@ -9511,6 +9516,7 @@ Amazon
 Availability
 Analizemos
 Aclaro
+Almacenan
 Programming
 Procesos
 Partes
@@ -11020,6 +11026,8 @@ minimce
 max
 modelar
 materiales
+masificaci
+menes
 tien
 tiene
 todos
@@ -11453,6 +11461,8 @@ theta
 traslada
 transporte
 teniamos
+tecnol
+tree
 inico
 interna
 infro
@@ -13703,6 +13713,7 @@ MongoDB
 Momo
 Mom
 Maximizo
+Merkle
 Table
 Todos
 This

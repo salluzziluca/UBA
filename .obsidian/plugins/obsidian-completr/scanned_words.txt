@@ -1465,6 +1465,8 @@ combinacion
 compartir
 coherente
 coeficinetes
+compro
+compuesta
 de
 dispositivos
 del
@@ -6622,6 +6624,7 @@ START
 Simetrica
 SOLO
 Schmidt
+Surgio
 Calls
 Cmabia
 CPU
@@ -8188,6 +8191,7 @@ residual
 restante
 reducirse
 residuales
+row
 operacion
 orden
 operaciones
@@ -8832,6 +8836,7 @@ nnzPw
 nux
 nima
 nul
+netflix
 via
 vuelve
 viven
@@ -9530,6 +9535,7 @@ Analizemos
 Aclaro
 Almacenan
 Almacenar
+APache
 Programming
 Procesos
 Partes
@@ -11478,6 +11484,7 @@ transporte
 teniamos
 tecnol
 tree
+tuiter
 inico
 interna
 infro
@@ -12391,6 +12398,7 @@ flujos
 ford
 fulkerson
 flow
+familia
 Nombre
 Notas
 Not
@@ -15033,6 +15041,7 @@ wBuu
 wdD
 wDTDap
 wNbr
+wide
 VA
 VIEW
 Volumen

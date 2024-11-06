@@ -38,3 +38,4 @@ Almacenados como clave valor
 Pueden tener inidices e indices compuestos
 
 ![[Pasted image 20241106194315.png]]
+`MATCH:(Persona{nombre_ })

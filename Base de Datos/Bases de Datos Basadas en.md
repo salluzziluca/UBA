@@ -18,3 +18,7 @@ tiene muchos drivers oficiales a travez de http
 Tamaño sin limite, super escalable
 
 modelo de propiedades, si saco un dato en particular no pongo nulo, simplemente no existe y listo 
+
+Cypher Query Language
+
+Son muy facheros de visualizar

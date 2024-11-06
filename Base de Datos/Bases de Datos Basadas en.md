@@ -38,4 +38,6 @@ Almacenados como clave valor
 Pueden tener inidices e indices compuestos
 
 ![[Pasted image 20241106194315.png]]
-`MATCH:(Persona{nombre_ })
+`MATCH:(Persona{nombre:"Daniel"})-[:CASADO_CON]->(esposa)
+
+siendo persona el lable, nombre la propiedad y esposa la variable

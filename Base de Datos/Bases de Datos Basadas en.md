@@ -41,3 +41,5 @@ Pueden tener inidices e indices compuestos
 `MATCH:(Persona{nombre:"Daniel"})-[:CASADO_CON]->(esposa)
 
 siendo persona el lable, nombre la propiedad y esposa la variable
+
+![[Pasted image 20241106194549.png]]

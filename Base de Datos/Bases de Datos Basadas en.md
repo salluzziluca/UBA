@@ -35,4 +35,5 @@ Relacionan nodos por tipo y direccion
 #### Propiedades 
 Atributos de nodos y relaciones.
 Almacenados como clave valor 
-Pueden tener inidices e ni
+Pueden tener inidices e indices compuestos
+

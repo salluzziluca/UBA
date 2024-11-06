@@ -7,3 +7,5 @@ Son muy buenas para datos dinamicos, donde los datos son dificiles de predecir. 
 
 ## Neo4j
 Logra cumplir con las [[Bases de Datos NoSQL#AC]]
+
+Cumple con el paradigma ACID, 

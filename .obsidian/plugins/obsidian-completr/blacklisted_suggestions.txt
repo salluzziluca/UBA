@@ -55,3 +55,4 @@ commitear
 commiteado
 SGBDD
 SGBDs
+ACID

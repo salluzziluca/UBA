@@ -576,6 +576,7 @@ LIK
 Linea
 Lagrange
 Linealmente
+Logra
 capa
 controlado
 cantidad
@@ -1467,6 +1468,8 @@ coherente
 coeficinetes
 compro
 compuesta
+convirti
+contribuyen
 de
 dispositivos
 del
@@ -3645,6 +3648,7 @@ sobraba
 sobrando
 sincronizadas
 share
+significado
 par
 por
 punto
@@ -4337,6 +4341,7 @@ proyeccion
 produce
 path
 peers
+predecir
 la
 las
 le
@@ -4734,6 +4739,9 @@ llegaron
 lDMlBFdZ
 lio
 llegamos
+logo
+librer
+libros
 agnosticos
 apps
 al
@@ -5401,6 +5409,9 @@ agrego
 agregaria
 asociativos
 aprovechando
+asociadas
+adem
+ancha
 hardware
 heap
 hay
@@ -8842,6 +8853,7 @@ nima
 nul
 netflix
 nothing
+ndola
 via
 vuelve
 viven
@@ -9188,6 +9200,7 @@ vrY
 vale
 vol
 vertical
+vinculados
 Application
 API
 Asigna
@@ -9541,6 +9554,7 @@ Aclaro
 Almacenan
 Almacenar
 APache
+Agrupan
 Programming
 Procesos
 Partes
@@ -12655,6 +12669,7 @@ NxK
 NKL
 NWSo
 NRd
+Neo
 File
 For
 Funcion

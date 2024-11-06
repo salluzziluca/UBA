@@ -1307,7 +1307,6 @@ coinciden
 cercania
 costos
 cadena
-casa
 cas
 cases
 case
@@ -1470,6 +1469,9 @@ compro
 compuesta
 convirti
 contribuyen
+clustering
+criticos
+clasificacion
 de
 dispositivos
 del
@@ -2109,6 +2111,7 @@ diriigido
 distribuir
 describen
 decode
+drivers
 gestion
 gran
 guarda
@@ -3057,6 +3060,7 @@ equidistantes
 estabamos
 escriturara
 escalable
+esposa
 servicios
 son
 su
@@ -4342,6 +4346,7 @@ produce
 path
 peers
 predecir
+paradigma
 la
 las
 le
@@ -4742,6 +4747,7 @@ llegamos
 logo
 librer
 libros
+lable
 agnosticos
 apps
 al
@@ -5734,6 +5740,7 @@ hrvvgl
 hfI
 hsKKOa
 herm
+http
 que
 queda
 quien
@@ -7091,6 +7098,7 @@ Can
 CUANDO
 Cuadrados
 Ccada
+Cypher
 Es
 El
 Estos
@@ -8547,6 +8555,7 @@ oEL
 ortogonales
 ortonormal
 optimizado
+oficiales
 nombre
 nuevo
 nica
@@ -8854,6 +8863,7 @@ nul
 netflix
 nothing
 ndola
+nativos
 via
 vuelve
 viven
@@ -9475,7 +9485,6 @@ ABEG
 ABE
 AND
 Aplicaciones
-ACID
 Atomicidad
 ALGUNA
 Anomalias
@@ -9555,6 +9564,8 @@ Almacenan
 Almacenar
 APache
 Agrupan
+Atomicity
+Almacenados
 Programming
 Procesos
 Partes
@@ -9947,6 +9958,7 @@ Provee
 Partition
 PIC
 Paralelizar
+Pueden
 Interface
 ID
 Instructions
@@ -10277,6 +10289,7 @@ Item
 Interpolacion
 Inequality
 Instruccion
+Isolation
 Un
 UNIX
 UBA
@@ -11505,6 +11518,7 @@ tecnol
 tree
 tuiter
 tasa
+travez
 inico
 interna
 infro
@@ -12033,6 +12047,8 @@ interpolar
 interpolante
 igualdad
 integrar
+indiices
+inidices
 fijo
 file
 fork
@@ -12419,6 +12435,7 @@ ford
 fulkerson
 flow
 familia
+facheros
 Nombre
 Notas
 Not
@@ -12670,6 +12687,7 @@ NKL
 NWSo
 NRd
 Neo
+Nodos
 File
 For
 Funcion
@@ -13397,6 +13415,8 @@ DZBWYXvl
 Dependientes
 Desigualdad
 Distintos
+Durability
+Daniel
 Memoria
 Multivariada
 MORE
@@ -13760,6 +13780,7 @@ Momo
 Mom
 Maximizo
 Merkle
+MATCH
 Table
 Todos
 This
@@ -14069,6 +14090,7 @@ Tolerancia
 Termina
 TrN
 Teng
+Tama
 Realiza
 REgistrys
 Rango
@@ -14423,6 +14445,7 @@ Runge
 Red
 Reci
 Replicas
+Relacionan
 bien
 by
 be

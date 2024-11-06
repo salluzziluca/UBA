@@ -37,3 +37,4 @@ Atributos de nodos y relaciones.
 Almacenados como clave valor 
 Pueden tener inidices e indices compuestos
 
+![[Pasted image 20241106194315.png]]

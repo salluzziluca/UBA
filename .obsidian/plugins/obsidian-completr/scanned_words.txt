@@ -3053,6 +3053,7 @@ extremos
 equidistantes
 estabamos
 escriturara
+escalable
 servicios
 son
 su
@@ -3643,6 +3644,7 @@ salvo
 sobraba
 sobrando
 sincronizadas
+share
 par
 por
 punto
@@ -4334,6 +4336,7 @@ proyecci
 proyeccion
 produce
 path
+peers
 la
 las
 le
@@ -8532,6 +8535,7 @@ optar
 oEL
 ortogonales
 ortonormal
+optimizado
 nombre
 nuevo
 nica
@@ -8837,6 +8841,7 @@ nux
 nima
 nul
 netflix
+nothing
 via
 vuelve
 viven
@@ -11485,6 +11490,7 @@ teniamos
 tecnol
 tree
 tuiter
+tasa
 inico
 interna
 infro

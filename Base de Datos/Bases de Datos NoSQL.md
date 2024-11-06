@@ -108,6 +108,7 @@ Cassandra
 ![[Pasted image 20241029211651.png]]
 ### Basadas en [[Grafos]] 
 
+
 ### Map Reduce
 ![[Pasted image 20241029211956.png]]
 

@@ -22,3 +22,4 @@ modelo de propiedades, si saco un dato en particular no pongo nulo, simplemente 
 Cypher Query Language
 
 Son muy facheros de visualizar
+

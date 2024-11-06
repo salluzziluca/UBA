@@ -23,4 +23,16 @@ Cypher Query Language
 
 Son muy facheros de visualizar
 
-##
+### Modelo de grafo etiqueta-propiedad 
+
+#### Nodos: 
+Pueden tener etiquetas para su clasificacion 
+Las etiquetas tienen indiices nativos 
+
+#### Relaciones 
+Relacionan nodos por tipo y direccion 
+
+#### Propiedades 
+Atributos de nodos y relaciones.
+Almacenados como clave valor 
+Pueden tener inidices e ni

@@ -15,4 +15,4 @@ Tiene un sistema de clustering que le permite operar en momentos criticos
 
 tiene muchos drivers oficiales a travez de http
 
-Tamañlo 
+Tamaño sin limite, super escalable

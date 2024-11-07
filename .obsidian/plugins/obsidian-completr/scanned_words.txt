@@ -1472,6 +1472,9 @@ contribuyen
 clustering
 criticos
 clasificacion
+continuo
+cuadratica
+cifra
 de
 dispositivos
 del
@@ -2112,6 +2115,8 @@ distribuir
 describen
 decode
 drivers
+dicretizacion
+discreto
 gestion
 gran
 guarda
@@ -3061,6 +3066,7 @@ estabamos
 escriturara
 escalable
 esposa
+estable
 servicios
 son
 su
@@ -3653,6 +3659,7 @@ sobrando
 sincronizadas
 share
 significado
+segundo
 par
 por
 punto
@@ -4347,6 +4354,8 @@ path
 peers
 predecir
 paradigma
+poropagan
+pasoo
 la
 las
 le
@@ -4748,6 +4757,7 @@ logo
 librer
 libros
 lable
+linealizando
 agnosticos
 apps
 al
@@ -5418,6 +5428,7 @@ aprovechando
 asociadas
 adem
 ancha
+agregan
 hardware
 heap
 hay
@@ -6646,6 +6657,7 @@ Simetrica
 SOLO
 Schmidt
 Surgio
+Sabiendo
 Calls
 Cmabia
 CPU
@@ -8214,6 +8226,7 @@ restante
 reducirse
 residuales
 row
+restar
 operacion
 orden
 operaciones
@@ -8864,6 +8877,7 @@ netflix
 nothing
 ndola
 nativos
+numericos
 via
 vuelve
 viven
@@ -10290,6 +10304,8 @@ Interpolacion
 Inequality
 Instruccion
 Isolation
+Inherentes
+Implicitio
 Un
 UNIX
 UBA
@@ -11081,6 +11097,7 @@ modelar
 materiales
 masificaci
 menes
+mediciones
 tien
 tiene
 todos
@@ -11519,6 +11536,7 @@ tree
 tuiter
 tasa
 travez
+transformo
 inico
 interna
 infro
@@ -12049,6 +12067,8 @@ igualdad
 integrar
 indiices
 inidices
+interrumpo
+incodicionalmente
 fijo
 file
 fork
@@ -12436,6 +12456,7 @@ fulkerson
 flow
 familia
 facheros
+fisicas
 Nombre
 Notas
 Not
@@ -13034,6 +13055,7 @@ FHURXGGy
 FshFjRBQ
 Fenomeno
 Formula
+Fuentes
 Descriptors
 Descriptor
 Devuelve
@@ -13417,6 +13439,8 @@ Desigualdad
 Distintos
 Durability
 Daniel
+Divido
+Discretizacion
 Memoria
 Multivariada
 MORE
@@ -14446,6 +14470,7 @@ Red
 Reci
 Replicas
 Relacionan
+Redondeo
 bien
 by
 be

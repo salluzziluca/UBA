@@ -28,7 +28,7 @@ Despejo x^{k+1}, y^{k+1}, z^{k+1}
 Pero en y^{k+1} en vez de usar el x^k ya directamente uso el x^{k+1}, porque ya lo tengo
 ## Descomposicion en matrices L D y U
 ![[Pasted image 20240917130941.png]]
-L d$
+$L \delta y=r$, $U \delta x= \delta y$
 
 ### Jacobi
 ![[Pasted image 20240917131405.png]]

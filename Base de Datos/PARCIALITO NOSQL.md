@@ -1,6 +1,43 @@
 ---
 Dia: 2024-11-11
 ---
+## MongoDB
+
+```json
+[
+  {
+    "$match": {
+      "retweet_count": { "$gte": 1000 }
+    }
+  },
+  {
+    "$addFields": {
+      "hour": { "$hour": "$created_at" }
+    }
+  },
+  {
+    "$match": {
+      "hour": { "$gte": 12 }
+    }
+  },
+  {
+    "$project": {
+      "_id": 1,
+      "full_text": 1,
+      "favorite_count": 1
+    }
+  },
+  {
+    "$sort": {
+      "favorite_count": -1
+    }
+  },
+  {
+    "$limit": 5
+  }
+]
+```
+
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher
 match (bm:Person {name: "Billy", surname: "Moore"})-[:KNOWS]-(p:Person) where not (p)--(:Crime) return p

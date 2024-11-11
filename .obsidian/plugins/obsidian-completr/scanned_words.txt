@@ -1307,7 +1307,6 @@ coinciden
 cercania
 costos
 cadena
-casa
 cas
 cases
 case
@@ -1462,6 +1461,8 @@ caida
 clusters
 containers
 configurar
+crimen
+comunicaciones
 de
 dispositivos
 del
@@ -4328,6 +4329,7 @@ pod
 proxy
 puerto
 proveedores
+participaci
 la
 las
 le
@@ -5705,6 +5707,7 @@ hrvvgl
 hfI
 hsKKOa
 hardarwe
+han
 que
 queda
 quien
@@ -8517,6 +8520,7 @@ optar
 oEL
 organizaciones
 orchestration
+onicas
 nombre
 nuevo
 nica
@@ -9439,7 +9443,6 @@ ABEG
 ABE
 AND
 Aplicaciones
-ACID
 Atomicidad
 ALGUNA
 Anomalias
@@ -11460,6 +11463,7 @@ tecnologia
 terremoto
 tension
 trafico
+telef
 inico
 interna
 infro
@@ -12367,6 +12371,7 @@ fAUmQSgY
 flushear
 flusheada
 fault
+familiares
 Nombre
 Notas
 Not
@@ -13712,6 +13717,7 @@ MongoDB
 Momo
 Mom
 Masters
+Moore
 Table
 Todos
 This
@@ -16815,6 +16821,7 @@ BASE
 BasicAvailability
 Brl
 Balancer
+Billy
 XY
 Xg
 XQG

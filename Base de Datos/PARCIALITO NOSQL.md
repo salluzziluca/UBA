@@ -3,6 +3,7 @@ Dia: 2024-11-11
 ---
 ## MongoDB
 
+1. Para tweets que tengan 1000 o m´as rewteets (‘retweet count’) y hayan depu´es de las 12 del mediod´ıa, obtener los ids, texto y cantidad de favoritos para los 5 con m´as favoritos (‘favorite count’). Utilice una ´unica consulta b´asica con find(, ).sort({}).limit()
 ```js
 db.tweets.find({
   $and: [
@@ -19,7 +20,7 @@ db.tweets.find({
 ```
 
 
-
+2. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
 ```js
 [
   {

@@ -3,7 +3,7 @@ Dia: 2024-11-11
 ---
 ## MongoDB
 
-```
+```js
 db.tweets.find({
   $and: [
     { "retweet_count": { $gte: 1000 } },

@@ -48,7 +48,7 @@ Comparo el numero a insertar con la raiz. Si es menor que la raiz, vamos a la iz
 Al llegar al final, creamos un nuevo nodo
 
 ### Más arboles
-- [[Base de Datos/Algoritmos y Programación II/Arbol B]]
+- [[Algoritmos y Programación II/Arbol B]]
 - [[Arbol Rojo-Negro]]
 - [[AVL]]
 - [[Heap]]

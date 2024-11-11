@@ -24,8 +24,8 @@ Si puedo reducir circuit satisfability a 3-SAT transformando el problema a SAT c
 como vimos en [[Reducciones]] $3-SAT \leq_{p} Independet \ set \leq_{p} vertex \ cover$ por lo que independent set y [[Vertex Cover]] tambien son [[NP (nondetherministic polynomial)|NP]] completos 
 
 
-### Ej1: Reducir "si un numero es multiplo de otro" a "ver si un elemento está en una [[lista]]"
-Tenemos una [[lista]] con todos los multiplos de ese numero y nos fijamos si el numero en cuestion se encuenta en la [[lista]]
+### Ej1: Reducir "si un numero es multiplo de otro" a "ver si un elemento está en una [[Lista]]"
+Tenemos una [[Lista]] con todos los multiplos de ese numero y nos fijamos si el numero en cuestion se encuenta en la [[Lista]]
 
 
 ### Ej2: reduciendo independent set a k-[[clique]]

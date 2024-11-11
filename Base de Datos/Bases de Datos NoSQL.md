@@ -45,7 +45,7 @@ En cada una cambia la definicion de agregado, es decir como los conmjuntos de ob
 - Un post de facebook (con comentarios, posteo en si, usuarios)
 
 ### Clave Valor 
-Almacenan vectores asociativos o [[diccionarios]], Guardan conjuntos asociados
+Almacenan vectores asociativos o [[Diccionarios]], Guardan conjuntos asociados
 Las claves son únicas (es decir, no puede haber dos pares que posean la misma clave), y el único requisito sobre su dominio es que sea comparable por igual (=)
 
 Ej: Dynamo (amazon)

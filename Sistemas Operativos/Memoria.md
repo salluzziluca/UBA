@@ -39,7 +39,7 @@ Formalmente, es un mapeo
 #### Base and Bound (segmentacion)
 Para implementar este tipo de addres tanslation solo se necesitan dos registros: Registro base y registro bound (limite o segmento).
 Esto permite que el addres sea ubica en cualquier lugar de la memoria fisica.
-Hay un base and bound para [[heap]], otro para stack y otro para el codigo.
+Hay un base and bound para [[Heap]], otro para stack y otro para el codigo.
 ![[Pasted image 20240605124358.png]]
 ![[Pasted image 20240605124409.png]]
 ![[Pasted image 20240416113147.png]]
@@ -77,7 +77,7 @@ El número de segmento es el índice de la tabla para ubicar el inicio del segme
 #### Memoria Paginada
 ==cuando se necesita mas memoria, se le dan 1 o más paginas (de tamaño fijo) al [[proceso]]==
 
-En vez de tener una página de segmentos cuyas entradas contienen [[punteros]] a segmentos, hay una tabla de páginas por cada [[proceso]] cuyas entradas contienen [[punteros]] a las page frames
+En vez de tener una página de segmentos cuyas entradas contienen [[Punteros]] a segmentos, hay una tabla de páginas por cada [[proceso]] cuyas entradas contienen [[Punteros]] a las page frames
 las entradas en la page table sólo tienen que proveer los bit superiores de la dirección de la page frame. De esta forma van a ser más compactos. No es necesario tener un límite; la página entera se reserva como una unidad
 
 El numero de la pagina virtual es el indice en la page table para obtener el page fram en la memoria fisica.

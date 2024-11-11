@@ -46,7 +46,7 @@ def hay_intersection(anterior, nueva):
 
 ## Árboles Huffman
 Plantea una forma de comprimir texto en base a la frecuencia de caracteres en el mismo. 
-Utiliza dos [[heap#Heap minimal|heap minimales]]  de forma auxiliar para ir generando el árbol de códigos. Los que aparecen mas que sean mas faciles (igual que en morse)
+Utiliza dos [[Heap#Heap minimal|heap minimales]]  de forma auxiliar para ir generando el árbol de códigos. Los que aparecen mas que sean mas faciles (igual que en morse)
 
 Ej: paralelepipiedo
 

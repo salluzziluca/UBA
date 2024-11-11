@@ -42,14 +42,14 @@ FInalmente
 ![[Pasted image 20220621204635.png]]
 
 ## Agoritmo de kruskal
-tenes n [[grafos]]
+tenes n [[Grafos]]
 armas una lista de aristas de menor a mayor
-ir arista por arista. concatenando los [[grafos]] que esa arista mira
+ir arista por arista. concatenando los [[Grafos]] que esa arista mira
 
 ![[Pasted image 20220628190016.png]]
-Aca tengo 13 [[grafos]] que no estan contectados. 
+Aca tengo 13 [[Grafos]] que no estan contectados. 
 LA lista de aristas seria [1, 1, 2, 3, 3, 3, 3, 4, 4, 5, 6, 7, 7 ,8, 9, 10, 11, etc]
-Recorriendo la lista a ver si las diferentes aristas unen dos [[grafos]] distintos. Si lo hacen, los uno.
+Recorriendo la lista a ver si las diferentes aristas unen dos [[Grafos]] distintos. Si lo hacen, los uno.
 Empezaria uniendo 1 con 2, despues 9 con 10, 7 con 3 y asi...
 
 

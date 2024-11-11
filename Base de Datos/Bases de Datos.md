@@ -23,3 +23,4 @@ Actualmente, las bases de datos también almacenan [[tipos de datos]] más compl
 [[Formas Normales]]
 [[Structured Query Language|SQL]]
 [[Concurrencia en base de datos|Concurrencia en base de datos]]
+[[Tipos de Bases de Datos]]

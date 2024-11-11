@@ -3,11 +3,11 @@ dia: 2024-10-29
 aliases:
   - NoSQL
 ---
-Las SGBD no relaciones nacieron alrededor del 2000 con la masificacion de web y cambios tecnologicos 
+Las SGBD no relaciones nacieron alrededor del 2000 con la masificación de web y cambios tecnológicos 
 
-Se buscaban slluciones nuevas al probelema del alamcneamiento de datos que tuvieran:
+Se buscaban soluciones nuevas al problema del almacenamiento de datos que tuvieran:
 
-Escalabilidad para trabajar grandes volumenes de datos:
+Escalabilidad para trabajar grandes volúmenes de datos:
 - Se necesita almacenar y procesar cantidades masivas dedatos 
 - Iba de la mano de la digitalizacion y de la disponibilidad de datos en la red
 
@@ -26,6 +26,7 @@ Se busca una mayor disponibilidad y tolerancia a fallas
 Se requieren mecanismos de replicacion y fragmentacion automatica de datos 
 Se prioriza la capacidad de procesamiento distribuido.
 <mark style="background: #BBFABBA6;">Era algo necesario, no se podia hacer la vista gorda</mark>
+ver [[Bases de Datos Distribuidas]]
 
 --- 
 Los joins de tablas son COSTOSOS 
@@ -44,20 +45,20 @@ En cada una cambia la definicion de agregado, es decir como los conmjuntos de ob
 - Un post de facebook (con comentarios, posteo en si, usuarios)
 
 ### Clave Valor 
-Amacenan vectores asocitivos o [[diccionarios]], Guardan conjuntos asociados
+Almacenan vectores asociativos o [[diccionarios]], Guardan conjuntos asociados
 Las claves son únicas (es decir, no puede haber dos pares que posean la misma clave), y el único requisito sobre su dominio es que sea comparable por igual (=)
 
 Ej: Dynamo (amazon)
 #### primitivas
 Insertar (put)
-ekiminar (delete)
+eliminar (delete)
 update 
 get
 #### ventajas 
 ##### Simplicidad 
 No se definen esquemas
-No hay DDLs, resitricciones de integridad, ni dominios 
-El [[agregado]] es minimo limitado al par
+No hay DDLs, restricciones de integridad, ni dominios 
+El [[agregado]] es mínimo limitado al par
 Se buscar guardar y consultar grandes cantidades de datos pero no [[interrelaciones]]
 ##### Velocidad 
 se prioriza la eficiencia sobre la integridad de los datos
@@ -69,7 +70,7 @@ Provee replicacion y permite repartir consultas entre nodos
 Dynamo es el key-value store de Amazon. Está diseñado siguiendo una [[arquitectura]] orientada a servicio (SoA): la [[Bases de Datos|base de datos]] está distribuida en un server cluster que posee servidores web, routers de agregación y nodos de procesamiento (Dynamo instances). Utiliza un método de lookup denominado hashing consistente que reduce la cantidad de movimientos de pares necesarios cuando cambia la cantidad de nodos S. Esto hace que sea muy sencillo agregar nodos en forma dinámica, con un impacto mínimo. Utiliza un modelo de consistencia denominado consistencia eventual, que tolera pequeñas inconsistencias en los valores almacenados en distintas réplicas
 
 ##### Hashing consistente
-Tenemos una funcio de [[hash]] que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M represneta la cantidad de bits del resultadol
+Tenemos una función de [[hash]] que dada una clave devuelve un valor h(k)  entre 0 y 2^M -1 en donde M representa la cantidad de bits del resultado
 
 ![[hash consistente]]
 
@@ -91,7 +92,7 @@ Un documento es una unidad estructural de informacion(agregado) que almacena dat
 
 Sin necesidad de definir un esquema rígido para la estructura del documento, estas bases de datos ofrecen la posibilidad de manejar estructuras un poco más complejas que un simple par clave: valor.
 
-generalmente un documento tiene conjuntos de clave:valor que representan atributos de documento y sus valores. Se admiten atributos multivaluados, se admite que el valor de un atributo sea tmb un documento. Las estructuras de un docuemnto se descreiben con HTML, XML, JSON, YAML
+generalmente un documento tiene conjuntos de clave:valor que representan atributos de documento y sus valores. Se admiten atributos multivaluados, se admite que el valor de un atributo sea tmb un documento. Las estructuras de un documento se describen con HTML, XML, JSON, YAML
 
 Ej: MongoDB
 
@@ -106,6 +107,7 @@ Hamburguesa = {
 Cassandra
 ![[Pasted image 20241029211651.png]]
 ### Basadas en [[Grafos]] 
+
 
 ### Map Reduce
 ![[Pasted image 20241029211956.png]]

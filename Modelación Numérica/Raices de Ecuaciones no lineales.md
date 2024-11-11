@@ -28,7 +28,7 @@ $$k+1>\frac{\ln( (b_{0}-a_{0})/Error)}{\ln(2)}$$
 La cota de error absoluto nos la da el problema que estamos resolviendo
 
 
-## Metodo de Newton-Rawson
+## Metodo de Newton-Raphson
 Consiste en elegir un valor $x_{0}$, que denominaremos valor inicial, y aprocimar la funcion f(x) por los dos primeros termiinos de la serie de taylor. AKA ![[Ecuacíon de la Recta Tangente]]
 Es decir, aproximo la funcion f(x) por la recta tangente que pasa por x_0, f(x_0)
 
@@ -43,7 +43,7 @@ Usamos el x_{k+1} como nuevo x_k.
 La cantidad de dijitos correctos se duplica de una iteracion a la otra
 
 
-### PRoblemas con newton Rawson
+### PRoblemas con newton Raphson
 Que pasa si f'(x_k)= 0? Entonces me encuentro con una division por 0 y no puedo resolver. No va a converger
 ![[Pasted image 20240904122004.png]]
 entonces:

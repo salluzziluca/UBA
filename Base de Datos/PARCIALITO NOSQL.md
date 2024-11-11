@@ -20,7 +20,8 @@ db.tweets.find({
 ```
 
 
-2. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
+1. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
+En mi caso no tome los tuits que no tienen hastags, pensando justamente en que se quiere analizar 
 ```js
 [
   {

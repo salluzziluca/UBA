@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >[!tldr] Como \<persona> quiero \<función> para \<objetivo>
 
 >[!example] Como Carla (estudiante universitaria) quiero consultar el listado de cursos disponibles de una materia para decidir a qué curso anotarme

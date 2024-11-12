@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <%* 
 	let titulo = tp.file.title;
 

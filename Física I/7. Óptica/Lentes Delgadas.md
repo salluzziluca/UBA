@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lentes Delgadas
 d⇾ 0 
 $S_1 = S_2$ ⇾ $x_2 = x_1$

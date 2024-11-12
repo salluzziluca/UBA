@@ -2,6 +2,7 @@
 dia: 2024-10-29
 aliases:
   - NoSQL
+dg-publish: true
 ---
 Las SGBD no relaciones nacieron alrededor del 2000 con la masificación de web y cambios tecnológicos 
 

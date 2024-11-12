@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Trabajo de las Fuerzas para el Cuerpo Rígido
 Tener en cuenta lo visto en [[Teorema de las Fuerzas Vivas]]
 $$W = \int_{A}^{B} F \,d \vec r $$

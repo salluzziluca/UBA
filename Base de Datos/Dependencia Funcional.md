@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Dado una Relacion R(A), una depenedncia funcional X->Y con X, Y \in A es una restriccion sobre las posibles tuplas de R que implica que dos tuplas con igual valor del conjunto de atributos X deben también tener igual valor del conjunto de atributos Y.
 $$∀s, t ∈ R : s[X] = t[X] → s[Y] = t[Y]$$La dependencia funcional X → Y implica que hay una relación funcional entre los valores de X y los de Y dentro de la base de datos

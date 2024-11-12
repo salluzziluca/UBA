@@ -1,6 +1,7 @@
 ---
 cuatri: 20C1
 estado: cursando
+dg-publish: true
 ---
 ### Apuntes
 ---

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Corte de Control
 Es una serie de whiles que corre segun uno de los campos de un csv, ese campo tiene que estar ordenada.
 ej: mientras el campo tenga la misma fecha---> hago algo, cuando cambia, hago otra cosa.

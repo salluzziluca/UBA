@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ondas Sonoras
 - Onda longitudinal
 - En este caso las variables son variaciones de presión, de densidad, etc.

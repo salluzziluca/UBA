@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Para linux, todo es un archivo. Casi todo se puede manejar como si se tratara de un archivo. Incluso una comunicación entre computadoras
 
 El FS permite a los ususarios organizar sus daos para que se persistan a traves de un largo periodo de tiempo.Es una abstracion que provee datos persistentes bajo un nombre

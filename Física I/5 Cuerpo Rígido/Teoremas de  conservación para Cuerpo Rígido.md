@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Teoremas de  conservación para Cuerpo Rígido
 
 ## Energia potencial Gravitatoria para un Cuerpo Rígido

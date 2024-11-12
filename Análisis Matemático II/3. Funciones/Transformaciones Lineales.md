@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Todas las funciones que van de un espacio vectorial a otro son transformaciones lineales
 Son Ejemplos: 
 

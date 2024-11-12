@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Checkpoints
 Para no tener que cargar el log de TODA la base de bdd que se creo en mar de ajo 94' usamos checkpoints.
 Un punto de control (checkpoint) es una registro especial en el archivo de log que indica que indica que todos los ítems modificados hasta ese punto han sido almacenados en disco.

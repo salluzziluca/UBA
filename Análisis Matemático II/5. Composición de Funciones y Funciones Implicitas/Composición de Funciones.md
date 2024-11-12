@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Composición de Funciones
 ![[Pasted image 20211018155938.png]]
 

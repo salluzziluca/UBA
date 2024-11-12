@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Interferencia de Ondas
 Cuando se superponen dos o más ondas, el desplazamiento resultante en cualquier punto y en cualquier instante se halla sumando los desplazamientos instantáneos que producirían en el punto las ondas individuales si cada uno estuviera presente sola.
 ![[Pasted image 20211129083612.png]]

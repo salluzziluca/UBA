@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![](https://i.imgur.com/P0aqOMI.jpg)
 
 # **TDA N°3 —  Tabla Hash** 

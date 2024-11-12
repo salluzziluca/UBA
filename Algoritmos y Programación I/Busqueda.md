@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Binaria
 O(log(n))

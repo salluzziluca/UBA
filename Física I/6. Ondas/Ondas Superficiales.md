@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ondas Superficiales
 
 ## Expresión/ ecuación para las ondas superficiales 

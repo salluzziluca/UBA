@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Batido
 $$\LARGE f_{batido}=|f_2-f_1|$$
 Para batido, escribimos las ondas con coseno, tal que:

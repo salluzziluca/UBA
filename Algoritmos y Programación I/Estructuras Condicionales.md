@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Algoritmos_y_Programación_I 
 # Estructuras Condicionales
 ## if (condición)

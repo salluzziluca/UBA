@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > Formas de diseñar la arquitectura de nuestro sistema que ya fueron probados y analizados, que sabemos que funcionan.
 
 Estos son de mas alto nivel que los [[5.0 Patrones de Diseño]].

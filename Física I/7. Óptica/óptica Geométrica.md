@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Óptica Geométrica
 Estudiamos "rayos" de luz. Les decimos asi porque historicamente ese es su nombre.
 Los rayos viajan en linea recta hasta encontrar un objeto.

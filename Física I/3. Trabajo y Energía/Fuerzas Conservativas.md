@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Fuerzas Conservativas
 No dependen del camino recorrido.
 Dependen exclusivamente de el punto inicial y del punto final

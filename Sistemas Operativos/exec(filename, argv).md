@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 excec() invoca otro programa, sobreponiendo el espacio de memoria del proceso con el programa ejecutable
 
 - obtiene el inodo del programa;

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Unit testing
 - Integration testing
 - System testing

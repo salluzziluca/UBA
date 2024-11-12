@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > [!IMPORTANT] Design Thinking
 > Es un método para generar ideas innovadoras, que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios.
 

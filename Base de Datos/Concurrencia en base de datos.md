@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ejecutar multiples [[Transacción|transacciones]] en forma simultanea. 
 La idea es aprovechar al máximo la capacidad de computo( si dos querys usan dos 6 datos distintos, deberíamos poder ejecutándolas concurrentemente
 

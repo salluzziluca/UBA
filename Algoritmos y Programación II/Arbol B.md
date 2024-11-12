@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Arbol B
 Es un tipo de [[Arboles|arbol n-ario]]. Que se caracteriza por expandirse a lo ancho en vez de a lo largo.
 k = claves

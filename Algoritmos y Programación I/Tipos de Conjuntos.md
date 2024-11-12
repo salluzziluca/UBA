@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tipos de Conjuntos
 ## Conjuntos Homogeneos
 [[Strings]]

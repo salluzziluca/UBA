@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Exponencial 
 $1-e^{-\lambda x}$
 

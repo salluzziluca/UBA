@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ownership 
 Cada valor en rust tiene una variable que es su dueña. Un dueño a la vez. Cuando la variable dueño sale de scope, se libera la memoria asignada al valor. El dueño determina el lifetime. Un valor puede ser dueño de otros valores
 O bien permito que una variable s epueda ver desde diferentes scopes o bien permito que se pueda mutar, ambas a la vez no

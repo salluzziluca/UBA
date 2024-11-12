@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Archivos
 Se necesita una ruta y un modo.
 

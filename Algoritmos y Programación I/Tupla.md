@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tuplas
 Conjuntos de datos INMUTABLES. Si se puede concatenar
 ```py 

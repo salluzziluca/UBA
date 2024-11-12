@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Las clases son tipos de datos. Se definen de la siguiente manera:
 ```py
 class Item:

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tabla Hash o Hash Map
 Una estructura que contiene valores. Estos valores se pueden hallar mediante claves.
 

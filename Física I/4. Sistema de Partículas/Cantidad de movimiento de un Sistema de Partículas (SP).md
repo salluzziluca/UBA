@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cantidad de movimiento de un Sistema de Partículas (SP)
 Se utiliza la [[4.1 Centro de Gravedad#Velocidad del centro de masa|velocidad del centro de masa]] multiplicada por la sumatoria de las masas o la [[4.1 Centro de Gravedad#Masa|masa total]]
 ![[Pasted image 20211013085502.png]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ondas Estacionarias
 Si tenemos una onda estacionaria $3.cos(5x).cos(10t)$ sus ondas progresivas de origen serán iguales pero con la mitad de la amplitud. Tendríamos:$y_- =1,5.cos(5x + 10t)$ e $y_+ =1,5.cos(5x - 10t)$ Si la estacionaria fuese con seno, también cambiarían las de origen y viceversa.
 

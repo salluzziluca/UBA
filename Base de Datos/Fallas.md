@@ -1,6 +1,7 @@
 ---
 aliases:
   - falla
+dg-publish: true
 ---
 ## Fallas de sistema 
 Errores de sofwtare o hardarwe. Divison por cero, segmentation fault, fallas de [[memoria]]

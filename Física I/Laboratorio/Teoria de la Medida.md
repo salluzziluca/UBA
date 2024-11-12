@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Física_I 
 # Teoría de la Medida
 Factores a la hora de medir: Objeto, instrumento, unidad o patron de comparacion, medio y operador.

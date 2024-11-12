@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cambio de Variables en Integrales
 
 Similares a los [[Cambio de Variabes en Integrales Simples]]]]

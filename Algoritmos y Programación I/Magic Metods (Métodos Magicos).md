@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Magic Metods
 Los magic metods son metodos con caracteristicas especiales.
 El mas conocido e importante es

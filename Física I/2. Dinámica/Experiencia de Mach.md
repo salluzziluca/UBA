@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #  Experiencias de Mach
 ## 1era experciencia de Mach
 Mach trabaja con dos masas (cuerpo A y cuerpo B) unidos por un resorte y vinculados por una cuerda. Al cortar la cuerda ambos se mueven pero **a distintas velocidades** .

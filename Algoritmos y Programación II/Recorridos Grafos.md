@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Recorridos [[Grafos]]
 ### En profundidad: DFS (Depth First Search)
 En este caso se van a visitar los nodos hijos primero, avanzando hasta que no se pueda continuar. Luego se “vuelve” hasta un hijo donde se tenían más caminos, y se vuelve a realizar la misma lógica.

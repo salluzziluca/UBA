@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 A veces la Identificacion de una entidaed depende de su interrelacion con otra [[Entidades|entidad]] a lacual está subordinada.  A esta se la llama [[Entidad Debil]]
 ![[Pasted image 20240820211207.png]]
 A una habitacion no se la puede identificar por su numero per se. Pero sirve para identificar habtiaciones dentro de un mismo hotel.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Es un cuerpo ideal en el cual las partículas que lo componen ==no modifican su posicion relative entre ellas==. Ninguna fuerza o torque podria modificar la distancia que guarda cada partícula del CR con todas las demás.
 ![[Pasted image 20220511094129.png]]
 ![[Pasted image 20220511095830.png]]

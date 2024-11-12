@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Pasted image 20220622082907.png]]
 $\omega$ es el mismo en ambos sentidos.
 

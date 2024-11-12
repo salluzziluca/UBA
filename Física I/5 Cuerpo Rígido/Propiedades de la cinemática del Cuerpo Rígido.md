@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Propiedades
 
 ## Propiedad 1 

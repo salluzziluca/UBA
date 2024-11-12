@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[1.0 Data Science]]
 [[2.0 Análisis Exploratorio de Datos]]
 [[3.0 Visualizaciones]]

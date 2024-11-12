@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Efecto Doppler
 ![[Pasted image 20211128124442.png]]
 Entonces, la frecuencia que ve el receptor queda como 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Listas
 - Son mutables, se les pueden reasignar valores a cada uno de los items
 ```py

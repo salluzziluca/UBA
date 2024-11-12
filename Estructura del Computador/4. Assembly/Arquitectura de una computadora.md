@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Una computador puee hacer tareas complejas con modos de operaciones MUY simples
 
 La componen:

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Fraunhofer
 ##### Máximos (interferencia)
 $$d .sin(\theta) = m.\lambda$$

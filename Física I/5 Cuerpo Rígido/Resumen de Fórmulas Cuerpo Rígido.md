@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Resumen de Fórmulas Cuerpo Rígido
 $$velocidad \ angular = \omega = \frac V R$$
 $$aceleracion \ angular=\gamma $$

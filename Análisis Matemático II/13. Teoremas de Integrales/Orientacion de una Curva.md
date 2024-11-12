@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Orientacion de una Curva
 Si nos dan una curva de ecuacion vectorial $\vec X$ y queremos saber su orientacion la trasformamos en funcion y evaluamos entonces sus valores en 0, 0,25, 0,5, etc.
 

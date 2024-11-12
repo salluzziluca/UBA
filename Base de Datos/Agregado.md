@@ -4,6 +4,7 @@ aliases:
   - agregados
   - Agregados
   - agregado
+dg-publish: true
 ---
 >[!info] Cómo conjuntos de objetos relacionados se agrupan en colecciones para ser tratados como unidad y ser almacenados en un mismo lugar. 
 >

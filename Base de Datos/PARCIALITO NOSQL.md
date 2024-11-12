@@ -85,7 +85,7 @@ En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que 
 ```
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher
-match (bm:Person {name: "Billy", surname: "Moore"})-[:KNOWS]-(p:Person) where not (p)--(:Crime) return p
+match (bm:Person {name: "Billy", surname: "Moore"})-[:FAMILY_REL]-(p:Person) where not (p)--(:Crime) return p
 ```
 
 1. Muestre la (o las) persona(s) que ha(n) realizado mas de 7 comunicaciones telef´onicas.

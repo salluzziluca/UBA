@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Una computadora funciona mediante la comunicación entre el CPU y la memoria(RAM)
 La memoria tiene posiciones y
 valores que almacena.![[Pasted image 20220322181608.png]]

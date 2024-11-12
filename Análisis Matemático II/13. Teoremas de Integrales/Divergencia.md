@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Divergencia
 
 Si tomamos el producto escalar de [[Operador Nabla|nabla]] con un campo vectorial $\vec f = (P, Q, R)$ obtenemos

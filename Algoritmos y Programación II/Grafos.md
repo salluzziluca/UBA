@@ -1,6 +1,7 @@
 ---
 aliases:
   - grafo
+dg-publish: true
 ---
 
 Es un par odenado $G=(V,E)$ donde V es el conjunto de vértices y E el conjunto de aristas

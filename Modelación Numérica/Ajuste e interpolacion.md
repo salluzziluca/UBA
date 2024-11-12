@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Se busca aproximar mediante polinomios una ecuación
 Definicion de interpolacioon: El polonomio inerpolante evaluado en el punto de interpolacion vale lo mismo que la funcion en ese punto
 ![[Pasted image 20241008132507.png]]

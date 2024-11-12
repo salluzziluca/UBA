@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Equilibrio
 ## Equilibrio estable
 Si lo muevo vuelve a su equilibrio

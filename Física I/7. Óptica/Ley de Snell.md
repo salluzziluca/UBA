@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 El índice de refracción ($n$) de un medio respecto al vacío (índice de refracción absoluto) es adimensional (ya que $\LARGE n = \frac c v$, con $c$ velocidad de propagación de la luz en el vacío y $v$ velocidad de propagación de luz en el medio). $n$ va a ser siempre mayor a 1. 
 ![[Pasted image 20211216113356.png]]
 

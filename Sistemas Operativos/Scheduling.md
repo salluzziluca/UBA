@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Workload
 > La carga de un trabajo de un proceso corriendo en e sistema
 

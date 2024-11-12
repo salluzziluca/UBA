@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Para que exista una raiz en $f(x)$:
 Esta tiene que ser continua en $[a,b]$
 $f(a).f(b)<0$

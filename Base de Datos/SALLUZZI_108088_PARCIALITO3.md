@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 1.
 F={AD->G, B->H, BD->E, HG->D, CDE->A, GDE->C}
 ## Paso2: Atributos Independientes

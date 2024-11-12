@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Arbol
 Es un [[Tipos de Datos Abstractos (TDA)|TDA]] que se suele utilizar normalmente de manera [[Algoritmos Recursivos|recursiva]]
 Coleccion de nodos conectados con multiples nodos. El nodo principal es llamado r (raiz) y los subarboles T1, T2, T3, cada uno de ellos con su raiz conectada mediante un vertice al nodo raiz.

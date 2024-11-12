@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Etapa 2
 
 

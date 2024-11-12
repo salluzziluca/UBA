@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Modelo Logico-Relacional Conceptual]]
 
 Las claves para un buen MR son: mapeo, normalizacion y heurísticas

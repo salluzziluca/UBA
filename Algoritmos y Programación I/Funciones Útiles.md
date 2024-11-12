@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Funciones Útiles
 
 ## filter()

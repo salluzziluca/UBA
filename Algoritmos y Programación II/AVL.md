@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # AVL
 Es un tipo de [[Arboles#Arbol binario|arbol binario]] autobalanceado, pensado para que no se degenere a lista y siempre la busqueda sea O(log(n)).
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <%*
 
 	let carpeta = tp.file.folder(true);

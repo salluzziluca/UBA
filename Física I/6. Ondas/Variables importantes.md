@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Variables importantes
 $$\LARGE y(x,t)= y_0 sen(kx-\omega t)$$
 $y_o$ = Amplitud

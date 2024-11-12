@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Funciones implícitas
 Es cuando una de las variables de la F es una f
 ![[Pasted image 20211020160006.png]]

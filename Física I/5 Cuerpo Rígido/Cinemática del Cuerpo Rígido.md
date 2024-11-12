@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Movimientos del Cuerpo Rígido
 
 ### Traslación Pura

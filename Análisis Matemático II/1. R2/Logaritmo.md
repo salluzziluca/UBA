@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Análisis_Matemático_II 
 # Logaritmo
 $ln(x)$= logaritmo natural

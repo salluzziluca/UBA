@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >[!quote] Los bloques fundamentales de nuestro sistema. Dentro de esos bloques despues codeamos.
 ## Definicion de Arquitectura 
 Conceptos o propiedades fundamentales  de un sistema en su entorno encarnando en su elementos, relaciones y en los principios de su diseño y evolucion

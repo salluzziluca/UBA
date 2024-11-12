@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Criterios etapa 3:  
 
 - Ejecutar la aplicación. Verificar que se pueda jugar una partida de inicio a fin, de al menos uno de los dos solitarios.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Definicion de Espacio Vectorial
 Un espacio vectorial debe cumplir 8 condiciones. 4 relacionadas con la suma y 4 relacionadas con el producto
 s1: Conmutativad. $u+v = v+u$ $∀u, v ∈ V$

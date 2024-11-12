@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Merge
 Juntar dos archivos distintos que "hablen" sobre lo mismo. Como precondicion, ambos archivos tienen que estar ordenados por al menos un campo. 
 Si ademas de estar ordenado no se repiten los valores del campo ordenado, ni siquiera se hace un while

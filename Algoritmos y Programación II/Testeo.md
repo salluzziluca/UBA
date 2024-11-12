@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Testeo
 Testeamos para asegurarnos de que nuestra funcion opere adecuadamente con cierto seguro.
 

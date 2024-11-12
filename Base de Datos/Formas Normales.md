@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >Las Formas Normales son una serie de estructuras con las que un esquema de [[Bases de Datos|base de datos]] puede cumplir o no
 
 Las formas normales clásicas son: 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Límites Utiles 
 
 $$\lim_{x\to\infty} \frac {sen(x)}{x}=1$$

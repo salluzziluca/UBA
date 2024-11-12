@@ -2,6 +2,7 @@
 materia: Sistemas Operativos
 capitulo: 
 dia: 2024-03-04
+dg-publish: true
 ---
 
 La memoria tal y como la veia en [[Manejo de Memoria|algo2]] o en [[7.0 Memoria|estructura]] (un arreglo de reicciones de memoria una detrás de la otra) es manejable mientras la cantidad de memoria necesitada sea acotada.

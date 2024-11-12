@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Flujo 
 
  $$\int\int_S \vec F.\hat n\ ds= \int\int_D \hat F(\vec g(u ,v)).\vec (g'_u(u, v) \times \vec g'_v(u, v))dudv$$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 En los 3 se asumen que los solapamientos son recuperables y que evitan rollbacks en cascada (ver [[Recuperabilidad]])
 
 ## Algoritmo UNDO (inmmediate update) 

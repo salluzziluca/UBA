@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Aceleración de un Cuerpo Rígido
 
 $$\LARGE \vec v_p = \vec v_{CM} + \vec \omega \times \vec r_{P}$$

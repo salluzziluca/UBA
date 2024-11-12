@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lambdas
 Sirven para hacer funciones simples condensadas en una linea. Para cosas rutinarias como x == y, es_par, y asi.
 ```py

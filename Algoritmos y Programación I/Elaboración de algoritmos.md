@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Algoritmos_y_Programación_I
 # Elaboración de Algoritmos
 Primero debemos conocer la [[Definición de Algoritmo]]

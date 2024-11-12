@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 	68uaaqdefrtgftn mm<z cvn# Atributos
 Los atributos son variables de un objeto. Pueden (o suelen) ser caracteristicas de este. Para ver todos los atributos usamos el atributo magico `__dict__`, nos devuelve los atributo como un diccionario.
 ## Asignación de Atributos

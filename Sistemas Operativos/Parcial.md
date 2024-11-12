@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Que es un deadlock? describa por lo menos 3 casos. 
 ## Deadlock
 Por deadlock nos referimos al momento en el que la ejecución de uno o mas programas concurrentes se ve detenida por la incapacidad de adquirir el lock del contexto actual.

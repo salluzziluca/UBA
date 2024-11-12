@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Describe el comportamiento del sistema desde afuera hacia adentro
 - Es muy [[Definición de Algoritmo#Caja negra]]
 ```

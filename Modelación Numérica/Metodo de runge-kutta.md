@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Explicito
 ## orden 2
 $$y= y_{0}+\frac{q_{1}+q_{2}}{2}$$

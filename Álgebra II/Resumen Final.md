@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - A es inversible si todos sus autovalores tienen mg = ma
 - A es inversible si todos sus autovalores sin diferentes
 - A es simetrica si a autovalores distintos corresponden autovectores ortogonales

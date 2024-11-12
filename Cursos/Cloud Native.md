@@ -1,5 +1,6 @@
 ---
 Dia: 2024-10-31
+dg-publish: true
 ---
 
 >[!info] Un nefoque de software para crear, implementar y administrar aplicaciones modernas en entornos de computacion en la nube

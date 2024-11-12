@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Apareo
 Tenemos dos o mas archivos de los cuales UNO es más importante. Lo que se hace es actualizar ese primer archivo con lo que tengamos en el resto.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Gradiente = $∇f(x,y)=(f'_x (x,y),f'_y (x,y))$
 Derivada direccional --> Gradiente por Versor
 Polinomio de taylor de primer grado = plano tangente = $f(x_0, y_0)+f'x(x_0, y_0)(x-x_0)+f'y(x_0, y_0)(y-y_0)$

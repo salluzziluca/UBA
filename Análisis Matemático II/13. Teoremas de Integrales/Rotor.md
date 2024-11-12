@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 $$\LARGE rot(\vec f) = \triangledown \times \vec f = \begin{matrix}  
 {\hat i} & {\hat j} & {\hat k}\\  

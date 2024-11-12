@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## burbujeo
 ![[Pasted image 20211028202446.png]]
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Colisiones y Choques
 - En un choque interaccionan 2 particulas
 - Cada una con una cantidad de movimiento inicial y final

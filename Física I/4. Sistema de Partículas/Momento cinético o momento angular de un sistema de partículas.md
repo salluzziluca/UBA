@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Momento cinético o momento angular de un sistema de partículas
 
 $$\LARGE L = \sum_{i}L_i = \sum_{i} r_i \times p_i = \sum_{i} m_i\ \vec r_i \times \vec v_i =\sum_{i} m_i(\vec r_i \times \vec v_i)$$

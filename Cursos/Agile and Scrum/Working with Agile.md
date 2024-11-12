@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Para trabajar con [[Cursos/Agile and Scrum/Agile]]
 vamos a priorizar:
 - Trabajar en pequeños batches, para no hacer mucho y que despues todo esté mal

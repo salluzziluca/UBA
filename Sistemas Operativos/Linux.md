@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ![[Pasted image 20240315145622.png]]
 ![[Pasted image 20240315145647.png]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ventajas:
 - Poca propagacion de errores de redondeo
 - Muy eficientes en calculo en paralelo

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Onda Elástica Plana
 Una onde elastica plana ocurre cuando la onda tiene una sola perturbacion que va avanzando a lo largo del tiempo.
 

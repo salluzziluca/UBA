@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Superposición de Dos Movimientos Armónicos Simples
 tenemos los dos movimientos:
 $$𝑌_1 = 𝐴_1. 𝑠𝑒𝑛 𝜔.𝑡 + 𝜑_1$$

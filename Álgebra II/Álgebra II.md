@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Álg[[1.0 Sistema de Representación numérica]]e[[1.0 Sistema de Representación numérica]]bra II
 [[1.0 Espacios Vectoriales]]
 [[2.0 Transformaciones Lineales]]

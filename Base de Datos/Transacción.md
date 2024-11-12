@@ -1,6 +1,7 @@
 ---
 aliases:
   - transacciones
+dg-publish: true
 ---
 Serie de operaciones que o bien se hacen enteras o no se hacen.(ej: transacción)
 Yo defino esta serie de operaciones como transaccion

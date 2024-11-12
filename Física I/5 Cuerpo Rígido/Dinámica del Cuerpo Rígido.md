@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # [[2.0 Dinámica|Dinámica]] del Cuerpo Rígido
 (Tomando el CR como un sistema continuo de muchisimas partículas con condicion de rigidez.)
 ![[Pasted image 20211101081839.png]]

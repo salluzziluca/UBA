@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Curvas Ortogonales
 Si dos curvas son ortogonales, en su punto de interseccion sus vectores son perpendiculares.
 

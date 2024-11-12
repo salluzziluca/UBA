@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Pila
 > Es una estructura de datos de tipo LIFO (Last In First Out) que permite apilar (push) y desapilar (pop) datos.
 

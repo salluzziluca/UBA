@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 	#UBA
 # UBA
 [[Análisis Matemático II]]

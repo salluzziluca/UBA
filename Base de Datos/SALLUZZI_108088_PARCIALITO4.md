@@ -1,6 +1,7 @@
 ---
 Dia: 2024-10-28
-aliases:
+aliases: 
+dg-publish: true
 ---
 
 ## 1

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 dneccna# Fuerzas no Conservativas
 Si depende del camino
 y/o 

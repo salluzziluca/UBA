@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > Son aquellas en que participan 3 tipos de [[Entidades|entidad]] distintos.
 
 Ejemplo: En un concurso de canto se organizan rondas temáticas en las que se inscriben algunos participantes. En cada ronda, los cantantes que participan son calificados por una serie de jurados

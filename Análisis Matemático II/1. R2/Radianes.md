@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Análisis_Matemático_II 
 # Radianes
 Un radian es un cono de longitud arco (parte exterior) igual al radio de al circunferencia:

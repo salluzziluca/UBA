@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Diccionario
 Es una colección de pares (clave, valor) [key, value].
 Accedo a un elemento mediante su clave.

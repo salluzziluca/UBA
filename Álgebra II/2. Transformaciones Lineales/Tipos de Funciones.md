@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tipos de Funciones
 ## Monomorfismo/inyectiva
 - con Nu(T)$dim(V) = dim(Im(T)) \leq dim(W)$

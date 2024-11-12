@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Pasted image 20221006160242.png]]
 ---
 # Patrones de Creación

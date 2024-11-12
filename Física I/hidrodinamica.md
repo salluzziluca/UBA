@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Hdioro
 $$Caudal = Q = \frac {vol}{tiempo}= S \frac {dx}{dt} = v.S$$
 $$Pression = \frac {F}{Sup}$$

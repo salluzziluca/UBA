@@ -46,6 +46,9 @@ En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que 
         totalFavorites: 1
       }}]
 ```
+
+
+## Neo4j
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher
 match (bm:Person {name: "Billy", surname: "Moore"})-[:FAMILY_REL]-(p:Person) where not (p)--(:Crime) return p

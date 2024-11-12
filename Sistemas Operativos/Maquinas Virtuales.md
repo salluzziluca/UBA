@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >un entorno de computacion completo , con sus propias capacidades de procesamiento, memoria y etc.Virtualizcion el maximo
 ## Maquinas virtuales de lenguaje 
 JVM, Microsoft common lang runtime

@@ -1,2 +1,5 @@
+---
+dg-publish: true
+---
 Avanzo medio pasoo con la pendiente del [[Método de Euler]]. Ahi evaluo la pendiente en ese punto y utiliza esa para dar todo el paso de x a x1. Utiliza la pendiente paralela
 ![[Pasted image 20241028134316.png]] 

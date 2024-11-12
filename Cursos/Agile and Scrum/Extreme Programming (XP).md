@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Pasted image 20221117122802.png]]
 Completamente iterativo, busca poder responder a los requerimientos del cliente
 

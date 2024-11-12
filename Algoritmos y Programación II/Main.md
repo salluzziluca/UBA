@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ```c
 int main(int argc, char const *argv[])
 

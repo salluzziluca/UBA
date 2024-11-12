@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <%*
 	let template = await tp.file.find_tfile("Referencia - Template");
 	let titulo = await tp.system.prompt("Articulo:");

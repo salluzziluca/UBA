@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Superposición de Ondas (Rendijas)
 ![[Pasted image 20220629082742.png]]
 

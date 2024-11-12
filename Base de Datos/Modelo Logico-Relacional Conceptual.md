@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Diseño lógico 
 Paso intermedio entre el modelo conceptual y el interno
 ![[Pasted image 20240828111814.png]]

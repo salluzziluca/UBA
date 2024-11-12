@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cambio de Variabes en Integrales Simples
 1) Elegir una expresión para $u$
 2) Calcular $du$

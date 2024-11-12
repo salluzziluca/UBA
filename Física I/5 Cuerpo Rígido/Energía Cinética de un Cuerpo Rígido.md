@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
  # Energía Cinética de un Cuerpo Rígido
 $$\LARGE \triangle E_C = W_{todas las F(int+ext)}$$
 ## Casos

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > El rol de un sistema operativo es el de compartir una computadora entre varios programas de forma tal de proveer un conjunto de servidores útiles de los que el hardware por si mismo expone
 > Este maneja y abstrae el hardware de bajo nivel, de forma tal que todo sea bonito para los programas y para el usuario
 

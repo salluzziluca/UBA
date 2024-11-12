@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Periodo = $T = \frac {2 \pi}{\omega}$ $T² = 4 π_² L / g$
 - Frecuencia
 - Aceleracion normal: $\frac {v^2}{R}$

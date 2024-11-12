@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Teorema de Green
 Sea D una region plana con frontera $\partial D$ y $\vec f(x, y)=(P(x,y),Q(x,y))$ un campo vectorial
 1. D es una región compacta de $R^2$ que tiene a  $\partial D$

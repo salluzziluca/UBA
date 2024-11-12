@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Instancias u Objetos
 Las intancias u objetos son, justamente, objetos de esa misma clase, se pueden crear tanto como se quiera y a cada uno asignarle los [[Algoritmos y Programación I/Atributos]] que se desee.
 

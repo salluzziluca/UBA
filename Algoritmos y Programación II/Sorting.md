@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Sorting
 Son algoritmos para ordenar un conjunto de datos.
 

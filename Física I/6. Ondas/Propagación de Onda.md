@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Propagación de Onda
 ## Ondas transversales
 Se propagan entre medios solidos y  liquidos (en estos ultimos con dificultad)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tipos de Movimientos
 ## Movimiento de Rotrotraslación: 
 Movimiento más general del CR. Lo pensamos como una traslacion más una rotacion respecto al eje que puede pasar por el CM.

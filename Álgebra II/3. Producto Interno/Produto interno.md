@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ser $V-R$ un espacio vectorial, un Producto Interno (PI) es una funcion del tipo $< \  , \ > : V \times V -> R$ si cumple:
 1) $<u,v> = <v,u>$
 2) $<\alpha u+ \beta v, w> = \alpha <u,w> +  \beta <v,w>$

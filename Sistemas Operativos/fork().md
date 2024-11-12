@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. Crea y asigna una nueva entrada en la **Process Table** para el nuevo proceso.
 2. Asigna un número de ID **único** al proceso hijo.
 3. Crea una copia lógica del contexto del proceso padre, algunas de esas partes pueden ser compartidas como la sección **text**

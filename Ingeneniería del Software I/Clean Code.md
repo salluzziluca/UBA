@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 
 Regla del boy scout: cuando me voy de un lugar de acampe, dejar de dejarlo mejor de lo que lo encontré

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tipos de Choques
 ![[Pasted image 20211013101935.png]]
 Choque elástico: se conserva la cantidad de movimiento y la energia mecanica

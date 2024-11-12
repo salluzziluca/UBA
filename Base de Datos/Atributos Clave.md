@@ -1,6 +1,7 @@
 ---
 aliases:
   - atributo clave
+dg-publish: true
 ---
 [[Base de Datos/Atributos|Atributo]] que permite distinguir entre [[Entidades]] dentro de un [[Conjunto de Entidades]]
 Si no encontramos uno, creamos un ID. 

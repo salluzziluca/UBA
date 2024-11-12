@@ -3,6 +3,7 @@ aliases:
   - base de datos
   - bdd
   - BDD
+dg-publish: true
 ---
 >Una base de datos es un conjunto de [[Dato|datos]] interrelacionados
 ![[Diseño Conceptual]]

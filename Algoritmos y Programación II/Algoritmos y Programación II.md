@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Materias 
 # Algoritmos y Programación II
 ### Temas

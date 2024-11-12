@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lista
 > Es un TDA que agrupa elementos. Sin restricciones
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Energía de una Onda
 ## Energía de Oscilación
 ### Energía de oscilación instantanea

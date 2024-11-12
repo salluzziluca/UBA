@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > Es la estructura por defecto de los [[Algoritmos Greedy]]
 # Heap binario
 

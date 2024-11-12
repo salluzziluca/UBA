@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Interferencia
 # Interferencia
 Entre dos maximos principales existen N-1 minimos y N-2 maximos secundarios (siendo N la cantidad de rendijas)

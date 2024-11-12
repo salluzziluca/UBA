@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Algoritmos_y_Programación_I 
 # Definición de Algoritmo
 ###### "Serie ordenada precisa y finitas de pasos que resuelven un problema"

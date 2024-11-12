@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Dato
 definimos un dato por
 - El conjunto de todos los valores posibles

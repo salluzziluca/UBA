@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Castear es convertir un tipo de dato en otro tipo de dato ej: char a int.
 ![[Pasted image 20220329191052.png]]
 Tenemos dos tipos de casteo

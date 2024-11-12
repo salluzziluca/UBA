@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### Restricciones de dominio
 > Dado UN [[Base de Datos/Atributos|atributo]] A de una relacion R el valor del atribuo en una [[tupla]] T debe pertenecer al dominio Dom(A)

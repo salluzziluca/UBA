@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lineas de Campo
 Nos van a dar una curva(g) y nos van a preguntar si es linea de campo de una funcion (F).
 $$\LARGE F(g(t))=kg'(t)$$,

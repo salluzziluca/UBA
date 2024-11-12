@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Movimiento Ondulatorio Armónico
 
 ## Fórmula General (en funcion del tiempo)

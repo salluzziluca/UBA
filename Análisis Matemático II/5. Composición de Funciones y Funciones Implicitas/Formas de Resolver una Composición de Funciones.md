@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Formas de Resolver una [[Composición de Funciones]]
 
 Dada $f (u,v) = u + uv$ y $\vec g(x,y) = x^2,xy$, ambas definidas en R2 , calcule $\triangledown h(2,1)$ sabiendo

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Sistema de Referencia en el Centro de Masa
 - En un [[4.0 Sistema de Partículas#Sistema aislado|sistema de partículas aislado]] la velocidad del CM es constante -> un observador sobre el CM de un [[4.0 Sistema de Partículas#Sistema aislado|sistema de partículas aislado]] está en un SRI.
 ### Propiedad 1

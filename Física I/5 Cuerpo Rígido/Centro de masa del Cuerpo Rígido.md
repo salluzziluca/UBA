@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Distribución Discreta
 ![[Pasted image 20211025082309.png]]
 ![[Pasted image 20211025082325.png]]

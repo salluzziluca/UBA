@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Operador Nabla
 Llamaremos operador ==nabla== en R³ al "vector":
 $$\LARGE\triangledown =(\frac {\partial}{\partial x }, \frac {\partial}{\partial y }, \frac {\partial}{\partial z })$$

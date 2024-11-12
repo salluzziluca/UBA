@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Demostracion de la Primera Ecuación Fundamental del Sistema de Partículas
 ![[Pasted image 20211013090846.png]]
 $\vec F_1$ y $\vec F_2$ son fuerzas externas

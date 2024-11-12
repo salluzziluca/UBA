@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Energía de un Sistema de Partículas
 Se define la anergía cinética del sistema como: 
 $$\LARGE E_C = \sum_i E_{C_{i}} = \frac 1 2 \sum_i m_i \ v_i^2 \neq \frac 1 2 M \ v_{cm} ^2$$ 

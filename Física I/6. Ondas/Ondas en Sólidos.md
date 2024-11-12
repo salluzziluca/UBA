@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ondas en Sólidos
 Estas generan deformaciones en los solidos, estogenera que se alarge, se comprima, etc:
 - Si al supriir esas fuerzas se vuelve al estado original, la deformacion es elástica.

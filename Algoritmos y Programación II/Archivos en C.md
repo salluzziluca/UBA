@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Similar a [[Archivos]], la funcion para abrir archivos es
 `fopen(archivo, modo)`
 y para cerrarlos

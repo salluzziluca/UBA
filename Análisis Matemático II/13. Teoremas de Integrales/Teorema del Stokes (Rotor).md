@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Teorema del Stokes
 Sea $\Gamma$ una curva, S una superficie que tiene a $\Gamma$ como borde y $\vec f$ un campo vectorial, si:
 1. $\Gamma = \delta S$, simple, cerrada, suave a trozos, se recorre en sentido positivo con respecto a la orientación de S.

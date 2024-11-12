@@ -1,5 +1,6 @@
 ---
 Dia: 2024-10-29
+dg-publish: true
 ---
 las [[bases de datos NoSQL]] buscan aumentar la velocidad de procesamiento y la capacidad de almacenar información, explotando las ventajas que brindan las redes de computadoras y ne particular en internet. Para esto usa un [[SGBD Distribuido]]
 

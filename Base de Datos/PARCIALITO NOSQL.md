@@ -1,5 +1,6 @@
 ---
 Dia: 2024-11-11
+dg-publish: true
 ---
 ## MongoDB
 

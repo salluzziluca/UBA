@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Teorema de Weierstrass
 ![[Pasted image 20211027164547.png]]
 

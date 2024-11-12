@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Arbol Rojo-Negro
 Es un [[Arboles#Arbol binario|arbol binario]] en cuyos nodos, ademas de almacenar su elemento y sus hijos, se almacena su color, para tenerlo balanceado de una forma mas eficiente
 

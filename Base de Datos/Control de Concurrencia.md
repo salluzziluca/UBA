@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Control con locks
 Es pesimista, bloqueo por si llega a pasar algo.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Definición de Transformación Lineal
 
 > Una funcion $F : V-> W$ es una transformación lineal si cumple:

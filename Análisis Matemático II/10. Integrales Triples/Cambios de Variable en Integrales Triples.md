@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cambios de Variable en Integrales Triples
 ![[Pasted image 20220106202524.png]]
 

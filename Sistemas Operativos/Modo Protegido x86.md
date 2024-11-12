@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 La arquiterctura 8086 tien un bus d datos de 20 bits, los regs tienenuna long de 16 bits.
 Generales: AX BX CX DX

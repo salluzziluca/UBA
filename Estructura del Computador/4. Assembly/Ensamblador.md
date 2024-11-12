@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Su laburo es mucho más sencilo que el del compilador, es menos complejo
 ![[Pasted image 20231130090922.png]]
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Teorema de Stokes
 
 Nos permite saber si una fuerza es conservativa o no conservativa.

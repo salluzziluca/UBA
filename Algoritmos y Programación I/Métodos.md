@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Métodos
 Son [[Funciones]] que se utilizan dentro de una clase, son creadas solo en ese ambito y reciben ese nombre en particular.
 Dentro de los metodos tenemos los 

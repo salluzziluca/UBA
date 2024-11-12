@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Funcionamiento Interno de Malloc 
 `ap = malloc(n)`
 malloc nos devuelve un puntero al inicio del bloque de memoria. Si hacemos ap-1 casteado a header te devuelve el header. 

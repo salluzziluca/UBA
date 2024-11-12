@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Derivadas sucesivas
 Es seguir haciendo [[4.2 Derivadas Direccionales#Derivadas Parciales|derivadas parciales]] como si la funcion ya derivada fuera una nueva función normal.
 ![[Pasted image 20211010104352.png]]

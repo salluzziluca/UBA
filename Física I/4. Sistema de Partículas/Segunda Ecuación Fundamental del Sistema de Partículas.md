@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Segunda Ecuación Fundamental del Sistema de Partículas
 
 $$\LARGE \sum \vec t_{ext}^0=\frac {d\vec L^0}{dt}$$

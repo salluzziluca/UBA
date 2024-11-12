@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. 
 ![[Pasted image 20240905161652.png]]
 

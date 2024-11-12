@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 rg(A)=k
 Si $A = U_k D_k V_k^T$ se define como pseudoinversa de A
 $A^+ = V_k D_k^{-1} U_k^T$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Extremos Condicionados
 Buscamos los max y minimos de una funcion restringido o sujeto a una condicion.
 ![[Pasted image 20211104113555.png]].

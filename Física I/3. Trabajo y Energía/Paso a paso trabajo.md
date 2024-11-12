@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Paso a Paso Trabajo
 1) Hacemos el DLC
 2) Buscamos la direccion del desplazamiento

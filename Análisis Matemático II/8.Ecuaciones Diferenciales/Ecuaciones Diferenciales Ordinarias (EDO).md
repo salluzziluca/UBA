@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
   ## Solución de una ecuación diferencial ordinaria.
     
 Solución general (SG): si la EDO es de orden n, la SG es una solución que involucra n [[constantes]] arbitrarias esenciales.

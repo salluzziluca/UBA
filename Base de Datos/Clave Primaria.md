@@ -1,6 +1,7 @@
 ---
 aliases:
   - claves primarias
+dg-publish: true
 ---
 >la clave primaria es aquella que nos permite identificar/diferenciar la relacion
 

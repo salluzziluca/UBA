@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > Una manera de poner la capa de servicio para poder ser comunicada por otro proceso 
 
 No es un standard, no es un protocolo, no es un reemplazo de SOAP, no es una biblioteca

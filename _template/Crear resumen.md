@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <%*
 	let template = await tp.file.find_tfile("Resumen - Template");
 	let libro = await tp.system.prompt("Nombre del libro: ");

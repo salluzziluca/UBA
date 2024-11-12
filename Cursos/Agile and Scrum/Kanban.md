@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Visualize the workflow
 - Limit work inm progress
 - manage and enhance the floiw

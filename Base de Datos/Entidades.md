@@ -1,6 +1,7 @@
 ---
 aliases:
   - entidad
+dg-publish: true
 ---
 > Tipo o clase de objeto en particular
 

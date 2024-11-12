@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Pilares:
 Relevancia: QUe preocupaciones y objetivos tiene la audiencia
 impacto: necesitamos un cambio de mindset? cual

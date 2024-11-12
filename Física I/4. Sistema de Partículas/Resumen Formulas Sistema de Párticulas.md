@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Resumen Formulas Sistema de Párticulas
 $$\LARGE p = m\ . v$$
 	$$\frac {d \vec p_{sist}}{dt} = \sum \vec F_{ext}$$

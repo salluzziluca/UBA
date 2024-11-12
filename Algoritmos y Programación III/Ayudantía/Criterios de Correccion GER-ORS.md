@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Etapa 3
 
 - [x] Crear un evento con repetición cada 2 días

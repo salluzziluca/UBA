@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Física_I 
 #Unidad
 # Laboratorio

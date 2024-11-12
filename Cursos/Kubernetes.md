@@ -1,5 +1,6 @@
 ---
 Dia: 2024-10-31
+dg-publish: true
 ---
 Kubernetes es una tecnologia [[Cloud Native]]
 Es un [[Docker#Contenedores|container]] orchestration engine

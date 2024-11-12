@@ -1,6 +1,7 @@
 ---
 aliases:
   - atributo
+dg-publish: true
 ---
 
 Cada [[Entidades|entidad]] tendra ==valores particulares== para cada uno de los atributos del tipo de [[Entidades|entidad]] al que corresponde.

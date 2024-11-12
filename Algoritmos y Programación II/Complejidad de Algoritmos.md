@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Complejidad de Algoritmos
 La complejidad se mira comparandolos en base a otros.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Los operaciones del modelo relacionas se especifican a través del algebra relacional o el calculo relacional
 

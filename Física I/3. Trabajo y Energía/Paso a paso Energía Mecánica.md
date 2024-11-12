@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Paso a paso Energía Mecánica (sin fuerzas no conservativas)
 - Planteamos el DLC, miramos bien donde poner el (0,0) para que nos facilite las cuentas
 - Anotamos todo esto: ![[Pasted image 20211002232632.png]]

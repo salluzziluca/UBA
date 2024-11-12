@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Etapa2 
 Ejecutar el programa y probarlo. Al menos probar lo siguiente:
 

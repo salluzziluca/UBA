@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Si nos dan una ecuacion parametrizada y nos piden evaluar en un punto debemos:
 1. Buscar los valores de los parametros para esos puntos
 2. Plantear la ecuacion del plano tangente

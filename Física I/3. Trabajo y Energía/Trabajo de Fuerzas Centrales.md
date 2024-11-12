@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Trabajo de Fuerzas Centrales
 Son siempre [[Fuerzas Conservativas]], depende de la posicion inicial y final, apunta siempre a un punto fijo O y es un vector contrari PAG 04
 Ej: 

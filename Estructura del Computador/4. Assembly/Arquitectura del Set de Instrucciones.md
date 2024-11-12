@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Memoria
 Hay que tener en cuenta donde se guardan fisicamente las variables, como accedo a los perifericos, donde seguarda fisicamente el programa
 ==como está organizada la memoria==

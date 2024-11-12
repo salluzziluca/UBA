@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >Ir de codigo fuente a codigo assembler
 
 ## frontend

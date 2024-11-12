@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Instruccion ld
 op = 11
 op3= 000000

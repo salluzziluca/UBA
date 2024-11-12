@@ -1463,6 +1463,9 @@ containers
 configurar
 crimen
 comunicaciones
+count
+conseguidos
+contengan
 de
 dispositivos
 del
@@ -2102,6 +2105,8 @@ desplegar
 deployement
 direigir
 dirigir
+depu
+diferntes
 gestion
 gran
 guarda
@@ -3045,6 +3050,7 @@ efficient
 externas
 engine
 efimero
+evaluar
 servicios
 son
 su
@@ -3635,6 +3641,8 @@ segmentation
 sincronizar
 swapeando
 services
+sort
+subtematicas
 par
 por
 punto
@@ -4331,6 +4339,8 @@ puerto
 proveedores
 participaci
 publish
+pipeline
+partidos
 la
 las
 le
@@ -4726,6 +4736,7 @@ lookup
 lAq
 llegaron
 lDMlBFdZ
+limit
 agnosticos
 apps
 al
@@ -5386,6 +5397,9 @@ administrar
 asegura
 agente
 aplicaci
+asica
+ambito
+agruparamos
 hardware
 heap
 hay
@@ -5709,6 +5723,8 @@ hfI
 hsKKOa
 hardarwe
 han
+hashtag
+hashtags
 que
 queda
 quien
@@ -8181,6 +8197,8 @@ recutrso
 replicas
 redirija
 rango
+rewteets
+retweet
 operacion
 orden
 operaciones
@@ -10526,6 +10544,7 @@ Uyjb
 UoP
 UoU
 UaM
+Utilice
 modo
 mode
 menso
@@ -11031,6 +11050,7 @@ modernas
 master
 masters
 microservicio
+mediod
 tien
 tiene
 todos
@@ -11465,6 +11485,8 @@ terremoto
 tension
 trafico
 telef
+tweets
+tuits
 inico
 interna
 infro
@@ -11989,6 +12011,8 @@ indeterminada
 imagen
 instanciar
 implementados
+ids
+ignoraron
 fijo
 file
 fork
@@ -12373,6 +12397,10 @@ flushear
 flusheada
 fault
 familiares
+favoritos
+favorite
+find
+futbol
 Nombre
 Notas
 Not
@@ -14758,6 +14786,7 @@ bNB
 basico
 backup
 blica
+brindarian
 will
 words
 with
@@ -16017,6 +16046,7 @@ jWY
 jaFzH
 justo
 jURgNd
+justificar
 Ya
 Yourself
 YAGNI

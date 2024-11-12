@@ -2113,6 +2113,7 @@ depu
 diferntes
 dibujar
 descendientes
+deberian
 gestion
 gran
 guarda
@@ -3059,6 +3060,7 @@ efimero
 evaluar
 ezcjUn
 expandirse
+ejecuten
 servicios
 son
 su
@@ -3654,6 +3656,8 @@ subtematicas
 siticas
 subdividir
 separa
+select
+subconjuntos
 par
 por
 punto
@@ -4354,6 +4358,7 @@ pipeline
 partidos
 partici
 profundidad
+postgres
 la
 las
 le
@@ -5416,6 +5421,7 @@ ambito
 agruparamos
 ancho
 afectado
+asber
 hardware
 heap
 hay
@@ -6293,6 +6299,7 @@ usX
 uhjwef
 underflow
 usaremos
+uisar
 System
 Son
 Source
@@ -8222,6 +8229,8 @@ rango
 rewteets
 retweet
 redistribuir
+restringir
+revocar
 operacion
 orden
 operaciones
@@ -12047,6 +12056,8 @@ implementados
 ids
 ignoraron
 insertamos
+inserto
+insertadas
 fijo
 file
 fork
@@ -13421,6 +13432,7 @@ Dockerfile
 Dockercompose
 Divison
 Deployments
+Distintos
 Memoria
 Multivariada
 MORE
@@ -14094,6 +14106,8 @@ Termina
 TrN
 TPu
 TpuCdaDp
+TOdo
+Transacciones
 Realiza
 REgistrys
 Rango
@@ -14444,6 +14458,8 @@ RZE
 RyK
 Recien
 RaV
+RETURNING
+ROLLBACK
 bien
 by
 be
@@ -15607,6 +15623,7 @@ OUGm
 OwZ
 Osi
 Operativo
+OPTION
 ya
 yo
 yM
@@ -16559,6 +16576,7 @@ Guardan
 Garantizaremos
 GKE
 Google
+GRANT
 BX
 Bit
 Box
@@ -16896,6 +16914,7 @@ Balancer
 Billy
 Bayes
 BdWF
+Borrado
 XY
 Xg
 XQG

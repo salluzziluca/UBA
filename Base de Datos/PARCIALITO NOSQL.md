@@ -24,64 +24,27 @@ db.tweets.find({
 1. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
 En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que se quiere analizar los diferentes hashtags por hora, ya que esto permite evaluar trafico de redes de las diferntes subtematicas dentro del ambito del futbol (partidos en particular, equipos, etc). Si agruparamos todos los hashtags nulos en una categoria, estos no nos brindarian informacion util
 ```js
-[
-  {
-    $match: {
-      full_text: /futbol/i // Filtra tweets que contengan "futbol" (case-insensitive)
-    }
-  },
-  {
-    $project: {
-      // Extraemos la hora del día del campo created_at y transformamos los hashtags a un array
-      hour: {
-        $hour: {
-          $toDate: "$created_at"
-        }
-      },
-      hashtags: {
-        $ifNull: [
-          {
-            $split: ["$full_text", "#"]
-          },
-          []
+
+  [
+    {$match: {
+        $and: [
+          { full_text: {$regex: RegExp('futbol', 'i') } }
         ]
-      },
-      favorite_count: 1
-    }
-  },
-  {
-    $unwind: {
-      path: "$hashtags",
-      preserveNullAndEmptyArrays: true // Conserva tweets sin hashtags como array vacío
-    }
-  },
-  {
-    $match: {
-      // Filtra hashtags vacíos, para no contar los tweets sin hashtags
-      hashtags: {
-        $ne: ""
-      }
-    }
-  },
-  {
-    $group: {
-      _id: {
-        hashtag: "$hashtags",
-        hour: "$hour"
-      },
-      // Agrupa por hashtag y hora
-      total_favorites: {
-        $sum: "$favorite_count"
-      }
-    }
-  },
-  {
-    $sort: {
-      "_id.hour": 1,
-      "_id.hashtag": 1
-    } // Ordena por hora y hashtag
-  }
-]
+      }},
+    {$unwind: {
+        path: '$entities.hashtags',
+        preserveNullAndEmptyArrays: false
+      }},
+    {$group: {
+        _id: { hashtag: '$entities.hashtags.text',
+          	hour: { $hour: '$created_at' }},
+        totalFavorites: { $sum: '$favorite_count' }
+      }},
+    {$project: {
+        hashtag: '$_id.hashtag',
+        hour: '$_id.hour',
+        totalFavorites: 1
+      }}]
 ```
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher

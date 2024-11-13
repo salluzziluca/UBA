@@ -22,7 +22,7 @@ db.tweets.find({
 
 
 1. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
-En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que se quiere analizar los diferentes hashtags por hora, ya que esto permite evaluar trafico de redes de las diferntes subtematicas dentro del ambito del futbol (partidos en particular, equipos, etc). Si agruparamos todos los hashtags nulos en una categoria, estos no nos brindarian informacion util
+En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que se quiere analizar los diferentes hashtags por hora, ya que esto permite evaluar trafico de redes de las diferntes subtematicas dentro del ambito del futbol (partidos en particular, equipos, etc). Si agruparamos todos los hashtags nulos en una categoria, estos no nos brindarian informacion util y nos podria llegar a arruinar ciertas visualizaciones como graficos de torta o de barras.
 ```js
 
   [

@@ -48,10 +48,10 @@ En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que 
 ```
 
 3.
-- match: filtra aquellos tuits en idioma portugues y provenientes de brasil
+Esta query filtra los tuits de brasil en español o portugues, agrupa los tuits por conversacione
+- match: filtra aquellos tuits en idioma portugues o español y provenientes de brasil
 - group agrupa los tuis por id de la conversacion. Si el tuit no es una respuesta (por lo que no tiene in reply to status id str, se usa el id del tuit propio). Dentro de cada grupo se guarda el id, el contenido del tuit, el user y la fecha de creacion. Almacena tambien el avg retweets del grupo.
 - Project: se encarga de estructurar la informacion. Selecciona el tuit original. Basicamente busca el tuit que tenga = id al id del grupo. Filtra las respuestas y las ordena por fecha de forma ascendente. Por ultimo, se encarga de mantener actualizado el promedio de retuits
-- 
 ## Neo4j
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher

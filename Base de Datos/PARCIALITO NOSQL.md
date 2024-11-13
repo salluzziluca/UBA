@@ -49,7 +49,7 @@ En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que 
 
 3.
 - match: filtra aquellos tuits en idioma portugues y provenientes de brasil
-- group agrupa los tuis por id de la conversacion. Si el tuit no es una respuesta (por lo que no tiene in reply to status id str, se usa el id del tuit propio)
+- group agrupa los tuis por id de la conversacion. Si el tuit no es una respuesta (por lo que no tiene in reply to status id str, se usa el id del tuit propio). Dentro de cada grupo 
 - 
 ## Neo4j
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.

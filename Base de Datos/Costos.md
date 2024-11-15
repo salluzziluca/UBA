@@ -18,4 +18,11 @@ Viva moreno carajo, hay que hacer costos
 
 Mediante heurísticas la expresión se convierte en una expresión equivalente, obteniéndose un plan de consulta ● En base a datos sobre los datos de la base (metadatos) que se encuentran en el catálogo, se elige cómo resolver cada operador de álgebra relacional, obteniéndose el plan de ejecución
 
+
+### Tipos de costos 
+
+- Costo de acceso a disco (lectura o escritura)
+- Costo de procesamiento 
+- Costo de uso de memoria
+- Costo de uso de redes
 En este tipo de otpimizaciones ya no corren por parte del usuario. Sin internas de la bdd y es dificil 

@@ -50,36 +50,34 @@ No podemos redistribuir porque nos quedaria el nodo hermano derecho tambien con 
 [[machete_arbol_b.pdf]]
 
 
-## Árbol B+
+## Arbol B+
 
-El Árbol B+ es una variación del Árbol B con algunas diferencias clave en la estructura y organización de los nodos. Estos árboles están diseñados para optimizar las operaciones de búsqueda y almacenamiento secuencial.
+El Árbol B+ es una variación del Árbol B, que se caracteriza por una estructura optimizada para búsquedas y almacenamiento secuencial.
 
-### Características del Árbol B+
+### Características del árbol B+
 
-- **Todas las claves se encuentran en los nodos hoja**: En los Árboles B+, los nodos internos solo contienen claves para guiar la búsqueda, mientras que todas las claves reales se almacenan en los nodos hoja.
-- **Listas enlazadas entre hojas**: Los nodos hoja están conectados entre sí mediante punteros para facilitar recorridos secuenciales eficientes.
-- **Acceso más rápido a los datos**: Debido a la separación entre los nodos internos y los nodos hoja, las operaciones de búsqueda en un Árbol B+ son más rápidas en comparación con un Árbol B tradicional.
-- **Espacio más eficiente**: Al separar la función de búsqueda (nodos internos) de los datos (nodos hoja), se aprovecha mejor el espacio de almacenamiento.
+- Todas las claves se encuentran en los nodos hoja.
+- Los nodos internos solo contienen claves para guiar la búsqueda, sin datos.
+- Los nodos hoja están enlazados mediante punteros para facilitar recorridos secuenciales.
+- Acceso a los datos más rápido y eficiente.
+- Las claves en los nodos hoja se mantienen ordenadas y conectadas.
 
-### Estructura de los nodos
+### Inserción
 
-- **Nodos internos**: Contienen solo claves y punteros a otros nodos internos o nodos hoja. No almacenan datos.
-- **Nodos hoja**: Contienen todas las claves y los punteros necesarios para recorrer el árbol secuencialmente.
+1. **Buscar la posición adecuada**: Se sigue el mismo procedimiento de un árbol B para encontrar el nodo hoja adecuado.
+2. **Insertar la clave**: Si el nodo hoja tiene espacio, se inserta directamente. Si no, ocurre un _overflow_ y el nodo se divide.
+3. **Propagar la división**: La clave media sube al nodo interno padre y se crean dos nodos hoja.
 
-### Inserción en un Árbol B+
+### Eliminación
 
-1. **Buscar la posición adecuada**: Se sigue el mismo procedimiento que en el Árbol B para encontrar el nodo hoja adecuado.
-2. **Insertar la clave**: Si hay espacio en el nodo hoja, se inserta directamente. Si no hay espacio, ocurre un _overflow_, y el nodo se divide.
-3. **Propagar la división**: Si un nodo hoja se divide, la clave media sube al nodo interno padre, y se crean dos nodos hoja. Si el nodo interno se llena, la división se propaga hacia arriba.
+1. **Eliminar la clave del nodo hoja**: Verificar que el nodo mantenga al menos la cantidad mínima de claves.
+2. **Redistribuir o combinar nodos**: Si el nodo queda con menos claves de las permitidas, se redistribuyen las claves con nodos hermanos o se combinan.
+3. **Mantenimiento del puntero**: Asegurar que los punteros entre nodos hoja se actualicen correctamente para mantener el recorrido secuencial.
 
-### Eliminación en un Árbol B+
+### Ventajas del árbol B+
 
-1. **Eliminar la clave del nodo hoja**: Se verifica si el nodo cumple con la cantidad mínima de claves después de la eliminación.
-2. **Redistribuir o combinar nodos**: Si el nodo tiene menos claves que la mínima, se redistribuyen las claves desde los nodos hermanos o se combinan nodos. La clave correspondiente en el nodo interno se ajusta.
-3. **Mantenimiento del puntero**: Las conexiones entre los nodos hoja deben mantenerse para que el recorrido secuencial sea consistente.
+- **Búsqueda secuencial rápida** gracias al enlace entre nodos hoja.
+- **Menor profundidad** y acceso más eficiente, ya que los datos se mantienen en los nodos hoja.
+- **Acceso directo a los datos**, lo que simplifica las operaciones de búsqueda y recorrido.
 
-### Ventajas del Árbol B+
-
-- **Búsqueda secuencial rápida**: Gracias a las conexiones entre nodos hoja, es muy eficiente realizar un recorrido en orden.
-- **Menor profundidad**: Como todos los datos están en los nodos hoja y estos pueden contener más claves, el árbol tiende a ser menos profundo.
-- **Acceso directo a los datos**: Las claves reales están en los nodos hoja, lo que simplifica las operaciones de búsqueda y acceso a datos.
+El árbol B+ es ampliamente utilizado en sistemas de bases de datos y sistemas de archivos debido a su eficiencia en operaciones de lectura y recorridos secuenciales.

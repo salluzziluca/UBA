@@ -25,4 +25,10 @@ Mediante heurísticas la expresión se convierte en una expresión equivalente, 
 - Costo de procesamiento 
 - Costo de uso de memoria
 - Costo de uso de redes
-En este tipo de otpimizaciones ya no corren por parte del usuario. Sin internas de la bdd y es dificil 
+En este tipo de otpimizaciones ya no corren por parte del usuario. Sin internas de la bdd y es dificil tener ingerencia en ellos
+
+## Reglas de equivalencia 
+
+Buscamos consultas equivalentes y nos fijamos cual es mas optima 
+
+![[Pasted image 20241115185750.png]]

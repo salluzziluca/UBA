@@ -63,3 +63,13 @@ Determinar todos los árboles equivalentes según las reglas vistas es muy costo
 Se utilizan heurísticas para agilizar el proceso ○ El objetivo general es reducir el tamaño de relaciones intermedias  
 Para aprovechar pipelining se prefieren árboles “left deep” en el que los hijos derechos siempre son accesos a tablas
 ![[Pasted image 20241115190438.png]]
+
+Una vez elegido el árbol de consulta a utilizar, se debe elegir de qué modo resolver cada operador algebraico
+
+Existen distintos algoritmos para cada operador cuyo costo
+depende de muchos factores
+- Cantidad de datos
+- Tamaño de datos
+- Existencia de índices
+- Memoria disponible
+Se estima el costo (lo cual tiene que ser mucho menos costoso que ejecutar la consulta)

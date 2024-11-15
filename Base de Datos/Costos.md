@@ -85,4 +85,7 @@ PostgreSQL usa la tabla pg_statistics y su vista pg_stats
 - V(A, R) : (variabilidad de A en R) cantidad de distintos valores que tiene el atributo A en la tabla R
 - También información sobre índices
 - Height(I(A,R)) : Altura del índice, para índices de tipo árbol
+
+
 Mantener el catalogo actualizado puede ser costoso.
+Los motores suelen hacerlo con cierta periodicidad, o cuando están ociosos, o cuando el usuario lo indique explícitamente

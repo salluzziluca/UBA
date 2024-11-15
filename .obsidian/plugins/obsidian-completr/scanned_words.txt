@@ -1472,6 +1472,10 @@ cuadrados
 construye
 carajo
 cat
+costoso
+convenciones
+chica
+concatenar
 de
 dispositivos
 del
@@ -2115,6 +2119,7 @@ depu
 diferntes
 delta
 divididas
+descendientes
 gestion
 gran
 guarda
@@ -3070,6 +3075,7 @@ estable
 euler
 elige
 equivalencia
+expandirse
 servicios
 son
 su
@@ -3663,6 +3669,9 @@ services
 sort
 subtematicas
 sem
+siticas
+subdividir
+separa
 par
 por
 punto
@@ -4364,6 +4373,7 @@ partidos
 polinomios
 polonomio
 pasoo
+profundidad
 la
 las
 le
@@ -4762,6 +4772,7 @@ lDMlBFdZ
 limit
 lio
 logo
+llenas
 agnosticos
 apps
 al
@@ -5431,6 +5442,8 @@ ajusgar
 anula
 abstray
 ades
+ancho
+afectado
 hardware
 heap
 hay
@@ -5756,6 +5769,7 @@ hardarwe
 han
 hashtag
 hashtags
+hermano
 que
 queda
 quien
@@ -5995,6 +6009,7 @@ qen
 qHB
 qnWj
 qeu
+quedaria
 utilizados
 un
 una
@@ -6305,6 +6320,8 @@ uuiKaO
 usv
 usX
 uhjwef
+underflow
+usaremos
 System
 Son
 Source
@@ -7497,6 +7514,7 @@ Explicito
 Expresi
 Estrategia
 Evaluaci
+Eliminaci
 kernel
 kt
 kU
@@ -8238,6 +8256,7 @@ redirija
 rango
 rewteets
 retweet
+redistribuir
 operacion
 orden
 operaciones
@@ -8582,6 +8601,7 @@ onicas
 otpimizaciones
 operador
 obteni
+ordenadas
 nombre
 nuevo
 nica
@@ -8888,6 +8908,7 @@ nefoque
 nube
 native
 ntica
+nima
 via
 vuelve
 viven
@@ -9585,6 +9606,8 @@ Aquellas
 Alto
 Abstracciones
 AWS
+Arbol
+Acceso
 Programming
 Procesos
 Partes
@@ -11103,6 +11126,9 @@ mejores
 minimce
 moreno
 metadatos
+maxima
+minima
+movemos
 tien
 tiene
 todos
@@ -12072,6 +12098,7 @@ interpolar
 interpolante
 incodicionalmente
 ingerencia
+insertamos
 fijo
 file
 fork
@@ -14858,6 +14885,8 @@ basico
 backup
 blica
 brindarian
+bajan
+borramos
 will
 words
 with

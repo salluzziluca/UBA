@@ -112,3 +112,5 @@ tambien agiliza consultas por rangos
 Analizamos el costo de resolver cada operador por separado 
 No consideramos el costo de almacenar el resultado final ya que estos pueden ser intermedio sy no almacenarse, solo estimaremos los bloques. 
 Luego veremos como combinar el costo de varios operadores
+
+El costo lo mediremos en bloques de disco accedidos ya sea en Read or Write 

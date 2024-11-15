@@ -140,3 +140,12 @@ Si la condición no es por igualdad, puede extenderse la fórmula anterior pero 
 
 #### Conjunto de condiciones 
 Si hay una conjunción de condiciones, igualmente puede aprovecharse un índice por alguna de las columnas $σ Ai=v1 ∧ Aj=v2 (R)$
+Se usa el índice por el atributo indexado (asumamos A1) ○ Se accede a las filas con Ai = v1 y se revisa previo a devolverlas que también cumplan que Aj = v2
+
+También se podría haber aprovechado un índice compuesto que comience con Ai y Aj 
+Si hay dos índices distintos por cada atributo, se usan ambos y se accede a los bloques devueltos por ambos
+
+#### Disyuncion de condiciones 
+
+Si hay una disyunción de condiciones, es más complicado aprovechar índices σ Ai=v1 ∨ Aj=v2 (R) 
+Si no tenemos un índice por alguno de los atributos, hay que hacer File Scan  Si tenemos índices por ambos, podríamos acceder a los dos índices y a los datos devueltos por cada uno de ellos (unión entre los resultados de ambos)

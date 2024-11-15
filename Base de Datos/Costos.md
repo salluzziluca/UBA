@@ -97,3 +97,4 @@ El índice, generalmente implementado como un árbol B+, guardará para cada pos
 Esto agiliza la búsqueda por esas expresiones
 - También búsquedas por rangos
 - En índices por varias expresiones, sólo agiliza en búsquedas que las usan en el orden definido
+Si yo quiero buscar desde Roman hasta Ruben, puedo hacerlo tambien facil

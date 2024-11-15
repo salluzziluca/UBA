@@ -100,10 +100,10 @@ Esto agiliza la búsqueda por esas expresiones
 Si yo quiero buscar desde Roman hasta Ruben, puedo hacerlo tambien facil
 
 #### Clustering 
-Algunos motores tienen la opción de hacer índices de
-clustering, en los cuales los datos físicamente están
-ordenados por la clave del índice
+Algunos motores tienen la opción de hacer índices de clustering, en los cuales los datos físicamente están ordenados por la clave del índice
 - Esto permite reducir el costo de acceso
 - Si un valor del índice está en 5 filas y entran 10 filas por bloque, esas 5 filas casi seguro estarán en un único bloque si el índice es de clustering
 - Si no es de clustering, probablemente estarán en 5 bloques distintos
 Mantener este tipo de indices es costoso ya que se reestructura el indicine y el archivo con lso datos ante ABMs
+Solo se puede hacer un indice de clustering por tabla 
+tambien agiliza consultas por rangos 

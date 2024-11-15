@@ -33,3 +33,10 @@ Buscamos consultas equivalentes y nos fijamos cual es mas optima
 
 ![[Pasted image 20241115185750.png]]
 ![[Pasted image 20241115185836.png]]
+Hacer una junta es equivalente a realizar el producto
+cartesiano entre las tablas y luego revisar la condición de junta
+con una selección
+$σc( R X S ) = R ⨝c S$
+
+
+Distribución de la selección en la junta $σc( R ∗ S ) = σcR( R ) ∗ σcS( S )$ ○ Si la condición c puede escribirse como cR∧cS donde cR y cS involucran atributos sólo de R y S respectivamente

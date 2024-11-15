@@ -1471,6 +1471,7 @@ coeficinetes
 cuadrados
 construye
 carajo
+cat
 de
 dispositivos
 del
@@ -3067,6 +3068,8 @@ extremos
 equidistantes
 estable
 euler
+elige
+equivalencia
 servicios
 son
 su
@@ -3659,6 +3662,7 @@ swapeando
 services
 sort
 subtematicas
+sem
 par
 por
 punto
@@ -4757,6 +4761,7 @@ llegaron
 lDMlBFdZ
 limit
 lio
+logo
 agnosticos
 apps
 al
@@ -5424,6 +5429,8 @@ ajusto
 ajustar
 ajusgar
 anula
+abstray
+ades
 hardware
 heap
 hay
@@ -7104,6 +7111,8 @@ Cerrado
 Cluster
 Corren
 ClusterIP
+Conversi
+Costo
 Es
 El
 Estos
@@ -7485,6 +7494,9 @@ EBA
 Engine
 Estabilidad
 Explicito
+Expresi
+Estrategia
+Evaluaci
 kernel
 kt
 kU
@@ -8568,6 +8580,8 @@ organizaciones
 orchestration
 onicas
 otpimizaciones
+operador
+obteni
 nombre
 nuevo
 nica
@@ -8873,6 +8887,7 @@ nux
 nefoque
 nube
 native
+ntica
 via
 vuelve
 viven
@@ -9964,6 +9979,7 @@ Pido
 Propviienen
 Pueden
 Pods
+Parser
 Interface
 ID
 Instructions
@@ -11086,6 +11102,7 @@ minimos
 mejores
 minimce
 moreno
+metadatos
 tien
 tiene
 todos
@@ -12054,6 +12071,7 @@ interpolacion
 interpolar
 interpolante
 incodicionalmente
+ingerencia
 fijo
 file
 fork
@@ -12443,6 +12461,7 @@ favorite
 find
 futbol
 fuertemente
+fijamos
 Nombre
 Notas
 Not
@@ -13428,6 +13447,9 @@ Dockerfile
 Dockercompose
 Divison
 Deployments
+Describe
+Describ
+Devolver
 Memoria
 Multivariada
 MORE
@@ -14099,6 +14121,7 @@ Tolerancia
 Termina
 TrN
 Teng
+Translator
 Realiza
 REgistrys
 Rango
@@ -14450,6 +14473,8 @@ RyK
 Recien
 RaV
 Runge
+Representa
+Rechazar
 bien
 by
 be
@@ -15613,6 +15638,7 @@ OUGm
 OwZ
 Osi
 Operativo
+Optimizador
 ya
 yo
 yM

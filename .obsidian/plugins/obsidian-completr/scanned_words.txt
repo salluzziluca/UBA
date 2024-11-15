@@ -1470,6 +1470,7 @@ contengan
 coeficinetes
 cuadrados
 construye
+carajo
 de
 dispositivos
 del
@@ -8566,6 +8567,7 @@ oEL
 organizaciones
 orchestration
 onicas
+otpimizaciones
 nombre
 nuevo
 nica
@@ -11083,6 +11085,7 @@ mediod
 minimos
 mejores
 minimce
+moreno
 tien
 tiene
 todos
@@ -15356,6 +15359,7 @@ VIW
 VkY
 Velocidad
 Vandermonde
+Viva
 OPTIONS
 Operativos
 Orden

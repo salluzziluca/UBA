@@ -150,3 +150,10 @@ Si hay dos índices distintos por cada atributo, se usan ambos y se accede a los
 Si hay una disyunción de condiciones, es más complicado aprovechar índices $σ Ai=v1 ∨ Aj=v2 (R)$ 
 Si no tenemos un índice por alguno de los atributos, hay que hacer File Scan 
 Si tenemos índices por ambos, podríamos acceder a los dos índices y a los datos devueltos por cada uno de ellos (unión entre los resultados de ambos)
+
+
+#### Distribución no uniforme de los valores
+
+Cuando los valores no tienen una distribución uniforme, la estimación de la fórmula vista no es buena 
+$Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / V(A,R)⌉$
+Si estoy buscando clientes por país, quizás el 95 % de los clientes son de Argentina y el 0.1% de un país remoto

@@ -577,6 +577,7 @@ LKvY
 LIK
 Linea
 Load
+Lagrange
 capa
 controlado
 cantidad
@@ -1467,6 +1468,8 @@ count
 conseguidos
 contengan
 coeficinetes
+cuadrados
+construye
 de
 dispositivos
 del
@@ -2108,6 +2111,8 @@ direigir
 dirigir
 depu
 diferntes
+delta
+divididas
 gestion
 gran
 guarda
@@ -2411,6 +2416,7 @@ generalmente
 garantice
 guarden
 gGTEvC
+global
 especifico
 entra
 en
@@ -3052,6 +3058,14 @@ externas
 engine
 efimero
 evaluar
+evaluado
+evaluada
+evaluo
+efectuando
+extremos
+equidistantes
+estable
+euler
 servicios
 son
 su
@@ -4342,6 +4356,9 @@ participaci
 publish
 pipeline
 partidos
+polinomios
+polonomio
+pasoo
 la
 las
 le
@@ -4738,6 +4755,7 @@ lAq
 llegaron
 lDMlBFdZ
 limit
+lio
 agnosticos
 apps
 al
@@ -5401,6 +5419,10 @@ aplicaci
 asica
 ambito
 agruparamos
+ajusto
+ajustar
+ajusgar
+anula
 hardware
 heap
 hay
@@ -5964,6 +5986,7 @@ qbR
 qen
 qHB
 qnWj
+qeu
 utilizados
 un
 una
@@ -7459,6 +7482,8 @@ Encuentro
 Emula
 EBA
 Engine
+Estabilidad
+Explicito
 kernel
 kt
 kU
@@ -9189,6 +9214,7 @@ vMylN
 vean
 viajando
 vrY
+vale
 Application
 API
 Asigna
@@ -10263,6 +10289,8 @@ IKb
 Index
 Internet
 Item
+Interpolacion
+Implicitio
 Un
 UNIX
 UBA
@@ -11052,6 +11080,9 @@ master
 masters
 microservicio
 mediod
+minimos
+mejores
+minimce
 tien
 tiene
 todos
@@ -12014,6 +12045,12 @@ instanciar
 implementados
 ids
 ignoraron
+interpolacioon
+inerpolante
+interpolacion
+interpolar
+interpolante
+incodicionalmente
 fijo
 file
 fork
@@ -12402,6 +12439,7 @@ favoritos
 favorite
 find
 futbol
+fuertemente
 Nombre
 Notas
 Not
@@ -13003,6 +13041,7 @@ FshFjRBQ
 Fallas
 Fuego
 FFB
+Fenomeno
 Descriptors
 Descriptor
 Devuelve
@@ -14056,6 +14095,7 @@ Tolerance
 Tolerancia
 Termina
 TrN
+Teng
 Realiza
 REgistrys
 Rango
@@ -14406,6 +14446,7 @@ RZE
 RyK
 Recien
 RaV
+Runge
 bien
 by
 be
@@ -15314,6 +15355,7 @@ VqI
 VIW
 VkY
 Velocidad
+Vandermonde
 OPTIONS
 Operativos
 Orden
@@ -18341,6 +18383,7 @@ WAn
 WKcMpm
 Workers
 Web
+Weierstrass
 ZZZPU
 ZX
 ZQ
@@ -18773,6 +18816,7 @@ zyW
 zyA
 zOoi
 zaf
+zoan
 ÄB
 ÄG
 Äo

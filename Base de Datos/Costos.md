@@ -136,3 +136,7 @@ $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / (V(A,R) * F(R))⌉$ Equivalente 
 
 
 Si la condición no es por igualdad, puede extenderse la fórmula anterior pero en general el costo es mayor, salvo rangos acotados $σ Ai>=v1 ∧ Ai<=v2 (R)$
+
+
+#### Conjunto de condiciones 
+Si hay una conjunción de condiciones, igualmente puede aprovecharse un índice por alguna de las columnas $σ Ai=v1 ∧ Aj=v2 (R)$

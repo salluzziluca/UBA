@@ -147,5 +147,6 @@ Si hay dos índices distintos por cada atributo, se usan ambos y se accede a los
 
 #### Disyuncion de condiciones 
 
-Si hay una disyunción de condiciones, es más complicado aprovechar índices σ Ai=v1 ∨ Aj=v2 (R) 
-Si no tenemos un índice por alguno de los atributos, hay que hacer File Scan  Si tenemos índices por ambos, podríamos acceder a los dos índices y a los datos devueltos por cada uno de ellos (unión entre los resultados de ambos)
+Si hay una disyunción de condiciones, es más complicado aprovechar índices $σ Ai=v1 ∨ Aj=v2 (R)$ 
+Si no tenemos un índice por alguno de los atributos, hay que hacer File Scan 
+Si tenemos índices por ambos, podríamos acceder a los dos índices y a los datos devueltos por cada uno de ellos (unión entre los resultados de ambos)

@@ -118,8 +118,15 @@ Las bases de datos mantienen cache de datos ya accedidos en memoria para ahorrar
 El costo real puede diferir del estimado. No es 100% acertado, igual sirve para elegir el metodo que deberia ser mas optimo 
 
 ### Seleccion
-#### File 
+#### File Scan
 La forma más sencilla de resolver una selección es recorrer bloque a bloque todos los datos de la tabla y evaluar fila a fila si se cumple o no la condición
 El costo es Cost(σc(R)) = B(R)
 
-#
+#### Index Scan
+Cuando la condición es de la siguiente forma σ Ai=v (R) y hay un índice por la columna Ai, puede convenir utilizar un índice para resolver la consulta (Index Scan)
+
+
+Costo de acceder al índice por la clave de búsqueda v 
+Costo de encontrar los N bloques que, según el índice indica, contienen filas con Ai = v
+
+sin clustering: $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / V(A,R)⌉$

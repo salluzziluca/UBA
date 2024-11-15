@@ -13,7 +13,9 @@ Viva moreno carajo, hay que hacer costos
 	Expresión equivalente de A.R.
 	Estrategia para cada operador
 3. Evaluación del plan de ejecución
-Devolver el resultado en base a
-los datos
+	Devolver el resultado en base a los datos
+
+
+Mediante heurísticas la expresión se convierte en una expresión equivalente, obteniéndose un plan de consulta ● En base a datos sobre los datos de la base (metadatos) que se encuentran en el catálogo, se elige cómo resolver cada operador de álgebra relacional, obteniéndose el plan de ejecución
 
 En este tipo de otpimizaciones ya no corren por parte del usuario. Sin internas de la bdd y es dificil 

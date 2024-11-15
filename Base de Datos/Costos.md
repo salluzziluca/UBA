@@ -47,5 +47,13 @@ Si todos los atributos de junta están contenidos en X, se construyen XR y XS co
 
 
 ## Heuristicas de Optimizacion 
+
+>Realizar las selecciones lo antes posible -
+>Reemplazar productos cartesianos por juntas cuando se pueda -
+>Proyectar para descartar atributos no utilizados lo antes posible ○ Priorizar selección antes que proyección ○ Tener cuidado si el árbol no queda left deep (evaluar pipelining) ● Realizar las juntas más restrictivas primero
 Dos consultas equivalentes pueden tener costos distintos
 ![[Pasted image 20241115190354.png]]
+Determinar todos los árboles equivalentes según las reglas vistas es muy costosos 
+Se utilizan heurísticas para agilizar el proceso ○ El objetivo general es reducir el tamaño de relaciones intermedias  
+Para aprovechar pipelining se prefieren árboles “left deep” en el que los hijos derechos siempre son accesos a tablas
+![[Pasted image 20241115190438.png]]

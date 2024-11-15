@@ -51,8 +51,3 @@ No podemos redistribuir porque nos quedaria el nodo hermano derecho tambien con 
 
 
 ## Arbol B+
-
-Los árboles B+ tienen ciertas reglas de actualización que les dan propiedades buenas para ser usados como índices
-Salvo el nodo raíz, todos los nodos se encuentran con al menos un 50% de ocupación
-Todos los nodos hoja tienen la misma altura
-Operaciones de ABM intentan reorganizar lo menos posible los nodos del árbol

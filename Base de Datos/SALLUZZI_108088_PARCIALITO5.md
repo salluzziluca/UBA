@@ -22,7 +22,7 @@ db.tweets.find({
 
 
 1. Por cada hashtag y hora del d´ıa (00, 01, 02, ...) obtener el total de favoritos conseguidos por tweets que contengan la palabra “futbol” en el texto. Se debe indicar si se ignoraron o no los tweets que no tienen hashtags (justificar). Se debe utilizar el pipeline de agregaci´on.
-En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que se quiere analizar los diferentes hashtags por hora, ya que esto permite evaluar trafico de redes de las diferntes subtematicas dentro del ambito del futbol (partidos en particular, equipos, etc). Si agruparamos todos los hashtags nulos en una categoria, estos no nos brindarian informacion util
+En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que se quiere analizar los diferentes hashtags por hora, ya que esto permite evaluar trafico de redes de las diferntes subtematicas dentro del ambito del futbol (partidos en particular, equipos, etc). Si agruparamos todos los hashtags nulos en una categoria, estos no nos brindarian informacion util y nos podria llegar a arruinar ciertas visualizaciones como graficos de torta o de barras.
 ```js
 
   [
@@ -47,7 +47,11 @@ En mi caso no tome los tuits que no tienen hashtags, pensando justamente en que 
       }}]
 ```
 
-
+3.
+Esta query filtra los tuits de brasil en español o portugues, agrupa los tuits por conversaciones (tuit original y sus respuestas) y calcula el promedio de retuits de cada conversacion. Luego muestra el tuit original y sus respuestas en orden cronologico, asi como el promedio de RTs siempre actualizado
+- match: filtra aquellos tuits en idioma portugues o español y provenientes de brasil
+- group agrupa los tuis por id de la conversacion. Si el tuit no es una respuesta (por lo que no tiene in reply to status id str, se usa el id del tuit propio). Dentro de cada grupo se guarda el id, el contenido del tuit, el user y la fecha de creacion. Almacena tambien el avg retweets del grupo.
+- Project: se encarga de estructurar la informacion. Selecciona el tuit original. Basicamente busca el tuit que tenga = id al id del grupo. Filtra las respuestas y las ordena por fecha de forma ascendente. Por ultimo, se encarga de mantener actualizado el promedio de retuits
 ## Neo4j
 1. Muestre los familiares de Billy Moore que no han tenido participaci´on en ning´un crimen.
 ```cypher

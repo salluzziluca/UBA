@@ -44,3 +44,8 @@ Si la condición c puede escribirse como $cR∧cS$ donde $cR$ y $cS$ involucran 
 
 Distribución de la proyección en la junta $πX( R ∗ S ) = πXR( R ) ∗ πXS( S )$ 
 Si todos los atributos de junta están contenidos en X, se construyen XR y XS como conjuntos que tienen los atributos de X que están en R o S respectivamente
+
+
+## Heuristicas de Optimizacion 
+Dos consultas equivalentes pueden tener costos distintos
+![[Pasted image 20241115190354.png]]

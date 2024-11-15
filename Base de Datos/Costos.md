@@ -114,3 +114,7 @@ No consideramos el costo de almacenar el resultado final ya que estos pueden ser
 Luego veremos como combinar el costo de varios operadores
 
 El costo lo mediremos en bloques de disco accedidos ya sea en Read or Write 
+Las bases de datos mantienen cache de datos ya accedidos en memoria para ahorrarse lecturas
+El costo real puede diferir del estimado. No es 100% acertado, igual sirve para elegir el metodo que deberia ser mas optimo 
+
+### Seleccion

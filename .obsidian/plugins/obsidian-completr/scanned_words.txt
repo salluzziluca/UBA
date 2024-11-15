@@ -1476,6 +1476,13 @@ costoso
 convenciones
 chica
 concatenar
+contenidos
+construyen
+cartesianos
+catalogo
+citamente
+conectadas
+combinan
 de
 dispositivos
 del
@@ -2120,6 +2127,8 @@ diferntes
 delta
 divididas
 descendientes
+deep
+divisi
 gestion
 gran
 guarda
@@ -2424,6 +2433,7 @@ garantice
 guarden
 gGTEvC
 global
+guiar
 especifico
 entra
 en
@@ -3076,6 +3086,12 @@ euler
 elige
 equivalencia
 expandirse
+escribirse
+elegido
+estima
+expl
+expresiones
+enlace
 servicios
 son
 su
@@ -3672,6 +3688,12 @@ sem
 siticas
 subdividir
 separa
+selecci
+selecciones
+statistics
+stats
+squedas
+simplifica
 par
 por
 punto
@@ -4374,6 +4396,11 @@ polinomios
 polonomio
 pasoo
 profundidad
+proyecci
+pipelining
+prefieren
+periodicidad
+permitidas
 la
 las
 le
@@ -5444,6 +5471,12 @@ abstray
 ades
 ancho
 afectado
+agilizar
+algebraico
+agiliza
+adecuada
+adecuado
+actualicen
 hardware
 heap
 hay
@@ -5770,6 +5803,7 @@ han
 hashtag
 hashtags
 hermano
+hermanos
 que
 queda
 quien
@@ -7130,6 +7164,8 @@ Corren
 ClusterIP
 Conversi
 Costo
+Cat
+Contienen
 Es
 El
 Estos
@@ -7515,6 +7551,7 @@ Expresi
 Estrategia
 Evaluaci
 Eliminaci
+Existencia
 kernel
 kt
 kU
@@ -8257,6 +8294,9 @@ rango
 rewteets
 retweet
 redistribuir
+restrictivas
+rangos
+redistribuyen
 operacion
 orden
 operaciones
@@ -8602,6 +8642,8 @@ otpimizaciones
 operador
 obteni
 ordenadas
+ociosos
+optimizada
 nombre
 nuevo
 nica
@@ -9253,6 +9295,7 @@ vean
 viajando
 vrY
 vale
+variaci
 Application
 API
 Asigna
@@ -9608,6 +9651,7 @@ Abstracciones
 AWS
 Arbol
 Acceso
+Altura
 Programming
 Procesos
 Partes
@@ -10003,6 +10047,10 @@ Propviienen
 Pueden
 Pods
 Parser
+Proyectar
+Priorizar
+PostgreSQL
+Propagar
 Interface
 ID
 Instructions
@@ -10332,6 +10380,8 @@ Internet
 Item
 Interpolacion
 Implicitio
+Indices
+Inserci
 Un
 UNIX
 UBA
@@ -11129,6 +11179,9 @@ metadatos
 maxima
 minima
 movemos
+motores
+mantienen
+mantenga
 tien
 tiene
 todos
@@ -12099,6 +12152,10 @@ interpolante
 incodicionalmente
 ingerencia
 insertamos
+involucran
+intermedias
+indexar
+implementado
 fijo
 file
 fork
@@ -12489,6 +12546,7 @@ find
 futbol
 fuertemente
 fijamos
+facilitar
 Nombre
 Notas
 Not
@@ -12743,6 +12801,7 @@ Nace
 Nivel
 NodePort
 Neo
+Nodos
 File
 For
 Funcion
@@ -13839,6 +13898,8 @@ Momo
 Mom
 Masters
 Moore
+Mantenimiento
+Menor
 Table
 Todos
 This
@@ -14149,6 +14210,7 @@ Termina
 TrN
 Teng
 Translator
+Tama
 Realiza
 REgistrys
 Rango
@@ -14502,6 +14564,11 @@ RaV
 Runge
 Representa
 Rechazar
+Realizar
+Reemplazar
+Roman
+Ruben
+Redistribuir
 bien
 by
 be
@@ -15668,6 +15735,7 @@ OwZ
 Osi
 Operativo
 Optimizador
+Optimizacion
 ya
 yo
 yM
@@ -16150,6 +16218,7 @@ jaFzH
 justo
 jURgNd
 justificar
+juntas
 Ya
 Yourself
 YAGNI
@@ -16620,6 +16689,7 @@ Guardan
 Garantizaremos
 GKE
 Google
+Guarda
 BX
 Bit
 Box
@@ -17461,6 +17531,7 @@ HUT
 HYe
 Hashing
 HTML
+Heuristicas
 Jacobiano
 Job
 Jusitfique

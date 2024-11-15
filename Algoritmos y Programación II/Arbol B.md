@@ -62,6 +62,17 @@ El Árbol B+ es una variación del Árbol B, que se caracteriza por una estructu
 - Acceso a los datos más rápido y eficiente.
 - Las claves en los nodos hoja se mantienen ordenadas y conectadas.
 
+### Estructura de los nodos
+
+- **Tipos de nodos**: Árboles B+ tienen dos tipos de nodos: nodos internos y nodos hoja.
+- **Capacidad de los nodos**: La cantidad de claves que entran por nodo depende del tamaño del nodo y del tamaño de las claves a agregar al árbol.
+- **Nodos internos**:
+    - Contienen k claves y k + 1 punteros.
+    - Los punteros apuntan a nodos de un nivel inferior.
+- **Nodos hoja**:
+    - Contienen k claves y k + 1 punteros.
+    - k punteros corresponden a cada clave y un puntero extra apunta al siguiente nodo hoja en orden.
+
 ### Inserción
 
 1. **Buscar la posición adecuada**: Se sigue el mismo procedimiento de un árbol B para encontrar el nodo hoja adecuado.
@@ -80,4 +91,5 @@ El Árbol B+ es una variación del Árbol B, que se caracteriza por una estructu
 - **Menor profundidad** y acceso más eficiente, ya que los datos se mantienen en los nodos hoja.
 - **Acceso directo a los datos**, lo que simplifica las operaciones de búsqueda y recorrido.
 
-El árbol B+ es ampliamente utilizado en sistemas de bases de datos y sistemas de archivos debido a su eficiencia en operaciones de lectura y recorridos secuenciales.
+![[Pasted image 20241115192349.png]]
+Buscar a “Papu” implica leer la raíz, ir al puntero de la derecha (Papu > Mari), luego al del medio (Nito < Papu < Pepe) y ahí se llegó al bloque que contiene “Papu

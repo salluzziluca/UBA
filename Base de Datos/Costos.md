@@ -118,3 +118,8 @@ Las bases de datos mantienen cache de datos ya accedidos en memoria para ahorrar
 El costo real puede diferir del estimado. No es 100% acertado, igual sirve para elegir el metodo que deberia ser mas optimo 
 
 ### Seleccion
+#### File 
+La forma más sencilla de resolver una selección es recorrer bloque a bloque todos los datos de la tabla y evaluar fila a fila si se cumple o no la condición
+El costo es Cost(σc(R)) = B(R)
+
+#

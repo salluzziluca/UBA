@@ -5477,6 +5477,7 @@ agiliza
 adecuada
 adecuado
 actualicen
+altura
 hardware
 heap
 hay
@@ -10051,6 +10052,8 @@ Proyectar
 Priorizar
 PostgreSQL
 Propagar
+Papu
+Pepe
 Interface
 ID
 Instructions
@@ -12802,6 +12805,7 @@ Nivel
 NodePort
 Neo
 Nodos
+Nito
 File
 For
 Funcion
@@ -13900,6 +13904,7 @@ Masters
 Moore
 Mantenimiento
 Menor
+Mari
 Table
 Todos
 This

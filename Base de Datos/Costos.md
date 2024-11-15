@@ -93,7 +93,7 @@ Los motores suelen hacerlo con cierta periodicidad, o cuando están ociosos, o c
 
 ### Indices
 Se puede indexar los datos de una tabla por una o más expresiones
-El índice, generalmente implementado como un árbol B+, guardará para cada posible valor de las expresiones, en qué bloque o bloques hay filas con ese valor
+El índice, generalmente implementado como un ![[Algoritmos y Programación II/Arbol B#Arbol B+|Arbol B+]], guardará para cada posible valor de las expresiones, en qué bloque o bloques hay filas con ese valor
 Esto agiliza la búsqueda por esas expresiones
 - También búsquedas por rangos
 - En índices por varias expresiones, sólo agiliza en búsquedas que las usan en el orden definido

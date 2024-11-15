@@ -39,4 +39,8 @@ con una selección
 $σc( R X S ) = R ⨝c S$
 
 
-Distribución de la selección en la junta $σc( R ∗ S ) = σcR( R ) ∗ σcS( S )$ ○ Si la condición c puede escribirse como cR∧cS donde cR y cS involucran atributos sólo de R y S respectivamente
+Distribución de la selección en la junta $σc( R ∗ S ) = σcR( R ) ∗ σcS( S )$ 
+Si la condición c puede escribirse como $cR∧cS$ donde $cR$ y $cS$ involucran atributos sólo de R y S respectivamente
+
+Distribución de la proyección en la junta $πX( R ∗ S ) = πXR( R ) ∗ πXS( S )$ 
+Si todos los atributos de junta están contenidos en X, se construyen XR y XS como conjuntos que tienen los atributos de X que están en R o S respectivamente

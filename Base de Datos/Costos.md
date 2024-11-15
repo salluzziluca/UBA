@@ -73,3 +73,15 @@ depende de muchos factores
 - Existencia de índices
 - Memoria disponible
 Se estima el costo (lo cual tiene que ser mucho menos costoso que ejecutar la consulta)
+
+Para esto, tiene información sobre los datos de las tablas 
+Guarda estos metadatos en el catálogo}
+PostgreSQL usa la tabla pg_statistics y su vista pg_stats
+
+### Catálogo
+- n(R) : cantidad de filas de la tabla R
+- B(R) : cantidad de bloques que ocupa la tabla R
+- F(R) : (factor de bloque) cantidad de filas por bloque en la tabla R. Se puede calcular como n(R) / B(R)
+- V(A, R) : (variabilidad de A en R) cantidad de distintos valores que tiene el atributo A en la tabla R
+- También información sobre índices
+- Height(I(A,R)) : Altura del índice, para índices de tipo árbol

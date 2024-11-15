@@ -61,6 +61,9 @@ El Árbol B+ es una variación del Árbol B, que se caracteriza por una estructu
 - Los nodos hoja están enlazados mediante punteros para facilitar recorridos secuenciales.
 - Acceso a los datos más rápido y eficiente.
 - Las claves en los nodos hoja se mantienen ordenadas y conectadas.
+- El costo de usar el índice para buscar un valor está dado por 1
+	- La altura del índice (este costo es igual para cualquier clave buscada) 
+	- La cantidad de bloques en el que haya filas con el valor buscado (este costo depende del valor buscado) ■ En índices por claves candidatas este costo extra es 1
 
 ### Estructura de los nodos
 

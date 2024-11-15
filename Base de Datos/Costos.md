@@ -107,3 +107,6 @@ Algunos motores tienen la opción de hacer índices de clustering, en los cuales
 Mantener este tipo de indices es costoso ya que se reestructura el indicine y el archivo con lso datos ante ABMs
 Solo se puede hacer un indice de clustering por tabla 
 tambien agiliza consultas por rangos 
+
+## Costos de Operadores 
+Analizamos el costo de resolver cada operador por separado 

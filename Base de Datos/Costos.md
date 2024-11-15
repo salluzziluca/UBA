@@ -157,3 +157,5 @@ Si tenemos índices por ambos, podríamos acceder a los dos índices y a los dat
 Cuando los valores no tienen una distribución uniforme, la estimación de la fórmula vista no es buena 
 $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / V(A,R)⌉$
 Si estoy buscando clientes por país, quizás el 95 % de los clientes son de Argentina y el 0.1% de un país remoto
+
+La fórmula debería adaptarse ya que los costos son muy distintos ○ Probablemente no convenga Index Scan para Argentina

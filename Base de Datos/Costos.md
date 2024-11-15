@@ -130,3 +130,6 @@ Costo de acceder al índice por la clave de búsqueda v
 Costo de encontrar los N bloques que, según el índice indica, contienen filas con Ai = v
 
 sin clustering: $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / V(A,R)⌉$
+
+Si es de clusteriing, las filas van a estar en bloques contiguos: 
+$Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / (V(A,R) * F(R))⌉$ Equivalente a: $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈B(R) / V(A,R)⌉$

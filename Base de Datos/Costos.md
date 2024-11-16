@@ -197,4 +197,12 @@ La cantidad de bloques puede ser menor ya que la fila ocupa menos.
 
 Cuando el resultado no entra en memoria y hay que elimiar duplicados, con leer la tabla no alcanza. La ultima fila puede producir un valor que ya se envio en la primera fila
 Para resolver este problema, podemos primero ordenar la tabla por el atributo de proyección con un Sort externo 
-Esta operación tiene un costo mayor ○ En la última etapa, al leerse en forma ordenada los datos, se devuelve el primero de cada uno de ellos
+Esta operación tiene un costo mayor
+En la última etapa, al leerse en forma ordenada los datos, se devuelve el primero de cada uno de ellos
+
+
+#### Etapas 
+Tenemos M bloques de memoria disponibles 
+1. Primera etapa: Generamos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
+	1. 1 bloque de memoria lo usamos para acumular la salida 
+2.  Segunda etapa: Recorremos M-1 particiones ordenadas a la vez, y generamos una única partición con los datos ordenados de esas particiones (Merge)

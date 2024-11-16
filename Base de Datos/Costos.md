@@ -169,4 +169,12 @@ Para tonga, se usa la fórmula quitando los valores conocidos $Cost(σ Ai=v (R))
 
 
 #### Estimacion de al cardinalidad
-Se estima cuantas fiilas fueron devueltas por el operador. Si no se tiene el histograma se estiam la cardinalidad segun la varii
+Se estima cuantas fiilas fueron devueltas por el operador. Si no se tiene el histograma se estiam la cardinalidad segun la variabilidad $n(σ Ai=v (R)) = ⌈n(R) / V(A,R)⌉$
+
+Si se tiene histograma y se conoce el valor, se lo utiliza 
+Si se tiene histograma pero no se conoce el valor, se estima según la variabilidad
+En vez de n(R) se usa n(R) menos las frecuencias conocidas 
+A la variabilidad V(A,R) se le resta la cantidad de frecuencias conocidas
+
+Tambien se pueden querer saber la cantidad de bloques devueltos por el operador 
+$B(σ Ai=v (R)) = ⌈n(σ Ai=v (R)) / F(R)⌉$

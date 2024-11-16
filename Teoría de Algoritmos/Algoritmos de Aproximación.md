@@ -100,3 +100,11 @@ Esta metodología siempre encuentra un valor de la función objetivo mejor o igu
 
 
 ## Scheduling, aproximacion 
+
+El problema de elegir el más corto: quizás hay otros dos más largos que van mejor ¿Habrá una peor situación?
+Cada intervalo seleccionado por ser más corto, puede bloquear otros de la solución óptima. ¿Cuántos?
+1. Demostrar: un intervalo de la solución A choca como máximo con dos intervalos de la óptima O (contradicción)
+2. Cada intervalo en O puede estar también en A, o choca con un intervalo en A
+Contemos todos los intervalos de O según su relación con A.
+
+![[Pasted image 20241116172205.png]]

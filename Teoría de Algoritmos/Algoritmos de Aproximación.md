@@ -97,3 +97,6 @@ Esta metodología siempre encuentra un valor de la función objetivo mejor o igu
 
 
 ![[Pasted image 20241116171729.png]]
+
+
+## Scheduling, aproximacion 

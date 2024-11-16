@@ -1483,6 +1483,13 @@ catalogo
 citamente
 conectadas
 combinan
+clustering
+convenir
+clusteriing
+contiguos
+conjunci
+comience
+convenga
 de
 dispositivos
 del
@@ -2129,6 +2136,10 @@ divididas
 descendientes
 deep
 divisi
+diferir
+devolverlas
+devueltos
+disyunci
 gestion
 gran
 guarda
@@ -3092,6 +3103,8 @@ estima
 expl
 expresiones
 enlace
+estimaremos
+extenderse
 servicios
 son
 su
@@ -3694,6 +3707,8 @@ statistics
 stats
 squedas
 simplifica
+sicamente
+salvo
 par
 por
 punto
@@ -4401,6 +4416,8 @@ pipelining
 prefieren
 periodicidad
 permitidas
+probablemente
+previo
 la
 las
 le
@@ -4800,6 +4817,7 @@ limit
 lio
 logo
 llenas
+lso
 agnosticos
 apps
 al
@@ -5478,6 +5496,13 @@ adecuada
 adecuado
 actualicen
 altura
+ahorrarse
+acertado
+acotados
+aprovecharse
+asumamos
+aprovechado
+adaptarse
 hardware
 heap
 hay
@@ -6357,6 +6382,7 @@ usX
 uhjwef
 underflow
 usaremos
+uni
 System
 Son
 Source
@@ -6711,6 +6737,8 @@ START
 Sistema
 Service
 Services
+Seleccion
+Scan
 Calls
 Cmabia
 CPU
@@ -7167,6 +7195,9 @@ Conversi
 Costo
 Cat
 Contienen
+Clustering
+Costos
+Cost
 Es
 El
 Estos
@@ -8298,6 +8329,9 @@ redistribuir
 restrictivas
 rangos
 redistribuyen
+reestructura
+revisa
+remoto
 operacion
 orden
 operaciones
@@ -8645,6 +8679,7 @@ obteni
 ordenadas
 ociosos
 optimizada
+operadores
 nombre
 nuevo
 nica
@@ -9297,6 +9332,7 @@ viajando
 vrY
 vale
 variaci
+veremos
 Application
 API
 Asigna
@@ -9653,6 +9689,9 @@ AWS
 Arbol
 Acceso
 Altura
+Algunos
+ABMs
+Analizamos
 Programming
 Procesos
 Partes
@@ -10054,6 +10093,7 @@ PostgreSQL
 Propagar
 Papu
 Pepe
+Probablemente
 Interface
 ID
 Instructions
@@ -11185,6 +11225,7 @@ movemos
 motores
 mantienen
 mantenga
+mediremos
 tien
 tiene
 todos
@@ -12159,6 +12200,10 @@ involucran
 intermedias
 indexar
 implementado
+indicine
+igualdad
+igualmente
+indexado
 fijo
 file
 fork
@@ -13540,6 +13585,7 @@ Deployments
 Describe
 Describ
 Devolver
+Disyuncion
 Memoria
 Multivariada
 MORE
@@ -15741,6 +15787,7 @@ Osi
 Operativo
 Optimizador
 Optimizacion
+Operadores
 ya
 yo
 yM

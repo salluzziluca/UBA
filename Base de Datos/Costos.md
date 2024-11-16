@@ -184,7 +184,9 @@ $B(σ Ai=v (R)) = ⌈n(σ Ai=v (R)) / F(R)⌉$
 
 
 ## Proyeccion 
-Es importante saber si hay que eliminar o no duplicados. Si la consulta no tiene DISTINCT o si se proyecta por una superclave, no es necesario eliminar duplicados
+Es importante saber si hay que eliminar o no duplicados. Si la consulta no tiene DISTINCT o si se proyecta por una superclave, no es necesario eliminar duplicados. Costo $Cost(πx(R)) = B(R)$
+
+Si no hay que eliminar duplicados, hay que manteneros en memoria para saber si devolverlos o no. Si B(πx(R)) > memoria disponible, el costo deja de ser B(R
 
 
 

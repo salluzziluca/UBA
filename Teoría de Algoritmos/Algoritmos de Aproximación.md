@@ -77,3 +77,5 @@ asignar todos los precios en 0
 
 
 Esto nos permite poder ajustar los vértices y dejarlos pagos sin incurrir en costos de las aristas por encima de una cota, y en consecuencia, acotará también qué tan lejos está la solución de una solución óptima
+
+![[Pasted image 20241116165342.png]]

@@ -53,3 +53,10 @@ Lo que nos dejaría con una aproximación del máximo Independent Set de… Set 
 
 ### Pricing Method
 
+El Pricing Method como metodología utiliza esta perspectiva económica de precios para llegar a la solución por Aproximación. Veamosla para Vertex Cover
+
+Si las aristas son agentes de esta economía, debe haber algún tipo de idea que establezca qué precios son acordes (fairness) y están dispuestas a pagar, y qué precios serían excesivos (unfair)
+
+En este caso, los precio son acordes si, para cada vértice i, las aristas adyacentes a ese vértice no tienen que pagar más que el costo de ese vértice: 
+
+

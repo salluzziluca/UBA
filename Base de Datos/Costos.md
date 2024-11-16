@@ -186,7 +186,10 @@ $B(σ Ai=v (R)) = ⌈n(σ Ai=v (R)) / F(R)⌉$
 ## Proyeccion 
 Es importante saber si hay que eliminar o no duplicados. Si la consulta no tiene DISTINCT o si se proyecta por una superclave, no es necesario eliminar duplicados. Costo $Cost(πx(R)) = B(R)$. Y salen tantas filas comoi habia n(πX(R)) = n(R)
 
-Si no hay que eliminar duplicados, hay que manteneros en memoria para saber si devolverlos o no. Si B(πx(R)) > memoria disponible, el costo deja de ser B(R). Si cambia la cantidad de filas devueltas n(πA1(R)) = V(A1,R) o n(πA1,A2(R)) = V(A1,R) * V(A2,R) si no hay correlación entre los atributos
+Si no hay que eliminar duplicados, hay que manteneros en memoria para saber si devolverlos o no. Si B(πx(R)) > memoria disponible, el costo deja de ser B(R). Si cambia la cantidad de filas devueltas n(πA1(R)) = V(A1,R) o n(πA1,A2(R)) = V(A1,R) * V(A2,R) si no hay correlación entre los atributos.
+
+
+La cantidad de bloques puede ser menor ya que la fila ocupa menos 
 
 
 

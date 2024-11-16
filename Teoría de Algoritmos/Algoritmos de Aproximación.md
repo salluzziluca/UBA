@@ -66,3 +66,10 @@ La Metodología además nos provee una forma de medir qué tan buena es la Aprox
 ![[Pasted image 20241116164315.png]]
 
 Cuales solucion que uno puede plantear suma como maximo el valor del precio de las aristas
+
+asignar todos los precios en 0 
+- Mientras haya una arista uniendo dos vértices que no estén “pagos” 
+- seleccionar esa arista 
+- incrementar el precio de esa arista dentro de un precio acorde, no excesivo 
+- La solución S será el set de todos los vértices “pagos"
+

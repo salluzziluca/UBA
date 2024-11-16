@@ -225,6 +225,12 @@ Adaptamos la fórmula trabajando con el B(πX(R)) ○ Sumamos B(R) y restamos B(
 Para los tres casos, se debe trabajar con ambas tablas ordenadas 
 - Si no entran en memoria y hay que ordenarlas, usar un sort externo 
 - Al costo de ordenamiento se le suma grabar a disco la tabla ordenada 
-- Luego se leen ambas tablas en orden y se procesan las filas
-- $
+- Luego se leen ambas tablas en orden y se procesan las fila
 $Cost(R ∪|∩|- S) = Cost(OrdM(R)) + Cost(OrdM(S)) + 2 * (B(R) + B(S))$
+
+#### Union 
+Se recorren ordenadas las filas r y s de R y S
+Se deben devolver todas las filas 
+- Si r = s se devuelve una sola de ellas y se avanza sobre ambas tablas hasta que cambien 
+- Si son distintas, se devuelve la menor de ellas y se avanza en su tabla hasta que cambie 
+- Cuando se llega al final de una tabla, se devuelve todo lo que queda en la otra, sin duplicados

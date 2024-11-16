@@ -168,4 +168,5 @@ Para Argentina conviene $File Scan Cost(σ país='Argentina' (Clientes)) = 10,00
 Para tonga, se usa la fórmula quitando los valores conocidos $Cost(σ Ai=v (R)) = 3 + ⌈ 1,000 / 47 ⌉ = 3 + 22 = 25$
 
 
-####
+#### Estimacion de al cardinalidad
+Se estima cuantas fiilas fueron devueltas por el operador. Si no se tiene el histograma se estiam la cardinalidad segun la varii

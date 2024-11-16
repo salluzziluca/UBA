@@ -160,4 +160,7 @@ Si estoy buscando clientes por país, quizás el 95 % de los clientes son de Arg
 
 La fórmula debería adaptarse ya que los costos son muy distintos ○ Probablemente no convenga Index Scan para Argentina
 
-Para esto el SGBD mantiene histogramas con la frecuencia de los valores que tiene cada columna
+Para esto el SGBD mantiene histogramas con la frecuencia de los valores que tiene cada columna. A veces no todos, sino los N más frecuentes. Esto esutil para valores discretos y con repeticiones
+
+![[Pasted image 20241116111350.png]]
+De esa forma se que si voy a buscar clientes de tonga no voy a tener que calcular el costo con 100000

@@ -166,3 +166,6 @@ Para esto el SGBD mantiene histogramas con la frecuencia de los valores que tien
 Para Brasil, se accederan a 1,000 bloques ya que el histograma nos dice que mil filas son de brasil $Cost(σ país='Brasil' (Clientes)) = 3 + 1000 = 1003$ 
 Para Argentina conviene $File Scan Cost(σ país='Argentina' (Clientes)) = 10,000$ 
 Para tonga, se usa la fórmula quitando los valores conocidos $Cost(σ Ai=v (R)) = 3 + ⌈ 1,000 / 47 ⌉ = 3 + 22 = 25$
+
+
+####

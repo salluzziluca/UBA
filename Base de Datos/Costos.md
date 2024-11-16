@@ -221,3 +221,10 @@ Adaptamos la fórmula trabajando con el B(πX(R)) ○ Sumamos B(R) y restamos B(
 
 
 ## Costos de Operadores de Conjunto
+
+Para los tres casos, se debe trabajar con ambas tablas ordenadas 
+- Si no entran en memoria y hay que ordenarlas, usar un sort externo 
+- Al costo de ordenamiento se le suma grabar a disco la tabla ordenada 
+- Luego se leen ambas tablas en orden y se procesan las filas
+- $
+$Cost(R ∪|∩|- S) = Cost(OrdM(R)) + Cost(OrdM(S)) + 2 * (B(R) + B(S))$

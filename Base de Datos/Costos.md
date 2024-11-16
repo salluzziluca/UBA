@@ -163,4 +163,6 @@ La fórmula debería adaptarse ya que los costos son muy distintos ○ Probablem
 Para esto el SGBD mantiene histogramas con la frecuencia de los valores que tiene cada columna. A veces no todos, sino los N más frecuentes. Esto esutil para valores discretos y con repeticiones
 
 ![[Pasted image 20241116111350.png]]
-De esa forma se que si voy a buscar clientes de tonga no voy a tener que calcular el costo con 100000
+Para Brasil, se accederan a 1,000 bloques ya que el histograma nos dice que mil filas son de brasil $Cost(σ país='Brasil' (Clientes)) = 3 + 1000 = 1003$ 
+Para Argentina conviene $File Scan Cost(σ país='Argentina' (Clientes)) = 10,000$ 
+Para tonga, se usa la fórmula quitando los valores conocidos $Cost(σ Ai=v (R)) = 3 + ⌈ 1,000 / 47 ⌉ = 3 + 22 = 25$

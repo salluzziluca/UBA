@@ -38,3 +38,7 @@ Para cada Vértice se define el subconjunto del Vértice como todas las aristas 
 Set Cover encuentra la forma de cubrir todos los elementos. Los Subsets de aristas encontrados son los vértices a utilizar
 
 Esta aproximación nos da una solución como mucho H(d) veces el óptimo para el Problema de Vertex Cover
+
+### Independent set
+
+Si encuentro un Vertex Cover, es cierto que el complemento (todos los vértices que no utilizo) es un Independent Set

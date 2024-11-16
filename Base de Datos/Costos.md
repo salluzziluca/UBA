@@ -178,3 +178,11 @@ A la variabilidad V(A,R) se le resta la cantidad de frecuencias conocidas
 
 Tambien se pueden querer saber la cantidad de bloques devueltos por el operador 
 $B(σ Ai=v (R)) = ⌈n(σ Ai=v (R)) / F(R)⌉$
+
+>[!example] F(Clientes): 100,000 / 10,000 = 10 (Entran 10 filas por bloque)  Para Brasil y Argentina se usa el histograma para la cardinalidad n(σ país='Brasil' (Clientes)) = 1,000 (usa 100 bloques) n(σ país='Argentina' (Clientes)) = 95,000 (usa 9,500 bloques) ●
+>[!example] Para tonga, se estima quitando los valores conocidos n(σ país='Tonga' (Clientes)) = ⌈ (100,000 - 99,000) / (50 - 3) ⌉ n(σ país='Tonga' (Clientes)) = ⌈ 1,000 / 47 ⌉ = 22 (usa 3 bloques)
+
+
+
+
+

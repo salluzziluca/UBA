@@ -94,3 +94,6 @@ Relajo y lso valores pueden estar entre 0 y 1 en vez de ser 0 o 1
 
 ![[Pasted image 20241116171007.png]]
 Esta metodología siempre encuentra un valor de la función objetivo mejor o igual a la solución óptima de Vertex Cover
+
+
+![[Pasted image 20241116171729.png]]

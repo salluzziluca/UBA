@@ -249,3 +249,4 @@ Se deben devolver las filas que están sólo en r
 - Si r < s se devuelve r y se avanza R hasta que cambie de valor 
 - Si termina R, se finaliza el algoritmo 
 - Si termina S, se devuelven todos los r restantes, sin repetidos, y se termina el algoritmo
+### Cardinalidad y bloques

@@ -82,3 +82,11 @@ Esto nos permite poder ajustar los vértices y dejarlos pagos sin incurrir en co
 
 
 ### Programación Lineal
+
+Podemos decir que cada xi vale 1 si pertenece al Vertex Cover, 0 si no
+Esto no es Programación Lineal
+Esto es Programación Entera
+Se trata de un problema similar, donde las variables solamente pueden tomar
+valores enteros
+Y resulta que para este problema, no hemos encontrado soluciones en tiempo
+polinomial. Lo cual es razonable, ya que acabamos de hacer una reducción

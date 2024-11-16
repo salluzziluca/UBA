@@ -41,4 +41,15 @@ Esta aproximación nos da una solución como mucho H(d) veces el óptimo para el
 
 ### Independent set
 
-Si encuentro un Vertex Cover, es cierto que el complemento (todos los vértices que no utilizo) es un Independent Set
+Si encuentro un Vertex Cover, es cierto que el complemento (todos los vértices que no utilizo) es un Independent Set. Ajustando todos los pesos a 1, por lo tanto:
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdgt1brThw0HiIfw47bAUfv28vOxfgf5i3gtJuF6JtVAfydNBFY2TRYLQJJbnRNld3imdV6awPiqz6Tmw6Wo_agpUx5PU1se2axTv9ibl4TEndW8cPk8l8AdYnQOZp1V3L0y9fs-54np4pdQpvm4yxeSLuM9RhW=s2048?key=mdz1rszErP6Jo6syDALanw)**
+
+Nos gustaría aprovechar la solución de Vertex Cover para resolver Independent Set
+Imaginemos un Grafo que tiene la misma cantidad, |V|/2 vértices que pertenecen al Vertex Cover, y |V|/2 vértices que forman el máximo Independent Set
+Sucede que dado el margen de error de la aproximación de Vertex Cover, perfectamente podría ocurrir que el Vertex Cover obtenido sea todos los vértices V
+
+Lo que nos dejaría con una aproximación del máximo Independent Set de… Set Vacío
+
+### Pricing Method
+

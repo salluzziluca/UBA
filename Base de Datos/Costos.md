@@ -213,3 +213,8 @@ La cantidad total de etapas está dada por logM-1(B(R))
 - De 3 a 9 bloques: Primera etapa y 1 pasada de merge 
 - 10 a 27 bloques: Primera etapa y 2 pasadas de merge  Siempre se escribe y lee B(R) salvo en la última etapa que sólo se lee 
 - Definimos un costo de ordenamiento basado en M bloques de memoria: $Cost(OrdM(R)) = 2 * B(R) * ⌈logM-1(B(R))⌉ - B(R)$
+
+
+
+Para resolver la proyección con sort externo, salvo la primera lectura, no se trabaja con toda la fila ○ Se trabaja con las columnas proyectadas ○ Tienen un B(πX(R)) < B(R) 
+Adaptamos la fórmula trabajando con el B(πX(R)) ○ Sumamos B(R) y restamos B(πX(R)) para compensar $Cost(B(πX(R))) = 2*B(πX(R)) * ⌈logM-1(B(πX(R)))⌉ - 2*B(πX(R)) + B(R)$

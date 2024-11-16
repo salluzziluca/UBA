@@ -14,4 +14,4 @@ Dada una asignación A(i) para la Máquina i, su tiempo de trabajo es
 Y queremos encontrar la asignación que minimice el máx valor de Ti, que también representa el tiempo que se tardará en finalizar todos los trabajos
 El Problema de Balanceo de Carga es NP-difícil
 
-
+ordenando los trabajos de mayor a menor y dandole cada trabajo al que menos tiempo asignado tenga funciona 

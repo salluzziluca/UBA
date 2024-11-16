@@ -250,3 +250,8 @@ Se deben devolver las filas que están sólo en r
 - Si termina R, se finaliza el algoritmo 
 - Si termina S, se devuelven todos los r restantes, sin repetidos, y se termina el algoritmo
 ### Cardinalidad y bloques
+
+Estimar la cardinalidad es difícil ya que no se conoce la cardinalidad de la intersección 
+- En la unión, deberia restarse de n(R) + n(S) 
+- En la resta debería restarse de n(R) 
+El factor F(R) se mantiene, con lo que si se supiera la cardinalidad se puede calcular la cantidad de bloques

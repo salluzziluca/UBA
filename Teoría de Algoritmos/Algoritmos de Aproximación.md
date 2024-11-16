@@ -27,3 +27,12 @@ Ese trabajo debe tener índice mayor o igual a m+1, porque los primeros m trabaj
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcF7xThz3s-sTgYUwuRoZfc4SxuYDVZQvvrTDihAI7o9OTHi2CqBHUC6ZZbC5NnrJ1lVCzTqCsX448OSI3y2Ln53g2bp0zQEK-bqXrqPzhRiMoPL1TaLBpRuKjvpXHyZ7Z86fE5kz7QPt9Ulngz56dtF1quXBH8=s2048?key=mdz1rszErP6Jo6syDALanw)**
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdFRGoB5Glv5tVG5PYGiqUAevAeDqtXCC2w-Cje_3f98XWSPEQtMm90ELhqBl85-x_kWguzRCyAYu_LyNnjVqY4OoHvldR-d0ciy_VtOG59Vw9iQUslMi1P95AyDCZHXwGXcK0k5XwdHX7fuV3ARg394MSkb0o=s2048?key=mdz1rszErP6Jo6syDALanw)**
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcZb2pIPW5efkKyKHsi1DkVGG8BCYve8_6SET6dT0JwBP9YEJluafYTxwNLfoQQeP8pMZdDv4o0KPFv1jtBscr3DFPV3PWArNEwkWvXFnddlXECbXbYlgggW_f2LKH9I4HpGARiAm7lzAIy9pYQe4nFF-6XTObM=s2048?key=mdz1rszErP6Jo6syDALanw)**
+
+
+## Vertex Cover: Rduccion 
+
+Busco convertir la entrada de vertex cover a la entrada de ser cover. 
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcOt8Eir5zkiX9WYGzxmEycJQdffmb_6XvXBIHBnGB8m5TWOPDUkjXIOpecxjNdzNTa3R65xmRaOZoePqVAKKICzGfC0ICK2JocydlVfe8IA7ktfeShRfr2Te-pd8zY98iIwQ36auihZvl7L5j5T-p5D2VkQAu8=s2048?key=mdz1rszErP6Jo6syDALanw)**
+Para cada Vértice se define el subconjunto del Vértice como todas las aristas que inciden al Vértice. Queremos encontrar una cobertura de E, todas las aristas.
+
+Set Cover encuentra la forma de cubrir todos los elementos. Los Subsets de aristas encontrados son los vértices a utilizar

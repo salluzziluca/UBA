@@ -195,5 +195,6 @@ La cantidad de bloques puede ser menor ya que la fila ocupa menos.
 
 ### Sort Externo
 
-
-
+Cuando el resultado no entra en memoria y hay que elimiar duplicados, con leer la tabla no alcanza. La ultima fila puede producir un valor que ya se envio en la primera fila
+Para resolver este problema, podemos primero ordenar la tabla por el atributo de proyección con un Sort externo 
+Esta operación tiene un costo mayor ○ En la última etapa, al leerse en forma ordenada los datos, se devuelve el primero de cada uno de ellos

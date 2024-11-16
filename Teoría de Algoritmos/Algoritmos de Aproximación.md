@@ -73,4 +73,7 @@ asignar todos los precios en 0
 - incrementar el precio de esa arista dentro de un precio acorde, no excesivo 
 - La solución S será el set de todos los vértices “pagos"
 
-![[Pasted image 20241116164943.png]]
+![[Pasted image 20241116164943.png]]No parece justo (“fair”) que una arista pague por ambos de sus vértices. Pero esta “unfairness” es acotada, como mucho a cada arista se le cobra dos veces.
+
+
+Esto nos permite poder ajustar los vértices y dejarlos pagos sin incurrir en costos de las aristas por encima de una cota, y en consecuencia, acotará también qué tan lejos está la solución de una solución óptima

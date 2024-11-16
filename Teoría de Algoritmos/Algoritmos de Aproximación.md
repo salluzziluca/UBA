@@ -62,3 +62,7 @@ En este caso, los precio son acordes si, para cada vértice i, las aristas adyac
 La Metodología además nos provee una forma de medir qué tan buena es la Aproximación. Para cualquier solución S*, veamos si podemos ajustar la suma de los pesos utilizados:
 
 ![[Pasted image 20241116163932.png]]Si unvertice cuesta 10 no puede ser que todas las aritas para llegar ahi sumen mas que ese precio
+
+![[Pasted image 20241116164315.png]]
+
+Cuales solucion que uno puede plantear suma como maximo el valor del precio de las aristas

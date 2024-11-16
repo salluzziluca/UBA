@@ -88,3 +88,9 @@ Esto no es Programación Lineal. Esto es Programación Entera
 Se trata de un problema similar, donde las variables solamente pueden tomar valores enteros
 Y resulta que para este problema, no hemos encontrado soluciones en tiempo polinomial. Lo cual es razonable, ya que acabamos de hacer una reducción
 ![[Pasted image 20241116170052.png]]
+
+
+Relajo y lso valores pueden estar entre 0 y 1 en vez de ser 0 o 1
+
+![[Pasted image 20241116171007.png]]
+Esta metodología siempre encuentra un valor de la función objetivo mejor o igual a la solución óptima de Vertex Cover

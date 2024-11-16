@@ -36,3 +36,5 @@ Busco convertir la entrada de vertex cover a la entrada de ser cover.
 Para cada Vértice se define el subconjunto del Vértice como todas las aristas que inciden al Vértice. Queremos encontrar una cobertura de E, todas las aristas.
 
 Set Cover encuentra la forma de cubrir todos los elementos. Los Subsets de aristas encontrados son los vértices a utilizar
+
+Esta aproximación nos da una solución como mucho H(d) veces el óptimo para el Problema de Vertex Cover

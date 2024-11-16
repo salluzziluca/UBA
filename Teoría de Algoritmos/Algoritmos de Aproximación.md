@@ -73,3 +73,4 @@ asignar todos los precios en 0
 - incrementar el precio de esa arista dentro de un precio acorde, no excesivo 
 - La solución S será el set de todos los vértices “pagos"
 
+![[Pasted image 20241116164943.png]]

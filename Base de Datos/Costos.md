@@ -189,7 +189,8 @@ Es importante saber si hay que eliminar o no duplicados. Si la consulta no tiene
 Si no hay que eliminar duplicados, hay que manteneros en memoria para saber si devolverlos o no. Si B(πx(R)) > memoria disponible, el costo deja de ser B(R). Si cambia la cantidad de filas devueltas n(πA1(R)) = V(A1,R) o n(πA1,A2(R)) = V(A1,R) * V(A2,R) si no hay correlación entre los atributos.
 
 
-La cantidad de bloques puede ser menor ya que la fila ocupa menos 
+La cantidad de bloques puede ser menor ya que la fila ocupa menos.
+![[Pasted image 20241116112516.png]]
 
 
 

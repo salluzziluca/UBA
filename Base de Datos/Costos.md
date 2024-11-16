@@ -206,3 +206,6 @@ Tenemos M bloques de memoria disponibles
 1. Primera etapa: Generamos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
 	1. 1 bloque de memoria lo usamos para acumular la salida 
 2.  Segunda etapa: Recorremos M-1 particiones ordenadas a la vez, y generamos una única partición con los datos ordenados de esas particiones (Merge)
+
+####  Costo 
+La cantidad total de etapas está dada por logM-1(B(R)) ○ Hasta 3 bloques: Solo primera etapa (sort interno) ○ De 3 a 9 bloques: Primera etapa y 1 pasada de merge ○ 10 a 27 bloques: Primera etapa y 2 pasadas de merge ● Siempre se escribe y lee B(R) salvo en la última etapa que sólo se lee ● Definimos un costo de ordenamiento basado en M bloques de memoria: Cost(OrdM(R)) = 2 * B(R) * ⌈logM-1(B(R))⌉ - B(R)

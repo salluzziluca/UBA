@@ -234,3 +234,18 @@ Se deben devolver todas las filas
 - Si r = s se devuelve una sola de ellas y se avanza sobre ambas tablas hasta que cambien 
 - Si son distintas, se devuelve la menor de ellas y se avanza en su tabla hasta que cambie 
 - Cuando se llega al final de una tabla, se devuelve todo lo que queda en la otra, sin duplicados
+#### Interseccion 
+Se recorren ordenadas las filas r y s de R y S 
+Se deben devolver las filas que están en ambas 
+- Si r = s se devuelve una sola de ellas y se avanza sobre ambas tablas hasta que cambien 
+- Si son distintas, se avanza la tabla de la que tiene el menor valor hasta que cambie, sin devolver nada 
+- Cuando se llega al final de una tabla, se termina el algoritmo
+
+#### Resta 
+Se recorren ordenadas las filas r y s de R y S 
+Se deben devolver las filas que están sólo en r 
+- Si r = s se avanza sobre ambas tablas hasta que cambien de valor, sin devolver nada 
+- Si r > s se avanza la tabla S hasta que cambie de valor 
+- Si r < s se devuelve r y se avanza R hasta que cambie de valor 
+- Si termina R, se finaliza el algoritmo 
+- Si termina S, se devuelven todos los r restantes, sin repetidos, y se termina el algoritmo

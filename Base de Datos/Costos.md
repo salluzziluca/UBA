@@ -193,7 +193,7 @@ La cantidad de bloques puede ser menor ya que la fila ocupa menos.
 ![[Pasted image 20241116112516.png]]
 
 
-
+### Sort Externo
 
 
 

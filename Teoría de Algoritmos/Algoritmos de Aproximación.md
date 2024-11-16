@@ -19,3 +19,8 @@ Si m >= n, Greedy es siempre óptimo
 Si n > m, para estos trabajos en orden, los primeros m+1 trabajos cuestan lo mismo o más que el trabajo m+1. Cualquier solución óptima debe asignar dos de esos trabajos a la misma máquina (demostrable por palomas y nidos)
 
 cota de solucion optima ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeJojid2iyqx4FwYUhMuhf8KMq6KvbrpbCgEA_euYHI0yQdhWL5gF7Y9LQV1ytQyFa4uv5QwPwBD7bkh09I6GUVRPMVKNKJWLZsk5KClnRk2mAuDWTiDZFlcrsa1QdQa3LVdUso-CpA4RIoBklKLc4eHjtqrl0=s2048?key=mdz1rszErP6Jo6syDALanw)
+
+Una de nuestras Máquinas en T tuvo más carga que cualquier otra, ¿cómo?
+Habrá habido un último trabajo tj en ser colocado en esa máquina
+Ese trabajo debe tener índice mayor o igual a m+1, porque los primeros m trabajos se asignan a máquinas distintas, entonces
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf-xXIpOnVUVOakN7E_lEcaLLA6tCpY0oHA0pNJ_O0BvLoJAtMMo6FraQXaOjp108_jFUUrN5XV-jMJu1rQUUOF8BndONuEUX63bNb4D9NZeCWsCcxe_hMhVYRkhGMDjSJPf-02NScVCYHJrpNnMGnRgDUfdkxu=s2048?key=mdz1rszErP6Jo6syDALanw)**

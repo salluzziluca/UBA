@@ -184,6 +184,7 @@ $B(σ Ai=v (R)) = ⌈n(σ Ai=v (R)) / F(R)⌉$
 
 
 ## Proyeccion 
+Es importante saber si hay que eliminar o no duplicados. Si la consulta no tiene DISTINCT o si se proyecta por una superclave, no es necesario eliminar duplicados
 
 
 

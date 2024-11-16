@@ -218,3 +218,6 @@ La cantidad total de etapas está dada por logM-1(B(R))
 
 Para resolver la proyección con sort externo, salvo la primera lectura, no se trabaja con toda la fila ○ Se trabaja con las columnas proyectadas ○ Tienen un B(πX(R)) < B(R) 
 Adaptamos la fórmula trabajando con el B(πX(R)) ○ Sumamos B(R) y restamos B(πX(R)) para compensar $Cost(B(πX(R))) = 2*B(πX(R)) * ⌈logM-1(B(πX(R)))⌉ - 2*B(πX(R)) + B(R)$
+
+
+## Costos de Operadores de Conjunto

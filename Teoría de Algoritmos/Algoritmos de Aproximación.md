@@ -60,3 +60,4 @@ Si las aristas son agentes de esta economía, debe haber algún tipo de idea que
 En este caso, los precio son acordes si, para cada vértice i, las aristas adyacentes a ese vértice no tienen que pagar más que el costo de ese vértice: 
 
 
+![[Pasted image 20241116163932.png]]Si unvertice cuesta 10 no puede ser que todas las aritas para llegar ahi sumen mas que ese precio

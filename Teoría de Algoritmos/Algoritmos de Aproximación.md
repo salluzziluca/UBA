@@ -112,4 +112,6 @@ Contemos todos los intervalos de O según su relación con A.
 
 ## Metodologia 4: Programacion dinamica y rendondeos
 
-Ya vimos que si asumimos P!=NP, todos los algoritmos NP-Completos son equic
+Ya vimos que si asumimos P!=NP, todos los algoritmos NP-Completos son equivalentes a la hora de obtener una solucion optima en tiempo polinomial. 
+No es asi a la hora de obtener soluciones aproximadas. En el caso de Set Cover la aproximacion que vimos fue probada de estar muy cerca a la mejor posible. 
+la de vertex cover es la mejor que se conoce 

@@ -163,4 +163,4 @@ Nuestra solución original al problema de la mochila hace depender a los subprob
 Buscamos una versión que funcione bien para valores relativamente pequeños, independientemente de la capacidad de la mochila
 Deberíamos condicionar los subproblemas no a la capacidad y los pesos, sino a los Valores
 
-Guardamos en OPT(i, V) usando losi primeros i elementos 
+Guardamos en OPT(i, V) usando losi primeros i elementos para alcanzar el valor de V. 

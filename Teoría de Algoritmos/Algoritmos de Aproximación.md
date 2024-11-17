@@ -123,4 +123,6 @@ NP-Dificil
 
 Tenemos una mochila con capacidad W. Cada elemento tiene peso y valor. Queremos maximizar el valor sin pasarnos de W. 
 
-Se agrega un parametro de aproximacion $\varepsilon$ 
+Se agrega un parametro de aproximacion $\varepsilon$, esta va a ser nuestra medida de precision. La solucion deberia entregar elementos que no superen W y una suma de valores como mucho $1+\varepsilon$ de distancia al optimo. 
+
+El algoritmo corre polinomia,mente par aun valor dijo de $\varepsilon$

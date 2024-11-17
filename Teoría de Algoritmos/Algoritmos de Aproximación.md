@@ -198,4 +198,6 @@ Ahora queremos demostrar que la solucion aproximada no se aleja $1+\varepsilon$ 
 
 ## Maximizar sumatoria 
 
-Dado un un limite W y un conjuntod e valores enteros V. se busca un subconjunto de V que maximice la 
+Dado un un limite W y un conjuntod e valores enteros V. se busca un subconjunto de V que maximice la sumatoria de valores  sin exceder W. 
+
+Greedy: agregar como vienen siempre y cuando no se pasen. 

@@ -125,4 +125,4 @@ Tenemos una mochila con capacidad W. Cada elemento tiene peso y valor. Queremos 
 
 Se agrega un parametro de aproximacion $\varepsilon$, esta va a ser nuestra medida de precision. La solucion deberia entregar elementos que no superen W y una suma de valores como mucho $1+\varepsilon$ de distancia al optimo. 
 
-El algoritmo corre polinomia,mente par aun valor dijo de $\varepsilon$
+El algoritmo corre polinomia,mente par aun valor dijo de $\varepsilon$, pero muestra un crecimiento exponencial a medida se disminuye ε

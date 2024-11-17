@@ -578,6 +578,7 @@ LIK
 Linea
 Load
 Lagrange
+Lineal
 capa
 controlado
 cantidad
@@ -1490,6 +1491,15 @@ contiguos
 conjunci
 comience
 convenga
+cuestan
+colocado
+convertir
+cubrir
+complemento
+cuesta
+cobra
+choca
+contradicci
 de
 dispositivos
 del
@@ -2140,6 +2150,12 @@ diferir
 devolverlas
 devueltos
 disyunci
+demostrable
+demostrar
+desea
+dandole
+dispuestas
+dejarlos
 gestion
 gran
 guarda
@@ -2445,6 +2461,9 @@ guarden
 gGTEvC
 global
 guiar
+grantiza
+greedy
+gustar
 especifico
 entra
 en
@@ -3105,6 +3124,13 @@ expresiones
 enlace
 estimaremos
 extenderse
+encontrados
+econ
+econom
+establezca
+excesivos
+excesivo
+encima
 servicios
 son
 su
@@ -3709,6 +3735,7 @@ squedas
 simplifica
 sicamente
 salvo
+situaci
 par
 por
 punto
@@ -4418,6 +4445,13 @@ periodicidad
 permitidas
 probablemente
 previo
+ptima
+palomas
+perspectiva
+precios
+precio
+pagos
+pague
 la
 las
 le
@@ -4818,6 +4852,8 @@ lio
 logo
 llenas
 lso
+lejos
+largos
 agnosticos
 apps
 al
@@ -5503,6 +5539,14 @@ aprovecharse
 asumamos
 aprovechado
 adaptarse
+ados
+aproximaci
+agentes
+acordes
+adem
+acorde
+acotar
+acabamos
 hardware
 heap
 hay
@@ -5830,6 +5874,8 @@ hashtag
 hashtags
 hermano
 hermanos
+habido
+hemos
 que
 queda
 quien
@@ -6383,6 +6429,10 @@ uhjwef
 underflow
 usaremos
 uni
+unfair
+unvertice
+uniendo
+unfairness
 System
 Son
 Source
@@ -6739,6 +6789,8 @@ Service
 Services
 Seleccion
 Scan
+Subsets
+Sucede
 Calls
 Cmabia
 CPU
@@ -7198,6 +7250,10 @@ Contienen
 Clustering
 Costos
 Cost
+Cualquier
+Cover
+Cuales
+Contemos
 Es
 El
 Estos
@@ -7584,6 +7640,7 @@ Estrategia
 Evaluaci
 Eliminaci
 Existencia
+Entera
 kernel
 kt
 kU
@@ -8332,6 +8389,8 @@ redistribuyen
 reestructura
 revisa
 remoto
+razonable
+reducci
 operacion
 orden
 operaciones
@@ -8680,6 +8739,8 @@ ordenadas
 ociosos
 optimizada
 operadores
+ordenando
+obtenido
 nombre
 nuevo
 nica
@@ -8987,6 +9048,8 @@ nube
 native
 ntica
 nima
+nidos
+ntos
 via
 vuelve
 viven
@@ -9333,6 +9396,7 @@ vrY
 vale
 variaci
 veremos
+veamos
 Application
 API
 Asigna
@@ -9692,6 +9756,8 @@ Altura
 Algunos
 ABMs
 Analizamos
+Ajustando
+Aproximaci
 Programming
 Procesos
 Partes
@@ -10094,6 +10160,7 @@ Propagar
 Papu
 Pepe
 Probablemente
+Pricing
 Interface
 ID
 Instructions
@@ -10425,6 +10492,7 @@ Interpolacion
 Implicitio
 Indices
 Inserci
+Imaginemos
 Un
 UNIX
 UBA
@@ -11226,6 +11294,7 @@ motores
 mantienen
 mantenga
 mediremos
+metodolog
 tien
 tiene
 todos
@@ -11662,6 +11731,8 @@ trafico
 telef
 tweets
 tuits
+trabajos
+tuvo
 inico
 interna
 infro
@@ -12204,6 +12275,8 @@ indicine
 igualdad
 igualmente
 indexado
+inconseguible
+incurrir
 fijo
 file
 fork
@@ -12595,6 +12668,8 @@ futbol
 fuertemente
 fijamos
 facilitar
+forman
+fairness
 Nombre
 Notas
 Not
@@ -13586,6 +13661,8 @@ Describe
 Describ
 Devolver
 Disyuncion
+Dadas
+Demostrar
 Memoria
 Multivariada
 MORE
@@ -13951,6 +14028,7 @@ Moore
 Mantenimiento
 Menor
 Mari
+Metodolog
 Table
 Todos
 This
@@ -14620,6 +14698,8 @@ Reemplazar
 Roman
 Ruben
 Redistribuir
+Rduccion
+Relajo
 bien
 by
 be
@@ -15005,6 +15085,7 @@ blica
 brindarian
 bajan
 borramos
+balanceada
 will
 words
 with
@@ -15532,6 +15613,8 @@ VkY
 Velocidad
 Vandermonde
 Viva
+Vertex
+Veamosla
 OPTIONS
 Operativos
 Orden
@@ -16742,6 +16825,7 @@ Garantizaremos
 GKE
 Google
 Guarda
+Greedy
 BX
 Bit
 Box
@@ -17077,6 +17161,7 @@ BasicAvailability
 Brl
 Balancer
 Billy
+Balanceo
 XY
 Xg
 XQG
@@ -17584,6 +17669,7 @@ HYe
 Hashing
 HTML
 Heuristicas
+Habr
 Jacobiano
 Job
 Jusitfique
@@ -18110,6 +18196,7 @@ QkTS
 QQAy
 Quorum
 QpJg
+Queremos
 ximo
 xito
 xitos

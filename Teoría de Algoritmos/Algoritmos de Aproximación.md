@@ -134,3 +134,5 @@ Al momento en que definimos un valor de ε que haga que la solución sea la ópt
 
 
 Por PD la mochila se resuelve en O(nW), con una dependencia pseudo polinomial sobre W.
+
+Con un W y peso chicos, es rapido aunque los valores sean muy 

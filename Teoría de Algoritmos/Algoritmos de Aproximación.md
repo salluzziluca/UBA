@@ -219,5 +219,12 @@ Si aplicamos a que lo mejor que podemos hacer es W/2 por paso, podríamos decir 
 
 
 ## Independent Set
+Dado el siguiente grafo, donde cada nodo tiene un peso w(v), se desea maximizar la sumatoria de pesos de un Independent Set
+Dar un Algoritmo Greedy para aproximar la solución al problema
+Mostrar que cualquier vértice: 
+- o es parte de la solución
+- o tiene peso menor a un adyacente en esta solución
+Analizar qué tan buena es la aproximación
+
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcMiOJ2saRrVc1NPLWqTP7ZSIhh_xpEJ9khrxTZ7Umk0uiikxNV0AMK9xQP6mghiJqB6xfSLxpq2RZf0ed36Am9cX5p5fYvWzFJvJ_nsuhoA_1OcUYy_fwArghZmcpYqPRU_ige6gskM0t3qqF-JbZPQAsKgCJ5=s2048?key=vSCnIklsR08rHzZ-vlAHQQ)**

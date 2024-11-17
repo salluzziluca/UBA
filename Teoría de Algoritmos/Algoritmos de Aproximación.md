@@ -154,4 +154,5 @@ Todos son multiplos de b, se pueden didividir por b.
 Encontrar una solucion optima para los valores reescalados al dividir por B es una solucion equivalente al problema con los valores aproximados.
 
 los elementos con peso mayor a W los omitimos. Asumimos que $\varepsilon^{-1}$ es entero
-$$b = ε/(2n) * max \v_{i}$$
+$$b = ε/(2n) * max \ v_{i}$$
+Resolvemos el problema con todos los valores reescalados (divididos) por b. 

@@ -151,4 +151,6 @@ Queremos redondear todos los valores para acercarse un múltiplo de b
 La aproximacion esta a una distancia no mayor que b. 
 Todos son multiplos de b, se pueden didividir por b. 
 
-Encontrar una solucion optima para los valores reescalados al dividir por B es una solucion equivalente 
+Encontrar una solucion optima para los valores reescalados al dividir por B es una solucion equivalente al problema con los valores aproximados.
+
+los elementos con peso mayor

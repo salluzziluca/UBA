@@ -218,4 +218,4 @@ Por la ley de Aquiles y la Tortuga, no llegaremos nunca al óptimo pero vamos a 
 Si aplicamos a que lo mejor que podemos hacer es W/2 por paso, podríamos decir que es una 2-n(2n - 1)-aproximación?
 
 
-## 
+## balanceo de carga nuevamente

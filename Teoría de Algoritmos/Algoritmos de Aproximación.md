@@ -12,10 +12,10 @@ Dada una asignación A(i) para la Máquina i, su tiempo de trabajo es
 
 
 Y queremos encontrar la asignación que minimice el máx valor de Ti, que también representa el tiempo que se tardará en finalizar todos los trabajos
-El Problema de Balanceo de Carga es NP-difícil
-### greedy
+El Problema de Balanceo de Carga es [[NP (nondetherministic polynomial)|NP]]-difícil
+### [[Algoritmos Greedy|greedy]]
 ordenando los trabajos de mayor a menor y dandole cada trabajo al que menos tiempo asignado tenga funciona hasta ahi 
-Si m >= n, Greedy es siempre óptimo
+Si m >= n, [[Algoritmos Greedy|Greedy]] es siempre óptimo
 Si n > m, para estos trabajos en orden, los primeros m+1 trabajos cuestan lo mismo o más que el trabajo m+1. Cualquier solución óptima debe asignar dos de esos trabajos a la misma máquina (demostrable por palomas y nidos)
 
 cota de solucion optima ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeJojid2iyqx4FwYUhMuhf8KMq6KvbrpbCgEA_euYHI0yQdhWL5gF7Y9LQV1ytQyFa4uv5QwPwBD7bkh09I6GUVRPMVKNKJWLZsk5KClnRk2mAuDWTiDZFlcrsa1QdQa3LVdUso-CpA4RIoBklKLc4eHjtqrl0=s2048?key=mdz1rszErP6Jo6syDALanw)
@@ -29,31 +29,31 @@ Ese trabajo debe tener índice mayor o igual a m+1, porque los primeros m trabaj
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcZb2pIPW5efkKyKHsi1DkVGG8BCYve8_6SET6dT0JwBP9YEJluafYTxwNLfoQQeP8pMZdDv4o0KPFv1jtBscr3DFPV3PWArNEwkWvXFnddlXECbXbYlgggW_f2LKH9I4HpGARiAm7lzAIy9pYQe4nFF-6XTObM=s2048?key=mdz1rszErP6Jo6syDALanw)**
 
 
-## Vertex Cover: Rduccion 
+## [[Vertex Cover]]: Rduccion 
 
-Busco convertir la entrada de vertex cover a la entrada de ser cover. 
+Busco convertir la entrada de [[vertex cover]] a la entrada de ser cover. 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcOt8Eir5zkiX9WYGzxmEycJQdffmb_6XvXBIHBnGB8m5TWOPDUkjXIOpecxjNdzNTa3R65xmRaOZoePqVAKKICzGfC0ICK2JocydlVfe8IA7ktfeShRfr2Te-pd8zY98iIwQ36auihZvl7L5j5T-p5D2VkQAu8=s2048?key=mdz1rszErP6Jo6syDALanw)**
 Para cada Vértice se define el subconjunto del Vértice como todas las aristas que inciden al Vértice. Queremos encontrar una cobertura de E, todas las aristas.
 
 Set Cover encuentra la forma de cubrir todos los elementos. Los Subsets de aristas encontrados son los vértices a utilizar
 
-Esta aproximación nos da una solución como mucho H(d) veces el óptimo para el Problema de Vertex Cover
+Esta aproximación nos da una solución como mucho H(d) veces el óptimo para el Problema de [[Vertex Cover]]
 
 ### Independent set
 
-Si encuentro un Vertex Cover, es cierto que el complemento (todos los vértices que no utilizo) es un Independent Set. Ajustando todos los pesos a 1, por lo tanto:
+Si encuentro un [[Vertex Cover]], es cierto que el complemento (todos los vértices que no utilizo) es un Independent Set. Ajustando todos los pesos a 1, por lo tanto:
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdgt1brThw0HiIfw47bAUfv28vOxfgf5i3gtJuF6JtVAfydNBFY2TRYLQJJbnRNld3imdV6awPiqz6Tmw6Wo_agpUx5PU1se2axTv9ibl4TEndW8cPk8l8AdYnQOZp1V3L0y9fs-54np4pdQpvm4yxeSLuM9RhW=s2048?key=mdz1rszErP6Jo6syDALanw)**
 
-Nos gustaría aprovechar la solución de Vertex Cover para resolver Independent Set
-Imaginemos un Grafo que tiene la misma cantidad, |V|/2 vértices que pertenecen al Vertex Cover, y |V|/2 vértices que forman el máximo Independent Set
-Sucede que dado el margen de error de la aproximación de Vertex Cover, perfectamente podría ocurrir que el Vertex Cover obtenido sea todos los vértices V
+Nos gustaría aprovechar la solución de [[Vertex Cover]] para resolver Independent Set
+Imaginemos un [[Grafos|Grafo]] que tiene la misma cantidad, |V|/2 vértices que pertenecen al [[Vertex Cover]], y |V|/2 vértices que forman el máximo Independent Set
+Sucede que dado el margen de error de la aproximación de [[Vertex Cover]], perfectamente podría ocurrir que el [[Vertex Cover]] obtenido sea todos los vértices V
 
 Lo que nos dejaría con una aproximación del máximo Independent Set de… Set Vacío
 
 ### Pricing Method
 
-El Pricing Method como metodología utiliza esta perspectiva económica de precios para llegar a la solución por Aproximación. Veamosla para Vertex Cover
+El Pricing Method como metodología utiliza esta perspectiva económica de precios para llegar a la solución por Aproximación. Veamosla para [[Vertex Cover]]
 
 Si las aristas son agentes de esta economía, debe haber algún tipo de idea que establezca qué precios son acordes (fairness) y están dispuestas a pagar, y qué precios serían excesivos (unfair)
 
@@ -81,10 +81,10 @@ Esto nos permite poder ajustar los vértices y dejarlos pagos sin incurrir en co
 ![[Pasted image 20241116165342.png]]
 
 
-### Programación Lineal
+### [[Programación Lineal]]
 
-Podemos decir que cada xi vale 1 si pertenece al Vertex Cover, 0 si no
-Esto no es Programación Lineal. Esto es Programación Entera
+Podemos decir que cada xi vale 1 si pertenece al [[Vertex Cover]], 0 si no
+Esto no es [[Programación Lineal]]. Esto es Programación Entera
 Se trata de un problema similar, donde las variables solamente pueden tomar valores enteros
 Y resulta que para este problema, no hemos encontrado soluciones en tiempo polinomial. Lo cual es razonable, ya que acabamos de hacer una reducción
 ![[Pasted image 20241116170052.png]]
@@ -93,7 +93,7 @@ Y resulta que para este problema, no hemos encontrado soluciones en tiempo polin
 Relajo y lso valores pueden estar entre 0 y 1 en vez de ser 0 o 1
 
 ![[Pasted image 20241116171007.png]]
-Esta metodología siempre encuentra un valor de la función objetivo mejor o igual a la solución óptima de Vertex Cover
+Esta metodología siempre encuentra un valor de la función objetivo mejor o igual a la solución óptima de [[Vertex Cover]]
 
 
 ![[Pasted image 20241116171729.png]]

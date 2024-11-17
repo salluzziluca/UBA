@@ -171,4 +171,18 @@ El tamaño de la matriz necesaria para memorizar es: O(n2v∗). Una dimensión d
 
 Hay que fijarse que no lo hacemos por W, sino por V
 
+```python 
+def mochila(valor, peso, N, W, T=sum(valor)):
+  OPT[0..N+1][0..T+1]
+  for i in range(0, n+1):
+    OPT[i][0] = 0
+  for i in range(1, n+1):
+    sum_valor = sum(valor[:i+1])
+    for V in range(1, sum_valor):
+      if V > sum_valor-valor[i]: 
+OPT[i][V] = peso[i] + OPT[i-1][max(0, V-valor[i])]
+      else:
+        OPT[i][V] = min(OPT(n-1, V), 
+                         peso[i] + OPT(n-1, max(0, V-valor[i])))
+  return max(V donde OPT[N][V] <= W)
 ```

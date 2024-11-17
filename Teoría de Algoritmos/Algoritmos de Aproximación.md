@@ -120,3 +120,7 @@ Vamos a intentar usar PD para hacer aproximaciones arbitrariamente buenas
 
 #### Mochila 
 NP-Dificil
+
+Tenemos una mochila con capacidad W. Cada elemento tiene peso y valor. Queremos maximizar el valor sin pasarnos de W. 
+
+Se agrega un parametro de aproximacion $\varepsilon$ 

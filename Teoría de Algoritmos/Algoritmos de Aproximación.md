@@ -126,3 +126,8 @@ Tenemos una mochila con capacidad W. Cada elemento tiene peso y valor. Queremos 
 Se agrega un parametro de aproximacion $\varepsilon$, esta va a ser nuestra medida de precision. La solucion deberia entregar elementos que no superen W y una suma de valores como mucho $1+\varepsilon$ de distancia al optimo. 
 
 El algoritmo corre polinomia,mente par aun valor dijo de $\varepsilon$, pero muestra un crecimiento exponencial a medida se disminuye ε
+
+El nivel de Aproximación alcanzable es más potente
+El algoritmo corre polinomialmente para un valor fijo de ε
+El problema es que, a medida que se achica el factor ε, el tiempo de ejecución crece en medidas exponenciales
+Al momento en que definimos un valor de ε que haga que la solución sea la óptima garantizada, el algoritmo deja de ser polinomial

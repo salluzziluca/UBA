@@ -111,3 +111,5 @@ Contemos todos los intervalos de O según su relación con A.
 
 
 ## Metodologia 4: Programacion dinamica y rendondeos
+
+Ya vimos que si asumimos P!=NP, todos los algoritmos NP-Completos son equic

@@ -164,3 +164,7 @@ Buscamos una versión que funcione bien para valores relativamente pequeños, in
 Deberíamos condicionar los subproblemas no a la capacidad y los pesos, sino a los Valores
 
 Guardamos en OPT(i, V) usando losi primeros i elementos y para al menos el valor de V, la capacidad mas baja de W que lo logra.  
+
+El tamaño de la matriz necesaria para memorizar es: O(n2v∗). Una dimensión de la matriz con los n elementos, la otra, a lo sumo n veces el valor del máximo v*
+
+![[Pasted image 20241117171448.png]]

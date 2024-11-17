@@ -201,3 +201,21 @@ Ahora queremos demostrar que la solucion aproximada no se aleja $1+\varepsilon$ 
 Dado un un limite W y un conjuntod e valores enteros V. se busca un subconjunto de V que maximice la sumatoria de valores  sin exceder W. 
 
 Greedy: agregar como vienen siempre y cuando no se pasen.  
+
+
+### aproximacion O(n)
+Iterar acumulando los valores a1, a2,..., an siempre que sean menores a W, ignorar mayores 
+En un momento determinado, nuestra sumatoria excede W, en el elemento aj
+En ese momento determinado, tenemos una sumatoria de elementos sin incluir aj que no excede a W, y aj tampoco excede W. La suma de ambas partes, excede W. Debe cumplirse:
+o bien: la sumatoria de elementos sin incluir aj es mayor a W/2, usar como solución
+o bien: aj es mayor a W/2, usar como solución
+En ambos casos logramos una solución mejor que W/2, donde W es una cota del óptimo
+
+Aplicar el algoritmo anterior
+De la solución con la que me quedo (cualquiera de las dos), ahora ejecuto nuevamente con W - suma_obtenida, y sin los elementos utilizados.
+Esto lo aplicamos (en el peor caso) n veces → O(n2)
+Por la ley de Aquiles y la Tortuga, no llegaremos nunca al óptimo pero vamos a estar mucho más cerca (hay que analizar si no hay un caso que lo mantenga como 2-aproximación). 
+Si aplicamos a que lo mejor que podemos hacer es W/2 por paso, podríamos decir que es una 2-n(2n - 1)-aproximación?
+
+
+## 

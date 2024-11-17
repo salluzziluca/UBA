@@ -195,3 +195,7 @@ Ahora queremos demostrar que la solucion aproximada no se aleja $1+\varepsilon$ 
 
 
 ![[Pasted image 20241117174732.png]]
+
+## Maximizar sumatoria 
+
+Dado un un limite W y un conjuntod e valores enteros V. se busca un subconjunto de V que maximice la 

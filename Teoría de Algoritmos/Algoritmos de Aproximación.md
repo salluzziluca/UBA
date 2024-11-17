@@ -218,4 +218,6 @@ Por la ley de Aquiles y la Tortuga, no llegaremos nunca al óptimo pero vamos a 
 Si aplicamos a que lo mejor que podemos hacer es W/2 por paso, podríamos decir que es una 2-n(2n - 1)-aproximación?
 
 
-## Matching Tridimensional
+## Independent Set
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcMiOJ2saRrVc1NPLWqTP7ZSIhh_xpEJ9khrxTZ7Umk0uiikxNV0AMK9xQP6mghiJqB6xfSLxpq2RZf0ed36Am9cX5p5fYvWzFJvJ_nsuhoA_1OcUYy_fwArghZmcpYqPRU_ige6gskM0t3qqF-JbZPQAsKgCJ5=s2048?key=vSCnIklsR08rHzZ-vlAHQQ)**

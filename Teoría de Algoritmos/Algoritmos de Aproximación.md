@@ -131,3 +131,6 @@ El nivel de Aproximación alcanzable es más potente
 El algoritmo corre polinomialmente para un valor fijo de ε
 El problema es que, a medida que se achica el factor ε, el tiempo de ejecución crece en medidas exponenciales
 Al momento en que definimos un valor de ε que haga que la solución sea la óptima garantizada, el algoritmo deja de ser polinomial
+
+
+Por PD la mochila se resuelve en O(nW), con una dependencia pseudo polinomial sobre W.

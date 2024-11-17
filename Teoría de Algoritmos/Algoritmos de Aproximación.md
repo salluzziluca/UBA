@@ -155,4 +155,7 @@ Encontrar una solucion optima para los valores reescalados al dividir por B es u
 
 los elementos con peso mayor a W los omitimos. Asumimos que $\varepsilon^{-1}$ es entero
 $$b = ε/(2n) * max \ v_{i}$$
-Resolvemos el problema con todos los valores reescalados (divididos) por b. 
+Resolvemos el problema con todos los valores reescalados (divididos) por b. La solución aproximada al problema original es el conjunto de elementos encontrados por esta solución (que es óptima) del problema redondeado
+El algoritmo se asegura siempre de dar un conjunto de elementos con suma de pesos menores a W
+El algoritmo es polinomial para un valor fijo de ε
+

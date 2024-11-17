@@ -108,3 +108,6 @@ Cada intervalo seleccionado por ser más corto, puede bloquear otros de la soluc
 Contemos todos los intervalos de O según su relación con A.
 
 ![[Pasted image 20241116172205.png]]
+
+
+## Metodologia 4: Programacion dinamica y rendondeos

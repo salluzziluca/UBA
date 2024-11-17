@@ -159,3 +159,8 @@ Resolvemos el problema con todos los valores reescalados (divididos) por b. La s
 El algoritmo se asegura siempre de dar un conjunto de elementos con suma de pesos menores a W
 El algoritmo es polinomial para un valor fijo de ε
 
+Nuestra solución original al problema de la mochila hace depender a los subproblemas sobre el valor de la capacidad disponible
+Buscamos una versión que funcione bien para valores relativamente pequeños, independientemente de la capacidad de la mochila
+Deberíamos condicionar los subproblemas no a la capacidad y los pesos, sino a los Valores
+
+Guardamos en OPT(i, V) usando losi primeros i elementos 

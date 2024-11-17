@@ -168,3 +168,7 @@ Guardamos en OPT(i, V) usando losi primeros i elementos y para al menos el valor
 El tamaño de la matriz necesaria para memorizar es: O(n2v∗). Una dimensión de la matriz con los n elementos, la otra, a lo sumo n veces el valor del máximo v*
 
 ![[Pasted image 20241117171448.png]]
+
+Hay que fijarse que no lo hacemos por W, sino por V
+
+```

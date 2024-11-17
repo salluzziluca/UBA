@@ -186,3 +186,7 @@ OPT[i][V] = peso[i] + OPT[i-1][max(0, V-valor[i])]
                          peso[i] + OPT(n-1, max(0, V-valor[i])))
   return max(V donde OPT[N][V] <= W)
 ```
+
+
+### Complejidad 
+![[Pasted image 20241117172842.png]]

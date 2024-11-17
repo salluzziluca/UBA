@@ -135,4 +135,8 @@ Al momento en que definimos un valor de ε que haga que la solución sea la ópt
 
 Por PD la mochila se resuelve en O(nW), con una dependencia pseudo polinomial sobre W.
 
-Con un W y peso chicos, es rapido aunque los valores sean muy 
+Con un W y peso chicos, es rapido aunque los valores sean muy grandes. Por lo que si lo doy vuelta, deberia ser rapido coon valores chicos y W y Peso grandes.
+
+**Podemos aprovechar los algoritmos que son Pseudo-Polinomiales sobre los valores de los parámetros para diseñadores Esquemas de Aproximación**
+
+$O(n2. v∗), \ con \ v∗ = maxi vi$

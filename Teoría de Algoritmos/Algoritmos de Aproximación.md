@@ -139,4 +139,6 @@ Con un W y peso chicos, es rapido aunque los valores sean muy grandes. Por lo qu
 
 **Podemos aprovechar los algoritmos que son Pseudo-Polinomiales sobre los valores de los parámetros para diseñadores Esquemas de Aproximación**
 
-$O(n2. v∗), \ con \ v∗ = maxi vi$
+$O(n2. v∗), \ con \ v∗ = max_{i}\ v_{i}$
+
+Si todos los valores son enteros pequeños, tenemos un algoritmo polinomial.

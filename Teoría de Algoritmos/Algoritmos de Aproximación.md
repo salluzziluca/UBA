@@ -192,3 +192,6 @@ OPT[i][V] = peso[i] + OPT[i-1][max(0, V-valor[i])]
 ![[Pasted image 20241117172842.png]]
 
 Ahora queremos demostrar que la solucion aproximada no se aleja $1+\varepsilon$ de la solucion posta. 
+
+
+![[Pasted image 20241117174732.png]]

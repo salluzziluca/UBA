@@ -143,3 +143,7 @@ $O(n2. v∗), \ con \ v∗ = max_{i}\ v_{i}$
 
 Si todos los valores son enteros pequeños, tenemos un algoritmo polinomial.
 Si los valores son grandes, no hace falta usar esos, se los puede dividir por algun valor y hacer que sean mas pequeños, redondandolos
+
+Queremos redondear todos los valores para acercarse un múltiplo de b
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccNDI0a0ID38KdJwdwnsgq-xm0dhTmXrj00ab22puJRDKB4VpmofCL76jvlb-U4AH3Yw5EBxSzYzrU28G-H9H9cVtoZASSrQ1LbnoMMynoweKNMnNAALGDSAszngB3qyERMlLScCCT1naAj5mlUWcp6cb6zmg=s2048?key=vSCnIklsR08rHzZ-vlAHQQ)**
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd_lMmtoyEUB8Z9MX1y_3oxKVnie9vKXtoBWuvH5meZJpngmTz2MF3cGC7BxD-UR34u2_AKbZbRMa8FleNKtX7cIJmzAon1RZhfTSUTl2LdpGyS8vrd95X5INA8wzorhxLSpl1ecLl8iuWSXjF__YtP_kFry_PV=s2048?key=vSCnIklsR08rHzZ-vlAHQQ)**

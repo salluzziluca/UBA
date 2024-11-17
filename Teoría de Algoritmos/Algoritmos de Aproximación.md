@@ -116,4 +116,7 @@ Ya vimos que si asumimos P!=NP, todos los algoritmos NP-Completos son equivalent
 No es asi a la hora de obtener soluciones aproximadas. En el caso de Set Cover la aproximacion que vimos fue probada de estar muy cerca a la mejor posible y en el de vertex cover es la mejor que se conoce, pero aun asi esto esta muy lejos de los pedidos que nos pueden llegar a como por ejemplo "quiero que el error sea de menos del 10%".
 
 
-Vamos a intentar usar PD para hacer aproximaciones arbi
+Vamos a intentar usar PD para hacer aproximaciones arbitrariamente buenas
+
+#### Mochila 
+NP-Dificil

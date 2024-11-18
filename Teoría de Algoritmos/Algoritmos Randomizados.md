@@ -81,3 +81,16 @@ def quicksort(S):
   return quicksort(S-) + [ai] + quicksort(S+)
 ```
 
+ahora mesclado con el anterior
+
+```python 
+def quicksort(S):
+  if |S|<=2: #caso base: return orden trivial
+  ai = elegir_pivot(S)
+  Iterar hasta encontrar un pivot central:
+    for elem in S:
+      Agregar elem a S- si elem<ai
+      Agregar elem a S+ si elem>ai
+    si |S-| y |S+| son mayores a |S/4|, el pivot es central
+  return quicksort(S-) + [ai] + quicksort(S+)
+```

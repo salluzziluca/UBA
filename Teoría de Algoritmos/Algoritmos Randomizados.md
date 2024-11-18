@@ -142,3 +142,6 @@ Cuando hay que hacer una inserción, por cada nodo que se visita se lanza una mo
 La probabilidad p en cada paso de la inserción es 1/(k+1)
 Ejemplo: al comenzar a insertar por la raíz, la probabilidad de que el nuevo elemento esté en la raíz es igual a la probabilidad de que en un orden aleatorio para estos n+1 elementos, el nuevo elemento haya sido el primero.
 Por lo tanto, p = 1/(n+1).
+
+
+## RNG 

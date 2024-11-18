@@ -23,5 +23,7 @@ Ordenando es muy facil, O(n logn) para ordernar y O(1) para acceder a la posicio
 
 
 ## Problema de la Seleccion
-Quiero encontrar el valor k de una array ordenado.
-Si me piden el primero o el ultimo calculo directo max o min en 
+Quiero encontrar el valor k de una array desordenado si estuviera ordenado
+Si me piden el primero o el ultimo calculo directo max o min en On
+
+Vamos a usar Division y Conquista 

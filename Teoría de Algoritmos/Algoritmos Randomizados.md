@@ -27,7 +27,9 @@ Quiero encontrar el valor k de una array desordenado si estuviera ordenado
 Si me piden el primero o el ultimo calculo directo max o min en On
 
 Vamos a usar Division y Conquista 
-
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeYBA2Flhm_uQpKAolYV8qTHIquaT-KKjzLeoqljKO9VNMH0EgHeTOH0I2uTNUJrZSqXBwykNECSFs3Yog2W4jzgYmWhIovNfJWggIegzW4-B2w8ZgL2IQYOec8mvzntBVxqMC8-FD3j1-yg9Vqsu1fkX8mWUMP=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
+Elegimos un pivote y nos fijamos si el k esta antes o despues de el. 
+siempre da la solucion pero puede tardar mucho
 ```python 
 def select(S, k):
   ai = elegir_pivot(S, k)
@@ -38,4 +40,6 @@ def select(S, k):
   if |S-| >= k: 	return select(S-, k)
   else: 			return select(S+, k-1-|S-|)
   ```
-  
+Lo raro es que es muy eficiente si elegimos como pivot la mediana, pero eso es trampa. 
+
+En realidad, solo necesiamos un pub

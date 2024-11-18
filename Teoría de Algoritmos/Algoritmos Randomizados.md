@@ -42,4 +42,4 @@ def select(S, k):
   ```
 Lo raro es que es muy eficiente si elegimos como pivot la mediana, pero eso es trampa. 
 
-En realidad, solo necesiamos un pub
+En realidad, solo necesiamos un pivot bastante bien centrado.

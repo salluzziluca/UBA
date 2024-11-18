@@ -43,5 +43,10 @@ def select(S, k):
 Lo raro es que es muy eficiente si elegimos como pivot la mediana, pero eso es trampa. 
 
 En realidad, solo necesiamos un pivot bastante bien centrado.
-
+el peor caso es tener un pivote muy mal centrado que solo nos ahorre un elemento a la vez: 
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcSajBtEAOCXulvcZHCbQkNCEWSgo8h0PeG9cRqCWvexoKmebkp4qylJEhYj6uAcReseaHF-NusCRIUFOT22r6DVJxDtKfJjz1D6pOXnBPVjVY99Yr8cPBvi549NmUmGbtRid0_pgswq994H2FaE0MyrsHn2LE=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
 al final va a convenir elegir el pivote aleatoriamente
+
+![[Pasted image 20241118152808.png]]
+
+Esto probabilisticamente no esta tan mal ya que la mitad de los pivotes estan bien cnet

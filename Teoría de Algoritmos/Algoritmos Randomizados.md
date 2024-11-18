@@ -62,3 +62,11 @@ Gracias a la Linealiadad de la Esperanza y la sumatoria geometrica convergente:
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfUdahWWFo7MAhtXfX5xAa8yuM0mEsn0UeEQykmM_ehi00A4OXB2Qeq1GCqKb9KoPu6hao1mH4f6wcYlbhO5LOihQ5uaV2Yh5OXQbeTxsxSuxX165rz6ZJBOBiyTXcdBt8Y6DvpbU7UyDW-YI5pdHKAZSLrqpbJ=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
 
 Nos queda que la complejidad esperada es O(n)
+
+
+Opción 2: Elegir 3 elementos al azar y quedarnos con la mediana. 
+¿Cuál es la probabilidad de elegir un mal pivote en este caso? ¿Cuál es la probabilidad de pasar de fase en 1 única iteración/llamada?
+
+
+## Quicksort
+

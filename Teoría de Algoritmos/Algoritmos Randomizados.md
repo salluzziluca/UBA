@@ -170,4 +170,10 @@ Supongamos que ahora sólo quiero contar la cantidad de elementos/palabras difer
 
 supongamos que tentemos una memoria de 100 palabras en total.
 
-almacenamos las primeras 100. Si llega la 101, tiro una moneda. si sale cara la mantenemos, si sale cruz 
+almacenamos las primeras 100. Si llega la 101, tiro una moneda. si sale cara la mantenemos, si sale seca la olvidamos
+
+Si en cualquier momento llegamos a 100 palabras, volvemos a aplicar el proceso anterior. 
+Si aplicamos ese segundo procesamiento, entonces para mantener una palabra en memoria no lanzaremos una moneda, sino 2 (y ambas deben salir cara para mantener).
+Si se aplica el procesamiento de 100 otra vez, serán 3 monedas, y así. 
+Con este método, nos aseguramos que cada palabra tenga probabilidad (½)K de estar en nuestro listado, con K = cantidad de veces que se hizo el procesamiento al llegar a m = 100. 
+

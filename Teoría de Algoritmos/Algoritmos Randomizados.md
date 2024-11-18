@@ -94,3 +94,5 @@ def quicksort(S):
     si |S-| y |S+| son mayores a |S/4|, el pivot es central
   return quicksort(S-) + [ai] + quicksort(S+)
 ```
+
+Nos termina quedando nlogn

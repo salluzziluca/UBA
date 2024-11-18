@@ -96,3 +96,12 @@ def quicksort(S):
 ```
 
 Nos termina quedando nlogn
+
+
+## Listas ordenadas 
+Motivación: queremos tener una lista de datos ordenada dinámicamente
+
+Los arreglos ordenados nos permiten buscar en O(log n)
+El mantenimiento de un arreglo ordenado requiere O(n) para las operaciones de guardado y borrado
+Podemos pasarnos al dominio de las listas enlazadas, logrando un tiempo O(1) para agregar un elemento si sabemos su posición deseada
+El problema es que encontrar elementos es O(n)

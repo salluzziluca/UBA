@@ -14,3 +14,8 @@ Un algoritmo randomizado puede resolver un problema que quizas uno deterministic
 No requieren mantener estado interno o memoria del pasado. 
 
 En sistemas distribuidos permite quebrar la simetria. 
+
+
+## Problema de encontrar la media 
+La mediana es el valor medio 
+2 5 7 1 3 5. 

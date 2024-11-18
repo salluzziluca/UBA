@@ -56,3 +56,9 @@ Decimos que el Algoritmo está en fase j, si la cantidad de elementos del set en
 Para pasar de la fase j a la fase j+1, necesitamos al menos desestimar ¼ del total de elementos. Se logra para la mitad central de Pivots, con probabilidad ½.
 La cantidad esperada de iteraciones para avanzar de fase es 2.
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd2BLVJ30s8bOSxrDRJI56yo-CT-M6FCknsWdE7cbPaWCGKddSigRCgZt0Tkb4V4uZFyL51t54cwz8FDDlOkZTmmyrrUPz2bvrqVDIX2t3PGCvCpD8idzg3sRNaKh2SHffVDO5jeCYZJqmb30SVGMhUb2xE_05J=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
+
+Gracias a la Linealiadad de la Esperanza y la sumatoria geometrica convergente: 
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfUdahWWFo7MAhtXfX5xAa8yuM0mEsn0UeEQykmM_ehi00A4OXB2Qeq1GCqKb9KoPu6hao1mH4f6wcYlbhO5LOihQ5uaV2Yh5OXQbeTxsxSuxX165rz6ZJBOBiyTXcdBt8Y6DvpbU7UyDW-YI5pdHKAZSLrqpbJ=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
+
+Nos queda que la complejidad esperada es O(n)

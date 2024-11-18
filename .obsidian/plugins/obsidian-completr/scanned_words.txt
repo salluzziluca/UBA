@@ -1500,6 +1500,10 @@ cuesta
 cobra
 choca
 contradicci
+crecimiento
+chicos
+coon
+condicionar
 de
 dispositivos
 del
@@ -2156,6 +2160,9 @@ desea
 dandole
 dispuestas
 dejarlos
+dijo
+didividir
+divididos
 gestion
 gran
 guarda
@@ -2464,6 +2471,7 @@ guiar
 grantiza
 greedy
 gustar
+garantizada
 especifico
 entra
 en
@@ -3131,6 +3139,9 @@ establezca
 excesivos
 excesivo
 encima
+exponenciales
+exceder
+excede
 servicios
 son
 su
@@ -3736,6 +3747,7 @@ simplifica
 sicamente
 salvo
 situaci
+superen
 par
 por
 punto
@@ -4452,6 +4464,14 @@ precios
 precio
 pagos
 pague
+probada
+pedidos
+pasarnos
+polinomia
+potente
+polinomialmente
+pseudo
+pasen
 la
 las
 le
@@ -4854,6 +4874,11 @@ llenas
 lso
 lejos
 largos
+ltiplo
+losi
+logra
+logramos
+llegaremos
 agnosticos
 apps
 al
@@ -5547,6 +5572,18 @@ adem
 acorde
 acotar
 acabamos
+asumimos
+aproximadas
+aproximaciones
+alcanzable
+achica
+adores
+acercarse
+aproximados
+aproximada
+aleja
+acumulando
+adyacente
 hardware
 heap
 hay
@@ -7254,6 +7291,7 @@ Cualquier
 Cover
 Cuales
 Contemos
+Completos
 Es
 El
 Estos
@@ -7641,6 +7679,8 @@ Evaluaci
 Eliminaci
 Existencia
 Entera
+Esquemas
+Encontrar
 kernel
 kt
 kU
@@ -8391,6 +8431,12 @@ revisa
 remoto
 razonable
 reducci
+rendondeos
+redondandolos
+redondear
+reescalados
+redondeado
+relativamente
 operacion
 orden
 operaciones
@@ -8741,6 +8787,8 @@ optimizada
 operadores
 ordenando
 obtenido
+omitimos
+obtenida
 nombre
 nuevo
 nica
@@ -9397,6 +9445,8 @@ vale
 variaci
 veremos
 veamos
+vimos
+vienen
 Application
 API
 Asigna
@@ -9758,6 +9808,9 @@ ABMs
 Analizamos
 Ajustando
 Aproximaci
+Asumimos
+Aplicar
+Aquiles
 Programming
 Procesos
 Partes
@@ -10161,6 +10214,8 @@ Papu
 Pepe
 Probablemente
 Pricing
+Peso
+Polinomiales
 Interface
 ID
 Instructions
@@ -10493,6 +10548,7 @@ Implicitio
 Indices
 Inserci
 Imaginemos
+Iterar
 Un
 UNIX
 UBA
@@ -11295,6 +11351,9 @@ mantienen
 mantenga
 mediremos
 metodolog
+medidas
+multiplos
+memorizar
 tien
 tiene
 todos
@@ -12277,6 +12336,7 @@ igualmente
 indexado
 inconseguible
 incurrir
+ignorar
 fijo
 file
 fork
@@ -12670,6 +12730,7 @@ fijamos
 facilitar
 forman
 fairness
+fijarse
 Nombre
 Notas
 Not
@@ -12926,6 +12987,7 @@ NodePort
 Neo
 Nodos
 Nito
+Nuestra
 File
 For
 Funcion
@@ -13663,6 +13725,8 @@ Devolver
 Disyuncion
 Dadas
 Demostrar
+Dificil
+Deber
 Memoria
 Multivariada
 MORE
@@ -14029,6 +14093,8 @@ Mantenimiento
 Menor
 Mari
 Metodolog
+Metodologia
+Maximizar
 Table
 Todos
 This
@@ -14340,6 +14406,7 @@ TrN
 Teng
 Translator
 Tama
+Tortuga
 Realiza
 REgistrys
 Rango
@@ -16826,6 +16893,7 @@ GKE
 Google
 Guarda
 Greedy
+Guardamos
 BX
 Bit
 Box

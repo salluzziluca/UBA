@@ -70,3 +70,14 @@ Opción 2: Elegir 3 elementos al azar y quedarnos con la mediana.
 
 ## Quicksort
 
+```python 
+def quicksort(S):
+  if |S|<=2: #caso base: return orden trivial
+  ai = elegir_pivot(S)
+  for elem in S:
+    Agregar elem a S- si elem<ai
+    Agregar elem a S+ si elem>ai
+
+  return quicksort(S-) + [ai] + quicksort(S+)
+```
+

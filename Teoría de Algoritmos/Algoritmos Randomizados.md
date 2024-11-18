@@ -116,3 +116,14 @@ Las Skip Lists son estructuras que incorporan una randomización para permitir d
 Busqueda, insercion y borrado O(log n) PROMEDIO con ALTA PROBABILIAD $\frac{1}{p}\log_{\frac{1}{p}}n$
 
 Orden temporal en los peores casos O(n) orden espacial en el peor caso O(n logn)
+
+## ABB
+
+Permiten mantener dinámicamente una estructura de tipo diccionario, permitiendo además presentar los datos según una relación de orden
+Típicamente sus operaciones son log(n)...
+Siempre y cuando esté balanceado
+Es por eso que hay varias metodologías de balanceo de árboles
+AVL
+Red-Black
+Hace un ratito vimos una propiedad muy interesante
+La altura esperada de un árbol creado en orden aleatorio es O(log n)

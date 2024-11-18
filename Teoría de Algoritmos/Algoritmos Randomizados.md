@@ -137,3 +137,8 @@ Treaps = Tree + Heap
 Nuevamente aprovecha que la altura esperada de un árbol creado en orden aleatorio es O(log n).
 Lo hace de una forma bastante más literal.
 Cuando hay que hacer una inserción, por cada nodo que se visita se lanza una moneda con cierta probabilidad, en caso de éxito corresponde insertar ese elemento en esa posición del árbol.
+
+
+La probabilidad p en cada paso de la inserción es 1/(k+1)
+Ejemplo: al comenzar a insertar por la raíz, la probabilidad de que el nuevo elemento esté en la raíz es igual a la probabilidad de que en un orden aleatorio para estos n+1 elementos, el nuevo elemento haya sido el primero.
+Por lo tanto, p = 1/(n+1).

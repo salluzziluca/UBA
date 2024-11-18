@@ -154,3 +154,6 @@ efectos fotoelectricos
 fenomenos electromagnetico 
 fenomenos cuanticos 
 lamparas de lava
+
+### Pseudo Random 
+Es un algoritmo que genera una secuencia de números con propiedades aproximadamente similares a las que generaría un verdadero random.

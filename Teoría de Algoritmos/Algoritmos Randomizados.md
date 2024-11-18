@@ -49,4 +49,4 @@ al final va a convenir elegir el pivote aleatoriamente
 
 ![[Pasted image 20241118152808.png]]
 
-Esto probabilisticamente no esta tan mal ya que la mitad de los pivotes estan bien cnet
+Esto probabilisticamente no esta tan mal ya que la mitad de los pivotes estan bien centrados

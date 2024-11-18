@@ -115,4 +115,4 @@ Las Skip Lists son estructuras que incorporan una randomización para permitir d
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUckv3VP-aiNUTMwY-tUtuUe-mTiPI7z6H8KTzx0o5bJ439BjH03ox0C8DWRN5rQ4-eu7God--8wRwzMlVW6f4LHhwp25tcDPH4NyWXG7QIjEkAgCbt-SWv533aVKrj7a9TYn7xKhCA9yFud1kvA-UrwTEHWzcyJ=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
 Busqueda, insercion y borrado O(log n) PROMEDIO con ALTA PROBABILIAD $\frac{1}{p}\log_{\frac{1}{p}}n$
 
-Orden temporal en los peores casos O(n) orden espacial en el peor ca
+Orden temporal en los peores casos O(n) orden espacial en el peor caso O(n logn)

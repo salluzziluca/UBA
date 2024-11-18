@@ -2163,6 +2163,7 @@ dejarlos
 dijo
 didividir
 divididos
+deciisiones
 gestion
 gran
 guarda
@@ -4472,6 +4473,7 @@ potente
 polinomialmente
 pseudo
 pasen
+permitiremos
 la
 las
 le
@@ -11354,6 +11356,7 @@ metodolog
 medidas
 multiplos
 memorizar
+mundo
 tien
 tiene
 todos

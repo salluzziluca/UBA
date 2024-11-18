@@ -127,3 +127,7 @@ AVL
 Red-Black
 Hace un ratito vimos una propiedad muy interesante
 La altura esperada de un árbol creado en orden aleatorio es O(log n)
+
+Si la altura esperada de un árbol creado en orden aleatorio es O(log n), mantengamos un árbol como si fuese creado en orden aleatorio
+Treaps = Tree + Heap
+

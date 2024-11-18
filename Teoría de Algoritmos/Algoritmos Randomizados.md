@@ -177,3 +177,8 @@ Si aplicamos ese segundo procesamiento, entonces para mantener una palabra en me
 Si se aplica el procesamiento de 100 otra vez, serán 3 monedas, y así. 
 Con este método, nos aseguramos que cada palabra tenga probabilidad (½)K de estar en nuestro listado, con K = cantidad de veces que se hizo el procesamiento al llegar a m = 100. 
 
+
+
+Supongamos que nos tomó 6 rondas completar de procesar Hamlet. Terminamos con 61 palabras en nuestro listado → la cantidad de palabras estimadas es 61 * 26 = 3904. Hamlet tiene 3967, menos de 2% de error. 
+Si cambiamos m = 100 por m = 1000, el resultado llega a ser aprox de 3964 (menos de 0.01% de error). 
+Si m = suficientemente grande para que entren todas las palabras, la precisión será del 100%. 

@@ -109,4 +109,6 @@ El problema es que encontrar elementos es O(n)
 ### Skips Lists
 Las Skip Lists son estructuras que incorporan una randomización para permitir de forma eficiente, con alta probabilidad, la búsqueda, guardado y borrado en una lista ordenada
 
+[https://cmps-people.ok.ubc.ca/ylucet/DS/SkipList.html](https://cmps-people.ok.ubc.ca/ylucet/DS/SkipList.html)
+
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUckv3VP-aiNUTMwY-tUtuUe-mTiPI7z6H8KTzx0o5bJ439BjH03ox0C8DWRN5rQ4-eu7God--8wRwzMlVW6f4LHhwp25tcDPH4NyWXG7QIjEkAgCbt-SWv533aVKrj7a9TYn7xKhCA9yFud1kvA-UrwTEHWzcyJ=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**

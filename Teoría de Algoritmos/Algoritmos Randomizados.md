@@ -161,7 +161,7 @@ Es un algoritmo que genera una secuencia de números con propiedades aproximadam
 
 ## Conteo de palabras 
 i yo quiero contar la cantidad de apariciones de cada uno de los posibles elementos que haya, en una secuencia de elementos (ej palabras), ¿cuánto me consumirá en memoria?
-- Counting Filters: primer algoritmo utilizado por twitter para determinar los TT.
+- Counting Filters: primer algoritmo utilizado por twitter para determinar los TT. Hasheo la palabra y en la correspondiente tabla de hash o psicion en el arreglo pongo un 1.
 Depende fuertemente de las funciones de hashing.
 Supongamos que ahora sólo quiero contar la cantidad de elementos/palabras diferentes que hay… y además tenemos una memoria limitada…
 

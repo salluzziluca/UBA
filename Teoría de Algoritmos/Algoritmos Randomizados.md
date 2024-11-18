@@ -27,3 +27,15 @@ Quiero encontrar el valor k de una array desordenado si estuviera ordenado
 Si me piden el primero o el ultimo calculo directo max o min en On
 
 Vamos a usar Division y Conquista 
+
+```python 
+def select(S, k):
+  ai = elegir_pivot(S, k)
+  for elem in S:
+    Agregar elem a S- si elem<ai
+    Agregar elem a S+ si elem>ai
+  if |S-| == k-1: 	return ai
+  if |S-| >= k: 	return select(S-, k)
+  else: 			return select(S+, k-1-|S-|)
+  ```
+  

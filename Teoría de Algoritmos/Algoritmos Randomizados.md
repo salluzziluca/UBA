@@ -145,3 +145,12 @@ Por lo tanto, p = 1/(n+1).
 
 
 ## RNG 
+Metodos de generacion de la semilla 
+
+### True random: 
+Mediciones de ruido atmosferico
+ruido termico 
+efectos fotoelectricos 
+fenomenos electromagnetico 
+fenomenos cuanticos 
+lamparas de lava

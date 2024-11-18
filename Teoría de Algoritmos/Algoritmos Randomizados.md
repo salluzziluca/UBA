@@ -19,4 +19,9 @@ En sistemas distribuidos permite quebrar la simetria.
 ## Problema de encontrar la media 
 La mediana es el valor medio 
 2 5 7 1 3. 1 2 3 5 7 la mediana seria 3. 
-Ordenando es muy facil, O(n logn) para ordernar y O(1) para acceder a la posicion k (n+1)/2 si es 
+Ordenando es muy facil, O(n logn) para ordernar y O(1) para acceder a la posicion k. K=  (n+1)/2 si es impiar k = n/2 si es par 
+
+
+## Problema de la Seleccion
+Quiero encontrar el valor k de una array ordenado.
+Si me piden el primero o el ultimo calculo directo max o min en 

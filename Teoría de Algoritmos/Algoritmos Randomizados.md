@@ -18,4 +18,5 @@ En sistemas distribuidos permite quebrar la simetria.
 
 ## Problema de encontrar la media 
 La mediana es el valor medio 
-2 5 7 1 3 5. 
+2 5 7 1 3. 1 2 3 5 7 la mediana seria 3. 
+Ordenando es muy facil, O(n logn) para ordernar y O(1) para acceder a la posicion k (n+1)/2 si es 

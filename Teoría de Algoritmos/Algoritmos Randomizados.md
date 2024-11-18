@@ -132,3 +132,8 @@ Si la altura esperada de un árbol creado en orden aleatorio es O(log n), manten
 Treaps = Tree + Heap
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcH-SsV2h0tbDPC1zhUw3Mkkbbau0_5AV9kzLE2lOnG5Yn5nsC8HqZ1PDv7gFZP2QbDIQLedxh75tVMvoXJiypfpZHLP8uO9TBtlTzQSSqSPWiq6_4L-TNQnkc5yUJVjoqaflDSCHNEeVVc9v1nyMcJaYfQJ_U=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**
+
+### ABB aleatorio 
+Nuevamente aprovecha que la altura esperada de un árbol creado en orden aleatorio es O(log n).
+Lo hace de una forma bastante más literal.
+Cuando hay que hacer una inserción, por cada nodo que se visita se lanza una moneda con cierta probabilidad, en caso de éxito corresponde insertar ese elemento en esa posición del árbol.

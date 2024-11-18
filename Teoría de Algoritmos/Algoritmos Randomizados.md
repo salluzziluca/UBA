@@ -52,6 +52,7 @@ al final va a convenir elegir el pivote aleatoriamente
 Esto probabilisticamente no esta tan mal ya que la mitad de los pivotes estan bien centrados
 
 
-Decimos que el Algoritmo está en fase j, si la cantidad de elementos del set en consideración está entre n(¾)j y n(¾)j+1.
+Decimos que el Algoritmo está en fase j, si la cantidad de elementos del set en consideración está entre $n(¾)^j$ y $n(¾)^{j+1}$
 Para pasar de la fase j a la fase j+1, necesitamos al menos desestimar ¼ del total de elementos. Se logra para la mitad central de Pivots, con probabilidad ½.
 La cantidad esperada de iteraciones para avanzar de fase es 2.
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd2BLVJ30s8bOSxrDRJI56yo-CT-M6FCknsWdE7cbPaWCGKddSigRCgZt0Tkb4V4uZFyL51t54cwz8FDDlOkZTmmyrrUPz2bvrqVDIX2t3PGCvCpD8idzg3sRNaKh2SHffVDO5jeCYZJqmb30SVGMhUb2xE_05J=s2048?key=iRbwHtP-n_pIwaOn1yASjg)**

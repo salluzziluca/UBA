@@ -58,3 +58,6 @@ SGBDs
 ACID
 casa
 MongoDB
+promedio
+Promedio
+probabilida

@@ -165,3 +165,9 @@ i yo quiero contar la cantidad de apariciones de cada uno de los posibles elemen
 Depende fuertemente de las funciones de hashing.
 Supongamos que ahora sólo quiero contar la cantidad de elementos/palabras diferentes que hay… y además tenemos una memoria limitada…
 
+
+### contando aleatoreamente?
+
+supongamos que tentemos una memoria de 100 palabras en total.
+
+almacenamos las primeras 100. Si llega la 101, tiro una moneda. si sale cara la mantenemos, si sale cruz 

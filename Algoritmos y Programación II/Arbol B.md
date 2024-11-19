@@ -48,3 +48,51 @@ No podemos redistribuir porque nos quedaria el nodo hermano derecho tambien con 
 ![[Pasted image 20220523153310.png]]
 
 [[machete_arbol_b.pdf]]
+
+
+## Arbol B+
+
+El Árbol B+ es una variación del Árbol B, que se caracteriza por una estructura optimizada para búsquedas y almacenamiento secuencial.
+
+### Características del árbol B+
+
+- Todas las claves se encuentran en los nodos hoja.
+- Los nodos internos solo contienen claves para guiar la búsqueda, sin datos.
+- Los nodos hoja están enlazados mediante punteros para facilitar recorridos secuenciales.
+- Acceso a los datos más rápido y eficiente.
+- Las claves en los nodos hoja se mantienen ordenadas y conectadas.
+- El costo de usar el índice para buscar un valor está dado por 1
+	- La altura del índice (este costo es igual para cualquier clave buscada) 
+	- La cantidad de bloques en el que haya filas con el valor buscado (este costo depende del valor buscado) ■ En índices por claves candidatas este costo extra es 1
+
+### Estructura de los nodos
+
+- **Tipos de nodos**: Árboles B+ tienen dos tipos de nodos: nodos internos y nodos hoja.
+- **Capacidad de los nodos**: La cantidad de claves que entran por nodo depende del tamaño del nodo y del tamaño de las claves a agregar al árbol.
+- **Nodos internos**:
+    - Contienen k claves y k + 1 punteros.
+    - Los punteros apuntan a nodos de un nivel inferior.
+- **Nodos hoja**:
+    - Contienen k claves y k + 1 punteros.
+    - k punteros corresponden a cada clave y un puntero extra apunta al siguiente nodo hoja en orden.
+
+### Inserción
+
+1. **Buscar la posición adecuada**: Se sigue el mismo procedimiento de un árbol B para encontrar el nodo hoja adecuado.
+2. **Insertar la clave**: Si el nodo hoja tiene espacio, se inserta directamente. Si no, ocurre un _overflow_ y el nodo se divide.
+3. **Propagar la división**: La clave media sube al nodo interno padre y se crean dos nodos hoja.
+
+### Eliminación
+
+1. **Eliminar la clave del nodo hoja**: Verificar que el nodo mantenga al menos la cantidad mínima de claves.
+2. **Redistribuir o combinar nodos**: Si el nodo queda con menos claves de las permitidas, se redistribuyen las claves con nodos hermanos o se combinan.
+3. **Mantenimiento del puntero**: Asegurar que los punteros entre nodos hoja se actualicen correctamente para mantener el recorrido secuencial.
+
+### Ventajas del árbol B+
+
+- **Búsqueda secuencial rápida** gracias al enlace entre nodos hoja.
+- **Menor profundidad** y acceso más eficiente, ya que los datos se mantienen en los nodos hoja.
+- **Acceso directo a los datos**, lo que simplifica las operaciones de búsqueda y recorrido.
+
+![[Pasted image 20241115192349.png]]
+Buscar a “Papu” implica leer la raíz, ir al puntero de la derecha (Papu > Mari), luego al del medio (Nito < Papu < Pepe) y ahí se llegó al bloque que contiene “Papu

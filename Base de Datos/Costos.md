@@ -291,7 +291,7 @@ $Cost(R⨝S) = Cost(OrdM(R)) + Cost(OrdM(S)) + 2 * (B(R) + B(S))$
 
 Si R o S estan ordenadas, sus costos de ordenamiento son 0 
 
-$Cost(OrdM(R)) = 2 * B(R) * ⌈logM-1(B(R))⌉ - B(R)$
+$Cost(OrdM(R)) = 2 * B(R) * ⌈log_{M-1}(B(R))⌉ - B(R)$
 
 ### Join  - Junta Hash Grace 
 Solo para condicion de igualdad.

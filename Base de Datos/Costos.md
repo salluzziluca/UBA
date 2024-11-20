@@ -261,6 +261,8 @@ El factor F(R) se mantiene, con lo que si se supiera la cardinalidad se puede ca
 ## Join 
 
 ### Loop con unico indice 
+
+Agarro un bloque de R y lo comparo con con todos los bloques de S
 Se puede usar cuando es una condicion de iugladad y una tabla (S) tiene un indice sobre los campos de la condición
 Se recorre bloque a bloque la tabla R y para cada file se hace un index scan en a tabka con indice S 
 

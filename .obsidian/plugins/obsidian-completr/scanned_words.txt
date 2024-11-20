@@ -2228,6 +2228,7 @@ dBz
 djp
 dZI
 dtD
+descartando
 gestion
 gran
 guarda
@@ -3231,6 +3232,7 @@ empezamos
 estimar
 equitativa
 encadenar
+evita
 servicios
 son
 su
@@ -3914,10 +3916,8 @@ props
 posibles
 probabiilidad
 posible
-probabilida
 peso
 probas
-promedio
 ponderado
 producto
 pendiente
@@ -4593,6 +4593,9 @@ provincias
 psoible
 procesarse
 procesado
+precisa
+proyecciones
+proximos
 la
 las
 le
@@ -5007,6 +5010,7 @@ lJT
 lAY
 levanto
 loops
+llenarse
 agnosticos
 apps
 al
@@ -5704,6 +5708,10 @@ anidados
 ayudarnos
 ayudar
 aparece
+aplicada
+acumulando
+anteiror
+ahorra
 hardware
 heap
 hay
@@ -7026,6 +7034,7 @@ Srn
 SOA
 SwK
 SUS
+Simplemente
 Calls
 Cmabia
 CPU
@@ -8720,6 +8729,7 @@ rCb
 rVc
 rrB
 rqi
+requerir
 operacion
 orden
 operaciones
@@ -9088,6 +9098,7 @@ ohlj
 oDl
 oJi
 ocupado
+ocupar
 nombre
 nuevo
 nica
@@ -10476,7 +10487,6 @@ Pais
 Procedurales
 Propuesto
 Proyecci
-Promedio
 PILOTOS
 PROPIETARIO
 Progress
@@ -13200,6 +13210,7 @@ fLo
 ftd
 fao
 fidedigno
+fulas
 Nombre
 Notas
 Not

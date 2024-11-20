@@ -271,8 +271,8 @@ EJ: se recorre la tabla alumnos y para cada alumno se hace index scan en ka tabk
 
 Si hay indice en ambas tablas, hay que ver cual me conviene, ya que no se pueden usar ambos indices a la vez.
 Si el indice no es de clustering:
-$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ ) 
-En cambio, si el índice es de clustering Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )
+$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
+En cambio, si el índice es de clustering $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )$
 
 
 ### Sort Merge 

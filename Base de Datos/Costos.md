@@ -202,9 +202,9 @@ Esta operación tiene un costo mayor
 En la última etapa, al leerse en forma ordenada los datos, se devuelve el primero de cada uno de ellos
 
 
-#### Etapas 
-Tenemos M bloques de memoria disponibles 
-1. Primera etapa: Generamos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
+ de memoria disponibles 
+1. Primera etapa: #### Etapas 
+Tenemos M bloquesGeneramos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
 	1. 1 bloque de memoria lo usamos para acumular la salida 
 2.  Segunda etapa: Recorremos M-1 particiones ordenadas a la vez, y generamos una única partición con los datos ordenados de esas particiones (Merge)
 

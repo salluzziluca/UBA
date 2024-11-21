@@ -307,7 +307,7 @@ Luego puedo junta la particion_i de R con la particion_i de S.
 
 
 Esto se me rompe si mi atributo a igualar tiene poca variabilidad o si tiene mucha variabilidad pero esta mal balanceado (hay 1millon de filas de BsAs y 10 mil del resto de provincias)
-*dE3
+
 
 Luego levanto la primera particion de la tabla mas chica entera en memoria (ya que nos aseguramos que esto fuera psoible) y la empezamos a matchear con los bloques de su particion equivalente de la tabla mas grande
 

@@ -104,6 +104,7 @@ Algunos motores tienen la opción de hacer índices de clustering, en los cuales
 - Esto permite reducir el costo de acceso
 - Si un valor del índice está en 5 filas y entran 10 filas por bloque, esas 5 filas casi seguro estarán en un único bloque si el índice es de clustering
 - Si no es de clustering, probablemente estarán en 5 bloques distintos
+Estes no tiene por que ser el de la clave, de hecho es probable que no convenga. Si yo tengo partidos de futbol y la clave es equipos + fecha quizas me conviene hacer clustering por jugadores porque voy a estar buscsando mucho mas los goles de x jugador que cosas de cada partido.
 Mantener este tipo de indices es costoso ya que se reestructura el indicine y el archivo con lso datos ante ABMs
 Solo se puede hacer un indice de clustering por tabla 
 tambien agiliza consultas por rangos 
@@ -201,9 +202,9 @@ Esta operación tiene un costo mayor
 En la última etapa, al leerse en forma ordenada los datos, se devuelve el primero de cada uno de ellos
 
 
-#### Etapas 
-Tenemos M bloques de memoria disponibles 
-1. Primera etapa: Generamos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
+ de memoria disponibles 
+1. Primera etapa: #### Etapas 
+Tenemos M bloquesGeneramos particiones ordenadas de M-1 bloques en memoria (Sort interno) 
 	1. 1 bloque de memoria lo usamos para acumular la salida 
 2.  Segunda etapa: Recorremos M-1 particiones ordenadas a la vez, y generamos una única partición con los datos ordenados de esas particiones (Merge)
 
@@ -255,3 +256,156 @@ Estimar la cardinalidad es difícil ya que no se conoce la cardinalidad de la in
 - En la unión, deberia restarse de n(R) + n(S) 
 - En la resta debería restarse de n(R) 
 El factor F(R) se mantiene, con lo que si se supiera la cardinalidad se puede calcular la cantidad de bloques
+
+
+## Join 
+
+### Loop con unico indice 
+
+Agarro un bloque de R y lo comparo con con todos los bloques de S
+Se puede usar cuando es una condicion de iugladad y una tabla (S) tiene un indice sobre los campos de la condición
+Se recorre bloque a bloque la tabla R y para cada file se hace un index scan en a tabka con indice S 
+
+
+EJ: se recorre la tabla alumnos y para cada alumno se hace index scan en ka tabka de notas por su valor en padron
+
+Si hay indice en ambas tablas, hay que ver cual me conviene, ya que no se pueden usar ambos indices a la vez.
+Si el indice no es de clustering:
+$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
+En cambio, si el índice es de clustering $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )$
+
+
+### Sort Merge 
+
+
+Condicion de igualdad y tablkas ordenadas por atributos de condicion. Se pueden ir procesando bloque a bloque de modo similar a los operadores de conjunto 
+
+El unico tema es que si tenemos muchos bloques que tienen el mismo valor en la junta, puede ser un problema. Ya que nos pueden quedar afuera de memoria 
+
+Ej: junto clientes con proveedores por proivncia. Si el join es por provincia y tenemos 1millon de clientes y un millon de proveedores por provincia tengo que tener en memoria todo. Explota
+El costo vendría por leer bloque a bloque ambas tablas
+
+l costo total entonces es: 
+
+$Cost(R⨝S) = Cost(OrdM(R)) + Cost(OrdM(S)) + 2 * (B(R) + B(S))$
+
+Si R o S estan ordenadas, sus costos de ordenamiento son 0 
+
+$Cost(OrdM(R)) = 2 * B(R) * ⌈log_{M-1}(B(R))⌉ - B(R)$
+
+### Join  - Junta Hash Grace 
+Solo para condicion de igualdad.
+Tengo tos tablas que no me entran en memoria. Asi que parto las tablas en particiones de modo que siempre las las particiones de la menor tabla entren en memoria + 2 bloques.
+
+Se harian N joins con un cost B(Ri) + B(Si) de cada particion
+
+Para armar las particiones defino una funcion de hash que me hashee el atributo en cuestion que estoy intentando igualar y me devuelva un numero entre 0 y la cantidad de particiones que quiero tener. Es decir, si yo quiero 40 particiones, el hash me va a devolver numeros entre 0 y 40.
+
+Luego puedo junta la particion_i de R con la particion_i de S. 
+
+>[!important] Si dos filas van a juntarse, tienen el mismo valor y por ende irán a la misma partición
+
+
+Esto se me rompe si mi atributo a igualar tiene poca variabilidad o si tiene mucha variabilidad pero esta mal balanceado (hay 1millon de filas de BsAs y 10 mil del resto de provincias)
+
+
+Luego levanto la primera particion de la tabla mas chica entera en memoria (ya que nos aseguramos que esto fuera psoible) y la empezamos a matchear con los bloques de su particion equivalente de la tabla mas grande
+
+Es por esto que tenia que poder entrar una particion de la mas chica + 2 bloques (uno de datos de la otra tabla y otro para guardar datos)
+ $$Cost(R⨝S) = 3 * B(R) + 3 * B(S)$$
+#### Restriccion 1
+N Cantidad de particiones 
+M Memoria disponible 
+
+$N \leq M-1$ 
+Para guardar las particiones no puedo usar mas de M-1 bloques 
+
+#### Restriccion 2 
+Las particiones de la menor tabla deberán entrar completamente en memoria dejando 2 bloques extra para poder usar loops anidados de forma eficiente 
+Segundo límite: $mín(⌈B(R)/N⌉ ; ⌈B(S)/N⌉) \leq M - 2$
+
+#### Restriccion 3
+
+Si la cantidad de valores distintos es menor a N, no voy a poder llenar N particiones sino V(A,R) particiones ○ Algunas particiones quedarán vacías, y las que tengan datos tendrán un tamaño mayor a B(R)/N y no entrarán en memoria 
+Tercer límite: $mín(⌈B(R)/V(A,R)⌉ ; ⌈B(S)/V(A,S)⌉) \leq M - 2$
+
+
+#### Ej
+B(alumnos)= 100 B(Notas)=300 NM = 50
+
+Puedo armar 10 particiones usando como funcion el resto de la division por 10 del padron.
+
+Luego tendria 10 particiones y las iria matchenado con bloques de las particiones de la mas grande 
+
+
+### Cardinalidad y Cantidad de bloques del join
+Nunca vamos a devolver mas de $n(R)*n(S)$ filas
+
+Para estimar cardinalidad debemos asumir:
+Distribucion equitativa (con un histograma podemos ayudarnos a que sea mas fidedigno)
+Que los valores de la tabla con menor varibilidad en los atributos de jutna estan incudisos entre los de la tabla con mayor variabilidad.
+
+$$n(R⨝S) = n(R) * n(S) / máx(V(A,R) , V(A,S))$$
+
+Siendo $V(A, R) :$ (variabilidad de A en R) cantidad de distintos valores que tiene el atributo A en la tabla R
+
+Si la junta es por mas de un atributo la formula es 
+$$n(R⨝S) = n(R) * n(S) / máx(V(A1,R) * V(A2,R) , V(A1,S) * V(A2,S))$$
+
+#### Cardinalidad con histogramas
+
+ Un histograma me puede ayudar a estimar mejor la
+cardinalidad
+● Si un valor de atributo aparece en ambos histogramas, las
+filas de cada tabla de ese valor se juntaran entre si,
+multiplicandose
+● Si un valor de atributo aparece en uno solo de los
+histogramas, estimar la cantidad de filas en la otra tabla y
+multiplicar
+● Para el resto de los atributos, utilizar la fórmula anterior
+
+### Cantidad de bloques de join 
+
+Para estimar el factor de bloque de una fila de $R \join S$ es el mismo al ocupado por una fila de R mas el de una fila de S. 
+
+$$1/F(R⨝S) = 1/F(R) + 1/F(S)$$
+## Pipelining 
+
+Ahora que tenemos todos los operadores, los podes encadenar
+
+La entrada de un operador es la salida de otro. Usamos n(operador)m B(operador) y F(operador) para los neuevos calculos 
+Podemos almacenar temporalmente los resultados intermedios 
+
+Es mejor hacer pipelining
+
+No necesitas tener todos los bloques O1(R) para calcular O2(O1(R))
+Cuando termine de procesarse O1, O2 habra procesado la salida completa de O1 
+
+Lo bueno es que no tiene que materializarse completa la salida de O1, conviene mucho 
+
+
+### Seleccion 
+Una selección aplicada a la salida de un operador no agrega
+costo alguno
+○ Es “hacer un if” con la condición de la selección y descartar
+las filas que no la cumplan
+● Cada bloque que sale del operador anterior se copia en
+memoria, descartando las filas que corresponda. Al llenarse
+este nuevo bloque se pasa al siguiente operador
+○ No hay acceso a disco, por ende no hay costo
+### Proyeccion a la salida
+#### Con duplicados 
+Como no necesito evitar duplicados, puedo hacer pipelining sin costo extra a la salida de cualquier operador. 
+Simplemente de cada fila completa recibida en el bloque, se queda con la/s columna/s proyectadas
+
+#### Sin duplicados 
+Si precisa evitar duplicados, puede ir acumulando las
+proyecciones en memoria hasta ocupar el espacio disponible
+○ Cuando se ocupa todo, se envía a disco ordenado
+○ Se hace sort externo, pero se evita la primer lectura de B(R),
+teniendo un costo menor
+
+### Junta a la salida 
+Al recibir un bloque del operador anteiror, se puede hacer junta para todas sus fulas, sin requerir los proximos bloques 
+El costo es menor porque se ahorra una lectura de B(R)
+![[Pasted image 20241119210237.png]]

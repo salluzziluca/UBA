@@ -1523,6 +1523,7 @@ caben
 consultos
 combinacion
 compartir
+criptogr
 de
 dispositivos
 del
@@ -3182,6 +3183,7 @@ electromagnetico
 estimadas
 entren
 estructurar
+escriturara
 servicios
 son
 su
@@ -3795,6 +3797,7 @@ supongamos
 seca
 segundo
 str
+sincronizadas
 par
 por
 punto
@@ -11941,6 +11944,7 @@ torta
 tuit
 tuis
 tecnol
+tree
 inico
 interna
 infro
@@ -14259,6 +14263,7 @@ Metodolog
 Metodologia
 Maximizar
 Mediciones
+Merkle
 Table
 Todos
 This
@@ -14938,6 +14943,7 @@ Red
 RNG
 RTs
 Replicas
+Reci
 bien
 by
 be

@@ -1519,6 +1519,10 @@ conservador
 conversaciones
 conversacion
 cronologico
+caben
+consultos
+combinacion
+compartir
 de
 dispositivos
 del
@@ -2184,6 +2188,8 @@ desordenado
 desestimar
 deseada
 diccionario
+describen
+distribuir
 gestion
 gran
 guarda
@@ -2497,6 +2503,7 @@ generacion
 garantizan
 graficos
 group
+gicos
 especifico
 entra
 en
@@ -5657,6 +5664,7 @@ adquirido
 arruinar
 avg
 ascendente
+asociativos
 hardware
 heap
 hay
@@ -9555,6 +9563,8 @@ vienen
 verse
 verdadero
 visualizaciones
+vol
+vertical
 Application
 API
 Asigna
@@ -9921,6 +9931,8 @@ Aplicar
 Aquiles
 ALTA
 Almacena
+Almacenan
+Almacenar
 Programming
 Procesos
 Partes
@@ -10330,6 +10342,7 @@ PROMEDIO
 PROBABILIAD
 Phase
 Project
+Paralelizar
 Interface
 ID
 Instructions
@@ -11479,6 +11492,8 @@ moneda
 mantenemos
 marcas
 match
+masificaci
+menes
 tien
 tiene
 todos
@@ -11925,6 +11940,7 @@ tom
 torta
 tuit
 tuis
+tecnol
 inico
 interna
 infro
@@ -12476,6 +12492,7 @@ insercion
 interesante
 interbloqueos
 idioma
+integrar
 fijo
 file
 fork
@@ -13872,6 +13889,7 @@ Demostrar
 Dificil
 Deber
 Division
+Distintos
 Memoria
 Multivariada
 MORE
@@ -14919,6 +14937,7 @@ Relajo
 Red
 RNG
 RTs
+Replicas
 bien
 by
 be

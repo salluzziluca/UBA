@@ -3798,6 +3798,8 @@ seca
 segundo
 str
 sincronizadas
+solapadas
+serializables
 par
 por
 punto

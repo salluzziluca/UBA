@@ -116,7 +116,7 @@ Cuando en cada órden de ejecución, cada lectura RTi (X) lee el valor escrito p
 
 
 
-## [[Grafos|Grafo]] de precedencias. 
+## Grafo de precedencias. 
 La serializacion se puede evaluadar a traves del [[Grafos|grafo]]
 Si en el [[Grafos|grafo]] hay algun ciclo, no es [[serializable]]
 ![[Pasted image 20241015201645.png]]

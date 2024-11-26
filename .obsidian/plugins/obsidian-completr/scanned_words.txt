@@ -1514,6 +1514,8 @@ cuanticos
 contar
 cara
 cambiamos
+cascadas
+conservador
 de
 dispositivos
 del
@@ -2489,6 +2491,7 @@ greedy
 gustar
 garantizada
 generacion
+garantizan
 especifico
 entra
 en
@@ -4508,6 +4511,7 @@ peores
 presentar
 psicion
 precisi
+producir
 la
 las
 le
@@ -4923,6 +4927,8 @@ lava
 limitada
 llegamos
 lanzaremos
+liberado
+liberados
 agnosticos
 apps
 al
@@ -5637,6 +5643,7 @@ aproximadamente
 aleatoreamente
 almacenamos
 aseguramos
+adquirido
 hardware
 heap
 hay
@@ -5966,6 +5973,7 @@ hermano
 hermanos
 habido
 hemos
+hab
 que
 queda
 quien
@@ -7353,6 +7361,7 @@ Contemos
 Completos
 Conquista
 Counting
+Conservador
 Es
 El
 Estos
@@ -7744,6 +7753,7 @@ Esquemas
 Encontrar
 Elegimos
 Elegir
+Estricto
 kernel
 kt
 kU
@@ -8506,6 +8516,7 @@ randomizaci
 ratito
 ruido
 rondas
+riguroso
 operacion
 orden
 operaciones
@@ -10295,6 +10306,7 @@ Polinomiales
 Pivots
 PROMEDIO
 PROBABILIAD
+Phase
 Interface
 ID
 Instructions
@@ -11442,6 +11454,7 @@ mantenimiento
 mantengamos
 moneda
 mantenemos
+marcas
 tien
 tiene
 todos
@@ -12434,6 +12447,7 @@ impiar
 incorporan
 insercion
 interesante
+interbloqueos
 fijo
 file
 fork

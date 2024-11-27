@@ -582,6 +582,7 @@ Lineal
 Linealiadad
 Listas
 Lists
+Levin
 capa
 controlado
 cantidad
@@ -1524,6 +1525,18 @@ consultos
 combinacion
 compartir
 criptogr
+certificador
+completos
+circuit
+cuestion
+clicke
+clausulas
+cilco
+colreo
+complementos
+coloreable
+comienza
+consumido
 de
 dispositivos
 del
@@ -2191,6 +2204,11 @@ deseada
 diccionario
 describen
 distribuir
+deterministica
+dimensional
+deadlines
+deadline
+dem
 gestion
 gran
 guarda
@@ -3184,6 +3202,11 @@ estimadas
 entren
 estructurar
 escriturara
+extremadamente
+especial
+encodeo
+etice
+empecemos
 servicios
 son
 su
@@ -3800,6 +3823,10 @@ str
 sincronizadas
 solapadas
 serializables
+sre
+satisfability
+salientes
+sima
 par
 por
 punto
@@ -4534,6 +4561,13 @@ producir
 podria
 portugues
 provenientes
+probvlemas
+polin
+pasando
+pinto
+programaci
+pseudopolinomial
+pudieron
 la
 las
 le
@@ -5670,6 +5704,9 @@ arruinar
 avg
 ascendente
 asociativos
+agrego
+astisfacible
+ajkdas
 hardware
 heap
 hay
@@ -6000,6 +6037,7 @@ hermanos
 habido
 hemos
 hab
+hamiltopniano
 que
 queda
 quien
@@ -6562,6 +6600,7 @@ unfair
 unvertice
 uniendo
 unfairness
+unen
 System
 Son
 Source
@@ -6923,6 +6962,11 @@ Sucede
 Skips
 Skip
 Selecciona
+Satisfiability
+SAT
+Subser
+Salvo
+SubsetSum
 Calls
 Cmabia
 CPU
@@ -7390,6 +7434,12 @@ Completos
 Conquista
 Counting
 Conservador
+Consecuencias
+Completo
+Cook
+Circuit
+CAMINO
+Creamos
 Es
 El
 Estos
@@ -7782,6 +7832,8 @@ Encontrar
 Elegimos
 Elegir
 Estricto
+Estrategias
+Ejercicioo
 kernel
 kt
 kU
@@ -8549,6 +8601,12 @@ respuestas
 retuits
 reply
 retweets
+resuelva
+resolverse
+resolvedora
+reducimos
+resultante
+release
 operacion
 orden
 operaciones
@@ -8904,6 +8962,9 @@ obtenida
 ordernar
 olvidamos
 ordena
+orginal
+ogiginal
+obvio
 nombre
 nuevo
 nica
@@ -9216,6 +9277,8 @@ ntos
 necesiamos
 nlogn
 nto
+ngulos
+ngulo
 via
 vuelve
 viven
@@ -9570,6 +9633,8 @@ verdadero
 visualizaciones
 vol
 vertical
+verificarla
+viajante
 Application
 API
 Asigna
@@ -9938,6 +10003,8 @@ ALTA
 Almacena
 Almacenan
 Almacenar
+Aristas
+Agregamos
 Programming
 Procesos
 Partes
@@ -10348,6 +10415,7 @@ PROBABILIAD
 Phase
 Project
 Paralelizar
+Polinomio
 Interface
 ID
 Instructions
@@ -10964,6 +11032,7 @@ UoP
 UoU
 UaM
 Utilice
+Unimos
 modo
 mode
 menso
@@ -11499,6 +11568,9 @@ marcas
 match
 masificaci
 menes
+maquina
+multiplo
+matching
 tien
 tiene
 todos
@@ -11947,6 +12019,14 @@ tuit
 tuis
 tecnol
 tree
+turing
+transitividad
+transformando
+terminos
+tranqui
+tri
+times
+ten
 inico
 interna
 infro
@@ -12499,6 +12579,7 @@ interesante
 interbloqueos
 idioma
 integrar
+independent
 fijo
 file
 fork
@@ -12896,6 +12977,7 @@ fijarse
 fotoelectricos
 fenomenos
 filtra
+fuimos
 Nombre
 Notas
 Not
@@ -13503,6 +13585,7 @@ Fuego
 FFB
 Fenomeno
 Filtra
+False
 Descriptors
 Descriptor
 Devuelve
@@ -13896,6 +13979,7 @@ Dificil
 Deber
 Division
 Distintos
+Demostracion
 Memoria
 Multivariada
 MORE
@@ -14581,6 +14665,7 @@ Tortuga
 Treaps
 Tree
 Terminamos
+TSP
 Realiza
 REgistrys
 Rango
@@ -14946,6 +15031,9 @@ RNG
 RTs
 Replicas
 Reci
+Reduccion
+Reduciendo
+Reducimos
 bien
 by
 be
@@ -17417,6 +17505,8 @@ Balancer
 Billy
 Balanceo
 Black
+Bipartito
+Bueno
 XY
 Xg
 XQG
@@ -18457,6 +18547,7 @@ Quorum
 QpJg
 Queremos
 Quicksort
+QUEEEEEE
 ximo
 xito
 xitos

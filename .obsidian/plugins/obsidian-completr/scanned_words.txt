@@ -4596,6 +4596,7 @@ procesado
 precisa
 proyecciones
 proximos
+probable
 la
 las
 le
@@ -6319,6 +6320,7 @@ qRI
 qSL
 qaG
 qJR
+quizas
 utilizados
 un
 una
@@ -7930,6 +7932,7 @@ EbRY
 EtVY
 EUf
 Explota
+Estes
 kernel
 kt
 kU
@@ -15779,6 +15782,8 @@ baA
 bKC
 bTj
 bhI
+buscsando
+bloquesGeneramos
 will
 words
 with
@@ -17147,6 +17152,8 @@ jGO
 juntarse
 jutna
 juntaran
+jugadores
+jugador
 Ya
 Yourself
 YAGNI

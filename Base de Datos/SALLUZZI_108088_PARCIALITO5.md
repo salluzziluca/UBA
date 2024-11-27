@@ -2,7 +2,7 @@
 Dia: 2024-11-11
 dg-publish: true
 ---
-## MongoDB
+# MongoDB
 
 1. Para tweets que tengan 1000 o m´as rewteets (‘retweet count’) y hayan depu´es de las 12 del mediod´ıa, obtener los ids, texto y cantidad de favoritos para los 5 con m´as favoritos (‘favorite count’). Utilice una ´unica consulta b´asica con find(, ).sort({}).limit()
 ```js

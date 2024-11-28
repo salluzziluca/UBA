@@ -124,29 +124,3 @@ Es necesario rehacer las [[Transacción|transacciones]] 2, 3 y 5 (que son las qu
 
 ![[Pasted image 20241023211552.png]]
 
-
-| T1     | T2        | T3     |
-| ------ | --------- | ------ |
-| L1(X)  |           |        |
-| RT1(X) |           |        |
-| L1(Y)  |           |        |
-| RT1(Y) |           |        |
-| WT1(X) |           |        |
-| CT1    |           |        |
-| U1(X)  |           |        |
-| U1(Y)  |           |        |
-|        | L2(Y)     |        |
-|        | RT2(Y)    |        |
-|        | L2(Z)     |        |
-|        | RT2(Z)    |        |
-|        | WT2(Z)    |        |
-|        | CT2       |        |
-|        | U2(Y)<br> |        |
-|        | U2(Z)     |        |
-|        |           | L3(Z)  |
-|        |           | RT3(Z) |
-|        |           | L3(X)  |
-|        |           | RT3(X) |
-|        |           | CT3    |
-|        |           | U3(Z)  |
-|        |           | U3(X)  |

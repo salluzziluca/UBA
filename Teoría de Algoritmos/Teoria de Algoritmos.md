@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Inducción Matemática]]
 [[Complejidad de Algoritmos]]
 [[Grafos]]

@@ -1,11 +1,7 @@
 ---
 dg-publish: true
 ---
-@ -1,412 +0,0 @@
----
-Dia: 2024-11-12
-dg-publish: true
----
+
 Viva moreno carajo, hay que hacer costos 
 
 ![[Pasted image 20241115185216.png]]

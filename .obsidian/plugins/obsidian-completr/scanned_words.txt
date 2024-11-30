@@ -1545,6 +1545,7 @@ compensar
 cambien
 cost
 calculos
+caluclar
 de
 dispositivos
 del
@@ -2539,6 +2540,7 @@ group
 gicos
 generamos
 grabar
+grace
 especifico
 entra
 en
@@ -3231,6 +3233,7 @@ estimar
 equitativa
 encadenar
 evita
+equitativamente
 servicios
 son
 su
@@ -3854,6 +3857,7 @@ sima
 supiera
 scan
 seleccion
+suponiendo
 par
 por
 punto
@@ -7034,6 +7038,7 @@ Salvo
 SubsetSum
 Sort
 Simplemente
+ServiciosPlanes
 Calls
 Cmabia
 CPU
@@ -7510,6 +7515,7 @@ Creamos
 Clientes
 Cardinalidad
 Condicion
+CodPLan
 Es
 El
 Estos
@@ -10509,6 +10515,7 @@ Project
 Paralelizar
 Polinomio
 Pipelining
+Provincia
 Interface
 ID
 Instructions
@@ -13705,6 +13712,7 @@ FFB
 Fenomeno
 Filtra
 False
+Formula
 Descriptors
 Descriptor
 Devuelve

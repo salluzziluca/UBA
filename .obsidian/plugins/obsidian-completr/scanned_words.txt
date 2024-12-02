@@ -2224,6 +2224,7 @@ duplicados
 devolverlos
 devuelven
 descartando
+dios
 gestion
 gran
 guarda
@@ -3858,6 +3859,7 @@ supiera
 scan
 seleccion
 suponiendo
+secundario
 par
 por
 punto
@@ -4616,6 +4618,7 @@ procesado
 precisa
 proyecciones
 proximos
+primario
 la
 las
 le

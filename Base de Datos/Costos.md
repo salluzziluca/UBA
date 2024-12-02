@@ -270,7 +270,9 @@ Se recorre bloque a bloque la tabla R y para cada file se hace un index scan en 
 EJ: se recorre la tabla alumnos y para cada alumno se hace index scan en ka tabka de notas por su valor en padron
 
 Si hay indice en ambas tablas, hay que ver cual me conviene, ya que no se pueden usar ambos indices a la vez.
-Si el indice no es de clustering:
+Indice primario sin clustering:
+$cost(R ∗ S) = B(S) + n(S).(Height(I(A,R)) + 1)$
+Indice secundario sin clustering:
 $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
 En cambio, si el índice es de clustering $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )$
 

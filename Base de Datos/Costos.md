@@ -29,7 +29,7 @@ En este tipo de otpimizaciones ya no corren por parte del usuario. Sin internas 
 
 ## Reglas de equivalencia 
 
-Buscamos consultas equivalentes y nos fijamos cual es mas optima. Par abajo es and para arriba es or.
+Buscamos consultas equivalentes y nos fijamos cual es mas optima. Par abajo es and para arriba es or.por dios
 
 ![[Pasted image 20241115185750.png]]
 ![[Pasted image 20241115185836.png]]

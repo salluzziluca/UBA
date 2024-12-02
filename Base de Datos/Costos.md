@@ -332,7 +332,6 @@ Segundo límite: $mín(⌈B(R)/N⌉ ; ⌈B(S)/N⌉) \leq M - 2$
 Si la cantidad de valores distintos es menor a N, no voy a poder llenar N particiones sino V(A,R) particiones ○ Algunas particiones quedarán vacías, y las que tengan datos tendrán un tamaño mayor a B(R)/N y no entrarán en memoria 
 Tercer límite: $mín(⌈B(R)/V(A,R)⌉ ; ⌈B(S)/V(A,S)⌉) \leq M - 2$
 
-$\mu lt$
 #### Ej
 B(alumnos)= 100 B(Notas)=300 NM = 50
 

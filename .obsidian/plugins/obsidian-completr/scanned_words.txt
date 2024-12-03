@@ -2225,6 +2225,8 @@ devolverlos
 devuelven
 descartando
 dios
+deba
+durabilidad
 gestion
 gran
 guarda
@@ -3235,6 +3237,8 @@ equitativa
 encadenar
 evita
 equitativamente
+edecucion
+evitamos
 servicios
 son
 su
@@ -4619,6 +4623,7 @@ precisa
 proyecciones
 proximos
 primario
+permtir
 la
 las
 le
@@ -5041,6 +5046,7 @@ logM
 levanto
 loops
 llenarse
+loq
 agnosticos
 apps
 al
@@ -5773,6 +5779,7 @@ aparece
 aplicada
 anteiror
 ahorra
+asegurra
 hardware
 heap
 hay
@@ -8700,6 +8707,9 @@ restantes
 repetidos
 restarse
 requerir
+rollbackea
+rezar
+recuperabilidad
 operacion
 orden
 operaciones
@@ -16835,6 +16845,7 @@ jugador
 juntarse
 jutna
 juntaran
+jamas
 Ya
 Yourself
 YAGNI

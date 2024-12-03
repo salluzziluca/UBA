@@ -135,6 +135,7 @@ sin clustering: $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / V(A,R)⌉$
 Si es de clusteriing, las filas van a estar en bloques contiguos: 
 $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈n(R) / (V(A,R) * F(R))⌉$ Equivalente a: $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈B(R) / V(A,R)⌉$
 
+Si tenemos histograma (el valor exacto de la cantidad de filas) podemos hacer H+n(r)/F y loisto, siendo n la cantidad de filas en el histograma
 
 Si la condición no es por igualdad, puede extenderse la fórmula anterior pero en general el costo es mayor, salvo rangos acotados $σ Ai>=v1 ∧ Ai<=v2 (R)$
 

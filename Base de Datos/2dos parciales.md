@@ -219,4 +219,5 @@ Escriba una consulta en Neo4j que, dado un estudiante específico de padrón p l
 
 ```cypher
 MATCH (est: Estudiante {padron = p})->[:APROBO]->(asing: Asignatura)->[:OFRECE]->(con: Conocimiento)<-[:DESEA]-(busq: Busqueda)
-RETURN busq count(conoci)
+RETURN busq count(distinct conoci)
+Order BY count(distinct conoci)

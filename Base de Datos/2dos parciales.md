@@ -244,3 +244,20 @@ bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo 
 
 Encontramos el end en la 11 y subimos hasta encontrar su begin ckpt en la 06. El checkpoint es sobre T2, por lo que retrocedo hasta el begin de T2. A partir de ahi (linea 2) deshago y hago abort de todo lo que no haya commiteado (t3 y t4). 
 A = 8, b =8, c = 9 y aborto T3 yt4
+
+---
+
+(Procesamiento de consultas) Gustavo trabaja en la Dirección de Tránsito del municipio de Tandil. Cada vez que un conductor se acerca para renovar su licencia de conducir, Gustavo debe verificar que el mismo no posea ninguna multa de tránsito pendiente de pago. Para consultar el estado de deuda del conductor, Gustavo accede a una base de datos relacional con las siguientes dos tablas:
+![[Pasted image 20241204135216.png]]
+
+La base de datos también dispone de un índice secundario por DNI_propietario y de un índice de clustering por pagada, ambos sobre la tabla Multas. Cuando Clemenciano Taqui llega para renovar su licencia (nro. 740523), Gustavo ejecuta la siguiente consulta en la base de datos:
+
+```SQL 
+SELECT ∗
+FROM l i c e n c i a s INNER JOIN multas ON DNI_conductor=DN I_p ropie ta rio
+WHERE n r o _li c e n ci a =740523
+AND pagada IS FALSE ;
+```
+
+Se pide: 
+a) Proponga un plan de ejecución eficiente para esta consulta. Para ello dibuje un plan de consulta y anote sobre el mismo los métodos de acceso o algoritmos que se utilizarán en cada paso.

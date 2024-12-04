@@ -130,4 +130,6 @@ Costo total = 5+10=15
 
 Se pide:
 a) Indique qué cantidad k de particiones intentaría generar para que la junta hash GRACE sea factible de ser realizada, justificando su respuesta. Estime qué tamaño promedio –en términos de cantidad de bloques– tendrían las particiones en ese caso.
-b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función de hash en cadatabla, a efecto de construir las particiones
+b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función de hash en cada tabla, a efecto de construir las particiones
+
+N<=M-1

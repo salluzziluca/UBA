@@ -5806,6 +5806,7 @@ asegurra
 argentina
 anote
 arm
+arma
 hardware
 heap
 hay
@@ -9426,6 +9427,7 @@ ngulo
 notas
 neuevos
 nsito
+ntas
 via
 vuelve
 viven
@@ -10157,6 +10159,7 @@ Almacenar
 Aristas
 Agregamos
 Adaptamos
+Asumiendo
 Programming
 Procesos
 Partes
@@ -13170,6 +13173,7 @@ fulas
 foro
 falsa
 ficamente
+factible
 Nombre
 Notas
 Not
@@ -16903,6 +16907,7 @@ jutna
 juntaran
 jamas
 jam
+justificando
 Ya
 Yourself
 YAGNI
@@ -17378,6 +17383,7 @@ Greedy
 Guardamos
 Gracias
 Grace
+GRACE
 BX
 Bit
 Box

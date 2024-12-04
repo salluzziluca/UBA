@@ -97,4 +97,20 @@ determinan el quite de la licencia de por vida al propietario del vehículo.
 Por lo tanto, cuando una persona se presenta para renovar su licencia de conducir, además de
 chequear que la persona no haya cometido ella misma infracciones, se chequea que jamás se
 haya cometido una infracción de tipo 4 con ninguno de los vehículos que son de su propiedad.
-De lo contrario, la licencia es denegada. La siguiente consulta, en particular, es realizad
+De lo contrario, la licencia es denegada. La siguiente consulta, en particular, es realizada cuando Marlon Siniestra (DNI 18.324.715) se presenta a renovar su licencia en las oficinas de
+la Dirección de Tránsito:
+```SQL
+SELECT ∗
+FROM P r o p i e t a r i o p INNER JOIN Multa m USING ( ma t ri c ula )
+WHERE p . DNI = 18324715 AND m. ti p o = 4 ;
+```
+Se pide:
+a) Sugiera dos índices que puedan utilizarse para ejecutar más eficientemente esta consulta.
+Luego dibuje un plan de ejecución que haga uso de estos dos índices para la consulta.
+Específicamente, dibuje el árbol del plan de consulta y anote sobre el mismo los métodos
+de acceso o algoritmos que se utilizarán en cada paso.
+b) Estime el costo del plan de ejecución que armó en el punto anterior, en términos de
+cantidad de accesos a bloques de disco.
+Para el ejercicio considere que los índices son de tipo árbol y tienen altura 4. Además,
+considere para sus cálculos la siguiente información de catálogo:
+![[Pasted image 20241204104742.png]]

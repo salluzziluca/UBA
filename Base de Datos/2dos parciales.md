@@ -273,4 +273,6 @@ Para el ejercicio considere que los índices son de tipo árbol y tienen altura 
 
 costo file scan licencias = B(Licencias) = 5.000
 
-por pipeline sale una sola licencia, la 740523, por lo que n()=1
+por pipeline sale una sola licencia, la 740523, por lo que n()=1 
+
+luego para el loop con unico indice 

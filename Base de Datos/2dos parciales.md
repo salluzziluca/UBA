@@ -191,3 +191,30 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 ```
 
 Si, shardear por id siempre es una opcion, no siempre la mejor, pero es ir a lo seguro. Se podrian hashear los diferentes IDs y agruparlos en shards segun lo que devuelva esa funcion de hashing. dE esa forma quedarian distribuidas las diferentes peliculas de manera bastante equitativa. El unico tema es que al calcular el promedio por actor, esto se hara por shard, por l que el numero variará mucho entre shards. LA solucion es que devuelvea la suma de las  peliculas y la cantidad de peliculas de ese shard para el actor
+
+
+## neo
+b) (Neo4j) La Facultad de Ingeniería quiere implementar un sistema de búsqueda de empleo en el que los estudiantes puedan cargar las asignaturas que cursaron y las empresas
+puedan cargar los conocimientos que requieren en cada búsqueda. El objetivo del sistema
+es recomendar a los estudiantes ofertas de empleo para las cuales estén potencialmente
+calificados, a partir de la información que se almacenará en una base de datos en Neo4j
+con los siguientes nodos y aristas:
+```cypher
+1 ( e s t : E s t u dia n t e {nombre : ' Guille rmina ' , a p e l l i d o : ' Fabbri ' ,
+2 username : ' l a g u i l l e 9 9 ' , padr ón : 109329 } )
+3 ( a si g n : A signa tu ra {nombre : ' Base de Datos ' , co digo : '7515 ' } )
+4 ( conoc : Conocimiento {nombre : 'BASES DE DATOS NOSQL' } )
+5 ( conoc2 : Conocimiento {nombre : 'POSTGRESQL' } )
+6 ( busq : Busqueda {nombre_empresa : ' El Sauce S .R. L . ' ,
+7 f e c h a : '2023−10−27 ' , co n ta c to : ' r r h h@ el sa u c e . com . ar ' } )
+8 . . .
+9 ( e s t )−[ :APROBO]−>(a si g n )
+10 ( a si g n )−[ :OFRECE]−>(conoc )
+11 ( busq )−[ :DESEA]−>(conoc )
+```
+Así, cuando un estudiante se encuentre buscando empleo, el sistema le rankeará las
+búsquedas disponibles mostrando primero aquellas para las cuales el estudiante se encuentra mejor preparado, en el sentido de que cumpla con poseer la mayor cantidad de
+conocimientos que la misma exije.
+Escriba una consulta en Neo4j que, dado un estudiante específico de padrón p liste las
+búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y la cantidad
+de conocimientos deseados por la misma que el alumno posee.

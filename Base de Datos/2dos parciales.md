@@ -279,4 +279,5 @@ luego para el loop con unico indice secundario sin clustering (DNI PROPIETARIO)
 
 $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
 
-$1*(H+n\left( \frac{multas}{} \right)$
+$1*(H+\left( \frac{n(multas)}{V(DNI\_PROP,MULTAS)} \right)$
+= 1(4+60.000/15.000)=4+

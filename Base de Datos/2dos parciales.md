@@ -135,3 +135,4 @@ b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función d
 N<=M-1
 por lo que N= 20.000-1 -> 19.999 
 Luego min(B(R)/N, B(S)/N)<= M-2-> 30.000/N <= M-2
+N = 2

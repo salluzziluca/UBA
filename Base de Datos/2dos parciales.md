@@ -370,3 +370,20 @@ Extraeremos los trending topics en base a los hashtags indicados en la publicaci
 ]
 
 ```
+
+
+## Neo 
+(Neo4j) Una base de datos en Neo4j posee información sobre cada uno de los vinos que se producen en Argentina, indicando las bodegas que los producen y las cepas de uva con las que se produce cada vino, como se muestra en el siguiente ejemplo:
+```cypher
+CREATE 
+  (v:Vino {nombre: '33 orientales', puntaje: 37.4, precio: 315.2}),
+  (b:Bodega {nombre: 'El charrúa'}),
+  (c1:Cepa {nombre: 'Cabernet Sauvignon'}),
+  (c2:Cepa {nombre: 'Malbec'}),
+  (b)-[:FABRICA]->(v),
+  (v)-[:ELABORADO_CON]->(c1),
+  (v)-[:ELABORADO_CON]->(c2);
+```
+
+Los puntajes de los vinos oscilan entre 0 y 100. En particular, el vino del ejemplo anterior es fabricado por la bodega El charrúa, se elabora con cepas de cabernet sauvignon y malbec, y posee un puntaje de 37.4. Escriba una consulta en Neo4j que encuentre el nombre de la bodega que fabrique el vino de cepa Syrah monovarietal (es decir, que se elabora con una única cepa) de mayor puntaje en Argentina, mostrando el nombre de la bodega, el nombre del vino y su precio. Nota: Le sugerimos utilizar la estructura MATCH ... WHERE [NOT] EXISTS { MATCH pattern } ... como parte de la solución.
+

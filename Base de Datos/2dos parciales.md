@@ -25,18 +25,18 @@ db.collection.aggregate([
 	_id: "$autores",
 	"cantidad": {
 	$sum: 1
-	},
+			},
 	"promedio_puntaje": {
 	$avg: "$puntaje"
-	}
-	}
+			}
+		}
 	},
 	{
 	$match: {
 	"cantidad": {
 	$gte: 10
-	}
-	}
+			}
+		}
 	},
 	{
 	$project: {
@@ -44,7 +44,7 @@ db.collection.aggregate([
 	"cantidad": 1,
 	"promedio_puntaje": 1,
 	_id: 0
+		}
 	}
-}
 ])
 ```

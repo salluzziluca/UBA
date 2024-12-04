@@ -133,6 +133,7 @@ B(vehiculos)/Variabilidad = 200.000/600.000 = 1/3. B(multas)/variabilidad = 30.0
 Se pide:
 a) Indique qué cantidad k de particiones intentaría generar para que la junta hash GRACE sea factible de ser realizada, justificando su respuesta. Estime qué tamaño promedio –en términos de cantidad de bloques– tendrían las particiones en ese caso.
 b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función de hash en cada tabla, a efecto de construir las particiones
+c) Estime cuál sería el costo de realizar la junta planteada, en términos de cantidad de accesos a bloques de disco. Considere que el agrupamiento posterior se realiza en pipeline utilizando un diccionario en memoria, y por lo tanto no incurre en costos de acceso a disco.
 
 N<=M-1
 por lo que N= 20.000-1 -> 19.999 
@@ -140,3 +141,5 @@ Luego min(B(R)/N, B(S)/N)<= M-2-> 30.000/N <= M-2
 ambas entran porque 30.000/19.999 <= M-2 y 200.000/19.999 <=M-2
 
 b) los atributos a hashear sean matriculas en la tabla de vehiculos y matriculas en la tabla de multas
+
+$3*B(Multa) +3*B(vehiculos)= 3*30.000+3*200.000$

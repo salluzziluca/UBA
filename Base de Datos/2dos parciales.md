@@ -215,9 +215,7 @@ con los siguientes nodos y aristas:
 Así, cuando un estudiante se encuentre buscando empleo, el sistema le rankeará las
 búsquedas disponibles mostrando primero aquellas para las cuales el estudiante se encuentra mejor preparado, en el sentido de que cumpla con poseer la mayor cantidad de
 conocimientos que la misma exije.
-Escriba una consulta en Neo4j que, dado un estudiante específico de padrón p liste las
-búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y la cantidad
-de conocimientos deseados por la misma que el alumno posee.
+Escriba una consulta en Neo4j que, dado un estudiante específico de padrón p liste las búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y la cantidad de conocimientos deseados por la misma que el alumno posee.
 
 ```cypher
-(est: Estudiante {padron = p})-[:APROBO]-(asing: Asignatura)-[:OFRECE]->(con: Conocimiento)<-[:DESEA]-(busq: Busqueda)
+MATCH (est: Estudiante {padron = p})->[:APROBO]-<(asing: Asignatura)->[:OFRECE]->(con: Conocimiento)<-[:DESEA]-(busq: Busqueda)

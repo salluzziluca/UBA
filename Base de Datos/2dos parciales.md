@@ -78,16 +78,7 @@ a) Hasta el inicio de la transaccion mas antigua entre T1 y T3, es decir, hasta 
 
 (Procesamiento de consultas) Como recordará de exámenes previos, los siguientes esquemas
 de relación almacenan información sobre las multas de tránsito de la Ciudad de Buenos Aires:
-```SQL
-PERSONA(DNI, nombre, apellido, direccion, ciudad, celular)
-// (21.454.201, ‘Ramón’, ‘Mercury’, ‘Av. Rivadavia 500’, ‘Rosario’, 5240-6544)
-VEHICULO(matricula, marca, modelo, fecha_VTV)
-// (‘AR 251 GH’, ‘RENAULT’, ‘DUSTER’, ‘2022-12-05’)
-MULTA(nro_multa, DNI_infractor, matricula, tipo, hora, fecha, lugar, importe)
-// (1809, 21.454.201, ‘AR 251 GH’, 2, 12:23:21, ‘2022-01-01’, ‘RUTA 205 KM 34.5’, 350.000)
-PROPIETARIO(DNI,matricula)
-// ( 21.454.201, ‘AR 251 GH’)
-```
+![[Pasted image 20241204105113.png]]
 Tenga en cuenta que el infractor que cometió una multa con un vehículo no es necesariamente
 la misma persona registrada como propietaria de ese vehículo.
 Esta base de datos registra distintos tipos de multa, que van desde el tipo 1 (menos severa)

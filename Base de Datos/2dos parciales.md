@@ -402,3 +402,18 @@ ORDER BY
 LIMIT 1;
 ```
 
+
+
+## Concurrencia 
+(Concurrencia) Se dice que una transacción T1 realiza una Lectura no Repetible ó
+Unrepeatable Read cuando la misma lee un ítem X, luego otra transacción T2 escribe ese
+mismo ítem, y posteriormente T1 vuelve a leer el ítem, encontrando un valor distinto al
+anteriormente leído. Indique si las siguientes afirmaciones sobre la Lectura no Repetible
+son verdaderas ó falsas. Justifique cada una de sus respuestas.
+1) En un solapamiento recuperable puede ocurrir una Lectura no Repetible.
+2) En un solapamiento que evita rollbacks en cascada puede ocurrir una Lectura no
+Repetible.
+3) Aplicando el Protocolo de Lock de Dos Fases (2PL) puede ocurrir una Lectura no
+Repetible.
+4) Bajo el nivel de aislamiento Read Committed definido en el estándar SQL puede
+ocurrir una Lectura no Repetible.

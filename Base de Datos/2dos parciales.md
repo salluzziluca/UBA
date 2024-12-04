@@ -200,13 +200,13 @@ es recomendar a los estudiantes ofertas de empleo para las cuales estén potenci
 calificados, a partir de la información que se almacenará en una base de datos en Neo4j
 con los siguientes nodos y aristas:
 ```cypher
-1 ( e s t : E s t u dia n t e {nombre : ' Guille rmina ' , a p e l l i d o : ' Fabbri ' ,
-2 username : ' l a g u i l l e 9 9 ' , padr ón : 109329 } )
-3 ( a si g n : A signa tu ra {nombre : ' Base de Datos ' , co digo : '7515 ' } )
+1 ( est:Estudiante {nombre : 'Guillermina' , apellido : ' Fabbri ' ,
+2 username : ' laguille9  ' , padrón : 109329 } )
+3 ( asign : Asignatura {nombre : ' Base de Datos ' , codigo : '7515 ' } )
 4 ( conoc : Conocimiento {nombre : 'BASES DE DATOS NOSQL' } )
 5 ( conoc2 : Conocimiento {nombre : 'POSTGRESQL' } )
 6 ( busq : Busqueda {nombre_empresa : ' El Sauce S .R. L . ' ,
-7 f e c h a : '2023−10−27 ' , co n ta c to : ' r r h h@ el sa u c e . com . ar ' } )
+7 fecha : '2023−10−27 ' , co n ta c to : ' r r h h@ el sa u c e . com . ar ' } )
 8 . . .
 9 ( e s t )−[ :APROBO]−>(a si g n )
 10 ( a si g n )−[ :OFRECE]−>(conoc )
@@ -218,3 +218,5 @@ conocimientos que la misma exije.
 Escriba una consulta en Neo4j que, dado un estudiante específico de padrón p liste las
 búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y la cantidad
 de conocimientos deseados por la misma que el alumno posee.
+
+```cypher

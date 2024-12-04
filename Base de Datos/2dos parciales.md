@@ -114,3 +114,4 @@ cantidad de accesos a bloques de disco.
 Para el ejercicio considere que los índices son de tipo árbol y tienen altura 4. Además,
 considere para sus cálculos la siguiente información de catálogo:
 ![[Pasted image 20241204104742.png]]
+

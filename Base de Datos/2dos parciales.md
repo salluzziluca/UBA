@@ -116,4 +116,7 @@ su cardinalidad seria n/variabiilidad = 600.000/300.000= 2
 y su B = n/F(r)=  600.000/6=100.000
 F(r) = n/B = 6
 
-costo junta
+costo junta: loop con unico indice
+Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )
+B(R) no me interesa por pipeline y n(R) = 2 
+2*

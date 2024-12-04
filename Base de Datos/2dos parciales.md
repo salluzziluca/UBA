@@ -206,10 +206,10 @@ con los siguientes nodos y aristas:
 4 ( conoc : Conocimiento {nombre : 'BASES DE DATOS NOSQL' } )
 5 ( conoc2 : Conocimiento {nombre : 'POSTGRESQL' } )
 6 ( busq : Busqueda {nombre_empresa : ' El Sauce S .R. L . ' ,
-7 fecha : '2023−10−27 ' , co n ta c to : ' r r h h@ el sa u c e . com . ar ' } )
+7 fecha : '2023−10−27 ' , contacto : ' rrhh@elsauce.com.ar ' } )
 8 . . .
-9 ( e s t )−[ :APROBO]−>(a si g n )
-10 ( a si g n )−[ :OFRECE]−>(conoc )
+9 ( est )−[ :APROBO]−>(asign)
+10 ( asign )−[ :OFRECE]−>(conoc )
 11 ( busq )−[ :DESEA]−>(conoc )
 ```
 Así, cuando un estudiante se encuentre buscando empleo, el sistema le rankeará las
@@ -220,3 +220,4 @@ búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y l
 de conocimientos deseados por la misma que el alumno posee.
 
 ```cypher
+(est: Estudiante {padron = p})-

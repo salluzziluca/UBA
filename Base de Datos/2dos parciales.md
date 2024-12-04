@@ -294,3 +294,6 @@ $Asesores ▷◁_{prov\_asignada=prov\_origen}  Productores$
 Estime la cardinalidad del resultado de esta junta en términos de cantidad de tuplas y en términos de cantidad de bloques, utilizando el siguiente histograma de frecuencias extraído de la información de catálogo que muestra la frecuencia de las 5 provincias principales de cada tabla. Considere además que V (prov_asignada, Asesores) = V (prov_origen, P roductores) = 23 y que el factor de bloque de ambas tablas es de 10.
 
 ![[Pasted image 20241204141545.png]]
+
+$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
+n(asesores))

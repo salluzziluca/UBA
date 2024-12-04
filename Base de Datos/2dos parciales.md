@@ -164,12 +164,14 @@ siguiente documento:
 ```
 Mientras discutían qué métrica utilizar para rankear a los actores, algunos sugerían usar el puntaje promedio en IMDB de sus películas como un valor representativo. Otros encambio consideraban que se debía tomar el mejor puntaje de entre todas las películas
 en las que el actor participó, ya que si un actor participó en una película muy buena, entonces valía la pena seguirlo aún cuando su promedio fuera malo.
-Finalmente, se decidió por una estrategia híbrida en que se ordenará a los actores por su puntaje promedio en todas sus películas, pero se exluirá luego a aquellos actores cuya mejor película tenga un puntaje mayor o igual a 8.0.
+Finalmente, se decidió por una estrategia híbrida en que se ordenará a los actores por su puntaje promedio en todas sus películas, pero se exluirá luego a aquellos actores cuya mejor película no tenga un puntaje mayor o igual a 8.0.
 1) Escriba una consulta en MongoDB que devuelva el listado de los 100 mejores actores ordenados por este criterio, indicando para cada actor su nombre y apellido, su puntaje promedio, y la máxima puntuación obtenida por sus pelícuas.
 2) Explique si la consulta anterior puede ser ejecutada con la colección shardeada por el atributo $\_id$. En caso afirmativo, explique brevemente cómo podría realizarse el cálculo anterior en forma distribuida entre los shards y los servidores de agregación. En caso negativo, explique cuál debería ser el/los atributo/s de sharding, y cómo se realizaría el cálculo en forma distribuída en ese caso.
 
 ```json 
 {
-
+	{unwind: $actores}
+	{groupby:{
+	}}
 }
 ```

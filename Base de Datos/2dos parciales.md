@@ -297,5 +297,9 @@ Estime la cardinalidad del resultado de esta junta en términos de cantidad de t
 
 $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
 n(asesores)= 655
-f
+f=n/B = 10
+B = n/10 = 66
 n(productores)=9460
+B = 946
+
+Cost(Aesores x Productores) = 

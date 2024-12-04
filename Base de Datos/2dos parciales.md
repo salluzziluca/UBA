@@ -126,3 +126,8 @@ Costo total = 5+10=15
 
 
 (Procesamiento de consultas) Para las mismas tablas del ejercicio anterior y la misma información de catálogo, se quiere calcular cuántas multas se han cometido con cada marca de vehículo. Asumiendo que no se cuenta con ningún tipo de índice y que se dispone de M=20.000 bloques de memoria, se arma el siguiente plan de ejecución en el que la junta se realiza por el método de hash GRACE:
+![[Pasted image 20241204111658.png]]
+
+Se pide:
+a) Indique qué cantidad k de particiones intentaría generar para que la junta hash GRACE sea factible de ser realizada, justificando su respuesta. Estime qué tamaño promedio –en términos de cantidad de bloques– tendrían las particiones en ese caso.
+b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función de hash en cadatabla, a efecto de construir las particiones

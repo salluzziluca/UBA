@@ -316,5 +316,5 @@ $(280*3100)/(23-5)=48223$
 
 $90*1700+110*2200+70*1100+60*640+45*720+48223=591.023$
 como F= 10 para cada una de las tablas entonces el F del join es 
-F= 
-los bloques van a ser 591.023/10 = 59.103
+F= $\frac{1}{\frac{1}{f}*1/f}= \frac{1}{1/5 * 1/5}= 5$
+los bloques van a ser 591.023/5 = 118205

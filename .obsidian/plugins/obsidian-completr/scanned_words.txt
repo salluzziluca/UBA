@@ -1561,6 +1561,7 @@ colecci
 cursaron
 conocimientos
 calificados
+ckpt
 de
 dispositivos
 del
@@ -2250,6 +2251,7 @@ deb
 distribu
 devuelvea
 deseados
+deshago
 gestion
 gran
 guarda
@@ -3273,6 +3275,7 @@ empleo
 estudiantes
 empresas
 exije
+end
 servicios
 son
 su
@@ -3908,6 +3911,7 @@ shards
 sharding
 shardear
 shard
+subimos
 par
 por
 punto
@@ -4681,6 +4685,9 @@ podrian
 potencialmente
 preparado
 poseer
+posea
+pago
+pagada
 la
 las
 le
@@ -5850,6 +5857,8 @@ agrupamiento
 afirmativo
 agruparlos
 asignaturas
+aborto
+acerca
 hardware
 heap
 hay
@@ -7606,6 +7615,7 @@ CodPLan
 Ciudad
 Considere
 Cin
+Clemenciano
 Es
 El
 Estos
@@ -8010,6 +8020,7 @@ Explota
 Espec
 Estime
 Escriba
+Encontramos
 kernel
 kt
 kU
@@ -10631,6 +10642,7 @@ Pipelining
 Provincia
 Procesamiento
 Paseo
+Proponga
 Interface
 ID
 Instructions
@@ -11801,6 +11813,7 @@ multas
 multa
 matriculas
 mTrMeKoc
+municipio
 tien
 tiene
 todos
@@ -14616,6 +14629,7 @@ Merkle
 Merge
 Marlon
 Mongo
+Multas
 Table
 Todos
 This
@@ -14934,6 +14948,8 @@ Terminamos
 TSP
 Tonga
 Tenga
+Tandil
+Taqui
 Realiza
 REgistrys
 Rango
@@ -17453,6 +17469,7 @@ Guardamos
 Gracias
 Grace
 GRACE
+Gustavo
 BX
 Bit
 Box

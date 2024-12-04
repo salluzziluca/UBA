@@ -220,4 +220,4 @@ búsquedas ordenadas con dicho criterio, indicando los datos de la búsqueda y l
 de conocimientos deseados por la misma que el alumno posee.
 
 ```cypher
-(est: Estudiante {padron = p})-
+(est: Estudiante {padron = p})-[:APROBO]-(asing: Asignatura)-[:OFRECE]->(con: Conocimiento)<-[:DESEA]-(busq: Busqueda)

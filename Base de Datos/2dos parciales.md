@@ -70,3 +70,29 @@ RETURN t1, t2, cantidad
 
 ![[Pasted image 20241204102911.png]]
 a) Hasta el inicio de la transaccion mas antigua entre T1 y T3, es decir, hasta la linea 1 b) En A grabamos 10, en B 40, en C 17 y en B 30 Queda en A 10, en B 30, en C 17
+
+
+
+
+---- 
+
+(Procesamiento de consultas) Como recordará de exámenes previos, los siguientes esquemas
+de relación almacenan información sobre las multas de tránsito de la Ciudad de Buenos Aires:
+PERSONA(DNI, nombre, apellido, direccion, ciudad, celular)
+// (21.454.201, ‘Ramón’, ‘Mercury’, ‘Av. Rivadavia 500’, ‘Rosario’, 5240-6544)
+VEHICULO(matricula, marca, modelo, fecha_VTV)
+// (‘AR 251 GH’, ‘RENAULT’, ‘DUSTER’, ‘2022-12-05’)
+MULTA(nro_multa, DNI_infractor, matricula, tipo, hora, fecha, lugar, importe)
+// (1809, 21.454.201, ‘AR 251 GH’, 2, 12:23:21, ‘2022-01-01’, ‘RUTA 205 KM 34.5’, 350.000)
+PROPIETARIO(DNI,matricula)
+// ( 21.454.201, ‘AR 251 GH’)
+Tenga en cuenta que el infractor que cometió una multa con un vehículo no es necesariamente
+la misma persona registrada como propietaria de ese vehículo.
+Esta base de datos registra distintos tipos de multa, que van desde el tipo 1 (menos severa)
+al tipo 4 (muy severa). Entre las multas de tipo 4 se incluyen infracciones como “ingresar al
+Paseo del Bajo en contramano” o “cruzar semáforo en rojo sonando una sirena falsa”, que
+determinan el quite de la licencia de por vida al propietario del vehículo.
+Por lo tanto, cuando una persona se presenta para renovar su licencia de conducir, además de
+chequear que la persona no haya cometido ella misma infracciones, se chequea que jamás se
+haya cometido una infracción de tipo 4 con ninguno de los vehículos que son de su propiedad.
+De lo contrario, la licencia es denegada. La siguiente consulta, en particular, es realizad

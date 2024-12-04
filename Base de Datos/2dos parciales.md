@@ -113,5 +113,7 @@ $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈B(R) / V(A,R)⌉$
 4+⌈100.000/300.000⌉ = 4+1=5
 
 su cardinalidad seria n/variabiilidad = 600.000/300.000= 2
-y su B = n/F(r)=  
-F(r) = n/B
+y su B = n/F(r)=  600.000/6=100.000
+F(r) = n/B = 6
+
+costo junta

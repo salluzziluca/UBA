@@ -275,4 +275,8 @@ costo file scan licencias = B(Licencias) = 5.000
 
 por pipeline sale una sola licencia, la 740523, por lo que n()=1 
 
-luego para el loop con unico indice 
+luego para el loop con unico indice secundario sin clustering (DNI PROPIETARIO)
+
+$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
+
+$1*(H+n\left( \frac{multas}{} \right)$

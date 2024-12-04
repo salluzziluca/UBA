@@ -242,4 +242,4 @@ No es recuperable porque T1 escribe en Y y luego T2 lee, mas t1 commitea despues
 En la recuperación hay nuevamente dos situaciones: Que encontremos primero un registro (END CKPT).En ese caso, deberemos retroceder hasta el (BEGIN , Tx ) más antiguo del listado que figure en el (BEGIN CKPT). Deshago los writes y Escribo (ABORT, Ty ) para aquellas que no hayan commiteado.
 bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve. Deberemos volver hacia atrás, pero sólo hasta el inicio de la más antigua del listado
 
-Encuentro el begin en la 12, no nos sirve, seguimos retrocediendo, encontramos el end en la 11 y subimos hasta encontrar su begind
+Encontramos el end en la 11 y subimos hasta encontrar su begin ckpt en la 06. El checkpoint es sobre T2, por lo que retrocedo 

@@ -428,3 +428,7 @@ ocurrir una Lectura no Repetible.
 
 
 En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.
+
+Solución: El checkpoint concluído asegura que T3 ya tiene sus datos asegurados en disco por haber hecho su commit antes del BEGIN CKPT. Asimismo, los cambios realizados por T1 y T2 antes del checkpoint también están en disco. Como T4 nunca hizo COMMIT, habrá que deshacerla. Como T1 y T2 hicieron su COMMIT, se deberán rehacer desde el checkpoint en adelante. Entonces:
+
+

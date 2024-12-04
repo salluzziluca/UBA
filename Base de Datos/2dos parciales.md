@@ -264,6 +264,8 @@ a) Proponga un plan de ejecución eficiente para esta consulta. Para ello dibuje
 
 ![[Drawing 2024-12-04 13.57.12.excalidraw]]
 
+osto C
+
 b) Estime el costo del plan de ejecución que armó en el punto anterior, en términos de cantidad de accesos a bloques de disco. 
 Para el ejercicio considere que los índices son de tipo árbol y tienen altura 4. Además, considere para sus cálculos la siguiente información de catálogo:
 ![[Pasted image 20241204135306.png]]

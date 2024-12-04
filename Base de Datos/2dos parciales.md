@@ -310,8 +310,8 @@ $90*1700+110*2200+70*1100+60*640+45*720$
 luego entonces n(asesores)= 280 y n(productores) = 3100 
 por lo que 
 
-$Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )=$ 
-
+$$n(R⨝S) = n(R) * n(S) / máx(V(A,R) , V(A,S))$$
+(280+3100)/23=
 n(asesores)= 655
 f=n/B = 10
 B = n/10 = 66

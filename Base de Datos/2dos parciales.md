@@ -101,8 +101,8 @@ De lo contrario, la licencia es denegada. La siguiente consulta, en particular, 
 la Dirección de Tránsito:
 ```SQL
 SELECT ∗
-FROM P r o p i e t a r i o p INNER JOIN Multa m USING ( ma t ri c ula )
-WHERE p . DNI = 18324715 AND m. ti p o = 4 ;
+FROM Propietario p INNER JOIN Multa m USING ( matricula )
+WHERE p.DNI = 18324715 AND m.tipo = 4 ;
 ```
 Se pide:
 a) Sugiera dos índices que puedan utilizarse para ejecutar más eficientemente esta consulta.

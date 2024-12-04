@@ -143,3 +143,38 @@ ambas entran porque 30.000/19.999 <= M-2 y 200.000/19.999 <=M-2
 b) los atributos a hashear sean matriculas en la tabla de vehiculos y matriculas en la tabla de multas
 
 $3*B(Multa) +3*B(vehiculos)= 3*30.000+3*200.000$
+
+
+
+## Mongo 
+(MongoDB) El Club de Cinéfilos quiere armar un ranking de actores que permita a sus
+miembros saber quiénes son los 100 actores a los que más vale la pena seguir. Para ello,
+cuentan con una base de datos de películas en MongoDB, que indica el puntaje en IMDB
+de cada película junto con el listado de actores de la película, tal como ejemplifica el
+siguiente documento:
+```json
+ {
+ "_id" : 10910355903998401931 ,
+ " nomb re_pelicula " : " I n t e r s t e l l a r " ,
+" g e n e r o_ p ri n ci p al " : " Ci e n cia F i c c i ón" ,
+ "puntaje_IMDB" : 8. 7 ,
+ " a c t o r e s " : [ 'Matthew McConaughey ' , ' J e s s i c a Chastain ' , 'Anne Hathaway ' ,
+' Mackenzie Foy ' , ' Timoth é e Chalamet ' , 'Matt Damon' , ' Michael Caine ' ]
+ }
+```
+Mientras discutían qué métrica utilizar para rankear a los actores, algunos sugerían usar
+el puntaje promedio en IMDB de sus películas como un valor representativo. Otros en
+cambio consideraban que se debía tomar el mejor puntaje de entre todas las películas
+en las que el actor participó, ya que si un actor participó en una película muy buena,
+entonces valía la pena seguirlo aún cuando su promedio fuera malo.
+Finalmente, se decidió por una estrategia híbrida en que se ordenará a los actores por
+su puntaje promedio en todas sus películas, pero se exluirá luego a aquellos actores cuya
+mejor película tenga un puntaje mayor o igual a 8.0.
+1) Escriba una consulta en MongoDB que devuelva el listado de los 100 mejores actores
+ordenados por este criterio, indicando para cada actor su nombre y apellido, su
+puntaje promedio, y la máxima puntuación obtenida por sus pelícuas.
+2) Explique si la consulta anterior puede ser ejecutada con la colección shardeada por
+el atributo _id. En caso afirmativo, explique brevemente cómo podría realizarse el
+cálculo anterior en forma distribuida entre los shards y los servidores de agregación.
+En caso negativo, explique cuál debería ser el/los atributo/s de sharding, y cómo
+se realizaría el cálculo en forma distribuída en ese caso.

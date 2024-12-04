@@ -185,7 +185,7 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 		"promedio": -1
 		}
 	},
-	{limit}	
+	{$limit:100}	
 		
 ]
 ```

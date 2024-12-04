@@ -176,6 +176,9 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 		promedio: {$avg: "$puntaje_IMDB"},
 		mejor_pelicula: {$max: "$puntaje_IMDB"}
 	}},
-	
+	{$match:{
+		mejor_pelicula:{
+		$gte:8}
+		}}
 ]
 ```

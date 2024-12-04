@@ -189,3 +189,5 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 		
 ]
 ```
+
+Si, shardear por id siempre es una opcion, no siempre la mejor, pero es ir a lo seguro. Se podrian hashear los diferentes IDs y agruparlos en shards segun lo que devuelva esa funcion de hashing.

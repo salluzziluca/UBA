@@ -324,34 +324,38 @@ los bloques van a ser 591.023/5 = 118205
 (MongoDB) Accederemos a una base de datos en MongoDB con tweets de mayo de 2023 de todo el mundo, a fin de estimar cuáles fueron los trending topics del mes en Argentina. Cada tweet de esta base de datos tiene una estructura similar a la siguiente:
 
 
-```Cypher 
- {
-2 " c rea ted_a t " : "Mon May 29 20 : 19 : 24 +0000 2023" ,
-3 " i d " : 1050118621198921728 ,
-4 " i d_ s t r " : "1050118621198921728" ,
-5 " t e x t " : " Tras l a s #l l u v i a s i n t e n s a s de l o s ú l tim o s d í a s en #A rgen tina ,
-s e ob se rvan cambios en l a humedad d el s u el o y l a v e g e t a c i ón d el s u r
-d el L i t o r a l y no r t e de Bs As . En c o l o r e s o s c u r o s tambi én s e
-e vi d e n ci a e l agua acumulada en lag u na s y r í o s . " ,
-6 " u s e r " :
-7 {
-8 " i d " : 6253282 ,
-9 " i d_ s t r " : "6253282" ,
-10 "name" : "SMN A rgen tina " ,
-11 " screen_name" : "SMN_Argentina" ,
-12 " follo w e r s_ co u n t " : 173280 ,
-13 " f ri e n d s_ co u n t " : 694
-14 }
-15 " e n t i t i e s " :
-16 {
-17 " ha s h tag s " : [ '# l l u v i a s ' , '#Argentina ' ] ,
-18 " user_mentions " : [ ] ,
-19 "media" : [ ]
-20 } ,
-21 " pl a c e " :
-22 {
-23 " coun t ry " : " A rgen tina " ,
-24 " country_code " : "AR"
-25 } ,
-26 " so u r c e " : " Twi t te r Web Cli e n t "
-27 }
+```json 
+{
+  "created_at": "Mon May 29 20:19:24 +0000 2023",
+  "id": 1050118621198921728,
+  "id_str": "1050118621198921728",
+  "text": "Tras las #lluvias intensas de los últimos días en #Argentina, se observan cambios en la humedad del suelo y la vegetación del sur del Litoral y norte de Bs As. En colores oscuros también se evidencia el agua acumulada en lagunas y ríos.",
+  "user": {
+    "id": 6253282,
+    "id_str": "6253282",
+    "name": "SMN Argentina",
+    "screen_name": "SMN_Argentina",
+    "followers_count": 173280,
+    "friends_count": 694
+  },
+  "entities": {
+    "hashtags": ["#lluvias", "#Argentina"],
+    "user_mentions": [],
+    "media": []
+  },
+  "place": {
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  "source": "Twitter Web Client"
+}
+```
+
+Extraeremos los trending topics en base a los hashtags indicados en la publicación. Para ello se pide:
+1) Escriba una consulta en MongoDB que devuelva los 5 hashtags más frecuentemente utilizados en tweets escritos desde Argentina.
+2) Sugiera una forma conveniente de shardear la colección a efectos de paralelizar esta consulta, e indique también si le convendría tener algún índice secundario en cada nodo de procesamiento para evitar tener que hacer un File Scan sobre todos los documentos almacenados en cada nodo. Justifique sus respuestas.
+
+```json 
+
+
+```

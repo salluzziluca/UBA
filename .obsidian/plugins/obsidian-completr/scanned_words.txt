@@ -4643,6 +4643,7 @@ primario
 permtir
 propietaria
 propietario
+propietarios
 la
 las
 le

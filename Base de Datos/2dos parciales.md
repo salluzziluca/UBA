@@ -170,11 +170,12 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 
 ```json 
 [
-	{$unwind: "$actores"}
+	{$unwind: "$actores"},
 	{$group:{
 		_id="$actores",
 		promedio: {$avg: "$puntaje_IMDB"},
-		mejor_pelicula: {$max}
-	}}
+		mejor_pelicula: {$max: "$puntaje_IMDB"}
+	}},
+	
 ]
 ```

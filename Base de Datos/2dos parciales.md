@@ -318,3 +318,40 @@ $90*1700+110*2200+70*1100+60*640+45*720+48223=591.023$
 como F= 10 para cada una de las tablas entonces el F del join es 
 F= $\frac{1}{\frac{1}{f}*1/f}= \frac{1}{1/5 * 1/5}= 5$
 los bloques van a ser 591.023/5 = 118205
+
+## Mongo 
+
+(MongoDB) Accederemos a una base de datos en MongoDB con tweets de mayo de 2023 de todo el mundo, a fin de estimar cuáles fueron los trending topics del mes en Argentina. Cada tweet de esta base de datos tiene una estructura similar a la siguiente:
+
+
+```Cypher 
+ {
+2 " c rea ted_a t " : "Mon May 29 20 : 19 : 24 +0000 2023" ,
+3 " i d " : 1050118621198921728 ,
+4 " i d_ s t r " : "1050118621198921728" ,
+5 " t e x t " : " Tras l a s #l l u v i a s i n t e n s a s de l o s ú l tim o s d í a s en #A rgen tina ,
+s e ob se rvan cambios en l a humedad d el s u el o y l a v e g e t a c i ón d el s u r
+d el L i t o r a l y no r t e de Bs As . En c o l o r e s o s c u r o s tambi én s e
+e vi d e n ci a e l agua acumulada en lag u na s y r í o s . " ,
+6 " u s e r " :
+7 {
+8 " i d " : 6253282 ,
+9 " i d_ s t r " : "6253282" ,
+10 "name" : "SMN A rgen tina " ,
+11 " screen_name" : "SMN_Argentina" ,
+12 " follo w e r s_ co u n t " : 173280 ,
+13 " f ri e n d s_ co u n t " : 694
+14 }
+15 " e n t i t i e s " :
+16 {
+17 " ha s h tag s " : [ '# l l u v i a s ' , '#Argentina ' ] ,
+18 " user_mentions " : [ ] ,
+19 "media" : [ ]
+20 } ,
+21 " pl a c e " :
+22 {
+23 " coun t ry " : " A rgen tina " ,
+24 " country_code " : "AR"
+25 } ,
+26 " so u r c e " : " Twi t te r Web Cli e n t "
+27 }

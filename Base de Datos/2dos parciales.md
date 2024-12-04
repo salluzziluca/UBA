@@ -133,3 +133,5 @@ a) Indique qué cantidad k de particiones intentaría generar para que la junta 
 b) Indique cuál es el/los atributo/s a los que habrá que aplicar la función de hash en cada tabla, a efecto de construir las particiones
 
 N<=M-1
+por lo que N= 20.000-1 -> 19.999 
+Luego min(B(R)/N)

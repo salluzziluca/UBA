@@ -417,3 +417,8 @@ Repetible.
 Repetible.
 4) Bajo el nivel de aislamiento Read Committed definido en el estándar SQL puede
 ocurrir una Lectura no Repetible.
+
+
+
+![[Pasted image 20241204145943.png]]
+

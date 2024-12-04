@@ -312,5 +312,7 @@ por lo que
 
 $$n(R⨝S) = n(R) * n(S) / máx(V(A,R) , V(A,S))$$
 $(280*3100)/(23-5)=48223$
-23-5= 18 que seria la nueva variabilidad siendo que tengo 5 privincias "menos" porque ya las calcule arriba por histograma
+23-5= 18 seria la nueva variabilidad siendo que tengo 5 privincias "menos" porque ya las calcule arriba por histograma
 
+$$90*1700+110*2200+70*1100+60*640+45*720+48223=591.023$
+como F= 10 los bloques van a ser 591.023/1

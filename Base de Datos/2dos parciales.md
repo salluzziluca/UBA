@@ -358,7 +358,12 @@ Extraeremos los trending topics en base a los hashtags indicados en la publicaci
 ```json 
 [
 	{$match:"$place.country" = "Argentina" }
-	{$unwind: "$}
+	{$unwind: "$entities.hashtags"}
+	{$group:{
+		_id:"$entities.hashtags"}
+		
+		}
+	}
 ]
 
 ```

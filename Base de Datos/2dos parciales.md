@@ -108,4 +108,4 @@ considere para sus cálculos la siguiente información de catálogo:
 
 Indices: DNI en propietarios y matricula en multa
 ![[consulta]]
-Seleccion: Index scan con DNI como 
+Seleccion: Index scan con DNI como indice

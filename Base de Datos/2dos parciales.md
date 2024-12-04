@@ -243,4 +243,4 @@ En la recuperación hay nuevamente dos situaciones: Que encontremos primero un r
 bdQue encontremos primero un registro (BEGIN CKPT).Si el checkpoint llego sólo hasta este punto no nos sirve. Deberemos volver hacia atrás, pero sólo hasta el inicio de la más antigua del listado
 
 Encontramos el end en la 11 y subimos hasta encontrar su begin ckpt en la 06. El checkpoint es sobre T2, por lo que retrocedo hasta el begin de T2. A partir de ahi (linea 2) deshago y hago abort de todo lo que no haya commiteado (t3 y t4). 
-A = 8, 
+A = 8, b =8, c = 9 y aborto T3 yt4

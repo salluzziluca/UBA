@@ -119,4 +119,4 @@ F(r) = n/B = 6
 costo junta: loop con unico indice
 Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )
 B(R) no me interesa por pipeline y n(R) = 2 
-2*
+2*(4+⌈30.000/100.000⌉ )

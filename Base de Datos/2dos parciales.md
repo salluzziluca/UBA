@@ -389,9 +389,16 @@ Los puntajes de los vinos oscilan entre 0 y 100. En particular, el vino del ejem
 Nota: Le sugerimos utilizar la estructura MATCH ... WHERE [NOT] EXISTS { MATCH pattern } ... como parte de la solución.
 
 ```cypher
-MATCH (b:Bodega)-[:FABRICA]-(v:Vino)-[:ELABORADO_CON]-(c)
-WHERE NOT EXISTS {
-	MATCH
-}
+MATCH 
+  (b:Bodega)-[:FABRICA]->(v:Vino)-[:ELABORADO_CON]->(c:Cepa {nombre: 'Syrah'})
+WHERE 
+  NOT (v)-[:ELABORADO_CON]->(:Cepa) 
+RETURN 
+  b.nombre AS Bodega, 
+  v.nombre AS Vino, 
+  v.precio AS Precio
+ORDER BY 
+  v.puntaje DESC
+LIMIT 1;
 ```
 

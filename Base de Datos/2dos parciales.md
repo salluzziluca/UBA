@@ -169,9 +169,10 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 2) Explique si la consulta anterior puede ser ejecutada con la colección shardeada por el atributo $\_id$. En caso afirmativo, explique brevemente cómo podría realizarse el cálculo anterior en forma distribuida entre los shards y los servidores de agregación. En caso negativo, explique cuál debería ser el/los atributo/s de sharding, y cómo se realizaría el cálculo en forma distribuída en ese caso.
 
 ```json 
-{
-	{unwind: $actores}
-	{groupby:{
+[
+	{$unwind: "$actores"}
+	{$group:{
+		_id="$
 	}}
-}
+]
 ```

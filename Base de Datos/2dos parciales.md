@@ -311,7 +311,8 @@ luego entonces n(asesores)= 280 y n(productores) = 3100
 por lo que 
 
 $$n(R⨝S) = n(R) * n(S) / máx(V(A,R) , V(A,S))$$
-(280+3100)/23=37739
+$(280*3100)/(23-5)=37739$
+23-5= 18 que seria la nueva variabilidad siendo que tengo 5 privincias "menos" porque ya las calcule arriba por histograma
 n(asesores)= 655
 f=n/B = 10
 B = n/10 = 66

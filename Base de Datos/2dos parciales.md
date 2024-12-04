@@ -356,6 +356,9 @@ Extraeremos los trending topics en base a los hashtags indicados en la publicaci
 2) Sugiera una forma conveniente de shardear la colección a efectos de paralelizar esta consulta, e indique también si le convendría tener algún índice secundario en cada nodo de procesamiento para evitar tener que hacer un File Scan sobre todos los documentos almacenados en cada nodo. Justifique sus respuestas.
 
 ```json 
-
+[
+	{$match:"$place.country" = "Argentina" }
+	{$unwind: "$}
+]
 
 ```

@@ -122,3 +122,7 @@ B(R) no me interesa por pipeline y n(R) = 2
 $2*(4+⌈30.000/100.000⌉ )=2*(4+1)=2*5=10$
 luego la ultima seleccion no tiene costo. 
 Costo total = 5+10=15
+
+
+
+(Procesamiento de consultas) Para las mismas tablas del ejercicio anterior y la misma información de catálogo, se quiere calcular cuántas multas se han cometido con cada marca de vehículo. Asumiendo que no se cuenta con ningún tipo de índice y que se dispone de M=20.000 bloques de memoria, se arma el siguiente plan de ejecución en el que la junta se realiza por el método de hash GRACE:

@@ -295,6 +295,18 @@ Estime la cardinalidad del resultado de esta junta en términos de cantidad de t
 
 ![[Pasted image 20241204141545.png]]
 
+ Un histograma me puede ayudar a estimar mejor la
+cardinalidad
+● Si un valor de atributo aparece en ambos histogramas, las
+filas de cada tabla de ese valor se juntaran entre si,
+multiplicandose
+● Si un valor de atributo aparece en uno solo de los
+histogramas, estimar la cantidad de filas en la otra tabla y
+multiplicar
+● Para el resto de los atributos, utilizar la fórmula anterior
+
+90*1700+110*2200+70+1100+60*640+
+
 $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
 n(asesores)= 655
 f=n/B = 10

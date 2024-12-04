@@ -402,8 +402,8 @@ ORDER BY
 LIMIT 1;
 ```
 
-
-
+tambien se podria hacer
+WHERE size((v)-[:ELABORADO_CON]->(:Cepa)) = 1
 ## Concurrencia 
 (Concurrencia) Se dice que una transacción T1 realiza una Lectura no Repetible ó
 Unrepeatable Read cuando la misma lee un ítem X, luego otra transacción T2 escribe ese

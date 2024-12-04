@@ -106,4 +106,5 @@ Para el ejercicio considere que los índices son de tipo árbol y tienen altura 
 considere para sus cálculos la siguiente información de catálogo:
 ![[Pasted image 20241204104742.png]]
 
+Indices: DNI en propietarios
 ![[consulta]]

@@ -302,4 +302,4 @@ B = n/10 = 66
 n(productores)=9460
 B = 946
 
-Cost(Aesores x Productores) = 
+Cost(Aesores x Productores) = 66+655(23+9460/23)= 

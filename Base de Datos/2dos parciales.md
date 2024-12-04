@@ -177,8 +177,15 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 		mejor_pelicula: {$max: "$puntaje_IMDB"}
 	}},
 	{$match:{
-		mejor_pelicula:{
+		"mejor_pelicula":{
 		$gte:8}
-		}}
+		}
+	},
+	{$sort:{
+		"promedio": -1
+		}
+	},
+	{limit}	
+		
 ]
 ```

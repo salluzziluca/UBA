@@ -121,4 +121,4 @@ Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈B(S) / V(A,S)⌉ )
 B(R) no me interesa por pipeline y n(R) = 2 
 $2*(4+⌈30.000/100.000⌉ )=2*(4+1)=2*5=10$
 luego la ultima seleccion no tiene costo. 
-Costo total = 2+10=12
+Costo total = 5+10=15

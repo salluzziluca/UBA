@@ -390,5 +390,8 @@ Nota: Le sugerimos utilizar la estructura MATCH ... WHERE [NOT] EXISTS { MATCH p
 
 ```cypher
 MATCH (b:Bodega)-[:FABRICA]-(v:Vino)-[:ELABORADO_CON]-(c)
+WHERE NOT EXISTS {
+	MATCH
+}
 ```
 

@@ -3239,6 +3239,7 @@ evita
 equitativamente
 edecucion
 evitamos
+exacto
 servicios
 son
 su
@@ -5047,6 +5048,7 @@ levanto
 loops
 llenarse
 loq
+loisto
 agnosticos
 apps
 al

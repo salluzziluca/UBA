@@ -360,10 +360,13 @@ Extraeremos los trending topics en base a los hashtags indicados en la publicaci
 	{$match:"$place.country" = "Argentina" }
 	{$unwind: "$entities.hashtags"}
 	{$group:{
-		_id:"$entities.hashtags"}
+		_id:"$entities.hashtags",
+		cantidad: "$count"
 		
 		}
 	}
+	{$order: -1}
+	{$limit: 5}
 ]
 
 ```

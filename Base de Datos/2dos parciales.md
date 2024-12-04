@@ -63,3 +63,10 @@ WITH t1, t2 , COUNT(pub) AS cantidad
 WHERE cantidad >= 5
 RETURN t1, t2, cantidad
 ```
+
+
+![[Pasted image 20241204102851.png]]
+5) b) Es serializable porque no tiene ciclos. Un solapamiento serial equivalente seria T1 -> T2 -> T3 c) T2 y T3 leen cosas escritas por T1 Como T1 commitea antes que T2 y que T3, es recuperable El write de Y de T3 no lo lee ninguna transaccion activa con lo que es recuperable
+
+![[Pasted image 20241204102911.png]]
+a) Hasta el inicio de la transaccion mas antigua entre T1 y T3, es decir, hasta la linea 1 b) En A grabamos 10, en B 40, en C 17 y en B 30 Queda en A 10, en B 30, en C 17

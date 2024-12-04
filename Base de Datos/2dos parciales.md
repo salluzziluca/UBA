@@ -305,7 +305,9 @@ histogramas, estimar la cantidad de filas en la otra tabla y
 multiplicar
 ● Para el resto de los atributos, utilizar la fórmula anterior
 
-90*1700+110*2200+70+1100+60*640+
+$90*1700+110*2200+70*1100+60*640+45*720$
+
+luego entonces n(asesores)= 280 y n(productores) 0
 
 $Cost(R⨝S) = B(R) + n(R) * ( Height(I(A,S)) + ⌈n(S) / V(A,S)⌉ )$ 
 n(asesores)= 655

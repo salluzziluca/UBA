@@ -153,14 +153,14 @@ cuentan con una base de datos de películas en MongoDB, que indica el puntaje en
 de cada película junto con el listado de actores de la película, tal como ejemplifica el
 siguiente documento:
 ```json
- {
- "_id" : 10910355903998401931 ,
- " nomb re_pelicula " : " I n t e r s t e l l a r " ,
-" g e n e r o_ p ri n ci p al " : " Ci e n cia F i c c i ón" ,
- "puntaje_IMDB" : 8. 7 ,
- " a c t o r e s " : [ 'Matthew McConaughey ' , ' J e s s i c a Chastain ' , 'Anne Hathaway ' ,
-' Mackenzie Foy ' , ' Timoth é e Chalamet ' , 'Matt Damon' , ' Michael Caine ' ]
- }
+{
+	"_id" : 10910355903998401931 ,
+	" nomb re_pelicula " : " Interstellar " ,
+	" g e n e r o_ p ri n ci p al " : " CienciaFicción" ,
+	"puntaje_IMDB" : 8. 7 ,
+	" actores " : [ 'Matthew McConaughey ' , ' Jessica Chastain' , 'Anne Hathaway ' ,
+	' Mackenzie Foy ' , ' Timothée Chalamet ' , 'Matt Damon' , ' Michael Caine ' ]
+}
 ```
 Mientras discutían qué métrica utilizar para rankear a los actores, algunos sugerían usar
 el puntaje promedio en IMDB de sus películas como un valor representativo. Otros en

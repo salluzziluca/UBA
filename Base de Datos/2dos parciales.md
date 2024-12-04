@@ -138,3 +138,5 @@ N<=M-1
 por lo que N= 20.000-1 -> 19.999 
 Luego min(B(R)/N, B(S)/N)<= M-2-> 30.000/N <= M-2
 ambas entran porque 30.000/19.999 <= M-2 y 200.000/19.999 <=M-2
+
+b) los atributos a hashear sean matriculas en la tabla de vehiculos y matriculas en la tabla de multas

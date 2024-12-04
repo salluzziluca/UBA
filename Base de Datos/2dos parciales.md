@@ -190,4 +190,4 @@ Finalmente, se decidió por una estrategia híbrida en que se ordenará a los ac
 ]
 ```
 
-Si, shardear por id siempre es una opcion, no siempre la mejor, pero es ir a lo seguro. Se podrian hashear los diferentes IDs y agruparlos en shards segun lo que devuelva esa funcion de hashing.
+Si, shardear por id siempre es una opcion, no siempre la mejor, pero es ir a lo seguro. Se podrian hashear los diferentes IDs y agruparlos en shards segun lo que devuelva esa funcion de hashing. dE esa forma quedarian distribuidas las diferentes peliculas de manera bastante equitativa. El unico tema es que al calcular el promedio por actor, esto se hara por shard, porl

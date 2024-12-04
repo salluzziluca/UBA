@@ -288,3 +288,9 @@ luego la proxima seleccion por pipelining no tiene costo
 
 El Instituto Nacional de Coordinación Agrícola se ocupa de brindar asistencia a los productores rurales, contando con un extenso equipo de asesores asignados a las distintas provincias del país. Su base de datos cuenta con los siguientes esquemas de relación con datos sobre los asesores y los productores rurales:
 ![[Pasted image 20241204141448.png]]
+
+Se quiere construir una tabla para poner en contacto a los asesores con los productores de las provincias que les fueron asignadas, a través de la siguiente operación de junta:
+$Asesores ▷◁_{prov\_asignada=prov\_origen}  Productores$
+Estime la cardinalidad del resultado de esta junta en términos de cantidad de tuplas y en términos de cantidad de bloques, utilizando el siguiente histograma de frecuencias extraído de la información de catálogo que muestra la frecuencia de las 5 provincias principales de cada tabla. Considere además que V (prov_asignada, Asesores) = V (prov_origen, P roductores) = 23 y que el factor de bloque de ambas tablas es de 10.
+
+![[Pasted image 20241204141545.png]]

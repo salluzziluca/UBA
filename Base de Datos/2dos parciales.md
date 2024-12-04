@@ -125,7 +125,7 @@ Costo total = 5+10=15
 
 Luego 
 $mín(⌈B(R)/V(A,R)⌉ ; ⌈B(S)/V(A,S)⌉) \leq M - 2$
-B(vehiculos)/
+B(vehiculos)/Variabilidad = 200.000/600.000 = 1/3. B(multas)/variabilidad = 30.000/100.000
 
 (Procesamiento de consultas) Para las mismas tablas del ejercicio anterior y la misma información de catálogo, se quiere calcular cuántas multas se han cometido con cada marca de vehículo. Asumiendo que no se cuenta con ningún tipo de índice y que se dispone de M=20.000 bloques de memoria, se arma el siguiente plan de ejecución en el que la junta se realiza por el método de hash GRACE:
 ![[Pasted image 20241204111658.png]]

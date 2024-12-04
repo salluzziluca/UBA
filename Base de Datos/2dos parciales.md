@@ -110,4 +110,6 @@ Indices: DNI en propietarios y matricula en multa
 ![[consulta]]
 Seleccion: Index scan con DNI como indice de clustering 
 $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈B(R) / V(A,R)⌉$
-4+100.000/
+4+⌈100.000/300.000⌉ = 4+1=5
+
+su cardinalidad seria n/variabiilidad = 

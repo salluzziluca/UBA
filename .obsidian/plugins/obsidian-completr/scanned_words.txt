@@ -1546,6 +1546,14 @@ cambien
 cost
 calculos
 caluclar
+cometi
+culo
+contramano
+cruzar
+conducir
+cometido
+culos
+considere
 de
 dispositivos
 del
@@ -2227,6 +2235,9 @@ descartando
 dios
 deba
 durabilidad
+determinan
+denegada
+dibuje
 gestion
 gran
 guarda
@@ -2544,6 +2555,7 @@ gicos
 generamos
 grabar
 grace
+grabamos
 especifico
 entra
 en
@@ -3240,6 +3252,7 @@ equitativamente
 edecucion
 evitamos
 exacto
+eficientemente
 servicios
 son
 su
@@ -3865,6 +3878,9 @@ scan
 seleccion
 suponiendo
 secundario
+severa
+sonando
+sirena
 par
 por
 punto
@@ -4625,6 +4641,8 @@ proyecciones
 proximos
 primario
 permtir
+propietaria
+propietario
 la
 las
 le
@@ -5049,6 +5067,8 @@ loops
 llenarse
 loq
 loisto
+licencia
+lculos
 agnosticos
 apps
 al
@@ -5782,6 +5802,9 @@ aplicada
 anteiror
 ahorra
 asegurra
+argentina
+anote
+arm
 hardware
 heap
 hay
@@ -6364,6 +6387,7 @@ quedarnos
 quedando
 query
 quitando
+quite
 utilizados
 un
 una
@@ -6682,6 +6706,7 @@ unvertice
 uniendo
 unfairness
 unen
+uzbekistan
 System
 Son
 Source
@@ -7051,6 +7076,8 @@ SubsetSum
 Sort
 Simplemente
 ServiciosPlanes
+Siniestra
+Sugiera
 Calls
 Cmabia
 CPU
@@ -7528,6 +7555,7 @@ Clientes
 Cardinalidad
 Condicion
 CodPLan
+Ciudad
 Es
 El
 Estos
@@ -7929,6 +7957,8 @@ Externo
 Etapas
 Estimar
 Explota
+Espec
+Estime
 kernel
 kt
 kU
@@ -8712,6 +8742,10 @@ requerir
 rollbackea
 rezar
 recuperabilidad
+rojo
+renovar
+realizada
+rminos
 operacion
 orden
 operaciones
@@ -9073,6 +9107,7 @@ obvio
 ordenarlas
 ocupado
 ocupar
+oficinas
 nombre
 nuevo
 nica
@@ -9389,6 +9424,7 @@ ngulos
 ngulo
 notas
 neuevos
+nsito
 via
 vuelve
 viven
@@ -9747,6 +9783,7 @@ verificarla
 viajante
 vendr
 varibilidad
+veh
 Application
 API
 Asigna
@@ -10531,6 +10568,8 @@ Paralelizar
 Polinomio
 Pipelining
 Provincia
+Procesamiento
+Paseo
 Interface
 ID
 Instructions
@@ -11695,6 +11734,8 @@ matchenado
 multiplicandose
 multiplicar
 materializarse
+multas
+multa
 tien
 tiene
 todos
@@ -12716,6 +12757,11 @@ index
 iria
 incudisos
 intermedios
+infractor
+incluyen
+infracciones
+ingresar
+infracci
 fijo
 file
 fork
@@ -13119,6 +13165,9 @@ frecuencias
 finaliza
 fidedigno
 fulas
+foro
+falsa
+ficamente
 Nombre
 Notas
 Not
@@ -14123,6 +14172,7 @@ Division
 Distintos
 Demostracion
 DISTINCT
+Direcci
 Memoria
 Multivariada
 MORE
@@ -14494,6 +14544,7 @@ Maximizar
 Mediciones
 Merkle
 Merge
+Marlon
 Table
 Todos
 This
@@ -14811,6 +14862,7 @@ Tree
 Terminamos
 TSP
 Tonga
+Tenga
 Realiza
 REgistrys
 Rango
@@ -16848,6 +16900,7 @@ juntarse
 jutna
 juntaran
 jamas
+jam
 Ya
 Yourself
 YAGNI
@@ -18707,6 +18760,7 @@ QpJg
 Queremos
 Quicksort
 QUEEEEEE
+Queda
 ximo
 xito
 xitos

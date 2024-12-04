@@ -112,4 +112,6 @@ Seleccion: Index scan con DNI como indice de clustering
 $Cost(σ Ai=v (R)) = Height(I(A,R)) + ⌈B(R) / V(A,R)⌉$
 4+⌈100.000/300.000⌉ = 4+1=5
 
-su cardinalidad seria n/variabiilidad = 
+su cardinalidad seria n/variabiilidad = 600.000/300.000= 2
+y su B = n/F(r)=  
+F(r) = n/B

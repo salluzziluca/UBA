@@ -422,3 +422,6 @@ ocurrir una Lectura no Repetible.
 
 ![[Pasted image 20241204145943.png]]
 
+En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.
+
+En la recuperación es posible que debamos retroceder hasta el inicio de la [[transacción]] más antigua en el listado de [[Transacción|transacciones]], para deshacerla en caso de que no haya commiteado, o para rehacer sus operaciones posteriores al BEGIN CKPT, en caso de que haya commiteado.

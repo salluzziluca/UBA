@@ -1554,6 +1554,13 @@ conducir
 cometido
 culos
 considere
+cuentan
+consideraban
+cuas
+colecci
+cursaron
+conocimientos
+calificados
 de
 dispositivos
 del
@@ -2238,6 +2245,11 @@ durabilidad
 determinan
 denegada
 dibuje
+discut
+deb
+distribu
+devuelvea
+deseados
 gestion
 gran
 guarda
@@ -3253,6 +3265,14 @@ edecucion
 evitamos
 exacto
 eficientemente
+ello
+ejemplifica
+encambio
+exluir
+empleo
+estudiantes
+empresas
+exije
 servicios
 son
 su
@@ -3881,6 +3901,13 @@ secundario
 severa
 sonando
 sirena
+suger
+seguirlo
+shardeada
+shards
+sharding
+shardear
+shard
 par
 por
 punto
@@ -4644,6 +4671,16 @@ permtir
 propietaria
 propietario
 propietarios
+planteada
+permita
+pena
+puntaje
+particip
+puntuaci
+podrian
+potencialmente
+preparado
+poseer
 la
 las
 le
@@ -5070,6 +5107,8 @@ loq
 loisto
 licencia
 lculos
+liste
+lcu
 agnosticos
 apps
 al
@@ -5807,6 +5846,10 @@ argentina
 anote
 arm
 arma
+agrupamiento
+afirmativo
+agruparlos
+asignaturas
 hardware
 heap
 hay
@@ -6143,6 +6186,8 @@ histograma
 harian
 hashee
 habra
+hashear
+hara
 que
 queda
 quien
@@ -6390,6 +6435,7 @@ quedando
 query
 quitando
 quite
+quedarian
 utilizados
 un
 una
@@ -7558,6 +7604,8 @@ Cardinalidad
 Condicion
 CodPLan
 Ciudad
+Considere
+Cin
 Es
 El
 Estos
@@ -7961,6 +8009,7 @@ Estimar
 Explota
 Espec
 Estime
+Escriba
 kernel
 kt
 kU
@@ -8748,6 +8797,10 @@ rojo
 renovar
 realizada
 rminos
+ranking
+rankear
+representativo
+recomendar
 operacion
 orden
 operaciones
@@ -9110,6 +9163,7 @@ ordenarlas
 ocupado
 ocupar
 oficinas
+ofertas
 nombre
 nuevo
 nica
@@ -9788,6 +9842,8 @@ vendr
 varibilidad
 veh
 variabiilidad
+vehiculos
+val
 Application
 API
 Asigna
@@ -10909,6 +10965,8 @@ Inserci
 Imaginemos
 Iterar
 Interseccion
+IMDB
+Ingenier
 Un
 UNIX
 UBA
@@ -11741,6 +11799,8 @@ multiplicar
 materializarse
 multas
 multa
+matriculas
+mTrMeKoc
 tien
 tiene
 todos
@@ -12767,6 +12827,7 @@ incluyen
 infracciones
 ingresar
 infracci
+incurre
 fijo
 file
 fork
@@ -13174,6 +13235,7 @@ foro
 falsa
 ficamente
 factible
+filos
 Nombre
 Notas
 Not
@@ -13783,6 +13845,7 @@ Fenomeno
 Filtra
 False
 Formula
+Facultad
 Descriptors
 Descriptor
 Devuelve
@@ -14179,6 +14242,7 @@ Distintos
 Demostracion
 DISTINCT
 Direcci
+Dibuje
 Memoria
 Multivariada
 MORE
@@ -14551,6 +14615,7 @@ Mediciones
 Merkle
 Merge
 Marlon
+Mongo
 Table
 Todos
 This
@@ -15630,6 +15695,8 @@ barras
 brasil
 buscsando
 bloquesGeneramos
+brida
+brevemente
 will
 words
 with
@@ -16159,6 +16226,7 @@ Vandermonde
 Viva
 Vertex
 Veamosla
+Variabilidad
 OPTIONS
 Operativos
 Orden
@@ -16908,6 +16976,7 @@ juntaran
 jamas
 jam
 justificando
+joya
 Ya
 Yourself
 YAGNI
@@ -18487,6 +18556,7 @@ JWJMKVJ
 JSON
 JBqLu
 Join
+Justifique
 Quienes
 Queue
 Quiere
@@ -19658,6 +19728,7 @@ zyA
 zOoi
 zaf
 zoan
+zyUu
 ÄB
 ÄG
 Äo

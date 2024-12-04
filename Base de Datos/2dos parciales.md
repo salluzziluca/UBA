@@ -228,3 +228,6 @@ Order BY count(distinct conoci) DESC
 
 
 a) (Concurrencia) Dado el siguiente solapamiento de transacciones: `bT1 ; bT2 ; bT3 ; WT3 (Y); WT3 (X); WT1 (Y); cT3 ; RT2 (Y); RT2 (X); cT2 ; WT1 (X); cT1 1)` Dibuje el grafo de precedencias del solapamiento. 2) Indique si el solapamiento es serializable. Justifique su respuesta. 3) Indique si el solapamiento es recuperable. Justifique su respuesta
+![[Excalidraw/Concurrencia|Concurrencia]]
+
+No es serializable porque hay un ciclo 

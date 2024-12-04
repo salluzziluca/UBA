@@ -231,3 +231,5 @@ a) (Concurrencia) Dado el siguiente solapamiento de transacciones: `bT1 ; bT2 ; 
 ![[Excalidraw/Concurrencia|Concurrencia]]
 
 No es serializable porque hay un ciclo T2 lee un dato qeu despues T1 escribe y T1 escribe un dato que despues t2 lee.
+
+No es recuperable porque T1 escribe en Y y luego T2 lee, mas t1 commitea despues de T2

@@ -254,8 +254,8 @@ La base de datos también dispone de un índice secundario por DNI_propietario y
 
 ```SQL 
 SELECT ∗
-FROM l i c e n c i a s INNER JOIN multas ON DNI_conductor=DN I_p ropie ta rio
-WHERE n r o _li c e n ci a =740523
+FROM licencias INNER JOIN multas ON DNI_conductor=DN I_p ropietario
+WHERE nro_licencia =740523
 AND pagada IS FALSE ;
 ```
 

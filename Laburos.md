@@ -2,7 +2,7 @@
 Dia: 2024-12-05
 dg-publish: false
 ---
-arkanis 
+# arkanis 
 
 part time empezar podes empezar cuando quieras (mañana lit) nos gustaria que sea antes del 16 porqque empiezan la migracion.
 
@@ -15,3 +15,37 @@ con aguinaldo
 ## vacaciones
 antes de los 6 meses es un dia por mes trabajado 
 luego 15
+
+
+# equo
+part time 
+
+area nueva researcb and development. De investigacion para servo (un light browser). Quieren hacer un chromium pero en rust, que sea multiplataforma. Nueva area, nuevo producto. 
+
+un engine basado en servo. https://servo.org/
+
+600.000 en mano.
++
+50.000 en bono para obra social.
++
+25.000 destinado a internet 
+todo en negro.
+
+una vez a la semana presencial en san telmo. 
+
+puedo arrancar en febrero. 
+
+no habria apuro con el full time, cuando necesite
+
+bono anual 0.8 y 1.4 del sueldo. 
+
+
+
+vacaiones ilimitadas. siemore y cuando este tarnaquila me las puedo tomar.
+
+
+meet up anual en abril o mayo 
+
+
+
+no nos basamos tanto en los meses de porueba pero siempre hay algo del estilo. Nunca nos ha pasado de deciir que che vos no seguis. 

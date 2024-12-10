@@ -48,4 +48,3 @@ meet up anual en abril o mayo
 
 
 
-no nos basamos tanto en los meses de porueba pero siempre hay algo del estilo. Nunca nos ha pasado de deciir que che vos no seguis. 

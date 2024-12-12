@@ -1593,6 +1593,8 @@ controlar
 comunique
 creas
 crendo
+ctrl
+click
 de
 dispositivos
 del
@@ -3337,6 +3339,8 @@ encapsula
 externaliza
 encapsulaci
 esqueleto
+editor
+exploto
 servicios
 son
 su
@@ -17781,6 +17785,7 @@ Grace
 GRACE
 Gustavo
 Garantiza
+GUI
 BX
 Bit
 Box

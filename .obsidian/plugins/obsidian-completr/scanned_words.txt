@@ -1595,6 +1595,7 @@ creas
 crendo
 ctrl
 click
+complejizar
 de
 dispositivos
 del
@@ -2617,6 +2618,7 @@ gustaria
 grano
 gastan
 gram
+genere
 especifico
 entra
 en
@@ -13114,6 +13116,7 @@ invoker
 interpretar
 interact
 intercambiables
+import
 fijo
 file
 fork

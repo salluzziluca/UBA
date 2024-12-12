@@ -1574,6 +1574,17 @@ cepa
 conclu
 cobrando
 chromium
+concreta
+construcci
+complejo
+construyendo
+construcciones
+comportamientos
+crearlos
+creador
+copiando
+clonado
+clonacion
 de
 dispositivos
 del
@@ -2265,6 +2276,10 @@ devuelvea
 deseados
 deshago
 destinado
+devuelvan
+definidas
+decidan
+delegue
 gestion
 gran
 guarda
@@ -3295,6 +3310,9 @@ escritos
 elabora
 encontrando
 equo
+especificar
+especifica
+exitosa
 servicios
 son
 su
@@ -4732,6 +4750,11 @@ partime
 pasante
 pasteur
 presencial
+patr
+ptero
+protot
+pica
+prototype
 la
 las
 le
@@ -5920,6 +5943,8 @@ aguinaldo
 apuro
 anual
 abril
+abstraemos
+atado
 hardware
 heap
 hay
@@ -6259,6 +6284,7 @@ habra
 hashear
 hara
 habria
+helic
 que
 queda
 quien
@@ -6508,6 +6534,7 @@ quitando
 quite
 quedarian
 quieras
+quienes
 utilizados
 un
 una
@@ -7201,6 +7228,8 @@ Siniestra
 Sugiera
 Syrah
 Soluci
+Separa
+Singleton
 Calls
 Cmabia
 CPU
@@ -8093,6 +8122,8 @@ Encontramos
 Extraeremos
 EXISTS
 Estaria
+Entrega
+Especifica
 kernel
 kt
 kU
@@ -8888,6 +8919,8 @@ rurales
 roductores
 realizados
 researcb
+relacionadas
+reutilizar
 operacion
 orden
 operaciones
@@ -9942,6 +9975,9 @@ vinos
 vino
 vacaciones
 vacaiones
+variantes
+variante
+variaciones
 Application
 API
 Asigna
@@ -10320,6 +10356,7 @@ Asesores
 Aesores
 Accederemos
 Aplicando
+Abstract
 Programming
 Procesos
 Partes
@@ -10740,6 +10777,8 @@ Pagada
 Productores
 Protocolo
 Pipeling
+Proporciona
+Prototype
 Interface
 ID
 Instructions
@@ -11919,6 +11958,8 @@ monovarietal
 migracion
 multiplataforma
 meet
+mill
+mac
 tien
 tiene
 todos
@@ -13369,6 +13410,7 @@ fabrique
 falsas
 febrero
 full
+familias
 Nombre
 Notas
 Not
@@ -13982,6 +14024,7 @@ False
 Formula
 Facultad
 Fases
+Factory
 Descriptors
 Descriptor
 Devuelve
@@ -14379,6 +14422,7 @@ Demostracion
 DISTINCT
 Direcci
 Dibuje
+Define
 Memoria
 Multivariada
 MORE
@@ -15845,6 +15889,10 @@ bbop
 bruto
 browser
 bono
+brica
+bricas
+botones
+builder
 will
 words
 with
@@ -16103,6 +16151,7 @@ wDTDap
 wNbr
 workers
 worker
+windows
 VA
 VIEW
 Volumen
@@ -17604,6 +17653,7 @@ Gracias
 Grace
 GRACE
 Gustavo
+Garantiza
 BX
 Bit
 Box
@@ -17944,6 +17994,7 @@ Black
 Bipartito
 Bueno
 Brasil
+Builder
 XY
 Xg
 XQG

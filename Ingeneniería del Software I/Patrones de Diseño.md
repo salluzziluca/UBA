@@ -17,3 +17,16 @@ dg-publish: true
 
 
 ![[5.3 Patrones Estructurales#Composite]]
+
+
+![[5.3 Patrones Estructurales#Decorador]]
+
+
+![[5.2 Patrones de Creación#1. Abstract Factory]]
+
+![[5.2 Patrones de Creación#3. Factory Method]]
+
+![[5.2 Patrones de Creación#Singleton]]
+
+
+![[5.2 Patrones de Creación#2. Builder]]

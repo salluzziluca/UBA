@@ -1592,6 +1592,7 @@ compartimiento
 controlar
 comunique
 creas
+crendo
 de
 dispositivos
 del
@@ -4792,6 +4793,7 @@ parametrizar
 publisher
 point
 pase
+pasarlo
 la
 las
 le
@@ -5992,6 +5994,7 @@ acoplar
 agrupar
 allegadas
 alteramos
+agregarles
 hardware
 heap
 hay
@@ -8989,6 +8992,7 @@ rprete
 regex
 refieran
 redefinan
+rectangulo
 operacion
 orden
 operaciones
@@ -10056,6 +10060,8 @@ variaciones
 vos
 violar
 visitante
+visitor
+visitors
 Application
 API
 Asigna
@@ -19368,6 +19374,7 @@ xApx
 xsK
 xSO
 xlr
+xml
 Workload
 Walrus
 Whitley

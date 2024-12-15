@@ -31,3 +31,4 @@ singleton:: ![[5.2 Patrones de Creación#Singleton]]
 
 
 builder:: ![[5.2 Patrones de Creación#2. Builder]]
+<!--SR:!2024-12-18,3,250-->

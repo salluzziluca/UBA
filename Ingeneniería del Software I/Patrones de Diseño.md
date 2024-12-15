@@ -9,25 +9,25 @@ template:: ![[5.4 Patrones de Comportamiento#Template Method]]
 
 visitor:: ![[5.4 Patrones de Comportamiento#Visitor]]
 
-![[5.4 Patrones de Comportamiento#State]]
+state:: ![[5.4 Patrones de Comportamiento#State]]
 
-![[5.4 Patrones de Comportamiento#Interpreter]]
-
-
-![[5.4 Patrones de Comportamiento#Command]]
+interpreter:: ![[5.4 Patrones de Comportamiento#Interpreter]]
 
 
-![[5.3 Patrones Estructurales#Composite]]
+command:: ![[5.4 Patrones de Comportamiento#Command]]
 
 
-![[5.3 Patrones Estructurales#Decorador]]
+composite:: ![[5.3 Patrones Estructurales#Composite]]
 
 
-![[5.2 Patrones de Creación#1. Abstract Factory]]
-
-![[5.2 Patrones de Creación#3. Factory Method]]
-
-![[5.2 Patrones de Creación#Singleton]]
+decorator:: ![[5.3 Patrones Estructurales#Decorador]]
 
 
-![[5.2 Patrones de Creación#2. Builder]]
+abstract factory:: ![[5.2 Patrones de Creación#1. Abstract Factory]]
+
+factory method:: ![[5.2 Patrones de Creación#3. Factory Method]]
+
+singleton:: ![[5.2 Patrones de Creación#Singleton]]
+
+
+builder:: ![[5.2 Patrones de Creación#2. Builder]]

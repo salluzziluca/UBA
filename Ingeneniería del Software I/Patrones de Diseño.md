@@ -4,6 +4,7 @@ dg-publish: true
 ---
 #flashcards
 strategy:: ![[5.4 Patrones de Comportamiento#Strategy]]
+<!--SR:!2024-12-19,4,270-->
 
 template:: ![[5.4 Patrones de Comportamiento#Template Method]]
 

@@ -30,6 +30,7 @@ decorator:: ![[5.3 Patrones Estructurales#Decorador]]
 
 
 abstract factory:: ![[5.2 Patrones de Creación#1. Abstract Factory]]
+<!--SR:!2024-12-16,1,230-->
 
 factory method:: ![[5.2 Patrones de Creación#3. Factory Method]]
 <!--SR:!2024-12-16,1,230-->

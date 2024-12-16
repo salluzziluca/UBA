@@ -1596,6 +1596,7 @@ crendo
 ctrl
 click
 complejizar
+command
 de
 dispositivos
 del
@@ -13534,6 +13535,7 @@ full
 familias
 fino
 familia
+flashcard
 Nombre
 Notas
 Not

@@ -1597,6 +1597,7 @@ ctrl
 click
 complejizar
 command
+composite
 de
 dispositivos
 del
@@ -2297,6 +2298,7 @@ decorar
 decorada
 demanden
 delegando
+decorator
 gestion
 gran
 guarda
@@ -3995,6 +3997,8 @@ sta
 sentencias
 subscribers
 subcomportamientos
+strategy
+singleton
 par
 por
 punto
@@ -6003,6 +6007,7 @@ agrupar
 allegadas
 alteramos
 agregarles
+abstract
 hardware
 heap
 hay
@@ -12068,6 +12073,7 @@ modifique
 modularizarlas
 modularizas
 moderation
+method
 tien
 tiene
 todos
@@ -12542,6 +12548,7 @@ traten
 tratada
 torre
 transporte
+template
 inico
 interna
 infro
@@ -13118,6 +13125,7 @@ interpretar
 interact
 intercambiables
 import
+interpreter
 fijo
 file
 fork
@@ -13536,6 +13544,8 @@ familias
 fino
 familia
 flashcard
+flashcards
+factory
 Nombre
 Notas
 Not

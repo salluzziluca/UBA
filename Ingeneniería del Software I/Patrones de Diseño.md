@@ -7,11 +7,13 @@ strategy:: ![[5.4 Patrones de Comportamiento#Strategy]]
 <!--SR:!2024-12-19,4,270-->
 
 template:: ![[5.4 Patrones de Comportamiento#Template Method]]
+<!--SR:!2024-12-16,1,230-->
 
 visitor:: ![[5.4 Patrones de Comportamiento#Visitor]]
 <!--SR:!2024-12-19,4,270-->
 
 state:: ![[5.4 Patrones de Comportamiento#State]]
+<!--SR:!2024-12-16,1,230-->
 
 interpreter:: ![[5.4 Patrones de Comportamiento#Interpreter]]
 <!--SR:!2024-12-18,3,250-->

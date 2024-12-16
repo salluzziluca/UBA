@@ -9,6 +9,7 @@ strategy:: ![[5.4 Patrones de Comportamiento#Strategy]]
 template:: ![[5.4 Patrones de Comportamiento#Template Method]]
 
 visitor:: ![[5.4 Patrones de Comportamiento#Visitor]]
+<!--SR:!2024-12-19,4,270-->
 
 state:: ![[5.4 Patrones de Comportamiento#State]]
 
@@ -17,9 +18,11 @@ interpreter:: ![[5.4 Patrones de Comportamiento#Interpreter]]
 
 
 command:: ![[5.4 Patrones de Comportamiento#Command]]
+<!--SR:!2024-12-19,4,270-->
 
 
 composite:: ![[5.3 Patrones Estructurales#Composite]]
+<!--SR:!2024-12-19,4,270-->
 
 
 decorator:: ![[5.3 Patrones Estructurales#Decorador]]

@@ -23,6 +23,7 @@ composite:: ![[5.3 Patrones Estructurales#Composite]]
 
 
 decorator:: ![[5.3 Patrones Estructurales#Decorador]]
+<!--SR:!2024-12-19,4,270-->
 
 
 abstract factory:: ![[5.2 Patrones de Creación#1. Abstract Factory]]

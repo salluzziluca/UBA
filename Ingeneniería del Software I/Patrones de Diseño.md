@@ -13,6 +13,7 @@ visitor:: ![[5.4 Patrones de Comportamiento#Visitor]]
 state:: ![[5.4 Patrones de Comportamiento#State]]
 
 interpreter:: ![[5.4 Patrones de Comportamiento#Interpreter]]
+<!--SR:!2024-12-18,3,250-->
 
 
 command:: ![[5.4 Patrones de Comportamiento#Command]]

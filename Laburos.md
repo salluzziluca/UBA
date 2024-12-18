@@ -52,3 +52,6 @@ empresa de 2015 con 60 empleados
 
 software factory. Dos tipos de proyectos: con cosas que ya estan funcionando y se updatean y clientes con cosas desde cero con soluciones a una necesidad.
 100 remoto con juntadas de vez en cuando (encuentros de fin de año, actividades, capacitaciones)
+
+
+part time de lunes a 

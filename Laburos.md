@@ -54,4 +54,6 @@ software factory. Dos tipos de proyectos: con cosas que ya estan funcionando y s
 100 remoto con juntadas de vez en cuando (encuentros de fin de año, actividades, capacitaciones)
 
 
-part time de lunes a 
+part time de lunes a viernes entre 9 y 16 con hora de almuerzo 
+osde 210 individual 
+relacion de dependencia 

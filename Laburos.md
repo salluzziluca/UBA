@@ -58,3 +58,4 @@ part time de lunes a viernes entre 9 y 16 con hora de almuerzo
 osde 210 individual 
 relacion de dependencia 
 challenge despues reunion con preguntas 
+flexibilidad, la idea es que se cumplan las 4 hooras ya que es pasantia. 

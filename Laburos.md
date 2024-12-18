@@ -57,3 +57,4 @@ software factory. Dos tipos de proyectos: con cosas que ya estan funcionando y s
 part time de lunes a viernes entre 9 y 16 con hora de almuerzo 
 osde 210 individual 
 relacion de dependencia 
+challenge despues reunion con preguntas 

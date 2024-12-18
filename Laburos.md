@@ -48,3 +48,6 @@ meet up anual en abril o mayo
 
 
 
+empresa de 2015 con 60 empleados 
+
+software factory. Dos tipos de proyectos: con cosas que ya estan funci

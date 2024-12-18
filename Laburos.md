@@ -59,3 +59,5 @@ osde 210 individual
 relacion de dependencia 
 challenge despues reunion con preguntas 
 flexibilidad, la idea es que se cumplan las 4 hooras ya que es pasantia. 
+
+perfil mas fullstack, mobile, .net, react. 

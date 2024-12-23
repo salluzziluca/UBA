@@ -1598,6 +1598,8 @@ click
 complejizar
 command
 composite
+capacitaciones
+challenge
 de
 dispositivos
 del
@@ -3346,6 +3348,8 @@ encapsulaci
 esqueleto
 editor
 exploto
+empleados
+encuentros
 servicios
 son
 su
@@ -4806,6 +4810,7 @@ point
 pase
 pasarlo
 published
+pasantia
 la
 las
 le
@@ -5238,6 +5243,7 @@ licencias
 lit
 luis
 light
+lunes
 agnosticos
 apps
 al
@@ -6008,6 +6014,8 @@ allegadas
 alteramos
 agregarles
 abstract
+actividades
+almuerzo
 hardware
 heap
 hay
@@ -6351,6 +6359,7 @@ helic
 haces
 handelea
 humano
+hooras
 que
 queda
 quien
@@ -6921,6 +6930,7 @@ unfairness
 unen
 uzbekistan
 uva
+updatean
 System
 Son
 Source
@@ -9006,6 +9016,8 @@ regex
 refieran
 redefinan
 rectangulo
+reunion
+react
 operacion
 orden
 operaciones
@@ -9701,6 +9713,7 @@ nseca
 notifica
 notificados
 notify
+net
 via
 vuelve
 viven
@@ -10075,6 +10088,7 @@ violar
 visitante
 visitor
 visitors
+viernes
 Application
 API
 Asigna
@@ -12074,6 +12088,7 @@ modularizarlas
 modularizas
 moderation
 method
+mobile
 tien
 tiene
 todos
@@ -13546,6 +13561,7 @@ familia
 flashcard
 flashcards
 factory
+fullstack
 Nombre
 Notas
 Not
@@ -17323,6 +17339,7 @@ joya
 jwPpzyzh
 jubilatorios
 jerarqu
+juntadas
 Ya
 Yourself
 YAGNI

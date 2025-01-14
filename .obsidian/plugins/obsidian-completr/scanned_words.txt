@@ -1612,6 +1612,12 @@ cambion
 ciuidad
 contraejemplos
 comemos
+continuar
+conocida
+comenzamos
+calculada
+cortos
+concatenando
 de
 dispositivos
 del
@@ -2320,6 +2326,8 @@ deteneidnose
 distribuidoas
 detenerme
 duracion
+dijkstra
+distancias
 gestion
 gran
 guarda
@@ -3376,6 +3384,7 @@ eYa
 estaciones
 estacion
 elemehtos
+encara
 servicios
 son
 su
@@ -4034,6 +4043,8 @@ superponga
 schedule
 salas
 superposicion
+sucesivamente
+spanning
 par
 por
 punto
@@ -4848,6 +4859,7 @@ pasarme
 poara
 pasteleria
 pateando
+pesado
 la
 las
 le
@@ -5285,6 +5297,7 @@ lleve
 letra
 lejana
 lleven
+liviana
 agnosticos
 apps
 al
@@ -6061,6 +6074,9 @@ abv
 acomodar
 aulas
 alcanzan
+anchura
+actualiza
+armas
 hardware
 heap
 hay
@@ -7357,6 +7373,7 @@ Separa
 Singleton
 Strategy
 SVP
+Search
 Calls
 Cmabia
 CPU
@@ -7849,6 +7866,7 @@ Command
 CkjW
 Calculo
 Conviene
+Comparamos
 Es
 El
 Estos
@@ -8264,6 +8282,8 @@ Evita
 Encapsula
 Encolo
 ESTO
+Empezaria
+ENcuentra
 kernel
 kt
 kU
@@ -8475,6 +8495,7 @@ kyo
 kRgx
 kjW
 kilometros
+kruskal
 realicen
 resolve
 recommend
@@ -9083,6 +9104,8 @@ reencolo
 repito
 robando
 repetimos
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -10160,6 +10183,9 @@ visitor
 visitors
 viernes
 viajar
+visitar
+vecinos
+visitado
 Application
 API
 Asigna
@@ -10545,6 +10571,7 @@ AHORA
 Aplicamos
 ARGENTINAAAAA
 ACa
+Agoritmo
 Programming
 Procesos
 Partes
@@ -10972,6 +10999,8 @@ Proxy
 Parecer
 PJe
 Plantea
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -12178,6 +12207,7 @@ mVb
 morse
 monetasrio
 metiendo
+marcan
 tien
 tiene
 todos
@@ -12656,6 +12686,7 @@ template
 tortas
 terminan
 teareas
+topol
 inico
 interna
 infro
@@ -13240,6 +13271,7 @@ inflaci
 inflacion
 inmversion
 imposi
+inf
 fijo
 file
 fork
@@ -14280,6 +14312,9 @@ Fases
 Factory
 Flyweight
 FXg
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -14685,6 +14720,8 @@ DcD
 Desencolamos
 Divido
 Desgraciadamente
+DFS
+Depth
 Memoria
 Multivariada
 MORE
@@ -15758,6 +15795,8 @@ Recorremos
 Repetible
 Responsibilty
 RzD
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -16697,6 +16736,9 @@ Veamosla
 Variabilidad
 Vistor
 Visitor
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -17171,6 +17213,7 @@ yrBec
 yIpP
 yyJ
 ydJ
+yendo
 json
 jacobiano
 justamente
@@ -18280,6 +18323,8 @@ Brasil
 Builder
 Bridge
 BGZ
+BFS
+Breath
 XY
 Xg
 XQG
@@ -19791,6 +19836,7 @@ Workers
 Web
 Weierstrass
 WHwvP
+Warshall
 ZZZPU
 ZX
 ZQ

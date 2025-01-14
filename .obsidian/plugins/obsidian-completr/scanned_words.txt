@@ -246,6 +246,7 @@ KhkN
 KJHNM
 Kubernetes
 Kube
+KuZ
 La
 Los
 Luego
@@ -587,6 +588,7 @@ Loop
 Licencias
 LISTOOO
 Literalmente
+LEl
 capa
 controlado
 cantidad
@@ -1600,6 +1602,7 @@ command
 composite
 capacitaciones
 challenge
+cOLY
 de
 dispositivos
 del
@@ -3350,6 +3353,7 @@ editor
 exploto
 empleados
 encuentros
+eYa
 servicios
 son
 su
@@ -6016,6 +6020,7 @@ agregarles
 abstract
 actividades
 almuerzo
+abv
 hardware
 heap
 hay
@@ -6610,6 +6615,8 @@ quite
 quedarian
 quieras
 quienes
+qcV
+qVem
 utilizados
 un
 una
@@ -7307,6 +7314,7 @@ Soluci
 Separa
 Singleton
 Strategy
+SVP
 Calls
 Cmabia
 CPU
@@ -7796,6 +7804,7 @@ Composite
 Combina
 Chain
 Command
+CkjW
 Es
 El
 Estos
@@ -8416,6 +8425,9 @@ kVb
 kuml
 kubectl
 kube
+kyo
+kRgx
+kjW
 realicen
 resolve
 recommend
@@ -9018,6 +9030,7 @@ redefinan
 rectangulo
 reunion
 react
+rJP
 operacion
 orden
 operaciones
@@ -9387,6 +9400,7 @@ obra
 osde
 organizador
 opera
+oOf
 nombre
 nuevo
 nica
@@ -10895,6 +10909,7 @@ Prototype
 PUTISIMO
 Proxy
 Parecer
+PJe
 Interface
 ID
 Instructions
@@ -11234,6 +11249,11 @@ Ingenier
 Instituto
 Interpreter
 Iterator
+IRg
+IRQ
+IRYG
+IRU
+IRc
 Un
 UNIX
 UBA
@@ -11520,6 +11540,7 @@ Utilice
 Unimos
 Unrepeatable
 Usa
+UkT
 modo
 mode
 menso
@@ -12089,6 +12110,7 @@ modularizas
 moderation
 method
 mobile
+mVb
 tien
 tiene
 todos
@@ -13141,6 +13163,8 @@ interact
 intercambiables
 import
 interpreter
+ixlO
+inU
 fijo
 file
 fork
@@ -14177,6 +14201,7 @@ Facultad
 Fases
 Factory
 Flyweight
+FXg
 Descriptors
 Descriptor
 Devuelve
@@ -14578,6 +14603,7 @@ Define
 Desacopla
 Decorador
 Draft
+DcD
 Memoria
 Multivariada
 MORE
@@ -14955,6 +14981,7 @@ Multas
 MATCH
 Mediador
 Memento
+MGjW
 Table
 Todos
 This
@@ -15276,6 +15303,7 @@ Tenga
 Tandil
 Taqui
 Template
+TPDDD
 Realiza
 REgistrys
 Rango
@@ -15647,6 +15675,7 @@ Reducimos
 Recorremos
 Repetible
 Responsibilty
+RzD
 bien
 by
 be
@@ -16052,6 +16081,7 @@ brica
 bricas
 botones
 builder
+bheY
 will
 words
 with
@@ -17055,6 +17085,8 @@ ykk
 yqQ
 yrBec
 yIpP
+yyJ
+ydJ
 json
 jacobiano
 justamente
@@ -17548,6 +17580,7 @@ Ymy
 YPs
 YhVR
 YAML
+Yts
 Generales
 Global
 GDT
@@ -18161,6 +18194,7 @@ Bueno
 Brasil
 Builder
 Bridge
+BGZ
 XY
 Xg
 XQG
@@ -18391,6 +18425,8 @@ XDE
 XLt
 XRef
 XML
+XyI
+XbN
 HEAD
 Hay
 Herencia
@@ -18925,6 +18961,7 @@ JSON
 JBqLu
 Join
 Justifique
+JrV
 Quienes
 Queue
 Quiere
@@ -19208,6 +19245,7 @@ Quicksort
 QUEEEEEE
 Queda
 Quieren
+QYw
 ximo
 xito
 xitos
@@ -19900,6 +19938,7 @@ Zbs
 ZDi
 Zrm
 ZUuS
+ZLL
 zZ
 za
 zR
@@ -20101,6 +20140,7 @@ zOoi
 zaf
 zoan
 zyUu
+zDM
 ÄB
 ÄG
 Äo

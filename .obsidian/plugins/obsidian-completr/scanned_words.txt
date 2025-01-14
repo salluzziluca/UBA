@@ -1603,6 +1603,15 @@ composite
 capacitaciones
 challenge
 cOLY
+comprimir
+codifico
+compar
+caro
+combustible
+cambion
+ciuidad
+contraejemplos
+comemos
 de
 dispositivos
 del
@@ -2304,6 +2313,13 @@ decorada
 demanden
 delegando
 decorator
+deontologista
+descarto
+desencolo
+deteneidnose
+distribuidoas
+detenerme
+duracion
 gestion
 gran
 guarda
@@ -2627,6 +2643,9 @@ grano
 gastan
 gram
 genere
+greedys
+gastando
+ganancia
 especifico
 entra
 en
@@ -3354,6 +3373,9 @@ exploto
 empleados
 encuentros
 eYa
+estaciones
+estacion
+elemehtos
 servicios
 son
 su
@@ -4007,6 +4029,11 @@ subscribers
 subcomportamientos
 strategy
 singleton
+superponen
+superponga
+schedule
+salas
+superposicion
 par
 por
 punto
@@ -4815,6 +4842,12 @@ pase
 pasarlo
 published
 pasantia
+pienso
+paralelepipiedo
+pasarme
+poara
+pasteleria
+pateando
 la
 las
 le
@@ -5248,6 +5281,10 @@ lit
 luis
 light
 lunes
+lleve
+letra
+lejana
+lleven
 agnosticos
 apps
 al
@@ -6021,6 +6058,9 @@ abstract
 actividades
 almuerzo
 abv
+acomodar
+aulas
+alcanzan
 hardware
 heap
 hay
@@ -6365,6 +6405,7 @@ haces
 handelea
 humano
 hooras
+hacerse
 que
 queda
 quien
@@ -6938,6 +6979,7 @@ unen
 uzbekistan
 uva
 updatean
+urgente
 System
 Son
 Source
@@ -7805,6 +7847,8 @@ Combina
 Chain
 Command
 CkjW
+Calculo
+Conviene
 Es
 El
 Estos
@@ -8218,6 +8262,8 @@ Especifica
 Estructurales
 Evita
 Encapsula
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -8428,6 +8474,7 @@ kube
 kyo
 kRgx
 kjW
+kilometros
 realicen
 resolve
 recommend
@@ -9031,6 +9078,11 @@ rectangulo
 reunion
 react
 rJP
+rapidos
+reencolo
+repito
+robando
+repetimos
 operacion
 orden
 operaciones
@@ -9401,6 +9453,9 @@ osde
 organizador
 opera
 oOf
+ordenarlos
+optimos
+ordeno
 nombre
 nuevo
 nica
@@ -9728,6 +9783,7 @@ notifica
 notificados
 notify
 net
+nafta
 via
 vuelve
 viven
@@ -10103,6 +10159,7 @@ visitante
 visitor
 visitors
 viernes
+viajar
 Application
 API
 Asigna
@@ -10484,6 +10541,10 @@ Aplicando
 Abstract
 Adapter
 ADAPTADOR
+AHORA
+Aplicamos
+ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -10910,6 +10971,7 @@ PUTISIMO
 Proxy
 Parecer
 PJe
+Plantea
 Interface
 ID
 Instructions
@@ -11254,6 +11316,8 @@ IRQ
 IRYG
 IRU
 IRc
+Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -12111,6 +12175,9 @@ moderation
 method
 mobile
 mVb
+morse
+monetasrio
+metiendo
 tien
 tiene
 todos
@@ -12586,6 +12653,9 @@ tratada
 torre
 transporte
 template
+tortas
+terminan
+teareas
 inico
 interna
 infro
@@ -13165,6 +13235,11 @@ import
 interpreter
 ixlO
 inU
+intuitivos
+inflaci
+inflacion
+inmversion
+imposi
 fijo
 file
 fork
@@ -13586,6 +13661,9 @@ flashcard
 flashcards
 factory
 fullstack
+futuro
+facultad
+frec
 Nombre
 Notas
 Not
@@ -14604,6 +14682,9 @@ Desacopla
 Decorador
 Draft
 DcD
+Desencolamos
+Divido
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -15304,6 +15385,7 @@ Tandil
 Taqui
 Template
 TPDDD
+Tanque
 Realiza
 REgistrys
 Rango
@@ -16874,6 +16956,8 @@ Operadores
 Ordenando
 Opci
 Observer
+Opcion
+Ordenamos
 ya
 yo
 yM
@@ -17372,6 +17456,7 @@ jwPpzyzh
 jubilatorios
 jerarqu
 juntadas
+jijo
 Ya
 Yourself
 YAGNI
@@ -18711,6 +18796,7 @@ Hasheo
 Hamlet
 Hasta
 Hash
+Huffman
 Jacobiano
 Job
 Jusitfique

@@ -1618,6 +1618,10 @@ comenzamos
 calculada
 cortos
 concatenando
+cuadratico
+col
+consitente
+condicionmes
 de
 dispositivos
 del
@@ -2328,6 +2332,8 @@ detenerme
 duracion
 dijkstra
 distancias
+debilmente
+derivable
 gestion
 gran
 guarda
@@ -3385,6 +3391,10 @@ estaciones
 estacion
 elemehtos
 encara
+estimadores
+estimador
+estimacion
+estiamador
 servicios
 son
 su
@@ -4045,6 +4055,8 @@ salas
 superposicion
 sucesivamente
 spanning
+sesgo
+sucesi
 par
 por
 punto
@@ -4860,6 +4872,8 @@ poara
 pasteleria
 pateando
 pesado
+predecir
+predictor
 la
 las
 le
@@ -6077,6 +6091,7 @@ alcanzan
 anchura
 actualiza
 armas
+asint
 hardware
 heap
 hay
@@ -8284,6 +8299,11 @@ Encolo
 ESTO
 Empezaria
 ENcuentra
+ECM
+Estimador
+EMV
+Estimadores
+Estimamos
 kernel
 kt
 kU
@@ -9479,6 +9499,8 @@ oOf
 ordenarlos
 optimos
 ordeno
+ortogonales
+observada
 nombre
 nuevo
 nica
@@ -9807,6 +9829,7 @@ notificados
 notify
 net
 nafta
+nul
 via
 vuelve
 viven
@@ -12687,6 +12710,7 @@ tortas
 terminan
 teareas
 topol
+theta
 inico
 interna
 infro
@@ -13272,6 +13296,8 @@ inflacion
 inmversion
 imposi
 inf
+invarianza
+insesgado
 fijo
 file
 fork
@@ -13696,6 +13722,7 @@ fullstack
 futuro
 facultad
 frec
+fisher
 Nombre
 Notas
 Not
@@ -15100,6 +15127,8 @@ MATCH
 Mediador
 Memento
 MGjW
+Mejor
+Maxima
 Table
 Todos
 This
@@ -15423,6 +15452,7 @@ Taqui
 Template
 TPDDD
 Tanque
+Tomando
 Realiza
 REgistrys
 Rango
@@ -16203,6 +16233,8 @@ bricas
 botones
 builder
 bheY
+basan
+biunivoca
 will
 words
 with
@@ -16739,6 +16771,7 @@ Visitor
 Visitados
 VISITADO
 Volvemos
+Verosimilitud
 OPTIONS
 Operativos
 Orden
@@ -17000,6 +17033,7 @@ Opci
 Observer
 Opcion
 Ordenamos
+Observaciones
 ya
 yo
 yM
@@ -18325,6 +18359,7 @@ Bridge
 BGZ
 BFS
 Breath
+Bondad
 XY
 Xg
 XQG
@@ -18842,6 +18877,7 @@ Hamlet
 Hasta
 Hash
 Huffman
+Haciendo
 Jacobiano
 Job
 Jusitfique

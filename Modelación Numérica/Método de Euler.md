@@ -6,7 +6,8 @@ $$x_{n}=x_{0}+nh $$
 Error_{global} = 
 
 
-## #x
+## Explicito
+$$y_{i+1}=y_{i}+hf(x_{i}, y_{i})$$
 ![[Pasted image 20241022115115.png]]
 ![[Pasted image 20241022114025.png]]
 

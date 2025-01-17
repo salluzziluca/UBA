@@ -11,4 +11,4 @@ Error_{global} =
 
 ![[Pasted image 20250117181939.png]]
 
-La perturbacion va a "explotar" cuando $\frac{df}{dy}<0$, esto quiere decir que va a arruinar el experimento. 
+La perturbacion va a "explotar" cuando $\frac{df}{dy}<0$. ya que deja de variar la solucion y hay que evitar el crecimiento del error. EN el caso de $\frac{dg}{dy}>0

@@ -8,3 +8,7 @@ Error_{global} =
 ![[Pasted image 20241022114025.png]]
 
 ## Estabilidad del metodo de euler: analisis de la propagacion de una perturbacion.
+
+![[Pasted image 20250117181939.png]]
+
+La perturbacion va a "explotar" cuando $\frac{df}{dy}$

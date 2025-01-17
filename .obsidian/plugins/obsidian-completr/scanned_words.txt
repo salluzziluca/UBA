@@ -1622,6 +1622,7 @@ cuadratico
 col
 consitente
 condicionmes
+cadaa
 de
 dispositivos
 del
@@ -3395,6 +3396,7 @@ estimadores
 estimador
 estimacion
 estiamador
+extraer
 servicios
 son
 su
@@ -4874,6 +4876,7 @@ pateando
 pesado
 predecir
 predictor
+preocupa
 la
 las
 le
@@ -8304,6 +8307,7 @@ Estimador
 EMV
 Estimadores
 Estimamos
+Esa
 kernel
 kt
 kU
@@ -15827,6 +15831,7 @@ Responsibilty
 RzD
 Recorridos
 Recorriendo
+Repaso
 bien
 by
 be

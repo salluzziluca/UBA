@@ -8,5 +8,5 @@ Si tenemos $\frac{dy}{dx}=y^2$ buscamos encontrar la funcion que cumple que su d
 ![[Pasted image 20250117171105.png]]
 Esa seria la pendiente en cadaa uno de los puntos
 
-Entonces $\frac{dy}{dx}=f(x,y)$ por lo que $$\int^{\_textasciitilde_{y}}_{y_{0}}dy= \int^{x}_{x_{0}}f(x,y)dx$$
-finalmente $\sim{y}$
+Entonces $\frac{dy}{dx}=f(x,y)$ por lo que $$\int^{y}_{y_{0}}dy= \int^{x}_{x_{0}}f(x,y)dx$$
+finalmente ${y}-y_{0} = \int^{x}_{x_{0}}f(x,y)dx$ que es algo que justamente no  podemos resolver porque no tenemos fx,y

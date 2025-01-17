@@ -22,6 +22,8 @@ $$y_{i+1}=y_{i}+hf(x_{i+h}, y_{i+1})$$
 
 La diferencia es que en este caso se plantea que no se conoce cuando va a ser el final del intervalo. Es Implicito porque nos pide lo que neceista. Nos pide y_i+1 para calcular y_i+1
 
-En el caso de que sea lineal no es tanto lio, como se puede ve
+En el caso de que sea lineal no es tanto lio, como se puede ver en el siguiente ejemplo 
+
+![[Pasted image 20250117183924.png]]
 ![[Pasted image 20241022114025.png]]
 

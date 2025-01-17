@@ -10,3 +10,5 @@ Esa seria la pendiente en cadaa uno de los puntos
 
 Entonces $\frac{dy}{dx}=f(x,y)$ por lo que $$\int^{y}_{y_{0}}dy= \int^{x}_{x_{0}}f(x,y)dx$$
 finalmente ${y}-y_{0} = \int^{x}_{x_{0}}f(x,y)dx$ que es algo que justamente no  podemos resolver porque no tenemos fx,y
+
+si $\frac{d\times}{dy}=f(x)$ realmente no nos preocupa, porque se puede integrar en x facil.

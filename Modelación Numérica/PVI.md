@@ -4,4 +4,4 @@ dg-publish: true
 ---
 ## Repaso de [[8.0 Ecuaciones Diferenciales]]
 
-Si tenemos $\frac{dy}{dx}$
+Si tenemos $\frac{dy}{dx}=y^2$ buscamos encontrar la funcion que cumple que su derivada es = a y^2 

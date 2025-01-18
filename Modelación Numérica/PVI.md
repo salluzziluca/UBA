@@ -24,7 +24,7 @@ $$y_{1}=y_{0}+hf\left( x_{0}+\frac{h}{2}, y_{0} + \frac{h}{2} f(x_{0}, y_{0}) \r
 $$y_{1}=y_{0}+\frac{1}{2}[h(f(x_{0}, y_{0}) + h\ f(x_{0}+h, y_{0}+h\ f(x_{0}, y_{0})))]$$
 siendo $h(f(x_{0}, y_{0}) =q_{1}$ y $h\ f(x_{0}+h, y_{0}+h\ f(x_{0}, y_{0})))= q_{2}$
 
-[[]]
+![[Metodo de Crank-Nicolson (trapecio)]]
 
 
 ## Metodo de orden 4

@@ -17,7 +17,7 @@ si $\frac{d\times}{dy}=f(x)$ realmente no nos preocupa, porque se puede integrar
 [[Método de Euler]]
 
 ## Metodos de orden 2
-el orden del metodo va a ser igual a la cantidad de veces que evaluo f (hasta orde)
+el orden del metodo va a ser igual a la cantidad de veces que evaluo f (hasta orden 4)
 ### Punto Medio 
 $$y_{1}=y_{0}+hf\left( x_{0}+\frac{h}{2}, y_{0} + \frac{h}{2} f(x_{0}, y_{0}) \right)$$
 ### Runge - Kutta

@@ -17,3 +17,5 @@ si $\frac{d\times}{dy}=f(x)$ realmente no nos preocupa, porque se puede integrar
 [[Método de Euler]]
 
 ## Metodos de orden 2
+
+$$y_{1}=y_{0}+\frac{1}{2}[h(f(x_{0}, y_{0}) + h\ f(x_{0}+h, y_{0}+h))]$$

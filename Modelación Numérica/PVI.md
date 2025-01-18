@@ -13,4 +13,7 @@ finalmente ${y}-y_{0} = \int^{x}_{x_{0}}f(x,y)dx$ que es algo que justamente no 
 
 si $\frac{d\times}{dy}=f(x)$ realmente no nos preocupa, porque se puede integrar en x facil.
 
-## Me
+## Metodo de orden 1 
+[[Método de Euler]]
+
+## Metodos de orden 2

@@ -26,5 +26,5 @@ siendo $h(f(x_{0}, y_{0}) =q_{1}$ y $h\ f(x_{0}+h, y_{0}+h\ f(x_{0}, y_{0})))= q
 
 
 ## Metodo de orden 4
-aca el q2 no la calculo al final del intervalo
+aca el q2 no la calculo al final del intervalo, sino en la mitad. 
 

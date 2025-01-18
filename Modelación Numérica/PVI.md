@@ -30,4 +30,5 @@ aca el q2 no la calculo al final del intervalo, sino en la mitad.
 
 siendo $q_{1}=h(f(x_{i}, y_{i}) $ y
 $q_{2}=h\ f\left( x_{0}+\frac{h}{2}, y_{0}+\frac{q_{1}}{2}) \right))$
-$q_{3}= h$
+$q_{3}= h\ f\left( x_{i}+\frac{h}{2}, y_{i}+\frac{q_{2}}{2} \right)$
+$q_{4}= h \ f(x_{i}+h)$

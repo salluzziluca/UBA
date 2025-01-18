@@ -27,10 +27,8 @@ siendo $h(f(x_{0}, y_{0}) =q_{1}$ y $h\ f(x_{0}+h, y_{0}+h\ f(x_{0}, y_{0})))= q
 
 ## Metodo de orden 4
 aca el q2 no la calculo al final del intervalo, sino en la mitad. 
-$$y_{i+1}=y_{i}+\frac{q_{1}+2q_{2}+2q_{3}}{#}$$
-
-siendo $$q_{1}=h(f(x_{i}, y_{i})$$ y
-$$q_{2}=h\ f\left( x_{0}+\frac{h}{2}, y_{0}+\frac{q_{1}}{2}) \right))$$
-$$q_{3}= h\ f\left( x_{i}+\frac{h}{2}, y_{i}+\frac{q_{2}}{2} \right)$$
-$$q_{4}= h \ f(x_{i}+h, y_{i}+q_{3})$$
-
+$$y_{i+1}=y_{i} \frac{q_{1}+2q_{2}+2q_{3}+q_{4}}{6}$$
+$q_{1}=hf(x_{i}, y_{i})$
+$q_{2}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{1}}{2}\right)$
+$q_{3}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{2}}{2}\right)$
+$q_{1}=hf(x_{i}+h, y_{i}+q_{3})$

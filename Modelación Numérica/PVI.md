@@ -29,4 +29,5 @@ siendo $h(f(x_{0}, y_{0}) =q_{1}$ y $h\ f(x_{0}+h, y_{0}+h\ f(x_{0}, y_{0})))= q
 aca el q2 no la calculo al final del intervalo, sino en la mitad. 
 
 siendo $q_{1}=h(f(x_{i}, y_{i}) $ y
-$q_{2}=h\ f\left( x_{0}+\frac{h}{2}, y_{0}+h\ f(x_{0}, y_{0}) \right))$
+$q_{2}=h\ f\left( x_{0}+\frac{h}{2}, y_{0}+\frac{q_{1}}{2}) \right))$
+$q_{3}= h$

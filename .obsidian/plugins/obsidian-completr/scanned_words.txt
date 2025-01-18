@@ -1623,6 +1623,7 @@ col
 consitente
 condicionmes
 cadaa
+condicionamiento
 de
 dispositivos
 del
@@ -4877,6 +4878,7 @@ pesado
 predecir
 predictor
 preocupa
+perturbacion
 la
 las
 le
@@ -6095,6 +6097,7 @@ anchura
 actualiza
 armas
 asint
+analisis
 hardware
 heap
 hay
@@ -9834,6 +9837,7 @@ notify
 net
 nafta
 nul
+neceista
 via
 vuelve
 viven
@@ -11374,6 +11378,7 @@ IRU
 IRc
 Invertir
 Intentando
+Implicito
 Un
 UNIX
 UBA
@@ -13302,6 +13307,7 @@ imposi
 inf
 invarianza
 insesgado
+incondicionalmente
 fijo
 file
 fork
@@ -16240,6 +16246,7 @@ builder
 bheY
 basan
 biunivoca
+basta
 will
 words
 with

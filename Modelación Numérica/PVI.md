@@ -34,3 +34,9 @@ $q_{1}=hf(x_{i}, y_{i})$
 $q_{2}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{1}}{2}\right)$
 $q_{3}=hf\left( x_{i}+\frac{h}{2}, y_{i}  +\frac{q_{2}}{2}\right)$
 $q_{1}=hf(x_{i}+h, y_{i}+q_{3})$
+
+
+# Ecuaciones de orden >1
+![[Pasted image 20250118155701.png]]![[Pasted image 20250118155712.png]]
+
+no entendi ni sota

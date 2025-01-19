@@ -3399,6 +3399,7 @@ estimador
 estimacion
 estiamador
 extraer
+entendi
 servicios
 son
 su
@@ -4061,6 +4062,7 @@ sucesivamente
 spanning
 sesgo
 sucesi
+sota
 par
 por
 punto
@@ -8312,6 +8314,7 @@ EMV
 Estimadores
 Estimamos
 Esa
+Ecuaciones
 kernel
 kt
 kU

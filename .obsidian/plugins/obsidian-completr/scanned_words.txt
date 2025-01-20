@@ -246,6 +246,7 @@ KhkN
 KJHNM
 Kubernetes
 Kube
+Kutta
 La
 Los
 Luego
@@ -1546,6 +1547,7 @@ cambien
 cost
 calculos
 caluclar
+cadaa
 de
 dispositivos
 del
@@ -3236,6 +3238,8 @@ encadenar
 evita
 equitativamente
 exacto
+extraer
+entendi
 servicios
 son
 su
@@ -3861,6 +3865,7 @@ scan
 seleccion
 suponiendo
 secundario
+sota
 par
 por
 punto
@@ -4620,6 +4625,7 @@ precisa
 proyecciones
 proximos
 primario
+preocupa
 la
 las
 le
@@ -7922,6 +7928,8 @@ Externo
 Etapas
 Estimar
 Explota
+Esa
+Ecuaciones
 kernel
 kt
 kU
@@ -14484,6 +14492,7 @@ Maximizar
 Mediciones
 Merkle
 Merge
+Medio
 Table
 Todos
 This
@@ -15170,6 +15179,7 @@ Reduccion
 Reduciendo
 Reducimos
 Recorremos
+Repaso
 bien
 by
 be

@@ -23,7 +23,10 @@ Siendo $(f-f^*, f-f^*)$ el [[Produto interno]] de $f -f^*$
 ## metodo de Vandermonde 
 
 El polinomio evaluado en x_i es igual que la funcion evaluada en x_i
-![[Pasted image 20241008135126.png]]el determinante de A es distinto de 0 si los x_i son distintos. Siendo A![[Pasted image 20241020200039.png]]
+![[Pasted image 20241008135126.png]]
+
+el determinante de A es distinto de 0 si los x_i son distintos. Siendo A
+![[Pasted image 20241020200039.png]]
 La idea seria interpolar sin tener que hacer un sistema de ecuaciones 
 
 
@@ -68,7 +71,6 @@ Pero es mucho lio, para eso uso
 ### Tabla de diferencia divididas 
 
 ![[Pasted image 20241020204133.png]]
-
 #### Relacion entre derivadas y diferencias divididas
 $$f[]x_{0},x_{1},x_{2}, \dots, x_{m}]= \frac{f^{m}(x)}{m!}$$
 

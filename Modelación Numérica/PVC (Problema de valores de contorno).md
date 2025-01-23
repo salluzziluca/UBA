@@ -12,4 +12,4 @@ El problema de PVC se resuelve siempre con un sistema de ecuaciones
 parto el intervalo en n+1 partes. 
 ![[Pasted image 20250123183103.png]]
 el N+1 es el borde que ya conozco
-
+Entonces se resuelve con un sistema de ecuaciones de n incognitas

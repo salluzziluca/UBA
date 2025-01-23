@@ -22,5 +22,7 @@ con $a<x<b$
 $y(a)=\alpha, \ y(b)=\beta$
 
 $p(x), q(x), \pi(x) \in \mathbb{C}[a, b]$
-$q(x)>0, for$
+$q(x)>0, \notforall \ x \in [a, b]$
+
+
 

@@ -21,4 +21,5 @@ $$y_{0}0=p(x)y'+f(x)y+\pi(x)$$
 con $a<x<b$ 
 $y(a)=\alpha, \ y(b)=\beta$
 
+$p(x), q(x), \pi(x) in \$
 

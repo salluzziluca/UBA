@@ -26,6 +26,6 @@ $q(x)>0, \notforall \ x \in [a, b]$
 
 
 
-$$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}$$
+$$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}=p(x_{i})[\frac{y(x_{i+1})-y(x_{i-1})}{2h}]+q(x_{1})y(x)$$
 
 

@@ -26,3 +26,6 @@ $q(x)>0, \notforall \ x \in [a, b]$
 
 
 
+$$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}$$
+
+

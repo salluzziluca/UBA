@@ -18,6 +18,7 @@ Entonces se resuelve con un sistema de ecuaciones de n incognitas
 ### PVC 1D lineales 
 
 $$y_{0}0=p(x)y'+f(x)y+\pi(x)$$
-con a<x<b 
+con $a<x<b$ 
+$y(a)=\alpha, \ y(b)=\beta$
 
 

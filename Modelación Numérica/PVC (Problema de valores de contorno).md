@@ -31,3 +31,6 @@ $$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}=p(x_{i})\left[ \frac{y(x_{i+1})-y(
 
 #### Operadores 
  ![[Pasted image 20250124154004.png]]
+
+![[Pasted image 20250124154310.png]]
+en el caso de i = 0 el primer termino se vuelve mas simple ya que 

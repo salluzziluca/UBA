@@ -35,4 +35,9 @@ $$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}=p(x_{i})\left[ \frac{y(x_{i+1})-y(
 ![[Pasted image 20250124154310.png]]
 en el caso de i = 1 el primer termino se vuelve mas simple ya que -w_2+2w_1-w_0(que es alpha). Lo mismo pasa con w_N+1 que es beta
 
-![[Pasted image 20250124154513.png]]
+
+
+
+![[Pasted image 20250124154545.png]]
+
+![[Pasted image 20250124154636.png]]

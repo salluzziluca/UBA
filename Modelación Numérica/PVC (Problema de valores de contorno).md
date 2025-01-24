@@ -29,3 +29,5 @@ Las condiciones de unicidad son entonces que p, q y r sean continuas y que q no 
 $$\frac{y(x_{i+1})-2y(x_{i})+y(x_{i-1})}{h^2}=p(x_{i})\left[ \frac{y(x_{i+1})-y(x_{i-1})}{2h} \right]+q(x_{1})y(x_{i})+r(x_{i})-\frac{h^2}{12}[2p(x_{i})y^m (\eta_{i})-y^4(\xi_{i})]$$
 
 
+#### Operadores 
+ ![[Pasted image 20250124154004.png]]

@@ -7098,6 +7098,7 @@ Sort
 Simplemente
 ServiciosPlanes
 Strategy
+Sabemos
 Calls
 Cmabia
 CPU
@@ -10601,6 +10602,7 @@ Pipelining
 Provincia
 Proporciona
 Parecer
+PVC
 Interface
 ID
 Instructions
@@ -12803,6 +12805,8 @@ import
 interact
 intercambiables
 implemente
+interior
+incognitas
 fijo
 file
 fork
@@ -13817,6 +13821,7 @@ Fenomeno
 Filtra
 False
 Formula
+Finitas
 Descriptors
 Descriptor
 Devuelve

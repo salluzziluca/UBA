@@ -6,6 +6,8 @@ Buscoo hacer una integral definida cuandono conozco la primitiva o cuando la fun
 
 ![[Método de Simpson]]
 
-[[m]]
+![[Método del Trapecio]]
+
+![[Metodo de Ronberg]]
 
 ![[Pasted image 20250127175037.png]]14

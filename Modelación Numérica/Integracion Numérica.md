@@ -6,4 +6,4 @@ Buscoo hacer una integral definida cuandono conozco la primitiva o cuando la fun
 [[Método de Simpson]]
 
 
-![[Pasted image 20250127175037.png]]
+![[Pasted image 20250127175037.png]]14

@@ -1559,6 +1559,7 @@ celda
 creas
 crendo
 cuandono
+convirti
 de
 dispositivos
 del
@@ -5090,6 +5091,8 @@ levanto
 loops
 llenarse
 loisto
+librer
+libros
 agnosticos
 apps
 al
@@ -5829,6 +5832,8 @@ allegadas
 analyze
 alteramos
 agregarles
+asociadas
+ancha
 hardware
 heap
 hay
@@ -8774,6 +8779,7 @@ refieran
 redefinan
 report
 rectangulo
+row
 operacion
 orden
 operaciones
@@ -9457,6 +9463,7 @@ neceista
 notifica
 notificados
 notify
+ndola
 via
 vuelve
 viven
@@ -9819,6 +9826,7 @@ violar
 visitante
 visitor
 visitors
+vinculados
 Application
 API
 Asigna
@@ -10190,6 +10198,7 @@ Almacenar
 Aristas
 Agregamos
 Adaptamos
+Agrupan
 Programming
 Procesos
 Partes
@@ -15938,6 +15947,7 @@ wDTDap
 wNbr
 workers
 worker
+wide
 VA
 VIEW
 Volumen

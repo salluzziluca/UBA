@@ -105,6 +105,8 @@ Hamburguesa = {
 }
 ```
 ### Wide Column 
+
+[[Bases de Datos Wide Collum]]
 Cassandra
 ![[Pasted image 20241029211651.png]]
 ### Basadas en [[Grafos]] 

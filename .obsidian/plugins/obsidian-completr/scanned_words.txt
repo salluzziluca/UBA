@@ -247,6 +247,7 @@ KJHNM
 Kubernetes
 Kube
 Kutta
+Kolmogrov
 La
 Los
 Luego
@@ -1575,6 +1576,7 @@ comenzamos
 calculada
 cortos
 concatenando
+codificar
 de
 dispositivos
 del
@@ -2265,6 +2267,7 @@ detenerme
 duracion
 dijkstra
 distancias
+ddice
 gestion
 gran
 guarda
@@ -3937,6 +3940,7 @@ salas
 superposicion
 sucesivamente
 spanning
+secuencias
 par
 por
 punto
@@ -7170,6 +7174,7 @@ ServiciosPlanes
 Strategy
 Sabemos
 Search
+Sigo
 Calls
 Cmabia
 CPU
@@ -7652,6 +7657,9 @@ Command
 Calculo
 Conviene
 Comparamos
+Codificacion
+Compresion
+Compresores
 Es
 El
 Estos
@@ -8859,6 +8867,7 @@ robando
 repetimos
 recorrelo
 reemplazamos
+repiten
 operacion
 orden
 operaciones
@@ -9547,6 +9556,7 @@ notificados
 notify
 ndola
 nafta
+normalizada
 via
 vuelve
 viven
@@ -10291,6 +10301,7 @@ Aplicamos
 ARGENTINAAAAA
 ACa
 Agoritmo
+Armo
 Programming
 Procesos
 Partes
@@ -13338,6 +13349,7 @@ familia
 futuro
 facultad
 frec
+flechas
 Nombre
 Notas
 Not
@@ -15814,6 +15826,7 @@ buscsando
 bloquesGeneramos
 basta
 beta
+basan
 will
 words
 with

@@ -1569,6 +1569,12 @@ cambion
 ciuidad
 contraejemplos
 comemos
+continuar
+conocida
+comenzamos
+calculada
+cortos
+concatenando
 de
 dispositivos
 del
@@ -2257,6 +2263,8 @@ deteneidnose
 distribuidoas
 detenerme
 duracion
+dijkstra
+distancias
 gestion
 gran
 guarda
@@ -3289,6 +3297,7 @@ explicita
 estaciones
 estacion
 elemehtos
+encara
 servicios
 son
 su
@@ -3926,6 +3935,8 @@ superponga
 schedule
 salas
 superposicion
+sucesivamente
+spanning
 par
 por
 punto
@@ -4703,6 +4714,7 @@ poara
 pasteleria
 pateando
 proxima
+pesado
 la
 las
 le
@@ -5132,6 +5144,7 @@ lleve
 letra
 lejana
 lleven
+liviana
 agnosticos
 apps
 al
@@ -5878,6 +5891,9 @@ acomodar
 aulas
 asignadas
 alcanzan
+anchura
+actualiza
+armas
 hardware
 heap
 hay
@@ -7153,6 +7169,7 @@ Simplemente
 ServiciosPlanes
 Strategy
 Sabemos
+Search
 Calls
 Cmabia
 CPU
@@ -7634,6 +7651,7 @@ Chain
 Command
 Calculo
 Conviene
+Comparamos
 Es
 El
 Estos
@@ -8041,6 +8059,8 @@ Evita
 Encapsula
 Encolo
 ESTO
+Empezaria
+ENcuentra
 kernel
 kt
 kU
@@ -8249,6 +8269,7 @@ kuml
 kubectl
 kube
 kilometros
+kruskal
 realicen
 resolve
 recommend
@@ -8836,6 +8857,8 @@ reencolo
 repito
 robando
 repetimos
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -9888,6 +9911,9 @@ visitor
 visitors
 vinculados
 viajar
+visitar
+vecinos
+visitado
 Application
 API
 Asigna
@@ -10264,6 +10290,7 @@ AHORA
 Aplicamos
 ARGENTINAAAAA
 ACa
+Agoritmo
 Programming
 Procesos
 Partes
@@ -10681,6 +10708,8 @@ Proporciona
 Parecer
 PVC
 Plantea
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -11858,6 +11887,7 @@ modularizas
 morse
 monetasrio
 metiendo
+marcan
 tien
 tiene
 todos
@@ -12326,6 +12356,7 @@ torre
 tortas
 terminan
 teareas
+topol
 inico
 interna
 infro
@@ -12898,6 +12929,7 @@ inflaci
 inflacion
 inmversion
 imposi
+inf
 fijo
 file
 fork
@@ -13916,6 +13948,9 @@ Filtra
 False
 Formula
 Finitas
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -14317,6 +14352,8 @@ DataMiner
 Desencolamos
 Divido
 Desgraciadamente
+DFS
+Depth
 Memoria
 Multivariada
 MORE
@@ -15381,6 +15418,8 @@ Reducimos
 Recorremos
 Repaso
 Responsibilty
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -16306,6 +16345,9 @@ Viva
 Vertex
 Veamosla
 Visitor
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -16779,6 +16821,7 @@ ykk
 yqQ
 yrBec
 yIpP
+yendo
 json
 jacobiano
 justamente
@@ -17874,6 +17917,8 @@ Bipartito
 Bueno
 Brasil
 Buscoo
+BFS
+Breath
 XY
 Xg
 XQG
@@ -19376,6 +19421,7 @@ WKcMpm
 Workers
 Web
 Weierstrass
+Warshall
 ZZZPU
 ZX
 ZQ

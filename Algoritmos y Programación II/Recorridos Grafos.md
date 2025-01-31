@@ -45,9 +45,9 @@ FInalmente
 ![[Pasted image 20220621204635.png]]
 
 ## Agoritmo de kruskal
-tenes n aristas
+tenes n [[Grafos]]
 armas una lista de aristas de menor a mayor
-ir arista por arista. concatenandola al nuevo grafo si no se forma un ciclo 
+ir arista por arista. concatenando los [[Grafos]] que esa arista mira
 
 ![[Pasted image 20220628190016.png]]
 Aca tengo 13 [[Grafos]] que no estan contectados. 

@@ -1560,6 +1560,15 @@ creas
 crendo
 cuandono
 convirti
+comprimir
+codifico
+compar
+caro
+combustible
+cambion
+ciuidad
+contraejemplos
+comemos
 de
 dispositivos
 del
@@ -2241,6 +2250,13 @@ descartando
 dios
 delegando
 divisiones
+deontologista
+descarto
+desencolo
+deteneidnose
+distribuidoas
+detenerme
+duracion
 gestion
 gran
 guarda
@@ -2560,6 +2576,9 @@ grabar
 grace
 genere
 gram
+greedys
+gastando
+ganancia
 especifico
 entra
 en
@@ -3267,6 +3286,9 @@ esqueleto
 excel
 estaria
 explicita
+estaciones
+estacion
+elemehtos
 servicios
 son
 su
@@ -3899,6 +3921,11 @@ subscribers
 subcomportamientos
 send
 sublcase
+superponen
+superponga
+schedule
+salas
+superposicion
 par
 por
 punto
@@ -4668,6 +4695,14 @@ point
 pdfs
 pase
 pasarlo
+pienso
+permita
+paralelepipiedo
+pasarme
+poara
+pasteleria
+pateando
+proxima
 la
 las
 le
@@ -5093,6 +5128,10 @@ llenarse
 loisto
 librer
 libros
+lleve
+letra
+lejana
+lleven
 agnosticos
 apps
 al
@@ -5834,6 +5873,11 @@ alteramos
 agregarles
 asociadas
 ancha
+actividades
+acomodar
+aulas
+asignadas
+alcanzan
 hardware
 heap
 hay
@@ -6172,6 +6216,7 @@ hashee
 habra
 handelea
 humano
+hacerse
 que
 queda
 quien
@@ -6736,6 +6781,7 @@ unvertice
 uniendo
 unfairness
 unen
+urgente
 System
 Son
 Source
@@ -7586,6 +7632,8 @@ Condicion
 CodPLan
 Chain
 Command
+Calculo
+Conviene
 Es
 El
 Estos
@@ -7991,6 +8039,8 @@ Esa
 Ecuaciones
 Evita
 Encapsula
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -8198,6 +8248,7 @@ kVb
 kuml
 kubectl
 kube
+kilometros
 realicen
 resolve
 recommend
@@ -8780,6 +8831,11 @@ redefinan
 report
 rectangulo
 row
+rapidos
+reencolo
+repito
+robando
+repetimos
 operacion
 orden
 operaciones
@@ -9143,6 +9199,9 @@ ocupado
 ocupar
 organizador
 opera
+ordenarlos
+optimos
+ordeno
 nombre
 nuevo
 nica
@@ -9464,6 +9523,7 @@ notifica
 notificados
 notify
 ndola
+nafta
 via
 vuelve
 viven
@@ -9827,6 +9887,7 @@ visitante
 visitor
 visitors
 vinculados
+viajar
 Application
 API
 Asigna
@@ -10199,6 +10260,10 @@ Aristas
 Agregamos
 Adaptamos
 Agrupan
+AHORA
+Aplicamos
+ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -10615,6 +10680,7 @@ Provincia
 Proporciona
 Parecer
 PVC
+Plantea
 Interface
 ID
 Instructions
@@ -10952,6 +11018,8 @@ Interseccion
 Implicito
 Interpreter
 Iterator
+Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -11787,6 +11855,9 @@ modifique
 moderation
 modularizarlas
 modularizas
+morse
+monetasrio
+metiendo
 tien
 tiene
 todos
@@ -12252,6 +12323,9 @@ tendria
 temporalmente
 tratada
 torre
+tortas
+terminan
+teareas
 inico
 interna
 infro
@@ -12819,6 +12893,11 @@ intercambiables
 implemente
 interior
 incognitas
+intuitivos
+inflaci
+inflacion
+inmversion
+imposi
 fijo
 file
 fork
@@ -13224,6 +13303,9 @@ fidedigno
 fulas
 flashcard
 familia
+futuro
+facultad
+frec
 Nombre
 Notas
 Not
@@ -14232,6 +14314,9 @@ DISTINCT
 Define
 Draft
 DataMiner
+Desencolamos
+Divido
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -14924,6 +15009,7 @@ Terminamos
 TSP
 Tonga
 Template
+Tanque
 Realiza
 REgistrys
 Rango
@@ -16480,6 +16566,8 @@ Ordenando
 Opci
 Observer
 OCR
+Opcion
+Ordenamos
 ya
 yo
 yM
@@ -16968,6 +17056,7 @@ jugador
 juntarse
 jutna
 juntaran
+jijo
 Ya
 Yourself
 YAGNI
@@ -18299,6 +18388,7 @@ Hasheo
 Hamlet
 Hasta
 Hash
+Huffman
 Jacobiano
 Job
 Jusitfique

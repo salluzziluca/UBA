@@ -1580,6 +1580,12 @@ codificar
 cotas
 cloacas
 capea
+comprarar
+coincida
+consultamos
+composicion
+cla
+clausula
 de
 dispositivos
 del
@@ -2277,6 +2283,11 @@ demandas
 destinos
 dependa
 diriigido
+dominating
+dominant
+dominar
+dominados
+domianting
 gestion
 gran
 guarda
@@ -2599,6 +2610,7 @@ gram
 greedys
 gastando
 ganancia
+grago
 especifico
 entra
 en
@@ -3312,6 +3324,10 @@ elemehtos
 encara
 excepto
 estabamos
+ehizo
+eleva
+elevar
+elecci
 servicios
 son
 su
@@ -3958,6 +3974,14 @@ stamos
 selection
 sobraba
 sobrando
+sabemosq
+sdi
+subseteq
+subconjuntos
+sat
+sulas
+satisfechas
+satisfecha
 par
 por
 punto
@@ -4740,6 +4764,15 @@ paths
 positivos
 produce
 path
+polinomicos
+polinomicas
+peude
+polinomico
+poilonomial
+peuden
+polinomica
+pIndependent
+ponerla
 la
 las
 le
@@ -5170,6 +5203,10 @@ letra
 lejana
 lleven
 liviana
+llamads
+llevarlo
+lla
+leq
 agnosticos
 apps
 al
@@ -5926,6 +5963,7 @@ aceptan
 antiparalelas
 augmentin
 agregaria
+arbitraria
 hardware
 heap
 hay
@@ -6834,6 +6872,8 @@ unen
 urgente
 une
 unimos
+usulas
+usula
 System
 Son
 Source
@@ -7207,6 +7247,7 @@ Strategy
 Sabemos
 Search
 Sigo
+Satisficibilidad
 Calls
 Cmabia
 CPU
@@ -8105,6 +8146,8 @@ Encolo
 ESTO
 Empezaria
 ENcuentra
+Ejercicio
+Efectivamente
 kernel
 kt
 kU
@@ -8909,6 +8952,17 @@ residual
 restante
 reducirse
 residuales
+resuelta
+reducible
+reoslver
+resolvr
+reducciones
+redfes
+reves
+recordemos
+resolveer
+relativa
+ressuelve
 operacion
 orden
 operaciones
@@ -10768,6 +10822,9 @@ Plantea
 Prim
 Partiendo
 Ponemos
+Podemore
+POLINOMILAMENTE
+Partimos
 Interface
 ID
 Instructions
@@ -12421,6 +12478,8 @@ topol
 traslada
 transporte
 teniamos
+teenmos
+triangulo
 inico
 interna
 infro
@@ -12994,6 +13053,7 @@ inflacion
 inmversion
 imposi
 inf
+independen
 fijo
 file
 fork
@@ -13411,6 +13471,7 @@ flujos
 ford
 fulkerson
 flow
+formado
 Nombre
 Notas
 Not
@@ -13671,6 +13732,8 @@ Nuestra
 Nuevamente
 Nuevas
 Nuestras
+Notar
+Ningun
 File
 For
 Funcion
@@ -14026,6 +14089,7 @@ Finitas
 Fijandonos
 FInalmente
 Floyd
+Formamos
 Descriptors
 Descriptor
 Devuelve
@@ -14430,6 +14494,7 @@ Desgraciadamente
 DFS
 Depth
 Disjoint
+Dominating
 Memoria
 Multivariada
 MORE
@@ -14805,6 +14870,7 @@ Medio
 Mediador
 Memento
 Maximizo
+Matching
 Table
 Todos
 This
@@ -15497,6 +15563,8 @@ Repaso
 Responsibilty
 Recorridos
 Recorriendo
+Redujimos
+Resolver
 bien
 by
 be
@@ -15894,6 +15962,8 @@ beta
 basan
 beneficio
 bucles
+booleana
+bar
 will
 words
 with
@@ -16691,6 +16761,8 @@ Observer
 OCR
 Opcion
 Ordenamos
+Ordenar
+ORs
 ya
 yo
 yM
@@ -18000,6 +18072,8 @@ Brasil
 Buscoo
 BFS
 Breath
+Bipartite
+Busquedas
 XY
 Xg
 XQG

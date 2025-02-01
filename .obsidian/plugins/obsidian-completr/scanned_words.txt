@@ -248,6 +248,7 @@ Kubernetes
 Kube
 Kutta
 Kolmogrov
+KuZ
 La
 Los
 Luego
@@ -587,6 +588,7 @@ Lists
 Levin
 Loop
 Literalmente
+LEl
 capa
 controlado
 cantidad
@@ -1586,6 +1588,7 @@ consultamos
 composicion
 cla
 clausula
+cOLY
 de
 dispositivos
 del
@@ -3328,6 +3331,7 @@ ehizo
 eleva
 elevar
 elecci
+eYa
 servicios
 son
 su
@@ -5964,6 +5968,7 @@ antiparalelas
 augmentin
 agregaria
 arbitraria
+abv
 hardware
 heap
 hay
@@ -6551,6 +6556,8 @@ quedando
 query
 quitando
 qel
+qcV
+qVem
 utilizados
 un
 una
@@ -7248,6 +7255,7 @@ Sabemos
 Search
 Sigo
 Satisficibilidad
+SVP
 Calls
 Cmabia
 CPU
@@ -7737,6 +7745,7 @@ Circulacion
 Condici
 Cotas
 Ccada
+CkjW
 Es
 El
 Estos
@@ -8357,6 +8366,9 @@ kubectl
 kube
 kilometros
 kruskal
+kyo
+kRgx
+kjW
 realicen
 resolve
 recommend
@@ -8963,6 +8975,7 @@ recordemos
 resolveer
 relativa
 ressuelve
+rJP
 operacion
 orden
 operaciones
@@ -9329,6 +9342,7 @@ opera
 ordenarlos
 optimos
 ordeno
+oOf
 nombre
 nuevo
 nica
@@ -10825,6 +10839,7 @@ Ponemos
 Podemore
 POLINOMILAMENTE
 Partimos
+PJe
 Interface
 ID
 Instructions
@@ -11165,6 +11180,11 @@ Iterator
 Invertir
 Intentando
 Implementar
+IRg
+IRQ
+IRYG
+IRU
+IRc
 Un
 UNIX
 UBA
@@ -11449,6 +11469,7 @@ UoU
 UaM
 Utilice
 Unimos
+UkT
 modo
 mode
 menso
@@ -12006,6 +12027,7 @@ metiendo
 marcan
 modelar
 materiales
+mVb
 tien
 tiene
 todos
@@ -13054,6 +13076,8 @@ inmversion
 imposi
 inf
 independen
+ixlO
+inU
 fijo
 file
 fork
@@ -14090,6 +14114,7 @@ Fijandonos
 FInalmente
 Floyd
 Formamos
+FXg
 Descriptors
 Descriptor
 Devuelve
@@ -14495,6 +14520,7 @@ DFS
 Depth
 Disjoint
 Dominating
+DcD
 Memoria
 Multivariada
 MORE
@@ -14871,6 +14897,7 @@ Mediador
 Memento
 Maximizo
 Matching
+MGjW
 Table
 Todos
 This
@@ -15190,6 +15217,7 @@ TSP
 Tonga
 Template
 Tanque
+TPDDD
 Realiza
 REgistrys
 Rango
@@ -15565,6 +15593,7 @@ Recorridos
 Recorriendo
 Redujimos
 Resolver
+RzD
 bien
 by
 be
@@ -15964,6 +15993,7 @@ beneficio
 bucles
 booleana
 bar
+bheY
 will
 words
 with
@@ -16975,6 +17005,8 @@ yqQ
 yrBec
 yIpP
 yendo
+yyJ
+ydJ
 json
 jacobiano
 justamente
@@ -17461,6 +17493,7 @@ Ymy
 YPs
 YhVR
 YAML
+Yts
 Generales
 Global
 GDT
@@ -18074,6 +18107,7 @@ BFS
 Breath
 Bipartite
 Busquedas
+BGZ
 XY
 Xg
 XQG
@@ -18304,6 +18338,8 @@ XDE
 XLt
 XRef
 XML
+XyI
+XbN
 HEAD
 Hay
 Herencia
@@ -18838,6 +18874,7 @@ JWJMKVJ
 JSON
 JBqLu
 Join
+JrV
 Quienes
 Queue
 Quiere
@@ -19119,6 +19156,7 @@ QpJg
 Queremos
 Quicksort
 QUEEEEEE
+QYw
 ximo
 xito
 xitos
@@ -19810,6 +19848,7 @@ Zbs
 ZDi
 Zrm
 ZUuS
+ZLL
 zZ
 za
 zR
@@ -20010,6 +20049,7 @@ zyA
 zOoi
 zaf
 zoan
+zDM
 ÄB
 ÄG
 Äo

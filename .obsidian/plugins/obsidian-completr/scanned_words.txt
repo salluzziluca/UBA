@@ -1577,6 +1577,7 @@ calculada
 cortos
 concatenando
 codificar
+cotas
 de
 dispositivos
 del
@@ -2268,6 +2269,11 @@ duracion
 dijkstra
 distancias
 ddice
+disenioo
+disjuntos
+demandas
+destinos
+dependa
 gestion
 gran
 guarda
@@ -3301,6 +3307,7 @@ estaciones
 estacion
 elemehtos
 encara
+excepto
 servicios
 son
 su
@@ -3941,6 +3948,10 @@ superposicion
 sucesivamente
 spanning
 secuencias
+suministro
+sumideros
+stamos
+selection
 par
 por
 punto
@@ -4719,6 +4730,8 @@ pasteleria
 pateando
 proxima
 pesado
+paths
+positivos
 la
 las
 le
@@ -5898,6 +5911,9 @@ alcanzan
 anchura
 actualiza
 armas
+artias
+aviones
+avi
 hardware
 heap
 hay
@@ -6237,6 +6253,7 @@ habra
 handelea
 humano
 hacerse
+har
 que
 queda
 quien
@@ -6802,6 +6819,8 @@ uniendo
 unfairness
 unen
 urgente
+une
+unimos
 System
 Son
 Source
@@ -7660,6 +7679,9 @@ Comparamos
 Codificacion
 Compresion
 Compresores
+Circulacion
+Condici
+Cotas
 Es
 El
 Estos
@@ -9557,6 +9579,8 @@ notify
 ndola
 nafta
 normalizada
+negativa
+negativos
 via
 vuelve
 viven
@@ -9924,6 +9948,8 @@ viajar
 visitar
 vecinos
 visitado
+vuelo
+vuelos
 Application
 API
 Asigna
@@ -10302,6 +10328,7 @@ ARGENTINAAAAA
 ACa
 Agoritmo
 Armo
+Arista
 Programming
 Procesos
 Partes
@@ -10721,6 +10748,7 @@ PVC
 Plantea
 Prim
 Partiendo
+Ponemos
 Interface
 ID
 Instructions
@@ -11060,6 +11088,7 @@ Interpreter
 Iterator
 Invertir
 Intentando
+Implementar
 Un
 UNIX
 UBA
@@ -13350,6 +13379,10 @@ futuro
 facultad
 frec
 flechas
+fueran
+fuentes
+fout
+forzar
 Nombre
 Notas
 Not
@@ -13608,6 +13641,8 @@ Nodos
 Nito
 Nuestra
 Nuevamente
+Nuevas
+Nuestras
 File
 For
 Funcion
@@ -14366,6 +14401,7 @@ Divido
 Desgraciadamente
 DFS
 Depth
+Disjoint
 Memoria
 Multivariada
 MORE
@@ -15827,6 +15863,7 @@ bloquesGeneramos
 basta
 beta
 basan
+beneficio
 will
 words
 with

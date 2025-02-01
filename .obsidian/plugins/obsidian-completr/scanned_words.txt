@@ -1578,6 +1578,8 @@ cortos
 concatenando
 codificar
 cotas
+cloacas
+capea
 de
 dispositivos
 del
@@ -2274,6 +2276,7 @@ disjuntos
 demandas
 destinos
 dependa
+diriigido
 gestion
 gran
 guarda
@@ -3308,6 +3311,7 @@ estacion
 elemehtos
 encara
 excepto
+estabamos
 servicios
 son
 su
@@ -3952,6 +3956,8 @@ suministro
 sumideros
 stamos
 selection
+sobraba
+sobrando
 par
 por
 punto
@@ -4732,6 +4738,8 @@ proxima
 pesado
 paths
 positivos
+produce
+path
 la
 las
 le
@@ -5914,6 +5922,10 @@ armas
 artias
 aviones
 avi
+aceptan
+antiparalelas
+augmentin
+agregaria
 hardware
 heap
 hay
@@ -6500,6 +6512,7 @@ quedarnos
 quedando
 query
 quitando
+qel
 utilizados
 un
 una
@@ -7682,6 +7695,7 @@ Compresores
 Circulacion
 Condici
 Cotas
+Ccada
 Es
 El
 Estos
@@ -8890,6 +8904,11 @@ repetimos
 recorrelo
 reemplazamos
 repiten
+refleja
+residual
+restante
+reducirse
+residuales
 operacion
 orden
 operaciones
@@ -11928,6 +11947,8 @@ morse
 monetasrio
 metiendo
 marcan
+modelar
+materiales
 tien
 tiene
 todos
@@ -12397,6 +12418,9 @@ tortas
 terminan
 teareas
 topol
+traslada
+transporte
+teniamos
 inico
 interna
 infro
@@ -13383,6 +13407,10 @@ fueran
 fuentes
 fout
 forzar
+flujos
+ford
+fulkerson
+flow
 Nombre
 Notas
 Not
@@ -14776,6 +14804,7 @@ Merge
 Medio
 Mediador
 Memento
+Maximizo
 Table
 Todos
 This
@@ -15864,6 +15893,7 @@ basta
 beta
 basan
 beneficio
+bucles
 will
 words
 with
@@ -16398,6 +16428,7 @@ Visitor
 Visitados
 VISITADO
 Volvemos
+Vemos
 OPTIONS
 Operativos
 Orden

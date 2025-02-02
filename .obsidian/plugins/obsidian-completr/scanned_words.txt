@@ -1548,6 +1548,10 @@ cost
 calculos
 caluclar
 cadaa
+cobrando
+chromium
+capacitaciones
+challenge
 de
 dispositivos
 del
@@ -2227,6 +2231,7 @@ devolverlos
 devuelven
 descartando
 dios
+destinado
 gestion
 gran
 guarda
@@ -2544,6 +2549,7 @@ gicos
 generamos
 grabar
 grace
+gustaria
 especifico
 entra
 en
@@ -3240,6 +3246,9 @@ equitativamente
 exacto
 extraer
 entendi
+equo
+empleados
+encuentros
 servicios
 son
 su
@@ -3866,6 +3875,13 @@ seleccion
 suponiendo
 secundario
 sota
+sueldo
+suelo
+social
+servo
+semana
+san
+siemore
 par
 por
 punto
@@ -4626,6 +4642,13 @@ proyecciones
 proximos
 primario
 preocupa
+part
+porqque
+partime
+pasante
+pasteur
+presencial
+pasantia
 la
 las
 le
@@ -5049,6 +5072,10 @@ levanto
 loops
 llenarse
 loisto
+lit
+luis
+light
+lunes
 agnosticos
 apps
 al
@@ -5781,6 +5808,15 @@ aparece
 aplicada
 anteiror
 ahorra
+arkanis
+ana
+aportes
+aguinaldo
+apuro
+anual
+abril
+actividades
+almuerzo
 hardware
 heap
 hay
@@ -6117,6 +6153,8 @@ histograma
 harian
 hashee
 habra
+habria
+hooras
 que
 queda
 quien
@@ -6363,6 +6401,7 @@ quedarnos
 quedando
 query
 quitando
+quieras
 utilizados
 un
 una
@@ -6681,6 +6720,7 @@ unvertice
 uniendo
 unfairness
 unen
+updatean
 System
 Son
 Source
@@ -7930,6 +7970,7 @@ Estimar
 Explota
 Esa
 Ecuaciones
+Estaria
 kernel
 kt
 kU
@@ -8710,6 +8751,9 @@ restantes
 repetidos
 restarse
 requerir
+researcb
+reunion
+react
 operacion
 orden
 operaciones
@@ -9071,6 +9115,8 @@ obvio
 ordenarlas
 ocupado
 ocupar
+obra
+osde
 nombre
 nuevo
 nica
@@ -9387,6 +9433,9 @@ ngulos
 ngulo
 notas
 neuevos
+ntrar
+negro
+net
 via
 vuelve
 viven
@@ -9745,6 +9794,9 @@ verificarla
 viajante
 vendr
 varibilidad
+vacaciones
+vacaiones
+viernes
 Application
 API
 Asigna
@@ -11693,6 +11745,12 @@ matchenado
 multiplicandose
 multiplicar
 materializarse
+migracion
+multiplataforma
+meet
+mayo
+mobile
+monotributo
 tien
 tiene
 todos
@@ -12156,6 +12214,9 @@ tablkas
 tos
 tendria
 temporalmente
+trabajado
+telmo
+tarnaquila
 inico
 interna
 infro
@@ -12714,6 +12775,8 @@ index
 iria
 incudisos
 intermedios
+impuestos
+ilimitadas
 fijo
 file
 fork
@@ -13117,6 +13180,11 @@ frecuencias
 finaliza
 fidedigno
 fulas
+febrero
+full
+factory
+fullstack
+facturar
 Nombre
 Notas
 Not
@@ -13375,6 +13443,7 @@ Nodos
 Nito
 Nuestra
 Nuevamente
+Nueva
 File
 For
 Funcion
@@ -15572,6 +15641,9 @@ barras
 brasil
 buscsando
 bloquesGeneramos
+bruto
+browser
+bono
 will
 words
 with
@@ -16847,6 +16919,8 @@ jugador
 juntarse
 jutna
 juntaran
+jubilatorios
+juntadas
 Ya
 Yourself
 YAGNI
@@ -18706,6 +18780,7 @@ QpJg
 Queremos
 Quicksort
 QUEEEEEE
+Quieren
 ximo
 xito
 xitos

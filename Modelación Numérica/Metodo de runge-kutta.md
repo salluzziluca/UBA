@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-Explicito
+	Explicito
 ## orden 2
 $$y= y_{0}+\frac{q_{1}+q_{2}}{2}$$
 $q_{1}=h(f(x_{0}, y_{0}))$

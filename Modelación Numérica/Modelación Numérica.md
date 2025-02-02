@@ -7,3 +7,5 @@ dg-publish: true
 [[Métodos Directos para Sistemas de Ecuaciones Lineales]]
 [[Raices de Ecuaciones no lineales]]
 [[Ajuste e interpolacion]]
+[[PVI]]
+[[PVC (Problema de valores de contorno)]]

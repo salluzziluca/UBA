@@ -40,3 +40,5 @@ $q_{1}=hf(x_{i}+h, y_{i}+q_{3})$
 ![[Pasted image 20250118155701.png]]![[Pasted image 20250118155712.png]]
 
 no entendi ni sota
+![https://en.wikipedia.org/wiki/Brandon_Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) 
+

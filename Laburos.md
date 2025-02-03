@@ -32,6 +32,8 @@ un engine basado en servo. https://servo.org/
 25.000 destinado a internet 
 todo en negro.
 
+Esto se podria facturar en monotributo
+
 una vez a la semana presencial en san telmo. 
 
 puedo arrancar en febrero. 

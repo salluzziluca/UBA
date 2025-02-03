@@ -21,6 +21,8 @@ luego 15
 # equo
 part time 
 
+cuando se libere el cepo idealmente se puede cobrar 100% en dolares en la cuenta de uno. 
+
 area nueva researcb and development. De investigacion para servo (un light browser). Quieren hacer un chromium pero en rust, que sea multiplataforma. Nueva area, nuevo producto.  ^900d75
 
 un engine basado en servo. https://servo.org/

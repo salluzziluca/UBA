@@ -1585,6 +1585,7 @@ cobrando
 chromium
 capacitaciones
 challenge
+cargarlo
 de
 dispositivos
 del
@@ -2283,6 +2284,7 @@ distribuidoas
 detenerme
 duracion
 destinado
+dinamic
 gestion
 gran
 guarda
@@ -3322,6 +3324,8 @@ equo
 empleados
 encuentros
 embedding
+embebido
+embeber
 servicios
 son
 su
@@ -3972,6 +3976,8 @@ servo
 semana
 san
 siemore
+suponiendoq
+standar
 par
 por
 punto
@@ -4772,6 +4778,7 @@ pasteur
 presencial
 pasantia
 pulir
+putear
 la
 las
 le
@@ -5209,6 +5216,8 @@ lit
 luis
 light
 lunes
+library
+liberiras
 agnosticos
 apps
 al
@@ -5970,6 +5979,7 @@ apuro
 anual
 abril
 almuerzo
+approachs
 hardware
 heap
 hay
@@ -12477,6 +12487,8 @@ teareas
 trabajado
 telmo
 tarnaquila
+tienene
+teoria
 inico
 interna
 infro
@@ -14482,6 +14494,7 @@ Dibuje
 Desencolamos
 Divido
 Desgraciadamente
+DCO
 Memoria
 Multivariada
 MORE
@@ -16207,6 +16220,7 @@ wDTDap
 wNbr
 workers
 worker
+windows
 VA
 VIEW
 Volumen

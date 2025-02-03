@@ -14,4 +14,6 @@ dg-publish: true
 - Complejidades: en chromium (cef) hay dos modos de funcionar. Uno es con buffer de memoria: pido un buffer, escribo los pixeles y vos despues hace lo que quieras con eso. Dame una ventana nativa del SO y yo me encargo de manejarla. De esta forma, todos los eventos de teclado y mouse los gestiona el mouse.
 Parece que servo solo maneja lo 2do, en ese caso es una paja porque nosotros tenemos que avisarle todas las cosas a servo para que servo lo cambie. 
 
+habria que ver entonces como atar los dos mundo
+
 

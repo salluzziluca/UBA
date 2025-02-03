@@ -8,7 +8,7 @@ dg-publish: true
 [Servo embedding, create minibrowser](https://github.com/servo/servo/issues/29930)
 
 
-- Esto es dificil, voy a putear
+- Esto es dificil, voy a putear. Hay approachs similares pero yo voy a estar haciendo algo completamente nuevo.
 
 
 

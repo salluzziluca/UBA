@@ -1572,6 +1572,15 @@ charr
 cabernet
 cepa
 conclu
+comprimir
+codifico
+compar
+caro
+combustible
+cambion
+ciuidad
+contraejemplos
+comemos
 de
 dispositivos
 del
@@ -2262,6 +2271,13 @@ distribu
 devuelvea
 deseados
 deshago
+deontologista
+descarto
+desencolo
+deteneidnose
+distribuidoas
+detenerme
+duracion
 gestion
 gran
 guarda
@@ -2580,6 +2596,9 @@ generamos
 grabar
 grace
 grabamos
+greedys
+gastando
+ganancia
 especifico
 entra
 en
@@ -3290,6 +3309,9 @@ extenso
 escritos
 elabora
 encontrando
+estaciones
+estacion
+elemehtos
 servicios
 son
 su
@@ -3928,6 +3950,11 @@ shard
 subimos
 sauvignon
 sugerimos
+superponen
+superponga
+schedule
+salas
+superposicion
 par
 por
 punto
@@ -4714,6 +4741,12 @@ produce
 pattern
 posteriormente
 pGWsn
+pienso
+paralelepipiedo
+pasarme
+poara
+pasteleria
+pateando
 la
 las
 le
@@ -5143,6 +5176,10 @@ lculos
 liste
 lcu
 licencias
+lleve
+letra
+lejana
+lleven
 agnosticos
 apps
 al
@@ -5892,6 +5929,10 @@ asignados
 asignadas
 afirmaciones
 asegurados
+actividades
+acomodar
+aulas
+alcanzan
 hardware
 heap
 hay
@@ -6230,6 +6271,7 @@ hashee
 habra
 hashear
 hara
+hacerse
 que
 queda
 quien
@@ -6798,6 +6840,7 @@ unfairness
 unen
 uzbekistan
 uva
+urgente
 System
 Son
 Source
@@ -7655,6 +7698,8 @@ Clemenciano
 Coordinaci
 Cepa
 Committed
+Calculo
+Conviene
 Es
 El
 Estos
@@ -8062,6 +8107,8 @@ Escriba
 Encontramos
 Extraeremos
 EXISTS
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -8269,6 +8316,7 @@ kVb
 kuml
 kubectl
 kube
+kilometros
 realicen
 resolve
 recommend
@@ -8856,6 +8904,11 @@ recomendar
 rurales
 roductores
 realizados
+rapidos
+reencolo
+repito
+robando
+repetimos
 operacion
 orden
 operaciones
@@ -9221,6 +9274,9 @@ oficinas
 ofertas
 oscilan
 oqJrPmuS
+ordenarlos
+optimos
+ordeno
 nombre
 nuevo
 nica
@@ -9540,6 +9596,7 @@ neuevos
 nsito
 ntas
 nDF
+nafta
 via
 vuelve
 viven
@@ -9904,6 +9961,7 @@ vehiculos
 val
 vinos
 vino
+viajar
 Application
 API
 Asigna
@@ -10282,6 +10340,10 @@ Asesores
 Aesores
 Accederemos
 Aplicando
+AHORA
+Aplicamos
+ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -10702,6 +10764,7 @@ Pagada
 Productores
 Protocolo
 Pipeling
+Plantea
 Interface
 ID
 Instructions
@@ -11039,6 +11102,8 @@ Interseccion
 IMDB
 Ingenier
 Instituto
+Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -11878,6 +11943,9 @@ municipio
 mayo
 malbec
 monovarietal
+morse
+monetasrio
+metiendo
 tien
 tiene
 todos
@@ -12344,6 +12412,9 @@ temporalmente
 trending
 topics
 tweet
+tortas
+terminan
+teareas
 inico
 interna
 infro
@@ -12909,6 +12980,11 @@ ingresar
 infracci
 incurre
 indicados
+intuitivos
+inflaci
+inflacion
+inmversion
+imposi
 fijo
 file
 fork
@@ -13321,6 +13397,9 @@ frecuentemente
 fabricado
 fabrique
 falsas
+futuro
+facultad
+frec
 Nombre
 Notas
 Not
@@ -14330,6 +14409,9 @@ Demostracion
 DISTINCT
 Direcci
 Dibuje
+Desencolamos
+Divido
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -15025,6 +15107,7 @@ Tonga
 Tenga
 Tandil
 Taqui
+Tanque
 Realiza
 REgistrys
 Rango
@@ -16581,6 +16664,8 @@ Optimizacion
 Operadores
 Ordenando
 Opci
+Opcion
+Ordenamos
 ya
 yo
 yM
@@ -17074,6 +17159,7 @@ jam
 justificando
 joya
 jwPpzyzh
+jijo
 Ya
 Yourself
 YAGNI
@@ -18405,6 +18491,7 @@ Hasheo
 Hamlet
 Hasta
 Hash
+Huffman
 Jacobiano
 Job
 Jusitfique

@@ -9,6 +9,7 @@ dg-publish: true
 
 
 - Esto es dificil, voy a putear. Hay approachs similares pero yo voy a estar haciendo algo completamente nuevo.
-
+- suponiendoq ue tienene una api de embebido, en teoria lo podemos embeber en una app rust
+- si nosotros despues n
 
 

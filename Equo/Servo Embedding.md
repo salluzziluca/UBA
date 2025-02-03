@@ -18,3 +18,5 @@ habria que ver entonces como atar los dos mundo
 
 entender que cada ventana de java es una GTK. Asi que si tener algo que reciba una gtk, ya estamos
 dont loose track of the windowed mode
+
+ver como gestiona los eventos

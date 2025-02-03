@@ -23,7 +23,9 @@ part time
 
 cuando se libere el cepo idealmente se puede cobrar 100% en dolares en la cuenta de uno. HYay ciertas restricciones. 
 
-Cobro por buenbit pero cuando paso a pesos ahi facturo
+Cobro por buenbit pero cuando paso a pesos ahi facturo factura E de importacion en pesos. Icotec inc.
+
+No recomeinda convertir a dolar fisico. Porque hay legilizaciones del b
 
 area nueva researcb and development. De investigacion para servo (un light browser). Quieren hacer un chromium pero en rust, que sea multiplataforma. Nueva area, nuevo producto.  ^900d75
 

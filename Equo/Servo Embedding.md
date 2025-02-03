@@ -16,4 +16,4 @@ Parece que servo solo maneja lo 2do, en ese caso es una paja porque nosotros ten
 
 habria que ver entonces como atar los dos mundo
 
-
+entender que cada ventana de java es una GTK. Asi que si tener algo que reciba una gtk, ya estamos

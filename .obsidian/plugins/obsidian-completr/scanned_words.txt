@@ -2289,6 +2289,7 @@ destinado
 dinamic
 dolares
 dolar
+dont
 gestion
 gran
 guarda
@@ -2611,6 +2612,7 @@ greedys
 gastando
 ganancia
 gustaria
+gtk
 especifico
 entra
 en
@@ -3330,6 +3332,7 @@ encuentros
 embedding
 embebido
 embeber
+encargo
 servicios
 son
 su
@@ -4783,6 +4786,8 @@ presencial
 pasantia
 pulir
 putear
+pixeles
+paja
 la
 las
 le
@@ -5224,6 +5229,7 @@ library
 liberiras
 libere
 legilizaciones
+loose
 agnosticos
 apps
 al
@@ -5986,6 +5992,8 @@ anual
 abril
 almuerzo
 approachs
+avisarle
+atar
 hardware
 heap
 hay
@@ -9666,6 +9674,7 @@ nafta
 ntrar
 negro
 net
+nativa
 via
 vuelve
 viven
@@ -10034,6 +10043,8 @@ viajar
 vacaciones
 vacaiones
 viernes
+vos
+ventana
 Application
 API
 Asigna
@@ -10838,6 +10849,7 @@ Protocolo
 Pipeling
 Plantea
 PVC
+Parece
 Interface
 ID
 Instructions
@@ -12026,6 +12038,9 @@ monotributo
 meet
 mobile
 minibrowser
+manejarla
+mouse
+maneja
 tien
 tiene
 todos
@@ -12500,6 +12515,7 @@ telmo
 tarnaquila
 tienene
 teoria
+track
 inico
 interna
 infro
@@ -13498,6 +13514,7 @@ full
 factory
 fullstack
 facturo
+funcionar
 Nombre
 Notas
 Not
@@ -14513,6 +14530,7 @@ Desencolamos
 Divido
 Desgraciadamente
 DCO
+Dame
 Memoria
 Multivariada
 MORE
@@ -16242,6 +16260,7 @@ wNbr
 workers
 worker
 windows
+windowed
 VA
 VIEW
 Volumen
@@ -17270,6 +17289,7 @@ jwPpzyzh
 jijo
 jubilatorios
 juntadas
+java
 Ya
 Yourself
 YAGNI
@@ -17747,6 +17767,7 @@ Gracias
 Grace
 GRACE
 Gustavo
+GTK
 BX
 Bit
 Box

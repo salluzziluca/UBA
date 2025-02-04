@@ -1588,6 +1588,12 @@ challenge
 cargarlo
 cepo
 cobrar
+continuar
+conocida
+comenzamos
+calculada
+cortos
+concatenando
 de
 dispositivos
 del
@@ -2290,6 +2296,8 @@ dinamic
 dolares
 dolar
 dont
+dijkstra
+distancias
 gestion
 gran
 guarda
@@ -3333,6 +3341,7 @@ embedding
 embebido
 embeber
 encargo
+encara
 servicios
 son
 su
@@ -3985,6 +3994,8 @@ san
 siemore
 suponiendoq
 standar
+sucesivamente
+spanning
 par
 por
 punto
@@ -4788,6 +4799,7 @@ pulir
 putear
 pixeles
 paja
+pesado
 la
 las
 le
@@ -5230,6 +5242,7 @@ liberiras
 libere
 legilizaciones
 loose
+liviana
 agnosticos
 apps
 al
@@ -5994,6 +6007,9 @@ almuerzo
 approachs
 avisarle
 atar
+anchura
+actualiza
+armas
 hardware
 heap
 hay
@@ -7280,6 +7296,7 @@ Sugiera
 Syrah
 Soluci
 Sabemos
+Search
 Calls
 Cmabia
 CPU
@@ -7767,6 +7784,7 @@ Committed
 Calculo
 Conviene
 Cobro
+Comparamos
 Es
 El
 Estos
@@ -8177,6 +8195,8 @@ EXISTS
 Encolo
 ESTO
 Estaria
+Empezaria
+ENcuentra
 kernel
 kt
 kU
@@ -8385,6 +8405,7 @@ kuml
 kubectl
 kube
 kilometros
+kruskal
 realicen
 resolve
 recommend
@@ -8981,6 +9002,8 @@ researcb
 reunion
 react
 recomeinda
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -10045,6 +10068,9 @@ vacaiones
 viernes
 vos
 ventana
+visitar
+vecinos
+visitado
 Application
 API
 Asigna
@@ -10427,6 +10453,7 @@ AHORA
 Aplicamos
 ARGENTINAAAAA
 ACa
+Agoritmo
 Programming
 Procesos
 Partes
@@ -10850,6 +10877,8 @@ Pipeling
 Plantea
 PVC
 Parece
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -12041,6 +12070,7 @@ minibrowser
 manejarla
 mouse
 maneja
+marcan
 tien
 tiene
 todos
@@ -12516,6 +12546,7 @@ tarnaquila
 tienene
 teoria
 track
+topol
 inico
 interna
 infro
@@ -13093,6 +13124,7 @@ importacion
 inc
 interior
 incognitas
+inf
 fijo
 file
 fork
@@ -14129,6 +14161,9 @@ Formula
 Facultad
 Fases
 Finitas
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -14531,6 +14566,8 @@ Divido
 Desgraciadamente
 DCO
 Dame
+DFS
+Depth
 Memoria
 Multivariada
 MORE
@@ -15597,6 +15634,8 @@ Reduciendo
 Reducimos
 Recorremos
 Repetible
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -16533,6 +16572,9 @@ Viva
 Vertex
 Veamosla
 Variabilidad
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -17004,6 +17046,7 @@ ykk
 yqQ
 yrBec
 yIpP
+yendo
 json
 jacobiano
 justamente
@@ -18108,6 +18151,8 @@ Black
 Bipartito
 Bueno
 Brasil
+BFS
+Breath
 XY
 Xg
 XQG
@@ -19615,6 +19660,7 @@ Workers
 Web
 Weierstrass
 WHwvP
+Warshall
 ZZZPU
 ZX
 ZQ

@@ -54,8 +54,12 @@ ir arista por arista. concatenando los [[Grafos]] que esa arista mira
 Recorriendo la lista a ver si las diferentes aristas unen dos [[Grafos]] distintos. Si lo hacen, los uno.
 
 ![[Pasted image 20250204131524.png]]
-no h
-
+no hay ciclo, sigo
+![[Pasted image 20250204131533.png]]
+![[Pasted image 20250204131539.png]]
+![[Pasted image 20250204131545.png]]
+Si agrego el 8-6, que es el que viene en orden, se me genera un ciclo. Lo skipeo y voy con el2-3
+![[Pasted image 20250204131554.png]]
 ## Floyd-Warshall
 ENcuentra el camino minimo entre todos los pares. Es como aplicar [[Grafos#Dijkstra|Dijkstra]] a cada uno de los nodos
 ![[Pasted image 20220628193905.png]]

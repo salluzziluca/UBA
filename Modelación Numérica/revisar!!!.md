@@ -4,4 +4,5 @@ dg-publish: true
 ---
 - [ ] [[Integracion Numérica]]
 - [ ] [[Ajuste e interpolacion]]
-- [ ]  Preguntas de teoria
+- [ ]  Preguntas de Teoria
+- [ ] teoria de la primera parte de la materia

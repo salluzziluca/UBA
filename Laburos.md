@@ -19,7 +19,7 @@ luego 15
 
 
 # equo
-part time 
+	part time 
 
 cuando se libere el cepo idealmente se puede cobrar 100% en dolares en la cuenta de uno. HYay ciertas restricciones. 
 

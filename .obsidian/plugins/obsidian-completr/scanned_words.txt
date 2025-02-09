@@ -10589,6 +10589,7 @@ Polinomio
 Pipelining
 Provincia
 PVC
+Preguntas
 Interface
 ID
 Instructions
@@ -12226,6 +12227,7 @@ temporalmente
 trabajado
 telmo
 tarnaquila
+teoria
 inico
 interna
 infro

@@ -7095,6 +7095,7 @@ SubsetSum
 Sort
 Simplemente
 ServiciosPlanes
+Sabemos
 Calls
 Cmabia
 CPU
@@ -10587,6 +10588,8 @@ Paralelizar
 Polinomio
 Pipelining
 Provincia
+PVC
+Preguntas
 Interface
 ID
 Instructions
@@ -12224,6 +12227,7 @@ temporalmente
 trabajado
 telmo
 tarnaquila
+teoria
 inico
 interna
 infro
@@ -12785,6 +12789,8 @@ intermedios
 impuestos
 ilimitadas
 incondicionalmente
+interior
+incognitas
 fijo
 file
 fork
@@ -13803,6 +13809,7 @@ Fenomeno
 Filtra
 False
 Formula
+Finitas
 Descriptors
 Descriptor
 Devuelve
@@ -15653,6 +15660,7 @@ bruto
 browser
 bono
 basta
+beta
 will
 words
 with

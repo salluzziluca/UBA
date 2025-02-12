@@ -1554,6 +1554,8 @@ capacitaciones
 challenge
 cuandono
 condicionamiento
+command
+composite
 de
 dispositivos
 del
@@ -2234,6 +2236,7 @@ devuelven
 descartando
 dios
 destinado
+decorator
 gestion
 gran
 guarda
@@ -3885,6 +3888,8 @@ servo
 semana
 san
 siemore
+strategy
+singleton
 par
 por
 punto
@@ -5822,6 +5827,7 @@ abril
 actividades
 almuerzo
 analisis
+abstract
 hardware
 heap
 hay
@@ -7095,6 +7101,7 @@ SubsetSum
 Sort
 Simplemente
 ServiciosPlanes
+Sabemos
 Calls
 Cmabia
 CPU
@@ -9803,6 +9810,7 @@ varibilidad
 vacaciones
 vacaiones
 viernes
+visitor
 Application
 API
 Asigna
@@ -10587,6 +10595,8 @@ Paralelizar
 Polinomio
 Pipelining
 Provincia
+PVC
+Preguntas
 Interface
 ID
 Instructions
@@ -11758,6 +11768,7 @@ meet
 mayo
 mobile
 monotributo
+method
 tien
 tiene
 todos
@@ -12224,6 +12235,8 @@ temporalmente
 trabajado
 telmo
 tarnaquila
+teoria
+template
 inico
 interna
 infro
@@ -12785,6 +12798,9 @@ intermedios
 impuestos
 ilimitadas
 incondicionalmente
+interior
+incognitas
+interpreter
 fijo
 file
 fork
@@ -13193,6 +13209,7 @@ full
 factory
 fullstack
 facturar
+flashcards
 Nombre
 Notas
 Not
@@ -13803,6 +13820,7 @@ Fenomeno
 Filtra
 False
 Formula
+Finitas
 Descriptors
 Descriptor
 Devuelve
@@ -15653,6 +15671,8 @@ bruto
 browser
 bono
 basta
+beta
+builder
 will
 words
 with

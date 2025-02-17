@@ -1556,6 +1556,9 @@ cuandono
 condicionamiento
 command
 composite
+continuo
+cuadratica
+cifra
 de
 dispositivos
 del
@@ -2237,6 +2240,9 @@ descartando
 dios
 destinado
 decorator
+dicretizacion
+discreto
+divisiones
 gestion
 gran
 guarda
@@ -4658,6 +4664,7 @@ pasteur
 presencial
 pasantia
 perturbacion
+poropagan
 la
 las
 le
@@ -5085,6 +5092,7 @@ lit
 luis
 light
 lunes
+linealizando
 agnosticos
 apps
 al
@@ -5828,6 +5836,7 @@ actividades
 almuerzo
 analisis
 abstract
+agregan
 hardware
 heap
 hay
@@ -7102,6 +7111,7 @@ Sort
 Simplemente
 ServiciosPlanes
 Sabemos
+Sabiendo
 Calls
 Cmabia
 CPU
@@ -8766,6 +8776,7 @@ requerir
 researcb
 reunion
 react
+restar
 operacion
 orden
 operaciones
@@ -9449,6 +9460,7 @@ ntrar
 negro
 net
 neceista
+numericos
 via
 vuelve
 viven
@@ -10932,6 +10944,7 @@ Imaginemos
 Iterar
 Interseccion
 Implicito
+Inherentes
 Un
 UNIX
 UBA
@@ -11769,6 +11782,7 @@ mayo
 mobile
 monotributo
 method
+mediciones
 tien
 tiene
 todos
@@ -12237,6 +12251,7 @@ telmo
 tarnaquila
 teoria
 template
+transformo
 inico
 interna
 infro
@@ -12801,6 +12816,7 @@ incondicionalmente
 interior
 incognitas
 interpreter
+interrumpo
 fijo
 file
 fork
@@ -13210,6 +13226,7 @@ factory
 fullstack
 facturar
 flashcards
+fisicas
 Nombre
 Notas
 Not
@@ -13821,6 +13838,7 @@ Filtra
 False
 Formula
 Finitas
+Fuentes
 Descriptors
 Descriptor
 Devuelve
@@ -14216,6 +14234,8 @@ Division
 Distintos
 Demostracion
 DISTINCT
+Divido
+Discretizacion
 Memoria
 Multivariada
 MORE
@@ -15275,6 +15295,7 @@ Reduciendo
 Reducimos
 Recorremos
 Repaso
+Redondeo
 bien
 by
 be

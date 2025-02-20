@@ -1559,6 +1559,9 @@ composite
 continuo
 cuadratica
 cifra
+conectados
+conectada
+conexo
 de
 dispositivos
 del
@@ -2243,6 +2246,7 @@ decorator
 dicretizacion
 discreto
 divisiones
+dividen
 gestion
 gran
 guarda
@@ -3261,6 +3265,7 @@ equo
 empleados
 encuentros
 explicita
+ero
 servicios
 son
 su
@@ -3896,6 +3901,8 @@ san
 siemore
 strategy
 singleton
+subarboles
+subarbol
 par
 por
 punto
@@ -5837,6 +5844,8 @@ almuerzo
 analisis
 abstract
 agregan
+agoritmo
+arboles
 hardware
 heap
 hay
@@ -6175,6 +6184,7 @@ hashee
 habra
 habria
 hooras
+hojas
 que
 queda
 quien
@@ -7589,6 +7599,9 @@ Clientes
 Cardinalidad
 Condicion
 CodPLan
+Coleccion
+Comparamos
+Comparo
 Es
 El
 Estos
@@ -9461,6 +9474,7 @@ negro
 net
 neceista
 numericos
+normalmente
 via
 vuelve
 viven
@@ -10194,6 +10208,7 @@ Almacenar
 Aristas
 Agregamos
 Adaptamos
+Arboles
 Programming
 Procesos
 Partes
@@ -10609,6 +10624,8 @@ Pipelining
 Provincia
 PVC
 Preguntas
+Preorden
+Postorder
 Interface
 ID
 Instructions
@@ -10945,6 +10962,8 @@ Iterar
 Interseccion
 Implicito
 Inherentes
+Inorder
+Inserccion
 Un
 UNIX
 UBA
@@ -13227,6 +13246,7 @@ fullstack
 facturar
 flashcards
 fisicas
+fiel
 Nombre
 Notas
 Not
@@ -15296,6 +15316,8 @@ Reducimos
 Recorremos
 Repaso
 Redondeo
+Recorrido
+Repetimos
 bien
 by
 be

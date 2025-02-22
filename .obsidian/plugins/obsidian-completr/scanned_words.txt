@@ -1562,6 +1562,12 @@ cifra
 conectados
 conectada
 conexo
+comprarar
+coincida
+consultamos
+composicion
+cla
+clausula
 de
 dispositivos
 del
@@ -2247,6 +2253,11 @@ dicretizacion
 discreto
 divisiones
 dividen
+dominating
+dominant
+dominar
+dominados
+domianting
 gestion
 gran
 guarda
@@ -2565,6 +2576,7 @@ generamos
 grabar
 grace
 gustaria
+grago
 especifico
 entra
 en
@@ -3266,6 +3278,10 @@ empleados
 encuentros
 explicita
 ero
+ehizo
+eleva
+elevar
+elecci
 servicios
 son
 su
@@ -3903,6 +3919,14 @@ strategy
 singleton
 subarboles
 subarbol
+sabemosq
+sdi
+subseteq
+subconjuntos
+sat
+sulas
+satisfechas
+satisfecha
 par
 por
 punto
@@ -4672,6 +4696,15 @@ presencial
 pasantia
 perturbacion
 poropagan
+polinomicos
+polinomicas
+peude
+polinomico
+poilonomial
+peuden
+polinomica
+pIndependent
+ponerla
 la
 las
 le
@@ -5100,6 +5133,10 @@ luis
 light
 lunes
 linealizando
+llamads
+llevarlo
+lla
+leq
 agnosticos
 apps
 al
@@ -5846,6 +5883,7 @@ abstract
 agregan
 agoritmo
 arboles
+arbitraria
 hardware
 heap
 hay
@@ -6751,6 +6789,9 @@ uniendo
 unfairness
 unen
 updatean
+usulas
+usula
+une
 System
 Son
 Source
@@ -7122,6 +7163,7 @@ Simplemente
 ServiciosPlanes
 Sabemos
 Sabiendo
+Satisficibilidad
 Calls
 Cmabia
 CPU
@@ -8006,6 +8048,8 @@ Explota
 Esa
 Ecuaciones
 Estaria
+Ejercicio
+Efectivamente
 kernel
 kt
 kU
@@ -8790,6 +8834,17 @@ researcb
 reunion
 react
 restar
+resuelta
+reducible
+reoslver
+resolvr
+reducciones
+redfes
+reves
+recordemos
+resolveer
+relativa
+ressuelve
 operacion
 orden
 operaciones
@@ -10626,6 +10681,9 @@ PVC
 Preguntas
 Preorden
 Postorder
+Podemore
+POLINOMILAMENTE
+Partimos
 Interface
 ID
 Instructions
@@ -12271,6 +12329,8 @@ tarnaquila
 teoria
 template
 transformo
+teenmos
+triangulo
 inico
 interna
 infro
@@ -12836,6 +12896,7 @@ interior
 incognitas
 interpreter
 interrumpo
+independen
 fijo
 file
 fork
@@ -13247,6 +13308,7 @@ facturar
 flashcards
 fisicas
 fiel
+formado
 Nombre
 Notas
 Not
@@ -13506,6 +13568,8 @@ Nito
 Nuestra
 Nuevamente
 Nueva
+Notar
+Ningun
 File
 For
 Funcion
@@ -13859,6 +13923,7 @@ False
 Formula
 Finitas
 Fuentes
+Formamos
 Descriptors
 Descriptor
 Devuelve
@@ -14256,6 +14321,7 @@ Demostracion
 DISTINCT
 Divido
 Discretizacion
+Dominating
 Memoria
 Multivariada
 MORE
@@ -14628,6 +14694,7 @@ Mediciones
 Merkle
 Merge
 Medio
+Matching
 Table
 Todos
 This
@@ -15318,6 +15385,8 @@ Repaso
 Redondeo
 Recorrido
 Repetimos
+Redujimos
+Resolver
 bien
 by
 be
@@ -15716,6 +15785,8 @@ bono
 basta
 beta
 builder
+booleana
+bar
 will
 words
 with
@@ -16503,6 +16574,8 @@ Optimizacion
 Operadores
 Ordenando
 Opci
+Ordenar
+ORs
 ya
 yo
 yM
@@ -17809,6 +17882,8 @@ Bipartito
 Bueno
 Brasil
 Buscoo
+Bipartite
+Busquedas
 XY
 Xg
 XQG

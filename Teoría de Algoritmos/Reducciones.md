@@ -1,4 +1,12 @@
+
+| Categoría          | Definición                                                                                                                                            | Ejemplo                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| P-Completo         | Problemas más difíciles en P. Se resuelven en tiempo polinomial pero no se cree que sean paralelizables eficientemente.                               | Bipartite Matching                                            |
+| Dificultad abierta | No se sabe si son NP-Completos o si pertenecen a P.                                                                                                   | N-Queens                                                      |
+| NP-Difícil         | Al menos tan difíciles como los problemas en NP, pero pueden estar fuera de NP. No tienen por qué tener soluciones verificables en tiempo polinomial. | Coin Change (versión de optimización con monedas arbitrarias) |
+
 A veces pasa que uno ve un problema y dice: ah, este es igual a este otro 
+
 
 o que veo un problema y como uno sabe resolver uno mas dificil intenta volcar el mas facil al mas dificil
 

@@ -6,3 +6,4 @@ $$T(n) = aT(n/b) + f(n)$$
 - f(n) es el resto de cosas que se hacen en la funcion. 
 Caso 1: Si f(n) = O(n logb a−e ), para alguna constante e > 0, entonces T(n) = Θ(n logb a )
 ![[Pasted image 20220525123633.png]]
+

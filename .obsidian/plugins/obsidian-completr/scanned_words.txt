@@ -1568,6 +1568,8 @@ consultamos
 composicion
 cla
 clausula
+cloacas
+capea
 de
 dispositivos
 del
@@ -2258,6 +2260,7 @@ dominant
 dominar
 dominados
 domianting
+diriigido
 gestion
 gran
 guarda
@@ -3282,6 +3285,7 @@ ehizo
 eleva
 elevar
 elecci
+estabamos
 servicios
 son
 su
@@ -3927,6 +3931,8 @@ sat
 sulas
 satisfechas
 satisfecha
+sobraba
+sobrando
 par
 por
 punto
@@ -4705,6 +4711,8 @@ peuden
 polinomica
 pIndependent
 ponerla
+produce
+path
 la
 las
 le
@@ -5884,6 +5892,10 @@ agregan
 agoritmo
 arboles
 arbitraria
+aceptan
+antiparalelas
+augmentin
+agregaria
 hardware
 heap
 hay
@@ -6470,6 +6482,7 @@ quedando
 query
 quitando
 quieras
+qel
 utilizados
 un
 una
@@ -7644,6 +7657,7 @@ CodPLan
 Coleccion
 Comparamos
 Comparo
+Ccada
 Es
 El
 Estos
@@ -8845,6 +8859,11 @@ recordemos
 resolveer
 relativa
 ressuelve
+refleja
+residual
+restante
+reducirse
+residuales
 operacion
 orden
 operaciones
@@ -11860,6 +11879,8 @@ mobile
 monotributo
 method
 mediciones
+modelar
+materiales
 tien
 tiene
 todos
@@ -12331,6 +12352,9 @@ template
 transformo
 teenmos
 triangulo
+traslada
+transporte
+teniamos
 inico
 interna
 infro
@@ -13309,6 +13333,10 @@ flashcards
 fisicas
 fiel
 formado
+flujos
+ford
+fulkerson
+flow
 Nombre
 Notas
 Not
@@ -14695,6 +14723,7 @@ Merkle
 Merge
 Medio
 Matching
+Maximizo
 Table
 Todos
 This
@@ -15787,6 +15816,7 @@ beta
 builder
 booleana
 bar
+bucles
 will
 words
 with
@@ -16316,6 +16346,7 @@ Vandermonde
 Viva
 Vertex
 Veamosla
+Vemos
 OPTIONS
 Operativos
 Orden

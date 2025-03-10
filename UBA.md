@@ -21,4 +21,4 @@ dg-home: true
 [[Bases de Datos]]
 [[Modelación Numérica]]
 [[Empresas de Base Tecnológica I]]
-[[Gesti]]
+[[Gestión de Desarrollo de Sistemas]]

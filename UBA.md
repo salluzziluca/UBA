@@ -20,5 +20,5 @@ dg-home: true
 [[Teoria de Algoritmos]]
 [[Bases de Datos]]
 [[Modelación Numérica]]
-[[Empresas de Base Tecnológica I]]
-[[Gestión de Desarrollo de Sistemas]]
+[[Empresas de Base Tecnologica I]]
+[[Gestión del Desarrollo de Sistemas Informáticos]]

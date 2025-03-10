@@ -20,3 +20,5 @@ dg-home: true
 [[Teoria de Algoritmos]]
 [[Bases de Datos]]
 [[Modelación Numérica]]
+[[Empresas de Base Tecnológica I]]
+[[Gesti]]

@@ -1,8 +1,10 @@
 {
   "baseFontSize": 17,
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Border",
   "translucency": false,
   "enabledCssSnippets": [],
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "jetbrain mono",
+  "monospaceFontFamily": "jetbrain mono"
 }

@@ -2261,6 +2261,7 @@ dominar
 dominados
 domianting
 diriigido
+dataframes
 gestion
 gran
 guarda
@@ -5896,6 +5897,8 @@ aceptan
 antiparalelas
 augmentin
 agregaria
+apuntes
+agregarle
 hardware
 heap
 hay
@@ -6236,6 +6239,7 @@ habria
 hooras
 hojas
 home
+how
 que
 queda
 quien
@@ -6806,6 +6810,7 @@ updatean
 usulas
 usula
 une
+unstack
 System
 Son
 Source
@@ -8865,6 +8870,7 @@ residual
 restante
 reducirse
 residuales
+repo
 operacion
 orden
 operaciones
@@ -9228,6 +9234,7 @@ ocupado
 ocupar
 obra
 osde
+outer
 nombre
 nuevo
 nica
@@ -9912,6 +9919,7 @@ vacaciones
 vacaiones
 viernes
 visitor
+viceversa
 Application
 API
 Asigna
@@ -10284,6 +10292,7 @@ Aristas
 Agregamos
 Adaptamos
 Arboles
+Apila
 Programming
 Procesos
 Partes
@@ -11042,6 +11051,9 @@ Implicito
 Inherentes
 Inorder
 Inserccion
+Ingenier
+Inform
+Innier
 Un
 UNIX
 UBA
@@ -11326,6 +11338,7 @@ UoU
 UaM
 Utilice
 Unimos
+Universidad
 modo
 mode
 menso
@@ -11882,6 +11895,7 @@ method
 mediciones
 modelar
 materiales
+mergea
 tien
 tiene
 todos

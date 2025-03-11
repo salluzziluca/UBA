@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 16071997
       }
+    },
+    {
+      "query": "path:CBC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,

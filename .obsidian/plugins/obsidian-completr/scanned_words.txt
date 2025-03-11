@@ -1573,6 +1573,8 @@ capea
 cos
 calculan
 cruces
+continuidad
+complementario
 de
 dispositivos
 del
@@ -3298,6 +3300,7 @@ estantes
 esima
 embocar
 enunciado
+excluyentes
 servicios
 son
 su
@@ -3946,6 +3949,7 @@ satisfecha
 sobraba
 sobrando
 salgan
+sucesi
 par
 por
 punto
@@ -4730,6 +4734,9 @@ previsibles
 perjudica
 palitos
 palos
+probabilidades
+perteneciente
+pertenecientes
 la
 las
 le
@@ -9259,6 +9266,7 @@ osde
 outer
 observaci
 observa
+ocurri
 nombre
 nuevo
 nica
@@ -10318,6 +10326,7 @@ Adaptamos
 Arboles
 Apila
 Aleatorios
+Axioma
 Programming
 Procesos
 Partes
@@ -10739,6 +10748,7 @@ Podemore
 POLINOMILAMENTE
 Partimos
 Permutaciones
+Probabilidad
 Interface
 ID
 Instructions
@@ -11922,6 +11932,7 @@ mediciones
 modelar
 materiales
 mergea
+mutualmente
 tien
 tiene
 todos
@@ -13382,6 +13393,7 @@ flow
 finales
 formarse
 fuesen
+familia
 Nombre
 Notas
 Not

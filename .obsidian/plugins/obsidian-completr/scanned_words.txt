@@ -1571,6 +1571,8 @@ clausula
 cloacas
 capea
 cos
+calculan
+cruces
 de
 dispositivos
 del
@@ -2265,6 +2267,7 @@ diriigido
 dataframes
 determinist
 definci
+dej
 gestion
 gran
 guarda
@@ -3291,6 +3294,10 @@ elevar
 elecci
 estabamos
 equiprobabilidad
+estantes
+esima
+embocar
+enunciado
 servicios
 son
 su
@@ -3938,6 +3945,7 @@ satisfechas
 satisfecha
 sobraba
 sobrando
+salgan
 par
 por
 punto
@@ -4720,6 +4728,8 @@ produce
 path
 previsibles
 perjudica
+palitos
+palos
 la
 las
 le
@@ -5152,6 +5162,7 @@ llamads
 llevarlo
 lla
 leq
+libros
 agnosticos
 apps
 al
@@ -5906,6 +5917,7 @@ agregaria
 apuntes
 agregarle
 arroja
+anagrama
 hardware
 heap
 hay
@@ -6818,6 +6830,8 @@ usulas
 usula
 une
 unstack
+urnas
+urna
 System
 Son
 Source
@@ -7671,6 +7685,7 @@ Coleccion
 Comparamos
 Comparo
 Ccada
+Combinaciones
 Es
 El
 Estos
@@ -10723,6 +10738,7 @@ Postorder
 Podemore
 POLINOMILAMENTE
 Partimos
+Permutaciones
 Interface
 ID
 Instructions
@@ -12946,6 +12962,7 @@ incognitas
 interpreter
 interrumpo
 independen
+indistinguibles
 fijo
 file
 fork
@@ -13363,6 +13380,8 @@ ford
 fulkerson
 flow
 finales
+formarse
+fuesen
 Nombre
 Notas
 Not
@@ -15845,6 +15864,8 @@ builder
 booleana
 bar
 bucles
+bolas
+bolitas
 will
 words
 with
@@ -16375,6 +16396,7 @@ Viva
 Vertex
 Veamosla
 Vemos
+Variaciones
 OPTIONS
 Operativos
 Orden
@@ -19194,6 +19216,8 @@ xOIu
 xApx
 xsK
 xSO
+xxx
+xxxxxxxx
 Workload
 Walrus
 Whitley

@@ -1570,6 +1570,7 @@ cla
 clausula
 cloacas
 capea
+cos
 de
 dispositivos
 del
@@ -2262,6 +2263,8 @@ dominados
 domianting
 diriigido
 dataframes
+determinist
+definci
 gestion
 gran
 guarda
@@ -3287,6 +3290,7 @@ eleva
 elevar
 elecci
 estabamos
+equiprobabilidad
 servicios
 son
 su
@@ -4714,6 +4718,8 @@ pIndependent
 ponerla
 produce
 path
+previsibles
+perjudica
 la
 las
 le
@@ -5899,6 +5905,7 @@ augmentin
 agregaria
 apuntes
 agregarle
+arroja
 hardware
 heap
 hay
@@ -9235,6 +9242,8 @@ ocupar
 obra
 osde
 outer
+observaci
+observa
 nombre
 nuevo
 nica
@@ -10293,6 +10302,7 @@ Agregamos
 Adaptamos
 Arboles
 Apila
+Aleatorios
 Programming
 Procesos
 Partes
@@ -13352,6 +13362,7 @@ flujos
 ford
 fulkerson
 flow
+finales
 Nombre
 Notas
 Not
@@ -14365,6 +14376,8 @@ DISTINCT
 Divido
 Discretizacion
 Dominating
+Determin
+Definiciones
 Memoria
 Multivariada
 MORE

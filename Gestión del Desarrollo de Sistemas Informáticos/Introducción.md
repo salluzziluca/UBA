@@ -38,7 +38,7 @@ asistencia + Parcialitos multiple choice + TP + charla
 - Planificar (siempre se planifica y se replanificar)
 - Medir el progreso para poder comprar y contrastar
 
-
+vemos y gestionamos sitemas de hardware+sofwtare controlados por software
 
 
 ## Scrum 

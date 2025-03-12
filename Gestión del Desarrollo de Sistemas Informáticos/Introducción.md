@@ -35,7 +35,7 @@ asistencia + Parcialitos multiple choice + TP + charla
 
 
 # Que es la gestión del desarrollo?
--  Planificar (siempre se planifica y se replanifica)
+- Planificar (siempre se planifica y se replanificar)
 - Medir el progreso para poder comprar y contrastar
 
 

@@ -25,7 +25,9 @@ Una cosa son los contenidos de las materias y otra las habilidades que nos quier
 
 Lo mas importante es aprneder a aprender porque todo va a ser siempre cambiante. 
 
-<mark style="background: #FF5582A6;">Importancia de los materiales previos</mark>
+<mark style="background: #FF5582A6;">Importancia de los materiales previos, aula invertida</mark>
+
+Los materiales pueden ser contradictorios
 
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

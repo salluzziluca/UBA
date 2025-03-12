@@ -12,9 +12,10 @@ hay muchas respuestas correctas, por eso es importante que el profesor no sea al
 
 >[!note] El foco tiene que estar en el aprendizaje, no en la eseñanza ni en la aprobación
 
-| Contenidos | habi | --- |
-| ---------- | ---- | --- |
-|            |      |     |
+| Contenidos             | habilidades                                      | <br> |
+| ---------------------- | ------------------------------------------------ | ---- |
+| Problemas de Desarollo | Compresion de textos cientificos y profesionales |      |
+|                        |                                                  |      |
 
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

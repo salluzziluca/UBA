@@ -14,6 +14,8 @@ Se buscan definir las top priority, listas para el Potentially Releasable Increm
 
 Al toque arranca un sprint. El sprint arranca con un sprint planning, el cual define un sprint backlog bien definido. Se asignan las tareas a los teams, se les asignan puntajes segun dificultad y largo teniendo encuenta seniority del team. 
 
+Tanto en el backlog como en el sprint planning hay que armar un [[def]]
+
 Todos los dias del sprint se hace una daily. Se habla de que se hizo el dia anterior, el actual y si tenemos un bloqueo. 
 
 al final del sprint se hace una sprint review y una retro 

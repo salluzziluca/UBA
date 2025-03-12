@@ -42,6 +42,8 @@ vemos y gestionamos sitemas de hardware+sofwtare controlados por software
 
 La diferencia con otras ingenerias (industrial, mecanica) es que nuestro producto es ==maleable==, es modificable mientras lo creo y luego de haberlo creado.
 
+tenemos un diseño por 
+
 
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

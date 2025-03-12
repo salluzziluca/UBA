@@ -51,6 +51,9 @@ tenemos un diseño por producto pero podemos modificar. En lo primero nos parece
 
 EN nuestro caso, la evidencia se crea junto al producto. Se va charlando con los clientes, aprendiendo sobre el equipo, herramientas
 
+>[!important] Siempre aprendemos durante el desarrollo.
+
+
 
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

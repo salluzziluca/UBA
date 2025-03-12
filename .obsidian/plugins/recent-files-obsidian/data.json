@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Scrum",
+      "path": "Cursos/Agile and Scrum/Scrum.md"
+    },
+    {
       "basename": "Metodologias, la mirada Agil",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Software Legacy",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "Cursos/Agile and Scrum/Scrum.md"
     },
     {
       "basename": "1.3 Conteo",

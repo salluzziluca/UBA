@@ -10,7 +10,7 @@ Utiliza roles, iteraciones fijas llamadas [[Sprint]] y busca construir un produc
 
 El product owner tiene que ir armando user stories (caracteristicas que el producto va a tener, no tareas, Product Backlog Items). Esto puede ser mas o menos dificil segun el producto. Va anotando las stories que les cuenta el usuario y las intenta formalizar, para luego cargarlas en el product backlog. 
 El backlog es un bardo, estan desordenadas, pueden faltar cosas, no ser claras.
-Se buscan definir las top priority, listas para el Potentially Releasable Increment (no necesariament eun [[Minium Viable Product|mvp]], simplemente una mejoria con respecto a lo anterior.
+Se buscan definir las top priority, listas para el Potentially Releasable Increment (no necesariamente un [[Minium Viable Product|mvp]], simplemente una mejoria con respecto a lo anterior.
 
 Al toque arranca un sprint. El sprint arranca con un sprint planning, el cual define un sprint backlog bien definido. Se asignan las tareas a los teams, se les asignan puntajes segun dificultad y largo teniendo encuenta seniority del team. 
 

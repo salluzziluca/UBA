@@ -20,6 +20,7 @@ al final del sprint se hace una sprint review y una retro
 
 *La mision del lider no es solamente que el producto mejore, sino que el equipo tambien mejore*
 
+*el product owner es el dueño del backlog*
 
 ![[Pasted image 20240829195610.png]]
 

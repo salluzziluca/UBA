@@ -31,7 +31,11 @@ Los materiales pueden ser contradictorios
 
 
 ## Aprobacion 
-Parcialitos multiple choice + TP
+asistencia + Parcialitos multiple choice + TP + charla 
+
+
+# Que es la gestión del desarrollo?
+
 
 
 ## Scrum 

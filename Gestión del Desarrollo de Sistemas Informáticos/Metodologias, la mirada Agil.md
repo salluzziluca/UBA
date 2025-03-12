@@ -6,3 +6,6 @@ La mirada agil es predominante en el desarollo del software hoy, pero hay casos 
 ![[Scrum]]
 
 ![[Extreme Programming (XP)]]
+
+
+![[Kanban]]

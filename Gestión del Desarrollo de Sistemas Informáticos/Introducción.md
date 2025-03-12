@@ -45,8 +45,11 @@ La diferencia con otras ingenerias (industrial, mecanica) es que nuestro product
 tenemos un diseño por producto pero podemos modificar. En lo primero nos parecemos a la construccion de un puente, en la segunda a la construccion de una linea de produccion (ej: autos)
 
 >[!quote] La ingeniería es la apliación del enfoque empírico de las ciencias para hallar soluciones eficientes y económicas a problemas practicos
+>David Farley
 
-EN nuestro caso, la evidencia se crea junto al producto. Se va charlando con los clientes, aprendiendo so
+
+
+EN nuestro caso, la evidencia se crea junto al producto. Se va charlando con los clientes, aprendiendo sobre el equipo, herramientas
 
 
 ## Scrum 

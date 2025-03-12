@@ -8,7 +8,7 @@ Utiliza roles, iteraciones fijas llamadas [[Sprint]] y busca construir un produc
 ## El Framework de scrum
 ![[Pasted image 20250312184116.png]]
 
-El product owner tiene que ir armando user stories. Esto puede ser mas o menos dificil segun el producto. Va anotando las stories que les cuenta el usuario y las intenta formalizar, para luego cargarlas en el product backlog. 
+El product owner tiene que ir armando user stories (caracteristicas que el producto va a tener, no tareas). Esto puede ser mas o menos dificil segun el producto. Va anotando las stories que les cuenta el usuario y las intenta formalizar, para luego cargarlas en el product backlog. 
 El backlog es un bardo, estan desordenadas, pueden faltar cosas, no ser claras.
 Se buscan definir las top priority, listas para el minimmum viable product.
 

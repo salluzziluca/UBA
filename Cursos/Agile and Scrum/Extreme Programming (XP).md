@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 ![[Pasted image 20221117122802.png]]
+![[Pasted image 20250312191509.png]]
 Completamente iterativo, busca poder responder a los requerimientos del cliente
 
 - Simplicity

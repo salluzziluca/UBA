@@ -4,5 +4,5 @@ dg-publish: true
 aliases:
   - dod
   - DoD
-  - i
 ---
+>A set of high-level criteria that _defines when a product increment is complete_. It ensures the quality and consistency of a deliverable

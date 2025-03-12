@@ -30,3 +30,7 @@ La review es la demostracion. se lleva a cabo el ultia dia del srpitn, donde el 
 La retro es donde se rflexiona sobre los logros, mirando para atras y corrigiendo las practicas utilizadas. Que salio bien, que no salio bien. Que podemos mejorar. Se pueden hacer tickets de cosas a corregir y agarramos los mas votados
 
 ![[Pasted image 20240829202518.png]]
+
+
+## Scrum master 
+El encargado de validar que todo esté en orden. Es el policia del proceso

@@ -42,7 +42,7 @@ vemos y gestionamos sitemas de hardware+sofwtare controlados por software
 
 La diferencia con otras ingenerias (industrial, mecanica) es que nuestro producto es ==maleable==, es modificable mientras lo creo y luego de haberlo creado.
 
-tenemos un diseño por 
+tenemos un diseño por producto pero podemos modificar. En lo primero nos parecemos a la construccion de un puente, en la segunda a la construccion de una linea de produccion (ej: autos)
 
 
 ## Scrum 

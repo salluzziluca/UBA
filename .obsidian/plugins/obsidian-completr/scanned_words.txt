@@ -1587,6 +1587,7 @@ contrastar
 controlados
 construccion
 charlando
+charlados
 de
 dispositivos
 del
@@ -9641,6 +9642,7 @@ net
 neceista
 numericos
 normalmente
+negociados
 via
 vuelve
 viven
@@ -10808,6 +10810,7 @@ Probabilidad
 Parcialitos
 Planificar
 Potentially
+PBI
 Interface
 ID
 Instructions
@@ -12475,6 +12478,7 @@ traslada
 transporte
 teniamos
 textos
+tasks
 inico
 interna
 infro
@@ -17716,6 +17720,7 @@ Greedy
 Guardamos
 Gracias
 Grace
+Gestionados
 BX
 Bit
 Box

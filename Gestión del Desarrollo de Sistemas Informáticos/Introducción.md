@@ -24,5 +24,8 @@ hay muchas respuestas correctas, por eso es importante que el profesor no sea al
 Una cosa son los contenidos de las materias y otra las habilidades que nos quieren enseñar
 
 Lo mas importante es aprneder a aprender porque todo va a ser siempre cambiante. 
+
+<mark style="background: #FF5582A6;">Importancia de los materiales previos</mark>
+
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

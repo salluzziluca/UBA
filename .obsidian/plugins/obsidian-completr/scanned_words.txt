@@ -1576,6 +1576,13 @@ cruces
 continuidad
 complementario
 cifras
+correctas
+conocimiento
+cientificos
+cuestionarse
+ciberfisicos
+cambiante
+contradictorios
 de
 dispositivos
 del
@@ -2271,6 +2278,8 @@ dataframes
 determinist
 definci
 dej
+descubriendo
+defender
 gestion
 gran
 guarda
@@ -3304,6 +3313,7 @@ esima
 embocar
 enunciado
 excluyentes
+exponer
 servicios
 son
 su
@@ -3953,6 +3963,7 @@ sobraba
 sobrando
 salgan
 sucesi
+surja
 par
 por
 punto
@@ -4741,6 +4752,8 @@ probabilidades
 perteneciente
 pertenecientes
 pienso
+profesionales
+pautas
 la
 las
 le
@@ -5174,6 +5187,7 @@ llevarlo
 lla
 leq
 libros
+legacy
 agnosticos
 apps
 al
@@ -5929,6 +5943,11 @@ apuntes
 agregarle
 arroja
 anagrama
+aprobaci
+aprneder
+aserie
+ahcer
+alograr
 hardware
 heap
 hay
@@ -6270,6 +6289,7 @@ hooras
 hojas
 home
 how
+habilidades
 que
 queda
 quien
@@ -7215,6 +7235,7 @@ ServiciosPlanes
 Sabemos
 Sabiendo
 Satisficibilidad
+Situaciones
 Calls
 Cmabia
 CPU
@@ -7697,6 +7718,9 @@ Comparamos
 Comparo
 Ccada
 Combinaciones
+Contenidos
+Compresion
+Cuestionar
 Es
 El
 Estos
@@ -9271,6 +9295,7 @@ outer
 observaci
 observa
 ocurri
+ocmo
 nombre
 nuevo
 nica
@@ -9956,6 +9981,7 @@ vacaiones
 viernes
 visitor
 viceversa
+vayamos
 Application
 API
 Asigna
@@ -10331,6 +10357,8 @@ Arboles
 Apila
 Aleatorios
 Axioma
+Asumir
+Aprender
 Programming
 Procesos
 Partes
@@ -11094,6 +11122,7 @@ Inserccion
 Ingenier
 Inform
 Innier
+Importancia
 Un
 UNIX
 UBA
@@ -12411,6 +12440,7 @@ triangulo
 traslada
 transporte
 teniamos
+textos
 inico
 interna
 infro
@@ -12978,6 +13008,8 @@ interpreter
 interrumpo
 independen
 indistinguibles
+inquieteuddes
+invertida
 fijo
 file
 fork
@@ -13398,6 +13430,7 @@ finales
 formarse
 fuesen
 familia
+facilitador
 Nombre
 Notas
 Not
@@ -14413,6 +14446,8 @@ Discretizacion
 Dominating
 Determin
 Definiciones
+Desarollo
+Despertar
 Memoria
 Multivariada
 MORE
@@ -15479,6 +15514,7 @@ Recorrido
 Repetimos
 Redujimos
 Resolver
+Recuperacion
 bien
 by
 be
@@ -15883,6 +15919,7 @@ bucles
 bolas
 bolitas
 bolillas
+blandas
 will
 words
 with

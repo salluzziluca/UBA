@@ -1583,6 +1583,10 @@ cuestionarse
 ciberfisicos
 cambiante
 contradictorios
+contrastar
+controlados
+construccion
+charlando
 de
 dispositivos
 del
@@ -2601,6 +2605,7 @@ gustaria
 grago
 gitos
 giles
+gestionamos
 especifico
 entra
 en
@@ -3314,6 +3319,8 @@ embocar
 enunciado
 excluyentes
 exponer
+enfoque
+evidencia
 servicios
 son
 su
@@ -3964,6 +3971,7 @@ sobrando
 salgan
 sucesi
 surja
+sitemas
 par
 por
 punto
@@ -4754,6 +4762,12 @@ pertenecientes
 pienso
 profesionales
 pautas
+planifica
+progreso
+parecemos
+puente
+produccion
+practicos
 la
 las
 le
@@ -5948,6 +5962,11 @@ aprneder
 aserie
 ahcer
 alograr
+asistencia
+autos
+apliaci
+aprendiendo
+aprendemos
 hardware
 heap
 hay
@@ -8928,6 +8947,7 @@ restante
 reducirse
 residuales
 repo
+replanificar
 operacion
 orden
 operaciones
@@ -10359,6 +10379,7 @@ Aleatorios
 Axioma
 Asumir
 Aprender
+Aprobacion
 Programming
 Procesos
 Partes
@@ -10781,6 +10802,8 @@ POLINOMILAMENTE
 Partimos
 Permutaciones
 Probabilidad
+Parcialitos
+Planificar
 Interface
 ID
 Instructions
@@ -11966,6 +11989,9 @@ modelar
 materiales
 mergea
 mutualmente
+multiple
+mecanica
+maleable
 tien
 tiene
 todos
@@ -13010,6 +13036,8 @@ independen
 indistinguibles
 inquieteuddes
 invertida
+ingenerias
+ingenier
 fijo
 file
 fork
@@ -14046,6 +14074,7 @@ Formula
 Finitas
 Fuentes
 Formamos
+Farley
 Descriptors
 Descriptor
 Devuelve
@@ -14448,6 +14477,7 @@ Determin
 Definiciones
 Desarollo
 Despertar
+David
 Memoria
 Multivariada
 MORE
@@ -14822,6 +14852,7 @@ Merge
 Medio
 Matching
 Maximizo
+Medir
 Table
 Todos
 This

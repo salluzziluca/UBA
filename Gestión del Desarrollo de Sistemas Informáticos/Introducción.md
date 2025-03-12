@@ -30,6 +30,8 @@ Lo mas importante es aprender a aprender porque todo va a ser siempre cambiante.
 Los materiales pueden ser contradictorios
 
 
+## Aprobacion 
+Parcialitos multiple choice + TP
 
 
 ## Scrum 

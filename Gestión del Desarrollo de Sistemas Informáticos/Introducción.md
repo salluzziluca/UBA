@@ -40,7 +40,7 @@ asistencia + Parcialitos multiple choice + TP + charla
 
 vemos y gestionamos sitemas de hardware+sofwtare controlados por software
 
-La diferencia con otras ingenerias (industrial, mecanica) es que nuestro producto es ==maleable==, es modificable m
+La diferencia con otras ingenerias (industrial, mecanica) es que nuestro producto es ==maleable==, es modificable mientras lo creo y luego de haberlo creado.
 
 
 ## Scrum 

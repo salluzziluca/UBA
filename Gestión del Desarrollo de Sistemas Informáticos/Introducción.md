@@ -44,6 +44,8 @@ La diferencia con otras ingenerias (industrial, mecanica) es que nuestro product
 
 tenemos un diseño por producto pero podemos modificar. En lo primero nos parecemos a la construccion de un puente, en la segunda a la construccion de una linea de produccion (ej: autos)
 
+>[!quote] La ingeniería es la apliaci+on 
+
 
 ## Scrum 
 una metodologia de trabajo que nos da un aserie de pautas para organizar el trabajo. Cualquier metodo me dice ocmo tengo que organizar las cosa que yo tengo que ahcer par alograr un desarrollo

@@ -35,7 +35,8 @@ asistencia + Parcialitos multiple choice + TP + charla
 
 
 # Que es la gestión del desarrollo?
-
+-  Planificar (siempre se planifica y se replanifica)
+- 
 
 
 ## Scrum 

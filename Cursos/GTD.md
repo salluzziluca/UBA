@@ -9,4 +9,5 @@ Es mejor bottom-up porque es mas facil ver lo que tenes que hacer YA que intetna
 
 
 ## Pasos 
-1. 
+1. capturo lo que tiene mi atencion 
+2. clarificar lo que cada item significa y 

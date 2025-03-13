@@ -6,3 +6,7 @@ dg-publish: true
  - What "done" means (outcome)
  - what doing looks like (action)
 Es mejor bottom-up porque es mas facil ver lo que tenes que hacer YA que intetnar imaginar el horizonte, puede ser abru,ador
+
+
+## Pasos 
+1. 

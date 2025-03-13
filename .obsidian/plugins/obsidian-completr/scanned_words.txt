@@ -2285,6 +2285,7 @@ definci
 dej
 descubriendo
 defender
+digitos
 gestion
 gran
 guarda
@@ -9643,6 +9644,7 @@ neceista
 numericos
 normalmente
 negociados
+nxnxn
 via
 vuelve
 viven
@@ -14490,6 +14492,7 @@ Definiciones
 Desarollo
 Despertar
 David
+Diferencia
 Memoria
 Multivariada
 MORE

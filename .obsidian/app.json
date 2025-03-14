@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "zImagenes",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}

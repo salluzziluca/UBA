@@ -54,6 +54,7 @@ y_4 = -0.090677
 $$
 
 ![[Pasted image 20250314204003.png]]
+Tal y como se puede apreciar. llego al mismo resultado y, si mal no recuerdo de los valores numericos que subio Portocarrero al campus, el resultado es correcto
 ## RK2 
 ![[Pasted image 20250314203721.png]]
 ![[Pasted image 20250314204023.png]]

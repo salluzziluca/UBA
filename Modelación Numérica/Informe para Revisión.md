@@ -70,9 +70,11 @@ $$
 ![[Pasted image 20250314204114.png]]
 ## 2b
 ![[Pasted image 20250314203914.png]]
-
+![[Pasted image 20250314204129.png]]
+![[Pasted image 20250314204144.png]]
 ## 2c
 ![[Pasted image 20250314203905.png]]
+![[Pasted image 20250314204202.png]]
 ## Pregunta 1 
 El método de bisección y el método de Newton son dos técnicas iterativas utilizadas para encontrar raíces de ecuaciones, pero presentan diferencias significativas en su comportamiento. El método de bisección es un procedimiento robusto que garantiza la convergencia si la función cambia de signo en un intervalo dado. Su convergencia es lineal, lo que implica que el número de cifras correctas aumenta lentamente con cada iteración. En contraste, el método de Newton tiene una convergencia cuadrática, lo que significa que se acerca a la raíz mucho más rápido siempre que se parta de una buena aproximación inicial. Sin embargo, el método de Newton depende de la derivada de la función y puede fallar si la derivada es cero o si la estimación inicial está demasiado lejos de la raíz. En general, el método de bisección se elige cuando no se dispone de una buena aproximación inicial o cuando la función no es diferenciable, mientras que el método de Newton es preferible cuando la función es suave y se tiene una estimación razonable de la raíz.
 

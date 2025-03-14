@@ -56,18 +56,18 @@ $$
 ![[Pasted image 20250314204003.png]]
 ## RK2 
 ![[Pasted image 20250314203721.png]]
-
+![[Pasted image 20250314204023.png]]
 
 ## Punto medio 
 ![[Pasted image 20250314203751.png]]
-
+![[Pasted image 20250314204048.png]]
 ## Comparacion 
 ![[Pasted image 20250314203818.png]]
-
+![[Pasted image 20250314204056.png]]
 
 # 2A
 ![[Pasted image 20250314203841.png]]
-
+![[Pasted image 20250314204114.png]]
 ## 2b
 ![[Pasted image 20250314203914.png]]
 

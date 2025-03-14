@@ -92,4 +92,8 @@ El método de interpolación de Lagrange y el método de interpolación de Newto
 
 ![[Pasted image 20250314203941.png]]
 
-Explicacion menos detallada pero 
+Explicacion menos detallada pero igualmente concordante.
+
+
+# resultados
+En este informe se

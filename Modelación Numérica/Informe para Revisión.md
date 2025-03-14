@@ -57,3 +57,13 @@ $$
 Los métodos de **bisección** y **Newton** se utilizan para encontrar raíces de ecuaciones, pero tienen diferencias fundamentales en su comportamiento iterativo.
 - **Bisección:** Converge linealmente, lo que significa que la cantidad de cifras correctas aumenta lentamente con cada iteración.
 - **Newton:** Converge cuadráticamente cuando la raíz es simple, lo que implica que el error se reduce rápidamente en cada iteración.
+Esto es debido a que el método de Newton usa derivadas para aproximar la raíz mediante tangentes, mientras que el método de bisección solo divide el intervalo en mitades sin usar información de la pendiente.
+
+## Pregunto 2 
+Ambos métodos sirven para la interpolación de funciones, pero tienen diferencias clave:
+Lagrange: Se construye directamente el polinomio de interpolación sin necesidad de cálculos previos de diferencias divididas.
+Newton: Se basa en diferencias divididas y permite agregar nuevos puntos sin recalcular todo el polinomio.
+El método de Newton permite reutilizar cálculos previos, mientras que Lagrange requiere recalcular todo desde cero si se agrega un punto.
+Lagrange: Más intuitivo, pero computacionalmente más costoso y propenso a errores numéricos cuando hay muchos puntos.
+Newton: Más eficiente y mejor condicionado para grandes conjuntos de datos.
+El método de Newton minimiza los errores de redondeo y evita recalcular todo el polinomio al añadir datos.

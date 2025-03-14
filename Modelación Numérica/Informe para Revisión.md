@@ -94,3 +94,5 @@ El método de interpolación de Lagrange y el método de interpolación de Newto
 Explicacion menos detallada pero igualmente concordante.
 
 
+# Conclusion 
+aca puse al dos cosas. la resolucion  correcta y concuerdan en los resultados. Es por eso que no entiendo la nota. 

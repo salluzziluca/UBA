@@ -14,7 +14,7 @@ $$
 y_{n+1} = y_n + h \left( \cos(y_n) + \frac{1}{2} t_n \right)
 $$
 
-Para $ t_0 = 0 $, se tiene:
+Para $t_0 = 0$, se tiene:
 
 $$
 y_1 = y_0 + 0.25 \left( \cos(-1) + \frac{1}{2} (0) \right)
@@ -25,10 +25,10 @@ y_1 = -1 + 0.25 (\cos(-1))
 $$
 
 $$
-y_1 = -0.804974
+y_1 = -0.864992
 $$
 
-Para $ t_1 = 0.25 $:
+Para $t_1 = 0.25$:
 
 $$
 y_2 = y_1 + 0.25 \left( \cos(y_1) + \frac{1}{2} (0.25) \right)

@@ -95,5 +95,3 @@ El método de interpolación de Lagrange y el método de interpolación de Newto
 Explicacion menos detallada pero igualmente concordante.
 
 
-# resultados
-En este informe se

@@ -7,6 +7,7 @@ dg-publish: true
 
 Resolucion correcta:
 
+## Euler
 dado $\frac{dy}{dt} = \cos(y) + \frac{1}{2} t, \quad y(0) = -1$ con $t_{0}=1$ y $t_f=1$ si se aplica 4 veces entonces h = 0.25
 
 $$y_{n+1} = y_n + h \left( \cos(y_n) + \frac{1}{2} t_n \right)$$
@@ -51,6 +52,8 @@ Para $t_3 = 0.75$:
 $$
 y_4 = -0.090677
 $$
+
+![[Pasted image 20250314204003.png]]
 ## RK2 
 ![[Pasted image 20250314203721.png]]
 
@@ -76,3 +79,6 @@ El método de bisección y el método de Newton son dos técnicas iterativas uti
 
 ## Pregunta 2
 El método de interpolación de Lagrange y el método de interpolación de Newton también presentan diferencias fundamentales. El método de Lagrange se basa en la construcción directa de un polinomio interpolador utilizando una combinación lineal de funciones base llamadas polinomios de Lagrange. Este método es fácil de entender y aplicar, pero si se añaden nuevos puntos, es necesario recalcular todo el polinomio desde el principio. En cambio, el método de Newton utiliza diferencias divididas para construir el polinomio de interpolación de manera más eficiente, permitiendo agregar nuevos puntos sin necesidad de recomputar todo el polinomio. Además, el método de Newton tiende a ser más estable numéricamente cuando se trabaja con un gran número de puntos, reduciendo errores de redondeo. En general, el método de Lagrange es útil cuando se trabaja con un número pequeño de puntos y no se necesita modificar la interpolación, mientras que el método de Newton es más eficiente cuando los datos se van incorporando progresivamente o cuando se necesita un mejor control numérico.
+
+
+![[Pasted image 20250314203941.png]]

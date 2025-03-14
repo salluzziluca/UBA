@@ -58,7 +58,7 @@ Tal y como se puede apreciar. llego al mismo resultado y, si mal no recuerdo de 
 ## RK2 
 ![[Pasted image 20250314203721.png]]
 ![[Pasted image 20250314204023.png]]
-
+Idem que el punto anterior. Ambos resultados son similares y, hasta donde llega mi memoria, 
 ## Punto medio 
 ![[Pasted image 20250314203751.png]]
 ![[Pasted image 20250314204048.png]]

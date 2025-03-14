@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-[[Introducción]]
+[[Sistemas Operativos/Introducción]]
 [[Linux]]
 [[Mary & Pipping]]
 [[Scheduling]]

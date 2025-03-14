@@ -58,10 +58,11 @@ Tal y como se puede apreciar. llego al mismo resultado y, si mal no recuerdo de 
 ## RK2 
 ![[Pasted image 20250314203721.png]]
 ![[Pasted image 20250314204023.png]]
-Idem que el punto anterior. Ambos resultados son similares y, hasta donde llega mi memoria, 
+Idem que el punto anterior. Ambos resultados son similares y, hasta donde llega mi memoria, concuerdan con lo publicado en el campus por el docente.
 ## Punto medio 
 ![[Pasted image 20250314203751.png]]
 ![[Pasted image 20250314204048.png]]
+En este caso, yo ya sabia que no habia llegado a la solucion correcta. Incluso lo aclaro en el punto
 ## Comparacion 
 ![[Pasted image 20250314203818.png]]
 ![[Pasted image 20250314204056.png]]

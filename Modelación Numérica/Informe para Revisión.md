@@ -51,3 +51,9 @@ Para $t_3 = 0.75$:
 $$
 y_4 = -0.090677
 $$
+
+
+## Pregunta 1 
+Los métodos de **bisección** y **Newton** se utilizan para encontrar raíces de ecuaciones, pero tienen diferencias fundamentales en su comportamiento iterativo.
+- **Bisección:** Converge linealmente, lo que significa que la cantidad de cifras correctas aumenta lentamente con cada iteración.
+- **Newton:** Converge cuadráticamente cuando la raíz es simple, lo que implica que el error se reduce rápidamente en cada iteración.

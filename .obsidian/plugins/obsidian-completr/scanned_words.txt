@@ -15478,6 +15478,7 @@ Recorrido
 Repetimos
 Redujimos
 Resolver
+Resolucion
 bien
 by
 be

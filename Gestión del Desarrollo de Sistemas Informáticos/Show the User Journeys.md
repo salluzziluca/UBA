@@ -23,6 +23,6 @@ dg-publish: true
 - fills the information about the court he booked.
 - sends invitation to friends.
 
-The photo shows a lot of users’ journeys in the same table, with lots of people staring at them. The [[Persona|personas]] and goals (pink post-its) are at the left of the flipchart, and their journeys go from the left to the right (each step in a yellow post-it).
+
 
 ![[Pasted image 20250315114506.png]]

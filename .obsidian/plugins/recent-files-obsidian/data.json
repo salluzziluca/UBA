@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Redes de Flujo",
+      "path": "Teoría de Algoritmos/Redes de Flujo.md"
+    },
+    {
       "basename": "Product Discovery",
       "path": "Ingeneniería del Software I/Product Discovery.md"
+    },
+    {
+      "basename": "Earliest testable-usable-lovable product",
+      "path": "Earliest testable-usable-lovable product.md"
     },
     {
       "basename": "User Story Backlog as a Map",
@@ -191,14 +199,6 @@
     {
       "basename": "Modelos de consistencia",
       "path": "Base de Datos/Modelos de consistencia.md"
-    },
-    {
-      "basename": "Álgebra I",
-      "path": "CBC/Álgebra I.md"
-    },
-    {
-      "basename": "Bases de Datos Wide Collum",
-      "path": "Base de Datos/Bases de Datos Wide Collum.md"
     }
   ],
   "omittedPaths": [],

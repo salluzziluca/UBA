@@ -1,1 +1,0 @@
-Earliest testable-usable-lovable product

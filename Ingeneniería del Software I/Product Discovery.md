@@ -1,9 +1,7 @@
 ---
 dg-publish: true
 ---
-Se reemplaza el [[Minium Viable Product]] por el Earliest testable-usable-lovable product![[Pasted image 20240902192418.png]]
-Primero que sea testeable, después utilizable y por ultimo que esté bien hecho.
-Lovable seria que a la gente le guste, lo recomiende
+Se reemplaza el [[Minium Viable Product]] por el
 
 
 ## Discovery 
@@ -30,7 +28,7 @@ El Equipo de Producto se comunica constantemente con usuarios y clientes, ==se c
 - Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
 - Experimentos: tolerancia al error y a cambiar de parecer 
 - Construir un ambiente seguro e inclusivo de respeto a todas las opiniones del equipo
-## [[Persona|Personas]] (UX Personas)
+## Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
 ![[Pasted image 20240902194936.png]]
@@ -43,6 +41,6 @@ EJ: spotify
 ![[Pasted image 20240902200029.png]]
 
 
-## A[[Feature||]]B testing 
+## A|B testing 
 Quiero saber si la gente va a publicar mas historias de ig si pongo el boton aca o aca. 
 Pruebo en dos grupos reales de la app cada una con una version y veo cual funciona mejor

@@ -1615,6 +1615,7 @@ constraint
 convertirla
 comienzan
 connects
+clients
 de
 dispositivos
 del
@@ -3399,6 +3400,12 @@ effor
 encuestas
 escribiendo
 explore
+electo
+engaging
+efforts
+expectations
+employees
+external
 servicios
 son
 su
@@ -4083,6 +4090,10 @@ seeking
 success
 schedule
 startups
+systematically
+stakeholder
+simply
+someone
 par
 por
 punto
@@ -4907,6 +4918,8 @@ prototipos
 probado
 pidos
 pauta
+positive
+perceive
 la
 las
 le
@@ -5354,6 +5367,7 @@ look
 let
 looking
 lives
+lifecycle
 agnosticos
 apps
 al
@@ -6146,6 +6160,9 @@ accepts
 actions
 add
 afectar
+apenas
+align
+affected
 hardware
 heap
 hay
@@ -6498,6 +6515,7 @@ here
 having
 hypothesis
 help
+higher
 que
 queda
 quien
@@ -7462,6 +7480,7 @@ Select
 Soccer
 Segmented
 Schedule
+Stakeholders
 Calls
 Cmabia
 CPU
@@ -8571,6 +8590,7 @@ kind
 kinds
 know
 kick
+keep
 realicen
 resolve
 recommend
@@ -9183,6 +9203,10 @@ really
 revisamos
 respueestas
 reaching
+recomienda
+risks
+relationships
+regulatory
 operacion
 orden
 operaciones
@@ -9561,6 +9585,8 @@ output
 overall
 ontener
 off
+organization
+outcome
 nombre
 nuevo
 nica
@@ -11074,6 +11100,7 @@ Paul
 Put
 Ptoposal
 Proposal
+PMBOK
 Interface
 ID
 Instructions
@@ -12290,6 +12317,10 @@ manuales
 mpv
 moving
 mejoradas
+manager
+management
+members
+managers
 tien
 tiene
 todos
@@ -12782,6 +12813,7 @@ talks
 technical
 taking
 therefore
+throughout
 inico
 interna
 infro
@@ -13372,6 +13404,9 @@ iteration
 improved
 invites
 iterar
+identifying
+interested
+internal
 fijo
 file
 fork
@@ -16341,6 +16376,7 @@ behind
 both
 buddy
 baratos
+bodies
 will
 words
 with
@@ -17356,6 +17392,7 @@ yqQ
 yrBec
 yIpP
 yellow
+your
 json
 jacobiano
 justamente
@@ -18113,6 +18150,7 @@ Gracias
 Grace
 Gestionados
 Gather
+Guide
 BX
 Bit
 Box

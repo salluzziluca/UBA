@@ -18,3 +18,8 @@ We populate the MVP canvas answering a few questions. The results and discussion
 5. **Expected result:** What learning or result we are seeking in this MVP?
 6. **Metrics for business hypothesis validation:** How do you know when to pivot and when to persevere? What would determine the success or failure? What data should we collect?
 7. **Cost & Schedule:** By looking at the features we have to build for this MVP, what is the cost and schedule? When can we look at the data for validating it? Is there any schedule constraint?
+
+Basicamente:
+1. que buscamos con este MVP
+2. para que personas es 
+3. 

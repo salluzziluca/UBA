@@ -24,3 +24,6 @@ Similar al [[Building the MVP Canvas|MVP Canvas]]
 
 Una version mas reducida se puede encontrar en [canvanizer.com](https://canvanizer.com/new/lean-canvas),
 ![[Pasted image 20250315195447.png]]
+
+
+tambien se le puede agregar una seccion de ahorros que permite describir cómo se ahorrará dinero en ciertos procesos.![[Pasted image 20250315195515.png]]

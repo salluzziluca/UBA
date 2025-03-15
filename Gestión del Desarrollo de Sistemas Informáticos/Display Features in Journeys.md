@@ -13,3 +13,11 @@ Put the main journeys and the visible features side by side
 Take each journey, and for each step, record any features that it needs.
 
 ![[Pasted image 20250315114855.png]]
+
+![[Pasted image 20250315114903.png]]
+![[Pasted image 20250315114913.png]]
+
+When we're done, there's we usually find two kinds of missing links.
+
+- Some journeys are missing features: for these we create feature cards, marking them for effort, value, and uncertainty.
+- Some features are not mapped to journeys: we should challenge these features, do we really need them if they play no part in our users' journeys?

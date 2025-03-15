@@ -1608,6 +1608,7 @@ cross
 complexity
 conversation
 contain
+cards
 de
 dispositivos
 del
@@ -2326,6 +2327,7 @@ detallarlas
 defined
 described
 don
+display
 gestion
 gran
 guarda
@@ -4875,6 +4877,9 @@ playing
 photo
 pink
 price
+pieces
+perspectives
+play
 la
 las
 le
@@ -6100,6 +6105,7 @@ achieves
 arrives
 arma
 anotado
+any
 hardware
 heap
 hay
@@ -7028,6 +7034,8 @@ usage
 uncertainity
 uncertainty
 usual
+unite
+usually
 System
 Son
 Source
@@ -8508,6 +8516,7 @@ kuml
 kubectl
 kube
 kind
+kinds
 realicen
 resolve
 recommend
@@ -9116,6 +9125,8 @@ reach
 raises
 rankean
 requirements
+record
+really
 operacion
 orden
 operaciones
@@ -9818,6 +9829,7 @@ nxnxn
 necessary
 needs
 notes
+need
 via
 vuelve
 viven
@@ -10185,6 +10197,8 @@ vayamos
 very
 vision
 view
+verify
+views
 Application
 API
 Asigna
@@ -10992,6 +11006,7 @@ Planificar
 Potentially
 PBI
 Paul
+Put
 Interface
 ID
 Instructions
@@ -12198,6 +12213,9 @@ markings
 matters
 may
 might
+missing
+marking
+mapped
 tien
 tiene
 todos
@@ -13273,6 +13291,8 @@ invite
 interacts
 invitation
 its
+indicate
+integrating
 fijo
 file
 fork
@@ -14738,6 +14758,7 @@ Different
 Divide
 Decide
 Dude
+Doing
 Memoria
 Multivariada
 MORE
@@ -15432,6 +15453,7 @@ Terminamos
 TSP
 Tonga
 These
+Take
 Realiza
 REgistrys
 Rango
@@ -16227,6 +16249,7 @@ banda
 business
 bussines
 behind
+both
 will
 words
 with
@@ -19848,6 +19871,8 @@ Workers
 Web
 Weierstrass
 What
+With
+When
 ZZZPU
 ZX
 ZQ

@@ -29,12 +29,15 @@ Se rediseña muchas veces hasta que se encuentra por donde ir. Y no se diseña s
 
 #### User centered desing 
 El Equipo de Producto se comunica constantemente con usuarios y clientes, ==se co-crea junto a ellos==. Se diseñan experiencias
-
+Es por esto que tambien deben desarrollar y llevar a cabo la venta. Utilizando [[Lean Sales Up]].
 #### Humildad Intelectual
 - Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
 - Experimentos: tolerancia al error y a cambiar de parecer 
 - Construir un ambiente seguro e inclusivo de respeto a todas las opiniones del equipo
-## Personas (UX Personas)
+![[Pasted image 20250315193740.png]]
+
+## Herramientas
+### Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
 ![[Pasted image 20240902194936.png]]

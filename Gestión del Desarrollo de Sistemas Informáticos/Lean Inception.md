@@ -24,6 +24,6 @@ Tambien le permite a startups probar sus MPVs pre software (por ejemplo, pruebas
 
 
 ## Timetable 
-|     | morning |
-| --- | ------- |
-|     |         |
+|        | Morning                                                             | Afternoon |
+| ------ | ------------------------------------------------------------------- | --------- |
+| Monday | Introduce the inception, kick off, and [[Write the Product Vision]] |           |

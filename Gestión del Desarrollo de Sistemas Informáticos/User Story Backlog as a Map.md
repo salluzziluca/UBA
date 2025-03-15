@@ -28,3 +28,5 @@ Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activ
 Jeff Patton recomienda dejar de usar al palabra Epics para las activities porque la gente tiene a descartar las epicas una vez que las diviide en user stories. Y en eso se pierde contexto. Buscamos lo contrario.
 
 Ahora que lo tenemos armado es muy facil entender lo grande Y lo chico.
+
+La fila de Actividades vendria a ser como la columna vertebral de nuestro 

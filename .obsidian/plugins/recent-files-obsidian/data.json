@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lean Sales Up",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Sales Up.md"
+    },
+    {
       "basename": "Product Discovery",
       "path": "Ingeneniería del Software I/Product Discovery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UBA",
       "path": "UBA.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

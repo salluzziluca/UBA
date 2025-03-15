@@ -4,6 +4,11 @@ dg-publish: true
 aliases:
   - User Story Map
   - user story map
+  - User story map
+  - user story mapping
+  - users story map
+  - user stories map
+  - user storie maps
 ---
 ## Flat User Story Backlog dont work
 Se hace un gran laburo para entender lo que el cliente quiere. Al final todo eso que aprendemos queda tirado a la basura porque lo minimizamos para quedarnos solo con la punta del iceberg que son las user stories

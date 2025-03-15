@@ -1612,6 +1612,9 @@ cards
 complete
 collect
 constraint
+convertirla
+comienzan
+connects
 de
 dispositivos
 del
@@ -2333,6 +2336,7 @@ don
 display
 discussions
 determine
+design
 gestion
 gran
 guarda
@@ -3392,6 +3396,9 @@ estimate
 effort
 experience
 effor
+encuestas
+escribiendo
+explore
 servicios
 son
 su
@@ -4075,6 +4082,7 @@ simplify
 seeking
 success
 schedule
+startups
 par
 por
 punto
@@ -4894,6 +4902,11 @@ play
 populate
 proposal
 persevere
+pre
+prototipos
+probado
+pidos
+pauta
 la
 las
 le
@@ -5340,6 +5353,7 @@ learn
 look
 let
 looking
+lives
 agnosticos
 apps
 al
@@ -6131,6 +6145,7 @@ again
 accepts
 actions
 add
+afectar
 hardware
 heap
 hay
@@ -6482,6 +6497,7 @@ handy
 here
 having
 hypothesis
+help
 que
 queda
 quien
@@ -6731,6 +6747,7 @@ quitando
 quieras
 qel
 questions
+quedarte
 utilizados
 un
 una
@@ -8553,6 +8570,7 @@ kube
 kind
 kinds
 know
+kick
 realicen
 resolve
 recommend
@@ -9164,6 +9182,7 @@ record
 really
 revisamos
 respueestas
+reaching
 operacion
 orden
 operaciones
@@ -9541,6 +9560,7 @@ opens
 output
 overall
 ontener
+off
 nombre
 nuevo
 nica
@@ -10241,6 +10261,7 @@ verify
 views
 validation
 validating
+validiaciones
 Application
 API
 Asigna
@@ -10622,6 +10643,7 @@ Aprobacion
 And
 Assumptions
 After
+Afternoon
 Programming
 Procesos
 Partes
@@ -11051,6 +11073,7 @@ PBI
 Paul
 Put
 Ptoposal
+Proposal
 Interface
 ID
 Instructions
@@ -11397,6 +11420,7 @@ Items
 Increment
 Identify
 Important
+Introduce
 Un
 UNIX
 UBA
@@ -12262,6 +12286,10 @@ marking
 mapped
 minimum
 mvp
+manuales
+mpv
+moving
+mejoradas
 tien
 tiene
 todos
@@ -13343,6 +13371,7 @@ identified
 iteration
 improved
 invites
+iterar
 fijo
 file
 fork
@@ -13786,6 +13815,7 @@ focusing
 figured
 filled
 failure
+forward
 Nombre
 Notas
 Not
@@ -15190,6 +15220,9 @@ Matching
 Maximizo
 Medir
 Many
+MPVs
+Morning
+Monday
 Table
 Todos
 This
@@ -15509,6 +15542,7 @@ TSP
 Tonga
 These
 Take
+Timetable
 Realiza
 REgistrys
 Rango
@@ -16306,6 +16340,7 @@ bussines
 behind
 both
 buddy
+baratos
 will
 words
 with

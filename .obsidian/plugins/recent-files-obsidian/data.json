@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Experimentos de Usabilidad",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Experimentos de Usabilidad.md"
+    },
+    {
       "basename": "Product Discovery",
       "path": "Ingeneniería del Software I/Product Discovery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Analísis Matemático I",
       "path": "CBC/Analísis Matemático I.md"
-    },
-    {
-      "basename": "2.2 Pandas avanzado",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
     }
   ],
   "omittedPaths": [],

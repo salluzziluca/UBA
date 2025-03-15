@@ -29,4 +29,7 @@ Jeff Patton recomienda dejar de usar al palabra Epics para las activities porque
 
 Ahora que lo tenemos armado es muy facil entender lo grande Y lo chico.
 
-La fila de Actividades vendria a ser como la columna vertebral de nuestro software. No se prioriza eso (seria como priorizar hacer el motor, las ruedas o el chasis de un auto) se priorizan sus subtareas (quiero ruedas de caucho de 18 o 19 pulgadas?, quiero un chasis modular o fijo?). las tasks nos permiten llegar al MVP, 
+La fila de Actividades vendria a ser como la columna vertebral de nuestro software. No se prioriza eso (seria como priorizar hacer el motor, las ruedas o el chasis de un auto) se priorizan sus subtareas (quiero ruedas de caucho de 18 o 19 pulgadas?, quiero un chasis modular o fijo?). las tasks nos permiten llegar al MVP, las activities SON el producto.
+
+>[!note]  prioritize their characteristics that matters
+

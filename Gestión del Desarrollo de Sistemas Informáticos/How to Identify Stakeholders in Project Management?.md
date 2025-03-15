@@ -38,7 +38,7 @@ Review the contract documents carefully if you get the project through a contrac
 
 ### OPA and EEF
 
-Reviewing the [enterprise environmental factors and organizational process assets](https://pmstudycircle.com/enterprise-environmental-factors-organizational-process-assets/) can reveal many stakeholders. The stakeholder register and lessons-learned documents from past projects can help you find more. Furthermore, reviewing governmental regulations and industry standards can help you find more stakeholders for your project.
+Reviewing the [[Enterprise Environmental Factors  y Organizational Process Assets]]can reveal many stakeholders. The stakeholder register and lessons-learned documents from past projects can help you find more. Furthermore, reviewing governmental regulations and industry standards can help you find more stakeholders for your project.
 
 ### Expert Interviews
 

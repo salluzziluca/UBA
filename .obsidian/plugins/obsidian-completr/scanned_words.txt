@@ -1616,6 +1616,9 @@ convertirla
 comienzan
 connects
 clients
+critico
+concerns
+cabida
 de
 dispositivos
 del
@@ -2338,6 +2341,8 @@ display
 discussions
 determine
 design
+desatienda
+diga
 gestion
 gran
 guarda
@@ -3406,6 +3411,8 @@ efforts
 expectations
 employees
 external
+engagement
+earning
 servicios
 son
 su
@@ -4920,6 +4927,9 @@ pidos
 pauta
 positive
 perceive
+priorizarlas
+piolas
+proactively
 la
 las
 le
@@ -5368,6 +5378,7 @@ let
 looking
 lives
 lifecycle
+llevas
 agnosticos
 apps
 al
@@ -6163,6 +6174,9 @@ afectar
 apenas
 align
 affected
+agruparlas
+asegurandose
+ahorras
 hardware
 heap
 hay
@@ -6516,6 +6530,7 @@ having
 hypothesis
 help
 higher
+helps
 que
 queda
 quien
@@ -6766,6 +6781,7 @@ quieras
 qel
 questions
 quedarte
+queria
 utilizados
 un
 una
@@ -9207,6 +9223,9 @@ recomienda
 risks
 relationships
 regulatory
+riesgos
+recognizing
+reducing
 operacion
 orden
 operaciones
@@ -9587,6 +9606,8 @@ ontener
 off
 organization
 outcome
+objections
+onda
 nombre
 nuevo
 nica
@@ -10670,6 +10691,8 @@ And
 Assumptions
 After
 Afternoon
+Asegura
+Aquellos
 Programming
 Procesos
 Partes
@@ -11101,6 +11124,7 @@ Put
 Ptoposal
 Proposal
 PMBOK
+Podes
 Interface
 ID
 Instructions
@@ -11448,6 +11472,7 @@ Increment
 Identify
 Important
 Introduce
+Identificarlos
 Un
 UNIX
 UBA
@@ -12321,6 +12346,7 @@ manager
 management
 members
 managers
+minimizando
 tien
 tiene
 todos
@@ -12814,6 +12840,8 @@ technical
 taking
 therefore
 throughout
+temprano
+trust
 inico
 interna
 infro
@@ -13407,6 +13435,12 @@ iterar
 identifying
 interested
 internal
+identificarlos
+interesadas
+influencian
+infulencia
+impact
+incoherencias
 fijo
 file
 fork
@@ -15258,6 +15292,7 @@ Many
 MPVs
 Morning
 Monday
+Manejarlos
 Table
 Todos
 This

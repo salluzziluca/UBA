@@ -1595,6 +1595,7 @@ canvas
 characteristics
 could
 concept
+coherent
 de
 dispositivos
 del
@@ -2621,6 +2622,7 @@ giles
 gestionamos
 gather
 going
+groups
 especifico
 entra
 en
@@ -3339,6 +3341,7 @@ evidencia
 encargado
 everything
 end
+easily
 servicios
 son
 su
@@ -3996,6 +3999,12 @@ stay
 somehow
 shorter
 such
+see
+smaller
+statement
+sentence
+senseless
+step
 par
 por
 punto
@@ -4796,6 +4805,7 @@ predominante
 policia
 project
 people
+previous
 la
 las
 le
@@ -6002,6 +6012,9 @@ arranque
 agile
 away
 about
+ask
+after
+altering
 hardware
 heap
 hay
@@ -8187,6 +8200,7 @@ Ecuaciones
 Estaria
 Ejercicio
 Efectivamente
+Ergo
 kernel
 kt
 kU
@@ -8992,6 +9006,7 @@ replanificar
 reasons
 removing
 result
+resulting
 operacion
 orden
 operaciones
@@ -9360,6 +9375,7 @@ observaci
 observa
 ocurri
 ocmo
+our
 nombre
 nuevo
 nica
@@ -9684,6 +9700,7 @@ numericos
 normalmente
 negociados
 nxnxn
+necessary
 via
 vuelve
 viven
@@ -10049,6 +10066,7 @@ visitor
 viceversa
 vayamos
 very
+vision
 Application
 API
 Asigna
@@ -12530,6 +12548,8 @@ these
 take
 two
 than
+they
+third
 inico
 interna
 infro
@@ -13532,6 +13552,8 @@ facilitating
 facilitator
 four
 fit
+flipchart
+fill
 Nombre
 Notas
 Not
@@ -14554,6 +14576,8 @@ Despertar
 David
 Diferencia
 During
+Different
+Divide
 Memoria
 Multivariada
 MORE
@@ -16031,6 +16055,7 @@ blandas
 build
 born
 beneficios
+blank
 will
 words
 with
@@ -16294,6 +16319,9 @@ week
 was
 would
 weeks
+whose
+whiteboard
+whole
 VA
 VIEW
 Volumen
@@ -17793,6 +17821,7 @@ Guardamos
 Gracias
 Grace
 Gestionados
+Gather
 BX
 Bit
 Box

@@ -5,6 +5,10 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
     },
     {
+      "basename": "Actiivity",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
+    },
+    {
       "basename": "Lean Inception",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IPC",
       "path": "CBC/IPC.md"
-    },
-    {
-      "basename": "Quimica",
-      "path": "CBC/Quimica.md"
     }
   ],
   "omittedPaths": [],

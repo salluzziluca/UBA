@@ -9,13 +9,13 @@ dg-publish: true
 Fue creado para llegar a un acuerdo de cual deberia ser el MVP y asegurarse de que el equipo arranque a desarollar todos en la misma pagina y con un buen plan sin estar 5 meses discutiendo.
 
 
->[!quote] And I was very satisfied facilitating these (old) agile inceptions this way until 2011, the year my son was born. The thing is, I was the inception facilitator, but the inception would take from two to four weeks. And I could not stay away from home for more than a week. I had to make the inceptions leaner, somehow make them fit in one week.
+>[!quote] And I was very satisfied facilitating these (old) [[agile]] inceptions this way until 2011, the year my son was born. The thing is, I was the inception facilitator, but the inception would take from two to four weeks. And I could not stay away from home for more than a week. I had to make the inceptions leaner, somehow make them fit in one week.
 
 The new inception style is lean for two reasons:
 
 1. the inception duration is shorter, removing everything which was not about the product (such as architecture, project, etc), making it _lean_
-2. the end result of the inception is the understanding the MVP, a main concept from the _Lean_ StartUp movement.
+2. the end result of the inception is the understanding the [[Minium Viable Product|MVP]], a main concept from the _Lean_ StartUp movement.
 
 
 ## Por que? Que beneficios tiene? 
-Lo importante del MVP es
+Lo importante del [[Minium Viable Product|MVP]] es que te permite construir algo rapido para despues iterar sobre eso y ver con que quedarte. Por lo que poder definir uno sin tardar m

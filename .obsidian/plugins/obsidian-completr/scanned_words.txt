@@ -585,6 +585,7 @@ Listas
 Lists
 Levin
 Loop
+Lean
 capa
 controlado
 cantidad
@@ -1588,6 +1589,12 @@ controlados
 construccion
 charlando
 charlados
+common
+customers
+canvas
+characteristics
+could
+concept
 de
 dispositivos
 del
@@ -2286,6 +2293,10 @@ dej
 descubriendo
 defender
 digitos
+done
+desarollar
+discutiendo
+duration
 gestion
 gran
 guarda
@@ -2608,6 +2619,8 @@ grago
 gitos
 giles
 gestionamos
+gather
+going
 especifico
 entra
 en
@@ -3324,6 +3337,8 @@ exponer
 enfoque
 evidencia
 encargado
+everything
+end
 servicios
 son
 su
@@ -3975,6 +3990,12 @@ salgan
 sucesi
 surja
 sitemas
+single
+satisfied
+stay
+somehow
+shorter
+such
 par
 por
 punto
@@ -4773,6 +4794,8 @@ produccion
 practicos
 predominante
 policia
+project
+people
 la
 las
 le
@@ -5207,6 +5230,8 @@ lla
 leq
 libros
 legacy
+lean
+leaner
 agnosticos
 apps
 al
@@ -5972,6 +5997,11 @@ autos
 apliaci
 aprendiendo
 aprendemos
+activity
+arranque
+agile
+away
+about
 hardware
 heap
 hay
@@ -6314,6 +6344,7 @@ hojas
 home
 how
 habilidades
+had
 que
 queda
 quien
@@ -6887,6 +6918,9 @@ une
 unstack
 urnas
 urna
+understand
+until
+understanding
 System
 Son
 Source
@@ -7260,6 +7294,7 @@ Sabemos
 Sabiendo
 Satisficibilidad
 Situaciones
+StartUp
 Calls
 Cmabia
 CPU
@@ -7745,6 +7780,7 @@ Combinaciones
 Contenidos
 Compresion
 Cuestionar
+Caroli
 Es
 El
 Estos
@@ -8953,6 +8989,9 @@ reducirse
 residuales
 repo
 replanificar
+reasons
+removing
+result
 operacion
 orden
 operaciones
@@ -10009,6 +10048,7 @@ viernes
 visitor
 viceversa
 vayamos
+very
 Application
 API
 Asigna
@@ -10387,6 +10427,7 @@ Axioma
 Asumir
 Aprender
 Aprobacion
+And
 Programming
 Procesos
 Partes
@@ -10813,6 +10854,7 @@ Parcialitos
 Planificar
 Potentially
 PBI
+Paul
 Interface
 ID
 Instructions
@@ -12005,6 +12047,8 @@ mecanica
 maleable
 mirada
 mejoria
+making
+movement
 tien
 tiene
 todos
@@ -12481,6 +12525,11 @@ transporte
 teniamos
 textos
 tasks
+together
+these
+take
+two
+than
 inico
 interna
 infro
@@ -13052,6 +13101,9 @@ inquieteuddes
 invertida
 ingenerias
 ingenier
+inception
+involved
+inceptions
 fijo
 file
 fork
@@ -13473,6 +13525,13 @@ formarse
 fuesen
 familia
 facilitador
+focused
+features
+formulate
+facilitating
+facilitator
+four
+fit
 Nombre
 Notas
 Not
@@ -14089,6 +14148,7 @@ Finitas
 Fuentes
 Formamos
 Farley
+Fue
 Descriptors
 Descriptor
 Devuelve
@@ -14493,6 +14553,7 @@ Desarollo
 Despertar
 David
 Diferencia
+During
 Memoria
 Multivariada
 MORE
@@ -15967,6 +16028,9 @@ bolas
 bolitas
 bolillas
 blandas
+build
+born
+beneficios
 will
 words
 with
@@ -16225,6 +16289,11 @@ wDTDap
 wNbr
 workers
 worker
+working
+week
+was
+would
+weeks
 VA
 VIEW
 Volumen

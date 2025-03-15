@@ -11,4 +11,9 @@ Se hace un gran laburo para entender lo que el cliente quiere. Al final todo eso
 >That’s what a flat backlog is to me. A bag of context-free mulch.
 I need that context in order for me to really tell a story about the system.
 
-Es muy facil perderse y nunca lograr ver 
+Es muy facil perderse y nunca lograr ver la big picture. 
+
+
+## Story Map 
+![[Pasted image 20250315185429.png]]
+Arriba de todo estan las "big stories", llam

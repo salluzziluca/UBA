@@ -1609,6 +1609,9 @@ complexity
 conversation
 contain
 cards
+complete
+collect
+constraint
 de
 dispositivos
 del
@@ -2328,6 +2331,8 @@ defined
 described
 don
 display
+discussions
+determine
 gestion
 gran
 guarda
@@ -2657,6 +2662,7 @@ goals
 goal
 graphs
 generates
+good
 especifico
 entra
 en
@@ -4064,6 +4070,11 @@ sends
 shows
 staring
 stick
+simplified
+simplify
+seeking
+success
+schedule
 par
 por
 punto
@@ -4880,6 +4891,9 @@ price
 pieces
 perspectives
 play
+populate
+proposal
+persevere
 la
 las
 le
@@ -5322,6 +5336,10 @@ lots
 low
 later
 lose
+learn
+look
+let
+looking
 agnosticos
 apps
 al
@@ -6106,6 +6124,13 @@ arrives
 arma
 anotado
 any
+answering
+agreed
+android
+again
+accepts
+actions
+add
 hardware
 heap
 hay
@@ -6453,6 +6478,10 @@ her
 helpful
 has
 high
+handy
+here
+having
+hypothesis
 que
 queda
 quien
@@ -7036,6 +7065,7 @@ uncertainty
 usual
 unite
 usually
+upon
 System
 Son
 Source
@@ -7413,6 +7443,8 @@ StartUp
 Some
 Select
 Soccer
+Segmented
+Schedule
 Calls
 Cmabia
 CPU
@@ -7900,6 +7932,7 @@ Compresion
 Cuestionar
 Caroli
 Continue
+Can
 Es
 El
 Estos
@@ -8308,6 +8341,8 @@ Ejercicio
 Efectivamente
 Ergo
 Examples
+Example
+Expected
 kernel
 kt
 kU
@@ -8517,6 +8552,7 @@ kubectl
 kube
 kind
 kinds
+know
 realicen
 resolve
 recommend
@@ -8547,7 +8583,6 @@ random
 refiere
 representa
 recargada
-rapida
 referenciado
 replacement
 referenciada
@@ -9127,6 +9162,8 @@ rankean
 requirements
 record
 really
+revisamos
+respueestas
 operacion
 orden
 operaciones
@@ -9502,6 +9539,8 @@ order
 opinions
 opens
 output
+overall
+ontener
 nombre
 nuevo
 nica
@@ -9830,6 +9869,7 @@ necessary
 needs
 notes
 need
+neightborhood
 via
 vuelve
 viven
@@ -10199,6 +10239,8 @@ vision
 view
 verify
 views
+validation
+validating
 Application
 API
 Asigna
@@ -10579,6 +10621,7 @@ Aprender
 Aprobacion
 And
 Assumptions
+After
 Programming
 Procesos
 Partes
@@ -11007,6 +11050,7 @@ Potentially
 PBI
 Paul
 Put
+Ptoposal
 Interface
 ID
 Instructions
@@ -12216,6 +12260,8 @@ might
 missing
 marking
 mapped
+minimum
+mvp
 tien
 tiene
 todos
@@ -13293,6 +13339,10 @@ invitation
 its
 indicate
 integrating
+identified
+iteration
+improved
+invites
 fijo
 file
 fork
@@ -13731,6 +13781,11 @@ follows
 friend
 fills
 functional
+few
+focusing
+figured
+filled
+failure
 Nombre
 Notas
 Not
@@ -16250,6 +16305,7 @@ business
 bussines
 behind
 both
+buddy
 will
 words
 with
@@ -16519,6 +16575,7 @@ whole
 want
 who
 wakes
+when
 VA
 VIEW
 Volumen
@@ -18365,6 +18422,8 @@ Buscoo
 Bipartite
 Busquedas
 Backlog
+Buddy
+But
 XY
 Xg
 XQG
@@ -19873,6 +19932,9 @@ Weierstrass
 What
 With
 When
+Who
+Work
+Which
 ZZZPU
 ZX
 ZQ

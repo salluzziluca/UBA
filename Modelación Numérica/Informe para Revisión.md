@@ -3,10 +3,9 @@ Dia: 2025-03-14
 dg-publish: true
 ---
 
-Gracias por enviarme el temario del examen y las fotos correspondientes. Tras revisar los resultados, puedo confirmar que la resolución que presenté es correcta y concuerda con los resultados esperados. Es por esto que no entiendo la discrepancia en la calificación.
+Gracias por enviarme el temario del examen y las fotos correspondientes. 
 
-De acuerdo con su sugerencia, he preparado un informe detallado en el que incluyo la resolución correcta. He comparado ambas soluciones (la de mi examen y la correcta) para poder señalar las diferencias y explicar de manera clara por qué considero que mi calificación debería ser superior.
-
+De acuerdo con su sugerencia, he preparado un informe detallado en el que incluyo la resolución correcta. He comparado ambas soluciones (la de mi examen y la correcta) para poder señalar las diferencias y explicar de manera clara por qué considero 
 Adjunto las imágenes con ambas resoluciones para facilitar la comparación y poder identificar de manera precisa las áreas en las que se podría haber cometido un error en la corrección.
 
 Agradezco su tiempo y quedo a su disposición para cualquier aclaración adicional.

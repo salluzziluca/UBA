@@ -5,7 +5,7 @@
   "spellcheckLanguages": null,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

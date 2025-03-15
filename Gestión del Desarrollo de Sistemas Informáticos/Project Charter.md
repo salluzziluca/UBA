@@ -16,7 +16,7 @@ In project management, the charter also applies to program and portfolio managem
 
 Before starting the project, the sponsor conducts a [feasibility study](https://pmstudycircle.com/conduct-feasibility-study/), a cost-benefit analysis, and a review of the benefits management plan. If the project fits their long-term goal, they will proceed.
 
-The project charter defines the project and guides stakeholders. Changes to the project charter are rare; only the sponsor or top management can do so.
+The project charter defines the project and guides [[Stakeholder|stakeholders]]. Changes to the project charter are rare; only the sponsor or top management can do so.
 
 A project is often known as a “Project Initiation Document (PID)” or a “Project Definition Document.”
 
@@ -38,7 +38,7 @@ A project charter has the following elements:
 - **Objective:** While goals are visions, objectives are missions. These are measurable targets that the project aims to achieve. Objectives must be SMART (i.e., Specific, Measurable, Attainable, Realistic, and Time-Bound).
 - **Scope:** This is the high-level [scope of the project](https://pmstudycircle.com/scope-of-work/).
 - **Business Case:** This justifies the project’s existence. It is usually developed after a feasibility study or cost-benefit analysis has been conducted.
-- **Constraints:** These are limitations on the [project objective](https://pmstudycircle.com/project-objectives/) (e.g., time, budget, scope, quality, etc.). As the project evolves, the constraints may change—especially for highly uncertain projects that use Agile approaches.
+- **Constraints:** These are limitations on the [project objective](https://pmstudycircle.com/project-objectives/) (e.g., time, budget, scope, quality, etc.). As the project evolves, the constraints may change—especially for highly uncertain projects that use [[Agile]] approaches.
 - **Assumptions:** These are conditions that are assumed to be true. They are recorded in the assumption log.
 - **Deliverables:** [Project deliverables](https://pmstudycircle.com/project-deliverable/) are specific outcomes the project expects to achieve.
 - **Stakeholders:** These are individuals, entities, or groups of individuals who are interested in the project or its output. A project charter contains the names of the key stakeholders (e.g., project sponsor, project manager, etc.).

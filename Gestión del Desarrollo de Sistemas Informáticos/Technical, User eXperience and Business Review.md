@@ -21,3 +21,4 @@ Al final quedaria algo asi. con todo anotado segun effor, value, ux y certainty
 
 >[!important] The process of taking each feature through these two graphs generates much more than the colors and the markings on each card. Important technical conversations about the feature take place, such as: architecture, cross-functional requirements, and complexity. Assumptions are defined. Uncertainties are described. As usual with this kind of activity, the conversation and the understanding it generates for those taking part matters more than the final output.
 
+Many of these notes contain extra information about the feature that may be needed later. These might be important and we don´t want to lose them, therefore we write down everything about the feature on post-its, and then stick them behind the index card.

@@ -21,3 +21,7 @@ Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activ
 >[!important] I simply arrange the small things under the big things in a bit of a grid form.
 > when arranging stories in the map, if a person using the system typically does one thing after another, then I’ll put the early thing on the left, and the later thing on the right.
 
+
+>[!info] When teaching this, people often tell me “the users can perform these in any order. What order should I put them in?” I’ll ask them to “explain to me what the system does at a high level – just tell me the activities.” They then recite them to me. “That’s the order” I say. In fact, the order you’d explain the behavior of the system in is the correct order. We’re building a map that lets us tell a really big story about the system. Build the map in a way that helps you tell the story.
+
+

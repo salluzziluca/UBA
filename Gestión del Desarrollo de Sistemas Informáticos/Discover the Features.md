@@ -14,3 +14,8 @@ Since we have already described the [[Persona|personas]] and the main objectives
 ![[Pasted image 20250315112811.png]]
 
 ![[Pasted image 20250315112840.png]]
+
+
+Although the canvas is similar to a matrix, it won’t necessarily have a feature for each combination of goal and persona. It can have multiple features for one persona to reach one specific goal, as well have personas who don’t need a feature for a certain goal.
+
+If we identify goals and features that don't correspond the needs of any persona, they should be discarded or re-thought, because their value is not clearly linked to a user.

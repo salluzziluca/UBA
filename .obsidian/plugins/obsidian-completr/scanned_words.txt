@@ -1596,6 +1596,7 @@ characteristics
 could
 concept
 coherent
+consider
 de
 dispositivos
 del
@@ -2299,6 +2300,8 @@ desarollar
 discutiendo
 duration
 describing
+description
+detailed
 gestion
 gran
 guarda
@@ -4009,6 +4012,10 @@ sentence
 senseless
 step
 specific
+some
+should
+something
+support
 par
 por
 punto
@@ -4811,6 +4818,9 @@ project
 people
 previous
 point
+perform
+print
+possible
 la
 las
 le
@@ -6022,6 +6032,7 @@ after
 altering
 also
 aim
+action
 hardware
 heap
 hay
@@ -8209,6 +8220,7 @@ Estaria
 Ejercicio
 Efectivamente
 Ergo
+Examples
 kernel
 kt
 kU
@@ -9390,6 +9402,7 @@ ocurri
 ocmo
 our
 only
+other
 nombre
 nuevo
 nica
@@ -12568,6 +12581,8 @@ they
 third
 their
 those
+trying
+then
 inico
 interna
 infro
@@ -13144,6 +13159,10 @@ involved
 inceptions
 identify
 interact
+interaction
+include
+invoice
+invite
 fijo
 file
 fork
@@ -13576,6 +13595,8 @@ flipchart
 fill
 functionality
 focus
+feature
+friends
 Nombre
 Notas
 Not
@@ -14193,6 +14214,7 @@ Fuentes
 Formamos
 Farley
 Fue
+Features
 Descriptors
 Descriptor
 Devuelve

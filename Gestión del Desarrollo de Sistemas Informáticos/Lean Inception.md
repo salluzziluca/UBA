@@ -15,3 +15,7 @@ The new inception style is lean for two reasons:
 
 1. the inception duration is shorter, removing everything which was not about the product (such as architecture, project, etc), making it _lean_
 2. the end result of the inception is the understanding the MVP, a main concept from the _Lean_ StartUp movement.
+
+
+## Por que? Que beneficios tiene? 
+Lo importante del MVP es

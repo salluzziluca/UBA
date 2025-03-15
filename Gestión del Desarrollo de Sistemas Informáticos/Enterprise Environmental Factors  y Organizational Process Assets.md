@@ -71,7 +71,7 @@ The second category comprises the corporate knowledge base for storing and retri
 
 - [Risk register](https://pmstudycircle.com/risk-register/)
 - [Lessons learned](https://pmstudycircle.com/lessons-learned/)
-- [Stakeholder register](https://pmstudycircle.com/stakeholder-register-project-management/)
+- [Stakeholder register](https://pmstudycircle.com/[[stakeholder]]-register-project-management/)
 - Past project files
 - Historical information
 

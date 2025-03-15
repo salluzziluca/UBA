@@ -12,7 +12,7 @@ Encontrar [[Stakeholder|stakeholders]] es vital, se recomienda hacerlo apenas em
 Es critico porque: 
 1. Asegura que llevas la cuenta de todas las partes interesadas o que influencian el proyecto. Podes agruparlas por poder/infulencia, priorizarlas, y buscar formas de comunicaciones y engagement piolas. Sirve conocer needs+expectations+impact 
 2. Identificarlos desde temprano permite manejar riesgos de manera mas efectiva
->  By recognizing stakeholders’ concerns and objections, you can address them proactively, reducing the chances of conflicts and earning their trust and support.
+>  By recognizing [[Stakeholder|stakeholders]]’ concerns and objections, you can address them proactively, reducing the chances of conflicts and earning their trust and support.
 3.  stakeholder engagement helps you get their support. Aquellos stakeholders involucrados le van a dar mas bola al proyecto. Manejarlos de manera efectiva es integral para que mantener la onda del proyecto, minimizando incoherencias y asegurandose un path mas seguro. te ahorras que alguno no de cabida, desatienda, y despues diga que queria otra cosa
 ## Five steps para identificarlos 
 1. **Define Project Scope and Objectives:** Clearly outline the project’s goals, deliverables, and scope. Understanding these aspects will help identify who will be affected by or is interested in the project’s outcomes.

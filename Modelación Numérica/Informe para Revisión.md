@@ -58,15 +58,15 @@ y_4 = -0.090677
 $$
 
 ![[Pasted image 20250314204003.png]]
-Tal y como se puede apreciar. llego al mismo resultado y, si mal no recuerdo de los valores numericos que subio Portocarrero al campus, el resultado es correcto
+Tal y como se puede apreciar, llego al mismo resultado. Según los valores numéricos que subió Portocarrero al campus, el resultado es correcto.
 ## RK2 
 ![[Pasted image 20250314203721.png]]
 ![[Pasted image 20250314204023.png]]
-Idem que el punto anterior. Ambos resultados son similares y, hasta donde llega mi memoria, concuerdan con lo publicado en el campus por el docente.
+Al igual que en el punto anterior, ambos resultados son similares y, hasta donde llega mi memoria, concuerdan con lo publicado en el campus por el docente.
 ## Punto medio 
 ![[Pasted image 20250314203751.png]]
 ![[Pasted image 20250314204048.png]]
-En este caso, yo ya sabia que no habia llegado a la solucion correcta. Incluso lo aclaro en el punto de abajo. Tuve un error de cuenta en la primera iteracion que arrastre en las demas. Pero el planteamiento del metodo y las iteraciones (mas alla del resultado analitico) estan bien desarolladas.
+En este caso, ya sabía que no había llegado a la solución correcta. Incluso lo aclaro en el punto siguiente. Tuve un error de cálculo en la primera iteración que arrastré en las demás, pero el planteamiento del método y las iteraciones (más allá del resultado analítico) están bien desarrollados.
 ## Comparacion 
 ![[Pasted image 20250314203818.png]]
 ![[Pasted image 20250314204056.png]]

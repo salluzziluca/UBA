@@ -16,4 +16,4 @@ Es muy facil perderse y nunca lograr ver la big picture.
 
 ## Story Map 
 ![[Pasted image 20250315185429.png]]
-Arriba de todo estan las "big stories", llamadas actividades o activities. 
+Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activities]]. 

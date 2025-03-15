@@ -24,3 +24,6 @@ Es critico porque:
 4. **Analyze Stakeholder Interests and Influence:** Assess each stakeholder’s level of interest, influence, and potential impact on the project. This involves understanding their needs and expectations and how they might affect or be affected by the project.
 
 5. **Prioritize Stakeholders:** Rank stakeholders based on their influence and interest. Focus on those with the most significant impact or interest, as they are crucial for project success and may require more attention and communication.
+
+
+## Documentation and Tools Required to Identify Stakeholders

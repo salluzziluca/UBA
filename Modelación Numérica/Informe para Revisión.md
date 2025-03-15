@@ -70,22 +70,22 @@ En este caso, ya sabía que no había llegado a la solución correcta. Incluso l
 ## Comparacion 
 ![[Pasted image 20250314203818.png]]
 ![[Pasted image 20250314204056.png]]
-Analizo los resultados de las aproximaciones y aclaro que es incorrecto el calculo del metodo de punto medio. Intento empezar de 0 el proceso pero aclaro que me quedo sin tiempo. De todas formas soy consciente y capaz de analizar los resultados y, justamente, aclarar que el metodo de PM no deberia dar un error a euler
+Analizo los resultados de las aproximaciones y aclaro que es incorrecto el cálculo del método de punto medio. Intento empezar de 0 el proceso, pero aclaro que me quedé sin tiempo. De todas formas, soy consciente y capaz de analizar los resultados, y precisamente aclaro que el método de PM no debería dar un error tan grande como Euler.
 # 2A
 ![[Pasted image 20250314203841.png]]
 ![[Pasted image 20250314204114.png]]
-Idem euler y RK2. Resultados similares y concordantes con los de la catedra
+Al igual que Euler y RK2, los resultados son similares y concordantes con los de la cátedra.
 
 ## 2b
 ![[Pasted image 20250314203914.png]]
 ![[Pasted image 20250314204129.png]]
 ![[Pasted image 20250314204144.png]]
-idem punto de arriba
+El mismo análisis que en el punto anterior.
 ## 2c
 ![[Pasted image 20250314203905.png]]
 ![[Pasted image 20250314204202.png]]
 
-Misma explicacion
+La misma explicacion.
 ## Pregunta 1 
 El método de bisección y el método de Newton son dos técnicas iterativas utilizadas para encontrar raíces de ecuaciones, pero presentan diferencias significativas en su comportamiento. El método de bisección es un procedimiento robusto que garantiza la convergencia si la función cambia de signo en un intervalo dado. Su convergencia es lineal, lo que implica que el número de cifras correctas aumenta lentamente con cada iteración. En contraste, el método de Newton tiene una convergencia cuadrática, lo que significa que se acerca a la raíz mucho más rápido siempre que se parta de una buena aproximación inicial. Sin embargo, el método de Newton depende de la derivada de la función y puede fallar si la derivada es cero o si la estimación inicial está demasiado lejos de la raíz. En general, el método de bisección se elige cuando no se dispone de una buena aproximación inicial o cuando la función no es diferenciable, mientras que el método de Newton es preferible cuando la función es suave y se tiene una estimación razonable de la raíz.
 

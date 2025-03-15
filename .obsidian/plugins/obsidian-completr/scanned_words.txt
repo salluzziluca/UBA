@@ -1597,6 +1597,8 @@ could
 concept
 coherent
 consider
+contact
+capabilities
 de
 dispositivos
 del
@@ -2302,6 +2304,9 @@ duration
 describing
 description
 detailed
+describes
+demonstrating
+desires
 gestion
 gran
 guarda
@@ -2628,6 +2633,7 @@ gather
 going
 groups
 goals
+goal
 especifico
 entra
 en
@@ -4016,6 +4022,8 @@ some
 should
 something
 support
+sequence
+steps
 par
 por
 punto
@@ -4821,6 +4829,7 @@ point
 perform
 print
 possible
+points
 la
 las
 le
@@ -6033,6 +6042,7 @@ altering
 also
 aim
 action
+alternative
 hardware
 heap
 hay
@@ -6625,6 +6635,7 @@ query
 quitando
 quieras
 qel
+questions
 utilizados
 un
 una
@@ -7327,6 +7338,7 @@ Sabiendo
 Satisficibilidad
 Situaciones
 StartUp
+Some
 Calls
 Cmabia
 CPU
@@ -9032,6 +9044,8 @@ represents
 role
 realistic
 representation
+reach
+raises
 operacion
 orden
 operaciones
@@ -9403,6 +9417,8 @@ ocmo
 our
 only
 other
+order
+opinions
 nombre
 nuevo
 nica
@@ -13163,6 +13179,7 @@ interaction
 include
 invoice
 invite
+interacts
 fijo
 file
 fork
@@ -13597,6 +13614,7 @@ functionality
 focus
 feature
 friends
+follows
 Nombre
 Notas
 Not
@@ -17391,6 +17409,7 @@ jutna
 juntaran
 jubilatorios
 juntadas
+journey
 Ya
 Yourself
 YAGNI
@@ -18975,6 +18994,7 @@ JWJMKVJ
 JSON
 JBqLu
 Join
+Journey
 Quienes
 Queue
 Quiere

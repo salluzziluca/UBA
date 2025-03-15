@@ -24,6 +24,10 @@ Tambien le permite a startups probar sus MPVs pre software (por ejemplo, pruebas
 
 
 ## Timetable 
-|        | Morning                                                             | Afternoon |
-| ------ | ------------------------------------------------------------------- | --------- |
-| Monday | Introduce the inception, kick off, and [[Write the Product Vision]] |           |
+|           | Morning                                                             | Afternoon                                     |
+| --------- | ------------------------------------------------------------------- | --------------------------------------------- |
+| Monday    | Introduce the inception, kick off, and [[Write the Product Vision]] | [[The product Is – Is not – Does – Does not]] |
+| Tuesday   | [[Describe the Personas]]                                           | [[Discover the Features]]                     |
+| Wednesday | [[Technical, User eXperience and Business Review]]                  | [[Show the User Journeys]]                    |
+| Thursday  | [[Display Features in Journeys]]                                    | [[Sequence The Features]]                     |
+| Friday    | [[Bui]]                                                             |                                               |

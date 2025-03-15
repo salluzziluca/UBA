@@ -25,3 +25,4 @@ Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activ
 >[!info] When teaching this, people often tell me “the users can perform these in any order. What order should I put them in?” I’ll ask them to “explain to me what the system does at a high level – just tell me the activities.” They then recite them to me. “That’s the order” I say. In fact, the order you’d explain the behavior of the system in is the correct order. We’re building a map that lets us tell a really big story about the system. Build the map in a way that helps you tell the story.
 
 
+Jeff Patton recomienda dejar de usar al palabra Epics para las activities porque la gente tiene a descartar las epicas una vez que las diviide en user stories. Y en eso se pierde contexto. Buscamos lo contrario.

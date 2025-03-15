@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Product Discovery",
+      "path": "Ingeneniería del Software I/Product Discovery.md"
+    },
+    {
       "basename": "User Story Backlog as a Map",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bases de Datos Wide Collum",
       "path": "Base de Datos/Bases de Datos Wide Collum.md"
-    },
-    {
-      "basename": "Fisica",
-      "path": "CBC/Fisica.md"
     }
   ],
   "omittedPaths": [],

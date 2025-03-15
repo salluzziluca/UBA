@@ -40,14 +40,6 @@ Es por esto que tambien deben desarrollar y llevar a cabo la venta. Utilizando [
 ![[User Story Backlog as a Map|User Story Mapping]]
 
 ![[Lean Canvas]]
-### Personas (UX Personas)
-Hacer foco en los segmentos especificos 
-Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
-![[Pasted image 20240902194936.png]]
-
-EJ: spotify 
-![[Pasted image 20240902195540.png]]
-
 
 ### Mapa de empatia (empathy map)
 ![[Pasted image 20240902200029.png]]

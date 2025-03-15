@@ -5,6 +5,10 @@
       "path": "Ingeneniería del Software I/Product Discovery.md"
     },
     {
+      "basename": "Persona",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
+    },
+    {
       "basename": "Elevator Pitch",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Elevator Pitch.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Product Backlog Item",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
-    },
-    {
-      "basename": "Persona",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
     },
     {
       "basename": "Metodologias, la mirada Agil",

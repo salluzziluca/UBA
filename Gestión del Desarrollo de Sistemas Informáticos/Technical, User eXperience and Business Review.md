@@ -13,3 +13,6 @@ Luego se rankean tambien por technical certainty (que tanto saben los devs como 
 
 finalmente, quedaria algo asi 
 ![[Pasted image 20250315113753.png]] 
+ the feature “estimate price” has a medium effort, high business value, low user experience value, and medium uncertainty.
+Al final quedaria algo asi 
+![[Pasted image 20250315113823.png]]

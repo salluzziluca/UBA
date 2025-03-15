@@ -1654,6 +1654,13 @@ customized
 comfortable
 controlled
 comments
+criteria
+creates
+combine
+column
+combination
+correspond
+clearly
 de
 dispositivos
 del
@@ -2389,6 +2396,14 @@ debts
 divided
 differences
 decrease
+dod
+defines
+deliverable
+different
+descriptions
+discover
+discussion
+discarded
 gestion
 gran
 guarda
@@ -2726,6 +2741,7 @@ guidelines
 growing
 grows
 government
+guide
 especifico
 entra
 en
@@ -3479,6 +3495,7 @@ entity
 endless
 elements
 extensively
+ensures
 servicios
 son
 su
@@ -4184,6 +4201,7 @@ save
 saying
 share
 suitability
+suggests
 par
 por
 punto
@@ -5028,6 +5046,12 @@ provided
 practices
 profits
 providing
+pairs
+presents
+participants
+prioritize
+participate
+places
 la
 las
 le
@@ -5481,6 +5505,7 @@ lessons
 learned
 live
 legacies
+linked
 agnosticos
 apps
 al
@@ -6294,6 +6319,9 @@ achieve
 almost
 according
 always
+assumptions
+actively
+already
 hardware
 heap
 hay
@@ -6905,6 +6933,8 @@ qel
 questions
 quedarte
 queria
+quality
+question
 utilizados
 un
 una
@@ -8537,6 +8567,8 @@ Environmental
 Every
 External
 EEFs
+Each
+Everyone
 kernel
 kt
 kU
@@ -9388,6 +9420,9 @@ reinvent
 remake
 responsible
 referred
+reference
+row
+reaches
 operacion
 orden
 operaciones
@@ -9782,6 +9817,7 @@ often
 organizational
 owned
 own
+objectives
 nombre
 nuevo
 nica
@@ -10116,6 +10152,7 @@ negative
 numerous
 negatively
 note
+necessarily
 via
 vuelve
 viven
@@ -10489,6 +10526,7 @@ validation
 validating
 validiaciones
 valuable
+various
 Application
 API
 Asigna
@@ -10876,6 +10914,8 @@ Aquellos
 Analyze
 Assess
 Assets
+Ask
+Although
 Programming
 Procesos
 Partes
@@ -11955,6 +11995,7 @@ Unimos
 Universidad
 Uncertainties
 Understanding
+Use
 modo
 mode
 menso
@@ -12547,6 +12588,7 @@ many
 most
 member
 move
+matrix
 tien
 tiene
 todos
@@ -13049,6 +13091,9 @@ templates
 try
 taxes
 thoughts
+triplets
+titles
+thought
 inico
 interna
 infro
@@ -13667,6 +13712,7 @@ inputs
 increases
 increase
 influenced
+increment
 fijo
 file
 fork
@@ -15157,6 +15203,7 @@ Determine
 Documentation
 Documents
 Difference
+DoD
 Memoria
 Multivariada
 MORE
@@ -16957,6 +17004,8 @@ wheel
 why
 widely
 where
+won
+well
 VA
 VIEW
 Volumen
@@ -19333,6 +19382,7 @@ How
 Here
 However
 Historical
+Hand
 Jacobiano
 Job
 Jusitfique

@@ -5,6 +5,10 @@
       "path": "Ingeneniería del Software I/Product Discovery.md"
     },
     {
+      "basename": "Elevator Pitch",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Elevator Pitch.md"
+    },
+    {
       "basename": "User Journey",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Journey.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2 Pandas avanzado",
       "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
-    },
-    {
-      "basename": "2.0 Análisis Exploratorio de Datos",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
     }
   ],
   "omittedPaths": [],

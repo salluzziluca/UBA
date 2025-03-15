@@ -30,7 +30,7 @@ El Equipo de Producto se comunica constantemente con usuarios y clientes, ==se c
 - Hay que aprender a convivir con la incertidumbre. No hay certezas sino hipótesis a validar
 - Experimentos: tolerancia al error y a cambiar de parecer 
 - Construir un ambiente seguro e inclusivo de respeto a todas las opiniones del equipo
-## Personas (UX Personas)
+## [[Persona|Personas]] (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
 ![[Pasted image 20240902194936.png]]
@@ -43,6 +43,6 @@ EJ: spotify
 ![[Pasted image 20240902200029.png]]
 
 
-## A|B testing 
+## A[[Feature||]]B testing 
 Quiero saber si la gente va a publicar mas historias de ig si pongo el boton aca o aca. 
 Pruebo en dos grupos reales de la app cada una con una version y veo cual funciona mejor

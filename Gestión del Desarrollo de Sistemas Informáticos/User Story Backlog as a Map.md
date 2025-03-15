@@ -10,3 +10,5 @@ Se hace un gran laburo para entender lo que el cliente quiere. Al final todo eso
 >[!danger] 
 >That’s what a flat backlog is to me. A bag of context-free mulch.
 I need that context in order for me to really tell a story about the system.
+
+Es muy facil perderse y nunca lograr ver 

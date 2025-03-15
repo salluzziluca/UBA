@@ -2449,6 +2449,7 @@ delivering
 doesn
 decisions
 dont
+denominan
 gestion
 gran
 guarda
@@ -4314,6 +4315,8 @@ strategic
 spend
 servers
 setting
+send
+smap
 par
 por
 punto
@@ -5192,6 +5195,7 @@ punta
 parts
 perderse
 picture
+podrian
 la
 las
 le
@@ -12869,6 +12873,7 @@ minimizamos
 major
 mulch
 managing
+message
 tien
 tiene
 todos
@@ -17930,6 +17935,7 @@ Objective
 Other
 Output
 One
+Otras
 ya
 yo
 yM

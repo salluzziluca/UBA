@@ -5,6 +5,10 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
     },
     {
+      "basename": "Task",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Task.md"
+    },
+    {
       "basename": "Actiivity",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fisica",
       "path": "CBC/Fisica.md"
-    },
-    {
-      "basename": "IPC",
-      "path": "CBC/IPC.md"
     }
   ],
   "omittedPaths": [],

@@ -37,6 +37,7 @@ Es por esto que tambien deben desarrollar y llevar a cabo la venta. Utilizando [
 ![[Pasted image 20250315193740.png]]
 
 ## Herramientas
+![[User Story Backlog as a Map|User Story Mapping]]
 ### Personas (UX Personas)
 Hacer foco en los segmentos especificos 
 Sirve para comprender diferentes necesidades de los principales tipos de clientes de un producto
@@ -46,10 +47,10 @@ EJ: spotify
 ![[Pasted image 20240902195540.png]]
 
 
-## Mapa de empatia (empathy map)
+### Mapa de empatia (empathy map)
 ![[Pasted image 20240902200029.png]]
 
 
-## A|B testing 
+### A|B testing 
 Quiero saber si la gente va a publicar mas historias de ig si pongo el boton aca o aca. 
 Pruebo en dos grupos reales de la app cada una con una version y veo cual funciona mejor

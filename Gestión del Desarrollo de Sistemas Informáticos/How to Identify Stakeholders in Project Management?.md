@@ -30,7 +30,7 @@ Es critico porque:
 
 ### Project Charter
 
-A [project charter](https://pmstudycircle.com/project-charter/) names the project manager and officially starts the project. This document also contains other high-level information (e.g., the names of the project manager, client, sponsor, and other influential stakeholders). The names of the key stakeholders are in the project charter.
+A [[Project Charter]] names the project manager and officially starts the project. This document also contains other high-level information (e.g., the names of the project manager, client, sponsor, and other influential stakeholders). The names of the key stakeholders are in the project charter.
 
 ### Contract Documents
 

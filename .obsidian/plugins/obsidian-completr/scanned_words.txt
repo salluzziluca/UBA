@@ -4967,6 +4967,7 @@ provide
 past
 projects
 progresses
+preoject
 la
 las
 le
@@ -7548,6 +7549,7 @@ Scope
 Stakeholder
 Sessions
 Summary
+Showcase
 Calls
 Cmabia
 CPU
@@ -12929,6 +12931,7 @@ temprano
 trust
 technique
 tabs
+thr
 inico
 interna
 infro
@@ -14606,6 +14609,7 @@ Features
 Five
 Focus
 Furthermore
+Friday
 Descriptors
 Descriptor
 Devuelve
@@ -15722,6 +15726,8 @@ Take
 Timetable
 Tools
 Try
+Tuesday
+Thursday
 Realiza
 REgistrys
 Rango
@@ -20164,6 +20170,7 @@ When
 Who
 Work
 Which
+Wednesday
 ZZZPU
 ZX
 ZQ

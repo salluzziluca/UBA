@@ -6,15 +6,11 @@ Se puede reemplazar el [[Minium Viable Product]] por el [[Earliest testable-usab
 se busca responder: 
  - bor ge: ¿Cuáles son los problemas más importantes que desean resolver? ¿Por qué es necesaria esta herramienta? Entender todo esto en detalle nos permite diseñar soluciones mejores, muchas veces sugiriendo alternativas a las inicialmente propuestas por nuestros clientes.
  - **Quiénes y Qué:** Quiénes son los actores principales y qué procesos de negocios llevarán a cabo en el sistema a desarrollar. Por supuesto, existirán flujos principales y alternativos. En esta etapa detectaremos todos, aunque, después, terminemos priorizando algunos y descartando otros.
-- **Prioridades:** Si algo aprendí en todos estos años de desarrollo es que el tiempo y el dinero nunca alcanzarán para construir todo lo que se desea. Es por eso que parte de las actividades, que desarrollamos en esta etapa, consiste en identificar cuáles son los _features_ indispensables, es decir, aquellos que no pueden faltar o con los que se obtendrán mayores beneficios. Entender las prioridades y trabajar en ellas resultan fundamentales para el éxito del proyecto.
-
-**Producto Mínimo Viable:** Resulta valioso entender cuál es el experimento mínimo que nuestros clientes están dispuestos a testear con usuarios reales. Sus altas expectativas muchas veces los impulsan a buscar la implementación de todas sus ideas, pretendiendo obtener éxito desde el comienzo. Lamentablemente, en la mayor parte de las ocasiones esto no ocurre. Es por eso que los alentamos a diseñar experimentos más pequeños que testeen sus hipótesis con usuarios reales. Nuestro objetivo es [crear conocimiento validado de la manera más rápida y eficiente posible](http://theleanstartup.com/).
-
-**Modelo de Negocio:** Cuando trabajamos con [_startups_](https://en.wikipedia.org/wiki/Startup_company), creemos que es importante entender cuál es su modelo de negocios, es decir, cómo piensan ganar dinero y cuál es el diferencial del producto. Si el proyecto es para una corporación, entonces es importante entender cuáles son los procesos que esta herramienta optimizará o cómo se obtendrán nuevos ingresos a partir de la misma.
-
-**Riesgos:** Es muy común que en las conversaciones realizadas en esta etapa se detecten riesgos, tanto técnicos como de negocio. Estos deben ser marcados y discutidos, ya que representan información esencial para la posterior priorización de _features_.
-
-**Estimación inicial de la magnitud:** A partir de las conversaciones sostenidas en esta etapa, se puede tener una idea inicial de cuán grande podría llegar a ser el desarrollo
+ - **Prioridades:** Si algo aprendí en todos estos años de desarrollo es que el tiempo y el dinero nunca alcanzarán para construir todo lo que se desea. Es por eso que parte de las actividades, que desarrollamos en esta etapa, consiste en identificar cuáles son los _features_ indispensables, es decir, aquellos que no pueden faltar o con los que se obtendrán mayores beneficios. Entender las prioridades y trabajar en ellas resultan fundamentales para el éxito del proyecto.
+ - [[Minium Viable Product|MVP]] o [[Earliest testable-usable-lovable product]]
+ - **Modelo de Negocio:** Cuando trabajamos con [_startups_](https://en.wikipedia.org/wiki/Startup_company), creemos que es importante entender cuál es su modelo de negocios, es decir, cómo piensan ganar dinero y cuál es el diferencial del producto. Si el proyecto es para una corporación, entonces es importante entender cuáles son los procesos que esta herramienta optimizará o cómo se obtendrán nuevos ingresos a partir de la misma.
+ - **Riesgos:** Es muy común que en las conversaciones realizadas en esta etapa se detecten riesgos, tanto técnicos como de negocio. Estos deben ser marcados y discutidos, ya que representan información esencial para la posterior priorización de _features_.
+ - **Estimación inicial de la magnitud:** A partir de las conversaciones sostenidas en esta etapa, se puede tener una idea inicial de cuán grande podría llegar a ser el desarrollo
 **Clave**
 ![[Pasted image 20240902192626.png]]
 

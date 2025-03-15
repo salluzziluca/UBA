@@ -1693,6 +1693,10 @@ consultant
 colleagues
 corporaci
 cnicos
+correct
+chico
+chasis
+caucho
 de
 dispositivos
 del
@@ -2459,6 +2463,7 @@ desarrollamos
 diferencial
 detecten
 discutidos
+diviide
 gestion
 gran
 guarda
@@ -2804,6 +2809,7 @@ given
 grasp
 green
 ganar
+grid
 especifico
 entra
 en
@@ -3579,6 +3585,7 @@ easier
 explores
 explain
 enough
+epicas
 servicios
 son
 su
@@ -4329,6 +4336,8 @@ send
 smap
 sugiriendo
 sostenidas
+storie
+subtareas
 par
 por
 punto
@@ -5212,6 +5221,8 @@ priorizando
 prioridades
 piensan
 priorizaci
+priorizan
+pulgadas
 la
 las
 le
@@ -5677,6 +5688,7 @@ limits
 laburo
 like
 leaves
+lets
 agnosticos
 apps
 al
@@ -6527,6 +6539,11 @@ aspect
 areas
 actividad
 aprend
+arrange
+arranging
+another
+armado
+auto
 hardware
 heap
 hay
@@ -8807,6 +8824,7 @@ Everyone
 Effort
 Explain
 Estimaci
+Epics
 kernel
 kt
 kU
@@ -9679,6 +9697,8 @@ rules
 running
 reemplazar
 resultan
+recite
+ruedas
 operacion
 orden
 operaciones
@@ -10800,6 +10820,8 @@ valuable
 various
 visions
 validate
+vendria
+vertebral
 Application
 API
 Asigna
@@ -11201,6 +11223,7 @@ Arriba
 Activity
 Actividad
 Activities
+Actividades
 Programming
 Procesos
 Partes
@@ -11642,6 +11665,7 @@ Past
 Plan
 PMP
 Prioridades
+Patton
 Interface
 ID
 Instructions
@@ -12900,6 +12924,9 @@ managing
 message
 marcados
 magnitud
+maps
+motor
+modular
 tien
 tiene
 todos
@@ -13422,6 +13449,7 @@ tirado
 trunk
 twigs
 tell
+teaching
 inico
 interna
 infro
@@ -14528,6 +14556,7 @@ formed
 finally
 flat
 foolish
+fact
 Nombre
 Notas
 Not
@@ -20068,6 +20097,7 @@ JBqLu
 Join
 Journey
 Judgment
+Jeff
 Quienes
 Queue
 Quiere

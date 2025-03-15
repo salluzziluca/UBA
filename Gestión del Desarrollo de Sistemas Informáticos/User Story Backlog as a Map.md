@@ -1,6 +1,9 @@
 ---
 Dia: 2025-03-15
 dg-publish: true
+aliases:
+  - User Story Map
+  - user story map
 ---
 ## Flat User Story Backlog dont work
 Se hace un gran laburo para entender lo que el cliente quiere. Al final todo eso que aprendemos queda tirado a la basura porque lo minimizamos para quedarnos solo con la punta del iceberg que son las user stories
@@ -22,14 +25,17 @@ Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activ
 > when arranging stories in the map, if a person using the system typically does one thing after another, then I’ll put the early thing on the left, and the later thing on the right.
 
 
->[!info] When teaching this, people often tell me “the users can perform these in any order. What order should I put them in?” I’ll ask them to “explain to me what the system does at a high level – just tell me the activities.” They then recite them to me. “That’s the order” I say. In fact, the order you’d explain the behavior of the system in is the correct order. We’re building a map that lets us tell a really big story about the system. Build the map in a way that helps you tell the story.
+>[!info] When teaching this, people often tell me “the users can perform these in any order. What order should I put them in?” I’ll ask them to “explain to me what the system does at a high level – just tell me the [[Actiivity|activities]].” They then recite them to me. “That’s the order” I say. In fact, the order you’d explain the behavior of the system in is the correct order. We’re building a map that lets us tell a really big story about the system. Build the map in a way that helps you tell the story.
 
 
-Jeff Patton recomienda dejar de usar al palabra Epics para las activities porque la gente tiene a descartar las epicas una vez que las diviide en user stories. Y en eso se pierde contexto. Buscamos lo contrario.
+Jeff Patton recomienda dejar de usar al palabra Epics para las [[Actiivity|activities]] porque la gente tiene a descartar las epicas una vez que las diviide en user stories. Y en eso se pierde contexto. Buscamos lo contrario.
 
 Ahora que lo tenemos armado es muy facil entender lo grande Y lo chico.
 
-La fila de Actividades vendria a ser como la columna vertebral de nuestro software. No se prioriza eso (seria como priorizar hacer el motor, las ruedas o el chasis de un auto) se priorizan sus subtareas (quiero ruedas de caucho de 18 o 19 pulgadas?, quiero un chasis modular o fijo?). las tasks nos permiten llegar al MVP, las activities SON el producto.
+La fila de Actividades vendria a ser como la columna vertebral de nuestro software. No se prioriza eso (seria como priorizar hacer el motor, las ruedas o el chasis de un auto) se priorizan sus subtareas (quiero ruedas de caucho de 18 o 19 pulgadas?, quiero un chasis modular o fijo?). las [[Task|tasks]] nos permiten llegar al [[Minium Viable Product|MVP]], las [[Actiivity|activities]] SON el producto.
 
 >[!note]  prioritize their characteristics that matters
 
+
+
+lo unico malo es que se complica agregar [[Feature|features]]. Para esos casos se puede directamente armar un nuevo map chikito solo con esa [[feature]] y listo.

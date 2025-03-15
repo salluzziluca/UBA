@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Redes de Flujo",
-      "path": "Teoría de Algoritmos/Redes de Flujo.md"
-    },
-    {
       "basename": "Product Discovery",
       "path": "Ingeneniería del Software I/Product Discovery.md"
+    },
+    {
+      "basename": "Programación Dinámica",
+      "path": "Teoría de Algoritmos/Programación Dinámica.md"
+    },
+    {
+      "basename": "Redes de Flujo",
+      "path": "Teoría de Algoritmos/Redes de Flujo.md"
     },
     {
       "basename": "Earliest testable-usable-lovable product",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Modelos de consistencia",
-      "path": "Base de Datos/Modelos de consistencia.md"
     }
   ],
   "omittedPaths": [],

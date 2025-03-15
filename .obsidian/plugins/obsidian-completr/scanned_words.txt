@@ -2298,6 +2298,7 @@ done
 desarollar
 discutiendo
 duration
+describing
 gestion
 gran
 guarda
@@ -2623,6 +2624,7 @@ gestionamos
 gather
 going
 groups
+goals
 especifico
 entra
 en
@@ -3342,6 +3344,7 @@ encargado
 everything
 end
 easily
+effectively
 servicios
 son
 su
@@ -4005,6 +4008,7 @@ statement
 sentence
 senseless
 step
+specific
 par
 por
 punto
@@ -4806,6 +4810,7 @@ policia
 project
 people
 previous
+point
 la
 las
 le
@@ -6015,6 +6020,8 @@ about
 ask
 after
 altering
+also
+aim
 hardware
 heap
 hay
@@ -6358,6 +6365,7 @@ home
 how
 habilidades
 had
+her
 que
 queda
 quien
@@ -9007,6 +9015,11 @@ reasons
 removing
 result
 resulting
+represent
+represents
+role
+realistic
+representation
 operacion
 orden
 operaciones
@@ -9376,6 +9389,7 @@ observa
 ocurri
 ocmo
 our
+only
 nombre
 nuevo
 nica
@@ -9701,6 +9715,7 @@ normalmente
 negociados
 nxnxn
 necessary
+needs
 via
 vuelve
 viven
@@ -10067,6 +10082,7 @@ viceversa
 vayamos
 very
 vision
+view
 Application
 API
 Asigna
@@ -12550,6 +12566,8 @@ two
 than
 they
 third
+their
+those
 inico
 interna
 infro
@@ -13124,6 +13142,8 @@ ingenier
 inception
 involved
 inceptions
+identify
+interact
 fijo
 file
 fork
@@ -13554,6 +13574,8 @@ four
 fit
 flipchart
 fill
+functionality
+focus
 Nombre
 Notas
 Not
@@ -16322,6 +16344,8 @@ weeks
 whose
 whiteboard
 whole
+want
+who
 VA
 VIEW
 Volumen

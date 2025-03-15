@@ -18,4 +18,4 @@ The new inception style is lean for two reasons:
 
 
 ## Por que? Que beneficios tiene? 
-Lo importante del [[Minium Viable Product|MVP]] es que te permite construir algo rapido para despues iterar sobre eso y ver con que quedarte. Por lo que poder definir uno sin tardar m
+Lo importante del [[Minium Viable Product|MVP]] es que te permite construir algo rapido para despues iterar sobre eso y ver con que quedarte y que descartar. Por lo que poder definir uno sin tardar mucho y ya arrancar con la implementación es muy util.

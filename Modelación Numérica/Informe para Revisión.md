@@ -100,6 +100,6 @@ Explicacion menos detallada pero igualmente concordante.
 
 
 # Conclusion 
-Tras revisar los resultados, puedo confirmar que la resolución que presenté es correcta y concuerda con los resultados esperados. Es por esto que no entiendo la discrepancia en la calificación.
+Tras revisar los resultados, considero que se puede apreciar la concordancia entre ambas resoluciones. Es por esto que no entiendo la calificación asignada.
 
 Agradezco su tiempo y quedo a su disposición para cualquier aclaración adicional.

@@ -45,3 +45,6 @@ La fila de Actividades vendria a ser como la columna vertebral de nuestro softwa
 
 
 lo unico malo es que se complica agregar [[Feature|features]]. Para esos casos se puede directamente armar un nuevo map chikito solo con esa [[feature]] y listo.
+
+
+>[!important]  NO hace falta completar todo el mapa, podemos y esta buenoi dejar cosas en blanco

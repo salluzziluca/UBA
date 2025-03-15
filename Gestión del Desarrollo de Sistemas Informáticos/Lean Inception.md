@@ -6,4 +6,4 @@ dg-publish: true
 > Paul Caroli
 
 
-Fue creado para llegar a un acuerdo de cual deberia ser el MVP y asegurarse de que 
+Fue creado para llegar a un acuerdo de cual deberia ser el MVP y asegurarse de que el equipo arranque a desarollar todos en la misma pagina y con un buen plan sin estar 5 meses discutiendo.

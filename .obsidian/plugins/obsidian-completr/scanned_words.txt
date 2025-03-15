@@ -1576,6 +1576,18 @@ cruces
 continuidad
 complementario
 cifras
+correctas
+conocimiento
+cientificos
+cuestionarse
+ciberfisicos
+cambiante
+contradictorios
+contrastar
+controlados
+construccion
+charlando
+charlados
 de
 dispositivos
 del
@@ -2271,6 +2283,9 @@ dataframes
 determinist
 definci
 dej
+descubriendo
+defender
+digitos
 gestion
 gran
 guarda
@@ -2591,6 +2606,8 @@ grace
 gustaria
 grago
 gitos
+giles
+gestionamos
 especifico
 entra
 en
@@ -3303,6 +3320,10 @@ esima
 embocar
 enunciado
 excluyentes
+exponer
+enfoque
+evidencia
+encargado
 servicios
 son
 su
@@ -3952,6 +3973,8 @@ sobraba
 sobrando
 salgan
 sucesi
+surja
+sitemas
 par
 por
 punto
@@ -4740,6 +4763,16 @@ probabilidades
 perteneciente
 pertenecientes
 pienso
+profesionales
+pautas
+planifica
+progreso
+parecemos
+puente
+produccion
+practicos
+predominante
+policia
 la
 las
 le
@@ -5173,6 +5206,7 @@ llevarlo
 lla
 leq
 libros
+legacy
 agnosticos
 apps
 al
@@ -5928,6 +5962,16 @@ apuntes
 agregarle
 arroja
 anagrama
+aprobaci
+aprneder
+aserie
+ahcer
+alograr
+asistencia
+autos
+apliaci
+aprendiendo
+aprendemos
 hardware
 heap
 hay
@@ -6269,6 +6313,7 @@ hooras
 hojas
 home
 how
+habilidades
 que
 queda
 quien
@@ -7214,6 +7259,7 @@ ServiciosPlanes
 Sabemos
 Sabiendo
 Satisficibilidad
+Situaciones
 Calls
 Cmabia
 CPU
@@ -7696,6 +7742,9 @@ Comparamos
 Comparo
 Ccada
 Combinaciones
+Contenidos
+Compresion
+Cuestionar
 Es
 El
 Estos
@@ -8903,6 +8952,7 @@ restante
 reducirse
 residuales
 repo
+replanificar
 operacion
 orden
 operaciones
@@ -9270,6 +9320,7 @@ outer
 observaci
 observa
 ocurri
+ocmo
 nombre
 nuevo
 nica
@@ -9592,6 +9643,8 @@ net
 neceista
 numericos
 normalmente
+negociados
+nxnxn
 via
 vuelve
 viven
@@ -9955,6 +10008,7 @@ vacaiones
 viernes
 visitor
 viceversa
+vayamos
 Application
 API
 Asigna
@@ -10330,6 +10384,9 @@ Arboles
 Apila
 Aleatorios
 Axioma
+Asumir
+Aprender
+Aprobacion
 Programming
 Procesos
 Partes
@@ -10752,6 +10809,10 @@ POLINOMILAMENTE
 Partimos
 Permutaciones
 Probabilidad
+Parcialitos
+Planificar
+Potentially
+PBI
 Interface
 ID
 Instructions
@@ -11093,6 +11154,9 @@ Inserccion
 Ingenier
 Inform
 Innier
+Importancia
+Items
+Increment
 Un
 UNIX
 UBA
@@ -11936,6 +12000,11 @@ modelar
 materiales
 mergea
 mutualmente
+multiple
+mecanica
+maleable
+mirada
+mejoria
 tien
 tiene
 todos
@@ -12410,6 +12479,8 @@ triangulo
 traslada
 transporte
 teniamos
+textos
+tasks
 inico
 interna
 infro
@@ -12977,6 +13048,10 @@ interpreter
 interrumpo
 independen
 indistinguibles
+inquieteuddes
+invertida
+ingenerias
+ingenier
 fijo
 file
 fork
@@ -13397,6 +13472,7 @@ finales
 formarse
 fuesen
 familia
+facilitador
 Nombre
 Notas
 Not
@@ -14012,6 +14088,7 @@ Formula
 Finitas
 Fuentes
 Formamos
+Farley
 Descriptors
 Descriptor
 Devuelve
@@ -14412,6 +14489,10 @@ Discretizacion
 Dominating
 Determin
 Definiciones
+Desarollo
+Despertar
+David
+Diferencia
 Memoria
 Multivariada
 MORE
@@ -14786,6 +14867,7 @@ Merge
 Medio
 Matching
 Maximizo
+Medir
 Table
 Todos
 This
@@ -15478,7 +15560,8 @@ Recorrido
 Repetimos
 Redujimos
 Resolver
-Resolucion
+Recuperacion
+Releasable
 bien
 by
 be
@@ -15883,6 +15966,7 @@ bucles
 bolas
 bolitas
 bolillas
+blandas
 will
 words
 with
@@ -17639,6 +17723,7 @@ Greedy
 Guardamos
 Gracias
 Grace
+Gestionados
 BX
 Bit
 Box
@@ -17982,6 +18067,7 @@ Brasil
 Buscoo
 Bipartite
 Busquedas
+Backlog
 XY
 Xg
 XQG

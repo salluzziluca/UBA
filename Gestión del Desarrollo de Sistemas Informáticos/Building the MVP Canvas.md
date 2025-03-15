@@ -23,4 +23,8 @@ We populate the MVP canvas answering a few questions. The results and discussion
 
 basicamente y en criollo 
 1. que queremos lograr en este mvp?
-2. 
+2. a que personas va a involucrar/afectar este mvp
+3. que journeys van a ser mejoradas por este mvp?
+4. revisar las features de este mvp 
+5. que aprendizaje o resultado queremos obtener?
+6. que metricas o validiaciones nos van a 

@@ -1691,6 +1691,8 @@ clarify
 configuring
 consultant
 colleagues
+corporaci
+cnicos
 de
 dispositivos
 del
@@ -2450,6 +2452,13 @@ doesn
 decisions
 dont
 denominan
+desean
+detectaremos
+dinero
+desarrollamos
+diferencial
+detecten
+discutidos
 gestion
 gran
 guarda
@@ -2794,6 +2803,7 @@ gets
 given
 grasp
 green
+ganar
 especifico
 entra
 en
@@ -4317,6 +4327,8 @@ servers
 setting
 send
 smap
+sugiriendo
+sostenidas
 par
 por
 punto
@@ -5196,6 +5208,10 @@ parts
 perderse
 picture
 podrian
+priorizando
+prioridades
+piensan
+priorizaci
 la
 las
 le
@@ -6510,6 +6526,7 @@ avoids
 aspect
 areas
 actividad
+aprend
 hardware
 heap
 hay
@@ -8789,6 +8806,7 @@ Each
 Everyone
 Effort
 Explain
+Estimaci
 kernel
 kt
 kU
@@ -9659,6 +9677,8 @@ responsibility
 refinery
 rules
 running
+reemplazar
+resultan
 operacion
 orden
 operaciones
@@ -10062,6 +10082,7 @@ official
 options
 onto
 office
+obtendr
 nombre
 nuevo
 nica
@@ -10401,6 +10422,8 @@ noted
 norm
 numbered
 never
+nuestros
+negocios
 via
 vuelve
 viven
@@ -11618,6 +11641,7 @@ Procedures
 Past
 Plan
 PMP
+Prioridades
 Interface
 ID
 Instructions
@@ -12874,6 +12898,8 @@ major
 mulch
 managing
 message
+marcados
+magnitud
 tien
 tiene
 todos
@@ -14033,6 +14059,9 @@ increemnts
 isn
 iceberg
 iterations
+inicialmente
+indispensables
+ingresos
 fijo
 file
 fork
@@ -14763,6 +14792,7 @@ Ningun
 Name
 Now
 Note
+Negocio
 File
 For
 Funcion
@@ -17101,6 +17131,7 @@ being
 built
 branches
 bag
+bor
 will
 words
 with
@@ -20319,6 +20350,7 @@ Queremos
 Quicksort
 QUEEEEEE
 Quieren
+Qui
 ximo
 xito
 xitos

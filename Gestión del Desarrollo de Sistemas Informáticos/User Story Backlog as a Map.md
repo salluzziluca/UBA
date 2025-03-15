@@ -19,4 +19,5 @@ Es muy facil perderse y nunca lograr ver la big picture.
 Arriba de todo estan las "big stories", llamadas actividades o [[Actiivity|activities]]. Una [[Actiivity|actividad]] es parte en diferentes stories. Si tengo por ejemplo la [[Actiivity|actividad]]: "managing email". Otras stories podrian ser: "send message", "read message", "delete message", "mark message as smap." Estas se denominan [[Task|tasks]].
 
 >[!important] I simply arrange the small things under the big things in a bit of a grid form.
+> when arranging stories in the map, if a person using the system typically does one thing after another, then I’ll put the early thing on the left, and the later thing on the right.
 

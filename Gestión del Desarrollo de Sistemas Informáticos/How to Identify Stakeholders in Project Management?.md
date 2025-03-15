@@ -27,3 +27,56 @@ Es critico porque:
 
 
 ## Documentation and Tools Required to Identify Stakeholders
+
+### Project Charter
+
+A [project charter](https://pmstudycircle.com/project-charter/) names the project manager and officially starts the project. This document also contains other high-level information (e.g., the names of the project manager, client, sponsor, and other influential stakeholders). The names of the key stakeholders are in the project charter.
+
+### Contract Documents
+
+Review the contract documents carefully if you get the project through a contract. The contract agreement can provide the names of suppliers, local agents, and contacts on the client’s side.
+
+### OPA and EEF
+
+Reviewing the [enterprise environmental factors and organizational process assets](https://pmstudycircle.com/enterprise-environmental-factors-organizational-process-assets/) can reveal many stakeholders. The stakeholder register and lessons-learned documents from past projects can help you find more. Furthermore, reviewing governmental regulations and industry standards can help you find more stakeholders for your project.
+
+### Expert Interviews
+
+You should use this technique with experts only. You can gain a great deal of information this way. Try to ask open-ended questions during the interview, and consider keeping one team member with you to record the information.
+
+### Brainstorming Sessions
+
+[Brainstorming is a useful technique](https://pmstudycircle.com/brainstorming-session/) for collecting information and identifying stakeholders for your project. You can brainstorm with your team members and experts.
+
+Try to find the answers to the following questions during the brainstorming session:
+
+- Who is directly or indirectly involved with the project?
+- Who may be affected by the project?
+- Who stands to gain or lose something with the project?
+- Who wants to complete the project successfully?
+- Who are the suppliers?
+- Who will use the project deliverables?
+- Who are the competitors?
+- Who are the shareholders?
+- Who has authority over the project and its outcome?
+- Who has the authority to provide support?
+- Who can cause your project to fail?
+
+Stakeholder identification is a continuous task; you must keep looking for them throughout the project life cycle.
+
+As the project progresses, you may find that new stakeholders come on board, and a few of your old ones may lose interest in your project. Power and interest may change, so keep tabs on stakeholders’ attributes.
+
+You will record the stakeholder information in the stakeholder register.
+
+At a minimum, the register will have the following data:
+
+- Name
+- Title
+- Interest
+- Power
+- Requirements
+- Expectations
+
+## Summary
+
+Identifying stakeholders is an iterative process. You should repeat it throughout the project’s life cycle, ensuring that you don’t omit any stakeholders because the success of your project depends on their satisfaction.

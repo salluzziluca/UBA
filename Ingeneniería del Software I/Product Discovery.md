@@ -41,6 +41,13 @@ Es por esto que tambien deben desarrollar y llevar a cabo la venta. Utilizando [
 
 ![[Lean Canvas]]
 
+![[Persona]]
+
+### ¿Qué nos quita el sueño?
+
+Siempre que un nuevo proyecto está por comenzar, existe un conjunto de incertidumbres o, dicho de otro modo, de riesgos que podrían hacer que el proyecto fracase. Es necesario que estos sean identificados cuanto antes. Esta actividad es breve (se puede hacer en 15/20 minutos) y permite que todos los involucrados hagan explícitos dichos riesgos, discutiéndose el potencial impacto de cada uno de ellos. El resultado de esta actividad será de gran ayuda en la priorización que deberá establecerse en el futuro, cuando se realice el planeamiento.
+
+¿Cómo es la dinámica de la actividad? Básicamente, se trabaja sobre un papel de gran tamaño y _post-its_ que son entregados a todos los participantes. Durante 5’ cada integrante del equipo pensará y escribirá riesgos (cada riesgo en un _post-it_), pegándolos en el papel. Al finalizar este periodo, se leerán los riesgos que los integrantes del equipo han pensado y se discutirá la gravedad de cada uno de ellos, evaluándose cómo pueden ser mitigados.
 ### Mapa de empatia (empathy map)
 ![[Pasted image 20240902200029.png]]
 

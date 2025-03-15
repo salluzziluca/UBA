@@ -7,3 +7,6 @@ dg-publish: true
 
 
 Fue creado para llegar a un acuerdo de cual deberia ser el MVP y asegurarse de que el equipo arranque a desarollar todos en la misma pagina y con un buen plan sin estar 5 meses discutiendo.
+
+
+>[!quote] And I was very satisfied facilitating these agile inceptions this way until 2011, the year my son was born. The thing is, I was the inception facilitator, but the inception would take from two to four weeks. And I could not stay away from home for more than a week. I had to make the inceptions leaner, somehow make them fit in one week.

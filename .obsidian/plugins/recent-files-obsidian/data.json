@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasaje del modelo conceptual al modelo relacional",
+      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
+    },
+    {
+      "basename": "Modelo Entidad-Interrelación Avanzado",
+      "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
+    },
+    {
+      "basename": "Modelo Logico-Relacional Conceptual",
+      "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
+    },
+    {
+      "basename": "Modelo Entidad-Interrelacion",
+      "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
+    },
+    {
       "basename": "User Story Backlog as a Map",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
+    },
+    {
+      "basename": "Lean Inception",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
+    },
+    {
+      "basename": "Technical, User eXperience and Business Review",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
+    },
+    {
+      "basename": "Discover the Features",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Discover the Features.md"
+    },
+    {
+      "basename": "Describe the Personas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
+    },
+    {
+      "basename": "The product Is – Is not – Does – Does not",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/The product Is – Is not – Does – Does not.md"
+    },
+    {
+      "basename": "Write the Product Vision",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
+    },
+    {
+      "basename": "Lean Canvas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "Cursos/GTD.md"
     },
     {
       "basename": "Experimentos de Usabilidad",
@@ -25,20 +73,8 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/User Journey.md"
     },
     {
-      "basename": "Write the Product Vision",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
-    },
-    {
-      "basename": "Lean Inception",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
-    },
-    {
       "basename": "Building the MVP Canvas",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
-    },
-    {
-      "basename": "Lean Canvas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
     },
     {
       "basename": "Lean Sales Up",
@@ -63,14 +99,6 @@
     {
       "basename": "Actiivity",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
-    },
-    {
-      "basename": "The product Is – Is not – Does – Does not",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/The product Is – Is not – Does – Does not.md"
-    },
-    {
-      "basename": "Technical, User eXperience and Business Review",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
     },
     {
       "basename": "Stakeholder",
@@ -125,14 +153,6 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
     },
     {
-      "basename": "Discover the Features",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Discover the Features.md"
-    },
-    {
-      "basename": "Describe the Personas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
       "basename": "Definition of Done (DOD)",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "4.1 SOLID",
       "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Cursos/Agile and Scrum/Kanban.md"
-    },
-    {
-      "basename": "Extreme Programming (XP)",
-      "path": "Cursos/Agile and Scrum/Extreme Programming (XP).md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "Cursos/Agile and Scrum/Scrum.md"
-    },
-    {
-      "basename": "Sociedad y Estado",
-      "path": "CBC/Sociedad y Estado.md"
-    },
-    {
-      "basename": "Analísis Matemático I",
-      "path": "CBC/Analísis Matemático I.md"
     }
   ],
   "omittedPaths": [],

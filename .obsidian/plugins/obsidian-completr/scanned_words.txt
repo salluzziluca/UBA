@@ -1700,6 +1700,10 @@ caucho
 comprarla
 cobrar
 competidores
+capture
+choose
+cook
+check
 de
 dispositivos
 del
@@ -2467,6 +2471,7 @@ diferencial
 detecten
 discutidos
 diviide
+dinner
 gestion
 gran
 guarda
@@ -2813,6 +2818,8 @@ grasp
 green
 ganar
 grid
+getting
+garbage
 especifico
 entra
 en
@@ -3590,6 +3597,7 @@ explain
 enough
 epicas
 enfrentan
+engage
 servicios
 son
 su
@@ -4342,6 +4350,9 @@ sugiriendo
 sostenidas
 storie
 subtareas
+stabilize
+stuff
+sink
 par
 por
 punto
@@ -5229,6 +5240,8 @@ priorizan
 pulgadas
 propuesto
 pena
+purely
+pan
 la
 las
 le
@@ -5695,6 +5708,7 @@ laburo
 like
 leaves
 lets
+looks
 agnosticos
 apps
 al
@@ -6552,6 +6566,13 @@ armado
 auto
 actualidad
 atractivo
+abru
+ador
+arbitrary
+anytime
+along
+ahorros
+ahorrar
 hardware
 heap
 hay
@@ -6916,6 +6937,7 @@ highly
 hundreds
 himself
 head
+horizonte
 que
 queda
 quien
@@ -7515,6 +7537,7 @@ unified
 updated
 unbalanced
 usarla
+utensils
 System
 Son
 Source
@@ -9051,6 +9074,7 @@ keeping
 knowledge
 known
 keeps
+kitchen
 realicen
 resolve
 recommend
@@ -9710,6 +9734,10 @@ resultan
 recite
 ruedas
 resuelven
+reflect
+refrigerator
+recipe
+reducida
 operacion
 orden
 operaciones
@@ -11679,6 +11707,7 @@ Plan
 PMP
 Prioridades
 Patton
+Pasos
 Interface
 ID
 Instructions
@@ -12941,6 +12970,8 @@ maps
 motor
 modular
 mensaje
+mess
+melting
 tien
 tiene
 todos
@@ -13464,6 +13495,8 @@ trunk
 twigs
 tell
 teaching
+theoretical
+throw
 inico
 interna
 infro
@@ -14105,6 +14138,9 @@ inicialmente
 indispensables
 ingresos
 iremos
+intetnar
+imaginar
+ingredients
 fijo
 file
 fork
@@ -17177,6 +17213,10 @@ built
 branches
 bag
 bor
+belong
+butter
+buenoi
+blanco
 will
 words
 with

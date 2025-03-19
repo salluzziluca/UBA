@@ -1,36 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "1.3 Conteo",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.3 Conteo.md"
+      "basename": "Pasaje del modelo conceptual al modelo relacional",
+      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
     },
     {
-      "basename": "Building the MVP Canvas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
+      "basename": "Modelo Entidad-Interrelación Avanzado",
+      "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
     },
     {
-      "basename": "Sequence The Features",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
+      "basename": "Modelo Logico-Relacional Conceptual",
+      "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
     },
     {
-      "basename": "Display Features in Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
+      "basename": "Modelo Entidad-Interrelacion",
+      "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
     },
     {
-      "basename": "Show the User Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
+      "basename": "User Story Backlog as a Map",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
+    },
+    {
+      "basename": "Lean Inception",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
     },
     {
       "basename": "Technical, User eXperience and Business Review",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
-    },
-    {
-      "basename": "User Journey",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Journey.md"
-    },
-    {
-      "basename": "Feature",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Feature.md"
     },
     {
       "basename": "Discover the Features",
@@ -41,10 +37,6 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
     },
     {
-      "basename": "Persona",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
-    },
-    {
       "basename": "The product Is – Is not – Does – Does not",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/The product Is – Is not – Does – Does not.md"
     },
@@ -53,8 +45,116 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
     },
     {
-      "basename": "Lean Inception",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
+      "basename": "Lean Canvas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "Cursos/GTD.md"
+    },
+    {
+      "basename": "Experimentos de Usabilidad",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Experimentos de Usabilidad.md"
+    },
+    {
+      "basename": "Product Discovery",
+      "path": "Ingeneniería del Software I/Product Discovery.md"
+    },
+    {
+      "basename": "Persona",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
+    },
+    {
+      "basename": "Elevator Pitch",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Elevator Pitch.md"
+    },
+    {
+      "basename": "User Journey",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Journey.md"
+    },
+    {
+      "basename": "Building the MVP Canvas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
+    },
+    {
+      "basename": "Lean Sales Up",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Sales Up.md"
+    },
+    {
+      "basename": "Programación Dinámica",
+      "path": "Teoría de Algoritmos/Programación Dinámica.md"
+    },
+    {
+      "basename": "Redes de Flujo",
+      "path": "Teoría de Algoritmos/Redes de Flujo.md"
+    },
+    {
+      "basename": "Earliest testable-usable-lovable product",
+      "path": "Earliest testable-usable-lovable product.md"
+    },
+    {
+      "basename": "Task",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Task.md"
+    },
+    {
+      "basename": "Actiivity",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
+    },
+    {
+      "basename": "Stakeholder",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Stakeholder.md"
+    },
+    {
+      "basename": "Software Legacy",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
+    },
+    {
+      "basename": "Show the User Journeys",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
+    },
+    {
+      "basename": "Sequence The Features",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
+    },
+    {
+      "basename": "Project Charter",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Project Charter.md"
+    },
+    {
+      "basename": "Product Backlog Item",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
+    },
+    {
+      "basename": "Metodologias, la mirada Agil",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
+    },
+    {
+      "basename": "Introducción",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Introducción.md"
+    },
+    {
+      "basename": "How to Identify Stakeholders in Project Management?",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/How to Identify Stakeholders in Project Management?.md"
+    },
+    {
+      "basename": "Gestión del Desarrollo de Sistemas Informáticos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión del Desarrollo de Sistemas Informáticos.md"
+    },
+    {
+      "basename": "Feature",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Feature.md"
+    },
+    {
+      "basename": "Enterprise Environmental Factors  y Organizational Process Assets",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Enterprise Environmental Factors  y Organizational Process Assets.md"
+    },
+    {
+      "basename": "Display Features in Journeys",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
+    },
+    {
+      "basename": "Definition of Done (DOD)",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
     },
     {
       "basename": "Minium Viable Product",
@@ -71,6 +171,10 @@
     {
       "basename": "División y Conquista",
       "path": "Teoría de Algoritmos/División y Conquista.md"
+    },
+    {
+      "basename": "1.3 Conteo",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.3 Conteo.md"
     },
     {
       "basename": "1.2 Álgebra de Eventos",
@@ -91,94 +195,6 @@
     {
       "basename": "4.1 SOLID",
       "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
-    },
-    {
-      "basename": "Metodologias, la mirada Agil",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Cursos/Agile and Scrum/Kanban.md"
-    },
-    {
-      "basename": "Extreme Programming (XP)",
-      "path": "Cursos/Agile and Scrum/Extreme Programming (XP).md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "Cursos/Agile and Scrum/Scrum.md"
-    },
-    {
-      "basename": "Product Backlog Item",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
-    },
-    {
-      "basename": "Definition of Done (DOD)",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
-    },
-    {
-      "basename": "Introducción",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Introducción.md"
-    },
-    {
-      "basename": "Software Legacy",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
-    },
-    {
-      "basename": "Sociedad y Estado",
-      "path": "CBC/Sociedad y Estado.md"
-    },
-    {
-      "basename": "Analísis Matemático I",
-      "path": "CBC/Analísis Matemático I.md"
-    },
-    {
-      "basename": "2.2 Pandas avanzado",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
-    },
-    {
-      "basename": "2.0 Análisis Exploratorio de Datos",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Modelos de consistencia",
-      "path": "Base de Datos/Modelos de consistencia.md"
-    },
-    {
-      "basename": "Álgebra I",
-      "path": "CBC/Álgebra I.md"
-    },
-    {
-      "basename": "Bases de Datos Wide Collum",
-      "path": "Base de Datos/Bases de Datos Wide Collum.md"
-    },
-    {
-      "basename": "Fisica",
-      "path": "CBC/Fisica.md"
-    },
-    {
-      "basename": "IPC",
-      "path": "CBC/IPC.md"
-    },
-    {
-      "basename": "Quimica",
-      "path": "CBC/Quimica.md"
-    },
-    {
-      "basename": "Gestión del Desarrollo de Sistemas Informáticos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión del Desarrollo de Sistemas Informáticos.md"
-    },
-    {
-      "basename": "Empresas de Base Tecnologica I",
-      "path": "Empresas de Base Tecnológica I/Empresas de Base Tecnologica I.md"
     }
   ],
   "omittedPaths": [],

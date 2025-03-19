@@ -122,7 +122,8 @@ hablar mucho mas de lo que dice la diapo
 Elegir colores y cuidar contrastes 
 cuidado con las distracciones visuales 
 
-### Pizar
+### Pizarra
+
 
 exposicion en Viv
 

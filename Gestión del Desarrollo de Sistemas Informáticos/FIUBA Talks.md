@@ -26,7 +26,11 @@ top: explicar el tema
 secundarios: causar buen impresion,  mostrar credibilidad, concientizar, ....., 
 
 
-## Anilzar
+### Analizar el Auditorio
+Afecta el contenido para incluir, evitar y enfatizar 
+
+Para quien hablamos??
+
 
 Etapas de la charla y que incluir 
 

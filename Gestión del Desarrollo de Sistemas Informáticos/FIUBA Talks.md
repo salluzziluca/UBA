@@ -133,7 +133,13 @@ Distrae por el ida y vuelta, perder contacto visual, etc.
 Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. Si se puede practicar ahi, mejor. Tener planes de contingencia.
 
 ## Exposición en Vivo
-### Capitalizar periodos de maxima atención 
+- Capitalizar periodos de maxima atención 
+- Mantener la atencion durante el desarrollo 
+
+- Reforzar en el cierre lo que se vino exponiendo
+
+- Como hablar?
+
 ![[Pasted image 20250319175728.png]]
 Ponele......
 
@@ -153,11 +159,6 @@ Si no se la respuesta, lo digo.
 Que a la gente le interese de lo que estamos hablando 
 
 
-### Mantener la atencion durante el desarrollo 
-
-### Reforzar en el cierre lo que se vino exponiendo
-
-### Como hablar?
 
 Sencillo, claro, ameno y preciso. 
 Tranquilidad y dominio. Volumen un poco mas alto de normal

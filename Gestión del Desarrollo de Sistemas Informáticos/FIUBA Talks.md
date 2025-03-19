@@ -133,3 +133,5 @@ Distrae por el ida y vuelta, perder contacto visual, etc.
 Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. Si se puede practicar ahi, mejor. Tener planes de contingencia.
 
 ## Exposición en Vivo
+### Capitalizar periodos de maxima atencion 
+ahi hay que aprovechar para mandar los mensajes mas importantes. 

@@ -34,7 +34,8 @@ Para quien hablamos??
 Puntos de apoyo como oyentes y observadores. Esta bueno trabajar con esa gente y trabajar haciendo cosas que mantengan la atencion. Que conocimiento o visition tienen sobre el tema? vamos a recibir feedback (implicito) al hablar??
 
 
-### Preparar un 
+### Preparar un plan preliminar 
+Primero en papel anotar ideas, mapa conceptual, todo lo que tenemos para decir, ver que deshechar. Cuando este todo mas claro podemos ir a la estructura de la computadora.
 
 Etapas de la charla y que incluir 
 

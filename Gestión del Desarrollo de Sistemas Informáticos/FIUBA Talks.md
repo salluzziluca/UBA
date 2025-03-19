@@ -45,7 +45,10 @@ Someter cada contenido a la pregunta del por qué:
 
 - Por que incluyo este contenido?
 - Por que lo surpimo?
-- 
+
+Se acota porque ==el tiempo no es ilimitado== 
+No hay que abrumar con mucho detalle, mejor dejar para aclarar luego 
+Podes inducir cosas para las pregu
 
 Etapas de la charla y que incluir 
 

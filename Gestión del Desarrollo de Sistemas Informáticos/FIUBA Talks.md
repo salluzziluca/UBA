@@ -120,10 +120,12 @@ poco texto
 graficos
 hablar mucho mas de lo que dice la diapo 
 Elegir colores y cuidar contrastes 
-cuidado con las distracciones visuales 
+cuidado con las distracciones visuales(imagenes en movimiento, videos)
 
 ### Pizarra
+Impresion de espontaneidad y dominio del tema. 
 
+Ayuda p
 
 exposicion en Viv
 

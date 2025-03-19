@@ -160,4 +160,11 @@ Que a la gente le interese de lo que estamos hablando
 ### Como hablar?
 
 Sencillo, claro, ameno y preciso. 
-T
+Tranquilidad y dominio. Volumen un poco mas alto de normal
+
+Introducir pausas en los cambios de tema 
+
+Poner enfasis en palabras o frases clave (con la voz o por repeticion)
+
+
+preferiblemente impersonal y 1era Persona plural: "Como vemos aqui"

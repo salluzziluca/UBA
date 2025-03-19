@@ -31,7 +31,10 @@ Afecta el contenido para incluir, evitar y enfatizar
 
 Para quien hablamos??
 #### Ayudas del auditorio
-Puntos de apoyo como oyentes y observadores. Esta bueno trabajar con esa gente y trabajar haciendo cosas que man
+Puntos de apoyo como oyentes y observadores. Esta bueno trabajar con esa gente y trabajar haciendo cosas que mantengan la atencion. Que conocimiento o visition tienen sobre el tema? vamos a recibir feedback (implicito) al hablar??
+
+
+### Preparar un 
 
 Etapas de la charla y que incluir 
 

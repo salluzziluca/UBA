@@ -72,8 +72,11 @@ Si alguien se traba salir al rescate.
 Preferentemente una sola. puede ser la misma que la introduccion.
 
 hay que intentar que la introduccion y el desarrollo sean claves.
-
+Resumir puntos claves, reforzar el mensaje 
+Usar declaracion poderosa, pregunta reflexiva o lamado a la accion. Algo que inspire a la audiencia.
 Usar palabras que llamen la atencion. "Resumiendo, finalizando". Eso hace que la gente preste atencion de repente.
+
+Dar lugar a preguntas y agradecimiento
 
 
 Uso de materiales de apoyo

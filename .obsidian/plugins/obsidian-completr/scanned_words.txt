@@ -2166,6 +2166,8 @@ criteria
 corresponding
 consensus
 clarify
+creates
+combine
 de
 dispositivos
 del
@@ -3058,6 +3060,8 @@ defines
 deliverable
 doesn
 decisions
+different
+descriptions
 gestion
 gran
 guarda
@@ -5378,6 +5382,7 @@ smTX
 saying
 specifically
 strategic
+share
 par
 por
 punto
@@ -6417,6 +6422,10 @@ positive
 participant
 putting
 participants
+pairs
+presents
+prioritize
+participate
 la
 las
 le
@@ -7943,6 +7952,8 @@ akrf
 asking
 aspect
 areas
+assumptions
+actively
 hardware
 heap
 hay
@@ -11260,6 +11271,7 @@ EAs
 EQv
 EWtN
 EKM
+Each
 kernel
 kt
 kU
@@ -11680,6 +11692,7 @@ kcl
 ksc
 kgO
 kEe
+knowledge
 realicen
 resolve
 recommend
@@ -12553,6 +12566,9 @@ rpI
 rGLq
 rtat
 rYGa
+reference
+repeat
+reviewing
 operacion
 orden
 operaciones
@@ -14171,6 +14187,7 @@ vhO
 vaS
 vfK
 vMk
+various
 Application
 API
 Asigna
@@ -17081,6 +17098,7 @@ mVA
 mWh
 mSHiV
 mDJH
+many
 tien
 tiene
 todos
@@ -17710,6 +17728,7 @@ tspu
 tSy
 tOP
 things
+triplets
 inico
 interna
 infro
@@ -27316,6 +27335,7 @@ Hrh
 HFl
 HFJ
 Hrx
+Hand
 Jacobiano
 Job
 Jusitfique

@@ -129,7 +129,8 @@ Ayuda para responder preguntas o aclarar cosas que no estan en la ppt.
 
 Distrae por el ida y vuelta, perder contacto visual, etc. 
 
-
+### Aula 
+Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. Si se puede practicar ahi, mejor. Tener planes de contingencia.
 
 exposicion en Viv
 

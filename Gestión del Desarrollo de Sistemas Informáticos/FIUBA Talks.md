@@ -51,7 +51,9 @@ No hay que abrumar con mucho detalle, mejor dejar para aclarar luego
 >[!tip] Se pueden dejar cosas para las preguntas finales. Se puede intentar inducir
 
 
-### Practicar
+### Practicar 
+Sirve para ganar confianza, timearse, que las palabras surjan espontaneamente. 
+Usar mejor los apoyos visuales (no leer y saber que viene algo)
 
 Etapas de la charla y que incluir 
 

@@ -117,7 +117,7 @@ Son solo un apoyo, no salva una mala presentación
 ### Diapositivas 
 Estilo uniforme 
 poco texto
-graficos
+ahí
 hablar mucho mas de lo que dice la diapo 
 Elegir colores y cuidar contrastes 
 cuidado con las distracciones visuales(imagenes en movimiento, videos)
@@ -133,7 +133,7 @@ Distrae por el ida y vuelta, perder contacto visual, etc.
 Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. Si se puede practicar ahi, mejor. Tener planes de contingencia.
 
 ## Exposición en Vivo
-### Capitalizar periodos de maxima atencion 
+### Capitalizar periodos de maxima atención 
 ahi hay que aprovechar para mandar los mensajes mas importantes. 
 
 ### Favorecer una cogida favorable 

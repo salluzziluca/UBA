@@ -78,6 +78,13 @@ Usar palabras que llamen la atencion. "Resumiendo, finalizando". Eso hace que la
 
 Dar lugar a preguntas y agradecimiento
 
+### Diapositivas 
+#### Caratula 
+Lo mas visual posible. Va a a quedar ahi hasta que arranque la clase. 
+Titulo, equipo, imagen que llame la atencion 
+
+#### Agenda
+
 
 Uso de materiales de apoyo
 

@@ -21,7 +21,12 @@ Conviene que el objetivo sea uno solo. No hay que mezclarlos porque se empiezan 
 
 NO hay que pensar "que voy a decir". Eso viene solo con el objetivo
 
-#### Niveles de o
+#### Niveles de objetivos 
+top: explicar el tema
+secundarios: causar buen impresion,  mostrar credibilidad, concientizar, ....., 
+
+
+## Anilzar
 
 Etapas de la charla y que incluir 
 

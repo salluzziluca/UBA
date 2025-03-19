@@ -17,7 +17,11 @@ dg-publish: true
 
 ### Establecer los objetivos 
 Para que hago la exposicio? (hay que ser realista)
-Conviene que el objetivo sea uno solo
+Conviene que el objetivo sea uno solo. No hay que mezclarlos porque se empiezan a pisar y no es claro. 
+
+NO hay que pensar "que voy a decir". Eso viene solo con el objetivo
+
+#### Niveles de o
 
 Etapas de la charla y que incluir 
 

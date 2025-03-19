@@ -1845,6 +1845,8 @@ captar
 cdotas
 conclusion
 cogida
+convertirla
+comienzan
 de
 dispositivos
 del
@@ -3798,6 +3800,8 @@ estad
 enfasis
 explicandolo
 exponiendo
+encuestas
+escribiendo
 servicios
 son
 su
@@ -4619,6 +4623,7 @@ sientasn
 salva
 sienta
 setear
+startups
 par
 por
 punto
@@ -5531,6 +5536,11 @@ periodos
 pausas
 preferiblemente
 plural
+pre
+prototipos
+probado
+pidos
+preoject
 la
 las
 le
@@ -7644,6 +7654,7 @@ qVS
 qXX
 qHiM
 qLh
+quedarte
 utilizados
 un
 una
@@ -8509,6 +8520,7 @@ Someter
 Solamente
 Sencillo
 Sincronizar
+Showcase
 Calls
 Cmabia
 CPU
@@ -9861,6 +9873,7 @@ kTOR
 kYQ
 ksrD
 ktx
+kick
 realicen
 resolve
 recommend
@@ -11054,6 +11067,7 @@ orh
 ozHt
 oyentes
 observadores
+off
 nombre
 nuevo
 nica
@@ -12336,6 +12350,7 @@ Ayudas
 Agenda
 Aula
 Actitudes
+Afternoon
 Programming
 Procesos
 Partes
@@ -13263,6 +13278,7 @@ Introduccion
 Incluir
 Impresion
 Introducir
+Introduce
 Un
 UNIX
 UBA
@@ -14282,6 +14298,7 @@ mala
 mandar
 muestro
 mirar
+manuales
 tien
 tiene
 todos
@@ -14819,6 +14836,7 @@ traba
 temas
 tomacorrientes
 tono
+thr
 inico
 interna
 infro
@@ -15509,6 +15527,7 @@ involucrado
 interese
 impersonal
 interrumpir
+interested
 fijo
 file
 fork
@@ -16789,6 +16808,7 @@ FHD
 FkEN
 FcH
 Favorecer
+Friday
 Descriptors
 Descriptor
 Devuelve
@@ -17713,6 +17733,9 @@ MCo
 MIEDO
 Mirar
 Movernse
+MPVs
+Morning
+Monday
 Table
 Todos
 This
@@ -18108,6 +18131,9 @@ TgU
 Titulo
 TODO
 Tranquilidad
+Timetable
+Tuesday
+Thursday
 Realiza
 REgistrys
 Rango
@@ -19050,6 +19076,7 @@ bzW
 bzWT
 beQ
 buenos
+baratos
 will
 words
 with
@@ -23780,6 +23807,7 @@ WOZ
 WUeo
 Wkk
 WxP
+Wednesday
 ZZZPU
 ZX
 ZQ

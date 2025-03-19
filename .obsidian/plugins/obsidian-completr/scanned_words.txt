@@ -1835,6 +1835,16 @@ cpf
 credibilidad
 concientizar
 confianza
+comodos
+cuidar
+contrastes
+contacto
+contingencia
+curiosidad
+captar
+cdotas
+conclusion
+cogida
 de
 dispositivos
 del
@@ -2621,6 +2631,9 @@ definidos
 dario
 declaracion
 duracion
+distraiga
+distracciones
+dela
 gestion
 gran
 guarda
@@ -3776,6 +3789,12 @@ enfatizar
 espejo
 espontaneamente
 estilo
+espontaneidad
+expectacion
+estad
+enfasis
+explicandolo
+exponiendo
 servicios
 son
 su
@@ -4593,6 +4612,10 @@ surpimo
 surjan
 silvia
 sueltas
+sientasn
+salva
+sienta
+setear
 par
 por
 punto
@@ -5497,6 +5520,14 @@ pedro
 pasandose
 preste
 poderosa
+perder
+ppt
+pizarron
+planes
+periodos
+pausas
+preferiblemente
+plural
 la
 las
 le
@@ -6006,6 +6037,7 @@ lzL
 llamen
 lamado
 llame
+luces
 agnosticos
 apps
 al
@@ -6848,6 +6880,10 @@ apoyos
 agradecimiento
 accion
 audiencia
+actividad
+analog
+ameno
+aqui
 hardware
 heap
 hay
@@ -7253,6 +7289,10 @@ hrN
 hQmlA
 hbH
 hablar
+hook
+humor
+hechos
+hablando
 que
 queda
 quien
@@ -8464,6 +8504,7 @@ Seleccionar
 SIN
 Someter
 Solamente
+Sencillo
 Calls
 Cmabia
 CPU
@@ -9017,6 +9058,7 @@ CIDToGIDMap
 Conviene
 Cierre
 Caratula
+Capitalizar
 Es
 El
 Estos
@@ -9519,6 +9561,8 @@ ESfp
 ETN
 EAn
 Enfocar
+Estilo
+Exposici
 kernel
 kt
 kU
@@ -10546,6 +10590,9 @@ realista
 rescate
 reforzar
 reflexiva
+rato
+repito
+repeticion
 operacion
 orden
 operaciones
@@ -11832,6 +11879,9 @@ visition
 visuales
 visual
 verbos
+videos
+voz
+vino
 Application
 API
 Asigna
@@ -12277,6 +12327,7 @@ Auditorio
 Afecta
 Ayudas
 Agenda
+Aula
 Programming
 Procesos
 Partes
@@ -12785,6 +12836,10 @@ Prepara
 Palabras
 Preparala
 PRACTICARLA
+Posibilidad
+Pizarra
+Ponele
+Poner
 Interface
 ID
 Instructions
@@ -13197,6 +13252,8 @@ IzW
 Iim
 Introduccion
 Incluir
+Impresion
+Introducir
 Un
 UNIX
 UBA
@@ -14212,6 +14269,9 @@ marcado
 maria
 mensaje
 mails
+mala
+mandar
+muestro
 tien
 tiene
 todos
@@ -14747,6 +14807,8 @@ tnE
 timearse
 traba
 temas
+tomacorrientes
+tono
 inico
 interna
 infro
@@ -15430,6 +15492,12 @@ inducir
 idas
 introduccion
 inspire
+interactiva
+imagenes
+ida
+involucrado
+interese
+impersonal
 fijo
 file
 fork
@@ -15919,6 +15987,10 @@ fMb
 frente
 finalizando
 frases
+figura
+figuras
+funcionar
+favorable
 Nombre
 Notas
 Not
@@ -16703,6 +16775,7 @@ FYF
 FHD
 FkEN
 FcH
+Favorecer
 Descriptors
 Descriptor
 Devuelve
@@ -17153,6 +17226,8 @@ DJE
 DFcc
 Diapositivas
 Demo
+Distrae
+Decir
 Memoria
 Multivariada
 MORE
@@ -18015,6 +18090,8 @@ Tji
 TOb
 TgU
 Titulo
+TODO
+Tranquilidad
 Realiza
 REgistrys
 Rango
@@ -18488,6 +18565,8 @@ RTz
 Reviso
 Resumiendo
 Resumir
+Recordar
+Reforzar
 bien
 by
 be
@@ -19608,6 +19687,7 @@ VpyV
 Vis
 VVP
 VOnT
+Vivo
 OPTIONS
 Operativos
 Orden

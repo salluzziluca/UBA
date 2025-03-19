@@ -2163,6 +2163,9 @@ ciCD
 cBR
 cIn
 criteria
+corresponding
+consensus
+clarify
 de
 dispositivos
 del
@@ -3053,6 +3056,8 @@ dpu
 dod
 defines
 deliverable
+doesn
+decisions
 gestion
 gran
 guarda
@@ -4431,6 +4436,9 @@ emo
 eLm
 epAH
 ensures
+easier
+explores
+explain
 servicios
 son
 su
@@ -5367,6 +5375,9 @@ sQh
 sRRu
 sgFK
 smTX
+saying
+specifically
+strategic
 par
 por
 punto
@@ -6402,6 +6413,10 @@ pAQ
 pbd
 pNs
 pKU
+positive
+participant
+putting
+participants
 la
 las
 le
@@ -7925,6 +7940,9 @@ agreguen
 aJG
 aGcS
 akrf
+asking
+aspect
+areas
 hardware
 heap
 hay
@@ -8440,6 +8458,7 @@ hQlkWdU
 hbs
 hoG
 hXZ
+helps
 que
 queda
 quien
@@ -8903,6 +8922,7 @@ qln
 qJT
 qDF
 quality
+quadrants
 utilizados
 un
 una
@@ -9975,6 +9995,7 @@ SVb
 StingerFit
 Sbm
 SCM
+Sometimes
 Calls
 Cmabia
 CPU
@@ -13066,6 +13087,7 @@ oRaor
 oJV
 oAm
 orientado
+onto
 nombre
 nuevo
 nica
@@ -13609,6 +13631,8 @@ nEQ
 nULp
 nIQz
 nrX
+negative
+never
 via
 vuelve
 viven
@@ -14677,6 +14701,8 @@ AGILE
 Alinear
 AAAAAA
 AdFQ
+Ask
+Afterwards
 Programming
 Procesos
 Partes
@@ -17683,6 +17709,7 @@ toO
 tspu
 tSy
 tOP
+things
 inico
 interna
 infro
@@ -18498,6 +18525,7 @@ iQW
 iRpi
 iEa
 increment
+isn
 fijo
 file
 fork
@@ -19078,6 +19106,7 @@ fnZI
 fJz
 fdQ
 fcQQ
+formed
 Nombre
 Notas
 Not
@@ -20614,6 +20643,7 @@ Dcm
 DTR
 DRTOz
 DoD
+Does
 Memoria
 Multivariada
 MORE
@@ -23332,6 +23362,8 @@ wGDyX
 wsG
 wFrtR
 wpz
+white
+well
 VA
 VIEW
 Volumen

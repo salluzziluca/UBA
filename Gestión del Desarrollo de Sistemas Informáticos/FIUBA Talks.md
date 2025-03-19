@@ -6,7 +6,13 @@ dg-publish: true
 ![[Pasted image 20250319170739.png]]
 
 - Establecer objetivos
--  
+- Analizar el auditorio 
+- Preparar el plan preliminar 
+- seleccionar contenido 
+- armar la presentación 
+- practicar 
+- 
+- iterar...... 
 
 Etapas de la charla y que incluir 
 

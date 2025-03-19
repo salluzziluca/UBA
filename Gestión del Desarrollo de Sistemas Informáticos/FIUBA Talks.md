@@ -100,8 +100,17 @@ Ojo con la PC y con los tiempos
 #### Cierre
 cierre Posibilidad de alguna actividad interactiva 
 Resumen
-Preguntas Una figura queda bien, pero que sea adecuada Recordar que tal vez quede un rato largo Que no distraiga Recordar: No perder el impacto
-Uso de materiales de apoyo
+Preguntas 
+Una figura queda bien, pero que sea adecuada Recordar que tal vez quede un rato largo Que no distraiga
+Recordar: No perder el impacto
+
+### Que NO incluir 
+Cosas con las que no se sientasn comodos 
+Puntos de vista con los que no esten de acuerdo 
+
+
+
+## Uso de materiales de apoyo
 
 exposicion en Viv
 

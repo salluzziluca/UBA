@@ -94,6 +94,8 @@ Palabras sueltas o frases cortas sin verbos
 
 #### Demo 
 Solamente si conviene. 
+Preparala bien. Incluir datos buenos (no usar mails del estilo pedro@pedro.com) y PRACTICARLA  
+Ojo con la PC y con los tiempos
 
 Uso de materiales de apoyo
 

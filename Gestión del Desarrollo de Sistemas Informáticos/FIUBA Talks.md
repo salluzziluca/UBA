@@ -73,6 +73,8 @@ Preferentemente una sola. puede ser la misma que la introduccion.
 
 hay que intentar que la introduccion y el desarrollo sean claves.
 
+Usar palabras que llamen la atencion. "Resumiendo, finalizando". Eso hace que la gente preste atencion de repente.
+
 
 Uso de materiales de apoyo
 

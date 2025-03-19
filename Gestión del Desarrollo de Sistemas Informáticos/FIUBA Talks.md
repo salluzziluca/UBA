@@ -97,6 +97,10 @@ Solamente si conviene.
 Preparala bien. Incluir datos buenos (no usar mails del estilo pedro@pedro.com) y PRACTICARLA  
 Ojo con la PC y con los tiempos
 
+#### Cierre
+cierre Posibilidad de alguna actividad interactiva 
+Resumen
+Preguntas Una figura queda bien, pero que sea adecuada Recordar que tal vez quede un rato largo Que no distraiga Recordar: No perder el impacto
 Uso de materiales de apoyo
 
 exposicion en Viv

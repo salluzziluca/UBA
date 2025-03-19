@@ -63,9 +63,12 @@ Usar mejor los apoyos visuales (no leer y saber que viene algo)
 preferentemente una sola persona
 
 ### Desarollo
+Todas
+Buscar que no sea tan marcado, hacer idas y vueltas. no pedro, maria, dario y silvia todo en orden.
 
+Si a
 ### Cierre
-
+Preferentemente una sola. puede ser la misma que la introduccion.
 Uso de materiales de apoyo
 
 exposicion en Viv

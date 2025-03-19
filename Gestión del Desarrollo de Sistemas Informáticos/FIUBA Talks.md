@@ -84,7 +84,16 @@ Lo mas visual posible. Va a a quedar ahi hasta que arranque la clase.
 Titulo, equipo, imagen que llame la atencion 
 
 #### Agenda
+Prepara al auditorio:
+- temas
+- tiempos
+- duracion aproximada 
+- estilo. 
+Palabras sueltas o frases cortas sin verbos 
 
+
+#### Demo 
+Solamente si conviene. 
 
 Uso de materiales de apoyo
 

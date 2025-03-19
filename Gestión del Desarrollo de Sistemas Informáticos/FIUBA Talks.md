@@ -125,7 +125,9 @@ cuidado con las distracciones visuales(imagenes en movimiento, videos)
 ### Pizarra
 Impresion de espontaneidad y dominio del tema. 
 
-Ayuda p
+Ayuda para responder preguntas o aclarar cosas que no estan en la ppt. 
+
+Distrae por el ida y vuelta, perder contacto visual, etc. 
 
 exposicion en Viv
 

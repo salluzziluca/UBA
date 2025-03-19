@@ -58,7 +58,13 @@ Reviso, itero, modifico, mejoro.
 Sirve para ganar confianza, timearse, que las palabras surjan espontaneamente. 
 Usar mejor los apoyos visuales (no leer y saber que viene algo)
 
-Etapas de la charla y que incluir 
+## Etapas de la charla y que incluir 
+### Introduccion 
+preferentemente una sola persona
+
+### Desarollo
+
+### Cierre
 
 Uso de materiales de apoyo
 

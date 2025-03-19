@@ -13,7 +13,7 @@ dg-publish: true
 - practicar 
 - 
 - iterar......
-- 
+
 
 ### Establecer los objetivos 
 Para que hago la exposicio? (hay que ser realista)
@@ -30,7 +30,8 @@ secundarios: causar buen impresion,  mostrar credibilidad, concientizar, .....,
 Afecta el contenido para incluir, evitar y enfatizar 
 
 Para quien hablamos??
-
+#### Ayudas del auditorio
+Puntos de apoyo como oyentes y observadores. Esta bueno trabajar con esa gente y trabajar haciendo cosas que man
 
 Etapas de la charla y que incluir 
 

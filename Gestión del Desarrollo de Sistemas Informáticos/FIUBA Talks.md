@@ -12,7 +12,12 @@ dg-publish: true
 - armar la presentación 
 - practicar 
 - 
-- iterar...... 
+- iterar......
+- 
+
+### Establecer los objetivos 
+Para que hago la exposicio? (hay que ser realista)
+Conviene que el objetivo sea uno solo
 
 Etapas de la charla y que incluir 
 

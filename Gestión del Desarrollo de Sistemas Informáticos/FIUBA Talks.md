@@ -59,6 +59,7 @@ Sirve para ganar confianza, timearse, que las palabras surjan espontaneamente.
 Usar mejor los apoyos visuales (no leer y saber que viene algo)
 
 ## Etapas de la charla y que incluir 
+![[Pasted image 20250319172936.png]]
 ### Introduccion 
 preferentemente una sola persona
 
@@ -66,7 +67,7 @@ preferentemente una sola persona
 Todas
 Buscar que no sea tan marcado, hacer idas y vueltas. no pedro, maria, dario y silvia todo en orden.
 
-Si a
+Si alguien se traba salir al rescate.
 ### Cierre
 Preferentemente una sola. puede ser la misma que la introduccion.
 Uso de materiales de apoyo

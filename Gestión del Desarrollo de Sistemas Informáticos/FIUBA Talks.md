@@ -182,3 +182,5 @@ Esta bien mirar y guiarse, pero no leer.
 
 ### Posturas
 Hablar a publico. Dejar que se vea el contenido 
+
+<mark style="background: #FF5582A6;">NO CRUZAR LOS BRAZOSSSS</mark>

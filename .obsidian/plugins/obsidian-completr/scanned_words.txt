@@ -2634,6 +2634,7 @@ duracion
 distraiga
 distracciones
 dela
+discurso
 gestion
 gran
 guarda
@@ -3005,6 +3006,8 @@ gmM
 glc
 grabado
 ganar
+gestos
+guiarse
 especifico
 entra
 en
@@ -8505,6 +8508,7 @@ SIN
 Someter
 Solamente
 Sencillo
+Sincronizar
 Calls
 Cmabia
 CPU
@@ -9059,6 +9063,7 @@ Conviene
 Cierre
 Caratula
 Capitalizar
+CRUZAR
 Es
 El
 Estos
@@ -10593,6 +10598,7 @@ reflexiva
 rato
 repito
 repeticion
+rotativamente
 operacion
 orden
 operaciones
@@ -11882,6 +11888,7 @@ verbos
 videos
 voz
 vino
+vea
 Application
 API
 Asigna
@@ -12328,6 +12335,7 @@ Afecta
 Ayudas
 Agenda
 Aula
+Actitudes
 Programming
 Procesos
 Partes
@@ -12840,6 +12848,7 @@ Posibilidad
 Pizarra
 Ponele
 Poner
+Posturas
 Interface
 ID
 Instructions
@@ -14272,6 +14281,7 @@ mails
 mala
 mandar
 muestro
+mirar
 tien
 tiene
 todos
@@ -15498,6 +15508,7 @@ ida
 involucrado
 interese
 impersonal
+interrumpir
 fijo
 file
 fork
@@ -15991,6 +16002,8 @@ figura
 figuras
 funcionar
 favorable
+fijando
+frotnal
 Nombre
 Notas
 Not
@@ -17228,6 +17241,7 @@ Diapositivas
 Demo
 Distrae
 Decir
+Dejar
 Memoria
 Multivariada
 MORE
@@ -17697,6 +17711,8 @@ MOQ
 MXt
 MCo
 MIEDO
+Mirar
+Movernse
 Table
 Todos
 This
@@ -21783,6 +21799,7 @@ BFx
 Border
 Bold
 BUUU
+BRAZOSSSS
 XY
 Xg
 XQG
@@ -22423,6 +22440,7 @@ HGN
 Hhc
 HfRGp
 HWu
+Hablar
 Jacobiano
 Job
 Jusitfique

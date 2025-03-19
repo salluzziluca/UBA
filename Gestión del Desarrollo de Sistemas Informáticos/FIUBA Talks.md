@@ -170,3 +170,10 @@ Poner enfasis en palabras o frases clave (con la voz o por repeticion)</mark>
 preferiblemente impersonal y 1era Persona plural: "Como vemos aqui"
 
 
+### Actitudes que ayudan 
+
+Mirar a la audiencia, fijando la vista rotativamente. 
+
+Movernse en forma lateral y frotnal para cambiar de tema o enfatizar 
+Sincronizar gestos y palabras 
+No interrumpir el discurso al pasar.

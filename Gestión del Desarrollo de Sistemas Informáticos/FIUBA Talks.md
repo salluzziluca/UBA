@@ -135,3 +135,11 @@ Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. 
 ## Exposición en Vivo
 ### Capitalizar periodos de maxima atencion 
 ahi hay que aprovechar para mandar los mensajes mas importantes. 
+
+### Favorecer una cogida favorable 
+Que a la gente le interese de lo que estamos hablando 
+
+
+### Mantener la atencion durante el desarrollo 
+
+### Reforzar en el cierre lo que se vino exponiendo

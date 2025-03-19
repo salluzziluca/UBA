@@ -145,6 +145,8 @@ El [[#Desarollo]]. Se usan herramientas para volver a captar la atencion mediant
 analogías, anécdotas, estadísticas, humor, repito ideas para enfasis y/o muestro figuras y graficos..
 
 Incluso un grafico que no funciona e ir explicandolo. Puede funcionar.
+
+Finalmente en la [[#Cierre]] hay que setear para la conclusion, ojo con perder el impacto por finales mal hechos. No hacer las preguntas personales. Decir la pregunta en voz alta e involucrar al auditorio.
 ### Favorecer una cogida favorable 
 Que a la gente le interese de lo que estamos hablando 
 

@@ -139,10 +139,12 @@ Ponele......
 
 ahi hay que aprovechar para mandar los mensajes mas importantes. 
 
-Los momentos claves son [[#Introduccion]], ahi creo curiosidad y expectacion, que la gente se sienta involucrado. <mark style="background: #FFF3A3A6;">un buen hook.</mark>
+Los momentos claves son [[#Introduccion]], ahi creo curiosidad y expectacion, que la gente se sienta involucrado y  <mark style="background: #FFF3A3A6;">un buen hook.</mark>, Marco el tono dela exposicion
 
 El [[#Desarollo]]. Se usan herramientas para volver a captar la atencion mediante:
 analogías, anécdotas, estadísticas, humor, repito ideas para enfasis y/o muestro figuras y graficos..
+
+Incluso un grafico que no funciona e ir explicandolo. Puede funcionar.
 ### Favorecer una cogida favorable 
 Que a la gente le interese de lo que estamos hablando 
 

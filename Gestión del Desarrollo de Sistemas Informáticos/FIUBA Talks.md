@@ -129,6 +129,8 @@ Ayuda para responder preguntas o aclarar cosas que no estan en la ppt.
 
 Distrae por el ida y vuelta, perder contacto visual, etc. 
 
+
+
 exposicion en Viv
 
 

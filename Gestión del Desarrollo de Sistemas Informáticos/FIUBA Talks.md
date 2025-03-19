@@ -52,6 +52,9 @@ No hay que abrumar con mucho detalle, mejor dejar para aclarar luego
 
 
 ### Practicar 
+Es lo mas importante de todo.
+Practicar frente a otros, en el espejo, grabado.
+Reviso
 Sirve para ganar confianza, timearse, que las palabras surjan espontaneamente. 
 Usar mejor los apoyos visuales (no leer y saber que viene algo)
 

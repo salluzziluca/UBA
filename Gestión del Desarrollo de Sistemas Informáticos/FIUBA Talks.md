@@ -176,4 +176,9 @@ Mirar a la audiencia, fijando la vista rotativamente.
 
 Movernse en forma lateral y frotnal para cambiar de tema o enfatizar 
 Sincronizar gestos y palabras 
-No interrumpir el discurso al pasar.
+No interrumpir el discurso al pasar.de una diapo a la otra 
+No pasar antes de tiempo la diapo 
+Esta bien mirar y guiarse, pero no leer. 
+
+### Posturas
+Hablar a publico. Dejar que se vea el contenido 

@@ -162,9 +162,9 @@ Que a la gente le interese de lo que estamos hablando
 Sencillo, claro, ameno y preciso. 
 Tranquilidad y dominio. Volumen un poco mas alto de normal
 
-Introducir pausas en los cambios de tema 
+<mark style="background: #FFB8EBA6;">Introducir pausas en los cambios de tema 
 
-Poner enfasis en palabras o frases clave (con la voz o por repeticion)
+Poner enfasis en palabras o frases clave (con la voz o por repeticion)</mark>
 
 
 preferiblemente impersonal y 1era Persona plural: "Como vemos aqui"

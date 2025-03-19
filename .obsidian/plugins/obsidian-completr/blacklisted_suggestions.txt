@@ -62,3 +62,6 @@ promedio
 Promedio
 probabilida
 rapida
+miedo
+mientras
+miembros

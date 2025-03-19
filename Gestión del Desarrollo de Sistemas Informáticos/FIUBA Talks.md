@@ -48,7 +48,10 @@ Someter cada contenido a la pregunta del por qué:
 
 Se acota porque ==el tiempo no es ilimitado== 
 No hay que abrumar con mucho detalle, mejor dejar para aclarar luego 
-Podes inducir cosas para las pregu
+>[!tip] Se pueden dejar cosas para las preguntas finales. Se puede intentar inducir
+
+
+### Practicar
 
 Etapas de la charla y que incluir 
 

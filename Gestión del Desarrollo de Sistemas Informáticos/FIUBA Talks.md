@@ -134,6 +134,9 @@ Ver colores, luces, tomacorrientes, pizarron, pantalla. Ir antes y probar TODO. 
 
 ## Exposición en Vivo
 ### Capitalizar periodos de maxima atención 
+![[Pasted image 20250319175728.png]]
+Ponele......
+[[#]]
 ahi hay que aprovechar para mandar los mensajes mas importantes. 
 
 ### Favorecer una cogida favorable 

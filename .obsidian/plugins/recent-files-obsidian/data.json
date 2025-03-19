@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Presentación Lean Inception - Parte 1",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Presentación Lean Inception - Parte 1.pdf"
+    },
+    {
       "basename": "Lean Inception",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Salluzzi_108088_parcialito_1",
       "path": "Base de Datos/Salluzzi_108088_parcialito_1.md"
-    },
-    {
-      "basename": "Bases de Datos",
-      "path": "Base de Datos/Bases de Datos.md"
     }
   ],
   "omittedPaths": [],

@@ -2162,6 +2162,7 @@ cQH
 ciCD
 cBR
 cIn
+criteria
 de
 dispositivos
 del
@@ -3049,6 +3050,9 @@ dgS
 dPJ
 dmh
 dpu
+dod
+defines
+deliverable
 gestion
 gran
 guarda
@@ -4426,6 +4430,7 @@ eSfo
 emo
 eLm
 epAH
+ensures
 servicios
 son
 su
@@ -8897,6 +8902,7 @@ qMX
 qln
 qJT
 qDF
+quality
 utilizados
 un
 una
@@ -13059,6 +13065,7 @@ oquh
 oRaor
 oJV
 oAm
+orientado
 nombre
 nuevo
 nica
@@ -18490,6 +18497,7 @@ ikb
 iQW
 iRpi
 iEa
+increment
 fijo
 file
 fork
@@ -20605,6 +20613,7 @@ DoU
 Dcm
 DTR
 DRTOz
+DoD
 Memoria
 Multivariada
 MORE

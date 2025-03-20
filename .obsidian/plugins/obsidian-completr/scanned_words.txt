@@ -2168,6 +2168,7 @@ consensus
 clarify
 creates
 combine
+condicional
 de
 dispositivos
 del
@@ -3062,6 +3063,7 @@ doesn
 decisions
 different
 descriptions
+dibujar
 gestion
 gran
 guarda
@@ -7954,6 +7956,7 @@ aspect
 areas
 assumptions
 actively
+axiomas
 hardware
 heap
 hay
@@ -17726,6 +17729,7 @@ tSy
 tOP
 things
 triplets
+teorema
 inico
 interna
 infro
@@ -26539,6 +26543,7 @@ BLQ
 Brx
 BCk
 BeRf
+Bayes
 XY
 Xg
 XQG

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+      "basename": "1.4 Espacios Infinitos",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.4 Espacios Infinitos.md"
     },
     {
       "basename": "1.5 Probabilidad Condicional",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
+    },
+    {
+      "basename": "1.6 Particiones",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
     {
       "basename": "FIUBA Talks",
@@ -195,10 +199,6 @@
     {
       "basename": "División y Conquista",
       "path": "Teoría de Algoritmos/División y Conquista.md"
-    },
-    {
-      "basename": "1.2 Álgebra de Eventos",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.2 Álgebra de Eventos.md"
     }
   ],
   "omittedPaths": [],

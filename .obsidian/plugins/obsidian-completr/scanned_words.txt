@@ -7957,6 +7957,7 @@ areas
 assumptions
 actively
 axiomas
+aditividad
 hardware
 heap
 hay
@@ -17099,6 +17100,7 @@ mWh
 mSHiV
 mDJH
 many
+mutuamente
 tien
 tiene
 todos

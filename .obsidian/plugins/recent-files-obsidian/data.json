@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1 Definición de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
+    },
+    {
+      "basename": "2.0  Variables Aleatorias",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
+    },
+    {
       "basename": "1.7 Eventos Independientes",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Display Features in Journeys",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
-    },
-    {
-      "basename": "Minium Viable Product",
-      "path": "Cursos/Agile and Scrum/Minium Viable Product.md"
-    },
-    {
-      "basename": "Informe para Revisión",
-      "path": "Modelación Numérica/Informe para Revisión.md"
     }
   ],
   "omittedPaths": [],

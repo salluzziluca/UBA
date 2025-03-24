@@ -2169,6 +2169,7 @@ clarify
 creates
 combine
 condicional
+calculamos
 de
 dispositivos
 del
@@ -6430,6 +6431,7 @@ presents
 prioritize
 participate
 prob
+problas
 la
 las
 le
@@ -10661,6 +10663,7 @@ CDf
 Clm
 Cjv
 CUg
+Calculo
 Es
 El
 Estos
@@ -18551,6 +18554,7 @@ iRpi
 iEa
 increment
 isn
+integrales
 fijo
 file
 fork
@@ -20669,6 +20673,7 @@ DTR
 DRTOz
 DoD
 Does
+Defino
 Memoria
 Multivariada
 MORE

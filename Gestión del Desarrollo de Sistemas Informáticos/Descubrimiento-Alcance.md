@@ -63,3 +63,4 @@ Luego aparecio TDD y la gente solo lo uso para unit test, no para functional tes
 Muchos autores dicen que hay que hacer pruebas de aceptacion automatizadas y escritas antes. TDD con pruebas funcionales
 ATDD, acceptance TDD
 Dan north planteo el behavior DD. basciamente lo mismo. 
+Specifii

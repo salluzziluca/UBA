@@ -23,4 +23,4 @@ Funcionalidades desconocidas por desarrolladores y usuarios
 Gran volumen de [[deuda técnica]] impide probarlos y comprenderlos
 
 ### Scope Creep 
-Agregar caracteristicas y ampliar el alcance sin tener encuenta el efefcto
+Agregar características y ampliar el alcance sin tener en cuenta el efecto

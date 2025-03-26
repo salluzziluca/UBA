@@ -10,3 +10,5 @@ El alcance planificado no va a ser el mismo al final logrado
 el alcance es adaptativo, tiene que ser cambiable sin tanta burocracia. No debe haber (como dice el PMBook) un comite burocratico que decida como afrontar los cambios. Se deben dar organicamente. 
 Los cambios entran por el backlog, el equipo "no se entera" porque solo mira su proxima tarea en el backlog
 
+### Mantenimiento de sistemas legacy 
+es tecnicamente un cambio de alcance. Algo que ya habia quedado estatico, se vuelve a modificar.

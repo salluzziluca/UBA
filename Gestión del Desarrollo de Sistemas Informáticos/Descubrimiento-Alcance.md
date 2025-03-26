@@ -51,3 +51,7 @@ division del trabajo
 delimitacion de las responsabilidades 
 luego me pregunto 
 esta todo? no sobra nada? cada componente es necesario y definidio? Puede estimarse costo y tiempo en forma confiable?
+
+
+## Agenda 
+

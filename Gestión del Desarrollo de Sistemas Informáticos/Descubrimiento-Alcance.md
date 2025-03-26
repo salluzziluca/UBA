@@ -64,3 +64,5 @@ Muchos autores dicen que hay que hacer pruebas de aceptacion automatizadas y esc
 ATDD, acceptance TDD. Es
 Dan north planteo el behavior DD. basciamente lo mismo. Plantea que tdd bien hecho parte del comportamiento esperado
 Specification by example. Cree que el problema está en la comunicacion
+
+Se complica automatizarlos. Porque el cliente las tiene que entender y ademas, si son de EGUI, son mas dificiles.

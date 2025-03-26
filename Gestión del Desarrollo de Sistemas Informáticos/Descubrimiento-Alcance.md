@@ -2,7 +2,16 @@
 Dia: 2025-03-26
 dg-publish: true
 ---
-## Ingenería de 
+## Ingenería de Requisitos 
+### Requisito vs requerimiento 
+¿Requisito?
+m. Circunstancia o condición necesaria para algo.
+Sin.: condición, requerimiento, exigencia, obligación, formalidad, estipulación, cláusula.
+¿Requerimiento?
+m. Acción y efecto de requerir.
+(barbarismo derivado de “requirement”)
+Asociado a demandar, exigir…
+
 
 ## Alcance 
 Hay muchas cosas que nos pueden hacer cambiar el alcance, cambios por parte del cliente o externos (desapareció git).
@@ -32,3 +41,8 @@ No es necesariamente malo. Depende mucho de los tiempos, el presupuesto, etc
 
 ### Gold Plating 
 Hacer cosas que el cliente no me pidió. "Mejoras" sin el consentimiento del usuario, no fue validado, es un problema. Es un tema mas a mantener. No tengo criterio de aceptación, contra quien lo valido?
+
+
+### Descomposicion del alcance 
+llegar de las necesidades a las caracteristicas y tareas 
+analisis 

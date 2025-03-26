@@ -24,3 +24,9 @@ Gran volumen de [[deuda técnica]] impide probarlos y comprenderlos
 
 ### Scope Creep 
 Agregar características y ampliar el alcance sin tener en cuenta el efecto
+
+No es necesariamente malo. Depende mucho de los tiempos, el presupuesto, etc 
+
+
+### Gold Plating 
+Hacer cosas que el cliente no me pidió

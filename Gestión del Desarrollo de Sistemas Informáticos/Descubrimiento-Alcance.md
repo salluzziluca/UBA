@@ -58,4 +58,4 @@ Pruebas tecnicas (unitarias) -> prubeas que escriiben los programadores para ver
 Pruebas funcionales-> le demuestra al cliente que es lo que él quería
 - Kent Beck, XP 1999
 
-Luego aparecio el TDD
+Luego aparecio TDD y la gente solo lo uso para unit test, no para functional tests.

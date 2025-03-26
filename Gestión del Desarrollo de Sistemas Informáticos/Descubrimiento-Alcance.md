@@ -54,4 +54,4 @@ esta todo? no sobra nada? cada componente es necesario y definidio? Puede estima
 
 
 ## Agenda 
-
+Pruebas tecnicas (unitarias) -> prubeas que escriiben los programadores para ver si lo que yo queria construir lo construi como yo queria

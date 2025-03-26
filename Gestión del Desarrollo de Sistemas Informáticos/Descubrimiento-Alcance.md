@@ -29,4 +29,4 @@ No es necesariamente malo. Depende mucho de los tiempos, el presupuesto, etc
 
 
 ### Gold Plating 
-Hacer cosas que el cliente no me pidió
+Hacer cosas que el cliente no me pidió. "Mejoras" sin el consentimiento del usuario, no fue validado, es un problema

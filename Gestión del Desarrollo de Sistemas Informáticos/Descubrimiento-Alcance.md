@@ -44,5 +44,8 @@ Hacer cosas que el cliente no me pidió. "Mejoras" sin el consentimiento del usu
 
 
 ### Descomposicion del alcance 
-llegar de las necesidades a las caracteristicas y tareas 
-analisis 
+llegar de las necesidades a las características y tareas 
+análisis del problema y comprension de partes 
+estimaciones de tiempo y costos 
+division del trabajo 
+delimitacion de las responsabilidades 

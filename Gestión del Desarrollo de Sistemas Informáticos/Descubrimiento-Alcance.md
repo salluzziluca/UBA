@@ -59,3 +59,5 @@ Pruebas funcionales-> le demuestra al cliente que es lo que él quería
 - Kent Beck, XP 1999
 
 Luego aparecio TDD y la gente solo lo uso para unit test, no para functional tests.
+
+Muchos autores dicen que hay que hacer pruebas de aceptacion automatizadas y escritas antes. TDD con pruebas funcionales

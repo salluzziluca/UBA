@@ -14203,6 +14203,7 @@ vfK
 vMk
 various
 variabes
+vario
 Application
 API
 Asigna
@@ -20683,6 +20684,7 @@ DRTOz
 DoD
 Does
 Defino
+Dejo
 Memoria
 Multivariada
 MORE

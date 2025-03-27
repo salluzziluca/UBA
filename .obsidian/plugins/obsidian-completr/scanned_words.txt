@@ -2170,6 +2170,10 @@ creates
 combine
 condicional
 calculamos
+cambiable
+comite
+cnicas
+comprenderlos
 de
 dispositivos
 del
@@ -3065,6 +3069,10 @@ decisions
 different
 descriptions
 dibujar
+desapareci
+decida
+desarrollados
+desconocidas
 gestion
 gran
 guarda
@@ -4446,6 +4454,7 @@ ensures
 easier
 explores
 explain
+estatico
 servicios
 son
 su
@@ -6432,6 +6441,8 @@ prioritize
 participate
 prob
 problas
+planificado
+proxima
 la
 las
 le
@@ -7962,6 +7973,11 @@ assumptions
 actively
 axiomas
 aditividad
+adaptativo
+afrontar
+alcanzado
+aceptaci
+ampliar
 hardware
 heap
 hay
@@ -8942,6 +8958,7 @@ qJT
 qDF
 quality
 quadrants
+quedado
 utilizados
 un
 una
@@ -10015,6 +10032,7 @@ StingerFit
 Sbm
 SCM
 Sometimes
+Scope
 Calls
 Cmabia
 CPU
@@ -10664,6 +10682,7 @@ Clm
 Cjv
 CUg
 Calculo
+Creep
 Es
 El
 Estos
@@ -11281,6 +11300,7 @@ EQv
 EWtN
 EKM
 Each
+Escasa
 kernel
 kt
 kU
@@ -12578,6 +12598,7 @@ rYGa
 reference
 repeat
 reviewing
+relativo
 operacion
 orden
 operaciones
@@ -13113,6 +13134,7 @@ oJV
 oAm
 orientado
 onto
+organicamente
 nombre
 nuevo
 nica
@@ -14729,6 +14751,7 @@ AAAAAA
 AdFQ
 Ask
 Afterwards
+Alcance
 Programming
 Procesos
 Partes
@@ -15331,6 +15354,7 @@ PERSONAS
 PxM
 PeR
 PBQ
+PMBook
 Interface
 ID
 Instructions
@@ -17738,6 +17762,9 @@ things
 triplets
 teorema
 teoremateorema
+tradicional
+tanta
+tecnicamente
 inico
 interna
 infro
@@ -18555,6 +18582,7 @@ iEa
 increment
 isn
 integrales
+impide
 fijo
 file
 fork
@@ -20156,6 +20184,8 @@ Facilita
 FEATURES
 FoZUYj
 FVX
+Fontela
+Funcionalidades
 Descriptors
 Descriptor
 Devuelve
@@ -22972,6 +23002,8 @@ bNx
 bGq
 bIH
 bNH
+burocracia
+burocratico
 will
 words
 with
@@ -26090,6 +26122,7 @@ GAb
 GMmb
 GSK
 Goo
+Gran
 BX
 Bit
 Box
@@ -27348,6 +27381,7 @@ HFl
 HFJ
 Hrx
 Hand
+Han
 Jacobiano
 Job
 Jusitfique

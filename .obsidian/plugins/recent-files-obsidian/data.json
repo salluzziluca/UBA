@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Descubrimiento-Alcance",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
+    },
+    {
       "basename": "1.7 Eventos Independientes",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gestión del Desarrollo de Sistemas Informáticos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión del Desarrollo de Sistemas Informáticos.md"
-    },
-    {
-      "basename": "Feature",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Feature.md"
     }
   ],
   "omittedPaths": [],

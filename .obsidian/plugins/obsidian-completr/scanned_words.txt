@@ -7468,7 +7468,6 @@ aln
 att
 aIK
 aLj
-aTD
 aGW
 afw
 avanzando
@@ -12583,6 +12582,7 @@ reference
 repeat
 reviewing
 reposicion
+rectangular
 operacion
 orden
 operaciones
@@ -13118,6 +13118,7 @@ oJV
 oAm
 orientado
 onto
+omegon
 nombre
 nuevo
 nica

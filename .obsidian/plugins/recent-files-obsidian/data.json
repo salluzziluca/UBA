@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Descubrimiento-Alcance",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
+    },
+    {
       "basename": "Algoritmos Greedy",
       "path": "Teoría de Algoritmos/Algoritmos Greedy.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2.3 Función de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
-    },
-    {
-      "basename": "Descubrimiento-Alcance",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
     },
     {
       "basename": "1.7 Eventos Independientes",
@@ -195,10 +199,6 @@
     {
       "basename": "Product Backlog Item",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
-    },
-    {
-      "basename": "Metodologias, la mirada Agil",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
     }
   ],
   "omittedPaths": [],

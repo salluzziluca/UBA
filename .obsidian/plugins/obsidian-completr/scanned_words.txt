@@ -2171,6 +2171,15 @@ combine
 condicional
 calculamos
 conunta
+comprimir
+codifico
+compar
+caro
+combustible
+cambion
+ciuidad
+contraejemplos
+comemos
 de
 dispositivos
 del
@@ -3068,6 +3077,12 @@ descriptions
 dibujar
 definidas
 deproba
+deontologista
+descarto
+desencolo
+deteneidnose
+distribuidoas
+detenerme
 gestion
 gran
 guarda
@@ -3532,6 +3547,9 @@ gwa
 gwyO
 gpQL
 gcO
+greedys
+gastando
+ganancia
 especifico
 entra
 en
@@ -4450,6 +4468,9 @@ easier
 explores
 explain
 exepriment
+estaciones
+estacion
+elemehtos
 servicios
 son
 su
@@ -5391,6 +5412,10 @@ specifically
 strategic
 share
 sucesos
+superponen
+superponga
+salas
+superposicion
 par
 por
 punto
@@ -6436,6 +6461,13 @@ prioritize
 participate
 prob
 problas
+permita
+paralelepipiedo
+pasarme
+poara
+pasteleria
+pateando
+proxima
 la
 las
 le
@@ -7045,6 +7077,10 @@ lyU
 lWN
 lySf
 lqk
+lleve
+letra
+lejana
+lleven
 agnosticos
 apps
 al
@@ -7965,6 +8001,10 @@ assumptions
 actively
 axiomas
 aditividad
+acomodar
+aulas
+asignadas
+alcanzan
 hardware
 heap
 hay
@@ -8481,6 +8521,7 @@ hbs
 hoG
 hXZ
 helps
+hacerse
 que
 queda
 quien
@@ -9428,6 +9469,7 @@ uaA
 ubw
 uRj
 uvK
+urgente
 System
 Son
 Source
@@ -11284,6 +11326,8 @@ EQv
 EWtN
 EKM
 Each
+Encolo
+ESTO
 kernel
 kt
 kU
@@ -11705,6 +11749,7 @@ ksc
 kgO
 kEe
 knowledge
+kilometros
 realicen
 resolve
 recommend
@@ -12583,6 +12628,10 @@ repeat
 reviewing
 reposicion
 rectangular
+rapidos
+reencolo
+robando
+repetimos
 operacion
 orden
 operaciones
@@ -13119,6 +13168,9 @@ oAm
 orientado
 onto
 omegon
+ordenarlos
+optimos
+ordeno
 nombre
 nuevo
 nica
@@ -13664,6 +13716,7 @@ nIQz
 nrX
 negative
 never
+nafta
 via
 vuelve
 viven
@@ -14205,6 +14258,7 @@ vMk
 various
 variabes
 vario
+viajar
 Application
 API
 Asigna
@@ -14737,6 +14791,10 @@ AAAAAA
 AdFQ
 Ask
 Afterwards
+AHORA
+Aplicamos
+ARGENTINAAAAA
+ACa
 Programming
 Procesos
 Partes
@@ -15339,6 +15397,7 @@ PERSONAS
 PxM
 PeR
 PBQ
+Plantea
 Interface
 ID
 Instructions
@@ -15870,6 +15929,8 @@ IlP
 INCEPTION
 IEL
 IKN
+Invertir
+Intentando
 Un
 UNIX
 UBA
@@ -17116,6 +17177,9 @@ many
 mutuamente
 mon
 marginales
+morse
+monetasrio
+metiendo
 tien
 tiene
 todos
@@ -17749,6 +17813,9 @@ triplets
 teorema
 teoremateorema
 tona
+tortas
+terminan
+teareas
 inico
 interna
 infro
@@ -18566,6 +18633,11 @@ iEa
 increment
 isn
 integrales
+intuitivos
+inflaci
+inflacion
+inmversion
+imposi
 fijo
 file
 fork
@@ -19147,6 +19219,9 @@ fJz
 fdQ
 fcQQ
 formed
+futuro
+facultad
+frec
 Nombre
 Notas
 Not
@@ -20686,6 +20761,8 @@ DoD
 Does
 Defino
 Dejo
+Desencolamos
+Desgraciadamente
 Memoria
 Multivariada
 MORE
@@ -21791,6 +21868,7 @@ TTHoves
 TYs
 TQAzA
 TVUU
+Tanque
 Realiza
 REgistrys
 Rango
@@ -24375,6 +24453,8 @@ OVer
 OHS
 OHe
 Oqy
+Opcion
+Ordenamos
 ya
 yo
 yM
@@ -25269,6 +25349,7 @@ jEt
 jXVE
 jJzX
 jsn
+jijo
 Ya
 Yourself
 YAGNI
@@ -27361,6 +27442,7 @@ HFl
 HFJ
 Hrx
 Hand
+Huffman
 Jacobiano
 Job
 Jusitfique

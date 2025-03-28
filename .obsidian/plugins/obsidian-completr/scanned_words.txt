@@ -450,6 +450,7 @@ KVX
 KtL
 KYL
 KxQyK
+Kent
 La
 Los
 Luego
@@ -2174,6 +2175,10 @@ cambiable
 comite
 cnicas
 comprenderlos
+consentimiento
+comprension
+confiable
+construi
 de
 dispositivos
 del
@@ -3073,6 +3078,12 @@ desapareci
 decida
 desarrollados
 desconocidas
+derivado
+demandar
+delimitacion
+definidio
+demuestra
+dicen
 gestion
 gran
 guarda
@@ -4455,6 +4466,12 @@ easier
 explores
 explain
 estatico
+exigencia
+estipulaci
+exigir
+estimaciones
+estimarse
+escriiben
 servicios
 son
 su
@@ -5396,6 +5413,7 @@ specifically
 strategic
 share
 sucesos
+sobra
 par
 por
 punto
@@ -6443,6 +6461,9 @@ prob
 problas
 planificado
 proxima
+presupuesto
+pregunto
+prubeas
 la
 las
 le
@@ -7475,7 +7496,6 @@ aln
 att
 aIK
 aLj
-aTD
 aGW
 afw
 avanzando
@@ -7978,6 +7998,11 @@ afrontar
 alcanzado
 aceptaci
 ampliar
+aparecio
+autores
+automatizadas
+acceptance
+automatizarlos
 hardware
 heap
 hay
@@ -8959,6 +8984,7 @@ qDF
 quality
 quadrants
 quedado
+queria
 utilizados
 un
 una
@@ -9442,6 +9468,8 @@ uaA
 ubw
 uRj
 uvK
+unitarias
+unit
 System
 Son
 Source
@@ -10033,6 +10061,7 @@ Sbm
 SCM
 Sometimes
 Scope
+Specification
 Calls
 Cmabia
 CPU
@@ -10683,6 +10712,8 @@ Cjv
 CUg
 Calculo
 Creep
+Circunstancia
+Cree
 Es
 El
 Estos
@@ -11301,6 +11332,7 @@ EWtN
 EKM
 Each
 Escasa
+EGUI
 kernel
 kt
 kU
@@ -12599,6 +12631,9 @@ reference
 repeat
 reviewing
 relativo
+requerimiento
+requirement
+responsabilidades
 operacion
 orden
 operaciones
@@ -13135,6 +13170,7 @@ oAm
 orientado
 onto
 organicamente
+obligaci
 nombre
 nuevo
 nica
@@ -13680,6 +13716,7 @@ nIQz
 nrX
 negative
 never
+north
 via
 vuelve
 viven
@@ -14219,6 +14256,7 @@ vaS
 vfK
 vMk
 various
+validado
 Application
 API
 Asigna
@@ -14752,6 +14790,9 @@ AdFQ
 Ask
 Afterwards
 Alcance
+Acci
+Asociado
+ATDD
 Programming
 Procesos
 Partes
@@ -15355,6 +15396,8 @@ PxM
 PeR
 PBQ
 PMBook
+Plating
+Plantea
 Interface
 ID
 Instructions
@@ -15886,6 +15929,7 @@ IlP
 INCEPTION
 IEL
 IKN
+Ingener
 Un
 UNIX
 UBA
@@ -19164,6 +19208,7 @@ fJz
 fdQ
 fcQQ
 formed
+formalidad
 Nombre
 Notas
 Not
@@ -20704,6 +20749,7 @@ DRTOz
 DoD
 Does
 Defino
+Dan
 Memoria
 Multivariada
 MORE
@@ -21316,6 +21362,8 @@ MAlgy
 MkO
 Mnu
 MPt
+Mejoras
+Muchos
 Table
 Todos
 This
@@ -22457,6 +22505,8 @@ RvF
 RNpE
 RjKs
 RPs
+Requisito
+Requerimiento
 bien
 by
 be
@@ -23004,6 +23054,9 @@ bIH
 bNH
 burocracia
 burocratico
+barbarismo
+behavior
+basciamente
 will
 words
 with
@@ -26123,6 +26176,7 @@ GMmb
 GSK
 Goo
 Gran
+Gold
 BX
 Bit
 Box
@@ -26587,6 +26641,7 @@ Brx
 BCk
 BeRf
 Bayes
+Beck
 XY
 Xg
 XQG

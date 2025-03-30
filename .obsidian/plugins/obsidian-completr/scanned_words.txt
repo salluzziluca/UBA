@@ -1704,6 +1704,7 @@ capture
 choose
 cook
 check
+condicional
 de
 dispositivos
 del
@@ -2472,6 +2473,7 @@ detecten
 discutidos
 diviide
 dinner
+dibujar
 gestion
 gran
 guarda
@@ -6575,6 +6577,8 @@ anytime
 along
 ahorros
 ahorrar
+axiomas
+aditividad
 hardware
 heap
 hay
@@ -12974,6 +12978,7 @@ modular
 mensaje
 mess
 melting
+mutuamente
 tien
 tiene
 todos
@@ -13499,6 +13504,8 @@ tell
 teaching
 theoretical
 throw
+teorema
+teoremateorema
 inico
 interna
 infro
@@ -19384,6 +19391,7 @@ Before
 Business
 Benefits
 Brief
+Bayes
 XY
 Xg
 XQG

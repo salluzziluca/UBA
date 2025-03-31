@@ -1,7 +1,6 @@
 ## Fuerza bruta
 Tenemos un problema combinatorio-> tenemos que probar todas las combinaciones/soluciones/permutaciones
-
-ordenamiento por fuerza bruta: ![[Sorting#Ordenamiento por Fuerza Bruta]]
+![[Sorting#Ordenamiento por Fuerza Bruta]]
 ## Regla Básica de Backtracking
 > Cuando sabemos que una combinación parcial que ya construimos no va a llevar al resultado válido, **podamos** y volvemos para atrás
 
@@ -14,6 +13,7 @@ ordenamiento por fuerza bruta: ![[Sorting#Ordenamiento por Fuerza Bruta]]
 4) Si llegue hasta aca, ya probe con todo y no encontre una solucion
 (no válido para todos los casos, pero el esquema suele ser similar)
 
+NO es fuerza bruta con podas. 
 
 ### Ordenamiento con Backtracking
 Cuando veo que el actual es menor que el anterior, vuelto para atrás, se que por esa rama no va a poder ser.

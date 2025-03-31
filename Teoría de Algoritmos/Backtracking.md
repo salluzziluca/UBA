@@ -20,7 +20,8 @@ NO es fuerza bruta con podas. Al final el codigo nos puede llegar a quedar muy d
 Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una podita menosl
 
 ## MAS BASICO? mas basico
-Primero pienso como voy a recorrer mi problema. Despues pienso las podas. 
+Primero pienso como voy a recorrer mi problema. Como construyo, cual va a ser la solucion?? 
+Despues pienso las podas. 
 
 
 ### Ordenamiento con Backtracking

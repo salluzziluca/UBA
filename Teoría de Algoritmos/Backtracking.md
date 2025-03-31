@@ -23,7 +23,7 @@ Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una 
 Primero pienso como voy a recorrer mi problema. Como construyo, cual va a ser la solucion?? 
 Despues pienso las podas.
 
-En k coloreo, por ejemplo. la decision es: que color le pongo a e
+En k coloreo, por ejemplo. la decision es: que color le pongo a ese nodo?? despues pienso las podas
 
 
 ### Ordenamiento con Backtracking

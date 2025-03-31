@@ -19,6 +19,10 @@ NO es fuerza bruta con podas. Al final el codigo nos puede llegar a quedar muy d
 
 Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una podita menosl
 
+## MAS BASICO? mas basico
+Primero pienso como voy a recorrer mi problema. Despues pienso las podas. 
+
+
 ### Ordenamiento con Backtracking
 Cuando veo que el actual es menor que el anterior, vuelto para atrás, se que por esa rama no va a poder ser.
 

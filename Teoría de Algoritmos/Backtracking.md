@@ -12,6 +12,8 @@ Tenemos un problema combinatorio-> tenemos que probar todas las combinaciones/so
 	2) Si lo es, llamo recursivamente y vuelvo a 1)
 4) Si llegue hasta aca, ya probe con todo y no encontre una solucion
 (no válido para todos los casos, pero el esquema suele ser similar)
+(Si es un problema de optimizacion, aca devolveri)
+
 
 NO es fuerza bruta con podas. Al final el codigo nos puede llegar a quedar muy diferente.
 

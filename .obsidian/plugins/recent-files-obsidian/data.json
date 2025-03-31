@@ -5,6 +5,10 @@
       "path": "Teoría de Algoritmos/Backtracking.md"
     },
     {
+      "basename": "Ciclo de Euler",
+      "path": "Teoría de Algoritmos/Ciclo de Euler.md"
+    },
+    {
       "basename": "Algoritmos Greedy",
       "path": "Teoría de Algoritmos/Algoritmos Greedy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Project Charter",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Project Charter.md"
-    },
-    {
-      "basename": "Product Backlog Item",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
     }
   ],
   "omittedPaths": [],

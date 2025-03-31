@@ -21,7 +21,9 @@ Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una 
 
 ## MAS BASICO? mas basico
 Primero pienso como voy a recorrer mi problema. Como construyo, cual va a ser la solucion?? 
-Despues pienso las podas. 
+Despues pienso las podas.
+
+En k coloreo, por ejemplo. la decision es: que color le pongo a e
 
 
 ### Ordenamiento con Backtracking

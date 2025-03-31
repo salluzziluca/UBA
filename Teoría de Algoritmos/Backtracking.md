@@ -13,7 +13,9 @@ Tenemos un problema combinatorio-> tenemos que probar todas las combinaciones/so
 4) Si llegue hasta aca, ya probe con todo y no encontre una solucion
 (no válido para todos los casos, pero el esquema suele ser similar)
 
-NO es fuerza bruta con podas. 
+NO es fuerza bruta con podas. Al final el codigo nos puede llegar a quedar muy diferente.
+
+Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una podita menosl
 
 ### Ordenamiento con Backtracking
 Cuando veo que el actual es menor que el anterior, vuelto para atrás, se que por esa rama no va a poder ser.

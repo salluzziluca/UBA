@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "1.6 Particiones",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+    },
+    {
+      "basename": "Backtracking",
+      "path": "Teoría de Algoritmos/Backtracking.md"
+    },
+    {
+      "basename": "Ciclo de Euler",
+      "path": "Teoría de Algoritmos/Ciclo de Euler.md"
+    },
+    {
+      "basename": "Algoritmos Greedy",
+      "path": "Teoría de Algoritmos/Algoritmos Greedy.md"
     },
     {
       "basename": "1.2 Álgebra de Eventos",
@@ -39,10 +55,6 @@
     {
       "basename": "Descubrimiento-Alcance",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
-    },
-    {
-      "basename": "Algoritmos Greedy",
-      "path": "Teoría de Algoritmos/Algoritmos Greedy.md"
     },
     {
       "basename": "2.4 Vectores Aleatorios",
@@ -187,14 +199,6 @@
     {
       "basename": "Sequence The Features",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
-    },
-    {
-      "basename": "Project Charter",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Project Charter.md"
-    },
-    {
-      "basename": "Product Backlog Item",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
     }
   ],
   "omittedPaths": [],

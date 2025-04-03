@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+    },
+    {
       "basename": "3.2 Varianza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Stakeholder",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Stakeholder.md"
-    },
-    {
-      "basename": "Software Legacy",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
     }
   ],
   "omittedPaths": [],

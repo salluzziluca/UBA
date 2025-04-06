@@ -9,4 +9,6 @@ aliases:
 ---
 Para tomar decisiones correctas en el momento oportuno se necesita información clara, confiable y actualizada acerca del progreso del proyecto. Tambien se le debe proporcionar información concisa a los [[Stakeholder|stakeholders]]. La EVM proporcina un enfoque para medir el desempeño del proyecto a partir de compraraciones de su avance real frente al planeado, permitiendo evualuar tendencias y pronosticar
 
-Para implementar EVM es necesario definir la Performance Measurement Baseline, PBM
+Para implementar EVM es necesario definir la Performance Measurement Baseline, PBM, que integra la descripción del trabajo a realizar (alcance), los plazos para su realización (cronograma) y el cálculo de sus costos y de los recursos requeridos para su ejecución (costo).
+
+![[Pasted image 20250406205427.png]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Earned Value Management",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
+    },
+    {
       "basename": "1.6 Particiones",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actiivity",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
-    },
-    {
-      "basename": "Stakeholder",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Stakeholder.md"
     }
   ],
   "omittedPaths": [],

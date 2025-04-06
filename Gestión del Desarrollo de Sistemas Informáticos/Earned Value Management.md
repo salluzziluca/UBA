@@ -7,4 +7,6 @@ aliases:
   - gestión del valor ganado
   - GVG
 ---
-Para tomar decisiones correctas en el momento oportuno se necesita información clara, confiable y actualizada acerca del progreso del proyecto. Tambien se le debe proporcionar información concisa a los [[Stakeholder|stakeholders]]. La EVM proporcina un enfoque para medir el desempeño del proyecto a partir de compraraciones de su avance real frente al planeado. 
+Para tomar decisiones correctas en el momento oportuno se necesita información clara, confiable y actualizada acerca del progreso del proyecto. Tambien se le debe proporcionar información concisa a los [[Stakeholder|stakeholders]]. La EVM proporcina un enfoque para medir el desempeño del proyecto a partir de compraraciones de su avance real frente al planeado, permitiendo evualuar tendencias y pronosticar
+
+Para implementar EVM es necesario definir la Performance Measurement Baseline, PBM

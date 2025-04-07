@@ -82,3 +82,48 @@ El **EAC** es una proyección del costo total que se espera incurrir al finaliza
 
 - **Aplicación Práctica:**  
   Una evaluación continua del EAC ayuda a los gestores de proyectos a identificar problemas de financiamiento a tiempo y a replanificar las actividades futuras para evitar sobrecostos.
+
+---
+
+Estimado hasta Concluir (ETC)
+- **ETC = EAC – AC**  
+  Representa el costo adicional que se estima se necesitará para completar el proyecto, una vez deducido el costo ya incurrido.
+
+---
+
+- Variación a la Conclusión (VAC)
+Evalúa la diferencia entre el presupuesto inicial y el pronóstico final:
+- **VAC = BAC – EAC**
+- **VAC% = VAC / BAC**  
+  Indica la desviación porcentual con respecto al presupuesto inicial.
+
+---
+
+- Índice de Rendimiento del Costo a la Conclusión (CPIAC)
+- **CPIAC = BAC / EAC**  
+  Este índice proyecta la eficiencia del costo al finalizar el proyecto.
+
+---
+
+## Enfoque Basado en Tiempo
+
+Además del costo, se puede estimar la duración del proyecto:
+
+### Estimado a la Conclusión Basado en Tiempo (EACt)
+- **EACt** pronostica la duración final del proyecto.  
+- Se recomienda obtenerlo a partir de un análisis detallado de la red del proyecto o, de manera aproximada, utilizando:
+  - **EACt = Duración de la PMB / SPI**
+
+### Variación a la Conclusión Basada en Tiempo (VACt)
+- **VACt = Duración de la PMB – EACt**
+- **VACt% = VACt / Duración de la PMB**
+
+### Índice de Rendimiento del Cronograma a la Conclusión Basado en Tiempo (SPIACt)
+- **SPIACt = Duración de la PMB / EACt**
+
+> **Dato Clave:**  
+> Estos indicadores basados en el tiempo permiten pronosticar la duración final del proyecto y evaluar el desempeño del cronograma, complementando el análisis financiero.
+
+
+
+![[Pasted image 20250406210706.png]]

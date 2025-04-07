@@ -40,4 +40,12 @@ El indicador de Funcionalidad Completa mide avance cuando una funcionalidad est�
 2. Asignar un Peso a cada funcionalidad: Story points, T-Shirt Size
 3. Estimar la fecha en que la funcionalidad estará completa
 4. A medida que avanza el proyecto registrar las fechas reales de funcionalidad completa
-	
+![[Pasted image 20250407162606.png]]
+Tabla de datos para el indicador de funcionalidad completa
+
+![[Pasted image 20250407162633.png]]
+Indicador de funcionalidad completa
+
+Obsérvese en el ejemplo que el eje vertical acumula los puntos de funcionalidad completa (PFC), sumando los
+pesos en cada fecha. En este caso la convención es: una funcionalidad simple equivale a 1 PFC, una
+funcionalidad media a 2 PFC y una funcionalidad compleja a 3 PFC.

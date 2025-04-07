@@ -36,8 +36,6 @@ El indicador de Funcionalidad Completa mide avance cuando una funcionalidad est�
 *No está completa la funcionalidad si no está desarrollada, probada y estabilizada.*
 
 1. Determinar las funcionalidades: 
-
-Para ello
-dividimos el producto a construir en partes. ¿Cuántas funcionalidades? Debemos buscar una cantidad óptima
-que balancee el detalle necesario para medir avance con la carga administrativa para mantener el indicador.
+	Para ello dividimos el producto a construir en partes. ¿Cuántas funcionalidades? Debemos buscar una cantidad óptima que balancee el detalle necesario para medir avance con la carga administrativa para mantener el indicador.
+2. Asignar un Peso a cada funcionalidad: Story points, T-Shirt Size
 	

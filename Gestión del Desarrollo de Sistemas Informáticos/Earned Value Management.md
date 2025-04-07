@@ -133,3 +133,5 @@ Además del costo, se puede estimar la duración del proyecto:
  la buena implementación de la GVG supone la integración del alcance, el cronograma y el costo en la planificación del proyecto.
  - Alcance: se recomienda descomponer el trabajo por realizar siguiendo lineamiento y practicas de EDT (estructura de desglose de trabajo)
  - Cronograma:  Se puede aplicar el EVM usando la informacion estatica de un Diagrama de Gantt
+ - Recursos y Costos : Para usar la GVG se requiere que cada tarea tenga asignados los recursos necesarios con sus correspondientes tarifas. Si por alguna razón no se requiere tener un control de los recursos, podrían manejarse sólo los estimados de costos de las tareas.
+ - 

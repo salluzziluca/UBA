@@ -31,6 +31,13 @@ O por codigo completo (sin chequear la estabilidad de este, puede estar "complet
 #### Solución (Indicador de Funcionalidad Completa)
 El indicador de Funcionalidad Completa mide avance cuando una funcionalidad está completa, pero...
 
-No hay avance si la funcionalidad no está completa
+*No hay avance si la funcionalidad no está completa*
 
-No está completa la funcionalidad si no está desarrollada, probada y estabilizada.
+*No está completa la funcionalidad si no está desarrollada, probada y estabilizada.*
+
+1. Determinar las funcionalidades: 
+
+Para ello
+dividimos el producto a construir en partes. ¿Cuántas funcionalidades? Debemos buscar una cantidad óptima
+que balancee el detalle necesario para medir avance con la carga administrativa para mantener el indicador.
+	

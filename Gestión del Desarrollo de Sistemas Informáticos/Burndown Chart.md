@@ -8,3 +8,6 @@ Es por eso que se recomienda usar Story Points. Se divide el trabajo en User Sto
 
 >[!Important] Dont worry about improving our estimating accuracy. The estimates just have to be consistent enough to use for planning purposes. Our desired output is working software, not accurate estimates
 
+
+## El problema con los burndown charts 
+Cuando uno crea uj

@@ -134,4 +134,92 @@ Además del costo, se puede estimar la duración del proyecto:
  - Alcance: se recomienda descomponer el trabajo por realizar siguiendo lineamiento y practicas de EDT (estructura de desglose de trabajo)
  - Cronograma:  Se puede aplicar el EVM usando la informacion estatica de un Diagrama de Gantt
  - Recursos y Costos : Para usar la GVG se requiere que cada tarea tenga asignados los recursos necesarios con sus correspondientes tarifas. Si por alguna razón no se requiere tener un control de los recursos, podrían manejarse sólo los estimados de costos de las tareas.
- - 
+
+## Tecnicas de Medicion de Valor Ganado
+### 1. Fórmula Fija
+- **Descripción:**  
+  Técnica simplificada que asigna porcentajes fijos al avance de una tarea.
+- **Ejemplos Comunes:**  
+  - **0/100:** Se acredita el 100% solo al finalizar.
+  - **50/50:** Se acredita 50% al inicio y 50% al terminar.
+- **Uso:**  
+  Útil para evaluaciones simples y rápidas, adaptable a otras combinaciones (30/70, 25/75, etc.).
+
+> **Nota:**  
+> Ideal para tareas con entregables bien definidos donde el avance se puede calificar de forma binaria.
+
+---
+
+### 2. Hitos Ponderados
+- **Descripción:**  
+  Se asignan valores ponderados a hitos intermedios en tareas de larga duración.
+- **Uso:**  
+  Recomendada cuando es difícil medir el avance parcial de manera continua, pero se pueden definir resultados parciales.
+
+> **Consejo:**  
+> Permite evaluar el progreso en etapas, facilitando el seguimiento de tareas complejas.
+
+---
+
+### 3. Porcentaje Completado
+- **Descripción:**  
+  Mide el avance parcial en función de un porcentaje completado, adaptable a diferentes contextos.
+- **Modalidades:**  
+  - **% de Duración Completada:**  
+    Calculado como la duración real hasta la fecha dividida entre la duración total.  
+    *Recomendado para tareas con desempeño lineal.*
+  - **% de Trabajo Completado:**  
+    Basado en la proporción de horas reales trabajadas respecto al total estimado.
+  - **% de Unidades Físicas Completadas:**  
+    Calculado como las unidades entregadas a la fecha en relación con las unidades totales (por ejemplo, metros cúbicos o toneladas).
+  - **% Físico Completado:**  
+    Evaluación basada en el avance físico observado en la fecha de corte.
+
+> **Dato Clave:**  
+> Cada modalidad se elige según la naturaleza de la tarea y la forma en que se pueda medir el progreso.
+
+---
+
+## 4. Esfuerzo Proporcional
+- **Descripción:**  
+  Se utiliza cuando el avance de una tarea está relacionado directamente con otra que ya tiene su propia medición del valor ganado.
+- **Uso:**  
+  Permite vincular el rendimiento entre tareas interdependientes.
+
+---
+
+## 5. Nivel de Esfuerzo
+- **Descripción:**  
+  Técnica aplicada a tareas que no generan resultados tangibles o tienen múltiples resultados difíciles de cuantificar.
+- **Ejemplo:**  
+  Tareas de dirección de proyectos que involucran diversas actividades semanales.
+
+> **Recomendación:**  
+> Es ideal para actividades de soporte o administrativas donde la producción tangible no es el principal indicador.
+
+---
+
+## 6. Análisis de Rendimiento y Pronósticos con la GVG
+- **Descripción:**  
+  Involucra el análisis continuo del desempeño del proyecto para determinar cómo va y cómo terminará.
+- **Uso:**  
+  Se actualiza en cada fecha de estado, registrando el avance y el trabajo remanente para obtener datos confiables y actualizados.
+
+> **Dato Clave:**  
+> Este análisis es esencial para identificar desviaciones y aplicar medidas correctivas a tiempo.
+
+---
+
+## 7. GVG y Umbrales de Calidad
+- **Descripción:**  
+  Establece márgenes de tolerancia (umbrales) para determinar si el desempeño está dentro de límites aceptables.
+- **Zonas de Control:**  
+  - **Verde:** Dentro de límites.
+  - **Amarillo:** Zona de alerta.
+  - **Rojo:** Problemas identificados.
+  - **Azul:** Rendimiento "demasiado" bueno, lo cual también puede indicar un problema.
+- **Ejemplo Práctico:**  
+  Uso de semáforos de control para monitorizar el progreso del proyecto.
+
+> **Consejo:**  
+> La administración por excepción se centra en las tareas que se salen de los umbrales definidos, optimizando la gestión del proyecto.

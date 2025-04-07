@@ -8,4 +8,7 @@ Muchas veces los proyectos tienen desvios de costos, calendario o directamente n
 ## Problemas clasicos 
 ### El síndrome del 90% 
 ![[Pasted image 20250407161549.png]]
-el proyecto llega bien hasta el 90% 
+el proyecto llega bien hasta el 90% y se estanca. 
+Esto se da porque usamos informacion subjetiva para registrar avance. Cuando nos quermos fijar, en realidad el avance no es real. Por ahi cuando creiamos que estaba al 50%, ren realidad estaba al 20%
+
+#### Sol

@@ -17,3 +17,4 @@ No es muy comodo porque se complica dibujar si cambia mucho el scope.
 
 ### Burn Up
 Un burndown dado vuelta, es un poco mas intuitivo
+![[Pasted image 20250407104710.png]]

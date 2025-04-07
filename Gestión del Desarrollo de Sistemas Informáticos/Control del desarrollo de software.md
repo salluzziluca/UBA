@@ -11,4 +11,9 @@ Muchas veces los proyectos tienen desvios de costos, calendario o directamente n
 el proyecto llega bien hasta el 90% y se estanca. 
 Esto se da porque usamos informacion subjetiva para registrar avance. Cuando nos quermos fijar, en realidad el avance no es real. Por ahi cuando creiamos que estaba al 50%, ren realidad estaba al 20%
 
-#### Sol
+#### Solución
+Lo primero es reunir evidencia fisica del avance, no confiar en que alguien nos dijo "avanzamos"
+
+
+## Evidencias Físicas para el control de proyectos
+

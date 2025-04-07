@@ -53,3 +53,24 @@ Para implementar EVM es necesario definir la Performance Measurement Baseline, P
 - Cost Variance CV=EV-AC
 
 ![[Pasted image 20250406205427.png]]
+
+## EAC  (Estimate at Completion)
+
+El **EAC** es una proyección del costo total que se espera incurrir al finalizar el proyecto, basada en el desempeño acumulado hasta la fecha.
+
+- **Definición:**  
+  Es la estimación final del costo del proyecto, que combina el costo real incurrido (AC) con el costo futuro proyectado.
+
+- **Fórmulas Comunes:**  
+  - **EAC = AC + (BAC - EV):**  
+    Utilizada cuando se asume que las condiciones futuras se mantendrán similares a las actuales.  
+  - **EAC = BAC / CPI:**  
+    Aplica un ajuste basado en la eficiencia del costo medido por el CPI (Cost Performance Index).
+
+>[!important] **Dato Clave:**   La elección de la fórmula de EAC debe basarse en el contexto del proyecto y en las variaciones que se hayan observado en el desempeño.
+
+- **Utilidad:**  
+  Permite anticipar desviaciones presupuestarias y tomar decisiones correctivas para mantener el proyecto dentro del presupuesto estimado.
+
+- **Aplicación Práctica:**  
+  Una evaluación continua del EAC ayuda a los gestores de proyectos a identificar problemas de financiamiento a tiempo y a replanificar las actividades futuras para evitar sobrecostos.

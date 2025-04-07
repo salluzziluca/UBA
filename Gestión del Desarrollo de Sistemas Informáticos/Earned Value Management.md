@@ -40,9 +40,11 @@ Para implementar EVM es necesario definir la Performance Measurement Baseline, P
     
 - **Índices de Desempeño:**
     
-    - **CPI (Cost Performance Index): Mide la eficiencia del costo.
+    - **CPI (Cost Performance Index):** EV/AC Mide la eficiencia del costo.
         
-    - **SPI (Schedule Performance Index):** ** EV/AC Evalúa el desempeño respecto al cronograma.
+    - **SPI (Schedule Performance Index):** EV/PV Evalúa el desempeño respecto al cronograma.
+      
+    - TCPI (To Complete Performance Index): (BAC-EV)/BAC
         
 - Schedule Variance (SV) EV-PV
 - Cost Variance CV=EV-AC

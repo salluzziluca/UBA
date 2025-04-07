@@ -44,5 +44,6 @@ Para implementar EVM es necesario definir la Performance Measurement Baseline, P
         
     - **SPI (Schedule Performance Index):** Evalúa el desempeño respecto al cronograma.
         
+- Schedule Variance (SV)
 
 ![[Pasted image 20250406205427.png]]

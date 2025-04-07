@@ -26,4 +26,4 @@ Se puede usar un burn down para las iteraciones y un burn up para el proyecto en
 
 ## Too much work
 ![[Pasted image 20250407152621.png]]
-Si consistentemente el grafico nos da asi, quiere decir que estamos overcommiting. Usualmente somos demasiado optimistas sobre nuestras capacidades. Nos olvidamos del tiempo que gastamos estando trabados o esperando alguna solucion de 
+Si consistentemente el grafico nos da asi, quiere decir que estamos overcommiting. Usualmente somos demasiado optimistas sobre nuestras capacidades. Nos olvidamos del tiempo que gastamos estando trabados o esperando alguna solucion de otro lado.

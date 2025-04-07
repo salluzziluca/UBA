@@ -100,7 +100,29 @@ los casos de prueba que han sido ejecutados sin problemas.
 Consideraciones sobre este indicador
 - Alcance: es necesario separar los costos que no están asociados directamente a la construcción de software. Por ejemplo, la adquisición de un equipo, la planificación inicial, el despliegue, etc. Otros costos, como la administración del proyecto, podrían distribuirse dentro de los PFC.
 - Validez: al igual que el indicador de Funcionalidad Completa, sólo aplica a la construcción, no a la estabilización.
- - Margen de error: existe cierto margen de error aceptable con el objetivo de no aumentar la cargaadministrativa debido a:
+- Margen de error: existe cierto margen de error aceptable con el objetivo de no aumentar la cargaadministrativa debido a:
  - Los pesos generan información inexacta
  - El Actual está insumido en funcionalidades que aún no están completas
-- Los costos indirectos que se distribuyen en los PFC pueden generar margen de error.
+ - Los costos indirectos que se distribuyen en los PFC pueden generar margen de error.
+
+
+## Conclusión
+Hemos presentado una serie de indicadores cuyo objetivo es controlar un proyecto de desarrollo de software.
+Cuanto más exacto es un indicador más difícil es su aplicación real, por lo cual hemos intentando balancear las
+siguientes características:
+a) Objetividad: los indicadores deben registrar información objetiva, basada en evidencia física y no en una
+opinión subjetiva del que la genera.
+b) Administración: si bien los indicadores tienen costo, no deben poseer demasiada carga administrativa si
+queremos que la implementación sea eficiente.
+c) Foco en resultados: un buen indicador no mide inversión, sino lo que obtengo de ella.
+d) Comprensión: deben mostrar información comprensible por el auditorio.
+Todos los indicadores presentados tienen como objetivo mostrar el estado del proyecto, por ejemplo a través de
+un Tablero de Control (figura 9) y mejorar la toma de decisiones. Pero es importante tener en cuenta que además
+son muy útiles para detectar fallas en el proceso como por ejemplo: equipo mal enfocado, acumulación de
+código, casos de prueba poco eficientes, necesidades de priorización de defectos, etc.
+![[Pasted image 20250407164750.png]]
+Los indicadores presentados han sido utilizados en proyectos reales demostrando su valor a los responsable de
+la toma de decisiones. Se debe tener en cuenta que no todos los proyectos necesitan todos los indicadores. Esto
+puede ser variable dependiendo de las características iniciales del proyecto y de los cambios que el mismo
+proyecto sufra a lo largo de su historia. Sin embargo, en líneas generales podemos recomendar que como
+mínimo se utilice el indicador de Funcionalidad Completa y el indicador de Evolución de la Prueba.

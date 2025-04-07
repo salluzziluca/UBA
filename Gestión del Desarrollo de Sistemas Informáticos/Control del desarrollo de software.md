@@ -85,8 +85,13 @@ b) Proceso: el indicador es muy útil para detectar el síndrome del 90 %, por e
 
 
 ## Indicador de cobertura de prueba 
-- Planificados: cantidad de casos a ejecutar.
-b) Disponibles: lo que realmente puedo ejecutar teniendo en cuenta lo que el equipo de desarrollo entregó al
-equipo de prueba.
-c) Ejecutados: lo que el equipo de prueba pudo ejecutar.
-d) Ejecutados OK: casos ejecutados sin errores. Es otra forma de ver avance del proyecto.
+- Planificados: cantidad de casos a ejecutar 
+- Disponibles: lo que realmente puedo ejecutar teniendo en cuenta lo que el equipo de desarrollo entregó al equipo de prueba.
+- Ejecutados: lo que el equipo de prueba pudo ejecutar.
+- Ejecutados OK: casos ejecutados sin errores. Es otra forma de ver avance del proyecto.
+![[Pasted image 20250407164516.png]]
+
+Este indicador puede ser utilizado para tener otra forma de validar avance del proyecto. El avance está dado por
+los casos de prueba que han sido ejecutados sin problemas.
+
+## Earned Value (cuanto costará)

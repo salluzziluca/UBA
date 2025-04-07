@@ -10,4 +10,5 @@ Es por eso que se recomienda usar Story Points. Se divide el trabajo en User Sto
 
 
 ## El problema con los burndown charts 
-Cuando uno crea uj
+Cuando uno crea un burndown chart, le pone un piso. Pero puede pasar que ese piso cambie, que el final estimado de nuestro projecto varíe. 
+### Burn Below 

@@ -27,3 +27,10 @@ corrección, obteniendo información sobre cuánto demorará la estabilización 
 #### Errores comunes 
 Muchas veces se mide el avance por calendario (si se dijo que tardabamos 20 dias, al dia 10 esta al 50% sin chequear)
 O por codigo completo (sin chequear la estabilidad de este, puede estar "completo" pero tener muchos defectos)
+
+#### Solución (Indicador de Funcionalidad Completa)
+El indicador de Funcionalidad Completa mide avance cuando una funcionalidad está completa, pero...
+
+No hay avance si la funcionalidad no está completa
+
+No está completa la funcionalidad si no está desarrollada, probada y estabilizada.

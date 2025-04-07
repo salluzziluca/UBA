@@ -61,10 +61,6 @@ Consideraciones sobre este indicador
 a) Validez: este indicador sólo es valido en etapa de construcción. No se utiliza en el período final de
 estabilización ya que durante ese período la funcionalidad real es similar a la planificada.
 b) Proceso: este indicador no generará avance si el equipo no se focaliza en cerrar temas. El indicador es binario, la funcionalidad está completa o no está.
-c) Síndrome del 0%: si se considera completa a una funcionalidad cuándo no tiene ningún defecto, evitaremos el síndrome del 90%, pero caeremos en el síndrome del 0%, es decir, no registraremos avance porque siempre habrá algún defecto pendiente. Es por eso que una funcionalidad está completa cuando no posee defectos
-críticos, pero sí tiene defectos pendientes.
-d) Funcionalidad = código: es su forma más pura, este indicador sólo considera funcionalidad al producto final
-para el usuario. Una especificación no es producto final. Sin embargo, en algunos proyectos en donde hay una
-marcada etapa de análisis al principio y un equipo de control de calidad que verifica el análisis, puede
-considerarse funcionalidad a la especificación para poder utilizar este indicador como una herramienta de
-control.
+c) Síndrome del 0%: si se considera completa a una funcionalidad cuándo no tiene ningún defecto, evitaremos el síndrome del 90%, pero caeremos en el síndrome del 0%, es decir, no registraremos avance porque siempre habrá algún defecto pendiente. Es por eso que una funcionalidad está completa cuando no posee defectos críticos, pero sí tiene defectos pendientes.
+
+d) Funcionalidad = código: es su forma más pura, este indicador sólo considera funcionalidad al producto final para el usuario. Una especificación no es producto final. Sin embargo, en algunos proyectos en donde hay una marcada etapa de análisis al principio y un equipo de control de calidad que verifica el análisis, puede considerarse funcionalidad a la especificación para poder utilizar este indicador como una herramienta de control.

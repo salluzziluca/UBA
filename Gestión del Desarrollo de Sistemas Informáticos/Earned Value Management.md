@@ -131,4 +131,5 @@ Además del costo, se puede estimar la duración del proyecto:
 
 ## Buena implementacion de EVm
  la buena implementación de la GVG supone la integración del alcance, el cronograma y el costo en la planificación del proyecto.
- - Alcance: se recomienda descomponer el trabajo por realizar siguiendo lineamiento y practicas de 
+ - Alcance: se recomienda descomponer el trabajo por realizar siguiendo lineamiento y practicas de EDT (estructura de desglose de trabajo)
+ - Cronograma:  Se puede aplicar el EVM usando la informacion estatica de un Diagrama de Gantt

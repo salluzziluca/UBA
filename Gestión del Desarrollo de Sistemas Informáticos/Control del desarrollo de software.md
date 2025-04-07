@@ -75,3 +75,12 @@ Esto permite diferentes y nuevos analisis
 
 ## Medir defectos 
 Midiendo la cantidad de defenctos que ocurren y cuantos se resuelven por dia tambien tenemos la velocidad de correccion y el tiempo estimado para estabilizar el producto 
+![[Pasted image 20250407164305.png]]
+
+
+### Consideraciones sobre este indicador
+a) Validez: este indicador es válido durante todo el proyecto cuando hay prueba en paralelo al desarrollo. Si sólo
+hay prueba al final, el indicador es muy útil durante la etapa de prueba final y estabilización.
+b) Proceso: el indicador es muy útil para detectar el síndrome del 90 %, por ejemplo cuando avanza el código completo, pero la funcionalidad posee gran cantidad de defectos pendientes. Asimismo ayuda a detectar si se
+está aplicando en forma correcta el proceso de desarrollo y prueba en paralelo. En el ejemplo (figura 7) el
+proceso se está aplicando adecuadamente.

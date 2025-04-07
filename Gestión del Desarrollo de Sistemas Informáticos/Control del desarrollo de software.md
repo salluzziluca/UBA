@@ -55,3 +55,16 @@ Información adicional
 a) **Curva de código completo**: muestra cuándo el equipo de desarrollo entrega código nuevo al equipo de control de calidad. Ese código aún no está probado ni estabilizado. Se debe tener especial cuidado con las conclusiones que se obtengan con esta curva ya que no está basada en evidencia física validada y suele ocultar el síndrome del 90%.
 b) **Curva de funcionalidad aprobada por usuario**: marca la funcionalidad que además de estar completa ha sido validada por el usuario final. Indica el avance más seguro ya que posee una aprobación de usuario. A diferencia de la funcionalidad completa, es imposible lograr avance semanal con esta curva, pero debería aumentar escalonadamente cada vez que el proyecto realice una entrega al usuario. Es muy útil graficarla, especialmente si trabajamos con un esquema de entregas incrementales al usuario 
 c) **Productividad**: se obtiene dividiendo los PFC reales sobre la unidad de tiempo. En la figura anterior, la productividad es 3 PFC x Sem (15 PFC reales / 5 semanas reales). Esto nos permitiría hacer la siguiente extrapolación lineal: necesitaré 13,33 semanas para obtener los 40 PFC restantes (40/3). Puede servir para predecir el futuro (figura 3).
+
+### Consideraciones 
+Consideraciones sobre este indicador
+a) Validez: este indicador sólo es valido en etapa de construcción. No se utiliza en el período final de
+estabilización ya que durante ese período la funcionalidad real es similar a la planificada.
+b) Proceso: este indicador no generará avance si el equipo no se focaliza en cerrar temas. El indicador es binario, la funcionalidad está completa o no está.
+c) Síndrome del 0%: si se considera completa a una funcionalidad cuándo no tiene ningún defecto, evitaremos el síndrome del 90%, pero caeremos en el síndrome del 0%, es decir, no registraremos avance porque siempre habrá algún defecto pendiente. Es por eso que una funcionalidad está completa cuando no posee defectos
+críticos, pero sí tiene defectos pendientes.
+d) Funcionalidad = código: es su forma más pura, este indicador sólo considera funcionalidad al producto final
+para el usuario. Una especificación no es producto final. Sin embargo, en algunos proyectos en donde hay una
+marcada etapa de análisis al principio y un equipo de control de calidad que verifica el análisis, puede
+considerarse funcionalidad a la especificación para poder utilizar este indicador como una herramienta de
+control.

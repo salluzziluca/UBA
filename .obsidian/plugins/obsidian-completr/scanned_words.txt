@@ -2212,6 +2212,10 @@ configuring
 consultant
 clients
 colleagues
+correct
+chico
+chasis
+caucho
 de
 dispositivos
 del
@@ -3123,6 +3127,11 @@ divided
 documents
 differences
 decrease
+dont
+details
+drive
+denominan
+diviide
 gestion
 gran
 guarda
@@ -3592,6 +3601,7 @@ growing
 grows
 government
 ganas
+grid
 especifico
 entra
 en
@@ -4531,6 +4541,7 @@ extensively
 estimating
 estimates
 enough
+epicas
 servicios
 son
 su
@@ -5484,6 +5495,12 @@ suitability
 somos
 servers
 setting
+storie
+spend
+send
+smap
+simply
+subtareas
 par
 por
 punto
@@ -6548,6 +6565,13 @@ providing
 purposes
 piso
 precise
+punta
+parts
+perderse
+picture
+podrian
+priorizan
+pulgadas
 la
 las
 le
@@ -7159,6 +7183,10 @@ lySf
 lqk
 live
 legacies
+laburo
+like
+leaves
+lets
 agnosticos
 apps
 al
@@ -8100,6 +8128,11 @@ always
 accuracy
 accurate
 activities
+arrange
+arranging
+another
+armado
+auto
 hardware
 heap
 hay
@@ -8623,6 +8656,7 @@ historical
 hand
 however
 hinder
+head
 que
 queda
 quien
@@ -9576,6 +9610,7 @@ unitarias
 unit
 under
 useful
+usarla
 System
 Son
 Source
@@ -11449,6 +11484,7 @@ Environmental
 Every
 External
 EEFs
+Epics
 kernel
 kt
 kU
@@ -12769,6 +12805,8 @@ referred
 rendidores
 recomienda
 responses
+recite
+ruedas
 operacion
 orden
 operaciones
@@ -14407,6 +14445,8 @@ vMk
 various
 validado
 valuable
+vendria
+vertebral
 Application
 API
 Asigna
@@ -14947,6 +14987,8 @@ Assets
 Activity
 Actividad
 Activities
+Arriba
+Actividades
 Programming
 Procesos
 Partes
@@ -15557,6 +15599,7 @@ Policies
 Procedures
 Past
 Points
+Patton
 Interface
 ID
 Instructions
@@ -17339,6 +17382,13 @@ move
 manager
 most
 managing
+maps
+minimizamos
+major
+mulch
+message
+motor
+modular
 tien
 tiene
 todos
@@ -17978,6 +18028,11 @@ templates
 try
 taxes
 thoughts
+tirado
+trunk
+twigs
+tell
+teaching
 inico
 interna
 infro
@@ -18812,6 +18867,8 @@ influenced
 investiguemos
 improving
 intuitivo
+iceberg
+iterations
 fijo
 file
 fork
@@ -19400,6 +19457,9 @@ future
 famous
 fall
 foolish
+finally
+flat
+fact
 Nombre
 Notas
 Not
@@ -20424,6 +20484,7 @@ FVX
 Fontela
 Funcionalidades
 Factors
+Flat
 Descriptors
 Descriptor
 Devuelve
@@ -22055,6 +22116,8 @@ TQAzA
 TVUU
 There
 Too
+Then
+They
 Realiza
 REgistrys
 Rango
@@ -23258,6 +23321,12 @@ basciamente
 between
 burndown
 burn
+built
+benefits
+branches
+bag
+buenoi
+blanco
 will
 words
 with
@@ -24665,6 +24734,7 @@ Organizational
 OPA
 OPAs
 Once
+Otras
 ya
 yo
 yM
@@ -28101,6 +28171,7 @@ JeC
 JDL
 JHPr
 JVE
+Jeff
 Quienes
 Queue
 Quiere

@@ -48,8 +48,7 @@ Descripcion de:
 
 - Establecer los límites del sistema 
 - Identificar actores involucrados en el sistema
-### User story mapping 
-![[Pasted image 20240926105516.png]]
+### [[User Story Backlog as a Map|user story mapping]]
 
 ### Impact mapping
 ![[Pasted image 20240926105526.png]]

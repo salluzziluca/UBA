@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "User Story Backlog as a Map",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
+    },
+    {
+      "basename": "Historia de Usuario",
+      "path": "Ingeneniería del Software I/Historia de Usuario.md"
+    },
+    {
       "basename": "Control del desarrollo de software",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Control del desarrollo de software.md"
     },
@@ -157,10 +165,6 @@
       "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
     },
     {
-      "basename": "User Story Backlog as a Map",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
-    },
-    {
       "basename": "Technical, User eXperience and Business Review",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Building the MVP Canvas",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
-    },
-    {
-      "basename": "Lean Sales Up",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Sales Up.md"
     }
   ],
   "omittedPaths": [],

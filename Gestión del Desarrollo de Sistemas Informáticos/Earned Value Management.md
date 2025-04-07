@@ -175,7 +175,7 @@ Además del costo, se puede estimar la duración del proyecto:
   - **% Físico Completado:**  
     Evaluación basada en el avance físico observado en la fecha de corte.
 
-> **Dato Clave:**  
+>[!info] **Dato Clave:**  
 > Cada modalidad se elige según la naturaleza de la tarea y la forma en que se pueda medir el progreso.
 
 
@@ -194,7 +194,7 @@ Además del costo, se puede estimar la duración del proyecto:
 - **Ejemplo:**  
   Tareas de dirección de proyectos que involucran diversas actividades semanales.
 
-> **Recomendación:**  
+>[!done] **Recomendación:**  
 > Es ideal para actividades de soporte o administrativas donde la producción tangible no es el principal indicador.
 
 ---
@@ -223,3 +223,12 @@ Además del costo, se puede estimar la duración del proyecto:
 
 > **Consejo:**  
 > La administración por excepción se centra en las tareas que se salen de los umbrales definidos, optimizando la gestión del proyecto.
+
+
+## Conclusion 
+
+La mejor manera de implantar la GVG es manteniendo el modelo tan simple como sea posible. Es necesario equilibrar los requerimientos de exactitud de la información con la facilidad de manejo del modelo.
+
+Analice su proyecto y defina qué es lo que mejor se adecua a él. Nunca se debe forzar el proyecto para establecer algún criterio, enfoque o técnica de medición de GVG.
+
+Siempre recuerde que el principal objetivo de la GVG es proporcionar la retroalimentación correcta para facilitar la toma de decisiones. La GVG por sí misma no producirá proyectos exitosos; para ello se requiere de un director de proyecto dispuesto a realizar el análisis necesario y a emprender acciones correctivas cuando se lo requiera.

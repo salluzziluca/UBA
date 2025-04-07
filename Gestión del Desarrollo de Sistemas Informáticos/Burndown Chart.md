@@ -36,3 +36,10 @@ lo contrario, puede significar que a lo ultimo dejaron de esforzarse tanto y emp
 ## Stories too big
 ![[Pasted image 20250407153318.png]]
 Se entiende solo, en vez de separar todo en historias chiquitas se armaron grandes chunks de cosas que se resolvieron alll at once. Es dificil de estimar, es dificil para el PM ir viendo los detalles de cada cosa. es dificil.
+
+
+
+## WIP 
+![[Pasted image 20250407153945.png]]
+
+O una sola tarea siendo desarrollada al m

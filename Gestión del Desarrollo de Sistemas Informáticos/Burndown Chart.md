@@ -11,4 +11,9 @@ Es por eso que se recomienda usar Story Points. Se divide el trabajo en User Sto
 
 ## El problema con los burndown charts 
 Cuando uno crea un burndown chart, le pone un piso. Pero puede pasar que ese piso cambie, que el final estimado de nuestro projecto varíe. 
-### Burn Below 
+### Burn Below Zero 
+![[Pasted image 20250407104559.png]]
+No es muy comodo porque se complica dibujar si cambia mucho el scope.
+
+### Burn Up
+Un burndown dado vuelta, es un poco mas intuitivo

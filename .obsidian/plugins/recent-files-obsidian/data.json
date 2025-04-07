@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Untitled.md"
+    },
+    {
       "basename": "Burndown Chart",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Burndown Chart.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lean Sales Up",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Sales Up.md"
-    },
-    {
-      "basename": "Programación Dinámica",
-      "path": "Teoría de Algoritmos/Programación Dinámica.md"
     }
   ],
   "omittedPaths": [],

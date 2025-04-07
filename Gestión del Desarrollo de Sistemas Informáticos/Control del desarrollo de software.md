@@ -17,3 +17,4 @@ Lo primero es reunir evidencia fisica del avance, no confiar en que alguien nos 
 
 ## Evidencias Físicas para el control de proyectos
 
+El producto **desarrollado**... pero también **probado**... y estabilizado** (sin defectos críticos).

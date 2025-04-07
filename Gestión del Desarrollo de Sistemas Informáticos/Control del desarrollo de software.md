@@ -71,4 +71,4 @@ Como vimos hasta ahora, el indicador de funcionalidad completa divide al product
 ![[Pasted image 20250407163642.png]]
 lit lo que yo hago en [[Kanban]]
 
-Esto permite diferentes y 
+Esto permite diferentes y nuevos analisis

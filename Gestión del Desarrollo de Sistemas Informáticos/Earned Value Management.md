@@ -145,10 +145,10 @@ Además del costo, se puede estimar la duración del proyecto:
 - **Uso:**  
   Útil para evaluaciones simples y rápidas, adaptable a otras combinaciones (30/70, 25/75, etc.).
 
-> **Nota:**  
+>[!note] **Nota:**  
 > Ideal para tareas con entregables bien definidos donde el avance se puede calificar de forma binaria.
 
----
+
 
 ### 2. Hitos Ponderados
 - **Descripción:**  
@@ -156,10 +156,10 @@ Además del costo, se puede estimar la duración del proyecto:
 - **Uso:**  
   Recomendada cuando es difícil medir el avance parcial de manera continua, pero se pueden definir resultados parciales.
 
-> **Consejo:**  
+>[!tip] **Consejo:**  
 > Permite evaluar el progreso en etapas, facilitando el seguimiento de tareas complejas.
 
----
+
 
 ### 3. Porcentaje Completado
 - **Descripción:**  
@@ -178,17 +178,17 @@ Además del costo, se puede estimar la duración del proyecto:
 > **Dato Clave:**  
 > Cada modalidad se elige según la naturaleza de la tarea y la forma en que se pueda medir el progreso.
 
----
 
-## 4. Esfuerzo Proporcional
+
+### 4. Esfuerzo Proporcional
 - **Descripción:**  
   Se utiliza cuando el avance de una tarea está relacionado directamente con otra que ya tiene su propia medición del valor ganado.
 - **Uso:**  
   Permite vincular el rendimiento entre tareas interdependientes.
 
----
 
-## 5. Nivel de Esfuerzo
+
+### 5. Nivel de Esfuerzo
 - **Descripción:**  
   Técnica aplicada a tareas que no generan resultados tangibles o tienen múltiples resultados difíciles de cuantificar.
 - **Ejemplo:**  
@@ -199,7 +199,7 @@ Además del costo, se puede estimar la duración del proyecto:
 
 ---
 
-## 6. Análisis de Rendimiento y Pronósticos con la GVG
+##  Análisis de Rendimiento y Pronósticos con la GVG
 - **Descripción:**  
   Involucra el análisis continuo del desempeño del proyecto para determinar cómo va y cómo terminará.
 - **Uso:**  
@@ -210,7 +210,7 @@ Además del costo, se puede estimar la duración del proyecto:
 
 ---
 
-## 7. GVG y Umbrales de Calidad
+##  GVG y Umbrales de Calidad
 - **Descripción:**  
   Establece márgenes de tolerancia (umbrales) para determinar si el desempeño está dentro de límites aceptables.
 - **Zonas de Control:**  

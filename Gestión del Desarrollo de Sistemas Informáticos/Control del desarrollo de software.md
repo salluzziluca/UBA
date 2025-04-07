@@ -21,3 +21,8 @@ El producto **desarrollado**... pero también **probado**... y **estabilizado** 
 
 Adicionalmente podremos medir no sólo la velocidad de construcción, sino también la velocidad de
 corrección, obteniendo información sobre cuánto demorará la estabilización del producto.
+
+### Grado de avancen
+
+#### Errores comunes 
+Muchas veces se mide el avance por calendario (si t)

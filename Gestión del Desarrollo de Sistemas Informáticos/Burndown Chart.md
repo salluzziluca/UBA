@@ -23,3 +23,7 @@ Un burndown dado vuelta, es un poco mas intuitivo
 
 --- 
 Se puede usar un burn down para las iteraciones y un burn up para el proyecto en general
+
+## Too much work
+![[Pasted image 20250407152621.png]]
+Si consistentemente el grafico nos da asi, quiere decir que estamos overcommiting

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Show the User Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
+      "basename": "User Story Backlog as a Map",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
+    },
+    {
+      "basename": "Sequence The Features",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
     },
     {
       "basename": "Lean Inception",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
     },
     {
-      "basename": "Write the Product Vision",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
+      "basename": "Display Features in Journeys",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
     },
     {
-      "basename": "User Story Backlog as a Map",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
+      "basename": "Show the User Journeys",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
+    },
+    {
+      "basename": "Write the Product Vision",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
     },
     {
       "basename": "Historia de Usuario",
@@ -191,14 +199,6 @@
     {
       "basename": "Elevator Pitch",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Elevator Pitch.md"
-    },
-    {
-      "basename": "User Journey",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Journey.md"
-    },
-    {
-      "basename": "Building the MVP Canvas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
     }
   ],
   "omittedPaths": [],

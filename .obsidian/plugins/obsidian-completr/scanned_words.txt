@@ -2216,6 +2216,10 @@ correct
 chico
 chasis
 caucho
+came
+construction
+clogging
+constant
 de
 dispositivos
 del
@@ -3132,6 +3136,9 @@ details
 drive
 denominan
 diviide
+defining
+deliver
+delivering
 gestion
 gran
 guarda
@@ -3602,6 +3609,8 @@ grows
 government
 ganas
 grid
+green
+guide
 especifico
 entra
 en
@@ -4542,6 +4551,8 @@ estimating
 estimates
 enough
 epicas
+everyone
+effective
 servicios
 son
 su
@@ -5501,6 +5512,9 @@ send
 smap
 simply
 subtareas
+simplest
+sequencer
+score
 par
 por
 punto
@@ -6572,6 +6586,12 @@ picture
 podrian
 priorizan
 pulgadas
+purpose
+places
+prioritized
+partially
+prevent
+period
 la
 las
 le
@@ -7187,6 +7207,9 @@ laburo
 like
 leaves
 lets
+lines
+line
+limits
 agnosticos
 apps
 al
@@ -8133,6 +8156,9 @@ arranging
 another
 armado
 auto
+allow
+agreement
+avoids
 hardware
 heap
 hay
@@ -9611,6 +9637,7 @@ unit
 under
 useful
 usarla
+unbalanced
 System
 Son
 Source
@@ -10208,6 +10235,7 @@ Standard
 Summary
 Story
 Stories
+Sequencer
 Calls
 Cmabia
 CPU
@@ -10860,6 +10888,7 @@ Calculo
 Creep
 Circunstancia
 Cree
+Create
 Es
 El
 Estos
@@ -11485,6 +11514,8 @@ Every
 External
 EEFs
 Epics
+Explain
+Everyone
 kernel
 kt
 kU
@@ -11907,6 +11938,7 @@ kgO
 kEe
 knowledge
 keep
+keeps
 realicen
 resolve
 recommend
@@ -12807,6 +12839,8 @@ recomienda
 responses
 recite
 ruedas
+rules
+running
 operacion
 orden
 operaciones
@@ -13355,6 +13389,7 @@ organizations
 overcommiting
 optimistas
 office
+options
 nombre
 nuevo
 nica
@@ -13904,6 +13939,7 @@ north
 numerous
 negatively
 note
+numbered
 via
 vuelve
 viven
@@ -14447,6 +14483,7 @@ validado
 valuable
 vendria
 vertebral
+validate
 Application
 API
 Asigna
@@ -17389,6 +17426,7 @@ mulch
 message
 motor
 modular
+maximum
 tien
 tiene
 todos
@@ -18033,6 +18071,7 @@ trunk
 twigs
 tell
 teaching
+three
 inico
 interna
 infro
@@ -18869,6 +18908,10 @@ improving
 intuitivo
 iceberg
 iterations
+integrated
+increments
+increemnts
+iterative
 fijo
 file
 fork
@@ -19460,6 +19503,7 @@ foolish
 finally
 flat
 fact
+finding
 Nombre
 Notas
 Not
@@ -20485,6 +20529,7 @@ Fontela
 Funcionalidades
 Factors
 Flat
+Feature
 Descriptors
 Descriptor
 Devuelve
@@ -22768,6 +22813,9 @@ RjKs
 RPs
 Requisito
 Requerimiento
+Remind
+Rule
+Rules
 bien
 by
 be
@@ -23327,6 +23375,7 @@ branches
 bag
 buenoi
 blanco
+being
 will
 words
 with
@@ -23762,6 +23811,7 @@ why
 widely
 where
 worry
+worked
 VA
 VIEW
 Volumen

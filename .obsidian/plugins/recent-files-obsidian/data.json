@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Descubrimiento-Alcance",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
+    },
+    {
       "basename": "Earned Value Management",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Pasaje del modelo conceptual al modelo relacional",
       "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
-    },
-    {
-      "basename": "Descubrimiento-Alcance",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
     },
     {
       "basename": "2.4 Vectores Aleatorios",
@@ -195,10 +199,6 @@
     {
       "basename": "Task",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Task.md"
-    },
-    {
-      "basename": "Actiivity",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
     }
   ],
   "omittedPaths": [],

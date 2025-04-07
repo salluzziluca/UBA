@@ -62,10 +62,18 @@ El **EAC** es una proyección del costo total que se espera incurrir al finaliza
   Es la estimación final del costo del proyecto, que combina el costo real incurrido (AC) con el costo futuro proyectado.
 
 - **Fórmulas Comunes:**  
-  - **EAC = AC + (BAC - EV):**  
-    Utilizada cuando se asume que las condiciones futuras se mantendrán similares a las actuales.  
-  - **EAC = BAC / CPI:**  
-    Aplica un ajuste basado en la eficiencia del costo medido por el CPI (Cost Performance Index).
+- **EAC = BAC – SV**  
+  Se utiliza cuando se espera que los costos futuros difieran del presupuesto original (PMB) debido a variaciones atípicas.
+
+- **EAC = BAC / CPI**  
+  Ajusta los costos futuros de acuerdo al índice de eficiencia del rendimiento del costo (CPI) acumulado hasta la fecha.
+
+- **EAC = BAC / (CPI * SPI)**  
+  Considera tanto la eficiencia de costos (CPI) como la de cronograma (SPI) para calcular el costo final.
+
+- **EAC = AC + Nuevo estimado para el trabajo remanente**  
+  Suma el costo real incurrido (AC) y un nuevo pronóstico para completar el trabajo pendiente.
+
 
 >[!important] **Dato Clave:**   La elección de la fórmula de EAC debe basarse en el contexto del proyecto y en las variaciones que se hayan observado en el desempeño.
 

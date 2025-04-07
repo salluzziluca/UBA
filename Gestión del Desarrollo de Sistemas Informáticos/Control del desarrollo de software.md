@@ -15,6 +15,9 @@ Esto se da porque usamos informacion subjetiva para registrar avance. Cuando nos
 Lo primero es reunir evidencia fisica del avance, no confiar en que alguien nos dijo "avanzamos"
 
 
-## Evidencias Físicas para el control de proyectos
+## Evidencias Físicas para el control de proyectos basado en control de calidad
 
-El producto **desarrollado**... pero también **probado**... y estabilizado** (sin defectos críticos).
+El producto **desarrollado**... pero también **probado**... y **estabilizado** (sin defectos críticos).
+
+Adicionalmente podremos medir no sólo la velocidad de construcción, sino también la velocidad de
+corrección, obteniendo información sobre cuánto demorará la estabilización del producto.

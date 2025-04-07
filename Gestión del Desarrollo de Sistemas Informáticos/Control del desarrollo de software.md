@@ -95,3 +95,12 @@ Este indicador puede ser utilizado para tener otra forma de validar avance del p
 los casos de prueba que han sido ejecutados sin problemas.
 
 ## Earned Value (cuanto costará)
+![[Pasted image 20250407164601.png]]
+### Consideraciones 
+Consideraciones sobre este indicador
+- Alcance: es necesario separar los costos que no están asociados directamente a la construcción de software. Por ejemplo, la adquisición de un equipo, la planificación inicial, el despliegue, etc. Otros costos, como la administración del proyecto, podrían distribuirse dentro de los PFC.
+- Validez: al igual que el indicador de Funcionalidad Completa, sólo aplica a la construcción, no a la estabilización.
+ - Margen de error: existe cierto margen de error aceptable con el objetivo de no aumentar la cargaadministrativa debido a:
+ - Los pesos generan información inexacta
+ - El Actual está insumido en funcionalidades que aún no están completas
+- Los costos indirectos que se distribuyen en los PFC pueden generar margen de error.

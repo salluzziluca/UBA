@@ -1,40 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Descubrimiento-Alcance",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
+      "basename": "Earned Value Management",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
+    },
+    {
+      "basename": "1.6 Particiones",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+    },
+    {
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+    },
+    {
+      "basename": "3.2 Varianza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
+    },
+    {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Backtracking",
+      "path": "Teoría de Algoritmos/Backtracking.md"
+    },
+    {
+      "basename": "Ciclo de Euler",
+      "path": "Teoría de Algoritmos/Ciclo de Euler.md"
     },
     {
       "basename": "Algoritmos Greedy",
       "path": "Teoría de Algoritmos/Algoritmos Greedy.md"
-    },
-    {
-      "basename": "2.4 Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
-    },
-    {
-      "basename": "2.3 Función de Variable Aleatoria",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
-    },
-    {
-      "basename": "1.7 Eventos Independientes",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
-    },
-    {
-      "basename": "1.5 Probabilidad Condicional",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
-    },
-    {
-      "basename": "1.4 Espacios Infinitos",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.4 Espacios Infinitos.md"
-    },
-    {
-      "basename": "1.1 Definición de Probabilidad",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
-    },
-    {
-      "basename": "1.0 Probailididad",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.0 Probailididad.md"
     },
     {
       "basename": "1.2 Álgebra de Eventos",
@@ -45,16 +41,48 @@
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.3 Conteo.md"
     },
     {
+      "basename": "1.4 Espacios Infinitos",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.4 Espacios Infinitos.md"
+    },
+    {
+      "basename": "1.5 Probabilidad Condicional",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
+    },
+    {
+      "basename": "1.7 Eventos Independientes",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
+    },
+    {
+      "basename": "1.1 Definición de Probabilidad",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
+    },
+    {
+      "basename": "1.0 Probailididad",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.0 Probailididad.md"
+    },
+    {
+      "basename": "Pasaje del modelo conceptual al modelo relacional",
+      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
+    },
+    {
+      "basename": "Descubrimiento-Alcance",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
+    },
+    {
+      "basename": "2.4 Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
+    },
+    {
+      "basename": "2.3 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
+    },
+    {
       "basename": "2.1 Definición de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
     },
     {
       "basename": "2.0  Variables Aleatorias",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
-    },
-    {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
     {
       "basename": "FIUBA Talks",
@@ -95,10 +123,6 @@
     {
       "basename": "Show the User Journeys",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
-    },
-    {
-      "basename": "Pasaje del modelo conceptual al modelo relacional",
-      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
     },
     {
       "basename": "Modelo Entidad-Interrelación Avanzado",
@@ -175,26 +199,6 @@
     {
       "basename": "Actiivity",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
-    },
-    {
-      "basename": "Stakeholder",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Stakeholder.md"
-    },
-    {
-      "basename": "Software Legacy",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
-    },
-    {
-      "basename": "Sequence The Features",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
-    },
-    {
-      "basename": "Project Charter",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Project Charter.md"
-    },
-    {
-      "basename": "Product Backlog Item",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
     }
   ],
   "omittedPaths": [],

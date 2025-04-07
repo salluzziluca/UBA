@@ -1,7 +1,6 @@
 ## Fuerza bruta
 Tenemos un problema combinatorio-> tenemos que probar todas las combinaciones/soluciones/permutaciones
-
-ordenamiento por fuerza bruta: ![[Sorting#Ordenamiento por Fuerza Bruta]]
+![[Sorting#Ordenamiento por Fuerza Bruta]]
 ## Regla Básica de Backtracking
 > Cuando sabemos que una combinación parcial que ya construimos no va a llevar al resultado válido, **podamos** y volvemos para atrás
 
@@ -13,6 +12,18 @@ ordenamiento por fuerza bruta: ![[Sorting#Ordenamiento por Fuerza Bruta]]
 	2) Si lo es, llamo recursivamente y vuelvo a 1)
 4) Si llegue hasta aca, ya probe con todo y no encontre una solucion
 (no válido para todos los casos, pero el esquema suele ser similar)
+(Si es un problema de optimizacion, aca devolveria la mejor version. O sea, tengo que llegar al final si o si)
+
+
+NO es fuerza bruta con podas. Al final el codigo nos puede llegar a quedar muy diferente.
+
+Siempre podemos, aunque parezca una boludez. Importa mucho una podita mas o una podita menosl
+
+## MAS BASICO? mas basico
+Primero pienso como voy a recorrer mi problema. Como construyo, cual va a ser la solucion?? 
+Despues pienso las podas.
+
+En k coloreo, por ejemplo. la decision es: que color le pongo a ese nodo?? despues pienso las podas
 
 
 ### Ordenamiento con Backtracking

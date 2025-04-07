@@ -45,3 +45,7 @@ Se entiende solo, en vez de separar todo en historias chiquitas se armaron grand
 O una sola tarea siendo desarrollada al momento, o muchas en paralelo en progreso. Conviene atacar de a poco e ir sacandose cosas de encima en vez de tener todas juntas al mismo tiempo.
 
 >[!quote] Unfinished work has a cost (eht rok doine so far) but no value (we cant deliver it ot the customer). Its far better to finish a small amount of work than to start a large amount.
+
+## Estan metiendo mano 
+![[Pasted image 20250407154824.png]]
+si se ve asi, no es real, alguien lo adapto para que sea vea lindo

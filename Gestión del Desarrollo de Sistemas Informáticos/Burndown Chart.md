@@ -35,4 +35,4 @@ lo contrario, puede significar que a lo ultimo dejaron de esforzarse tanto y emp
 
 ## Stories too big
 ![[Pasted image 20250407153318.png]]
-Se entiende solo, en vez de separar todo en historias chiquitas se armaron grandes chunks de cosas que se resolvieron alll at once
+Se entiende solo, en vez de separar todo en historias chiquitas se armaron grandes chunks de cosas que se resolvieron alll at once. Es dificil de esi

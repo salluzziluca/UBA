@@ -17,4 +17,9 @@ No es muy comodo porque se complica dibujar si cambia mucho el scope.
 
 ### Burn Up
 Un burndown dado vuelta, es un poco mas intuitivo
-![[Pasted image 20250407104710.png]]
+![[Pasted image 20250407104710.png]]}
+
+
+
+--- 
+Se puede usar un burn down para las iteraciones y un burn up para el proyecto en general

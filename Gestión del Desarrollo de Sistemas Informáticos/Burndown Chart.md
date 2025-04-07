@@ -30,3 +30,5 @@ Si consistentemente el grafico nos da asi, quiere decir que estamos overcommitin
 
 
 ## Sandbagging
+![[Pasted image 20250407153123.png]]
+lo contrario, puede significar que a lo ultimo dejaron de esforzarse tanto y empezaron a trabajr

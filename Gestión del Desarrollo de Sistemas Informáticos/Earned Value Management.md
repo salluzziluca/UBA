@@ -232,3 +232,31 @@ La mejor manera de implantar la GVG es manteniendo el modelo tan simple como sea
 Analice su proyecto y defina qué es lo que mejor se adecua a él. Nunca se debe forzar el proyecto para establecer algún criterio, enfoque o técnica de medición de GVG.
 
 Siempre recuerde que el principal objetivo de la GVG es proporcionar la retroalimentación correcta para facilitar la toma de decisiones. La GVG por sí misma no producirá proyectos exitosos; para ello se requiere de un director de proyecto dispuesto a realizar el análisis necesario y a emprender acciones correctivas cuando se lo requiera.
+
+
+## Pasos para implementar EVM 
+#### Inicio
+
+- Definir los parámetros iniciales y las diferentes opciones de software a utilizar
+- Definir los umbrales de calidad que se usarán para el monitoreo y el control del proyecto
+
+#### Planificación
+
+- Definir la EDT
+- Definir la técnica de medición del valor ganado para cada tarea
+- Definir el cronograma dinámico
+- Asignar los recursos/costos a todas las tareas
+- Establecer la distribución del presupuesto a lo largo del tiempo
+- Establecer la línea base de medición del rendimiento  
+    (En cada uno de los pasos anteriores se deberá revisar el paso anterior y realizar actualizaciones cuando sea necesario)
+
+#### Ejecución, seguimiento y control (para cada período de informes)
+
+- Definir la fecha de estado
+- Registrar el avance de cada tarea de acuerdo con la técnica de medición del valor ganado elegida
+- Actualizar el trabajo remanente de cada tarea
+- Desarrollar el análisis de datos de la GVG
+- Calcular o definir pronósticos
+- Proponer acciones correctivas según sea necesario
+- Entregar informes de desempeño
+- Mantener la integridad de la línea base de medición del rendimiento**

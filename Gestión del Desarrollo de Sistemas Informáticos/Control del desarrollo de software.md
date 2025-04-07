@@ -25,4 +25,5 @@ corrección, obteniendo información sobre cuánto demorará la estabilización 
 ### Grado de avancen
 
 #### Errores comunes 
-Muchas veces se mide el avance por calendario (si t)
+Muchas veces se mide el avance por calendario (si se dijo que tardabamos 20 dias, al dia 10 esta al 50% sin chequear)
+O por codigo completo (sin chequear la estabilidad de este, puede estar "completo" pero tener muchos defectos)

@@ -72,3 +72,6 @@ Como vimos hasta ahora, el indicador de funcionalidad completa divide al product
 lit lo que yo hago en [[Kanban]]
 
 Esto permite diferentes y nuevos analisis
+
+## Medir defectos 
+Midiendo la cantidad de defenctos que ocurren y cuantos se resuelven por dia tambien tenemos la velocidad de correccion y el tiempo estimado para estabilizar el producto 

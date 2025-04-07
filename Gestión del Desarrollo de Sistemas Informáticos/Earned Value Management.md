@@ -127,3 +127,8 @@ Además del costo, se puede estimar la duración del proyecto:
 
 
 ![[Pasted image 20250406210706.png]]
+
+
+## Buena implementacion de EVm
+ la buena implementación de la GVG supone la integración del alcance, el cronograma y el costo en la planificación del proyecto.
+ - Alcance: se recomienda descomponer el trabajo por realizar siguiendo lineamiento y practicas de 

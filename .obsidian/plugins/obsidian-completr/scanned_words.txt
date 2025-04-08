@@ -2220,6 +2220,10 @@ came
 construction
 clogging
 constant
+column
+combination
+correspond
+clearly
 de
 dispositivos
 del
@@ -3139,6 +3143,9 @@ diviide
 defining
 deliver
 delivering
+discover
+discussion
+discarded
 gestion
 gran
 guarda
@@ -5515,6 +5522,7 @@ subtareas
 simplest
 sequencer
 score
+suggests
 par
 por
 punto
@@ -7210,6 +7218,7 @@ lets
 lines
 line
 limits
+linked
 agnosticos
 apps
 al
@@ -8159,6 +8168,7 @@ auto
 allow
 agreement
 avoids
+already
 hardware
 heap
 hay
@@ -9149,6 +9159,7 @@ quality
 quadrants
 quedado
 queria
+question
 utilizados
 un
 una
@@ -12841,6 +12852,8 @@ recite
 ruedas
 rules
 running
+row
+reaches
 operacion
 orden
 operaciones
@@ -13390,6 +13403,7 @@ overcommiting
 optimistas
 office
 options
+objectives
 nombre
 nuevo
 nica
@@ -13940,6 +13954,7 @@ numerous
 negatively
 note
 numbered
+necessarily
 via
 vuelve
 viven
@@ -15026,6 +15041,7 @@ Actividad
 Activities
 Arriba
 Actividades
+Although
 Programming
 Procesos
 Partes
@@ -15637,6 +15653,7 @@ Procedures
 Past
 Points
 Patton
+Prioritize
 Interface
 ID
 Instructions
@@ -16652,6 +16669,7 @@ UIZZ
 UoK
 UgJ
 URv
+Use
 modo
 mode
 menso
@@ -17427,6 +17445,7 @@ message
 motor
 modular
 maximum
+matrix
 tien
 tiene
 todos
@@ -18072,6 +18091,8 @@ twigs
 tell
 teaching
 three
+titles
+thought
 inico
 interna
 infro
@@ -23376,6 +23397,7 @@ bag
 buenoi
 blanco
 being
+because
 will
 words
 with
@@ -23812,6 +23834,7 @@ widely
 where
 worry
 worked
+won
 VA
 VIEW
 Volumen

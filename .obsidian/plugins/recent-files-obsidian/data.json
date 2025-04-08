@@ -5,6 +5,10 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Inception.md"
     },
     {
+      "basename": "Building the MVP Canvas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Building the MVP Canvas.md"
+    },
+    {
       "basename": "Discover the Features",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Discover the Features.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Product Discovery",
       "path": "Ingeneniería del Software I/Product Discovery.md"
-    },
-    {
-      "basename": "Elevator Pitch",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Elevator Pitch.md"
     }
   ],
   "omittedPaths": [],

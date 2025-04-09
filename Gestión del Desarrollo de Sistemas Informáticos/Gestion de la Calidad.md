@@ -50,7 +50,9 @@ Hay que evidenciarlo con pruebas, primero que falle, despues lo corrijo
 Costos para prevenirque los clientes reciban un producto defectuoso. 
 
 #### Costo del proceso 
+Definir bien el producto, bien entrenados a los devs, buen equipamiento y herramientas, tiempo para hacerlo bien
 
-
+#### Costo de evaluacion 
+pruebas e inspecciones 
 ### Costo de reparacion 
 Costo de fallas internas (antes de entregar)

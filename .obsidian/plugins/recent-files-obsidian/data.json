@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gestion de Costos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
+    },
+    {
       "basename": "Triángulo de Hierro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Technical, User eXperience and Business Review",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
-    },
-    {
-      "basename": "Lean Canvas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
     }
   ],
   "omittedPaths": [],

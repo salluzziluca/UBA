@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Triángulo de Hierro",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Untitled.md"
     },
     {
-      "basename": "Triángulo de Hierro",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
+      "basename": "Gestion de la Calidad",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la Calidad.md"
     },
     {
       "basename": "Gestion de Costos",
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Logico-Relacional Conceptual",
       "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
-    },
-    {
-      "basename": "Modelo Entidad-Interrelacion",
-      "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
     }
   ],
   "omittedPaths": [],

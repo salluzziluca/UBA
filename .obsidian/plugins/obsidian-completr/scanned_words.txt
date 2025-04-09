@@ -2224,6 +2224,11 @@ column
 combination
 correspond
 clearly
+cnias
+comprimir
+cronograma
+crashing
+coordinacion
 de
 dispositivos
 del
@@ -3147,6 +3152,7 @@ discover
 discussion
 discarded
 determinados
+dev
 gestion
 gran
 guarda
@@ -4562,6 +4568,8 @@ epicas
 everyone
 effective
 equally
+estimacion
+entregas
 servicios
 son
 su
@@ -5526,6 +5534,7 @@ sequencer
 score
 suggests
 sharpen
+suman
 par
 por
 punto
@@ -6604,6 +6613,8 @@ partially
 prevent
 period
 pencil
+priorizacion
+paralelizar
 la
 las
 le
@@ -8175,6 +8186,7 @@ avoids
 already
 axe
 axes
+abarcativas
 hardware
 heap
 hay
@@ -10254,6 +10266,8 @@ Summary
 Story
 Stories
 Sequencer
+Secunciacion
+Salida
 Calls
 Cmabia
 CPU
@@ -10907,6 +10921,8 @@ Creep
 Circunstancia
 Cree
 Create
+Cronograma
+Crunching
 Es
 El
 Estos
@@ -12862,6 +12878,7 @@ rules
 running
 row
 reaches
+riesgos
 operacion
 orden
 operaciones
@@ -15051,6 +15068,7 @@ Activities
 Arriba
 Actividades
 Although
+Acotar
 Programming
 Procesos
 Partes
@@ -17455,6 +17473,7 @@ motor
 modular
 maximum
 matrix
+mande
 tien
 tiene
 todos
@@ -21083,6 +21102,7 @@ Does
 Defino
 Dan
 Difference
+Duracion
 Memoria
 Multivariada
 MORE
@@ -22196,6 +22216,7 @@ There
 Too
 Then
 They
+Tracking
 Realiza
 REgistrys
 Rango
@@ -27822,6 +27843,7 @@ Han
 Here
 However
 Historical
+Hitos
 Jacobiano
 Job
 Jusitfique

@@ -5,6 +5,10 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la Calidad.md"
     },
     {
+      "basename": "Technical, User eXperience and Business Review",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
+    },
+    {
       "basename": "Triángulo de Hierro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GDSI_2_FIUBATalks.pptx",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/GDSI_2_FIUBATalks.pptx.pdf"
-    },
-    {
-      "basename": "Modelo Entidad-Interrelación Avanzado",
-      "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
     }
   ],
   "omittedPaths": [],

@@ -18,13 +18,13 @@ Lo que nostros usualmente llamamos [[Testeo]] es en realidad Control de Calida (
 
 
 ## Como probamos el producto?
-
-Verificacion: 
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUepLFZQ80uDdrIR3GRfKG7LvB6HKJpnPtji25pnjMZSZI47D8HUS6SkP_WssLqDkF2FGTCb7SLDv97GVwA1fE3JnNqqWXZfVxlRqnqshb7AVeOqCpwruowPLrmwCpiDgxap4ljgq0mhQU-Q27895z4=s2048?key=C3GRf55xXz4dfeiioTsKxm9H)
+Verificacion (yo construi lo que queria construir): 
 - revision de pares
 - pruebas unitarias 
 - pruebas de componentes 
 
-Validacion: 
+Validacion(yo construi lo que el cliente me dijo que queria tener): 
 -  Pruebas de comportamiento (user sin UI)
 - UAT (punta a punta)
 - Validacion en produccion: A|B, canary, monitoreo, etc.

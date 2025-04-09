@@ -2229,6 +2229,7 @@ comprimir
 cronograma
 crashing
 coordinacion
+canary
 de
 dispositivos
 del
@@ -5535,6 +5536,8 @@ score
 suggests
 sharpen
 suman
+satisfy
+stated
 par
 por
 punto
@@ -6615,6 +6618,7 @@ period
 pencil
 priorizacion
 paralelizar
+probamos
 la
 las
 le
@@ -10268,6 +10272,8 @@ Stories
 Sequencer
 Secunciacion
 Salida
+Steve
+Systems
 Calls
 Cmabia
 CPU
@@ -10923,6 +10929,7 @@ Cree
 Create
 Cronograma
 Crunching
+Calida
 Es
 El
 Estos
@@ -11551,6 +11558,7 @@ Epics
 Explain
 Everyone
 Edger
+Edition
 kernel
 kt
 kU
@@ -12879,6 +12887,7 @@ running
 row
 reaches
 riesgos
+revision
 operacion
 orden
 operaciones
@@ -13980,6 +13989,7 @@ negatively
 note
 numbered
 necessarily
+nostros
 via
 vuelve
 viven
@@ -15681,6 +15691,7 @@ Past
 Points
 Patton
 Prioritize
+Publishing
 Interface
 ID
 Instructions
@@ -16697,6 +16708,7 @@ UoK
 UgJ
 URv
 Use
+UAT
 modo
 mode
 menso
@@ -17474,6 +17486,7 @@ modular
 maximum
 matrix
 mande
+monitoreo
 tien
 tiene
 todos
@@ -18964,6 +18977,9 @@ increemnts
 iterative
 impossible
 instead
+increasing
+inherent
+implied
 fijo
 file
 fork
@@ -20016,6 +20032,7 @@ Njn
 NJdB
 Nfw
 Now
+New
 File
 For
 Funcion
@@ -21103,6 +21120,7 @@ Defino
 Dan
 Difference
 Duracion
+Dorset
 Memoria
 Multivariada
 MORE
@@ -21719,6 +21737,8 @@ Mejoras
 Muchos
 Market
 Moreover
+McConnell
+Management
 Table
 Todos
 This
@@ -22217,6 +22237,7 @@ Too
 Then
 They
 Tracking
+Trying
 Realiza
 REgistrys
 Rango
@@ -23869,6 +23890,8 @@ where
 worry
 worked
 won
+weight
+weighing
 VA
 VIEW
 Volumen
@@ -24321,6 +24344,8 @@ Vdb
 VUSb
 VYYVVYIZ
 Vpl
+Volume
+Verificacion
 OPTIONS
 Operativos
 Orden
@@ -25195,6 +25220,7 @@ yKSx
 yZH
 ygn
 your
+yourself
 json
 jacobiano
 justamente
@@ -26115,6 +26141,7 @@ YyQ
 YUUU
 YOc
 YwYw
+York
 Generales
 Global
 GDT
@@ -26577,6 +26604,7 @@ Gold
 Government
 Guide
 General
+Gerald
 BX
 Bit
 Box
@@ -27844,6 +27872,7 @@ Here
 However
 Historical
 Hitos
+House
 Jacobiano
 Job
 Jusitfique
@@ -28780,6 +28809,7 @@ QjrQ
 QvGm
 QZYKd
 QCe
+Quality
 ximo
 xito
 xitos
@@ -29611,6 +29641,7 @@ WrSI
 WiE
 Wikipedia
 Why
+Weinberg
 ZZZPU
 ZX
 ZQ

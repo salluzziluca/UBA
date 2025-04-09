@@ -2,4 +2,4 @@
 Dia: 2025-04-09
 dg-publish: true
 ---
-Estimar es dificil, no es algo que se hace una vez, ni es algo concreto ni exacto. Se debe hacer a lo largo de todo el projecto
+Estimar es dificil, no es algo que se hace una vez, ni es algo concreto ni exacto. Se debe hacer a lo largo de todo el projecto. Siempre midiendo para obtener nueva informacion que me pueda ayudar a estimar mejor. Estimar mejor != que el costo sea menor

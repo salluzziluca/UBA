@@ -3576,6 +3576,7 @@ greedys
 gastando
 ganancia
 gestores
+gitignore
 especifico
 entra
 en

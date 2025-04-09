@@ -63,3 +63,8 @@ hay que mandarselo de vuelta a los programadores, retrabajo y desperdicio, pospo
 Manejo de quejas
 trabajo de garantias, problemas legales, perdida de prestigio y clientes
 
+
+
+## Herramientas para mejorar la calidad 
+
+[[Extreme Programming (XP)]] plantea Integración continua, Automatizar pruebas, TDD, Refactoring, Pair programming, UATs

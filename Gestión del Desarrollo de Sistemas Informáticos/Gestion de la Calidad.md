@@ -67,4 +67,13 @@ trabajo de garantias, problemas legales, perdida de prestigio y clientes
 
 ## Herramientas para mejorar la calidad 
 
-[[Extreme Programming (XP)]] plantea Integración continua, Automatizar pruebas, TDD, Refactoring, Pair programming, UATs
+[[Extreme Programming (XP)]] plantea Integración continua, Automatizar pruebas, [[Test Driven Development (TDD)]], Refactoring, Pair programming, UATs
+
+[[Lean Canvas]] - [[Kanban]] - Continuo: 
+Specification-By-Example
+Entrega continua
+… y posible despliegue continuo
+Automatización de ambientes
+Infraestructura como código
+Desarrollo en el tronco común
+

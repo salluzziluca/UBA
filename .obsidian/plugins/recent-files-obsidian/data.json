@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1 SOLID",
+      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
+    },
+    {
       "basename": "Gestion de la Calidad",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la Calidad.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Entidad-Interrelación Avanzado",
       "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
-    },
-    {
-      "basename": "Modelo Logico-Relacional Conceptual",
-      "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
     }
   ],
   "omittedPaths": [],

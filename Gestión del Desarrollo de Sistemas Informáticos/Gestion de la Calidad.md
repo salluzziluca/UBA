@@ -13,3 +13,5 @@ PMBOK, 7th Edition
 
 >[!quote] “Quality is value to some person”
 Weinberg, Gerald M. Quality Software Management. Volume 1: Systems Thinking. New York: Dorset House Publishing, 1992
+
+Lo que nostros usualmente llamamos [[Testeo]] es en realidad Control de Calida (QA)

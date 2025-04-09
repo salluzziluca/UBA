@@ -28,3 +28,6 @@ Validacion(yo construi lo que el cliente me dijo que queria tener):
 -  Pruebas de comportamiento (user sin UI)
 - UAT (punta a punta)
 - Validacion en produccion: A|B, canary, monitoreo, etc.
+
+## Prevencion 
+La mejor forma de escribir mejor codigo no es testeando todo mil veces, es mejorando la construccion.

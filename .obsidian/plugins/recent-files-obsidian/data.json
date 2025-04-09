@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Triángulo de Hierro",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
+    },
+    {
       "basename": "Esfuerzo vs Duracion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Esfuerzo vs Duracion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lean Canvas",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
-    },
-    {
-      "basename": "GTD",
-      "path": "Cursos/GTD.md"
     }
   ],
   "omittedPaths": [],

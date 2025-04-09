@@ -9,4 +9,6 @@ dg-publish: true
 (Milo Jones and Philippe Silberzahn, Forbes, Mar 15, 2016)
 
 
-La inflacion, el PBI, son solo datos par intentar reflejar la realidad. No es tan facil jajasjda
+La inflacion, el PBI, son solo datos par intentar reflejar la realidad. No es tan facil jajasjda. 
+
+Como medis la desigualdad? como medis la vida misma??

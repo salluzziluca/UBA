@@ -7,3 +7,9 @@ dg-publish: true
 
 ## Que es la calidad? 
 Es un atributo del producto. 
+
+>[!quote] Quality is the degree to which a set of inherent characteristics … satisfy the customer stated or implied needs”
+PMBOK, 7th Edition
+
+>[!quote] “Quality is value to some person”
+Weinberg, Gerald M. Quality Software Management. Volume 1: Systems Thinking. New York: Dorset House Publishing, 1992

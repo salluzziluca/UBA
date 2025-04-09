@@ -61,5 +61,5 @@ hay que mandarselo de vuelta a los programadores, retrabajo y desperdicio, pospo
 #### Costo de fallas externas (en produ)
 
 Manejo de quejas
-trabajo de garantias, problemas legales, perdida de 
+trabajo de garantias, problemas legales, perdida de prestigio y clientes
 

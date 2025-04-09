@@ -20,3 +20,13 @@ Financiamiento:
 
 No perder hitos!!
 si nos tretrasamos en la facturacion, desfinanciamos el proyecto
+
+
+## Que es un costo? 
+Todos los recursos que se le asignaran al proyecto:
+trabajo
+materiales
+equipos (amortizaciones)
+servicios 
+mitigación de riesgos, contingencias
+Se mide en unidades monetarias ($) o de

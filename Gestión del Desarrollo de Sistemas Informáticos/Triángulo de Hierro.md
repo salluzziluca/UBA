@@ -12,5 +12,5 @@ Edger Dijkstra, “How do we tell truths that might hurt?”
 Para mantener unos objetivos de calidad determinados, cualquier modificación en una de las 3 variables implica la modificación de alguna(s) de las otras dos.
 
 [[Gestion de Costos]]
-[[]]
+[[Gestion de Tiempo]]
 [[Gestion de la Calidad]]

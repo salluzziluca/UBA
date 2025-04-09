@@ -21,3 +21,5 @@ Siempre implica mayores costos y riesgos, se pierde libertad
 
 ### Crunching /crashing 
 No siempre funciona, se suman tiempos de coordinacion y transferencia
+
+### Fast Tracking (paralelizar)

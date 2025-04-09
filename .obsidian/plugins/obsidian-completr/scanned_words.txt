@@ -3146,6 +3146,7 @@ delivering
 discover
 discussion
 discarded
+determinados
 gestion
 gran
 guarda
@@ -4560,6 +4561,7 @@ enough
 epicas
 everyone
 effective
+equally
 servicios
 son
 su
@@ -5523,6 +5525,7 @@ simplest
 sequencer
 score
 suggests
+sharpen
 par
 por
 punto
@@ -6600,6 +6603,7 @@ prioritized
 partially
 prevent
 period
+pencil
 la
 las
 le
@@ -8169,6 +8173,8 @@ allow
 agreement
 avoids
 already
+axe
+axes
 hardware
 heap
 hay
@@ -8693,6 +8699,7 @@ hand
 however
 hinder
 head
+hurt
 que
 queda
 quien
@@ -11527,6 +11534,7 @@ EEFs
 Epics
 Explain
 Everyone
+Edger
 kernel
 kt
 kU
@@ -14499,6 +14507,7 @@ valuable
 vendria
 vertebral
 validate
+vain
 Application
 API
 Asigna
@@ -18093,6 +18102,7 @@ teaching
 three
 titles
 thought
+truths
 inico
 interna
 infro
@@ -18933,6 +18943,8 @@ integrated
 increments
 increemnts
 iterative
+impossible
+instead
 fijo
 file
 fork
@@ -23398,6 +23410,7 @@ buenoi
 blanco
 being
 because
+blunt
 will
 words
 with

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Gestion de Costos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
+      "basename": "Untitled",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Untitled.md"
     },
     {
       "basename": "Triángulo de Hierro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
+    },
+    {
+      "basename": "Gestion de Costos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
     },
     {
       "basename": "Esfuerzo vs Duracion",
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Entidad-Interrelacion",
       "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
-    },
-    {
-      "basename": "Technical, User eXperience and Business Review",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
     }
   ],
   "omittedPaths": [],

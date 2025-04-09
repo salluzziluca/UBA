@@ -23,3 +23,5 @@ Siempre implica mayores costos y riesgos, se pierde libertad
 No siempre funciona, se suman tiempos de coordinacion y transferencia
 
 ### Fast Tracking (paralelizar)
+Si tenemos devs y testing: 
+que el dev le mande al QA el programa a medio terminar asi lo revisa mientras el dev termina

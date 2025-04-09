@@ -14,4 +14,16 @@ PMBOK, 7th Edition
 >[!quote] “Quality is value to some person”
 Weinberg, Gerald M. Quality Software Management. Volume 1: Systems Thinking. New York: Dorset House Publishing, 1992
 
-Lo que nostros usualmente llamamos [[Testeo]] es en realidad Control de Calida (QA)
+Lo que nostros usualmente llamamos [[Testeo]] es en realidad Control de Calida (QC)
+
+
+## Como probamos el producto?
+
+Verificacion: 
+- revision de pares
+- pruebas unitarias 
+- pruebas de componentes 
+
+Validacion: 
+-  Pruebas de comportamiento (user sin UI)
+- UAT (punta a p)

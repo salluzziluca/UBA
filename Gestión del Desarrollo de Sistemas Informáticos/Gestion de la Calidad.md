@@ -48,3 +48,9 @@ Hay que evidenciarlo con pruebas, primero que falle, despues lo corrijo
 
 ### Costos de la prevencion 
 Costos para prevenirque los clientes reciban un producto defectuoso. 
+
+#### Costo del proceso 
+
+
+### Costo de reparacion 
+Costo de fallas internas (antes de entregar)

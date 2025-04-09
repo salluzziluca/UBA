@@ -26,4 +26,5 @@ Verificacion:
 
 Validacion: 
 -  Pruebas de comportamiento (user sin UI)
-- UAT (punta a p)
+- UAT (punta a punta)
+- Validacion en produccion: A|B, canary, monitoreo, etc.

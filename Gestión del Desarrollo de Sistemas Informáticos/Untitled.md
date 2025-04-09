@@ -16,4 +16,4 @@ Hitos especiales, entregas, etc
 Acotar el cronograma del proyecto para cumplir con restricciones de fechas sin cambiar el alcance. 
 
 Siempre implica mayores costos y riesgos, se pierde libertad
-(recorda)
+(recordar el [[Triángulo de Hierro]])

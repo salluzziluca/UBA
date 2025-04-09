@@ -31,3 +31,7 @@ Validacion(yo construi lo que el cliente me dijo que queria tener):
 
 ## Prevencion 
 La mejor forma de escribir mejor codigo no es testeando todo mil veces, es mejorando la construccion.
+Prevención >> Reparación
+
+Las inspecciones y pruebas generan retrabajo y desperdicio y mayores costos
+Hay que usar procesos que incorporen la calidad durante el desarrollo

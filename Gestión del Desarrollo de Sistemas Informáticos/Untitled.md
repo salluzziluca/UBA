@@ -13,7 +13,11 @@ Salida de estimacion
 Hitos especiales, entregas, etc
 ## Técnias de compresion
 
+### Por que comprimir?
 Acotar el cronograma del proyecto para cumplir con restricciones de fechas sin cambiar el alcance. 
 
 Siempre implica mayores costos y riesgos, se pierde libertad
 (recordar el [[Triángulo de Hierro]])
+
+### Crunching /crashing 
+No siempre funciona, se suman tiempos de coordinacion y transferencia

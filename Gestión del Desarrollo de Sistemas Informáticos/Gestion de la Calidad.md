@@ -55,4 +55,11 @@ Definir bien el producto, bien entrenados a los devs, buen equipamiento y herram
 #### Costo de evaluacion 
 pruebas e inspecciones 
 ### Costo de reparacion 
-Costo de fallas internas (antes de entregar)
+#### Costo de fallas internas (antes de entregar)
+hay que mandarselo de vuelta a los programadores, retrabajo y desperdicio, posponer salidas. 
+
+#### Costo de fallas externas (en produ)
+
+Manejo de quejas
+trabajo de garantias, problemas legales, perdida de 
+

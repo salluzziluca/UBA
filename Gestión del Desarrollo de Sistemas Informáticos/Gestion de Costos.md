@@ -14,7 +14,9 @@ evitar requerer mayor cantidad de recursos o requerirlos a desptiempo
 Financiamiento: 
 - Provisto por otros proyectos 
 - o por una entidiad financiera (+ costo)
-- o por proyecto autofinanciado (cuando entrego un mvp, cobrar)
+- o por proyecto autofinanciado 
+	- cuando entrego un mvp, cobrar
+	- por inversores ([[Stakeholder|stakeholders]])
 
 No perder hitos!!
 si nos tretrasamos en la facturacion, desfinanciamos el proyecto

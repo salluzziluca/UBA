@@ -42,4 +42,4 @@ Fallas debidas a cambios con efectos inesperados
 
 Fallas en producción: una vez que los usuarios ya lo tienen en sus manos
 
-Hay que evidenciarlo con pruebas 
+Hay que evidenciarlo con pruebas, primero que falle, despues lo corrijo 

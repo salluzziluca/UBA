@@ -43,3 +43,8 @@ Fallas debidas a cambios con efectos inesperados
 Fallas en producción: una vez que los usuarios ya lo tienen en sus manos
 
 Hay que evidenciarlo con pruebas, primero que falle, despues lo corrijo 
+
+## Costos de la calidad 
+
+### Costos de la prevencion 
+Costos para prevenirque los clientes reciban un producto defectuoso. 

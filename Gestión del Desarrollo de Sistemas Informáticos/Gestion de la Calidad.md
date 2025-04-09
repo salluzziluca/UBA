@@ -35,3 +35,8 @@ Prevención >> Reparación
 
 Las inspecciones y pruebas generan retrabajo y desperdicio y mayores costos
 Hay que usar procesos que incorporen la calidad durante el desarrollo
+
+### Regresiones 
+Fallas debidas a cambios con efectos inesperados
+
+Fallas en producción: una vez que los usuarios ya lo tienen en sus manos

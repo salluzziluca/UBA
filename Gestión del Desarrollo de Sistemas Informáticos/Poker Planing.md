@@ -28,3 +28,5 @@ dg-publish: true
 **Use a timer of some sort to limit discussion.**
 **If consensus cannot be reached by the end of the third round of voting pick the largest size and move on**
 **Have the person creating the user stories meet with QA and Development leads prior to playing planning poker** ( to make sure the user stories have answers to the most obvious questions the team will ask.  This allows the team to focus on the size, not spend time gathering information.)
+**Remember the baseline.**(que siempre valgan lo mismo las diferentes cartas a travez de multiples poker plannings)
+**Have fun!**!!!!!!!

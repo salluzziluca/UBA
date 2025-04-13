@@ -12,3 +12,9 @@ dg-publish: true
 - The group briefly debates the arguments
 - A new round of estimation is made (steps 4 and 5 above).
 - Continue until consensus has been reached and the moderator records the estimate.
+- Repeat for all stories.
+
+## Why poker planing? 
+- Fosters collaboration by engaging entire team
+- Creates consensus estimate rather than having a single person driving the estimate
+- Exposes issues early through discussion of each user story

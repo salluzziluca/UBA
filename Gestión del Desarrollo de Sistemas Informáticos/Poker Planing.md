@@ -18,3 +18,7 @@ dg-publish: true
 - Fosters collaboration by engaging entire team
 - Creates consensus estimate rather than having a single person driving the estimate
 - Exposes issues early through discussion of each user story
+
+## Mejorías
+**Those who actually could do the work are the ones that vote** (solo los que tengan idea del trabajo )
+**Managers don’t vote.**

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Backtracking",
+      "path": "Teoría de Algoritmos/Backtracking.md"
+    },
+    {
       "basename": "Reunion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Reunion.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "3.1 Esperanza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
-    },
-    {
-      "basename": "Backtracking",
-      "path": "Teoría de Algoritmos/Backtracking.md"
     },
     {
       "basename": "Ciclo de Euler",

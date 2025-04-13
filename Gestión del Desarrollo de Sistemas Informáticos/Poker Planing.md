@@ -20,5 +20,11 @@ dg-publish: true
 - Exposes issues early through discussion of each user story
 
 ## Mejorías
-**Those who actually could do the work are the ones that vote** (solo los que tengan idea del trabajo )
-**Managers don’t vote.**
+**Those who actually could do the work are the ones that vote** (solo los que tengan idea del trabajo en cuestion)
+**Managers don’t vote.** (van a votar bajo porque quieren que salga todo rapido)
+**When there is a tie in the voting between two sizes which are consecutive, just pick the larger size and move on**
+**Stop implementation discussions before they go too deep**(un poco está bien)
+**Use an “I need a break” card.**
+**Use a timer of some sort to limit discussion.**
+**If consensus cannot be reached by the end of the third round of voting pick the largest size and move on**
+**Have the person creating the user stories meet with QA and Development leads prior to playing planning poker** ( to make sure the user stories have answers to the most obvious questions the team will ask.  This allows the team to focus on the size, not spend time gathering information.)

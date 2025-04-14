@@ -5,6 +5,10 @@
       "path": "Teoría de Algoritmos/Programación Dinámica.md"
     },
     {
+      "basename": "FIUBA Talks",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
+    },
+    {
       "basename": "3.3 Extension a Vectores Aleatorios",
       "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "2.0  Variables Aleatorias",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
-    },
-    {
-      "basename": "FIUBA Talks",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
     },
     {
       "basename": "Presentación Lean Inception - Parte 1",

@@ -2219,6 +2219,12 @@ charr
 cabernet
 cepa
 conclu
+compromiso
+certeza
+comprometerse
+consecuencias
+consideraron
+cnico
 de
 dispositivos
 del
@@ -3142,6 +3148,10 @@ distribu
 devuelvea
 deseados
 deshago
+desastre
+desv
+documentan
+debilidad
 gestion
 gran
 guarda
@@ -4558,6 +4568,12 @@ extenso
 escritos
 elabora
 encontrando
+esfuerzo
+estimando
+estimaciones
+entiende
+ejemplos
+excusas
 servicios
 son
 su
@@ -5520,6 +5536,10 @@ shard
 subimos
 sauvignon
 sugerimos
+suposici
+saberlo
+supuestos
+surgir
 par
 por
 punto
@@ -6620,6 +6640,9 @@ publicaci
 paralelizar
 pattern
 posteriormente
+probabilistico
+promesa
+preparan
 la
 las
 le
@@ -8189,6 +8212,12 @@ aborto
 asesores
 afirmaciones
 asegurados
+acto
+adivinar
+ajustada
+absorber
+afectan
+actualiz
 hardware
 heap
 hay
@@ -8709,6 +8738,7 @@ hacerse
 hitos
 hashear
 hara
+honestidad
 que
 queda
 quien
@@ -10258,6 +10288,7 @@ Siniestra
 Sugiera
 Syrah
 Soluci
+Subestimaci
 Calls
 Cmabia
 CPU
@@ -10929,6 +10960,9 @@ Clemenciano
 Coordinaci
 Cepa
 Committed
+Compromisos
+Cambios
+Comunicaci
 Es
 El
 Estos
@@ -11564,6 +11598,8 @@ Escriba
 Encontramos
 Extraeremos
 EXISTS
+Estimaciones
+Estoy
 kernel
 kt
 kU
@@ -12890,6 +12926,12 @@ recomendar
 rurales
 roductores
 realizados
+relativo
+revisada
+receta
+riesgos
+reevaluar
+reaccionar
 operacion
 orden
 operaciones
@@ -13436,6 +13478,7 @@ odo
 oficinas
 ofertas
 oscilan
+ocurren
 nombre
 nuevo
 nica
@@ -13985,6 +14028,8 @@ nafta
 naturaleza
 nsito
 ntas
+negativamente
+ndola
 via
 vuelve
 viven
@@ -14535,6 +14580,7 @@ variabiilidad
 vehiculos
 val
 vinos
+valoran
 Application
 API
 Asigna
@@ -15084,6 +15130,7 @@ Agr
 Asesores
 Accederemos
 Aplicando
+Aceptar
 Programming
 Procesos
 Partes
@@ -16239,6 +16286,8 @@ Involucra
 Inicio
 IMDB
 Instituto
+Implica
+Incertidumbre
 Un
 UNIX
 UBA
@@ -17504,6 +17553,8 @@ matriculas
 municipio
 malbec
 monovarietal
+midiendo
+monetario
 tien
 tiene
 todos
@@ -18150,6 +18201,12 @@ tangible
 trending
 topics
 tweet
+tratar
+tomes
+tecnolog
+tiles
+todav
+tard
 inico
 interna
 infro
@@ -18987,6 +19044,13 @@ ingresar
 infracci
 incurre
 indicados
+informada
+incluso
+inherente
+imprevistos
+ignoran
+informadas
+investigar
 fijo
 file
 fork
@@ -19587,6 +19651,7 @@ frecuentemente
 fabricado
 fabrique
 falsas
+fuentes
 Nombre
 Notas
 Not
@@ -20612,6 +20677,8 @@ FVX
 Fija
 Facultad
 Fases
+Fallos
+Frases
 Descriptors
 Descriptor
 Devuelve
@@ -21139,6 +21206,7 @@ Duraci
 Desarrollar
 Direcci
 Dibuje
+Dividir
 Memoria
 Multivariada
 MORE
@@ -23469,6 +23537,7 @@ brevemente
 brindar
 bodegas
 bodega
+buffers
 will
 words
 with
@@ -24348,6 +24417,7 @@ Variaci
 VACt
 Verde
 Variabilidad
+Vale
 OPTIONS
 Operativos
 Orden

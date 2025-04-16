@@ -2194,6 +2194,10 @@ calificar
 contextos
 cuantificar
 confiables
+consecutive
+cannot
+creating
+cartas
 de
 dispositivos
 del
@@ -3108,6 +3112,13 @@ detallado
 desglose
 defina
 dispuesto
+deck
+doubling
+differ
+defend
+debates
+driving
+discussion
 gestion
 gran
 guarda
@@ -3577,6 +3588,9 @@ gastando
 ganancia
 gestores
 gitignore
+gets
+generally
+gathering
 especifico
 entra
 en
@@ -4511,6 +4525,14 @@ exitosos
 ello
 emprender
 elegida
+estimation
+equivalent
+everybody
+event
+estimates
+estimators
+engaging
+entire
 servicios
 son
 su
@@ -5460,6 +5482,12 @@ sobrecostos
 supone
 simplificada
 semanales
+sequences
+selects
+simultaneously
+salga
+sizes
+spend
 par
 por
 punto
@@ -6538,6 +6566,15 @@ ponderados
 porcentaje
 proporci
 producci
+popular
+privately
+presented
+poker
+planing
+person
+pick
+prior
+plannings
 la
 las
 le
@@ -7152,6 +7189,10 @@ letra
 lejana
 lleven
 lineamiento
+likely
+larger
+largest
+leads
 agnosticos
 apps
 al
@@ -8092,6 +8133,11 @@ aceptables
 alerta
 administraci
 adecua
+answers
+account
+arguments
+actually
+allows
 hardware
 heap
 hay
@@ -8610,6 +8656,7 @@ hXZ
 helps
 hacerse
 hitos
+his
 que
 queda
 quien
@@ -10151,6 +10198,7 @@ SCM
 Sometimes
 SPI
 SPIACt
+Stop
 Calls
 Cmabia
 CPU
@@ -10815,6 +10863,7 @@ Completada
 Calculado
 Completadas
 Conclusion
+Creates
 Es
 El
 Estos
@@ -11444,6 +11493,7 @@ EDT
 Esfuerzo
 Establece
 Entregar
+Exposes
 kernel
 kt
 kU
@@ -12759,6 +12809,15 @@ rgenes
 recuerde
 retroalimentaci
 requiera
+representing
+risk
+relevant
+ready
+recorded
+rest
+reached
+records
+rather
 operacion
 orden
 operaciones
@@ -13302,6 +13361,8 @@ oportuno
 observado
 optimizando
 odo
+ones
+obvious
 nombre
 nuevo
 nica
@@ -13849,6 +13910,7 @@ negative
 never
 nafta
 naturaleza
+numbers
 via
 vuelve
 viven
@@ -14394,6 +14456,10 @@ viajar
 visi
 variaciones
 vincular
+vote
+votar
+voting
+valgan
 Application
 API
 Asigna
@@ -16572,6 +16638,8 @@ URv
 Utilidad
 Unidades
 Umbrales
+Usually
+Use
 modo
 mode
 menso
@@ -17345,6 +17413,11 @@ modalidad
 medici
 monitorizar
 monitoreo
+most
+moderator
+moves
+made
+move
 tien
 tiene
 todos
@@ -17988,6 +18061,9 @@ tarifas
 trabajadas
 toneladas
 tangible
+tie
+timer
+travez
 inico
 interna
 infro
@@ -18818,6 +18894,9 @@ interdependientes
 ideal
 implantar
 informes
+involve
+issues
+implementation
 fijo
 file
 fork
@@ -19409,6 +19488,8 @@ facilitando
 foros
 facilidad
 forzar
+factors
+fun
 Nombre
 Notas
 Not
@@ -20431,6 +20512,7 @@ FEATURES
 FoZUYj
 FVX
 Fija
+Fosters
 Descriptors
 Descriptor
 Devuelve
@@ -21572,6 +21654,8 @@ Measurement
 Mide
 Medicion
 Modalidades
+Mejor
+Managers
 Table
 Todos
 This
@@ -22069,6 +22153,7 @@ Tanque
 TCPI
 Tiempo
 Tareas
+Those
 Realiza
 REgistrys
 Rango
@@ -22724,6 +22809,7 @@ Recomendado
 Recomendaci
 Rojo
 Registrar
+Remember
 bien
 by
 be
@@ -23273,6 +23359,10 @@ bidimensional
 boludez
 basarse
 bicos
+briefly
+been
+between
+baseline
 will
 words
 with
@@ -24669,6 +24759,7 @@ OHe
 Oqy
 Opcion
 Ordenamos
+Owner
 ya
 yo
 yM
@@ -25564,6 +25655,7 @@ jXVE
 jJzX
 jsn
 jijo
+just
 Ya
 Yourself
 YAGNI
@@ -27669,6 +27761,7 @@ Hrx
 Hand
 Huffman
 Hitos
+Have
 Jacobiano
 Job
 Jusitfique
@@ -29433,6 +29526,7 @@ Wnrq
 WrBraP
 WrSI
 WiE
+Why
 ZZZPU
 ZX
 ZQ

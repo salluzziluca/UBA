@@ -42,4 +42,6 @@ cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa p
  later on.
 ## Estimation Meeting
 
-El moderador junta las estimaciones individuales y 
+El moderador junta las estimaciones individuales y las agrega al siguiente grafico
+![[Pasted image 20250416112832.png]]
+Cada uno de los involucrados puede ver en que parte del espectro cae su estimacion. Es todo anonimo.

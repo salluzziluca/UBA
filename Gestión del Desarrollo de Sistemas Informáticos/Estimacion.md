@@ -29,6 +29,7 @@ A commitment can be the same as the estimate, or it can be more aggressive or mo
 
 ### Estimación vs Planing
 Estimation should be treated as an unbiased, analytical pro cess; planning should be treated as a biased, goal-seeking process.
+Estimates form the foundation for the plans, but the plans don’t have to be the same as the estimates.
 ### Algunas buenas prácticas:
 - No comprometerse con estimaciones tempranas.
 - Evitar dar estimaciones cuando el alcance no está claro.

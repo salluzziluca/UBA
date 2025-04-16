@@ -60,3 +60,5 @@ Se vuelven a recolectar las asumpciones y se vuelven a plotear anonimamente en e
  • the allotted estimation meeting time (typically two hours) is over; or
  • all participants are unwilling to alter their latest estimates
 Los tiempos deberan ser de 15/20 minutos nomas, para que no se complique el tema y se vuelva lento e insoportable.
+
+## Assembling Tasks

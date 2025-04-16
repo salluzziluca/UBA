@@ -11,3 +11,6 @@ Hay que empezar definiendo el problema y su scope. Vamos dividiendo los problema
 >The person who initiated the estimation activity assembles a problem specification that will give the participants enough information to produce credible, informed estimates
 
 Se contara con un moderador, que coordinara la actividad, un PM y entre 2 y 4 estimadores. El moderador deberia saber del tema como para ser un estimator pero deberá ser imparcial, para ayudar a desempatar. 
+
+
+## Kickoff

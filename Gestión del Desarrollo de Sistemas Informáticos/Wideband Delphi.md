@@ -14,3 +14,6 @@ Se contara con un moderador, que coordinara la actividad, un PM y entre 2 y 4 es
 
 
 ## Kickoff
+Se les explica bien a todos sobre el metodo Wideband Delphi y se les da a todos los estimadores informacion suficiente sobre el problema a atacar.
+
+The team reviews the estimation objectives and discusses the problem and any estimation issues. The participants agree on the estimation units they will use, such as weeks, labor hours, dollars or lines of code. If the moderator concludes that all team members are sufficiently knowledgeable to contribute to the estimation activity, the group is ready to roll. Otherwise, the participants may need to be briefed more fully on the problem they’re estimating, or possibly replaced by others who can generate more accurate estimates

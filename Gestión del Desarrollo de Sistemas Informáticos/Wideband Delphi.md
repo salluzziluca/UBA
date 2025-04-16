@@ -48,4 +48,9 @@ Cada uno de los involucrados puede ver en que parte del espectro cae su estimaci
 
 El moderador leer su task list sin revelar cual fue su estimativo (de horas, en este caso). Se combina con el resto de subtasks de cada uno, verbalmente, para llegar a una lista mas completa que la que una sola persona podria hacer.
 
-En este momento tambien se discute acerca de asunciones y preguntas.
+En este momento tambien se discute acerca de asumpciones  y preguntas.
+
+
+After this initial discussion, all participants modify their estimates concurrently (and silently) in the meeting room. They might revise their task lists based on the information shared during the discussion, and they’ll adjust individual task estimates based on their new understanding of the task scope or changed assumptions.
+
+Se vuelven a recolectar las asumpciones y se vuelven a plotear anonimamente en el chart

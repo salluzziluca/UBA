@@ -62,3 +62,10 @@ Se vuelven a recolectar las asumpciones y se vuelven a plotear anonimamente en e
 Los tiempos deberan ser de 15/20 minutos nomas, para que no se complique el tema y se vuelva lento e insoportable.
 
 ## Assembling Tasks
+>[!important] The merging process involves removing duplicate tasks and reaching some reasonable resolution of different estimates for individual tasks. “Reasonable” doesn’t mean replacing the team’s estimates with values the project manager prefers. Large estimate differences for apparently similar tasks might indicate that estimators interpreted that task in different ways. For example, two people might both have a task called “implement a class.” However, one estimator might have included unit testing and code review in the task, while the other meant just the coding effort. All estimators should define their tasks clearly to minimize confusion during this merging step. The merging step should retain the estimate range for each task, but if one estimator’s task estimate was wildly different from that of the other estimators, understand it and then perhaps discard or modify it.
+
+## Review Results
+
+The project manager provides the other estimators with the overall task list, individual estimates, cumulative estimates, assumption list, and any other information. Bring the team back together for a 30- to 60-minute review meeting to bring closure to the estimation activity. This meeting also provides an opportunity for the team to contemplate this execution of the Wideband Delphi process and suggest ways it can be improved for future applications.
+
+The participants should make sure the final task list is as complete as possible. Se pueden agregar nuevas tareas

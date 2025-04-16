@@ -14,7 +14,7 @@ Estimar es el acto de anticipar cuánto va a llevar algo, generalmente en tiempo
 Es fundamental aclarar **qué se está estimando** (¿una tarea? ¿un conjunto de tareas? ¿un producto entero?) y también en qué unidad: tiempo, esfuerzo relativo (como story points) o incluso costo monetario.
 una estimacion consta de targets, commitments and control 
 
->![]
+>[!quote] A good estimate is an estimate that provides a clear enough view of the project reality to allow the project leadership to make good decisions about how to control the project to hit its targets.
 ### Partes clave
 #### Target
 A target is a statement of a desirable business objective. Examples include the 

@@ -4,6 +4,7 @@ dg-publish: true
 ---
 Estimar es dificil, no es algo que se hace una vez, ni es algo concreto ni exacto (es probabilistico). Se debe hacer a lo largo de todo el projecto. Siempre midiendo para obtener nueva informacion que me pueda ayudar a estimar mejor. Estimar mejor != que el costo sea menor
 
+>[!quote] Estimates don’t need to be perfectly accurate as much as they need to be useful. When we have the combination of accurate estimates, good target setting, and good planning and control, we can end up with project results that are close to the “estimates.” (As you’ve guessed, the word “estimate” is in quotation marks because the project that was estimated is not the same project that was ultimately delivered.). These dynamics of changing project assumptions are a major reason that this book focuses more on the art of estimation than on the science. Accuracy of ±5% won’t do you much good if the project’s underlying assumptions change by 100%.
 ## Estimaciones
 
 Estimar es el acto de anticipar cuánto va a llevar algo, generalmente en tiempo o esfuerzo. Una estimación **no es un compromiso**: es una suposición informada. 
@@ -13,6 +14,7 @@ Estimar es el acto de anticipar cuánto va a llevar algo, generalmente en tiempo
 Es fundamental aclarar **qué se está estimando** (¿una tarea? ¿un conjunto de tareas? ¿un producto entero?) y también en qué unidad: tiempo, esfuerzo relativo (como story points) o incluso costo monetario.
 una estimacion consta de targets, commitments and control 
 
+>![]
 ### Partes clave
 #### Target
 A target is a statement of a desirable business objective. Examples include the 

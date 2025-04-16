@@ -14,4 +14,4 @@ Hay que tener en cuenta cultura, niveles de experiencia, expectativas para poder
 2. gestionar las comunicaciones 
 	Llevar todo eso a cabo
 3. controlar las comunicaciones
-	Si algo no sale bien, volantear y atajarse. Si no respondieron los mails, correlo hasta la casa.
+	Hacer seguimiento. Si algo no sale bien, volantear y atajarse. Si no respondieron los mails, correlo hasta la casa.

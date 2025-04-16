@@ -99,8 +99,9 @@ Frases útiles en este contexto:
 El equipo y los stakeholders valoran más la honestidad temprana que las excusas tardías.
 
 
-## Cons
-
+### Constante cambio 
+![[Pasted image 20250416143214.png]]
+El hecho de estimarlo yaa hace que el projecto cambie, tambine hay que tener en cuenta factores externos (se nos va a alguien, nos piden una demo antes)
 
 ver [[No Estimates]]
 

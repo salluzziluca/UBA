@@ -2198,6 +2198,12 @@ consecutive
 cannot
 creating
 cartas
+compromiso
+certeza
+comprometerse
+consecuencias
+consideraron
+cnico
 de
 dispositivos
 del
@@ -3119,6 +3125,10 @@ defend
 debates
 driving
 discussion
+desastre
+desv
+documentan
+debilidad
 gestion
 gran
 guarda
@@ -4533,6 +4543,12 @@ estimates
 estimators
 engaging
 entire
+esfuerzo
+estimando
+estimaciones
+entiende
+ejemplos
+excusas
 servicios
 son
 su
@@ -5488,6 +5504,10 @@ simultaneously
 salga
 sizes
 spend
+suposici
+saberlo
+supuestos
+surgir
 par
 por
 punto
@@ -6575,6 +6595,10 @@ person
 pick
 prior
 plannings
+probabilistico
+promesa
+preparan
+pena
 la
 las
 le
@@ -8138,6 +8162,12 @@ account
 arguments
 actually
 allows
+acto
+adivinar
+ajustada
+absorber
+afectan
+actualiz
 hardware
 heap
 hay
@@ -8657,6 +8687,7 @@ helps
 hacerse
 hitos
 his
+honestidad
 que
 queda
 quien
@@ -10199,6 +10230,7 @@ Sometimes
 SPI
 SPIACt
 Stop
+Subestimaci
 Calls
 Cmabia
 CPU
@@ -10864,6 +10896,9 @@ Calculado
 Completadas
 Conclusion
 Creates
+Compromisos
+Cambios
+Comunicaci
 Es
 El
 Estos
@@ -11494,6 +11529,8 @@ Esfuerzo
 Establece
 Entregar
 Exposes
+Estimaciones
+Estoy
 kernel
 kt
 kU
@@ -12818,6 +12855,12 @@ rest
 reached
 records
 rather
+relativo
+revisada
+receta
+riesgos
+reevaluar
+reaccionar
 operacion
 orden
 operaciones
@@ -13363,6 +13406,7 @@ optimizando
 odo
 ones
 obvious
+ocurren
 nombre
 nuevo
 nica
@@ -13911,6 +13955,8 @@ never
 nafta
 naturaleza
 numbers
+negativamente
+ndola
 via
 vuelve
 viven
@@ -14460,6 +14506,7 @@ vote
 votar
 voting
 valgan
+valoran
 Application
 API
 Asigna
@@ -15004,6 +15051,7 @@ Azul
 Analice
 Asignar
 Actualizar
+Aceptar
 Programming
 Procesos
 Partes
@@ -16153,6 +16201,8 @@ Importa
 Ideal
 Involucra
 Inicio
+Implica
+Incertidumbre
 Un
 UNIX
 UBA
@@ -17418,6 +17468,8 @@ moderator
 moves
 made
 move
+midiendo
+monetario
 tien
 tiene
 todos
@@ -18064,6 +18116,12 @@ tangible
 tie
 timer
 travez
+tratar
+tomes
+tecnolog
+tiles
+todav
+tard
 inico
 interna
 infro
@@ -18897,6 +18955,13 @@ informes
 involve
 issues
 implementation
+informada
+incluso
+inherente
+imprevistos
+ignoran
+informadas
+investigar
 fijo
 file
 fork
@@ -19490,6 +19555,7 @@ facilidad
 forzar
 factors
 fun
+fuentes
 Nombre
 Notas
 Not
@@ -20513,6 +20579,8 @@ FoZUYj
 FVX
 Fija
 Fosters
+Fallos
+Frases
 Descriptors
 Descriptor
 Devuelve
@@ -21038,6 +21106,7 @@ Detectar
 Desempe
 Duraci
 Desarrollar
+Dividir
 Memoria
 Multivariada
 MORE
@@ -23363,6 +23432,7 @@ briefly
 been
 between
 baseline
+buffers
 will
 words
 with
@@ -24241,6 +24311,7 @@ Variance
 Variaci
 VACt
 Verde
+Vale
 OPTIONS
 Operativos
 Orden

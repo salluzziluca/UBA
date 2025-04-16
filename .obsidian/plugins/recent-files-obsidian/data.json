@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Untitled.md"
+    },
+    {
       "basename": "Estimacion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasaje del modelo conceptual al modelo relacional",
       "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
-    },
-    {
-      "basename": "2.4 Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
     }
   ],
   "omittedPaths": [],

@@ -67,6 +67,10 @@ Algunas estrategias útiles:
 - Aceptar que no todo se puede saber de entrada.
 ### Probabilidad dentro de una estimacion 
 No es tirar una moneda, no es que el proyecto sale o no sale. Hay chances y [[1.0 Probailididad|probabilidad]]. Se puede entender a la estimacion como una [[2.1 Definición de Variable Aleatoria|distribución]] probabilistica
+![[Pasted image 20250416142712.png]]
+![[Pasted image 20250416142735.png]]
+![[Pasted image 20250416142754.png]]
+>[!important] When you see a single-point estimate, that number’s probability is not 100%. Ask what the probability of that number is.
 ## Riesgos
 
 Los riesgos son eventos que, si ocurren, afectan negativamente el proyecto. Algunos ejemplos comunes:

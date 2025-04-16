@@ -99,6 +99,8 @@ Frases útiles en este contexto:
 El equipo y los stakeholders valoran más la honestidad temprana que las excusas tardías.
 
 
+## Cons
+
 
 ver [[No Estimates]]
 

@@ -107,6 +107,12 @@ El hecho de estimarlo yaa hace que el projecto cambie, tambine hay que tener en 
 
 ver [[No Estimates]]
 
-## Metodos de estimacion 
+## Metodos y tecnicas de estimacion 
 [[Wideband Delphi]]
+
+- Juicio de expertos 
+- estimacion analoga 
+- estimacion parametrica (estadistica)
+- estimacion ascedente 
+- estimacion 3 puntos 
 

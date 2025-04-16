@@ -71,7 +71,11 @@ The project manager provides the other estimators with the overall task list, in
 The participants should make sure the final task list is as complete as possible. Se pueden agregar nuevas tareas si surgen.
 
 ## Completing the Estimation 
-
+Se termina cuando: 
 - The overall task list has been assembled
 - You have a summarized list of estimating assumptions
 - The estimators have reached consensus on how their individual estimates were synthesized into a single set with an acceptable range
+
+
+
+Estimates are predictions of the future, and the range reflects the inherent uncertainty of gazing into the crystal ball. You might present three numbers: the average of the estimates as the planned case, the minimum value as the best case and the maximum as the worst case. Or you could present the average value as the nominal expected outcome, plus the maximum-minus-the-average value, and minus the average-minus-the-minimum value

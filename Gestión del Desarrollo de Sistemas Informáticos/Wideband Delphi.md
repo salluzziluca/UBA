@@ -27,3 +27,8 @@ The team reviews the estimation objectives and discusses the problem and any est
 
 ## Individual Preparation
 cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa persona considera, no lo que el resto quiere escuchar. Esta estimacion no se hace sobre todo el proyecto, sino sobre las tareas necesarias para llegar a cierto milestone. 
+
+>[!example] In addition to identifying the project tasks, separately record any tasks for related or supporting activities. In my first Wideband Delphi session, every participant forgot to list tasks dealing with quality control and assurance, configuration management and process-related activities on the first cycle. We caught this quickly and added them in for the next iteration. Be sure to include rework tasks following testing or inspection activities. Reworking to correct defects is a fact of life, so you should plan for it. If you’re estimating a schedule, also think of any overhead activities that aren’t specific to the project that you might have to build into your planning. These include meetings, vacation, training, other project assignments and myriad other things that suck time out of your day
+
+
+![[Pasted image 20250416112511.png]]

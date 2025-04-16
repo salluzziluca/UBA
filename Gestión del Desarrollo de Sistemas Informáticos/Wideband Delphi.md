@@ -26,3 +26,4 @@ The team reviews the estimation objectives and discusses the problem and any est
  • The estimators have the information they need to participate effectively
 
 ## Individual Preparation
+cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa persona considera, no lo que el resto quiere escuchar. Esta estimacion no se hace sobre todo el proyecto, sino sobre 

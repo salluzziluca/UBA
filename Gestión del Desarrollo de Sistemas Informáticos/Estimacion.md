@@ -62,7 +62,9 @@ La incertidumbre es inherente al desarrollo de software. Puede venir de múltipl
 
 > [!note] La incertidumbre no se elimina, se gestiona.
 
-Mientras mas adentro estemos del proyecto, enos incertidumbre vamos a tener. Se habla de +35% al principio y entre 5 y 10 a medida que avanzamos.
+Mientras mas adentro estemos del proyecto, enos incertidumbre vamos a tener. Se habla de +35% al principio y entre 5 y 10 a medida que avanzamos. Depende del momento del proyecto y de la informacion disponible. 
+
+neceistamos informacion + propuestas + costo
 
 Algunas estrategias útiles:
 - Dividir grandes problemas en partes más pequeñas.

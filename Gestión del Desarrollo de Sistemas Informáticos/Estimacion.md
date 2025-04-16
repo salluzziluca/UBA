@@ -111,6 +111,7 @@ ver [[No Estimates]]
 [[Wideband Delphi]]
 
 - Juicio de expertos 
+	Preguntar a los que saben
 - estimacion analoga 
 - estimacion parametrica (estadistica)
 - estimacion ascedente 

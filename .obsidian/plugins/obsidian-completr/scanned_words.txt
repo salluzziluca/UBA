@@ -2214,6 +2214,9 @@ conservative
 cess
 close
 critical
+combination
+changing
+clear
 de
 dispositivos
 del
@@ -3143,6 +3146,8 @@ desirable
 demonstrate
 deliver
 dramatically
+delivered
+dynamics
 gestion
 gran
 guarda
@@ -3616,6 +3621,7 @@ gets
 generally
 gathering
 government
+guessed
 especifico
 entra
 en
@@ -4566,6 +4572,9 @@ ejemplos
 excusas
 estimacion
 estimating
+estimated
+enough
+estimarlo
 servicios
 son
 su
@@ -5529,6 +5538,8 @@ show
 stabilized
 sales
 supposed
+setting
+science
 par
 por
 punto
@@ -6624,6 +6635,10 @@ promise
 pro
 plans
 provide
+perfectly
+provides
+probabilistica
+probability
 la
 las
 le
@@ -7243,6 +7258,7 @@ larger
 largest
 leads
 less
+leadership
 agnosticos
 apps
 al
@@ -8198,6 +8214,9 @@ aggressive
 assume
 analytical
 asked
+accurate
+art
+allow
 hardware
 heap
 hay
@@ -9183,6 +9202,7 @@ qJT
 qDF
 quality
 quadrants
+quotation
 utilizados
 un
 una
@@ -9669,6 +9689,9 @@ uvK
 urgente
 umbrales
 unbiased
+useful
+ultimately
+underlying
 System
 Son
 Source
@@ -10932,6 +10955,7 @@ Compromisos
 Cambios
 Comunicaci
 Creating
+Constante
 Es
 El
 Estos
@@ -12899,6 +12923,8 @@ reevaluar
 reaccionar
 regulations
 recognize
+reason
+reality
 operacion
 orden
 operaciones
@@ -15091,6 +15117,7 @@ Analice
 Asignar
 Actualizar
 Aceptar
+Accuracy
 Programming
 Procesos
 Partes
@@ -17514,6 +17541,8 @@ midiendo
 monetario
 million
 maximum
+marks
+major
 tien
 tiene
 todos
@@ -18169,6 +18198,7 @@ tard
 targets
 target
 treated
+tambine
 inico
 interna
 infro
@@ -19607,6 +19637,7 @@ fuentes
 functions
 foundation
 figuring
+focuses
 Nombre
 Notas
 Not
@@ -23914,6 +23945,8 @@ wpz
 white
 well
 whether
+word
+won
 VA
 VIEW
 Volumen
@@ -25242,6 +25275,7 @@ yJv
 yKSx
 yZH
 ygn
+yaa
 json
 jacobiano
 justamente

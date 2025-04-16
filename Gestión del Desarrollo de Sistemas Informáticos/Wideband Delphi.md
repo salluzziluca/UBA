@@ -44,4 +44,4 @@ cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa p
 
 El moderador junta las estimaciones individuales y las agrega al siguiente grafico
 ![[Pasted image 20250416112832.png]]
-Cada uno de los involucrados puede ver en que parte del espectro cae su estimacion. Es todo anonimo.
+Cada uno de los involucrados puede ver en que parte del espectro cae su estimacion. **Es todo anonimo**.

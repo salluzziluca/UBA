@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Gestion de la comunicación. Cambios y costos del proyecto",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la comunicación. Cambios y costos del proyecto.md"
+      "basename": "Gestión de Cambios",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión de Cambios.md"
+    },
+    {
+      "basename": "Gestion de la comunicación",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la comunicación.md"
     },
     {
       "basename": "Estimacion",
@@ -195,10 +199,6 @@
     {
       "basename": "1.7 Eventos Independientes",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
-    },
-    {
-      "basename": "Pasaje del modelo conceptual al modelo relacional",
-      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
     }
   ],
   "omittedPaths": [],

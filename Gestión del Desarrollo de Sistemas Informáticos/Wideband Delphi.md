@@ -46,4 +46,6 @@ El moderador junta las estimaciones individuales y las agrega al siguiente grafi
 ![[Pasted image 20250416112832.png]]
 Cada uno de los involucrados puede ver en que parte del espectro cae su estimacion. **Es todo anonimo**.
 
-El moderador leer su task list sin revelar cual fue su estimativo (de horas, en este caso). Se combina con el resto de subtasks de acad
+El moderador leer su task list sin revelar cual fue su estimativo (de horas, en este caso). Se combina con el resto de subtasks de cada uno, verbalmente, para llegar a una lista mas completa que la que una sola persona podria hacer.
+
+En este momento tambien se discute acerca de asunciones y preguntas.

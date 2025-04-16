@@ -53,4 +53,10 @@ En este momento tambien se discute acerca de asumpciones  y preguntas.
 
 After this initial discussion, all participants modify their estimates concurrently (and silently) in the meeting room. They might revise their task lists based on the information shared during the discussion, and they’ll adjust individual task estimates based on their new understanding of the task scope or changed assumptions.
 
-Se vuelven a recolectar las asumpciones y se vuelven a plotear anonimamente en el chart
+Se vuelven a recolectar las asumpciones y se vuelven a plotear anonimamente en el chart. Esto se repite hasta que 
+
+• you have completed four rounds;
+ • the estimates have converged to an acceptably narrow range (defined in advance);
+ • the allotted estimation meeting time (typically two hours) is over; or
+ • all participants are unwilling to alter their latest estimates
+Los tiempos deberan ser de 15/20 minutos nomas, para que no se complique el tema y se vuelva lento e insoportable.

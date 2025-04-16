@@ -2217,6 +2217,10 @@ critical
 combination
 changing
 clear
+calendario
+calendarios
+ciente
+colaboracion
 de
 dispositivos
 del
@@ -3148,6 +3152,8 @@ deliver
 dramatically
 delivered
 dynamics
+documentar
+debiendo
 gestion
 gran
 guarda
@@ -4575,6 +4581,7 @@ estimating
 estimated
 enough
 estimarlo
+ente
 servicios
 son
 su
@@ -5540,6 +5547,8 @@ sales
 supposed
 setting
 science
+satisfaccion
+stakeholder
 par
 por
 punto
@@ -6639,6 +6648,7 @@ perfectly
 provides
 probabilistica
 probability
+productividad
 la
 las
 le
@@ -7259,6 +7269,7 @@ largest
 leads
 less
 leadership
+laborables
 agnosticos
 apps
 al
@@ -8217,6 +8228,7 @@ asked
 accurate
 art
 allow
+acepta
 hardware
 heap
 hay
@@ -10286,6 +10298,7 @@ SPI
 SPIACt
 Stop
 Subestimaci
+Solicitud
 Calls
 Cmabia
 CPU
@@ -10956,6 +10969,7 @@ Cambios
 Comunicaci
 Creating
 Constante
+Constrain
 Es
 El
 Estos
@@ -11591,6 +11605,8 @@ Estoy
 Estimaci
 Estimation
 Estimates
+Expresada
+Expresado
 kernel
 kt
 kU
@@ -12925,6 +12941,8 @@ regulations
 recognize
 reason
 reality
+requeridas
+regulatorio
 operacion
 orden
 operaciones
@@ -15118,6 +15136,7 @@ Asignar
 Actualizar
 Aceptar
 Accuracy
+Asociado
 Programming
 Procesos
 Partes
@@ -17543,6 +17562,7 @@ million
 maximum
 marks
 major
+miran
 tien
 tiene
 todos
@@ -19040,6 +19060,7 @@ ignoran
 informadas
 investigar
 iterations
+inpacto
 fijo
 file
 fork
@@ -19638,6 +19659,7 @@ functions
 foundation
 figuring
 focuses
+favor
 Nombre
 Notas
 Not
@@ -22308,6 +22330,7 @@ Tiempo
 Tareas
 Those
 Target
+Triple
 Realiza
 REgistrys
 Rango

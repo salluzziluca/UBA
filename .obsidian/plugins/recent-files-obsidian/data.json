@@ -9,6 +9,10 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión de Cambios.md"
     },
     {
+      "basename": "Esfuerzo vs Duracion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Esfuerzo vs Duracion.md"
+    },
+    {
       "basename": "Gestion de la comunicación",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la comunicación.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Gestion de Costos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
-    },
-    {
-      "basename": "Esfuerzo vs Duracion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Esfuerzo vs Duracion.md"
     },
     {
       "basename": "Lean Inception",

@@ -41,3 +41,5 @@ cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa p
  between tasks. This will help you translate effort estimates into schedule estimates
  later on.
 ## Estimation Meeting
+
+El moderador junta las estimaciones individuales y 

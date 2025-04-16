@@ -79,3 +79,7 @@ Se termina cuando:
 
 
 Estimates are predictions of the future, and the range reflects the inherent uncertainty of gazing into the crystal ball. You might present three numbers: the average of the estimates as the planned case, the minimum value as the best case and the maximum as the worst case. Or you could present the average value as the nominal expected outcome, plus the maximum-minus-the-average value, and minus the average-minus-the-minimum value
+
+Todo es una probabilidad!!
+
+While the results of a Delphi session might not be what the movers and shakers want to hear, they can decide whether they want to plan their project at a 10 percent confidence level, a 90 percent confidence level or somewhere in-between. Be sure to compare the actual project results to your estimates to improve your future estimating accuracy.

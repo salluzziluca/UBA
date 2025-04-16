@@ -14,3 +14,9 @@ Ademas de eso se tiene ne cuenta la calidad, el riesgo y la satisfaccion del cie
 3. Se miran alternativas 
 4. Se toma la decision 
 5. Se acepta o no 
+6. Dar un cierre y documentar (te quedan debiendo un favor)
+
+## Beneficios de una buena gestion de cambios 
+Mayor productividad 
+mejor comunicacion 
+mayor colaboracion

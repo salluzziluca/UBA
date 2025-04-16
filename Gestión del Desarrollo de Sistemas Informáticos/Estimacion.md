@@ -26,6 +26,9 @@ While a target is a description of a desirable business objective, a commitment 
 A commitment can be the same as the estimate, or it can be more aggressive or more conservative than the estimate. In other words, do not assume that the commitment has to be the same as the estimate; it doesn’t.
 
 >[!tip] Distinguish between estimates, targets, and commitments.
+
+### Est
+
 ### Algunas buenas prácticas:
 - No comprometerse con estimaciones tempranas.
 - Evitar dar estimaciones cuando el alcance no está claro.

@@ -13,14 +13,19 @@ Estimar es el acto de anticipar cuánto va a llevar algo, generalmente en tiempo
 Es fundamental aclarar **qué se está estimando** (¿una tarea? ¿un conjunto de tareas? ¿un producto entero?) y también en qué unidad: tiempo, esfuerzo relativo (como story points) o incluso costo monetario.
 una estimacion consta de targets, commitments and control 
 
-### Target
+### Partes clave
+#### Target
 A target is a statement of a desirable business objective. Examples include the 
 following:
 - “We need to have Version 2.1 ready to demonstrate at a trade show in May.”
 - “We need to have this release stabilized in time for the holiday sales cycle.”
 - “These functions need to be completed by July 1 so that we’ll be in compliance with government regulations.”
-- “We must limit the cost of the next release to $2 million, because that’s the 
-maximum budget we have for that release.”
+- “We must limit the cost of the next release to $2 million, because that’s the maximum budget we have for that release.”
+#### Commitment
+While a target is a description of a desirable business objective, a commitment is a promise to deliver defined functionality at a specific level of quality by a certain date.
+A commitment can be the same as the estimate, or it can be more aggressive or more conservative than the estimate. In other words, do not assume that the commitment has to be the same as the estimate; it doesn’t.
+
+>
 ### Algunas buenas prácticas:
 - No comprometerse con estimaciones tempranas.
 - Evitar dar estimaciones cuando el alcance no está claro.

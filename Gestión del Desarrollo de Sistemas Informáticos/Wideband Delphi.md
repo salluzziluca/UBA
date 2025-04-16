@@ -17,3 +17,12 @@ Se contara con un moderador, que coordinara la actividad, un PM y entre 2 y 4 es
 Se les explica bien a todos sobre el metodo Wideband Delphi y se les da a todos los estimadores informacion suficiente sobre el problema a atacar.
 
 The team reviews the estimation objectives and discusses the problem and any estimation issues. The participants agree on the estimation units they will use, such as weeks, labor hours, dollars or lines of code. If the moderator concludes that all team members are sufficiently knowledgeable to contribute to the estimation activity, the group is ready to roll. Otherwise, the participants may need to be briefed more fully on the problem they’re estimating, or possibly replaced by others who can generate more accurate estimates
+
+### Condiciones 
+ • Appropriate team members have been selected.
+ • The kickoff meeting has been held.
+ • The participants have agreed on the estimation goal and units.
+ • The project manager can participate in the session.
+ • The estimators have the information they need to participate effectively
+
+## Individual Preparation

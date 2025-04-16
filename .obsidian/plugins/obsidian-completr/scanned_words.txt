@@ -2204,6 +2204,16 @@ comprometerse
 consecuencias
 consideraron
 cnico
+consta
+commitments
+cycle
+completed
+compliance
+certain
+conservative
+cess
+close
+critical
 de
 dispositivos
 del
@@ -3129,6 +3139,10 @@ desastre
 desv
 documentan
 debilidad
+desirable
+demonstrate
+deliver
+dramatically
 gestion
 gran
 guarda
@@ -3601,6 +3615,7 @@ gitignore
 gets
 generally
 gathering
+government
 especifico
 entra
 en
@@ -4549,6 +4564,8 @@ estimaciones
 entiende
 ejemplos
 excusas
+estimacion
+estimating
 servicios
 son
 su
@@ -5508,6 +5525,10 @@ suposici
 saberlo
 supuestos
 surgir
+show
+stabilized
+sales
+supposed
 par
 por
 punto
@@ -6599,6 +6620,10 @@ probabilistico
 promesa
 preparan
 pena
+promise
+pro
+plans
+provide
 la
 las
 le
@@ -7217,6 +7242,7 @@ likely
 larger
 largest
 leads
+less
 agnosticos
 apps
 al
@@ -8168,6 +8194,10 @@ ajustada
 absorber
 afectan
 actualiz
+aggressive
+assume
+analytical
+asked
 hardware
 heap
 hay
@@ -8688,6 +8718,7 @@ hacerse
 hitos
 his
 honestidad
+holiday
 que
 queda
 quien
@@ -9637,6 +9668,7 @@ uRj
 uvK
 urgente
 umbrales
+unbiased
 System
 Son
 Source
@@ -10899,6 +10931,7 @@ Creates
 Compromisos
 Cambios
 Comunicaci
+Creating
 Es
 El
 Estos
@@ -11531,6 +11564,9 @@ Entregar
 Exposes
 Estimaciones
 Estoy
+Estimaci
+Estimation
+Estimates
 kernel
 kt
 kU
@@ -12861,6 +12897,8 @@ receta
 riesgos
 reevaluar
 reaccionar
+regulations
+recognize
 operacion
 orden
 operaciones
@@ -13407,6 +13445,7 @@ odo
 ones
 obvious
 ocurren
+objective
 nombre
 nuevo
 nica
@@ -15664,6 +15703,8 @@ Proporcional
 Pron
 Planificaci
 Proponer
+Planing
+Prioritizing
 Interface
 ID
 Instructions
@@ -16203,6 +16244,7 @@ Involucra
 Inicio
 Implica
 Incertidumbre
+Identifying
 Un
 UNIX
 UBA
@@ -17470,6 +17512,8 @@ made
 move
 midiendo
 monetario
+million
+maximum
 tien
 tiene
 todos
@@ -18122,6 +18166,9 @@ tecnolog
 tiles
 todav
 tard
+targets
+target
+treated
 inico
 interna
 infro
@@ -18962,6 +19009,7 @@ imprevistos
 ignoran
 informadas
 investigar
+iterations
 fijo
 file
 fork
@@ -19556,6 +19604,9 @@ forzar
 factors
 fun
 fuentes
+functions
+foundation
+figuring
 Nombre
 Notas
 Not
@@ -21107,6 +21158,7 @@ Desempe
 Duraci
 Desarrollar
 Dividir
+Distinguish
 Memoria
 Multivariada
 MORE
@@ -21725,6 +21777,7 @@ Medicion
 Modalidades
 Mejor
 Managers
+May
 Table
 Todos
 This
@@ -22223,6 +22276,7 @@ TCPI
 Tiempo
 Tareas
 Those
+Target
 Realiza
 REgistrys
 Rango
@@ -23433,6 +23487,10 @@ been
 between
 baseline
 buffers
+because
+budget
+biased
+breakdown
 will
 words
 with
@@ -23855,6 +23913,7 @@ wFrtR
 wpz
 white
 well
+whether
 VA
 VIEW
 Volumen
@@ -27036,6 +27095,7 @@ BAC
 Basado
 Basada
 Buena
+Breaking
 XY
 Xg
 XQG
@@ -28268,6 +28328,7 @@ JeC
 JDL
 JHPr
 JVE
+July
 Quienes
 Queue
 Quiere
@@ -29598,6 +29659,7 @@ WrBraP
 WrSI
 WiE
 Why
+While
 ZZZPU
 ZX
 ZQ

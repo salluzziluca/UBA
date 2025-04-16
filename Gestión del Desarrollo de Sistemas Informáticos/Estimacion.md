@@ -52,6 +52,8 @@ Un compromiso sí es una promesa. Implica responsabilidad y suele tener consecue
 
 Es válido y necesario diferenciar: _“Esto es una estimación preliminar”_ vs. _“Esto es un compromiso con fecha definida”_.
 
+![[Conversacion]]
+
 ## Incertidumbre
 
 La incertidumbre es inherente al desarrollo de software. Puede venir de múltiples fuentes: requisitos poco claros, dependencias externas, tecnología nueva o incluso por errores humanos.

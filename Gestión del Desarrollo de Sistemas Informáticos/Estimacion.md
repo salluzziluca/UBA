@@ -118,4 +118,5 @@ ver [[No Estimates]]
 	Vas haciendo cuentitas de una cosa a la vez.
 - estimacion ascedente 
 - estimacion 3 puntos 
+	$CosteEstimado= CostoOptimista +4C$
 

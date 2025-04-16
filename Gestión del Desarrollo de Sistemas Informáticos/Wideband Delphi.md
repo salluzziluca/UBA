@@ -68,4 +68,4 @@ Los tiempos deberan ser de 15/20 minutos nomas, para que no se complique el tema
 
 The project manager provides the other estimators with the overall task list, individual estimates, cumulative estimates, assumption list, and any other information. Bring the team back together for a 30- to 60-minute review meeting to bring closure to the estimation activity. This meeting also provides an opportunity for the team to contemplate this execution of the Wideband Delphi process and suggest ways it can be improved for future applications.
 
-The participants should make sure the final task list is as complete as possible. Se pueden agregar nuevas tareas
+The participants should make sure the final task list is as complete as possible. Se pueden agregar nuevas tareas si surgen.

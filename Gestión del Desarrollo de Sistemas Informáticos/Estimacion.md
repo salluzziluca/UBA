@@ -111,9 +111,11 @@ ver [[No Estimates]]
 [[Wideband Delphi]]
 
 - Juicio de expertos 
-	Preguntar a los que saben
+	Preguntar a los que saben, a alguien que ya haya hecho esto
 - estimacion analoga 
+	Busca proyectos similares en tamaño o en tiempo o cliente y encontrar una convergencia ahi de estimacion
 - estimacion parametrica (estadistica)
+	Vas haciendo cuentitas de una cosa a la vez.
 - estimacion ascedente 
 - estimacion 3 puntos 
 

@@ -68,4 +68,6 @@ El equipo y los stakeholders valoran más la honestidad temprana que las excusas
 
 
 
+ver [[No Estimates]]
+
 

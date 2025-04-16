@@ -1,60 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Poker Planing",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Poker Planing.md"
+      "basename": "Programación Dinámica",
+      "path": "Teoría de Algoritmos/Programación Dinámica.md"
     },
     {
-      "basename": "Backtracking",
-      "path": "Teoría de Algoritmos/Backtracking.md"
+      "basename": "FIUBA Talks",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
     },
     {
-      "basename": "Reunion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Reunion.md"
-    },
-    {
-      "basename": "Earned Value Management",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
-    },
-    {
-      "basename": "Seguimiento y Control",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Seguimiento y Control.md"
-    },
-    {
-      "basename": "Gestion de la Calidad",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la Calidad.md"
-    },
-    {
-      "basename": "Technical, User eXperience and Business Review",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
-    },
-    {
-      "basename": "Triángulo de Hierro",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
-    },
-    {
-      "basename": "Describe the Personas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
-      "basename": "4.1 SOLID",
-      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
-    },
-    {
-      "basename": "Gestion de Tiempo",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Tiempo.md"
-    },
-    {
-      "basename": "Gestion de Costos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
-    },
-    {
-      "basename": "Esfuerzo vs Duracion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Esfuerzo vs Duracion.md"
-    },
-    {
-      "basename": "Estimacion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
     },
     {
       "basename": "Lean Inception",
@@ -67,6 +23,10 @@
     {
       "basename": "Discover the Features",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Discover the Features.md"
+    },
+    {
+      "basename": "Describe the Personas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
     },
     {
       "basename": "The product Is – Is not – Does – Does not",
@@ -121,12 +81,12 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
     },
     {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+      "basename": "Earned Value Management",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
     },
     {
-      "basename": "3.3 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+      "basename": "1.6 Particiones",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
     {
       "basename": "3.2 Varianza",
@@ -135,6 +95,10 @@
     {
       "basename": "3.1 Esperanza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Backtracking",
+      "path": "Teoría de Algoritmos/Backtracking.md"
     },
     {
       "basename": "Ciclo de Euler",
@@ -193,12 +157,44 @@
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
     },
     {
-      "basename": "FIUBA Talks",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
-    },
-    {
       "basename": "Presentación Lean Inception - Parte 1",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Presentación Lean Inception - Parte 1.pdf"
+    },
+    {
+      "basename": "Persona",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
+    },
+    {
+      "basename": "Definition of Done (DOD)",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
+    },
+    {
+      "basename": "GDSI_2_FIUBATalks.pptx",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/GDSI_2_FIUBATalks.pptx.pdf"
+    },
+    {
+      "basename": "Modelo Entidad-Interrelación Avanzado",
+      "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
+    },
+    {
+      "basename": "Modelo Logico-Relacional Conceptual",
+      "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
+    },
+    {
+      "basename": "Modelo Entidad-Interrelacion",
+      "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
+    },
+    {
+      "basename": "Technical, User eXperience and Business Review",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
+    },
+    {
+      "basename": "Lean Canvas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Lean Canvas.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "Cursos/GTD.md"
     }
   ],
   "omittedPaths": [],

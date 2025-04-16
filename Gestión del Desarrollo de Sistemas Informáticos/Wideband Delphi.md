@@ -32,3 +32,12 @@ cada uno realiza una estimacion individual, teniendo en cuenta solo lo que esa p
 
 
 ![[Pasted image 20250416112511.png]]
+• Assume one person (you) will perform all tasks.
+ • Assume all tasks will be performed sequentially; don’t worry about sequencing and
+ predecessor tasks at this time.
+ • Assume that you can devote uninterrupted effort to each task (this may seem absurdly
+ optimistic, but it simplifies the estimation process).
+ • In units of calendar time, list any known waiting times you expect to encounter
+ between tasks. This will help you translate effort estimates into schedule estimates
+ later on.
+## Estimation Meeting

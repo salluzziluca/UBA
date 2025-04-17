@@ -30,3 +30,8 @@ Todos los recursos que se le asignaran al proyecto:
 - serivicios 
 - mitigación de riesgos, contingencias
 Se mide en unidades monetarias ($) o de
+
+
+Lo hace el PM generalmente, lideres del royec
+
+Se remata la pata de lavaca mata

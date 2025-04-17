@@ -55,5 +55,6 @@ Se remata la pata de lavaca mata
 ### Time and materials 
 pagps por entregables completos 
 muy flexible
+peeero: 
 Mayor involucramiento del cliente 
-Riesgos de sobrecos
+Riesgos de sobrecostos si no se controla bien el tiempo

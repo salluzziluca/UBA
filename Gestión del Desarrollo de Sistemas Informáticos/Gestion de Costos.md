@@ -43,4 +43,8 @@ Indirectos (Luz, internet, oficina)
 fijos(salarios, alquiler)
 variable (materia prima, logistica)
 
+## Estimacion de costo 
+Si subestimo hay riesgo por baja rentabilidad pero el cliente lo va aceptar casi seguri 
+Si sobreestimo el cliente no compra, pero estamos mas tranquilos
+
 Se remata la pata de lavaca mata

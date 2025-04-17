@@ -38,6 +38,9 @@ EN entornos agiles lo hace el equipo completo
 
 ## TIpos de costo s
 Costos directos (insumos, salarios, distribucion)
-Indirectos ()
+Indirectos (Luz, internet, oficina)
+
+fijos(salarios, alquiler)
+variable (materia prima, logistica)
 
 Se remata la pata de lavaca mata

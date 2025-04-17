@@ -32,6 +32,12 @@ Todos los recursos que se le asignaran al proyecto:
 Se mide en unidades monetarias ($) o de
 
 
-Lo hace el PM generalmente, lideres del royec
+Lo hace el PM generalmente, lideres del proyecto o estimadores de costos 
+
+EN entornos agiles lo hace el equipo completo 
+
+## TIpos de costo s
+Costos directos (insumos, salarios, distribucion)
+Indirectos ()
 
 Se remata la pata de lavaca mata

@@ -60,4 +60,14 @@ Mayor involucramiento del cliente
 Riesgos de sobrecostos si no se controla bien el tiempo
 
 ## Precio fijo 
-[[desc]], tiempo y precio predefinido 
+[[Descubrimiento-Alcance|alcance]], tiempo y precio predefinido 
+Pago por hitos y porcentajes 
+
+peeero: poco flexible 
+
+
+## Indicadores financieros
+
+NPV: valor presente descontado 
+TIR valor que hace NVP = 0 
+ROI = gananci

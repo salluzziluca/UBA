@@ -50,4 +50,10 @@ Si sobreestimo el cliente no compra, pero estamos mas tranquilos
 Se remata la pata de lavaca mata
 
 
-## Mode
+## Modelos de cotizacion 
+
+### Time and materials 
+pagps por entregables completos 
+muy flexible
+Mayor involucramiento del cliente 
+Riesgos de sobrecos

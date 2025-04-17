@@ -58,3 +58,6 @@ muy flexible
 peeero: 
 Mayor involucramiento del cliente 
 Riesgos de sobrecostos si no se controla bien el tiempo
+
+## Precio fijo 
+[[desc]], tiempo y precio predefinido 

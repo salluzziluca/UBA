@@ -70,4 +70,6 @@ peeero: poco flexible
 
 NPV: valor presente descontado 
 TIR valor que hace NVP = 0 
-ROI = gananci
+ROI = ganancia relativa sobre la inversion 
+
+Payback: tiempo estimado para recuperar la inversion

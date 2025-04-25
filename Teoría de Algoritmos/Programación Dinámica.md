@@ -243,13 +243,13 @@ Mis dos opciones son: Uso el elemento y busco el optimo de n-1 con la capacidad 
 O no uso el elemento y busco el optimo de n-1 con el peso sin cambiar
 
 ```python 
-def mochila(valor, peso, N, W):
-   if N == 0:
-       return 0
-   if W < peso[N]:
-       return mochila(valor, peso, N-1, W)
-   return max(mochila(valor, peso, N-1, W),
-              valor[N] + mochila(valor, peso, N-1, W-peso[N]))
+	def mochila(valor, peso, N, W):
+	   if N == 0:
+	       return 0
+	   if W < peso[N]:
+	       return mochila(valor, peso, N-1, W)
+	   return max(mochila(valor, peso, N-1, W),
+	              valor[N] + mochila(valor, peso, N-1, W-peso[N]))
 ```
 
 ![[10b - Mochila - Ejemplo.pdf]]

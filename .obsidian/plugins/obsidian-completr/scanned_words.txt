@@ -2224,6 +2224,12 @@ column
 combination
 correspond
 clearly
+compromiso
+certeza
+comprometerse
+consecuencias
+consideraron
+cnico
 de
 dispositivos
 del
@@ -3146,6 +3152,10 @@ delivering
 discover
 discussion
 discarded
+desastre
+desv
+documentan
+debilidad
 gestion
 gran
 guarda
@@ -4560,6 +4570,11 @@ enough
 epicas
 everyone
 effective
+esfuerzo
+estimando
+entiende
+ejemplos
+excusas
 servicios
 son
 su
@@ -5523,6 +5538,10 @@ simplest
 sequencer
 score
 suggests
+suposici
+saberlo
+supuestos
+surgir
 par
 por
 punto
@@ -6600,6 +6619,10 @@ prioritized
 partially
 prevent
 period
+probabilistico
+promesa
+preparan
+pena
 la
 las
 le
@@ -8169,6 +8192,13 @@ allow
 agreement
 avoids
 already
+acto
+anticipar
+adivinar
+ajustada
+absorber
+afectan
+actualiz
 hardware
 heap
 hay
@@ -8693,6 +8723,7 @@ hand
 however
 hinder
 head
+honestidad
 que
 queda
 quien
@@ -10247,6 +10278,7 @@ Summary
 Story
 Stories
 Sequencer
+Subestimaci
 Calls
 Cmabia
 CPU
@@ -10900,6 +10932,9 @@ Creep
 Circunstancia
 Cree
 Create
+Compromisos
+Cambios
+Comunicaci
 Es
 El
 Estos
@@ -11527,6 +11562,8 @@ EEFs
 Epics
 Explain
 Everyone
+Estimaciones
+Estoy
 kernel
 kt
 kU
@@ -12854,6 +12891,11 @@ rules
 running
 row
 reaches
+revisada
+receta
+riesgos
+reevaluar
+reaccionar
 operacion
 orden
 operaciones
@@ -13404,6 +13446,7 @@ optimistas
 office
 options
 objectives
+ocurren
 nombre
 nuevo
 nica
@@ -13955,6 +13998,8 @@ negatively
 note
 numbered
 necessarily
+negativamente
+ndola
 via
 vuelve
 viven
@@ -14499,6 +14544,7 @@ valuable
 vendria
 vertebral
 validate
+valoran
 Application
 API
 Asigna
@@ -15042,6 +15088,7 @@ Activities
 Arriba
 Actividades
 Although
+Aceptar
 Programming
 Procesos
 Partes
@@ -16187,6 +16234,8 @@ IEL
 IKN
 Ingener
 Industry
+Implica
+Incertidumbre
 Un
 UNIX
 UBA
@@ -17446,6 +17495,8 @@ motor
 modular
 maximum
 matrix
+midiendo
+monetario
 tien
 tiene
 todos
@@ -18093,6 +18144,13 @@ teaching
 three
 titles
 thought
+tratar
+tempranas
+tomes
+tecnolog
+tiles
+todav
+tard
 inico
 interna
 infro
@@ -18933,6 +18991,13 @@ integrated
 increments
 increemnts
 iterative
+informada
+incluso
+inherente
+imprevistos
+ignoran
+informadas
+investigar
 fijo
 file
 fork
@@ -19525,6 +19590,7 @@ finally
 flat
 fact
 finding
+fuentes
 Nombre
 Notas
 Not
@@ -20551,6 +20617,8 @@ Funcionalidades
 Factors
 Flat
 Feature
+Fallos
+Frases
 Descriptors
 Descriptor
 Devuelve
@@ -21071,6 +21139,7 @@ Does
 Defino
 Dan
 Difference
+Dividir
 Memoria
 Multivariada
 MORE
@@ -23398,6 +23467,7 @@ buenoi
 blanco
 being
 because
+buffers
 will
 words
 with
@@ -24287,6 +24357,7 @@ Vdb
 VUSb
 VYYVVYIZ
 Vpl
+Vale
 OPTIONS
 Operativos
 Orden

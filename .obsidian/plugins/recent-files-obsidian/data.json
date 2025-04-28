@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Agile",
+      "path": "Cursos/Agile and Scrum/Agile.md"
+    },
+    {
       "basename": "1er Parcial",
       "path": "Ingeneniería del Software I/1er Parcial.canvas"
+    },
+    {
+      "basename": "4.1 SOLID",
+      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
     },
     {
       "basename": "Programación Dinámica",
@@ -95,10 +103,6 @@
     {
       "basename": "Describe the Personas",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
-      "basename": "4.1 SOLID",
-      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
     },
     {
       "basename": "Gestion de Tiempo",
@@ -195,10 +199,6 @@
     {
       "basename": "1.2 Álgebra de Eventos",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.2 Álgebra de Eventos.md"
-    },
-    {
-      "basename": "1.3 Conteo",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.3 Conteo.md"
     }
   ],
   "omittedPaths": [],

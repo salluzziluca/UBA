@@ -36,4 +36,6 @@ El [[Impacto]] se mide en  $\$\$$ o en tiempo. Puede hacerse en paralelo al cual
 
 $$\cos to = costo\_sin\_riesgo + \sum(probabilidad[i]*impacto[i])$$
 ![[Pasted image 20250429141541.png]]
+
+![[Pasted image 20250429141642.png]]
 ### Tratamiento

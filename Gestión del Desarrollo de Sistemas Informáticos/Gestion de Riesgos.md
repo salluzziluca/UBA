@@ -15,6 +15,7 @@ No hay que pensar que "todo siempre va a salir bien"
 Hay que sre maduros y analizar lo que puede salir mal, esto protege a la empresa de actuar a ciegas
 
 ## Etapas 
+![[Pasted image 20250429135636.png]]
 
 ### Identificación de Riesgos 
 

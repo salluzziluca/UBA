@@ -8,3 +8,8 @@ Hay empresas con mas o menos predisposicion a tomar riesgos (aeronautica va a in
 
 
 Se puede actuar reactivamente o proactivamente, buscando minimizar, anticipar y prepararse para las consecuencias
+
+
+## Cambio de mentalidad 
+No hay que pensar que "todo siempre va a salir bien"
+Hay que sre maduros y analizar lo que puede salir mal, esto protege a la empresa de actuar a ciegas

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Problema",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Problema.md"
+    },
+    {
       "basename": "Gestion de Riesgos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Riesgos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Logico-Relacional Conceptual",
       "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
-    },
-    {
-      "basename": "Modelo Entidad-Interrelacion",
-      "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
     }
   ],
   "omittedPaths": [],

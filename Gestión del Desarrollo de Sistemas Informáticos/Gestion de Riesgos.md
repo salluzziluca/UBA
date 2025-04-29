@@ -7,4 +7,4 @@ Busca aumentar la probabilidad de impacto positivo de [[Riesgos]] y disminuir la
 Hay empresas con mas o menos predisposicion a tomar riesgos (aeronautica va a intentar minimizar los riesgos).
 
 
-Se puede actuar reactivamente o proactivamente
+Se puede actuar reactivamente o proactivamente, buscando minimizar, anticipar y prepararse para las consecuencias

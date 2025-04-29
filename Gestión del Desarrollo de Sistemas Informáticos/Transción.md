@@ -6,4 +6,4 @@ El evento que hace que el [[Riesgos|riesgo]] se convierta en [[Problema|problema
 
 
 ## Indicador de transcion
-Algun indicador ue muestre que la transci
+Algun indicador ue muestre que la transción esta ocurriendo para poder actuar

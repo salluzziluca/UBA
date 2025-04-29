@@ -3143,6 +3143,7 @@ desirable
 demonstrate
 deliver
 dramatically
+disminuir
 gestion
 gran
 guarda
@@ -4566,6 +4567,7 @@ ejemplos
 excusas
 estimacion
 estimating
+empresas
 servicios
 son
 su
@@ -6624,6 +6626,9 @@ promise
 pro
 plans
 provide
+predisposicion
+proactivamente
+prepararse
 la
 las
 le
@@ -8198,6 +8203,8 @@ aggressive
 assume
 analytical
 asked
+aeronautica
+actuar
 hardware
 heap
 hay
@@ -12899,6 +12906,7 @@ reevaluar
 reaccionar
 regulations
 recognize
+reactivamente
 operacion
 orden
 operaciones
@@ -13996,6 +14004,7 @@ naturaleza
 numbers
 negativamente
 ndola
+negativa
 via
 vuelve
 viven
@@ -21778,6 +21787,7 @@ Modalidades
 Mejor
 Managers
 May
+Materializado
 Table
 Todos
 This

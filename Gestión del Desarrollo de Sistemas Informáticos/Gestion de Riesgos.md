@@ -22,7 +22,8 @@ Es un trabajo dificil, l mejor que es participen todos los interesados. Es algo 
 - Registrar caracteristicas 
 - Lista de respuestas pootenciales (si es posible)
 #### Herrramientas 
-Brainstorming, checklists, taxonomias
+Brainstorming, checklists, taxonomias (SEI Risk Taxonomy), Analisis FODA
+Diagrama iskikawa
 ### Evaluación 
 
 ### Tratamiento

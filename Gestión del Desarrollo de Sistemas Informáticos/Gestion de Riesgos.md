@@ -18,7 +18,9 @@ Hay que sre maduros y analizar lo que puede salir mal, esto protege a la empresa
 ![[Pasted image 20250429135636.png]]
 
 ### Identificación de Riesgos 
-
+Es un trabajo dificil, l mejor que es p
+- Registrar caracteristicas 
+- Lista de respuestas pootenciales (si es posible)
 
 ### Evaluación 
 

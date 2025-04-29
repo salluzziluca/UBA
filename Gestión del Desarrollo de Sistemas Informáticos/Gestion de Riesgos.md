@@ -28,5 +28,5 @@ Diagrama ishikawa
 ### Evaluación 
 Es al pedo intentar gestionar un riesgo si es muy **improbable** que se materialice o si no supone un alto **impacto**
 - Probabilidad: Grado de posibilidad de que el evento ocurra, no es estadistica. En muchos casos es una opinion sin factores que la puedan deteminar exactamente (Alta, media, baja)
-- Impacto: 
+- Impacto: cantidad de daño (o beneficio)que el evento de riesgo implica para alguno de los objetivos del proyecto. 
 ### Tratamiento

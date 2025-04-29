@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gestion de Riesgos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Riesgos.md"
+    },
+    {
       "basename": "Riesgos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Entidad-Interrelacion",
       "path": "Base de Datos/Modelo Entidad-Interrelacion.md"
-    },
-    {
-      "basename": "Technical, User eXperience and Business Review",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
     }
   ],
   "omittedPaths": [],

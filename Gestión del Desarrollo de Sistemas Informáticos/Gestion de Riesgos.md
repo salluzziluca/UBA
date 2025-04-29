@@ -32,5 +32,7 @@ Es al pedo intentar gestionar un riesgo si es muy **[[Probabilidad de un riesgo|
 
 
 #### Cuantitativo
-El [[Impacto]] se mide en  $\$\$$ o en tiempo. Puede hacerse en paralelo al cualitatv 
+El [[Impacto]] se mide en  $\$\$$ o en tiempo. Puede hacerse en paralelo al cualitativo o no hacerse 
+
+$$\cos to = costo\_sin\_riesgo + \sum$$
 ### Tratamiento

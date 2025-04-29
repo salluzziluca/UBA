@@ -2214,6 +2214,8 @@ conservative
 cess
 close
 critical
+ciegas
+checklists
 de
 dispositivos
 del
@@ -3144,6 +3146,7 @@ demonstrate
 deliver
 dramatically
 disminuir
+deteminar
 gestion
 gran
 guarda
@@ -4568,6 +4571,7 @@ excusas
 estimacion
 estimating
 empresas
+estadistica
 servicios
 son
 su
@@ -6629,6 +6633,9 @@ provide
 predisposicion
 proactivamente
 prepararse
+protege
+participen
+pootenciales
 la
 las
 le
@@ -10270,6 +10277,7 @@ SPI
 SPIACt
 Stop
 Subestimaci
+SEI
 Calls
 Cmabia
 CPU
@@ -13454,6 +13462,7 @@ ones
 obvious
 ocurren
 objective
+opinion
 nombre
 nuevo
 nica
@@ -15100,6 +15109,7 @@ Analice
 Asignar
 Actualizar
 Aceptar
+Analisis
 Programming
 Procesos
 Partes
@@ -16254,6 +16264,8 @@ Inicio
 Implica
 Incertidumbre
 Identifying
+Identificaci
+Impacto
 Un
 UNIX
 UBA
@@ -17523,6 +17535,9 @@ midiendo
 monetario
 million
 maximum
+mentalidad
+maduros
+materialice
 tien
 tiene
 todos
@@ -18178,6 +18193,7 @@ tard
 targets
 target
 treated
+taxonomias
 inico
 interna
 infro
@@ -19019,6 +19035,9 @@ ignoran
 informadas
 investigar
 iterations
+interesados
+ishikawa
+improbable
 fijo
 file
 fork
@@ -20641,6 +20660,7 @@ Fija
 Fosters
 Fallos
 Frases
+FODA
 Descriptors
 Descriptor
 Devuelve
@@ -22287,6 +22307,8 @@ Tiempo
 Tareas
 Those
 Target
+Taxonomy
+Tratamiento
 Realiza
 REgistrys
 Rango
@@ -22943,6 +22965,7 @@ Recomendaci
 Rojo
 Registrar
 Remember
+Risk
 bien
 by
 be
@@ -23501,6 +23524,7 @@ because
 budget
 biased
 breakdown
+beneficio
 will
 words
 with
@@ -27903,6 +27927,7 @@ Hand
 Huffman
 Hitos
 Have
+Herrramientas
 Jacobiano
 Job
 Jusitfique

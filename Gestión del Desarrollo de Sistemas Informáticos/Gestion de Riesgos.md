@@ -26,5 +26,5 @@ Brainstorming, checklists, taxonomias (SEI Risk Taxonomy), Analisis FODA
 Diagrama ishikawa
 ![[Pasted image 20250429140334.png]]
 ### Evaluación 
-
+Es al pedo intentar gestionar un riesgo si es muy iimprobable que se materialice o si no supng
 ### Tratamiento

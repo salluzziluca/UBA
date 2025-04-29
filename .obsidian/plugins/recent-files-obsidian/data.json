@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Transción",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Transción.md"
+    },
+    {
       "basename": "Problema",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Problema.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Entidad-Interrelación Avanzado",
       "path": "Base de Datos/Modelo Entidad-Interrelación Avanzado.md"
-    },
-    {
-      "basename": "Modelo Logico-Relacional Conceptual",
-      "path": "Base de Datos/Modelo Logico-Relacional Conceptual.md"
     }
   ],
   "omittedPaths": [],

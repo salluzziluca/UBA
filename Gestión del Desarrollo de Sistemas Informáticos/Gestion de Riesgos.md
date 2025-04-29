@@ -18,10 +18,11 @@ Hay que sre maduros y analizar lo que puede salir mal, esto protege a la empresa
 ![[Pasted image 20250429135636.png]]
 
 ### Identificación de Riesgos 
-Es un trabajo dificil, l mejor que es p
+Es un trabajo dificil, l mejor que es participen todos los interesados. Es algo que se hace a lo largo de todo el proyecto
 - Registrar caracteristicas 
 - Lista de respuestas pootenciales (si es posible)
-
+#### Herrramientas 
+Brainstorming, checklists, taxonomias
 ### Evaluación 
 
 ### Tratamiento

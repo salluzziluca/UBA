@@ -26,5 +26,6 @@ Brainstorming, checklists, taxonomias (SEI Risk Taxonomy), Analisis FODA
 Diagrama ishikawa
 ![[Pasted image 20250429140334.png]]
 ### Evaluación 
-Es al pedo intentar gestionar un riesgo si es muy iimprobable que se materialice o si no supng
+Es al pedo intentar gestionar un riesgo si es muy **improbable** que se materialice o si no supone un alto **impacto**
+- Probabilidad: Grado de posibilidad de que el evento ocurra, no es estadistica. 
 ### Tratamiento

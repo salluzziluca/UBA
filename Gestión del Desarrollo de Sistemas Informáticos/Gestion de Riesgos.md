@@ -53,3 +53,7 @@ Reducir la [[Probabilidad de un riesgo|probabilidad]] o el [[Impacto]], intentar
 
 #### Aceptar
 Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra respuesta adecuada (implica planificar la [[Planes de Contingencia|contingencia]])
+
+
+## Matriz de riesgos 
+![[Pasted image 20250430123025.png]]

@@ -46,4 +46,8 @@ $$\cos to = costo\_sin\_riesgo + \sum(probabilidad[i]*impacto[i])$$
 Cambiamos el proyecto para cambiar la amenaza
 
 #### Transferir el proyecto
+Se lo paso a un seguro, a una consultora. Si el riesgo ocurre, lo cubre ese tercero.
+
+#### Mitigar 
+
 

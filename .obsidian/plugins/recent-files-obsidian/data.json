@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Planes de Contingencia",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Planes de Contingencia.md"
+    },
+    {
       "basename": "Gestion de Riesgos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Riesgos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Definition of Done (DOD)",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
-    },
-    {
-      "basename": "GDSI_2_FIUBATalks.pptx",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/GDSI_2_FIUBATalks.pptx.pdf"
     }
   ],
   "omittedPaths": [],

@@ -74,3 +74,6 @@ Costo de la gestion
 costo de los [[Impacto|impactos]] 
 [[costos]] de las mitigaciones 
 costos de las [[Planes de Contingencia|contingencias]]
+
+
+## Riesgo y [[Agile|agilidad]]

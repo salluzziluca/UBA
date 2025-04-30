@@ -69,4 +69,8 @@ herramientas: reuniones epriodicas de analisis de reisgos
 analisi de los indicaores
 
 
-## Costo de los riesgos 
+## [[Gestion de Costos|Costo]] de los riesgos 
+Costo de la gestion 
+costo de los impactos 
+costos de las mitigaciones 
+costos de las contingencias

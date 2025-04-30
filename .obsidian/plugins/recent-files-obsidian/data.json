@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Probabilidad de un riesgo",
+      "path": "Probabilidad de un riesgo.md"
+    },
+    {
+      "basename": "Impacto",
+      "path": "Impacto.md"
+    },
+    {
       "basename": "Gestion de Riesgos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Riesgos.md"
     },
     {
       "basename": "Planes de Contingencia",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Planes de Contingencia.md"
-    },
-    {
-      "basename": "Probabilidad de un riesgo",
-      "path": "Probabilidad de un riesgo.md"
     },
     {
       "basename": "Problema",
@@ -195,10 +199,6 @@
     {
       "basename": "Persona",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Persona.md"
-    },
-    {
-      "basename": "Definition of Done (DOD)",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Definition of Done (DOD).md"
     }
   ],
   "omittedPaths": [],

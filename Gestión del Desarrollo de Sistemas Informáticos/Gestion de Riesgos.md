@@ -56,4 +56,11 @@ Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra resp
 
 
 ## Matriz de riesgos 
-![[Pasted image 20250430123025.png]]
+![[Pasted image 20250430123025.png]]o
+
+
+
+## Seguimiento y Control de Riesgos 
+Implementar planes de respuesta, busqueda y descubrimiento de nuevos riesgos. 
+Controol de riesgos remanentes (monitoreo de indicadores y disparadores)
+Se ejecuta durante TODO el ciclo de vida del projecto 

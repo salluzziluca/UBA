@@ -2,7 +2,7 @@
 Dia: 2025-04-29
 dg-publish: true
 ---
-Busca aumentar la probabilidad de impacto positivo de [[Riesgos]] y disminuir la negativa.
+Busca aumentar la [[Probabilidad de un riesgo|probabilidad]] de [[impacto]] positivo de [[Riesgos]] y disminuir la negativa.
 
 Hay empresas con mas o menos predisposicion a tomar riesgos (aeronautica va a intentar minimizar los riesgos).
 
@@ -34,7 +34,7 @@ Es al pedo intentar gestionar un riesgo si es muy **[[Probabilidad de un riesgo|
 #### Cuantitativo
 El [[Impacto]] se mide en  $\$\$$ o en tiempo. Puede hacerse en paralelo al cualitativo o no hacerse 
 
-$$\cos to = costo\_sin\_riesgo + \sum(probabilidad[i]*impacto[i])$$
+$$\cos to = costo\_sin\_riesgo + \sum(probabilidad[i]*[[impacto]][i])$$
 ![[Pasted image 20250429141541.png]]
 
 ![[Pasted image 20250429141642.png]]
@@ -62,15 +62,15 @@ Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra resp
 
 ## Seguimiento y Control de Riesgos 
 Implementar planes de respuesta, busqueda y descubrimiento de nuevos riesgos. 
-Controol de riesgos remanentes (monitoreo de indicadores y disparadores)
+Controol de [[riesgos]] remanentes (monitoreo de indicadores y disparadores)
 Se ejecuta durante TODO el ciclo de vida del projecto 
 
 herramientas: reuniones epriodicas de analisis de reisgos 
 analisi de los indicaores
 
 
-## [[Gestion de Costos|Costo]] de los riesgos 
+## [[Gestion de Costos|Costo]] de los [[riesgos]] 
 Costo de la gestion 
 costo de los impactos 
-costos de las mitigaciones 
+[[costos]] de las mitigaciones 
 costos de las contingencias

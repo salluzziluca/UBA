@@ -2218,6 +2218,7 @@ ciegas
 checklists
 consultora
 cubre
+contingencias
 de
 dispositivos
 del
@@ -3149,6 +3150,9 @@ deliver
 dramatically
 disminuir
 deteminar
+descubrimiento
+disparadores
+disparan
 gestion
 gran
 guarda
@@ -4575,6 +4579,7 @@ estimating
 empresas
 estadistica
 estretegias
+epriodicas
 servicios
 son
 su
@@ -8217,6 +8222,7 @@ aeronautica
 actuar
 amenaza
 aceptable
+analisi
 hardware
 heap
 hay
@@ -10283,6 +10289,7 @@ SPIACt
 Stop
 Subestimaci
 SEI
+Seguimiento
 Calls
 Cmabia
 CPU
@@ -10955,6 +10962,7 @@ Creating
 Cualitativo
 Cuantitativo
 Cambiamos
+Controol
 Es
 El
 Estos
@@ -12923,6 +12931,9 @@ reaccionar
 regulations
 recognize
 reactivamente
+remanentes
+reuniones
+reisgos
 operacion
 orden
 operaciones
@@ -16274,6 +16285,7 @@ Incertidumbre
 Identifying
 Identificaci
 Impacto
+Implementar
 Un
 UNIX
 UBA
@@ -17546,6 +17558,7 @@ maximum
 mentalidad
 maduros
 materialice
+mitigaciones
 tien
 tiene
 todos
@@ -18202,6 +18215,7 @@ targets
 target
 treated
 taxonomias
+tsunami
 inico
 interna
 infro
@@ -19046,6 +19060,8 @@ iterations
 interesados
 ishikawa
 improbable
+indicaores
+impactos
 fijo
 file
 fork

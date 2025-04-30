@@ -38,4 +38,12 @@ $$\cos to = costo\_sin\_riesgo + \sum(probabilidad[i]*impacto[i])$$
 ![[Pasted image 20250429141541.png]]
 
 ![[Pasted image 20250429141642.png]]
-### Tratamiento
+
+
+### Tratamiento (estretegias)
+
+#### evitar 
+Cambiamos el proyecto para cambiar la amenaza
+
+#### Transferir el proyecto
+

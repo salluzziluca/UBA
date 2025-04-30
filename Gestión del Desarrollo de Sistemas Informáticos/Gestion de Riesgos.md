@@ -64,3 +64,5 @@ Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra resp
 Implementar planes de respuesta, busqueda y descubrimiento de nuevos riesgos. 
 Controol de riesgos remanentes (monitoreo de indicadores y disparadores)
 Se ejecuta durante TODO el ciclo de vida del projecto 
+
+herramientas: reuniones 

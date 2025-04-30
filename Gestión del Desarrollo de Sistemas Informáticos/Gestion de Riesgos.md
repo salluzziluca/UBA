@@ -78,3 +78,13 @@ costos de las [[Planes de Contingencia|contingencias]]
 
 ## Riesgo y [[Agile|agilidad]]
 los metodos agiles buscan riesgos pequeños en ciclos de vida iterativos, ir atacandolos apenas aparecen. el problema con eso qeu es que hay algunos que son propios de un ciclo y otros que persisten, cuidado.
+
+
+## Claves 
+- Hay riesgos de efectos positivos u oportunidades y eventos de efectos negativos o amenazas
+- Es Importante adelantarse a los hechos
+- Los riesgos deben evaluarse en forma continua
+- Se deben involucrar a todos los interesados
+- Se deben seguir los riesgos de mayor exposición
+- Cuidado con el análisis cuantitativo
+- Definir planes de mitigación y de contingencia para los riesgos de mayor exposición

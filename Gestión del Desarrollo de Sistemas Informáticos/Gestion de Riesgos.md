@@ -49,5 +49,6 @@ Cambiamos el proyecto para cambiar la amenaza
 Se lo paso a un seguro, a una consultora. Si el riesgo ocurre, lo cubre ese tercero.
 
 #### Mitigar 
+Reducir la [[Probabilidad de un riesgo|probabilidad]] o el [[Impacto]], intentar llevarlo a un nivel aceptable 
 
-
+#### 

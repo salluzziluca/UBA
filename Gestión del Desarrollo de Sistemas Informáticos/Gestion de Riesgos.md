@@ -77,4 +77,4 @@ costos de las [[Planes de Contingencia|contingencias]]
 
 
 ## Riesgo y [[Agile|agilidad]]
-los metodos agiles buscan riesgos pequeños en ciclos de vida iterativos, ir atacandolos apenas aparecen. el problema con eso qeu es que hay algu
+los metodos agiles buscan riesgos pequeños en ciclos de vida iterativos, ir atacandolos apenas aparecen. el problema con eso qeu es que hay algunos que son propios de un ciclo y otros que persisten, cuidado.

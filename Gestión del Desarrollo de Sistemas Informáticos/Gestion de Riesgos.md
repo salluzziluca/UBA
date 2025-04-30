@@ -52,4 +52,4 @@ Se lo paso a un seguro, a una consultora. Si el riesgo ocurre, lo cubre ese terc
 Reducir la [[Probabilidad de un riesgo|probabilidad]] o el [[Impacto]], intentar llevarlo a un nivel aceptable 
 
 #### Aceptar
-Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra respuesta adecuada (implica planificar la contingencia)
+Se decide no cambiar el plan para hacer frente al riesgo, o no se encuentra respuesta adecuada (implica planificar la [[Planes de Contingencia|contingencia]])

@@ -2216,6 +2216,8 @@ close
 critical
 ciegas
 checklists
+consultora
+cubre
 de
 dispositivos
 del
@@ -4572,6 +4574,7 @@ estimacion
 estimating
 empresas
 estadistica
+estretegias
 servicios
 son
 su
@@ -8212,6 +8215,8 @@ analytical
 asked
 aeronautica
 actuar
+amenaza
+aceptable
 hardware
 heap
 hay
@@ -10949,6 +10954,7 @@ Comunicaci
 Creating
 Cualitativo
 Cuantitativo
+Cambiamos
 Es
 El
 Estos
@@ -21810,6 +21816,7 @@ Mejor
 Managers
 May
 Materializado
+Mitigar
 Table
 Todos
 This
@@ -22311,6 +22318,7 @@ Those
 Target
 Taxonomy
 Tratamiento
+Transferir
 Realiza
 REgistrys
 Rango

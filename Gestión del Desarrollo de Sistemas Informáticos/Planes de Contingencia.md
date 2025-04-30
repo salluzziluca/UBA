@@ -2,4 +2,6 @@
 Dia: 2025-04-30
 dg-publish: true
 ---
-Es una respuesta que se ejecub
+Es una respuesta que solo se ejecuta bajo determinadas condiciones. Se definen y controlan eventos que las disparan 
+
+ej: tsunami

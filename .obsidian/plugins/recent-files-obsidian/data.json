@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2.1 Definición de Variable Aleatoria",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
+      "basename": "2.3 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
     {
       "basename": "2.4 Vectores Aleatorios",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
     },
     {
-      "basename": "2.3 Función de Variable Aleatoria",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
+      "basename": "1.7 Eventos Independientes",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
+    },
+    {
+      "basename": "Probabilidad y Estadística B",
+      "path": "Probabilidad y Estadística B/Probabilidad y Estadística B.md"
+    },
+    {
+      "basename": "2.1 Definición de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
     },
     {
       "basename": "2.2 Tipos de distribuciones continuas",
@@ -177,10 +185,6 @@
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
     },
     {
-      "basename": "1.7 Eventos Independientes",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
-    },
-    {
       "basename": "1.1 Definición de Probabilidad",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.0  Variables Aleatorias",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
-    },
-    {
-      "basename": "Presentación Lean Inception - Parte 1",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Presentación Lean Inception - Parte 1.pdf"
     }
   ],
   "omittedPaths": [],

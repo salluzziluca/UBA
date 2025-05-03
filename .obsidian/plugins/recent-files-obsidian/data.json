@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Automatizacion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Automatizacion.md"
+    },
+    {
       "basename": "2.3 Función de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasaje del modelo conceptual al modelo relacional",
       "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
-    },
-    {
-      "basename": "2.0  Variables Aleatorias",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
     }
   ],
   "omittedPaths": [],

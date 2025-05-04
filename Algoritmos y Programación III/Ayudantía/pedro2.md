@@ -4,7 +4,7 @@ dg-publish: true
 ---
 
 - [x]   ievisar que el juego sea jugable, con el mouse y con el teclado. Que al finalizar el juego se pueda jugar de nuevo.
-- [ ] Verificar que el diagrama de clases sea correcto.
+- [x] Verificar que el diagrama de clases sea correcto.
 - [ ] Se espera que el código sea razonablemente elegante y legible, y que usen correctamente el paradigma de objetos.
     - [ ] Verificar que usen polimorfismo correctamente para los diferentes tipos de robots.
 - [ ] Deben estar bien separadas la vista de la lógica. En las clases del modelo no debe haber ninguna dependencia (directa o indirecta) a javafx.

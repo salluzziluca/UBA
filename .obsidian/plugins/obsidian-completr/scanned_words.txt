@@ -2219,6 +2219,11 @@ checklists
 consultora
 cubre
 contingencias
+controlador
+correcci
+commits
+calendario
+cuadroo
 de
 dispositivos
 del
@@ -3153,6 +3158,9 @@ deteminar
 descubrimiento
 disparadores
 disparan
+decidieron
+disfrutar
+dependientes
 gestion
 gran
 guarda
@@ -4580,6 +4588,11 @@ empresas
 estadistica
 estretegias
 epriodicas
+elegante
+evaluamos
+especificar
+especificadas
+entregaron
 servicios
 son
 su
@@ -5543,6 +5556,10 @@ show
 stabilized
 sales
 supposed
+separadas
+static
+spaghetti
+sospechoso
 par
 por
 punto
@@ -6644,6 +6661,11 @@ prepararse
 protege
 participen
 pootenciales
+paradigma
+preferible
+preguntarle
+pierden
+porqeu
 la
 las
 le
@@ -7263,6 +7285,7 @@ larger
 largest
 leads
 less
+legible
 agnosticos
 apps
 al
@@ -8223,6 +8246,10 @@ actuar
 amenaza
 aceptable
 analisi
+aprobar
+aprobado
+autores
+automatizacion
 hardware
 heap
 hay
@@ -9694,6 +9721,7 @@ uvK
 urgente
 umbrales
 unbiased
+usabilidad
 System
 Son
 Source
@@ -12934,6 +12962,9 @@ reactivamente
 remanentes
 reuniones
 reisgos
+razonablemente
+robots
+responsabilidades
 operacion
 orden
 operaciones
@@ -13482,6 +13513,8 @@ obvious
 ocurren
 objective
 opinion
+obligatorio
+onda
 nombre
 nuevo
 nica
@@ -14583,6 +14616,7 @@ votar
 voting
 valgan
 valoran
+viaje
 Application
 API
 Asigna
@@ -15743,6 +15777,7 @@ Planificaci
 Proponer
 Planing
 Prioritizing
+Prohibido
 Interface
 ID
 Instructions
@@ -17559,6 +17594,9 @@ mentalidad
 maduros
 materialice
 mitigaciones
+mouse
+mezcladas
+marcar
 tien
 tiene
 todos
@@ -18216,6 +18254,7 @@ target
 treated
 taxonomias
 tsunami
+tranquilo
 inico
 interna
 infro
@@ -19062,6 +19101,10 @@ ishikawa
 improbable
 indicaores
 impactos
+ievisar
+indirecta
+inusable
+integrante
 fijo
 file
 fork
@@ -21833,6 +21876,7 @@ Managers
 May
 Materializado
 Mitigar
+MVC
 Table
 Todos
 This
@@ -23551,6 +23595,7 @@ budget
 biased
 breakdown
 beneficio
+belleza
 will
 words
 with
@@ -25846,6 +25891,10 @@ jJzX
 jsn
 jijo
 just
+juego
+jugable
+jugar
+javafx
 Ya
 Yourself
 YAGNI

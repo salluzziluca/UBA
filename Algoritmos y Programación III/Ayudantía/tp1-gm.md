@@ -25,4 +25,4 @@ Para revisar los autores de los commits: `git shortlog - [ ]s - [ ]n - [ ]- [ ]
 
 ### bugs
 Cuando los robots mueren justo en el mismo cuadroo que el jugador, el jugador sigue Vivo
-las lineas del 
+las lineas del tablero se mueven raro

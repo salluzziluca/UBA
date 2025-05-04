@@ -20,3 +20,9 @@
 Para revisar los autores de los commits: `git shortlog - [ ]s - [ ]n - [ ]- [ ]all - [ ]- [ ]no- [ ]merges`  
 
 - [ ] Solo hay 2 instancias de corrección, con las fechas límite especificadas en el calendario. Si no entregaron en la primera fecha, pierden una instancia de corrección. Si el TP no está aprobado en la 2da instancia, pierden la materia.
+
+
+
+### bugs
+Cuando los robots mueren justo en el mismo cuadroo que el jugador, el jugador sigue Vivo
+las lineas del 

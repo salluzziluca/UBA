@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "tp1-gm",
+      "path": "Algoritmos y Programación III/Ayudantía/tp1-gm.md"
+    },
+    {
       "basename": "Automatizacion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Automatizacion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.0 Probailididad",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.0 Probailididad.md"
-    },
-    {
-      "basename": "Pasaje del modelo conceptual al modelo relacional",
-      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
     }
   ],
   "omittedPaths": [],

@@ -38,3 +38,6 @@ se llena todos los dias
 
 ## Libro mayor 
 Ordena todos los ingresos y egresos de la misma cuenta por separado. Lo importante es conocer el sadlo que va quedando en cada cuenta contable. 
+
+Basicamente arma cada cuenta pro s
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcnYHV8l0bJ9OjZqXmD0gDWwq_JjXOtl7rCEwZ1ioXD52kVCRirZ-Hx3xM_BXj7wPTEcUzO8oFrpi6ml7TnCS5qp5Xa-8hAPh4CWBQ-_w388jtfmdebtMJjUp-yBd6Y2RvZLn_R=s2048?key=27-GChK4NeZTL2IogdJ5VEwi)**

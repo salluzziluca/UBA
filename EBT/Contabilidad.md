@@ -13,6 +13,9 @@ Ej: lo anoto cuando pago con la tarjeta de credito, no cuando me lo cobran, me i
 El IVA es el unico impuesto que es patrimonial.
 
 ##### IVA Credito Fiscal 
-
+a favor
 ##### IVA debito fiscal
 en contra
+
+Si tenes mas IVA debito que IVA credito, le restas el credito al debito y pagas a fin de mes/año, la difrencia.
+Si tenes mas credito, te queda a favor y compensas

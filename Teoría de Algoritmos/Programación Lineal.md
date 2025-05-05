@@ -88,7 +88,11 @@ Si y5 i y6 son 1(se lanzan) entonces y1 se va a tener que lanzar para cumplir ka
 **
 Tenemos un conjunto de elementos a guardar en una mochila, cada uno con un valor vi y peso wi, no podemos excedernos en peso W. Obtener el máximo valor que podemos guardar en la mochila. (nota: wi y vi son constantes, no variables)
 
+Siendo Y_i un booleano de "lo elijo/no lo elijo"
 
+Simplemente hago 
+$$∑ w_{i} Y_{i} <= W$$
+$$MAX ∑ vi Yi$$
 ## Problema del cambio 
 
 valores de entrada: 

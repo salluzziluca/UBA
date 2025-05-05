@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bases de Datos",
+      "path": "Base de Datos/Bases de Datos.md"
+    },
+    {
       "basename": "Programación Lineal",
       "path": "Teoría de Algoritmos/Programación Lineal.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.4 Espacios Infinitos",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.4 Espacios Infinitos.md"
-    },
-    {
-      "basename": "1.5 Probabilidad Condicional",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
     }
   ],
   "omittedPaths": [],

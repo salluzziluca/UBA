@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+Utiliza sistemas de ecucaciones lineales.
 >[!info] Es una técnica de diseño (matemática) que permite resolver problemas de optimización de un sistema de ecuaciones lineal en varias variables. 
 Es decir: 
 cte0 * x0 + … + cten xn  >= cte

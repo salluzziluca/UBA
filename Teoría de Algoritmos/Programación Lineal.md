@@ -4,8 +4,9 @@ dg-publish: true
 Utiliza sistemas de ecucaciones lineales.
 
 
-Es una tecnica de diseño mate
->[!info] Es una técnica de diseño (matemática) que permite resolver problemas de optimización de un sistema de ecuaciones lineal en varias variables. 
+Es una tecnica de diseño matematica qu epermite resolver problemas de optimizacion de un sistema deecuaciones LINEAL en varias variables 
+
+
 Es decir: 
 cte0 * x0 + … + cten xn  >= cte
 Y luego maximizar/minimizar una fórmula en particular. 

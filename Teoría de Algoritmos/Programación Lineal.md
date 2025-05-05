@@ -77,7 +77,9 @@ $y_{x}$ es si lanzo el producto X.
 
 Si se lanza el 5 0 6, lanzo el 1. 
 
-$y_{1} \geq$
+$y_{1} \geq y_{5}$
+$y_{1} \geq y_{6}$
+Si y5 i y6 son 1(se lanzan) entonces y1 se va a tener que lanzar para cumplir ka condicion
 ## Problema del cambio 
 
 valores de entrada: 

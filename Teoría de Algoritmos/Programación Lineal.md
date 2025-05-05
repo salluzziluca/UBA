@@ -73,7 +73,11 @@ def ejemplo():
 
 
 ## Binarios (booleanos)
+$y_{x}$ es si lanzo el producto X. 
 
+Si se lanza el 5 0 6, lanzo el 1. 
+
+$y_{1} \geq$
 ## Problema del cambio 
 
 valores de entrada: 

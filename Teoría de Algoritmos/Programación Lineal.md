@@ -10,7 +10,7 @@ Es una tecnica de diseño matematica qu epermite resolver problemas de optimizac
 Es decir: 
 cte0 * x0 + … + cten xn  >= cte
 Y luego maximizar/minimizar una fórmula en particular. 
-EVITAR x0x1 <= 10
+EVITAR x0x1 <= 10 (no puedo multiplicar variables)
 Se usa principalmente en investigación operativa para maximizar ganancias o minimizar costos (y determinar márgenes de mejora, etc..). 
 
 

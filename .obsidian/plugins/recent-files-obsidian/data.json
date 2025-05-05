@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Programación Dinámica",
-      "path": "Teoría de Algoritmos/Programación Dinámica.md"
+      "basename": "Automatizacion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Automatizacion.md"
     },
     {
-      "basename": "10b - Mochila - Ejemplo",
-      "path": "Teoría de Algoritmos/10b - Mochila - Ejemplo.pdf"
+      "basename": "2.3 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
     {
       "basename": "2.2 Tipos de distribuciones continuas",
@@ -17,88 +17,64 @@
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
     },
     {
-      "basename": "Gestion de Costos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Costos.md"
+      "basename": "2.4 Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
+    },
+    {
+      "basename": "1.7 Eventos Independientes",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.7 Eventos Independientes.md"
+    },
+    {
+      "basename": "Probabilidad y Estadística B",
+      "path": "Probabilidad y Estadística B/Probabilidad y Estadística B.md"
+    },
+    {
+      "basename": "Gestion de Riesgos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Riesgos.md"
+    },
+    {
+      "basename": "Impacto",
+      "path": "Impacto.md"
+    },
+    {
+      "basename": "Planes de Contingencia",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Planes de Contingencia.md"
+    },
+    {
+      "basename": "Probabilidad de un riesgo",
+      "path": "Probabilidad de un riesgo.md"
+    },
+    {
+      "basename": "Problema",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Problema.md"
+    },
+    {
+      "basename": "Transción",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Transción.md"
+    },
+    {
+      "basename": "Riesgos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
+    },
+    {
+      "basename": "2.10 Tipos de Relaciones",
+      "path": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
     },
     {
       "basename": "Estimacion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
     },
     {
-      "basename": "Gestión de Cambios",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión de Cambios.md"
+      "basename": "Programación Dinámica",
+      "path": "Teoría de Algoritmos/Programación Dinámica.md"
     },
     {
-      "basename": "Esfuerzo vs Duracion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Esfuerzo vs Duracion.md"
+      "basename": "FIUBA Talks",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
     },
     {
-      "basename": "Gestion de la comunicación",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la comunicación.md"
-    },
-    {
-      "basename": "Poker Planing",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Poker Planing.md"
-    },
-    {
-      "basename": "2.0  Variables Aleatorias",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
-    },
-    {
-      "basename": "1.0 Probailididad",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.0 Probailididad.md"
-    },
-    {
-      "basename": "1.1 Definición de Probabilidad",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
-    },
-    {
-      "basename": "Conversacion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Conversacion.md"
-    },
-    {
-      "basename": "Wideband Delphi",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Wideband Delphi.md"
-    },
-    {
-      "basename": "Backtracking",
-      "path": "Teoría de Algoritmos/Backtracking.md"
-    },
-    {
-      "basename": "Reunion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Reunion.md"
-    },
-    {
-      "basename": "Earned Value Management",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
-    },
-    {
-      "basename": "Seguimiento y Control",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Seguimiento y Control.md"
-    },
-    {
-      "basename": "Gestion de la Calidad",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de la Calidad.md"
-    },
-    {
-      "basename": "Technical, User eXperience and Business Review",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Technical, User eXperience and Business Review.md"
-    },
-    {
-      "basename": "Triángulo de Hierro",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
-    },
-    {
-      "basename": "Describe the Personas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
-      "basename": "4.1 SOLID",
-      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
-    },
-    {
-      "basename": "Gestion de Tiempo",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestion de Tiempo.md"
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
     },
     {
       "basename": "Lean Inception",
@@ -111,6 +87,10 @@
     {
       "basename": "Discover the Features",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Discover the Features.md"
+    },
+    {
+      "basename": "Describe the Personas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
     },
     {
       "basename": "The product Is – Is not – Does – Does not",
@@ -165,12 +145,12 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Descubrimiento-Alcance.md"
     },
     {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+      "basename": "Earned Value Management",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Earned Value Management.md"
     },
     {
-      "basename": "3.3 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+      "basename": "1.6 Particiones",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
     {
       "basename": "3.2 Varianza",
@@ -179,6 +159,10 @@
     {
       "basename": "3.1 Esperanza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Backtracking",
+      "path": "Teoría de Algoritmos/Backtracking.md"
     },
     {
       "basename": "Ciclo de Euler",
@@ -199,6 +183,22 @@
     {
       "basename": "1.4 Espacios Infinitos",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.4 Espacios Infinitos.md"
+    },
+    {
+      "basename": "1.5 Probabilidad Condicional",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.5 Probabilidad Condicional.md"
+    },
+    {
+      "basename": "1.1 Definición de Probabilidad",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
+    },
+    {
+      "basename": "1.0 Probailididad",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.0 Probailididad.md"
+    },
+    {
+      "basename": "Pasaje del modelo conceptual al modelo relacional",
+      "path": "Base de Datos/Pasaje del modelo conceptual al modelo relacional.md"
     }
   ],
   "omittedPaths": [],

@@ -10,4 +10,9 @@ Ej: lo anoto cuando pago con la tarjeta de credito, no cuando me lo cobran, me i
 ## Plan de cuentas 
 **El Plan de Cuentas es el ordenamiento y enumeración sistemática de todas las cuentas que se utilizan en la contabilidad de la organización.**
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcC3Xy_DmU6J-z4E44ng60hqgiAr67FJnhx76Zoi__Q8P8rSEvAYcX9UcFahL8nPIXxsk9IM-Md1qN3aOGzZPK6Uikj4KfpuPxMWc11slupE9RHF4bFMn8fQe5Mldtz-Wpr2AWKgA=s2048?key=27-GChK4NeZTL2IogdJ5VEwi)**
-El IVA es el unico impuesto que es patrimo
+El IVA es el unico impuesto que es patrimonial.
+
+##### IVA Credito Fiscal 
+
+##### IVA debito fiscal
+en contra

@@ -37,4 +37,4 @@ se llena todos los dias
 
 
 ## Libro mayor 
-Ordena todos los ingresos y egresos de la m
+Ordena todos los ingresos y egresos de la misma cuenta por separado. Lo importante es conocer el sadlo que va quedando en cada cuenta contable. 

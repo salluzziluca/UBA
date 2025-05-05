@@ -34,3 +34,7 @@ se llena todos los dias
 
 - Nos permite elaborar otros Estados Contables como el Libro Mayor, Balance, Cuadro de Resultados, etc.
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUegsHIarL35osEpliXhsPU35WUmOQHfSeEs7xOjY2G5Mj8Cw9XGBkfeNOyZHtDxMzmVylfIwjmI97Pv299IjJO4ef6lSooBhzhwYNzoDHric3soOJjUJKGJIvpNQQJbQIdixG6vbQ=s2048?key=27-GChK4NeZTL2IogdJ5VEwi)**
+
+
+## Libro mayor 
+Ordena todos los ingresos y egresos de la m

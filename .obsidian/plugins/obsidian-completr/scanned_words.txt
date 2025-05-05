@@ -949,6 +949,7 @@ Liu
 LED
 Lodc
 LDZ
+LINEAL
 capa
 controlado
 cantidad
@@ -3178,6 +3179,7 @@ dzY
 düq
 denominacion
 deban
+deecuaciones
 gestion
 gran
 guarda
@@ -3659,6 +3661,7 @@ gDc
 gRT
 gwr
 ganancias
+graficamos
 especifico
 entra
 en
@@ -4623,6 +4626,8 @@ exceda
 estrella
 elaborar
 existentes
+ecucaciones
+epermite
 servicios
 son
 su
@@ -6708,6 +6713,7 @@ psi
 pKf
 paN
 principalmente
+peinando
 la
 las
 le
@@ -19215,6 +19221,7 @@ inversores
 iPY
 investigaci
 inecuaciones
+incompatibles
 fijo
 file
 fork
@@ -23731,6 +23738,8 @@ bpG
 bLl
 branching
 bounds
+binarias
+booleanos
 will
 words
 with
@@ -27364,6 +27373,7 @@ BwZp
 BoldMT
 BzOj
 Branch
+Binarios
 XY
 Xg
 XQG

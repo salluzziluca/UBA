@@ -72,6 +72,8 @@ def ejemplo():
 ```
 
 
+## Binarios (booleanos)
+
 ## Problema del cambio 
 
 valores de entrada: 

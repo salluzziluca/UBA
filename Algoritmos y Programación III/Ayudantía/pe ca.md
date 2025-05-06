@@ -8,9 +8,9 @@
 - [ ] Al marcar algo para corregir en el código es preferible indicar cuál es el principio que se viola y por qué.
 - [ ] No evaluamos nada con respecto a la "belleza visual" o la usabilidad (a menos que sea realmente inusable).
 - [ ] Prohibido:
-    - [ ] Variables globales / static (sí se permite `static final` para constantes)
-    - [ ] Clases o métodos demasiado largos, código spaghetti
-    - [ ] `instanceof` (en el 99% de los casos viola OCP o TDA)
+    - [x] Variables globales / static (sí se permite `static final` para constantes)
+    - [x] Clases o métodos demasiado largos, código spaghetti
+    - [x] `instanceof` (en el 99% de los casos viola OCP o TDA)
 - [ ] En caso de que la entrega no cumpla alguno de los requisitos mínimos, pedir reentrega.
     - [ ] En caso de pedir reentrega, especificar los requisitos mínimos para aprobar.
 - [ ] En caso de estar aprobado, la corrección lleva nota.

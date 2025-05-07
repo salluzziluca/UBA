@@ -17,3 +17,7 @@ Hallazgos => oportunidades de mejora o no conformidades
 
 
 ## Auditoria de calidad de productos 
+Muy comun en entornos industriales 
+
+## Auditoria contable 
+Analizar las cuentas de uan empresa 

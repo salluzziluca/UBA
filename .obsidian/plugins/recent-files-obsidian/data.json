@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sistemas Ciberfísicos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sistemas Ciberfísicos.md"
+    },
+    {
       "basename": "tp1 biri biri",
       "path": "Algoritmos y Programación III/Ayudantía/tp1 biri biri.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Burndown Chart",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Burndown Chart.md"
-    },
-    {
-      "basename": "Enterprise Environmental Factors  y Organizational Process Assets",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Enterprise Environmental Factors  y Organizational Process Assets.md"
     }
   ],
   "omittedPaths": [],

@@ -12,4 +12,8 @@ Equipos, sistemas operativos y paquetes, gestión de los recursos informáticos
 
 
 ## Auditoria de calidad de procesos 
-Co
+Controlan la calidiad de procesos 
+Hallazgos => oportunidades de mejora o no conformidades
+
+
+## Auditoria de calidad de productos 

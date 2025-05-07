@@ -9,3 +9,7 @@ La auditoria ve si yo cumplo determinados pasos. recoge, agrupa, evalua evidenci
 Si un sistema de información cumple con los requisitos de salvaguardar los activos de la organización y mantener la integridad de los datos
 Seguridad de la información que maneja una organización
 Equipos, sistemas operativos y paquetes, gestión de los recursos informáticos
+
+
+## Auditoria de calidad de procesos 
+Co

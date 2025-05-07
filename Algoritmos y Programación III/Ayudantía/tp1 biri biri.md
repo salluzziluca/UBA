@@ -1,13 +1,13 @@
 
-- [ ]   ievisar que el juego sea jugable, con el mouse y con el teclado. Que al finalizar el juego se pueda jugar de nuevo.
-- [ ] Verificar que el diagrama de clases sea correcto.
-- [ ] Se espera que el código sea razonablemente elegante y legible, y que usen correctamente el paradigma de objetos.
-    - [ ] Verificar que usen polimorfismo correctamente para los diferentes tipos de robots.
-- [ ] Deben estar bien separadas la vista de la lógica. En las clases del modelo no debe haber ninguna dependencia (directa o indirecta) a javafx.
-    - [ ] No es obligatorio que hagan MVC, pero si decidieron hacerlo, revisar que el controlador también esté bien separado de las vista y el modelo. Que no haya responsabilidades mezcladas.
-- [ ] Al marcar algo para corregir en el código es preferible indicar cuál es el principio que se viola y por qué.
-- [ ] No evaluamos nada con respecto a la "belleza visual" o la usabilidad (a menos que sea realmente inusable).
-- [ ] Prohibido:
+- [x]   ievisar que el juego sea jugable, con el mouse y con el teclado. Que al finalizar el juego se pueda jugar de nuevo.
+- [x] Verificar que el diagrama de clases sea correcto.
+- [x] Se espera que el código sea razonablemente elegante y legible, y que usen correctamente el paradigma de objetos.
+    - [x] Verificar que usen polimorfismo correctamente para los diferentes tipos de robots.
+- [x] Deben estar bien separadas la vista de la lógica. En las clases del modelo no debe haber ninguna dependencia (directa o indirecta) a javafx.
+    - [x] No es obligatorio que hagan MVC, pero si decidieron hacerlo, revisar que el controlador también esté bien separado de las vista y el modelo. Que no haya responsabilidades mezcladas.
+- [x] Al marcar algo para corregir en el código es preferible indicar cuál es el principio que se viola y por qué.
+- [x] No evaluamos nada con respecto a la "belleza visual" o la usabilidad (a menos que sea realmente inusable).
+- [x] Prohibido:
     - [ ] Variables globales / static (sí se permite `static final` para constantes)
     - [ ] Clases o métodos demasiado largos, código spaghetti
     - [ ] `instanceof` (en el 99% de los casos viola OCP o TDA)

@@ -20,4 +20,4 @@ Hallazgos => oportunidades de mejora o no conformidades
 Muy comun en entornos industriales 
 
 ## Auditoria contable 
-Analizar las cuentas de uan empresa 
+Análisis de las cuentas de una empresa con el propósito de comprobar que la contabilidad que presentan es coherente y genera confianza

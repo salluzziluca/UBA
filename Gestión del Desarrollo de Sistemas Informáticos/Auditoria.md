@@ -21,3 +21,4 @@ Muy comun en entornos industriales
 
 ## Auditoria contable 
 Análisis de las cuentas de una empresa con el propósito de comprobar que la contabilidad que presentan es coherente y genera confianza
+La UBA dice que gasto 2M en zapatos. El ente auditorial va y se fija si efectivamente se gasto eso en zapatos o se desvió

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2 Mezclas",
+      "path": "Probabilidad y Estadística B/5. Variables Aleatorias Condicionadas/5.2 Mezclas.md"
+    },
+    {
       "basename": "2.3 Función de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actiivity",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
-    },
-    {
-      "basename": "Sequence The Features",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
     }
   ],
   "omittedPaths": [],

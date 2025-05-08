@@ -5,6 +5,10 @@
       "path": "Probabilidad y Estadística B/6. Proceso de Bernoullii/6.0 Proceso de Bernoulli.md"
     },
     {
+      "basename": "3.5 Desigualdades",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.5 Desigualdades.md"
+    },
+    {
       "basename": "5.2 Mezclas",
       "path": "Probabilidad y Estadística B/5. Variables Aleatorias Condicionadas/5.2 Mezclas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Write the Product Vision",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
-    },
-    {
-      "basename": "User Story Backlog as a Map",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
     }
   ],
   "omittedPaths": [],

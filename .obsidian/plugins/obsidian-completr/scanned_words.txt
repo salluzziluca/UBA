@@ -2239,6 +2239,7 @@ contamos
 cajas
 cant
 condicionada
+creciente
 de
 dispositivos
 del
@@ -13062,6 +13063,7 @@ requerirlos
 rDY
 relajada
 resolvemos
+restringida
 operacion
 orden
 operaciones
@@ -14166,6 +14168,7 @@ ndola
 nJY
 neVoa
 normativas
+negativa
 via
 vuelve
 viven
@@ -21397,6 +21400,7 @@ Dividir
 Distinguish
 DrI
 Defiinimos
+Desigualdad
 Memoria
 Multivariada
 MORE
@@ -22022,6 +22026,7 @@ MNc
 MeA
 Mientas
 Mezcladora
+Markov
 Table
 Todos
 This
@@ -22524,6 +22529,7 @@ Target
 Triple
 TSc
 TeoAlgoSoft
+Tchevychev
 Realiza
 REgistrys
 Rango

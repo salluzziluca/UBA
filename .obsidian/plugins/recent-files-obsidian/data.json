@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.2 Extension a Vectores Aleatorios.md"
+    },
+    {
+      "basename": "4.1 Definicion de Funcion de V.A.",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.1 Definicion de Funcion de V.A..md"
+    },
+    {
+      "basename": "4.0 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.0 Función de Variable Aleatoria.md"
+    },
+    {
       "basename": "3.1 Esperanza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "2.3 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
     {
       "basename": "3.2 Varianza",
@@ -97,10 +113,6 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Automatizacion.md"
     },
     {
-      "basename": "2.3 Función de Variable Aleatoria",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
-    },
-    {
       "basename": "2.1 Definición de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Sequence The Features",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
-    },
-    {
-      "basename": "Display Features in Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
-    },
-    {
-      "basename": "Show the User Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
-    },
-    {
-      "basename": "Historia de Usuario",
-      "path": "Ingeneniería del Software I/Historia de Usuario.md"
     }
   ],
   "omittedPaths": [],

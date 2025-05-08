@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "3.2 Varianza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
+    },
+    {
       "basename": "Auditoria",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Historia de Usuario",
       "path": "Ingeneniería del Software I/Historia de Usuario.md"
-    },
-    {
-      "basename": "Control del desarrollo de software",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Control del desarrollo de software.md"
-    },
-    {
-      "basename": "Burndown Chart",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Burndown Chart.md"
     }
   ],
   "omittedPaths": [],

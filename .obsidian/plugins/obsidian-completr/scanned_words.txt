@@ -2246,6 +2246,10 @@ creas
 crendo
 cepo
 cobrar
+cumplo
+calidiad
+conformidades
+coherente
 de
 dispositivos
 del
@@ -3188,6 +3192,8 @@ difrencia
 delegando
 dolares
 dolar
+determinados
+desvi
 gestion
 gran
 guarda
@@ -3663,6 +3669,7 @@ gathering
 government
 genere
 gram
+gasto
 especifico
 entra
 en
@@ -4637,6 +4644,7 @@ esqueleto
 excel
 estaria
 eficientemente
+evidencias
 servicios
 son
 su
@@ -6731,6 +6739,8 @@ pdfs
 pase
 pasarlo
 paralelizables
+predefinidos
+presentan
 la
 las
 le
@@ -8327,6 +8337,9 @@ analyze
 alteramos
 agregarles
 arbitrarias
+auditoria
+activos
+auditorial
 hardware
 heap
 hay
@@ -10402,6 +10415,7 @@ Seguimiento
 SVP
 Saber
 Strategy
+Seguridad
 Calls
 Cmabia
 CPU
@@ -11088,6 +11102,7 @@ Cobro
 Categor
 Coin
 Change
+Controlan
 Es
 El
 Estos
@@ -13080,6 +13095,7 @@ report
 rectangulo
 recomeinda
 resuelven
+recoge
 operacion
 orden
 operaciones
@@ -15289,6 +15305,8 @@ Asignar
 Actualizar
 Aceptar
 Analisis
+Auditor
+Auditoria
 Programming
 Procesos
 Partes
@@ -17743,6 +17761,7 @@ modifique
 moderation
 modularizarlas
 modularizas
+maneja
 tien
 tiene
 todos
@@ -19264,6 +19283,8 @@ intercambiables
 implemente
 idealmente
 importacion
+inform
+industriales
 fijo
 file
 fork
@@ -27755,6 +27776,7 @@ XXI
 XyTT
 XyI
 XbN
+XYZ
 HEAD
 Hay
 Herencia
@@ -28198,6 +28220,7 @@ Hitos
 Have
 Herrramientas
 HYay
+Hallazgos
 Jacobiano
 Job
 Jusitfique
@@ -30914,6 +30937,7 @@ zPv
 zcY
 zXt
 zDM
+zapatos
 ÄB
 ÄG
 Äo

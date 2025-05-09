@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "6.0 Proceso de Bernoulli",
+      "path": "Probabilidad y Estadística B/6. Proceso de Bernoullii/6.0 Proceso de Bernoulli.md"
+    },
+    {
+      "basename": "3.5 Desigualdades",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.5 Desigualdades.md"
+    },
+    {
+      "basename": "5.2 Mezclas",
+      "path": "Probabilidad y Estadística B/5. Variables Aleatorias Condicionadas/5.2 Mezclas.md"
+    },
+    {
+      "basename": "2.3 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
+    },
+    {
+      "basename": "4.2 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.2 Extension a Vectores Aleatorios.md"
+    },
+    {
+      "basename": "4.1 Definicion de Funcion de V.A.",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.1 Definicion de Funcion de V.A..md"
+    },
+    {
+      "basename": "4.0 Función de Variable Aleatoria",
+      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.0 Función de Variable Aleatoria.md"
+    },
+    {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "3.2 Varianza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
+    },
+    {
       "basename": "Auditoria",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
     },
@@ -89,10 +125,6 @@
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Automatizacion.md"
     },
     {
-      "basename": "2.3 Función de Variable Aleatoria",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
-    },
-    {
       "basename": "2.1 Definición de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.1 Definición de Variable Aleatoria.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Write the Product Vision",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
-    },
-    {
-      "basename": "User Story Backlog as a Map",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/User Story Backlog as a Map.md"
-    },
-    {
-      "basename": "Actiivity",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Actiivity.md"
-    },
-    {
-      "basename": "Sequence The Features",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Sequence The Features.md"
-    },
-    {
-      "basename": "Display Features in Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Display Features in Journeys.md"
-    },
-    {
-      "basename": "Show the User Journeys",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Show the User Journeys.md"
-    },
-    {
-      "basename": "Historia de Usuario",
-      "path": "Ingeneniería del Software I/Historia de Usuario.md"
-    },
-    {
-      "basename": "Control del desarrollo de software",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Control del desarrollo de software.md"
-    },
-    {
-      "basename": "Burndown Chart",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Burndown Chart.md"
     }
   ],
   "omittedPaths": [],

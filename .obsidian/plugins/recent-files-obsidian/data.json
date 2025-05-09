@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Auditoria",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
+    },
+    {
       "basename": "6.0 Proceso de Bernoulli",
       "path": "Probabilidad y Estadística B/6. Proceso de Bernoullii/6.0 Proceso de Bernoulli.md"
     },
@@ -29,16 +37,8 @@
       "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.0 Función de Variable Aleatoria.md"
     },
     {
-      "basename": "3.1 Esperanza",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
-    },
-    {
       "basename": "3.2 Varianza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
-    },
-    {
-      "basename": "Auditoria",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
     },
     {
       "basename": "tp1 biri biri",
@@ -111,10 +111,6 @@
     {
       "basename": "P",
       "path": "Teoría de Algoritmos/P.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Programación Dinámica",

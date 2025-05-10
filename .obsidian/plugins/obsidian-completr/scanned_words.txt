@@ -3195,6 +3195,7 @@ dolares
 dolar
 determinados
 desvi
+desvio
 gestion
 gran
 guarda
@@ -12166,6 +12167,7 @@ knowledge
 kilometros
 kRgx
 kjW
+kilos
 realicen
 resolve
 recommend
@@ -22077,6 +22079,7 @@ MGjW
 Mediador
 Memento
 MIRAR
+Mientas
 Table
 Todos
 This
@@ -24226,6 +24229,7 @@ wpz
 white
 well
 whether
+whaaaaat
 VA
 VIEW
 Volumen

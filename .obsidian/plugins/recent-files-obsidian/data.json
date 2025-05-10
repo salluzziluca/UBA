@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2.0  Variables Aleatorias",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+    },
+    {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Auditoria",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
     },
     {
       "basename": "2.1 Definición de Variable Aleatoria",
@@ -13,20 +21,16 @@
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.2 Tipos de distribuciones continuas.md"
     },
     {
-      "basename": "2.4 Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
-    },
-    {
       "basename": "2.3 Función de Variable Aleatoria",
       "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.3 Función de Variable Aleatoria.md"
     },
     {
-      "basename": "3.1 Esperanza",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+      "basename": "2.4 Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.4 Vectores Aleatorios.md"
     },
     {
-      "basename": "Auditoria",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Auditoria.md"
+      "basename": "2.0  Variables Aleatorias",
+      "path": "Probabilidad y Estadística B/2. Variables Aleatorias/2.0  Variables Aleatorias.md"
     },
     {
       "basename": "6.0 Proceso de Bernoulli",
@@ -171,10 +175,6 @@
     {
       "basename": "FIUBA Talks",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/FIUBA Talks.md"
-    },
-    {
-      "basename": "3.3 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
     },
     {
       "basename": "Lean Inception",

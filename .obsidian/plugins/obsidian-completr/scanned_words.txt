@@ -2250,6 +2250,7 @@ cumplo
 calidiad
 conformidades
 coherente
+cuaderno
 de
 dispositivos
 del
@@ -15307,6 +15308,7 @@ Aceptar
 Analisis
 Auditor
 Auditoria
+APUNTE
 Programming
 Procesos
 Partes
@@ -22074,6 +22076,7 @@ MVC
 MGjW
 Mediador
 Memento
+MIRAR
 Table
 Todos
 This

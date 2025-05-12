@@ -4,6 +4,6 @@ dg-publish: true
 ---
 el total de acciones (ej:10M) x valor de cada accion en bolsa es el ==market cap== 
 
-
+se tiene potencislmete esa plata (no se tiene realmente)
 
 

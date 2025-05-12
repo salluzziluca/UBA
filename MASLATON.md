@@ -11,4 +11,6 @@ Hay varios indices de acciones que agarran n acciones de la bolsa de EEUU y con 
 
 La debilidad y la fortaleza no dependen del valor nominal, dependen de el market cap total. Porque no es lo mismo que haya dos acciones de 50 y que 500 de 50 que 10000000 de 10
 
+La es
+
 

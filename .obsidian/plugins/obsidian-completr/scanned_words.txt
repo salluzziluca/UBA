@@ -2240,6 +2240,8 @@ cajas
 cant
 condicionada
 creciente
+competencia
+comprarme
 de
 dispositivos
 del
@@ -4631,6 +4633,7 @@ elaborar
 existentes
 ecucaciones
 epermite
+esencia
 servicios
 son
 su
@@ -6717,6 +6720,8 @@ pKf
 paN
 principalmente
 peinando
+potencislmete
+puts
 la
 las
 le
@@ -8314,6 +8319,8 @@ aSC
 atN
 amaranto
 artistas
+agarran
+alcistas
 hardware
 heap
 hay
@@ -11716,6 +11723,7 @@ EjPZ
 Eqta
 Eyg
 EVITAR
+EEUU
 kernel
 kt
 kU
@@ -13615,6 +13623,7 @@ oco
 oGe
 operativa
 optiomos
+obligacion
 nombre
 nuevo
 nica
@@ -14169,6 +14178,7 @@ nJY
 neVoa
 normativas
 negativa
+nominal
 via
 vuelve
 viven
@@ -14727,6 +14737,8 @@ virtualmente
 visito
 valer
 valga
+vendo
+venderme
 Application
 API
 Asigna
@@ -17723,6 +17735,7 @@ mST
 monedads
 mezcladora
 mezclas
+market
 tien
 tiene
 todos
@@ -19841,6 +19854,8 @@ fWK
 fAG
 fFF
 frutos
+fortaleza
+fuerzas
 Nombre
 Notas
 Not
@@ -23756,6 +23771,8 @@ branching
 bounds
 binarias
 booleanos
+bolsa
+bajistas
 will
 words
 with

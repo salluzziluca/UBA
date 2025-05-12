@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "3.2 Varianza",
       "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The product Is – Is not – Does – Does not",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/The product Is – Is not – Does – Does not.md"
-    },
-    {
-      "basename": "Write the Product Vision",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Write the Product Vision.md"
     }
   ],
   "omittedPaths": [],

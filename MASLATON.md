@@ -14,8 +14,8 @@ La debilidad y la fortaleza no dependen del valor nominal, dependen de el market
 La esencia de la bolsa es la competencia de fuerzas alcistas y bajistas,
 
 
-Calls: opcion de comprar
+Calls: opcion de comprar. Yo le vendo por un precio el derecho (no la obligacion) a comprarme
 
-puts: opcion de venta
+puts: opcion de venta. Le vendo a alguien el derecho a venderme.
 
 

@@ -10,3 +10,5 @@ dg-publish: true
 [[7.0 Proceso de Poisson]]
 [[8.0 Distribución Normal y Teorema Central del Límite]]
 [[9.0 Estadística]]
+
+Probabilidad: Grado de posibilidad de que el evento ocurra, no es estadistica. En muchos casos es una opinion sin factores que la puedan deteminar exactamente (Alta, media, baja)

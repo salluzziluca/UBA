@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "dg-publish": "checkbox",
-    "dg-home": "checkbox",
     "excalidraw-plugin": "text",
     "excalidraw-export-transparent": "checkbox",
     "excalidraw-mask": "checkbox",

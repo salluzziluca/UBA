@@ -1,5 +1,8 @@
 ---
 dg-publish: true
+aliases:
+  - MPV
+  - mvp
 ---
 No desarrollar muchas cosas en paralelo, hacer de a una sola (Single Piece Flow). de esta forma podemos ver mucho antes si algo de que lo que estamos haciendo está mal, no cuando terminemos las 10239 partes en paralelo y hayamos perdido 12 dias.
 

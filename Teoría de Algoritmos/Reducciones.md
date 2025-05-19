@@ -82,7 +82,7 @@ y despues tengo $$S= C_{1} \land C_{2} \land C_{3} \land\dots \land$ C_{k}$$
 Luego, busco que S sea true. Este problema es lo **suficientemente general** como para poder resolver un monton de cosas
 
 ### 3-SAT 
-Las clausulas C tiene solo 3 variables. SAT y 3 SAT son equivalente
+Las clausulas C tiene solo 3 variables. 3 SAT es un caso particular de SAT. yq ue en sat pueden tener 1 a n terminos cad clausula y en 3sat tienen TODAS 3
 
 
 - Cláusulas con 2 términos (w, y): reemplazar por (y ⋁ w ⋁ z) y ($y ⋁ w ⋁ \bar{z}$)

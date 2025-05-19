@@ -7352,6 +7352,7 @@ lelgar
 lanzo
 lanzan
 lanzar
+llevado
 agnosticos
 apps
 al
@@ -8324,6 +8325,7 @@ artistas
 agarran
 alcistas
 arbitrarias
+ahead
 hardware
 heap
 hay
@@ -13079,6 +13081,9 @@ relajada
 resolvemos
 restringida
 resuelven
+reinica
+realizando
+realizaar
 operacion
 orden
 operaciones
@@ -19253,6 +19258,7 @@ iPY
 investigaci
 inecuaciones
 incompatibles
+inmediato
 fijo
 file
 fork
@@ -21426,6 +21432,7 @@ Defiinimos
 Desigualdad
 Dificultad
 Dif
+Disco
 Memoria
 Multivariada
 MORE
@@ -27418,6 +27425,7 @@ BoldMT
 BzOj
 Branch
 Binarios
+Buffer
 XY
 Xg
 XQG

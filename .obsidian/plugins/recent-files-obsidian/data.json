@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Recuperacion",
+      "path": "Base de Datos/Recuperacion.md"
+    },
+    {
+      "basename": "Teorema CAP",
+      "path": "Base de Datos/Teorema CAP.md"
+    },
+    {
       "basename": "Reducciones",
       "path": "Teoría de Algoritmos/Reducciones.md"
     },

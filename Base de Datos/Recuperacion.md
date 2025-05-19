@@ -18,3 +18,4 @@ Antes de realizaar el commit el log debe ser volcado a disco
 
 
 ![[Algoritmos de Recuperación]]
+[[Teorema CAP]]

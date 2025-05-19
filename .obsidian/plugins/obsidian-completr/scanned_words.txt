@@ -4634,6 +4634,7 @@ existentes
 ecucaciones
 epermite
 esencia
+eficientemente
 servicios
 son
 su
@@ -6722,6 +6723,7 @@ principalmente
 peinando
 potencislmete
 puts
+paralelizables
 la
 las
 le
@@ -8321,6 +8323,7 @@ amaranto
 artistas
 agarran
 alcistas
+arbitrarias
 hardware
 heap
 hay
@@ -11081,6 +11084,9 @@ Creating
 Constante
 Constrain
 Construimos
+Categor
+Coin
+Change
 Es
 El
 Estos
@@ -13072,6 +13078,7 @@ rDY
 relajada
 resolvemos
 restringida
+resuelven
 operacion
 orden
 operaciones
@@ -14739,6 +14746,7 @@ valer
 valga
 vendo
 venderme
+verificables
 Application
 API
 Asigna
@@ -21416,6 +21424,8 @@ Distinguish
 DrI
 Defiinimos
 Desigualdad
+Dificultad
+Dif
 Memoria
 Multivariada
 MORE
@@ -29156,6 +29166,7 @@ QnK
 QhCZ
 QPt
 Qfk
+Queens
 ximo
 xito
 xitos

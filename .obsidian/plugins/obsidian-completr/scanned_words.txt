@@ -2247,6 +2247,7 @@ cantida
 concreta
 cardinalidades
 calves
+cuadratico
 de
 dispositivos
 del
@@ -3190,6 +3191,7 @@ denominacion
 deban
 deecuaciones
 desvio
+deteminar
 gestion
 gran
 guarda
@@ -4641,6 +4643,7 @@ epermite
 esencia
 eficientemente
 escribi
+estadistica
 servicios
 son
 su
@@ -6731,6 +6734,8 @@ potencislmete
 puts
 paralelizables
 participan
+predecir
+predictor
 la
 las
 le
@@ -11740,6 +11745,7 @@ Eqta
 Eyg
 EVITAR
 EEUU
+ECM
 kernel
 kt
 kU
@@ -13646,6 +13652,7 @@ oGe
 operativa
 optiomos
 obligacion
+opinion
 nombre
 nuevo
 nica
@@ -22575,6 +22582,7 @@ Triple
 TSc
 TeoAlgoSoft
 Tchevychev
+Tomando
 Realiza
 REgistrys
 Rango

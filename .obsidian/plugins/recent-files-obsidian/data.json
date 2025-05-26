@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Entidades",
+      "path": "Base de Datos/Entidades.md"
+    },
+    {
+      "basename": "Interrelaciones",
+      "path": "Base de Datos/Interrelaciones.md"
+    },
+    {
+      "basename": "Bases de Datos",
+      "path": "Base de Datos/Bases de Datos.md"
+    },
+    {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
+      "basename": "1.0 Desarrollo de Software",
+      "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
+    },
+    {
       "basename": "1.6 Particiones",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     },
@@ -95,10 +115,6 @@
     {
       "basename": "2.0 Análisis Exploratorio de Datos",
       "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
     },
     {
       "basename": "README",

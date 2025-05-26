@@ -2242,6 +2242,11 @@ condicionada
 creciente
 competencia
 comprarme
+coparticipan
+cantida
+concreta
+cardinalidades
+calves
 de
 dispositivos
 del
@@ -4635,6 +4640,7 @@ ecucaciones
 epermite
 esencia
 eficientemente
+escribi
 servicios
 son
 su
@@ -6724,6 +6730,7 @@ peinando
 potencislmete
 puts
 paralelizables
+participan
 la
 las
 le
@@ -8326,6 +8333,7 @@ agarran
 alcistas
 arbitrarias
 ahead
+aridad
 hardware
 heap
 hay
@@ -13084,6 +13092,8 @@ resuelven
 reinica
 realizando
 realizaar
+relacionarse
+rstantes
 operacion
 orden
 operaciones
@@ -14752,6 +14762,7 @@ valga
 vendo
 venderme
 verificables
+vaticano
 Application
 API
 Asigna
@@ -15924,6 +15935,7 @@ Pfan
 PGothic
 Patagua
 PLE
+Participacion
 Interface
 ID
 Instructions
@@ -19259,6 +19271,7 @@ investigaci
 inecuaciones
 incompatibles
 inmediato
+interrelaci
 fijo
 file
 fork

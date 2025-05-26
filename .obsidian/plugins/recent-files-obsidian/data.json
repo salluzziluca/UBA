@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bases de Datos",
+      "path": "Base de Datos/Bases de Datos.md"
+    },
+    {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Cursos/Agile and Scrum/Kanban.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "Interrelaciones",
       "path": "Base de Datos/Interrelaciones.md"
-    },
-    {
-      "basename": "Bases de Datos",
-      "path": "Base de Datos/Bases de Datos.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
     },
     {
       "basename": "1.0 Desarrollo de Software",

@@ -2252,6 +2252,8 @@ conclusiones
 conformada
 consideran
 caracteristica
+consitente
+condicionmes
 de
 dispositivos
 del
@@ -3204,6 +3206,7 @@ distribuciones
 derivable
 desconocidos
 desconocida
+debilmente
 gestion
 gran
 guarda
@@ -4662,6 +4665,8 @@ estimable
 euclideo
 estadistico
 estimador
+estimadores
+estiamador
 servicios
 son
 su
@@ -5640,6 +5645,7 @@ secos
 salgo
 subciclos
 suficientes
+sesgo
 par
 por
 punto
@@ -8362,6 +8368,7 @@ aridad
 andentro
 aproximarlo
 aproximado
+asint
 hardware
 heap
 hay
@@ -11772,6 +11779,9 @@ EEUU
 ECM
 Estad
 Estimadores
+Estimador
+EMV
+Estimamos
 kernel
 kt
 kU
@@ -13683,6 +13693,7 @@ optiomos
 obligacion
 opinion
 observados
+observada
 nombre
 nuevo
 nica
@@ -18467,6 +18478,7 @@ triple
 traajo
 tercerizados
 tricos
+theta
 inico
 interna
 infro
@@ -19318,6 +19330,8 @@ inmediato
 interrelaci
 innovar
 independeinte
+invarianza
+insesgado
 fijo
 file
 fork
@@ -19931,6 +19945,7 @@ fortaleza
 fuerzas
 flia
 func
+fisher
 Nombre
 Notas
 Not
@@ -22124,6 +22139,7 @@ Mientas
 Mezcladora
 Markov
 Muestra
+Maxima
 Table
 Todos
 This
@@ -23856,6 +23872,8 @@ binarias
 booleanos
 bolsa
 bajistas
+basan
+biunivoca
 will
 words
 with
@@ -27496,6 +27514,7 @@ BzOj
 Branch
 Binarios
 Buffer
+Bondad
 XY
 Xg
 XQG

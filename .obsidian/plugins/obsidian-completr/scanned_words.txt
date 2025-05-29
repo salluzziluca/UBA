@@ -3193,6 +3193,7 @@ deecuaciones
 desvio
 deteminar
 dfgfdgdfgfdgfdgd
+digital
 gestion
 gran
 guarda
@@ -3675,6 +3676,7 @@ gRT
 gwr
 ganancias
 graficamos
+generete
 especifico
 entra
 en
@@ -8340,6 +8342,7 @@ alcistas
 arbitrarias
 ahead
 aridad
+andentro
 hardware
 heap
 hay
@@ -15322,6 +15325,7 @@ Awd
 Arial
 ALRPt
 Ape
+Agencia
 Programming
 Procesos
 Partes
@@ -18431,6 +18435,8 @@ tCjq
 tOw
 tOs
 triple
+traajo
+tercerizados
 inico
 interna
 infro
@@ -19280,6 +19286,7 @@ inecuaciones
 incompatibles
 inmediato
 interrelaci
+innovar
 fijo
 file
 fork
@@ -25578,6 +25585,8 @@ yZH
 ygn
 yaa
 yqK
+yacimiento
+ypf
 json
 jacobiano
 justamente
@@ -26501,6 +26510,7 @@ YyQ
 YUUU
 YOc
 YwYw
+YPF
 Generales
 Global
 GDT

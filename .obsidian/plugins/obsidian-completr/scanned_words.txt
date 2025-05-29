@@ -2248,6 +2248,10 @@ concreta
 cardinalidades
 calves
 cuadratico
+conclusiones
+conformada
+consideran
+caracteristica
 de
 dispositivos
 del
@@ -3194,6 +3198,12 @@ desvio
 deteminar
 dfgfdgdfgfdgfdgd
 digital
+desconoce
+desconocido
+distribuciones
+derivable
+desconocidos
+desconocida
 gestion
 gran
 guarda
@@ -4647,6 +4657,11 @@ esencia
 eficientemente
 escribi
 estadistica
+experimentales
+estimable
+euclideo
+estadistico
+estimador
 servicios
 son
 su
@@ -5624,6 +5639,7 @@ supermercados
 secos
 salgo
 subciclos
+suficientes
 par
 por
 punto
@@ -6739,6 +6755,7 @@ paralelizables
 participan
 predecir
 predictor
+parametrizadas
 la
 las
 le
@@ -8343,6 +8360,8 @@ arbitrarias
 ahead
 aridad
 andentro
+aproximarlo
+aproximado
 hardware
 heap
 hay
@@ -10431,6 +10450,7 @@ SYQ
 Simplex
 Sobre
 Seguir
+Sucesi
 Calls
 Cmabia
 CPU
@@ -11750,6 +11770,8 @@ Eyg
 EVITAR
 EEUU
 ECM
+Estad
+Estimadores
 kernel
 kt
 kU
@@ -13104,6 +13126,9 @@ realizando
 realizaar
 relacionarse
 rstantes
+regulares
+regular
+resultar
 operacion
 orden
 operaciones
@@ -13657,6 +13682,7 @@ operativa
 optiomos
 obligacion
 opinion
+observados
 nombre
 nuevo
 nica
@@ -14774,6 +14800,7 @@ vendo
 venderme
 verificables
 vaticano
+verdaderos
 Application
 API
 Asigna
@@ -15948,6 +15975,7 @@ PGothic
 Patagua
 PLE
 Participacion
+Param
 Interface
 ID
 Instructions
@@ -16488,6 +16516,7 @@ Inicio
 Implica
 Incertidumbre
 Identifying
+Inferencia
 Un
 UNIX
 UBA
@@ -18437,6 +18466,7 @@ tOs
 triple
 traajo
 tercerizados
+tricos
 inico
 interna
 infro
@@ -19287,6 +19317,7 @@ incompatibles
 inmediato
 interrelaci
 innovar
+independeinte
 fijo
 file
 fork
@@ -19898,6 +19929,8 @@ fFF
 frutos
 fortaleza
 fuerzas
+flia
+func
 Nombre
 Notas
 Not
@@ -20928,6 +20961,9 @@ Fallos
 Frases
 Financiamiento
 Fes
+Familia
+Familias
+Factorizaci
 Descriptors
 Descriptor
 Devuelve
@@ -22087,6 +22123,7 @@ MeA
 Mientas
 Mezcladora
 Markov
+Muestra
 Table
 Todos
 This
@@ -24710,6 +24747,7 @@ Vale
 VrC
 Vos
 Valle
+Verosimilitud
 OPTIONS
 Operativos
 Orden

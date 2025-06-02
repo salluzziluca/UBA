@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Algoritmos de Aproximación",
+      "path": "Teoría de Algoritmos/Algoritmos de Aproximación.md"
+    },
+    {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Quimica",
       "path": "CBC/Quimica.md"
-    },
-    {
-      "basename": "Gestión del Desarrollo de Sistemas Informáticos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Gestión del Desarrollo de Sistemas Informáticos.md"
     }
   ],
   "omittedPaths": [],

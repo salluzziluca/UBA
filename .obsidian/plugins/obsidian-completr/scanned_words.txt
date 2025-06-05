@@ -3207,6 +3207,7 @@ derivable
 desconocidos
 desconocida
 debilmente
+dots
 gestion
 gran
 guarda
@@ -5646,6 +5647,9 @@ salgo
 subciclos
 suficientes
 sesgo
+siquiera
+sqrt
+sigma
 par
 por
 punto
@@ -8895,6 +8899,7 @@ hBr
 htM
 hJB
 hfO
+hat
 que
 queda
 quien
@@ -9857,6 +9862,7 @@ underlying
 ugT
 uHs
 uKM
+underline
 System
 Son
 Source
@@ -10458,6 +10464,7 @@ Simplex
 Sobre
 Seguir
 Sucesi
+Sumo
 Calls
 Cmabia
 CPU
@@ -11133,6 +11140,10 @@ Construimos
 Categor
 Coin
 Change
+CosteEstimado
+CostoOptimista
+CostoMedio
+CostoPesimista
 Es
 El
 Estos
@@ -15987,6 +15998,7 @@ Patagua
 PLE
 Participacion
 Param
+Proporcion
 Interface
 ID
 Instructions
@@ -19946,6 +19958,7 @@ fuerzas
 flia
 func
 fisher
+frac
 Nombre
 Notas
 Not
@@ -20979,6 +20992,7 @@ Fes
 Familia
 Familias
 Factorizaci
+FIUBA
 Descriptors
 Descriptor
 Devuelve
@@ -22140,6 +22154,8 @@ Mezcladora
 Markov
 Muestra
 Maxima
+Media
+MediaMuestral
 Table
 Todos
 This
@@ -22644,6 +22660,7 @@ TSc
 TeoAlgoSoft
 Tchevychev
 Tomando
+Theta
 Realiza
 REgistrys
 Rango
@@ -23305,6 +23322,7 @@ Rmq
 Rev
 RRt
 Ramificamos
+Resulta
 bien
 by
 be
@@ -24766,6 +24784,7 @@ VrC
 Vos
 Valle
 Verosimilitud
+Varianza
 OPTIONS
 Operativos
 Orden

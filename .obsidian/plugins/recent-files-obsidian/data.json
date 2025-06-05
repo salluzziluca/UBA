@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "9.1 Introducción a la Estadística",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
+    },
+    {
+      "basename": "Estimacion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
+    },
+    {
       "basename": "Algoritmos de Aproximación",
       "path": "Teoría de Algoritmos/Algoritmos de Aproximación.md"
     },
     {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
-    },
-    {
-      "basename": "9.1 Introducción a la Estadística",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
     },
     {
       "basename": "9.0 Estadística",
@@ -195,10 +199,6 @@
     {
       "basename": "IPC",
       "path": "CBC/IPC.md"
-    },
-    {
-      "basename": "Quimica",
-      "path": "CBC/Quimica.md"
     }
   ],
   "omittedPaths": [],

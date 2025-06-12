@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Programación Lineal",
+      "path": "Teoría de Algoritmos/Programación Lineal.md"
+    },
+    {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fisica",
       "path": "CBC/Fisica.md"
-    },
-    {
-      "basename": "IPC",
-      "path": "CBC/IPC.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Arquitectura",
+      "path": "Ingeneniería del Software I/Arquitectura.md"
+    },
+    {
+      "basename": "9.3 Distribuciones Importantes",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.3 Distribuciones Importantes.md"
+    },
+    {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Bases de Datos Wide Collum",
       "path": "Base de Datos/Bases de Datos Wide Collum.md"
-    },
-    {
-      "basename": "Fisica",
-      "path": "CBC/Fisica.md"
     }
   ],
   "omittedPaths": [],

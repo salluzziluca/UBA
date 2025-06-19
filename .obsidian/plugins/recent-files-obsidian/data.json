@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Algoritmos Randomizados",
+      "path": "Teoría de Algoritmos/Algoritmos Randomizados.md"
+    },
+    {
       "basename": "Hipotesis",
       "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelos de consistencia",
       "path": "Base de Datos/Modelos de consistencia.md"
-    },
-    {
-      "basename": "Álgebra I",
-      "path": "CBC/Álgebra I.md"
     }
   ],
   "omittedPaths": [],

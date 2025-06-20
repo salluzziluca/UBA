@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Derecho Constitucional y Civil",
-      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
+      "basename": "EBT",
+      "path": "Empresas de Base Tecnológica I/EBT.md"
+    },
+    {
+      "basename": "01_derecho_constitucional_y_civil",
+      "path": "Empresas de Base Tecnológica I/01_derecho_constitucional_y_civil.md"
     },
     {
       "basename": "ss",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Modelos de consistencia",
-      "path": "Base de Datos/Modelos de consistencia.md"
     }
   ],
   "omittedPaths": [],

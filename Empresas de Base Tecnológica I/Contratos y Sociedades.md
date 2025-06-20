@@ -1,5 +1,3 @@
-# Contratos y Sociedades
-
 > [!info] El contrato como herramienta jurídica
 > El contrato es la expresión máxima de la autonomía de la voluntad en el derecho privado. Permite que las partes se autorregulen en sus relaciones patrimoniales, siempre dentro de los límites del orden público.
 

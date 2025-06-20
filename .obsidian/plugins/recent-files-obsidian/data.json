@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Contratos y Sociedades",
+      "path": "Empresas de Base Tecnológica I/Contratos y Sociedades.md"
+    },
+    {
       "basename": "EBT",
       "path": "Empresas de Base Tecnológica I/EBT.md"
     },
     {
-      "basename": "01_derecho_constitucional_y_civil",
-      "path": "Empresas de Base Tecnológica I/01_derecho_constitucional_y_civil.md"
+      "basename": "Derecho Laboral",
+      "path": "Empresas de Base Tecnológica I/Derecho Laboral.md"
+    },
+    {
+      "basename": "Derecho Constitucional y Civil",
+      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
     },
     {
       "basename": "ss",
@@ -191,14 +199,6 @@
     {
       "basename": "2.2 Pandas avanzado",
       "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
-    },
-    {
-      "basename": "2.0 Análisis Exploratorio de Datos",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

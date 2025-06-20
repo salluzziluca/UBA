@@ -1,5 +1,3 @@
-# Derecho Laboral
-
 > [!info] ¿Qué es el Derecho Laboral?
 > Es una rama del Derecho que busca equilibrar la relación inherentemente desigual entre el empleador y el trabajador, reconociendo a este último como la parte más vulnerable. Por eso, se rige por principios protectores que limitan la autonomía de la voluntad en pos de la justicia social.
 
@@ -172,5 +170,5 @@ Es un sistema de protección integral garantizado por el Estado. Es obligatorio,
 
 ---
 
-_Seguí leyendo: [[03_Contratos_y_Sociedades]]_
+_Seguí leyendo: [[Contratos y Sociedades]]_
 

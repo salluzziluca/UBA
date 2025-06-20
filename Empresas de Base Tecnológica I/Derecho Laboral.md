@@ -170,5 +170,3 @@ Es un sistema de protección integral garantizado por el Estado. Es obligatorio,
 
 ---
 
-_Seguí leyendo: [[Contratos y Sociedades]]_
-

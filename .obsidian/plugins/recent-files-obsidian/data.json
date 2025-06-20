@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Derecho Constitucional y Civil",
+      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
+    },
+    {
       "basename": "ss",
       "path": "Empresas de Base Tecnológica I/ss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelos de consistencia",
       "path": "Base de Datos/Modelos de consistencia.md"
-    },
-    {
-      "basename": "Álgebra I",
-      "path": "CBC/Álgebra I.md"
     }
   ],
   "omittedPaths": [],

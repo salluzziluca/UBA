@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Preguntas segundo parcial",
+      "path": "Empresas de Base Tecnológica I/Preguntas segundo parcial.md"
+    },
+    {
       "basename": "9.4",
       "path": "Probabilidad y Estadística B/9. Estadística/9.4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2 Pandas avanzado",
       "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
-    },
-    {
-      "basename": "2.0 Análisis Exploratorio de Datos",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
     }
   ],
   "omittedPaths": [],

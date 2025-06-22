@@ -2254,6 +2254,8 @@ consideran
 caracteristica
 consitente
 condicionmes
+colision
+compacta
 de
 dispositivos
 del
@@ -9863,6 +9865,7 @@ ugT
 uHs
 uKM
 underline
+universo
 System
 Son
 Source

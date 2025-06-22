@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Probabilidad y Estadística B/9. Estadística/Untitled.md"
+    },
+    {
+      "basename": "Para el final",
+      "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
+    },
+    {
       "basename": "Algoritmos Randomizados",
       "path": "Teoría de Algoritmos/Algoritmos Randomizados.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2.0 Análisis Exploratorio de Datos",
       "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.0 Análisis Exploratorio de Datos.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Modelos de consistencia",
-      "path": "Base de Datos/Modelos de consistencia.md"
     }
   ],
   "omittedPaths": [],

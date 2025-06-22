@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Régimen de Promoción de la Economía del Conocimiento",
+      "path": "Empresas de Base Tecnológica I/Régimen de Promoción de la Economía del Conocimiento.md"
+    },
+    {
       "basename": "Preguntas segundo parcial",
       "path": "Empresas de Base Tecnológica I/Preguntas segundo parcial.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Analísis Matemático I",
       "path": "CBC/Analísis Matemático I.md"
-    },
-    {
-      "basename": "2.2 Pandas avanzado",
-      "path": "Organización de Datos/2. Análisis Exploratorio de Datos/2.2 Pandas avanzado.md"
     }
   ],
   "omittedPaths": [],

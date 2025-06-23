@@ -55,16 +55,26 @@ La estructura del estado inicial es muy anidada y compleja:
 ```
 
 
+vean de usar composición de funciones para mayor claridad:
+
+```clojure
+
+(defn apply-n-times [n f]
+
+(apply comp (repeat n f)))
+
+```
 
 
-últiples bloques similares para actualizar el stack:
+
+múltiples bloques similares para actualizar el stack:
 ```clojure
 (let [tortuga-nueva (girar-derecha tortuga-activa angulo)
       nuevo-stack (assoc stack idx-activo tortuga-nueva)]
   (assoc estado :stack nuevo-stack))
 ```
 
-**Sugerencia:** Extraer a función helper para eliminar duplicación:
+Vean de extraer a función helper para eliminar duplicación:
 ```clojure
 (defn update-active-turtle [state update-fn]
   ;; Abstracción para operaciones comunes del stack

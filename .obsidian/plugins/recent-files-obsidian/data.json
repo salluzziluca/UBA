@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled",
       "path": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sociedad y Estado",
       "path": "CBC/Sociedad y Estado.md"
-    },
-    {
-      "basename": "Analísis Matemático I",
-      "path": "CBC/Analísis Matemático I.md"
     }
   ],
   "omittedPaths": [],

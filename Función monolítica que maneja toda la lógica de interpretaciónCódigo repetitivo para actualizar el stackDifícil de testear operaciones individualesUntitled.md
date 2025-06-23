@@ -30,6 +30,19 @@ vean de separar en helpers
   )
 ```
 
+Uso de MathPI en vez de stdlib
+```clojure
+(defn grados->radianes [grados]
+  (* grados (/ Math/PI 180)))
+```
+
+
+vs
+```clojure
+(:require [clojure.math :refer [to-radians]])
+```
+
+
 ## 🔧 Áreas de Mejora Principales
 
 ### 1. Función `interpretar` demasiado extensa

@@ -3,161 +3,177 @@ Dia: 2025-06-22
 dg-publish: true
 ---
 > [!info] ¿Qué son los regímenes de promoción?  
-> Son programas del Estado para fomentar sectores estratégicos, a través de beneficios fiscales, logísticos y regulatorios. Su propósito es modernizar, expandir e incentivar actividades productivas, evitando la dependencia rentística a largo plazo (Chang, _Retirar la escalera_).
+> Son políticas públicas diseñadas para incentivar actividades económicas clave. A través de beneficios fiscales y regulatorios, el Estado busca fomentar sectores estratégicos como la tecnología, el conocimiento y la innovación.
 
 ---
 
-## Fundamentos y marco legal
+## Introducción general
 
-La Ley N° 27.506 crea el "Régimen de Promoción de la Economía del Conocimiento" (EDC), con modificaciones por la Ley 27.570. Está inspirado en antecedentes como:
+El "Régimen de Promoción de la Economía del Conocimiento" (EDC) fue creado por la Ley 27.506 y modificado por la Ley 27.570. Representa la evolución de políticas previas, como la Ley de Promoción del Software, adaptándose a una economía centrada en el conocimiento, la innovación y el valor agregado tecnológico.
 
-- Ley 25.922: Promoción de la Industria del Software
-    
-- Ley 24.467: Régimen PyME
-    
-- Ley 24.013: Empleo no registrado
-    
-- Decretos 1034/2020, 679/2022, 293/2024
-    
-- Resoluciones 449/2019 y 67/2025 SEPYME
-    
+Este régimen apunta a empresas que apliquen saberes científicos, tecnológicos y digitales en procesos productivos. El objetivo es promover el desarrollo exportador, competitivo y con alto nivel de empleo calificado.
 
 ---
 
-## Objeto del régimen (Art. 1)
+## Marco normativo
 
-> [!quote]  
+- **Ley 27.506**: Crea el régimen
+    
+- **Ley 27.570**: Reformula e incorpora beneficios adicionales
+    
+- **Decretos reglamentarios**: 1034/2020, 679/2022, 293/2024
+    
+- **Resoluciones**: SEPYME 449/2019 y 67/2025
+    
+
+> [!quote] Art. 1  
 > "Promocionar actividades económicas que apliquen el uso del conocimiento y la digitalización apoyadas en ciencia y tecnología, para producir bienes, prestar servicios o mejorar procesos."
-
-Estas actividades pueden ser básicas o aplicadas, y deben tener impacto productivo o exportador.
 
 ---
 
 ## Actividades promovidas (Art. 2)
 
-|Categorías principales|
-|---|
-|Software y servicios digitales|
-|Producción audiovisual|
-|Biotecnología, bioinformática, neurotecnología, genética|
-|Nanotecnología, nanotecnología|
-|Industria aeroespacial y nuclear|
-|Servicios geológicos y de electrónica|
-|Servicios profesionales exportables (publicidad, arquitectura, ingeniería, diseño)|
-|Automatización e Industria 4.0|
-|Ciencias agropecuarias y médicas|
+Las empresas deben encuadrarse en alguna de las siguientes:
 
-> [!tip] La autoridad de aplicación puede ampliar estos rubros según tecnologías emergentes.
+- Desarrollo de **software** y servicios digitales
+    
+- Producción **audiovisual** y multimedia
+    
+- **Biotecnología**, **bioinformática**, neurociencia
+    
+- **Nanotecnología** y materiales avanzados
+    
+- **Servicios profesionales exportables** (ej. diseño, ingeniería, arquitectura)
+    
+- Automatización e **Industria 4.0**
+    
+- Actividades aeroespaciales, nucleares, médicas y agropecuarias
+    
+
+> [!tip] La lista no es cerrada. La autoridad puede incorporar nuevos rubros según tecnologías emergentes.
 
 ---
 
-## ¿Quiénes pueden acceder?
+## Requisitos de ingreso al régimen
 
-> [!note] Sujetos alcanzados (Art. 4)  
-> Personas jurídicas argentinas (o habilitadas a actuar en el país), con cumplimiento fiscal, laboral, gremial y previsional, y cuya actividad principal esté dentro del Art. 2.
+Para solicitar la inscripción:
 
-> [!question] ¿Puede un monotributista ingresar? No, solo personas jurídicas.
+1. **Actividad principal**: Al menos el 70% de la facturación debe provenir de actividades promovidas.
+    
+2. **Sin facturación**: Se debe probar el desarrollo real de dichas actividades.
+    
+3. **Cumplir 2 de los siguientes 4 ítems**:
+    
+    - Certificaciones de calidad
+        
+    - Inversión en capacitación del personal
+        
+    - Inversión en I+D
+        
+    - Exportaciones (mínimos según tamaño de empresa)
+        
+
+> [!example] Por ejemplo:  
+> Una PyME que desarrolla software y exporta el 15% de su producción, además de invertir en capacitación, cumple con 3 de los 4 requisitos adicionales.
+
+> [!note] Servicios profesionales (inciso e) deben cumplir como si fueran grandes empresas.
 
 ---
 
-## Requisitos para ingresar al régimen
+## Sujetos alcanzados
 
-1. **Actividad principal:** Al menos 70% de la facturación del último año debe provenir de las actividades promovidas.
+- Solo personas jurídicas (sociedades comerciales o entidades con CUIT y personería)
     
-2. **Alternativamente:** Si no hay facturación aún, se debe demostrar el desarrollo real de las actividades.
+- Deben estar al día con:
     
-3. **Adicionales (cumplir al menos 2):**
-    
-    - Mejora continua certificada o normas de calidad
+    - Obligaciones fiscales
         
-    - Inversión en capacitación (según tamaño de empresa)
+    - Cargas sociales
         
-    - Inversión en I+D (según facturación)
-        
-    - Exportaciones (mínimo 4% para micro, 10% PyME, 13% grandes)
+    - Aportes gremiales y previsionales
         
 
-> [!tip] Para servicios profesionales (inciso e), se aplican los requisitos de grandes empresas aunque sean PyMEs.
+> [!question] ¿Pueden ingresar monotributistas? ❌ No, están excluidos.
 
 ---
 
 ## Procedimiento de inscripción
 
-- Formularios vía AFIP (nivel fiscal 3)
+- Solicitud vía plataforma TAD y validación AFIP (nivel fiscal 3)
     
-- Plataforma TAD (Trámites a Distancia)
+- Se adjuntan formularios fiscales, balances, proyecciones de actividad, documentación técnica, y declaración jurada
     
-- Datos de IVA, Form. 931 y documentación técnica
-    
-- Declaración de cumplimiento y proyecciones
-    
+
+> [!tip] Es fundamental la coherencia entre lo declarado y lo facturado. Cualquier inconsistencia puede frenar o anular el trámite.
 
 ---
 
-## Revalidación y controles
+## Revalidación bianual
 
-Cada **2 años**, las empresas deben demostrar:
+Cada **2 años**, las empresas deben:
 
-- Cumplimiento fiscal, laboral y gremial
+- Mantener su actividad promovida
     
-- Mantenimiento o aumento de la nómina
+- Cumplir indicadores comprometidos
     
-- Continuidad de las actividades promovidas
+- No reducir su plantilla de trabajadores
     
-- Mejora en los indicadores comprometidos
+- Estar al día con sus obligaciones
     
 
-> [!warning] Incumplimientos pueden derivar en sanciones graves, incluyendo la baja del régimen y devolución de beneficios.
+> [!warning] Si no cumplen: pierden los beneficios, pueden ser dados de baja, y deben devolver lo percibido.
 
 ---
 
-## Beneficios del régimen
+## Beneficios fiscales y laborales
 
 |Beneficio|Detalle|
 |---|---|
-|Estabilidad fiscal|Marco de previsibilidad impositiva|
-|Reducción de ganancias|60% micro, 40% PyME, 20% grandes|
-|Bono de crédito fiscal|Hasta 70% de las cargas patronales, prorrogable|
-|Bono adicional (80%)|Por contratar mujeres, personas trans, discapacitadas o en zonas desfavorables|
-|Devolución anticipada de IVA|Sobre bienes de capital|
-|Exportaciones|Derechos de exportación 0% (Decreto 1034/2020)|
-|Deducción de impuestos del exterior|Aplicable al impuesto a las ganancias|
-|Exclusión del régimen de retención/percepción de IVA|Solo para exportadores|
+|Estabilidad fiscal|No se aplican nuevos tributos por el plazo del beneficio|
+|Reducción del Impuesto a las Ganancias|60% (micro), 40% (PyME), 20% (grandes)|
+|Bono de crédito fiscal|Hasta 70% de las cargas sociales aplicables a IVA y Ganancias|
+|Bono adicional|80% más si se contrata personal vulnerable o en zonas desfavorables|
+|Reintegro anticipado de IVA|Sobre bienes de capital|
+|Exportaciones|0% derechos de exportación|
+|Retenciones IVA|Exclusión del régimen de percepción y retención|
+|Impuesto del exterior|Deducción computable para Ganancias|
+
+> [!success] Estos beneficios son acumulables y representan un incentivo real para empresas intensivas en conocimiento.
 
 ---
 
-## Sanciones y decaimiento del beneficio (Art. 15 y 15 bis)
+## Sanciones y exclusiones (Art. 15 y 15 bis)
 
-Motivos que provocan suspensión o baja:
+Una empresa puede ser suspendida o expulsada del régimen si:
 
-- Falsedad en la documentación
+- Declara datos falsos
     
-- Incumplimiento fiscal, laboral o gremial
+- Tiene empleados no registrados (Ley 24.013)
     
-- Detección de trabajadores no registrados (Ley 24.013)
+- Baja su plantilla durante más de 60 días
     
-- Baja de plantilla por más de 60 días
+- Ingresa al REPSAL (registro de empleadores sancionados)
     
-- Incorporación al REPSAL
-    
-- Uso fraudulento de beneficios
+- Usa los beneficios en forma indebida
     
 
-> [!danger] En caso de incumplimiento grave:
+> [!danger] En ese caso:
 > 
-> - Se deben devolver tributos no ingresados
+> - Se pierden los beneficios retroactivamente
 >     
-> - Se revoca retroactivamente el beneficio
+> - Debe devolverse lo ahorrado en impuestos
 >     
-> - Se inhabilita para futuras inscripciones
+> - Se bloquea el reingreso por 5 años
 >     
 
 ---
 
-## Excepciones (Art. 5)
+## Excepciones relevantes
 
-> [!warning]  
-> El autodesarrollo (desarrollo de tecnología para uso propio o dentro del mismo grupo societario) **no** se considera actividad promovida a efectos del 70% de facturación.
+- El **autodesarrollo** (desarrollo interno para uso propio) **no** se considera actividad promovida a los efectos del cálculo del 70%.
+    
+
+> [!note] Esto busca evitar que grandes empresas simulen actividad promovida sin vocación de exportación o externalización real.
 
 ---
 

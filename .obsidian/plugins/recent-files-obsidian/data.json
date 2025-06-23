@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Patrones de Diseño",
+      "path": "Ingeneniería del Software I/Patrones de Diseño.md"
+    },
+    {
+      "basename": "Empresas de Base Tecnologica I",
+      "path": "Empresas de Base Tecnológica I/Empresas de Base Tecnologica I.md"
+    },
+    {
+      "basename": "Describe the Personas",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
+    },
+    {
       "basename": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled",
       "path": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Derecho Laboral",
       "path": "Empresas de Base Tecnológica I/Derecho Laboral.md"
-    },
-    {
-      "basename": "Empresas de Base Tecnologica I",
-      "path": "Empresas de Base Tecnológica I/Empresas de Base Tecnologica I.md"
     },
     {
       "basename": "ss",
@@ -191,10 +199,6 @@
     {
       "basename": "1.1 Definición de Probabilidad",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
-    },
-    {
-      "basename": "Sociedad y Estado",
-      "path": "CBC/Sociedad y Estado.md"
     }
   ],
   "omittedPaths": [],

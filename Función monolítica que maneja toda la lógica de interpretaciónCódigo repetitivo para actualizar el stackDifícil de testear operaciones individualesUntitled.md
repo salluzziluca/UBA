@@ -15,13 +15,26 @@ Este análisis identifica oportunidades de mejora en el código para seguir mejo
 
 
 
-La funcion interpreter en tur
+La funcion interpreter en turtle.clj es demasiado larga.
+- Función monolítica que maneja toda la lógica de interpretación
+- Código repetitivo para actualizar el stack
+- Difícil de testear operaciones individuales
+vean de separar en helpers
+```clojure
+(defn update-turtle-in-stack [state update-fn]
+  ;; Helper para actualizar tortuga en el stack
+  )
 
+(defn execute-command [state command angle]
+  ;; Delegar a funciones específicas por comando
+  )
+```
 
 ## 🔧 Áreas de Mejora Principales
 
 ### 1. Función `interpretar` demasiado extensa
 **Ubicación:** ```38:113:src/tp2/turtle.clj```
+
 
 La función `interpretar` tiene más de 75 líneas y maneja múltiples responsabilidades. Esto viola el principio de responsabilidad única y hace el código difícil de mantener y testear.
 

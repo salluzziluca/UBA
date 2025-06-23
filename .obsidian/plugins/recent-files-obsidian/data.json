@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "flashcards",
+      "path": "Empresas de Base Tecnológica I/flashcards.md"
+    },
+    {
       "basename": "ss",
       "path": "Empresas de Base Tecnológica I/ss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Software Legacy",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Software Legacy.md"
-    },
-    {
-      "basename": "1.1 Definición de Probabilidad",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.1 Definición de Probabilidad.md"
     }
   ],
   "omittedPaths": [],

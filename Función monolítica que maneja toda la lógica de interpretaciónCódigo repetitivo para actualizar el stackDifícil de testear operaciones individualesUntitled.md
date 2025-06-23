@@ -52,6 +52,29 @@ La estructura del estado inicial es muy anidada y compleja:
                          :ancho  1.0}}]
  :lineas []}
 
+```
+
+
+
+
+últiples bloques similares para actualizar el stack:
+```clojure
+(let [tortuga-nueva (girar-derecha tortuga-activa angulo)
+      nuevo-stack (assoc stack idx-activo tortuga-nueva)]
+  (assoc estado :stack nuevo-stack))
+```
+
+**Sugerencia:** Extraer a función helper para eliminar duplicación:
+```clojure
+(defn update-active-turtle [state update-fn]
+  ;; Abstracción para operaciones comunes del stack
+  )
+
+```
+
+
+
+
 
 ## 🔧 Áreas de Mejora Principales
 

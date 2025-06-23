@@ -43,6 +43,16 @@ vs
 ```
 
 
+La estructura del estado inicial es muy anidada y compleja:
+```clojure
+{:stack  [{:posicion    [0.0 0.0]
+           :orientacion -90.0
+           :pluma       {:abajo? true
+                         :color  "black"
+                         :ancho  1.0}}]
+ :lineas []}
+
+
 ## 🔧 Áreas de Mejora Principales
 
 ### 1. Función `interpretar` demasiado extensa

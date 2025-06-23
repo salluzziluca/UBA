@@ -6,3 +6,5 @@ dg-publish: true
 
 palabra::concepto
 
+
+palabra2::concepto2

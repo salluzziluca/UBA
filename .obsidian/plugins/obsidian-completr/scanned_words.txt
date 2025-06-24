@@ -5652,6 +5652,7 @@ sesgo
 siquiera
 sqrt
 sigma
+student
 par
 por
 punto
@@ -8375,6 +8376,7 @@ andentro
 aproximarlo
 aproximado
 asint
+alfa
 hardware
 heap
 hay
@@ -8902,6 +8904,7 @@ htM
 hJB
 hfO
 hat
+hipotesis
 que
 queda
 quien

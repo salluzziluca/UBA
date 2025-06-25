@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "flashcards de parciales",
+      "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
+    },
+    {
       "basename": "flashcards",
       "path": "Empresas de Base Tecnológica I/flashcards.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Scrum",
       "path": "Cursos/Agile and Scrum/Scrum.md"
-    },
-    {
-      "basename": "Product Backlog Item",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Product Backlog Item.md"
     }
   ],
   "omittedPaths": [],

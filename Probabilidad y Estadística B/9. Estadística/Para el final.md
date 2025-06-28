@@ -8,7 +8,6 @@ Si tengo $\mu$ pero no tengo $\sigma$ uso t student con grados de libertad = n-1
 ![[Pasted image 20250622190758.png]]
 
 
-
 ![[Pasted image 20250622190728.png]]
 
 

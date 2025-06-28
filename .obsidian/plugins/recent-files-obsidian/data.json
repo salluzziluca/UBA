@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
+    },
+    {
+      "basename": "Para el final",
+      "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
+    },
+    {
+      "basename": "22-06-2025",
+      "path": "22-06-2025.md"
+    },
+    {
       "basename": "Intro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Intro.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2.10 Tipos de Relaciones",
       "path": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
-    },
-    {
-      "basename": "Metodologias, la mirada Agil",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
-    },
-    {
-      "basename": "Extreme Programming (XP)",
-      "path": "Cursos/Agile and Scrum/Extreme Programming (XP).md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "Cursos/Agile and Scrum/Scrum.md"
     }
   ],
   "omittedPaths": [],

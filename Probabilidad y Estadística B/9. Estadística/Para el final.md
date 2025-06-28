@@ -2,30 +2,12 @@
 Dia: 2025-06-22
 dg-publish: true
 ---
+si tengo $\mu$ pero no tengo $\sigma$ uso t student con grados de libertad = n-1
+
+
+
 Si tengo $\sigma$ pero no $\mu$ uso chi^2 igual que arriba. $\chi^2_{n-1}$ la evaluo segun el alfa. P(x<x)= 0.05 si alfa = 0.05
 
-Line18Line18
-
-  
-
-Line19Line19
-
-Aca hago ![[Pasted image 20250622190601.png]]
-
-Line20deleted
-
-  -  
-
 si tengo S^2 o
 
-Line20added
-
-  +  
-
-si tengo S^2 o
-
-Line21added
-
-  +  
-
-$$\frac{\sum}{#}$$
+$$\LARGE\frac{(\sum x_{i}+ \bar{X})^2}{\sigma^2}$$

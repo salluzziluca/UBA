@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2 Patrones de Creación",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
+    },
+    {
+      "basename": "5.1 Definición de Patrones de Diseño",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
+    },
+    {
       "basename": "Intervalos de COnfianzaa",
       "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Recuperacion",
       "path": "Base de Datos/Recuperacion.md"
-    },
-    {
-      "basename": "8.0 Distribución Normal y Teorema Central del Límite",
-      "path": "Probabilidad y Estadística B/8. Distribución Normal y Teorema Central del Límite/8.0 Distribución Normal y Teorema Central del Límite.md"
-    },
-    {
-      "basename": "Programación Dinámica",
-      "path": "Teoría de Algoritmos/Programación Dinámica.md"
     }
   ],
   "omittedPaths": [],

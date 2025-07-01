@@ -2295,6 +2295,16 @@ conecta
 completadas
 controlar
 conectarse
+construcci
+complejo
+construyendo
+construcciones
+comportamientos
+crearlos
+creador
+copiando
+clonado
+clonacion
 de
 dispositivos
 del
@@ -3281,6 +3291,9 @@ dietas
 dieta
 diversos
 desarrollamos
+devuelvan
+decidan
+delegue
 gestion
 gran
 guarda
@@ -4766,6 +4779,9 @@ esenciales
 empleada
 explicaci
 ejecutamos
+especificar
+especifica
+exitosa
 servicios
 son
 su
@@ -6916,6 +6932,11 @@ preparada
 provecho
 profesional
 paneo
+patr
+ptero
+protot
+pica
+prototype
 la
 las
 le
@@ -8556,6 +8577,8 @@ aceptaci
 asincr
 avances
 anemia
+abstraemos
+atado
 hardware
 heap
 hay
@@ -9090,6 +9113,7 @@ hac
 hidrataci
 hipertensi
 historica
+helic
 que
 queda
 quien
@@ -9561,6 +9585,7 @@ qdd
 qkS
 qued
 quo
+quienes
 utilizados
 un
 una
@@ -10665,6 +10690,8 @@ Sociedad
 SAS
 Simplificada
 Sujetos
+Separa
+Singleton
 Calls
 Cmabia
 CPU
@@ -12007,6 +12034,8 @@ EDC
 Entidad
 Ejecutivo
 Econom
+Entrega
+Especifica
 kernel
 kt
 kU
@@ -13386,6 +13415,8 @@ republicana
 regulado
 resoluci
 registrar
+relacionadas
+reutilizar
 operacion
 orden
 operaciones
@@ -15085,6 +15116,8 @@ variandi
 voluntario
 vigencia
 verdaderamente
+variantes
+variante
 Application
 API
 Asigna
@@ -15644,6 +15677,7 @@ Asamblea
 Acciones
 Acci
 Art
+Abstract
 Programming
 Procesos
 Partes
@@ -16273,6 +16307,8 @@ Piedra
 Prestaci
 PYMES
 Proh
+Proporciona
+Prototype
 Interface
 ID
 Instructions
@@ -18107,6 +18143,8 @@ micronutrientes
 mandaban
 manda
 marcando
+mill
+mac
 tien
 tiene
 todos
@@ -20270,6 +20308,7 @@ funcionaba
 faltaba
 fotos
 formaron
+familias
 Nombre
 Notas
 Not
@@ -21310,6 +21349,7 @@ FIUBA
 Facultad
 Fin
 Fomentar
+Factory
 Descriptors
 Descriptor
 Devuelve
@@ -21850,6 +21890,7 @@ DDHH
 Defensa
 Despido
 Docs
+Define
 Memoria
 Multivariada
 MORE
@@ -24232,6 +24273,9 @@ balances
 blicas
 bis
 breve
+brica
+bricas
+botones
 will
 words
 with
@@ -24663,6 +24707,7 @@ wfPK
 wCi
 wBg
 whaaaaat
+windows
 VA
 VIEW
 Volumen
@@ -27402,6 +27447,7 @@ Gbf
 GYI
 GuXu
 GefCQ
+Garantiza
 BX
 Bit
 Box
@@ -27882,6 +27928,7 @@ Binarios
 Buffer
 Bondad
 Bienes
+Builder
 XY
 Xg
 XQG

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Contabilidad",
+      "path": "Empresas de Base Tecnológica I/Contabilidad.md"
+    },
+    {
       "basename": "5.2 Patrones de Creación",
       "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Reducciones",
       "path": "Teoría de Algoritmos/Reducciones.md"
-    },
-    {
-      "basename": "Teorema CAP",
-      "path": "Base de Datos/Teorema CAP.md"
-    },
-    {
-      "basename": "Recuperacion",
-      "path": "Base de Datos/Recuperacion.md"
     }
   ],
   "omittedPaths": [],

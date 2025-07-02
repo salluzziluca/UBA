@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+    },
+    {
       "basename": "Intervalos de COnfianzaa",
       "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.2 Álgebra de Eventos",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.2 Álgebra de Eventos.md"
-    },
-    {
-      "basename": "Reducciones",
-      "path": "Teoría de Algoritmos/Reducciones.md"
     }
   ],
   "omittedPaths": [],

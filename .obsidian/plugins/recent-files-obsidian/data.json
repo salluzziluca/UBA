@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "flashcards de parciales",
-      "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
+      "basename": "Definición de Proceso Puntual de Poisson",
+      "path": "Probabilidad y Estadística B/7. Proceso de Poisson/Definición de Proceso Puntual de Poisson.md"
+    },
+    {
+      "basename": "7.0 Proceso de Poisson",
+      "path": "Probabilidad y Estadística B/7. Proceso de Poisson/7.0 Proceso de Poisson.md"
+    },
+    {
+      "basename": "Intervalos de COnfianzaa",
+      "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
+    },
+    {
+      "basename": "9.3 Distribuciones Importantes",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.3 Distribuciones Importantes.md"
+    },
+    {
+      "basename": "9.2 Método de Máxima Verosimilitud",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
+    },
+    {
+      "basename": "9.1 Introducción a la Estadística",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
+    },
+    {
+      "basename": "3.3 Extension a Vectores Aleatorios",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
+    },
+    {
+      "basename": "3.1 Esperanza",
+      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
+    },
+    {
+      "basename": "Contabilidad",
+      "path": "Empresas de Base Tecnológica I/Contabilidad.md"
+    },
+    {
+      "basename": "5.2 Patrones de Creación",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
+    },
+    {
+      "basename": "5.1 Definición de Patrones de Diseño",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
+    },
+    {
+      "basename": "Para el final",
+      "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
+    },
+    {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
+    },
+    {
+      "basename": "22-06-2025",
+      "path": "22-06-2025.md"
     },
     {
       "basename": "Intro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Intro.md"
+    },
+    {
+      "basename": "flashcards de parciales",
+      "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
     },
     {
       "basename": "Régimen de Promoción de la Economía del Conocimiento",
@@ -57,20 +113,8 @@
       "path": "Ingeneniería del Software I/Arquitectura.md"
     },
     {
-      "basename": "9.3 Distribuciones Importantes",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.3 Distribuciones Importantes.md"
-    },
-    {
-      "basename": "9.2 Método de Máxima Verosimilitud",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
-    },
-    {
       "basename": "Programación Lineal",
       "path": "Teoría de Algoritmos/Programación Lineal.md"
-    },
-    {
-      "basename": "9.1 Introducción a la Estadística",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
     },
     {
       "basename": "Estimacion",
@@ -155,50 +199,6 @@
     {
       "basename": "5.2 Mezclas",
       "path": "Probabilidad y Estadística B/5. Variables Aleatorias Condicionadas/5.2 Mezclas.md"
-    },
-    {
-      "basename": "1.3 Conteo",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.3 Conteo.md"
-    },
-    {
-      "basename": "1.2 Álgebra de Eventos",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.2 Álgebra de Eventos.md"
-    },
-    {
-      "basename": "Reducciones",
-      "path": "Teoría de Algoritmos/Reducciones.md"
-    },
-    {
-      "basename": "Teorema CAP",
-      "path": "Base de Datos/Teorema CAP.md"
-    },
-    {
-      "basename": "Recuperacion",
-      "path": "Base de Datos/Recuperacion.md"
-    },
-    {
-      "basename": "8.0 Distribución Normal y Teorema Central del Límite",
-      "path": "Probabilidad y Estadística B/8. Distribución Normal y Teorema Central del Límite/8.0 Distribución Normal y Teorema Central del Límite.md"
-    },
-    {
-      "basename": "Programación Dinámica",
-      "path": "Teoría de Algoritmos/Programación Dinámica.md"
-    },
-    {
-      "basename": "2.10 Tipos de Relaciones",
-      "path": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
-    },
-    {
-      "basename": "Metodologias, la mirada Agil",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Metodologias, la mirada Agil.md"
-    },
-    {
-      "basename": "Extreme Programming (XP)",
-      "path": "Cursos/Agile and Scrum/Extreme Programming (XP).md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "Cursos/Agile and Scrum/Scrum.md"
     }
   ],
   "omittedPaths": [],

@@ -10,7 +10,7 @@ Sea $fθ(x)f_\theta(x)fθ​(x)$ la densidad (para variables continuas) o funci�
 
 Ejemplo:
 
-$$fα(x)=2xα2e−(x/α)2(Weibull con k=2)f_\alpha(x) = \frac{2x}{\alpha^2} e^{-(x/\alpha)^2} \quad \text{(Weibull con \( k = 2 \))}fα​(x)=α22x​e−(x/α)2(Weibull con k=2)
+$$fα(x)=2xα2e−(x/α)2(Weibull con k=2)f_\alpha(x) = \frac{2x}{\alpha^2} e^{-(x/\alpha)^2} \quad \text{(Weibull \ con \( k = 2 \))}f\alpha(x)=\alpha22x​e−(x/α)2(Weibull con k=2)$$
 
 ---
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "estimadores",
+      "path": "Probabilidad y Estadística B/9. Estadística/estimadores.md"
+    },
+    {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Interrelaciones",
       "path": "Base de Datos/Interrelaciones.md"
-    },
-    {
-      "basename": "1.0 Desarrollo de Software",
-      "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
     }
   ],
   "omittedPaths": [],

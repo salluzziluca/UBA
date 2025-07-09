@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.6 Particiones",
+      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
+    },
+    {
       "basename": "Definición de Proceso Puntual de Poisson",
       "path": "Probabilidad y Estadística B/7. Proceso de Poisson/Definición de Proceso Puntual de Poisson.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "1.0 Desarrollo de Software",
       "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
-    },
-    {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
+    },
+    {
+      "basename": "9.4",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.4.md"
+    },
+    {
       "basename": "Intervalos de COnfianzaa",
       "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Para el final",
       "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
-    },
-    {
-      "basename": "Hipotesis",
-      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
     {
       "basename": "22-06-2025",
@@ -195,10 +199,6 @@
     {
       "basename": "1.6 Particiones",
       "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
-    },
-    {
-      "basename": "5.2 Mezclas",
-      "path": "Probabilidad y Estadística B/5. Variables Aleatorias Condicionadas/5.2 Mezclas.md"
     }
   ],
   "omittedPaths": [],

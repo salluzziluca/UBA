@@ -2285,6 +2285,12 @@ convenios
 consumidor
 cumplimiento
 continuar
+cuantiles
+concluir
+campa
+chico
+conocida
+conoc
 de
 dispositivos
 del
@@ -4749,6 +4755,7 @@ excepcionalmente
 emprendedurismo
 esenciales
 empleada
+encuesta
 servicios
 son
 su
@@ -5744,6 +5751,8 @@ sujeto
 stica
 simplificaci
 socia
+sueldos
+subi
 par
 por
 punto
@@ -6884,6 +6893,9 @@ protege
 previsional
 protecci
 patrimonial
+picos
+poblacional
+proporciones
 la
 las
 le
@@ -8521,6 +8533,7 @@ administrativa
 auditor
 auto
 aceptaci
+alternativa
 hardware
 heap
 hay
@@ -10017,6 +10030,7 @@ uHs
 uKM
 underline
 universo
+unilateral
 System
 Son
 Source
@@ -10626,6 +10640,8 @@ Sociedad
 SAS
 Simplificada
 Sujetos
+Student
+Seg
 Calls
 Cmabia
 CPU
@@ -11315,6 +11331,9 @@ Consumidor
 Congreso
 Conocimiento
 Cumplimiento
+Comparar
+Contexto
+Compar
 Es
 El
 Estos
@@ -11968,6 +11987,7 @@ EDC
 Entidad
 Ejecutivo
 Econom
+Evaluar
 kernel
 kt
 kU
@@ -13346,6 +13366,10 @@ reconocimiento
 republicana
 regulado
 resoluci
+rechazo
+rechaz
+rechazarla
+rechazar
 operacion
 orden
 operaciones
@@ -16228,6 +16252,8 @@ Piedra
 Prestaci
 PYMES
 Proh
+Plantear
+Proporci
 Interface
 ID
 Instructions
@@ -16770,6 +16796,7 @@ Incertidumbre
 Identifying
 Inferencia
 IVA
+Imagen
 Un
 UNIX
 UBA
@@ -18057,6 +18084,8 @@ mezclas
 market
 medios
 manifestaci
+mencionaste
+medias
 tien
 tiene
 todos
@@ -18726,6 +18755,7 @@ theta
 trabajador
 trabajadores
 terceros
+testeando
 inico
 interna
 infro
@@ -20214,6 +20244,7 @@ facturaci
 fraude
 ficciones
 finalidad
+falsa
 Nombre
 Notas
 Not
@@ -22424,6 +22455,7 @@ Media
 MediaMuestral
 Manifestaci
 Modo
+Moneda
 Table
 Todos
 This
@@ -22930,6 +22962,9 @@ Tchevychev
 Tomando
 Theta
 Tratados
+Tests
+Tips
+Trabaj
 Realiza
 REgistrys
 Rango
@@ -24173,6 +24208,8 @@ bianual
 balances
 blicas
 bis
+bilateral
+binomial
 will
 words
 with
@@ -25589,6 +25626,7 @@ Owner
 OwkCo
 Ofw
 Obliga
+Opcional
 ya
 yo
 yM
@@ -27823,6 +27861,7 @@ Binarios
 Buffer
 Bondad
 Bienes
+Binomial
 XY
 Xg
 XQG
@@ -28625,6 +28664,7 @@ Have
 HfUL
 HKqk
 Herramienta
+Hip
 Jacobiano
 Job
 Jusitfique
@@ -29574,6 +29614,7 @@ QhCZ
 QPt
 Qfk
 Queens
+Quer
 ximo
 xito
 xitos

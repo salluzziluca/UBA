@@ -2306,6 +2306,12 @@ compensas
 cronol
 contables
 contable
+cuantiles
+concluir
+campa
+chico
+conocida
+conoc
 de
 dispositivos
 del
@@ -4791,6 +4797,7 @@ emprendedurismo
 esenciales
 empleada
 enumeraci
+encuesta
 servicios
 son
 su
@@ -5793,6 +5800,8 @@ simplificaci
 socia
 sistem
 sadlo
+sueldos
+subi
 par
 por
 punto
@@ -6949,6 +6958,9 @@ patrimonial
 pesar
 proveniente
 pagas
+picos
+poblacional
+proporciones
 la
 las
 le
@@ -8602,6 +8614,7 @@ auto
 aceptaci
 anoto
 asientos
+alternativa
 hardware
 heap
 hay
@@ -10097,6 +10110,7 @@ uHs
 uKM
 underline
 universo
+unilateral
 System
 Son
 Source
@@ -10711,6 +10725,8 @@ Sociedad
 SAS
 Simplificada
 Saber
+Student
+Seg
 Calls
 Cmabia
 CPU
@@ -11411,6 +11427,9 @@ Credito
 Conocer
 Contables
 Cuadro
+Comparar
+Contexto
+Compar
 Es
 El
 Estos
@@ -12068,6 +12087,7 @@ Exclusi
 Entidad
 Ejecutivo
 Estados
+Evaluar
 kernel
 kt
 kU
@@ -13454,6 +13474,10 @@ regulado
 resoluci
 restas
 rentabilidad
+rechazo
+rechaz
+rechazarla
+rechazar
 operacion
 orden
 operaciones
@@ -16353,6 +16377,8 @@ Prestaci
 PYMES
 Proh
 Plan
+Plantear
+Proporci
 Interface
 ID
 Instructions
@@ -16899,6 +16925,7 @@ Inversi
 Impuesto
 IVA
 Ingresa
+Imagen
 Un
 UNIX
 UBA
@@ -18189,6 +18216,8 @@ multimedia
 monotributistas
 medios
 manifestaci
+mencionaste
+medias
 tien
 tiene
 todos
@@ -18859,6 +18888,7 @@ trabajadores
 tributos
 trabajador
 terceros
+testeando
 inico
 interna
 infro
@@ -20366,6 +20396,7 @@ financieros
 fraude
 ficciones
 finalidad
+falsa
 Nombre
 Notas
 Not
@@ -22583,6 +22614,7 @@ Media
 MediaMuestral
 Manifestaci
 Modo
+Moneda
 Table
 Todos
 This
@@ -23090,6 +23122,9 @@ Tomando
 Theta
 TAD
 Tratados
+Tests
+Tips
+Trabaj
 Realiza
 REgistrys
 Rango
@@ -24342,6 +24377,8 @@ bis
 bloquea
 blico
 biotecnolog
+bilateral
+binomial
 will
 words
 with
@@ -25760,6 +25797,7 @@ Ofw
 Obligaciones
 Obliga
 Ordena
+Opcional
 ya
 yo
 yM
@@ -28002,6 +28040,7 @@ Bono
 Baja
 Bienes
 Balance
+Binomial
 XY
 Xg
 XQG
@@ -28804,6 +28843,7 @@ Have
 HfUL
 HKqk
 Herramienta
+Hip
 Jacobiano
 Job
 Jusitfique
@@ -29753,6 +29793,7 @@ QhCZ
 QPt
 Qfk
 Queens
+Quer
 ximo
 xito
 xitos

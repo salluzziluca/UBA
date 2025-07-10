@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "5.4 Patrones de Comportamiento",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
+    },
+    {
+      "basename": "5.3 Patrones Estructurales",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
+    },
+    {
+      "basename": "5.2 Patrones de Creación",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
+    },
+    {
+      "basename": "5.1 Definición de Patrones de Diseño",
+      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
+    },
+    {
       "basename": "Hipotesis",
       "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "Contabilidad",
       "path": "Empresas de Base Tecnológica I/Contabilidad.md"
-    },
-    {
-      "basename": "5.2 Patrones de Creación",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
-    },
-    {
-      "basename": "5.1 Definición de Patrones de Diseño",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
     },
     {
       "basename": "Para el final",
@@ -191,14 +199,6 @@
     {
       "basename": "Atributos",
       "path": "Base de Datos/Atributos.md"
-    },
-    {
-      "basename": "Entidades",
-      "path": "Base de Datos/Entidades.md"
-    },
-    {
-      "basename": "Interrelaciones",
-      "path": "Base de Datos/Interrelaciones.md"
     }
   ],
   "omittedPaths": [],

@@ -95,7 +95,7 @@ $$T = \frac{\bar{X} - \mu_0}{S / \sqrt{n}} \sim t_{n-1}$$​
 
 ### 🔸 3. **Varianza o desvío estándar ⇒ usar Chi-cuadrado**
 
-$$χ2=(n−1)s2σ02∼χn−12\chi^2 = \frac{(n - 1)s^2}{\sigma_0^2} \sim \chi^2_{n - 1}χ2=σ02​(n−1)s2​∼χn−12$$​
+$$\chi^2 = \frac{(n - 1)s^2}{\sigma_0^2} \sim \chi^2_{n - 1}$$​
 
 **Ejemplo:**
 

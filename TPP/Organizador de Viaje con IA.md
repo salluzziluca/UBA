@@ -4,5 +4,6 @@ dg-publish: true
 ---
 Te lo puede vincular con booking y gmaps. Que la ia te plnifique. te registre hoteles. Te arme itinerario. etc
 
+se te pregunta:
+| A donde te vas| cantidad de dias | quee tipo de viaje queres hacer|
 
-	| A donde te vas| cantidad de dias | quee tipo de viaje queres hacer 

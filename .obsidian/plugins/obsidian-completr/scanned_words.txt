@@ -2335,6 +2335,8 @@ complejizar
 celda
 creas
 crendo
+calle
+cocheras
 de
 dispositivos
 del
@@ -7038,6 +7040,7 @@ published
 pdfs
 pase
 pasarlo
+puerta
 la
 las
 le
@@ -15876,6 +15879,7 @@ Acci
 Abstract
 Adapter
 ADAPTADOR
+App
 Programming
 Procesos
 Partes

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Buscador de estacionamiento",
+      "path": "TPP/Buscador de estacionamiento.md"
+    },
+    {
+      "basename": "Lugar de juntadas",
+      "path": "TPP/Lugar de juntadas.md"
+    },
+    {
       "basename": "Ideas",
       "path": "TPP/Ideas.md"
     },
     {
       "basename": "Organizador de Viaje con IA",
       "path": "TPP/Organizador de Viaje con IA.md"
-    },
-    {
-      "basename": "Lugar de juntadas",
-      "path": "TPP/Lugar de juntadas.md"
     },
     {
       "basename": "Calendarios",
@@ -195,10 +199,6 @@
     {
       "basename": "3.4 Predicciones",
       "path": "Probabilidad y Estadística B/3. Momentos/3.4 Predicciones.md"
-    },
-    {
-      "basename": "3.2 Varianza",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.2 Varianza.md"
     }
   ],
   "omittedPaths": [],

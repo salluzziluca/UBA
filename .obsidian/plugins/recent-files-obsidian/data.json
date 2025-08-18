@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
+    },
+    {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Organizador de Viaje con IA",
       "path": "TPP/Organizador de Viaje con IA.md"
-    },
-    {
-      "basename": "Hipotesis",
-      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
     {
       "basename": "Intervalos de COnfianzaa",
@@ -195,10 +199,6 @@
     {
       "basename": "Arquitectura de 3 capas ANSI-SPARC",
       "path": "Base de Datos/Arquitectura de 3 capas ANSI-SPARC.md"
-    },
-    {
-      "basename": "3.4 Predicciones",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.4 Predicciones.md"
     }
   ],
   "omittedPaths": [],

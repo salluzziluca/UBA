@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.1 Introduccion a Data Science",
+      "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
+    },
+    {
+      "basename": "1.0 Data Science",
+      "path": "Organización de Datos/1. Data Science/1.0 Data Science.md"
+    },
+    {
       "basename": "Hipotesis",
       "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "1er Parcial",
       "path": "Ingeneniería del Software I/1er Parcial.canvas"
-    },
-    {
-      "basename": "Arquitectura de 3 capas ANSI-SPARC",
-      "path": "Base de Datos/Arquitectura de 3 capas ANSI-SPARC.md"
     }
   ],
   "omittedPaths": [],

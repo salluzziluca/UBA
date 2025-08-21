@@ -17,3 +17,6 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 
 ### Que la origina?
 1. Tiempo de Interseccion
+2. Tiempo de propagacion 
+3. Tiempo de procesamiento 
+4. tiempo de encolado

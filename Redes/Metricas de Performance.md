@@ -16,7 +16,7 @@ En la UX.
 Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan producciones industriales)
 
 ### Que la origina?
-1. Tiempo de Interseccion
+1. Tiempo de Insercion
 	Tiempo que demora el parque en ser insertado en el enlace
 	$\frac{Largo\_paquete}{velocidad\_{serializacion}}$
 2. Tiempo de propagacion 
@@ -27,3 +27,6 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 
 Insercion vs propagacion
 La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso
+
+En distancias largas prepondera el tiempo de propagacion 
+En distancias largas, el tiempo de incersion

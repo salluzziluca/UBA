@@ -6,4 +6,4 @@ Tps de a 5
 
 Aprobacion obligatoria 
 
-sem
+nota = $0.4 \times parcial + $

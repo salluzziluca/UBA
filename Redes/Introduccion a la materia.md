@@ -34,3 +34,5 @@ Unicast: de uno a otro
 Broadcast: De uno a todos
 
 Multicast: de uno a un grupo.
+
+## Modelo TCP/IP

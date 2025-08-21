@@ -2291,6 +2291,8 @@ campa
 chico
 conocida
 conoc
+current
+check
 de
 dispositivos
 del
@@ -3272,6 +3274,7 @@ decreto
 decisi
 donaci
 dividendo
+decompress
 gestion
 gran
 guarda
@@ -5754,6 +5757,7 @@ socia
 sueldos
 subi
 sacarte
+settings
 par
 por
 punto
@@ -6898,6 +6902,7 @@ picos
 poblacional
 proporciones
 promociona
+palette
 la
 las
 le
@@ -10034,6 +10039,7 @@ uKM
 underline
 universo
 unilateral
+under
 System
 Son
 Source
@@ -10645,6 +10651,7 @@ Simplificada
 Sujetos
 Student
 Seg
+Saving
 Calls
 Cmabia
 CPU
@@ -11991,6 +11998,7 @@ Entidad
 Ejecutivo
 Econom
 Evaluar
+Excalidraw
 kernel
 kt
 kU
@@ -21828,6 +21836,7 @@ DDHH
 Defensa
 Despido
 DEspues
+Decompress
 Memoria
 Multivariada
 MORE

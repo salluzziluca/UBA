@@ -44,3 +44,7 @@ La subutilizamos
 
 ## Round Trip Time (RTT) 
 
+Tiempo que tarda en salir un paquete, llegar y volver. 
+
+PING...PONG 
+

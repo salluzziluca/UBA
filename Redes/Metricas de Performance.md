@@ -24,7 +24,7 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 3. Tiempo de procesamiento 
 	Leer el header del paquete y ver a donde lo mando.
 4. tiempo de encolado
-
+	Tiempo desde que arriba hasta que es finalmente transmitido.
 Insercion vs propagacion
 La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso
 

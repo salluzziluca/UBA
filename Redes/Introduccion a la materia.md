@@ -27,3 +27,8 @@ Tier 1 son los ISP (provedores de servicio) y los provedores de contenido mas gr
 ## Conectividad (o como viaja un paquete a traves de la red)
 
 ![[Pasted image 20250821183935.png]]
+
+
+Unicast: de uno a otro
+
+Broadcast: De uno a muchos

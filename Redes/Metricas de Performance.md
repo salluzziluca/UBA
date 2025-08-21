@@ -36,4 +36,11 @@ En distancias largas, el tiempo de insercion
 
 queremos que llegue todo todo el tiempo
 
-Problema: $L*a = R$
+Problema: $L*a = R$ la COLA desborda 
+
+Solucion: $L*a<R$
+La subutilizamos
+
+
+## Round Trip Time (RTT) 
+

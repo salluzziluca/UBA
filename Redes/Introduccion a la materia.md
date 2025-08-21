@@ -41,13 +41,13 @@ Multicast: de uno a un grupo.
 
 
 
-### Aplicacion 
+### Aplicacion !!
 DNS, VPN. 
 
-### Transporte 
+### Transporte !!
 
 
-### Red 
+### Red !!
 donde empieza a tener informacion. Cambia entre los diferentes nodos que componen la red. Aca termina la parte logica de transmision y de armado de un paquete
 
 ### enlace
@@ -55,3 +55,6 @@ donde empieza a tener informacion. Cambia entre los diferentes nodos que compone
 
 ### fisica
 El medio por el que se propaga
+
+
+Las primeras dos son las que mas vamos a ver en la materia

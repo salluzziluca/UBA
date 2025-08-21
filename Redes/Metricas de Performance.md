@@ -22,11 +22,11 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 2. Tiempo de propagacion 
 	Depende del medio. Es distancia/velocidad en el medio
 3. Tiempo de procesamiento 
-	
+	Leer el header del paquete y ver a donde lo mando.
 4. tiempo de encolado
 
 Insercion vs propagacion
 La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso
 
 En distancias largas prepondera el tiempo de propagacion 
-En distancias largas, el tiempo de incersion
+En distancias largas, el tiempo de insercion

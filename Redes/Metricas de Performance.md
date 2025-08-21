@@ -22,4 +22,8 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 2. Tiempo de propagacion 
 	Depende del medio. Es distancia/velocidad en el medio
 3. Tiempo de procesamiento 
+	
 4. tiempo de encolado
+
+Insercion vs propagacion
+La ince

@@ -10,3 +10,6 @@ nota = $0.4 \times parcial + $
 
 
 Se promociona solo si aprobas a la primera. No en recu. Con sacarte + de 4 ya esta. DEspues hay que tener nota de cursada mayor a 8.
+
+
+![[network]]

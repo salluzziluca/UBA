@@ -31,3 +31,9 @@ La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que t
 
 En distancias largas prepondera el tiempo de propagacion 
 En distancias largas, el tiempo de insercion
+
+## Packet Lost 
+
+queremos que llegue todo todo el tiempo
+
+Problema: $L*a = R$

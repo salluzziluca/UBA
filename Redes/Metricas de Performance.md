@@ -18,7 +18,8 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 ### Que la origina?
 1. Tiempo de Interseccion
 	Tiempo que demora el parque en ser insertado en el enlace
-	$Largo$
+	$\frac{Largo\_paquete}{velocidad\_{serializacion}}$
 2. Tiempo de propagacion 
+	Depende
 3. Tiempo de procesamiento 
 4. tiempo de encolado

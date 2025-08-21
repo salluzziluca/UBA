@@ -53,3 +53,9 @@ PING...PONG
 Cantidad de datos que se pueden transmitir a traves de la red e un periodo de tiempo determinado. Si tengo toda la red libre, es == a ancho de banda. Si esta siendo muy utilizada va a ser menor al ancho de banda
 
 Tasa a laque stransfieren bits entre transmisor/receptor
+
+
+### Ejercitacion
+
+
+![[Pasted image 20250821192614.png]]

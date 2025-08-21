@@ -15,3 +15,10 @@ Se promociona solo si aprobas a la primera. No en recu. Con sacarte + de 4 ya es
 ![[network]]
 
 
+## Tiers. 
+
+
+Se fue expandiendo internet en difernetes tiers
+![[Pasted image 20250821183525.png]]
+
+Tier 1

@@ -36,3 +36,9 @@ Broadcast: De uno a todos
 Multicast: de uno a un grupo.
 
 ## Modelo TCP/IP
+
+![[Pasted image 20250821184724.png]]
+
+
+
+### Aplicacion 

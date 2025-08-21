@@ -22,3 +22,7 @@ Se fue expandiendo internet en difernetes tiers
 ![[Pasted image 20250821183525.png]]
 
 Tier 1 son los ISP (provedores de servicio) y los provedores de contenido mas grandes como google y amazon. Las velocidades mas altas y de mayor capacidad
+
+
+## Conectividad (o como viaja un paquete a traves de la red)
+

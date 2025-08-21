@@ -48,8 +48,8 @@ Tiempo que tarda en salir un paquete, llegar y volver.
 
 PING...PONG 
 
-## Throughput 
+## Throughput/Tasa de envio
 
-Cantrida de datos que se pedne transmitir a traves de la red e un periodo de tiempo determinado 
+Cantidad de datos que se pueden transmitir a traves de la red e un periodo de tiempo determinado 
 
 Tasa a laque stransfieren bits entre transmisor/receptor

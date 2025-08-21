@@ -5,3 +5,9 @@ dg-publish: true
 ## Packet Lost 
 
 El paquete se origina en un host pero nunca llega a destino.
+
+
+## Latencia 
+
+Retardo entre estimulo y respuesta 
+

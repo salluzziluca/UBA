@@ -26,4 +26,4 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 4. tiempo de encolado
 
 Insercion vs propagacion
-La ince
+La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso

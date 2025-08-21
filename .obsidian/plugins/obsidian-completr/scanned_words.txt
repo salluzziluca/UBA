@@ -5753,6 +5753,7 @@ simplificaci
 socia
 sueldos
 subi
+sacarte
 par
 por
 punto
@@ -6896,6 +6897,7 @@ patrimonial
 picos
 poblacional
 proporciones
+promociona
 la
 las
 le
@@ -8534,6 +8536,7 @@ auditor
 auto
 aceptaci
 alternativa
+aprobas
 hardware
 heap
 hay
@@ -13932,6 +13935,7 @@ obligaci
 obligaciones
 obligan
 obligatorias
+obligatoria
 nombre
 nuevo
 nica
@@ -21823,6 +21827,7 @@ Discernimiento
 DDHH
 Defensa
 Despido
+DEspues
 Memoria
 Multivariada
 MORE
@@ -22965,6 +22970,7 @@ Tratados
 Tests
 Tips
 Trabaj
+Tps
 Realiza
 REgistrys
 Rango

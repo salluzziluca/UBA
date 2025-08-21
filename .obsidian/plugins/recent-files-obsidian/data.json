@@ -5,6 +5,14 @@
       "path": "Redes/Introduccion a la materia.md"
     },
     {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
+      "basename": "Redes",
+      "path": "Redes/Redes.md"
+    },
+    {
       "basename": "1.1 Introduccion a Data Science",
       "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Bases de Datos",
       "path": "Base de Datos/Bases de Datos.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Cursos/Agile and Scrum/Kanban.md"
     }
   ],
   "omittedPaths": [],

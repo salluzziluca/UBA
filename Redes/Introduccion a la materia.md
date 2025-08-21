@@ -57,4 +57,7 @@ donde empieza a tener informacion. Cambia entre los diferentes nodos que compone
 El medio por el que se propaga
 
 
-Las primeras dos son las que mas vamos a ver en la materia
+Las primeras tres son las que mas vamos a ver en la materia
+
+
+Red dice: Es ese grupo de maquinas, Transporte dice: es esa maquina, Aplicacion dice: es ese proceso particular

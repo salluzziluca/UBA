@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduccion a la materia",
+      "path": "Redes/Introduccion a la materia.md"
+    },
+    {
       "basename": "1.1 Introduccion a Data Science",
       "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kanban",
       "path": "Cursos/Agile and Scrum/Kanban.md"
-    },
-    {
-      "basename": "1er Parcial",
-      "path": "Ingeneniería del Software I/1er Parcial.canvas"
     }
   ],
   "omittedPaths": [],

@@ -6905,6 +6905,7 @@ proporciones
 promociona
 palette
 provedores
+propaga
 la
 las
 le
@@ -8545,6 +8546,7 @@ aceptaci
 alternativa
 aprobas
 altas
+armado
 hardware
 heap
 hay
@@ -11348,6 +11350,7 @@ Comparar
 Contexto
 Compar
 Conectividad
+Cambia
 Es
 El
 Estos
@@ -17304,6 +17307,7 @@ Use
 UKC
 UQe
 UFg
+Unicast
 modo
 mode
 menso
@@ -18774,6 +18778,7 @@ trabajadores
 terceros
 testeando
 tiers
+transmision
 inico
 interna
 infro
@@ -21843,6 +21848,7 @@ Defensa
 Despido
 DEspues
 Decompress
+DNS
 Memoria
 Multivariada
 MORE
@@ -22476,6 +22482,7 @@ MediaMuestral
 Manifestaci
 Modo
 Moneda
+Multicast
 Table
 Todos
 This
@@ -22988,6 +22995,7 @@ Trabaj
 Tps
 Tiers
 Tier
+Transporte
 Realiza
 REgistrys
 Rango
@@ -27885,6 +27893,7 @@ Buffer
 Bondad
 Bienes
 Binomial
+Broadcast
 XY
 Xg
 XQG

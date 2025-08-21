@@ -51,3 +51,7 @@ DNS, VPN.
 donde empieza a tener informacion. Cambia entre los diferentes nodos que componen la red. Aca termina la parte logica de transmision y de armado de un paquete
 
 ### enlace
+
+
+### fisica
+El medio por el que se propaga

@@ -31,4 +31,6 @@ Tier 1 son los ISP (provedores de servicio) y los provedores de contenido mas gr
 
 Unicast: de uno a otro
 
-Broadcast: De uno a muchos
+Broadcast: De uno a todos
+
+Multicast: de uno a un grupo

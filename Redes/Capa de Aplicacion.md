@@ -8,3 +8,6 @@ dg-publish: true
 Esto nos lleva a tener datacenteres enormes
 
 ### Peer to Peer (p2p)
+Torrent
+
+##

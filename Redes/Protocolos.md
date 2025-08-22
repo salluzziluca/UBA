@@ -28,4 +28,6 @@ Al estar todo distribuido cada uno se encarga de su propias direcciones. Le preg
 
 Cuando uno le pregunta al DNS local, este si no lo tiene cacheado, hace eso.
 
-Para nosotros, usuario final, estariamos haciendo 
+Para nosotros, usuario final, estariamos haciendo una consulta recursiva. Se lo pedimos y el nos devuelve.
+
+Los roots no consultan recursivas, si uno les consulta simplemente dan la direccion a la que ir a consultar. Pero n

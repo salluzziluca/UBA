@@ -2297,6 +2297,7 @@ check
 cortan
 carteles
 conecta
+caudal
 de
 dispositivos
 del
@@ -6929,6 +6930,7 @@ producciones
 parque
 piso
 prepondera
+privacidad
 la
 las
 le
@@ -10688,6 +10690,7 @@ Sujetos
 Student
 Seg
 Saving
+Seguridad
 Calls
 Cmabia
 CPU
@@ -18831,6 +18834,7 @@ transmitido
 tardan
 transmitir
 transmisor
+transmition
 inico
 interna
 infro
@@ -27956,6 +27960,7 @@ Bondad
 Bienes
 Binomial
 Broadcast
+Brinda
 XY
 Xg
 XQG

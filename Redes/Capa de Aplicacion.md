@@ -14,7 +14,8 @@ Torrent
 Cuando me quiero comunicar con alguien externamente, abro un socket. El socket nos conecta la aplicacion con [[Introduccion a la materia#Transporte !!|la capa de transporte]]. 
 Esta capa nos da:
 - Una transmition confiable.
-- Sin duplicados, sin perdida, sin delay.
+- Sin duplicados
+- Sin perdida, sin delay.
 - Brinda un servicio de caudal, controlado a que velocidad recibo las cosas.
 - Sincronizacion (que en todos lados se vea lo mismo)
 - Seguridad (privacidad, verificacion de los extremos, integridad de los datos)

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Protocolos",
+      "path": "Redes/Protocolos.md"
+    },
+    {
       "basename": "Metricas de Performance",
       "path": "Redes/Metricas de Performance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Arquitectura",
       "path": "Ingeneniería del Software I/Arquitectura.md"
-    },
-    {
-      "basename": "Programación Lineal",
-      "path": "Teoría de Algoritmos/Programación Lineal.md"
     }
   ],
   "omittedPaths": [],

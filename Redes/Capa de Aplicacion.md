@@ -19,3 +19,5 @@ Esta capa nos da:
 - Brinda un servicio de caudal, controlado a que velocidad recibo las cosas.
 - Sincronizacion (que en todos lados se vea lo mismo)
 - Seguridad (privacidad, verificacion de los extremos, integridad de los datos)
+
+

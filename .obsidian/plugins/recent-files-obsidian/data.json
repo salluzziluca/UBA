@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
+    },
+    {
       "basename": "Capa de Aplicacion",
       "path": "Redes/Capa de Aplicacion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Programación Lineal",
       "path": "Teoría de Algoritmos/Programación Lineal.md"
-    },
-    {
-      "basename": "Estimacion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
     }
   ],
   "omittedPaths": [],

@@ -42,7 +42,7 @@ Multicast: de uno a un grupo.
 
 
 ### Aplicacion !!
-DNS, VPN. 
+DNS, VPN y etc son realmente de servicio, un usuario no hace un req 
 
 ### Transporte !!
 

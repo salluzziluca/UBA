@@ -30,7 +30,7 @@ Insercion vs propagacion
 La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso
 
 En distancias largas prepondera el tiempo de propagacion 
-En distancias cortas, el tiempo de insercion, Casi nunca son distancias cortas jajas
+En distancias cortas, el tiempo de insercion, Casi nunca son distancias cortas y, ademas, los enlaces hoy en dia son muy poderosos.
 	El tiempo de encolado es muy variable, es el mas complicado.
 
 ## Packet Lost 

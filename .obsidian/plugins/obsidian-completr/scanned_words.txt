@@ -2296,6 +2296,7 @@ current
 check
 cortan
 carteles
+conecta
 de
 dispositivos
 del
@@ -3282,6 +3283,7 @@ demora
 despreciarse
 distancias
 desborda
+datacenteres
 gestion
 gran
 guarda
@@ -4769,6 +4771,8 @@ encuesta
 expandiendo
 estimulo
 encolado
+enormes
+externamente
 servicios
 son
 su
@@ -5773,6 +5777,7 @@ subir
 subutilizamos
 stransfieren
 salidas
+ssh
 par
 por
 punto
@@ -8569,6 +8574,7 @@ altas
 armado
 alarmas
 ascensor
+abro
 hardware
 heap
 hay
@@ -9101,6 +9107,7 @@ humano
 honorario
 historica
 host
+http
 que
 queda
 quien
@@ -13417,6 +13424,7 @@ rechazarla
 rechazar
 router
 rotonda
+robusto
 operacion
 orden
 operaciones
@@ -15117,6 +15125,7 @@ voluntario
 vigencia
 velocidades
 velocidadcalc
+verdaderamente
 Application
 API
 Asigna
@@ -15676,6 +15685,7 @@ Asamblea
 Acciones
 Acci
 Art
+Arquitecturas
 Programming
 Procesos
 Partes
@@ -16310,6 +16320,7 @@ Proporci
 Propagacion
 PING
 PONG
+Peer
 Interface
 ID
 Instructions
@@ -20311,6 +20322,7 @@ fraude
 ficciones
 finalidad
 falsa
+fidelidad
 Nombre
 Notas
 Not
@@ -23042,6 +23054,7 @@ Transporte
 Trip
 Throughput
 Tasa
+Torrent
 Realiza
 REgistrys
 Rango
@@ -24288,6 +24301,7 @@ blicas
 bis
 bilateral
 binomial
+burdo
 will
 words
 with

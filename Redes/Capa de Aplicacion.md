@@ -10,4 +10,5 @@ Esto nos lleva a tener datacenteres enormes
 ### Peer to Peer (p2p)
 Torrent
 
-##
+## Comunicación entre procesos
+Cuando me quiero comunicar con alguien externamente, abro un socket. 

@@ -11,4 +11,5 @@ Esto nos lleva a tener datacenteres enormes
 Torrent
 
 ## Comunicación entre procesos
-Cuando me quiero comunicar con alguien externamente, abro un socket. El socket nos conecta la aplicacion con [[Introduccion a la materia#Transporte !!|la capa de transporte]]
+Cuando me quiero comunicar con alguien externamente, abro un socket. El socket nos conecta la aplicacion con [[Introduccion a la materia#Transporte !!|la capa de transporte]]. 
+Este nos deberia dar una transmition confiable. Sin duplicados, sin perdida, sin delay. Brinda un servicio de a que vel

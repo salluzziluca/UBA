@@ -10,4 +10,6 @@ Hay un tiempo de espera, el tiempo del buffer, el tiempo de encolado. Depende de
 
 Una vez que el paquete entra al router tiene que mirar para que lado va, ese es el tiempo de procesamiento. 
 
-Una vez que ya se sabe la salida, 
+Una vez que ya se sabe la salida, el enlace, se tarda un tiempo entre que el paquete se termino de procesar y entra en el enlace. Ese es el tiempo de 
+
+Luego esta el tiempo de propagacion

@@ -955,6 +955,7 @@ Limitada
 Limitaci
 Leyes
 Legislativo
+Latencia
 capa
 controlado
 cantidad
@@ -2293,6 +2294,7 @@ conocida
 conoc
 current
 check
+cortan
 de
 dispositivos
 del
@@ -3275,6 +3277,10 @@ decisi
 donaci
 dividendo
 decompress
+demora
+despreciarse
+distancias
+desborda
 gestion
 gran
 guarda
@@ -4760,6 +4766,8 @@ esenciales
 empleada
 encuesta
 expandiendo
+estimulo
+encolado
 servicios
 son
 su
@@ -5759,6 +5767,10 @@ sueldos
 subi
 sacarte
 settings
+sensibles
+subir
+subutilizamos
+stransfieren
 par
 por
 punto
@@ -6906,6 +6918,10 @@ promociona
 palette
 provedores
 propaga
+producciones
+parque
+piso
+prepondera
 la
 las
 le
@@ -7543,6 +7559,8 @@ legales
 laborales
 legal
 librer
+largas
+laque
 agnosticos
 apps
 al
@@ -8547,6 +8565,8 @@ alternativa
 aprobas
 altas
 armado
+alarmas
+ascensor
 hardware
 heap
 hay
@@ -9078,6 +9098,7 @@ hipotesis
 humano
 honorario
 historica
+host
 que
 queda
 quien
@@ -11351,6 +11372,8 @@ Contexto
 Compar
 Conectividad
 Cambia
+Ciertas
+COLA
 Es
 El
 Estos
@@ -12006,6 +12029,7 @@ Ejecutivo
 Econom
 Evaluar
 Excalidraw
+Ejercitacion
 kernel
 kt
 kU
@@ -13951,6 +13975,7 @@ obligaciones
 obligan
 obligatorias
 obligatoria
+origina
 nombre
 nuevo
 nica
@@ -14513,6 +14538,7 @@ negociado
 normativa
 nacionales
 negocian
+nanosegundos
 via
 vuelve
 viven
@@ -15084,6 +15110,7 @@ variandi
 voluntario
 vigencia
 velocidades
+velocidadcalc
 Application
 API
 Asigna
@@ -16274,6 +16301,9 @@ PYMES
 Proh
 Plantear
 Proporci
+Propagacion
+PING
+PONG
 Interface
 ID
 Instructions
@@ -16817,6 +16847,7 @@ Identifying
 Inferencia
 IVA
 Imagen
+Impacta
 Un
 UNIX
 UBA
@@ -18779,6 +18810,10 @@ terceros
 testeando
 tiers
 transmision
+transmitido
+tardan
+transmitir
+transmisor
 inico
 interna
 infro
@@ -19644,6 +19679,8 @@ incumplen
 intercambiar
 internacionales
 insumos
+industriales
+insertado
 fijo
 file
 fork
@@ -22996,6 +23033,9 @@ Tps
 Tiers
 Tier
 Transporte
+Trip
+Throughput
+Tasa
 Realiza
 REgistrys
 Rango
@@ -23663,6 +23703,7 @@ Retribuci
 Rige
 Responsabilidad
 Requiere
+Retardo
 bien
 by
 be
@@ -25135,6 +25176,7 @@ Valle
 Verosimilitud
 Varianza
 Viajar
+Varia
 OPTIONS
 Operativos
 Orden

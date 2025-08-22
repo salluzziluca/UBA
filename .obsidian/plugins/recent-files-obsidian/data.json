@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Router",
+      "path": "Redes/Router.md"
+    },
+    {
       "basename": "Introduccion a la materia",
       "path": "Redes/Introduccion a la materia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Estimacion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
-    },
-    {
-      "basename": "Algoritmos de Aproximación",
-      "path": "Teoría de Algoritmos/Algoritmos de Aproximación.md"
     }
   ],
   "omittedPaths": [],

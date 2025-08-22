@@ -7,4 +7,5 @@ Es Cliente Servidor.
 Permite transmitir texto formateado, imagenes, multimedia y mil cosas mas. 
 - conexiones:
 	- no persistentes (1 conexion por elemento)
-	- persitente: puede mandar v
+	- persitente: puede mandar varios elementos juntos
+- Cacheo de webs. Permitia utilizar copias locales. En servidores de cacheos.

@@ -23,4 +23,9 @@ Brinda tambien:
 ### Top Levels Domains TDLs
 ![[Pasted image 20250822205330.png]]
 
-Al estar todo distribuido cada uno se encarga de su propias direcciones. Le pregunto a .AR donde estan los .UBA, le pregunta a .UBA donde estan los .FI... y asi... Eso es una consulta iterativa 
+Al estar todo distribuido cada uno se encarga de su propias direcciones. Le pregunto a .AR donde estan los .UBA, le pregunta a .UBA donde estan los .FI... y asi... Eso es una consulta iterativa. Uno va preguntando uno por uno.
+
+
+Cuando uno le pregunta al DNS local, este si no lo tiene cacheado, hace eso.
+
+Para nosotros, usuario final, estariamos haciendo 

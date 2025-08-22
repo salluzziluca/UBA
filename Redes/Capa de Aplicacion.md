@@ -17,4 +17,4 @@ Esta capa nos da:
 - Sin duplicados, sin perdida, sin delay.
 - Brinda un servicio de caudal, controlado a que velocidad recibo las cosas.
 - Sincronizacion (que en todos lados se vea lo mismo)
-- Seguridad (privacidad, verificaicon de los extremos, integridad de los datos)
+- Seguridad (privacidad, verificacion de los extremos, integridad de los datos)

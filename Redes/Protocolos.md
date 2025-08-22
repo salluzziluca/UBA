@@ -13,3 +13,4 @@ Permite transmitir texto formateado, imagenes, multimedia y mil cosas mas.
 ## DNS 
 Traduce o linkea un nombre con una IP. El nombre es faicl de recordar para nosotros. La IP es facil de recordar para las maquinas.
 Es una [[Bases de Datos]] jerarquica y distribuida.
+para la misma IP puede haber diferentes nombres.

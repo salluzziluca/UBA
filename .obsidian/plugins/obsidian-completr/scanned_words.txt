@@ -2295,6 +2295,7 @@ conoc
 current
 check
 cortan
+carteles
 de
 dispositivos
 del
@@ -5771,6 +5772,7 @@ sensibles
 subir
 subutilizamos
 stransfieren
+salidas
 par
 por
 punto
@@ -9570,6 +9572,7 @@ qdd
 qkS
 qued
 quo
+queue
 utilizados
 un
 una
@@ -13412,6 +13415,8 @@ rechazo
 rechaz
 rechazarla
 rechazar
+router
+rotonda
 operacion
 orden
 operaciones
@@ -13976,6 +13981,7 @@ obligan
 obligatorias
 obligatoria
 origina
+orienta
 nombre
 nuevo
 nica

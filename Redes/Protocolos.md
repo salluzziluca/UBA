@@ -20,4 +20,5 @@ Brinda tambien:
 - Mail server aliasing
 - Load distribution 
 
-### Top Levels Do
+### Top Levels Domains TDLs
+![[Pasted image 20250822205330.png]]

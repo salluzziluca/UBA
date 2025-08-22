@@ -45,7 +45,7 @@ Multicast: de uno a un grupo.
 DNS, VPN y etc son realmente de servicio, un usuario no hace un request a DNS. Las que son "verdaderamente" de aplicaciones son las de arriba (http, ssh, etc) 
 
 ### Transporte !!
-
+formas de enviar paquetes. 
 
 ### Red !!
 donde empieza a tener informacion. Cambia entre los diferentes nodos que componen la red. Aca termina la parte logica de transmision y de armado de un paquete

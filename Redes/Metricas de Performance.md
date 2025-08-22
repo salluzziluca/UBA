@@ -64,4 +64,4 @@ Tasa a laque stransfieren bits entre transmisor/receptor
 
 
 ## Jitter (variabilidad de la demora)
-Sube y baja la latencia 
+Sube y baja la latencia.

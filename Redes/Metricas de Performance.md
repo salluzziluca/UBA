@@ -31,7 +31,7 @@ La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que t
 
 En distancias largas prepondera el tiempo de propagacion 
 En distancias cortas, el tiempo de insercion, Casi nunca son distancias cortas jajas
-El tiempo de encolado es muy variable, es el mas complicado.
+	El tiempo de encolado es muy variable, es el mas complicado.
 
 ## Packet Lost 
 

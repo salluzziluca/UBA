@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Redes/Untitled.md"
+    },
+    {
       "basename": "Introduccion a la materia",
       "path": "Redes/Introduccion a la materia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Algoritmos de Aproximación",
       "path": "Teoría de Algoritmos/Algoritmos de Aproximación.md"
-    },
-    {
-      "basename": "9.0 Estadística",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.0 Estadística.md"
     }
   ],
   "omittedPaths": [],

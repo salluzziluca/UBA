@@ -1,3 +1,5 @@
+formulas:
+  Untitled: if file
 views:
   - type: table
     name: Table
@@ -6,6 +8,7 @@ views:
       - file.ctime
       - file.folder
       - file.size
+      - formula.Untitled
     sort:
       - property: file.size
         direction: DESC

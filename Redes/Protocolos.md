@@ -32,4 +32,9 @@ Para nosotros, usuario final, estariamos haciendo una consulta recursiva. Se lo 
 
 Los roots no consultan recursivas, si uno les consulta simplemente dan la direccion a la que ir a consultar. Pero nunca te van a resolver la consulta ellos.
 
-### Tipos de consult
+### Tipos de consultas 
+#### Autorizadas o no 
+
+
+#### Recursivas o iterativas 
+RecursiMi server averigua la respuesta y me la da, no se que hizo.

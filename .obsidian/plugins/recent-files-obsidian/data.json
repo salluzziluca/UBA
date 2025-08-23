@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dato",
+      "path": "Base de Datos/Dato.md"
+    },
+    {
+      "basename": "Capa de Aplicacion",
+      "path": "Redes/Capa de Aplicacion.md"
+    },
+    {
       "basename": "1.0 Desarrollo de Software",
       "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "viaje de un paquete",
       "path": "Excalidraw/viaje de un paquete.md"
-    },
-    {
-      "basename": "Capa de Aplicacion",
-      "path": "Redes/Capa de Aplicacion.md"
     },
     {
       "basename": "Protocolos",
@@ -195,10 +199,6 @@
     {
       "basename": "Derecho Constitucional y Civil",
       "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
-    },
-    {
-      "basename": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled",
-      "path": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled.md"
     }
   ],
   "omittedPaths": [],

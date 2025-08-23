@@ -41,3 +41,8 @@ Recursiva->Mi server averigua la respuesta y me la da, no se que hizo.
 Iterativa-> Ir uno por uno buscando. 
 
 
+### Tipo 
+A: le pido una IP
+NS: le pido un servidor DNS
+MX: mail exanger 
+C

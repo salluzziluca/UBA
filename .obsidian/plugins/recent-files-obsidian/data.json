@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Capa de Aplicacion",
-      "path": "Redes/Capa de Aplicacion.md"
+      "basename": "1.0 Desarrollo de Software",
+      "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
     },
     {
-      "basename": "Protocolos",
-      "path": "Redes/Protocolos.md"
+      "basename": "9.4",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.4.md"
+    },
+    {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
     {
       "basename": "Introduccion a la materia",
       "path": "Redes/Introduccion a la materia.md"
-    },
-    {
-      "basename": "Organismos Normalizadores",
-      "path": "Redes/Organismos Normalizadores.md"
-    },
-    {
-      "basename": "Metricas de Performance",
-      "path": "Redes/Metricas de Performance.md"
     },
     {
       "basename": "Router",
@@ -27,6 +23,22 @@
     {
       "basename": "viaje de un paquete",
       "path": "Excalidraw/viaje de un paquete.md"
+    },
+    {
+      "basename": "Capa de Aplicacion",
+      "path": "Redes/Capa de Aplicacion.md"
+    },
+    {
+      "basename": "Protocolos",
+      "path": "Redes/Protocolos.md"
+    },
+    {
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
+    },
+    {
+      "basename": "Metricas de Performance",
+      "path": "Redes/Metricas de Performance.md"
     },
     {
       "basename": "Redes",
@@ -47,10 +59,6 @@
     {
       "basename": "1.0 Data Science",
       "path": "Organización de Datos/1. Data Science/1.0 Data Science.md"
-    },
-    {
-      "basename": "Hipotesis",
-      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
     {
       "basename": "Calendarios",
@@ -191,14 +199,6 @@
     {
       "basename": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled",
       "path": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled.md"
-    },
-    {
-      "basename": "Contratos y Sociedades",
-      "path": "Empresas de Base Tecnológica I/Contratos y Sociedades.md"
-    },
-    {
-      "basename": "Arquitectura",
-      "path": "Ingeneniería del Software I/Arquitectura.md"
     }
   ],
   "omittedPaths": [],

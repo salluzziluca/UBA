@@ -15,3 +15,7 @@ views:
     columnSize:
       file.name: 407
       file.ctime: 185
+  - type: cards
+    name: View
+    cardSize: 230
+    imageFit: contain

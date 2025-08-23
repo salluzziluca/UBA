@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
       "basename": "Dato",
       "path": "Base de Datos/Dato.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Describe the Personas",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
-      "basename": "Derecho Constitucional y Civil",
-      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
     }
   ],
   "omittedPaths": [],

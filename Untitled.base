@@ -5,3 +5,6 @@ views:
       - file.name
       - file.ctime
       - file.folder
+    columnSize:
+      file.name: 407
+      file.ctime: 185

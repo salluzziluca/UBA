@@ -45,4 +45,5 @@ Iterativa-> Ir uno por uno buscando.
 A: le pido una IP
 NS: le pido un servidor DNS
 MX: mail exanger 
-C
+CNAME: nombre canonico del host (la url, creo)
+SOA:start of zone of authority

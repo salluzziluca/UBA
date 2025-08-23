@@ -2445,6 +2445,8 @@ cZo
 cyH
 cZi
 cum
+ctime
+columnSize
 de
 dispositivos
 del
@@ -7314,6 +7316,7 @@ pno
 pqv
 pzt
 pages
+property
 la
 las
 le
@@ -21741,6 +21744,7 @@ fsN
 fBv
 fZm
 fsYk
+folder
 Nombre
 Notas
 Not

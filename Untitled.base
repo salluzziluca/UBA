@@ -5,6 +5,10 @@ views:
       - file.name
       - file.ctime
       - file.folder
+      - file.size
+    sort:
+      - property: file.size
+        direction: DESC
     columnSize:
       file.name: 407
       file.ctime: 185

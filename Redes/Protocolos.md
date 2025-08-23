@@ -48,3 +48,7 @@ MX: mail exanger
 CNAME: nombre canonico del host (la url, creo)
 SOA:start of zone of authority
 PTR: pointer of record. (no entendi estos ultimos)
+
+
+## P2P
+

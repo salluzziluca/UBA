@@ -10692,6 +10692,7 @@ Student
 Seg
 Saving
 Seguridad
+Sync
 Calls
 Cmabia
 CPU
@@ -15690,6 +15691,7 @@ Acciones
 Acci
 Art
 Arquitecturas
+Async
 Programming
 Procesos
 Partes

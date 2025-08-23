@@ -37,4 +37,5 @@ Los roots no consultan recursivas, si uno les consulta simplemente dan la direcc
 
 
 #### Recursivas o iterativas 
-RecursiMi server averigua la respuesta y me la da, no se que hizo.
+Recursiva->Mi server averigua la respuesta y me la da, no se que hizo.
+Iterativa->

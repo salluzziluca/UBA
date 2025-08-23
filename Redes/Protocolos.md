@@ -42,7 +42,7 @@ Iterativa-> Ir uno por uno buscando.
 
 
 ### Tipo 
-A: le pido una IP
+A: le pido una IP(v4)
 NS: le pido un servidor DNS
 MX: mail exanger 
 CNAME: nombre canonico del host (la url, creo)

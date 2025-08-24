@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Router",
+      "path": "Redes/Router.md"
+    },
+    {
       "basename": "Redes",
       "path": "Redes/Redes.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Capa de Aplicacion",
       "path": "Redes/Capa de Aplicacion.md"
-    },
-    {
-      "basename": "Router",
-      "path": "Redes/Router.md"
     },
     {
       "basename": "Untitled",

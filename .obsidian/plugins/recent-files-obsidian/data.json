@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
+      "basename": "Apareo",
+      "path": "Algoritmos y Programación I/Apareo.mp4"
+    },
+    {
+      "basename": "Dato",
+      "path": "Base de Datos/Dato.md"
+    },
+    {
+      "basename": "Capa de Aplicacion",
+      "path": "Redes/Capa de Aplicacion.md"
+    },
+    {
+      "basename": "1.0 Desarrollo de Software",
+      "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
+    },
+    {
+      "basename": "9.4",
+      "path": "Probabilidad y Estadística B/9. Estadística/9.4.md"
+    },
+    {
+      "basename": "Hipotesis",
+      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
+    },
+    {
+      "basename": "Introduccion a la materia",
+      "path": "Redes/Introduccion a la materia.md"
+    },
+    {
+      "basename": "Router",
+      "path": "Redes/Router.md"
+    },
+    {
+      "basename": "viaje de un paquete",
+      "path": "Excalidraw/viaje de un paquete.md"
+    },
+    {
+      "basename": "Protocolos",
+      "path": "Redes/Protocolos.md"
+    },
+    {
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
+    },
+    {
+      "basename": "Metricas de Performance",
+      "path": "Redes/Metricas de Performance.md"
+    },
+    {
+      "basename": "Redes",
+      "path": "Redes/Redes.md"
+    },
+    {
+      "basename": "network",
+      "path": "Excalidraw/network.md"
+    },
+    {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
       "basename": "1.1 Introduccion a Data Science",
       "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
     },
     {
       "basename": "1.0 Data Science",
       "path": "Organización de Datos/1. Data Science/1.0 Data Science.md"
-    },
-    {
-      "basename": "Hipotesis",
-      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     },
     {
       "basename": "Calendarios",
@@ -139,66 +199,6 @@
     {
       "basename": "Empresas de Base Tecnologica I",
       "path": "Empresas de Base Tecnológica I/Empresas de Base Tecnologica I.md"
-    },
-    {
-      "basename": "Describe the Personas",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Describe the Personas.md"
-    },
-    {
-      "basename": "Derecho Constitucional y Civil",
-      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
-    },
-    {
-      "basename": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled",
-      "path": "Función monolítica que maneja toda la lógica de interpretaciónCódigo repetitivo para actualizar el stackDifícil de testear operaciones individualesUntitled.md"
-    },
-    {
-      "basename": "Contratos y Sociedades",
-      "path": "Empresas de Base Tecnológica I/Contratos y Sociedades.md"
-    },
-    {
-      "basename": "Arquitectura",
-      "path": "Ingeneniería del Software I/Arquitectura.md"
-    },
-    {
-      "basename": "Programación Lineal",
-      "path": "Teoría de Algoritmos/Programación Lineal.md"
-    },
-    {
-      "basename": "Estimacion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
-    },
-    {
-      "basename": "Algoritmos de Aproximación",
-      "path": "Teoría de Algoritmos/Algoritmos de Aproximación.md"
-    },
-    {
-      "basename": "9.0 Estadística",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.0 Estadística.md"
-    },
-    {
-      "basename": "charla YPF",
-      "path": "Empresas de Base Tecnológica I/charla YPF.md"
-    },
-    {
-      "basename": "Dato",
-      "path": "Base de Datos/Dato.md"
-    },
-    {
-      "basename": "Bases de Datos",
-      "path": "Base de Datos/Bases de Datos.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Cursos/Agile and Scrum/Kanban.md"
-    },
-    {
-      "basename": "1er Parcial",
-      "path": "Ingeneniería del Software I/1er Parcial.canvas"
     }
   ],
   "omittedPaths": [],

@@ -4,6 +4,12 @@ dg-home: true
 ---
 	#UBA
 # UBA
+[[Fisica]]
+[[Analísis Matemático I]]
+[[Quimica]]
+[[IPC]]
+[[Álgebra I]]
+[[Sociedad y Estado]]
 [[Análisis Matemático II]]
 [[Física I]]
 [[Algoritmos y Programacion I]]
@@ -22,9 +28,4 @@ dg-home: true
 [[Modelación Numérica]]
 [[Empresas de Base Tecnologica I]]
 [[Gestión del Desarrollo de Sistemas Informáticos]]
-[[Fisica]]
-[[Analísis Matemático I]]
-[[Quimica]]
-[[IPC]]
-[[Álgebra I]]
-[[Sociedad y Estado]]
+[[Redes]]

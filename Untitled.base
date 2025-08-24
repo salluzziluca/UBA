@@ -1,0 +1,21 @@
+formulas:
+  Untitled: if not image
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.folder
+      - file.size
+      - formula.Untitled
+    sort:
+      - property: file.size
+        direction: DESC
+    columnSize:
+      file.name: 407
+      file.ctime: 185
+  - type: cards
+    name: View
+    cardSize: 230
+    imageFit: contain

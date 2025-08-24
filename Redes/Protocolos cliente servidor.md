@@ -42,8 +42,8 @@ Iterativa-> Ir uno por uno buscando.
 
 
 ### Tipo 
-A: le pido una IP(v4)
-NS: le pido un servidor DNS
+A: le doy una ipv4 para que guarde asociada a un hostname
+NS: le doy una DNS para que la guarde asociada a un hostname
 MX: mail exanger 
 CNAME: nombre canonico del host (la url, creo)
 SOA:start of zone of authority

@@ -42,10 +42,10 @@ Iterativa-> Ir uno por uno buscando.
 
 
 ### Tipo 
-A: le doy una ipv4 para que guarde asociada a un hostname
-NS: le doy una DNS para que la guarde asociada a un hostname
-MX: mail exanger 
-CNAME: nombre canonico del host (la url, creo)
+A: le doy una ipv4 para que guarde asociada a un hostname  (relay1.bar.foo.com, 145.37.93.126, A)
+NS: le doy una DNS para que la guarde asociada a un hostname (foo.com, dns.foo.com, NS)
+MX: mail exanger  (foo.com, mail.bar.foo.com, MX)
+CNAME: nombre canonico del host. (foo.com, relay1.bar.foo.com, CNAME)
 SOA:start of zone of authority
 PTR: pointer of record. (no entendi estos ultimos)
 

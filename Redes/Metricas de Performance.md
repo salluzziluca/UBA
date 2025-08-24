@@ -10,7 +10,7 @@ El paquete se origina en un host pero nunca llega a destino.
 ## Latencia 
 
 Retardo entre estimulo y respuesta 
-En la UX. 
+Impacta en la UX. 
 Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan producciones industriales)
 
 ### Que la origina?

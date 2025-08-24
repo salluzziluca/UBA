@@ -17,7 +17,7 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 
 ### Que la origina?
 1. Tiempo de Insercion/transmision
-	Tiempo que demora el parque en ser insertado en el enlace
+	Tiempo que demora el paquete en ser insertado en el enlace
 	$\frac{Largo\_paquete}{velocidad\_{serializacion}}$
 2. Tiempo de propagacion 
 	Depende del medio. Es distancia/velocidad en el medio

@@ -10,8 +10,6 @@ El paquete se origina en un host pero nunca llega a destino.
 ## Latencia 
 
 Retardo entre estimulo y respuesta 
-
-### Impacta
 En la UX. 
 Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan producciones industriales)
 
@@ -26,6 +24,9 @@ Ciertas aplicaciones son sensibles a la latencia (como alarmas que cortan produc
 4. tiempo de encolado
 	Tiempo desde que arriba hasta que es finalmente transmitido.
 	Varia con el trafico, no es el mismo para todos, es aleatorio
+
+
+
 Insercion vs propagacion
 La insercion es lo que tarda la gente en subir al ascensor. Propagacion lo que tardan en llegar al 4to piso
 

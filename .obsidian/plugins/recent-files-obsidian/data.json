@@ -5,20 +5,20 @@
       "path": "Redes/Metricas de Performance.md"
     },
     {
-      "basename": "Router",
-      "path": "Redes/Router.md"
-    },
-    {
-      "basename": "Redes",
-      "path": "Redes/Redes.md"
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
     },
     {
       "basename": "Protocolos cliente servidor",
       "path": "Redes/Protocolos cliente servidor.md"
     },
     {
-      "basename": "Organismos Normalizadores",
-      "path": "Redes/Organismos Normalizadores.md"
+      "basename": "Redes",
+      "path": "Redes/Redes.md"
+    },
+    {
+      "basename": "Router",
+      "path": "Redes/Router.md"
     },
     {
       "basename": "Introduccion a la materia",

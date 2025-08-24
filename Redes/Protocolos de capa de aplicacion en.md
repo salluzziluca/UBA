@@ -50,5 +50,5 @@ SOA:start of zone of authority
 PTR: pointer of record. (no entendi estos ultimos)
 
 
-## P2P
+
 

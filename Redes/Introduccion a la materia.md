@@ -35,7 +35,7 @@ Tier 1 son los ISP (provedores de servicio) y los provedores de contenido mas gr
 ![[Pasted image 20250821184724.png]]
 
 
-##[[Capa de Aplicacion]]
+### [[Capa de Aplicacion]]
 DNS, VPN y etc son realmente de servicio, un usuario no hace un request a DNS. Las que son "verdaderamente" de aplicaciones son las de arriba (http, ssh, etc) 
 
 ### Transporte !!

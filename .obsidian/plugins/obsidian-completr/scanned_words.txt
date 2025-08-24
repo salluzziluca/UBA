@@ -956,6 +956,8 @@ Limitaci
 Leyes
 Legislativo
 Learning
+Latencia
+Levels
 capa
 controlado
 cantidad
@@ -2309,6 +2311,11 @@ clonacion
 clasificaci
 carteles
 caudal
+cortan
+cacheos
+cacheado
+consultan
+canonico
 de
 dispositivos
 del
@@ -3299,6 +3306,11 @@ devuelvan
 decidan
 delegue
 datacenteres
+demora
+despreciarse
+distancias
+desborda
+distribution
 gestion
 gran
 guarda
@@ -4793,6 +4805,9 @@ encolado
 enormes
 externamente
 expandiendo
+estimulo
+estariamos
+exanger
 servicios
 son
 su
@@ -5796,6 +5811,10 @@ spam
 salidas
 sacarte
 ssh
+sensibles
+subir
+subutilizamos
+stransfieren
 par
 por
 punto
@@ -6958,6 +6977,15 @@ privacidad
 promociona
 provedores
 propaga
+producciones
+parque
+piso
+prepondera
+poderosos
+persistentes
+persitente
+pregunto
+preguntando
 la
 las
 le
@@ -7595,6 +7623,9 @@ legales
 laborales
 legal
 librer
+largas
+laque
+linkea
 agnosticos
 apps
 al
@@ -8604,6 +8635,11 @@ abro
 aprobas
 altas
 armado
+alarmas
+ascensor
+aliasing
+averigua
+authority
 hardware
 heap
 hay
@@ -9140,6 +9176,7 @@ hipertensi
 historica
 helic
 http
+host
 que
 queda
 quien
@@ -10723,6 +10760,8 @@ Science
 Scientist
 Seguridad
 Sync
+Sube
+SOA
 Calls
 Cmabia
 CPU
@@ -11414,6 +11453,10 @@ Conocimiento
 Cumplimiento
 Conectividad
 Cambia
+Ciertas
+COLA
+Cacheo
+CNAME
 Es
 El
 Estos
@@ -12070,6 +12113,7 @@ Econom
 Entrega
 Especifica
 Engineer
+Ejercitacion
 kernel
 kt
 kU
@@ -13456,6 +13500,7 @@ recomendar
 router
 rotonda
 robusto
+roots
 operacion
 orden
 operaciones
@@ -14021,6 +14066,7 @@ obligatorias
 ofrec
 orienta
 obligatoria
+origina
 nombre
 nuevo
 nica
@@ -14588,6 +14634,7 @@ nutricionistas
 nutricionista
 negocios
 noticia
+nanosegundos
 via
 vuelve
 viven
@@ -15162,6 +15209,7 @@ verdaderamente
 variantes
 variante
 velocidades
+velocidadcalc
 Application
 API
 Asigna
@@ -15726,6 +15774,7 @@ Analyst
 Areas
 Arquitecturas
 Async
+Autorizadas
 Programming
 Procesos
 Partes
@@ -16358,6 +16407,11 @@ Proh
 Proporciona
 Prototype
 Peer
+Propagacion
+PING
+PONG
+Permitia
+PTR
 Interface
 ID
 Instructions
@@ -16900,6 +16954,9 @@ Incertidumbre
 Identifying
 Inferencia
 IVA
+Impacta
+IETF
+Iterativa
 Un
 UNIX
 UBA
@@ -18195,6 +18252,7 @@ manda
 marcando
 mill
 mac
+multimedia
 tien
 tiene
 todos
@@ -18870,6 +18928,10 @@ tasadas
 transmition
 tiers
 transmision
+transmitido
+tardan
+transmitir
+transmisor
 inico
 interna
 infro
@@ -19737,6 +19799,9 @@ internacionales
 insumos
 innecesario
 interseccion
+industriales
+insertado
+iterativas
 fijo
 file
 fork
@@ -20366,6 +20431,8 @@ fotos
 formaron
 familias
 fidelidad
+formateado
+faicl
 Nombre
 Notas
 Not
@@ -21950,6 +22017,7 @@ Docs
 Define
 DEspues
 DNS
+Domains
 Memoria
 Multivariada
 MORE
@@ -22583,6 +22651,7 @@ MediaMuestral
 Manifestaci
 Modo
 Multicast
+Mail
 Table
 Todos
 This
@@ -23094,6 +23163,11 @@ Tps
 Tiers
 Tier
 Transporte
+Trip
+Throughput
+Tasa
+Traduce
+TDLs
 Realiza
 REgistrys
 Rango
@@ -23762,6 +23836,9 @@ Rige
 Responsabilidad
 Requiere
 Roles
+Retardo
+Recursivas
+Recursiva
 bien
 by
 be
@@ -24775,6 +24852,7 @@ wCi
 wBg
 whaaaaat
 windows
+webs
 VA
 VIEW
 Volumen
@@ -25238,6 +25316,7 @@ Valle
 Verosimilitud
 Varianza
 Viajar
+Varia
 OPTIONS
 Operativos
 Orden
@@ -26667,6 +26746,7 @@ judicial
 justifica
 junio
 jerarqu
+jerarquica
 Ya
 Yourself
 YAGNI
@@ -29244,6 +29324,7 @@ JGa
 JIMkZ
 JWuQu
 Judicial
+Jitter
 Quienes
 Queue
 Quiere
@@ -31534,6 +31615,7 @@ zcY
 zXt
 zZem
 zmax
+zone
 ÄB
 ÄG
 Äo

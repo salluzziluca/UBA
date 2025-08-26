@@ -12,7 +12,9 @@ También conocido como "Modelo Paralelismo Fork Join".
 
 - Estas no deben bloquearse, excepto para esperar al final a las otras que siguen corriendo.
 
-Performance: en el caso idel t_secuencial/N_threads
+Performance: en el caso idel t_secuencial/N_threads. Varia por el tamanio de las tareas. Si una tarea es mucho mas pesada, va a tardar mas.
+
+La desventaja es que requiere que las unidades de trabajo sean aisladas.
 
 
 Ejemplo: Programa basico secuencial 

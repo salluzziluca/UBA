@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Sockets",
-      "path": "Taller de Programación/Sockets.md"
+      "basename": "Rayon",
+      "path": "Programacion Concurrente/Rayon.md"
     },
     {
       "basename": "Concurrencia",
       "path": "Taller de Programación/Concurrencia.md"
+    },
+    {
+      "basename": "Sockets",
+      "path": "Taller de Programación/Sockets.md"
     },
     {
       "basename": "Modelo Fork-Join",
@@ -195,10 +199,6 @@
     {
       "basename": "Intro",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Intro.md"
-    },
-    {
-      "basename": "flashcards de parciales",
-      "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
     }
   ],
   "omittedPaths": [],

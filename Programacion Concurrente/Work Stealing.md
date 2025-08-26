@@ -16,3 +16,5 @@ Ej: Tengo todas tareas grandes de abrir leer y contar las lineas de 10 archivos.
 
 De esa forma tendria al principio de la cola tareas grandes y al final tareas mas chicas. 
 
+Los threads que estan al pedo buscan al principio y van a agarrar tareas mas grandes. 
+

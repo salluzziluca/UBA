@@ -4,4 +4,4 @@ dg-publish: true
 ---
 También conocido como "Modelo Paralelismo Fork Join".
 
-
+>[!info] Modelo para paralelizar computo

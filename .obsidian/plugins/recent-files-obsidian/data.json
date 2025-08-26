@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sockets",
+      "path": "Taller de Programación/Sockets.md"
+    },
+    {
+      "basename": "Concurrencia",
+      "path": "Taller de Programación/Concurrencia.md"
+    },
+    {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "flashcards de parciales",
       "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
-    },
-    {
-      "basename": "Régimen de Promoción de la Economía del Conocimiento",
-      "path": "Empresas de Base Tecnológica I/Régimen de Promoción de la Economía del Conocimiento.md"
-    },
-    {
-      "basename": "flashcards",
-      "path": "Empresas de Base Tecnológica I/flashcards.md"
     }
   ],
   "omittedPaths": [],

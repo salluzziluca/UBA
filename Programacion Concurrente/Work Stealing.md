@@ -12,4 +12,4 @@ Si su cola esta vacia, el thread no tiene mas trabajo y trata de robar tareas de
 
 Lo importante es que las tareas del final van a ser las mas chicas y las de el principio las mas grandes. 
 
-Ej: Tengo todas tareas grandes de abrir leer y contar las lineas de un archivo. Agarro la primera y ejecuto la primera tarea (abrir) eso 
+Ej: Tengo todas tareas grandes de abrir leer y contar las lineas de 10 archivos. Agarro  y ejecuto la primera tarea (abrir leer y contar lineas de 10 archivos).  La primera subtarea va a ser hacer eso con el primer archivo. Al hacer eso con el primer 

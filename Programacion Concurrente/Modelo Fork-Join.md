@@ -41,5 +41,25 @@ con fork join se veria asi
 
 
 ```rust
+use std::io;
+
+fn process_files_in_parallel(filenames: Vec<String>) -> io::Result<()> {
+    const NTHREADS: usize = 8;
+
+    let worklists = split_vec_into_chunks(filenames, NTHREADS);
+    let mut thread_handles = Vec::new();
+
+    for worklist in worklists {
+        thread_handles.push(std::thread::spawn(move || {
+            process_files(worklist)
+        }));
+    }
+
+    for handle in thread_handles {
+        handle.join().unwrap()?; 
+    }
+
+    Ok(())
+}
 
 ```

@@ -4,8 +4,9 @@ dg-publish: true
 ---
 También conocido como "Modelo Paralelismo Fork Join".
 
->[!info] Modelo para paralelizar computo. Nos asegura que es libre de [[race conditi]]
+>[!info] Modelo para paralelizar computo. Nos asegura que es libre de [[Race Condition]]
 
+El computo (task) se divide en sub computos menores (subtasks). Estos se unen en un join para construir la solucion al computo inicial.
 
 Ejemplo: Programa basico secuencial 
 

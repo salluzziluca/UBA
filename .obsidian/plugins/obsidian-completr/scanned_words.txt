@@ -2317,6 +2317,7 @@ cacheado
 consultan
 canonico
 cultra
+computos
 de
 dispositivos
 del
@@ -4809,6 +4810,8 @@ expandiendo
 estimulo
 estariamos
 exanger
+excepto
+esperar
 servicios
 son
 su
@@ -5816,6 +5819,9 @@ sensibles
 subir
 subutilizamos
 stransfieren
+subtasks
+subtareas
+siguen
 par
 por
 punto
@@ -6988,6 +6994,7 @@ persitente
 pregunto
 preguntando
 paralelizar
+pesada
 la
 las
 le
@@ -8643,6 +8650,7 @@ aliasing
 averigua
 authority
 acronimo
+aisladas
 hardware
 heap
 hay
@@ -15215,6 +15223,7 @@ variantes
 variante
 velocidades
 velocidadcalc
+veria
 Application
 API
 Asigna
@@ -18938,6 +18947,7 @@ transmitido
 tardan
 transmitir
 transmisor
+tamanio
 inico
 interna
 infro
@@ -19808,6 +19818,7 @@ interseccion
 industriales
 insertado
 iterativas
+idel
 fijo
 file
 fork
@@ -27602,6 +27613,7 @@ GYI
 GuXu
 GefCQ
 Garantiza
+Generamos
 BX
 Bit
 Box

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Work Stealing",
-      "path": "Programacion Concurrente/Work Stealing.md"
-    },
-    {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
+    },
+    {
+      "basename": "Work Stealing",
+      "path": "Programacion Concurrente/Work Stealing.md"
     },
     {
       "basename": "Race Condition",

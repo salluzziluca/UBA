@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Modelo Fork-Join",
+      "path": "Programacion Concurrente/Modelo Fork-Join.md"
+    },
+    {
       "basename": "Devops",
       "path": "Ingeneria del Software II/Devops.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ss",
       "path": "Empresas de Base Tecnológica I/ss.md"
-    },
-    {
-      "basename": "Derecho Laboral",
-      "path": "Empresas de Base Tecnológica I/Derecho Laboral.md"
     }
   ],
   "omittedPaths": [],

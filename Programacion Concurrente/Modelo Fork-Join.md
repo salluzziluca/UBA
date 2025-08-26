@@ -38,3 +38,8 @@ Ok(())
 con fork join se veria asi 
 
 ![[Pasted image 20250826201309.png]]
+
+
+```rust
+
+```

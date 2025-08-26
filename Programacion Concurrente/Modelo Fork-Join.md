@@ -10,7 +10,7 @@ El computo (task) se divide en sub computos menores (subtasks). Estos se unen en
 
 Estas subtareas se pueden crear en cualquier momento de la ejecucion de la tarea 
 
-Estas no deben bloquearse, excepto para esperar al final a las otras que s
+Estas no deben bloquearse, excepto para esperar al final a las otras que siguen corriendo.
 
 Ejemplo: Programa basico secuencial 
 

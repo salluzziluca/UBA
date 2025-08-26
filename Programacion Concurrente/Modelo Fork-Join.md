@@ -64,4 +64,4 @@ fn process_files_in_parallel(filenames: Vec<String>) -> io::Result<()> {
 
 ```
 
-Tambien
+Tambien se puede utilizar ![[Work Stealing]]

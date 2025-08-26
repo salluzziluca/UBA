@@ -27,11 +27,20 @@ Internamente, crea un worker thread por núcleo de CPU.
 Implementa: Work stealing.
 Los métodos .reduce() y .reduce_with() se usan para combinar
 los resultados.
+```rust
 use rayon::prelude::*;
+
 let s = ['a', 'b', 'c', 'd', 'e']
-.par_iter()
-.map(|c: &char| format!("{}", c))
-.reduce(|| String::new(),
-|mut a: String, b: String|
-{ a.push_str(&b); a });
+    .par_iter()
+    .map(|c: &char| format!("{}", c))
+    .reduce(
+        || String::new(),
+        |mut a: String, b: String| {
+            a.push_str(&b);
+            a
+        },
+    );
+
 assert_eq!(s, "abcde");
+
+```

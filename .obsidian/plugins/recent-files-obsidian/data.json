@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Race Condition",
+      "path": "Programacion Concurrente/Race Condition.md"
+    },
+    {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Patrones de Diseño",
       "path": "Ingeneniería del Software I/Patrones de Diseño.md"
-    },
-    {
-      "basename": "ss",
-      "path": "Empresas de Base Tecnológica I/ss.md"
     }
   ],
   "omittedPaths": [],

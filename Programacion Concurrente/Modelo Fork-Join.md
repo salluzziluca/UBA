@@ -6,7 +6,11 @@ También conocido como "Modelo Paralelismo Fork Join".
 
 >[!info] Modelo para paralelizar computo. Nos asegura que es libre de [[Race Condition]]
 
-El computo (task) se divide en sub computos menores (subtasks). Estos se unen en un join para construir la solucion al computo inicial.
+El computo (task) se divide en sub computos menores (subtasks). Estos se unen en un join para construir la solucion al computo inicial. Generamos un arboles de subtareas.
+
+Estas subtareas se pueden crear en cualquier momento de la ejecucion de la tarea 
+
+Estas no deben bloquearse, excepto para esperar al final a las otras que s
 
 Ejemplo: Programa basico secuencial 
 

@@ -6987,6 +6987,7 @@ persistentes
 persitente
 pregunto
 preguntando
+paralelizar
 la
 las
 le
@@ -16416,6 +16417,7 @@ PING
 PONG
 Permitia
 PTR
+Paralelismo
 Interface
 ID
 Instructions
@@ -21478,6 +21480,7 @@ Facultad
 Fin
 Fomentar
 Factory
+Fork
 Descriptors
 Descriptor
 Devuelve

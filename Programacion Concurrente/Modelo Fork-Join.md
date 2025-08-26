@@ -16,6 +16,8 @@ Performance: en el caso idel t_secuencial/N_threads. Varia por el tamanio de las
 
 La desventaja es que requiere que las unidades de trabajo sean aisladas.
 
+![[Pasted image 20250826201252.png]]
+
 
 Ejemplo: Programa basico secuencial 
 
@@ -32,3 +34,7 @@ Ok(())
 ```
 
 ![[Pasted image 20250826194846.png]]
+
+con fork join se veria asi 
+
+![[Pasted image 20250826201309.png]]

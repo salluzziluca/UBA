@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Work Stealing",
+      "path": "Programacion Concurrente/Work Stealing.md"
+    },
+    {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "flashcards",
       "path": "Empresas de Base Tecnológica I/flashcards.md"
-    },
-    {
-      "basename": "Preguntas segundo parcial",
-      "path": "Empresas de Base Tecnológica I/Preguntas segundo parcial.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Modelo Fork-Join",
+      "path": "Programacion Concurrente/Modelo Fork-Join.md"
+    },
+    {
       "basename": "Crossbeam",
       "path": "Programacion Concurrente/Crossbeam.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Sockets",
       "path": "Taller de Programación/Sockets.md"
-    },
-    {
-      "basename": "Modelo Fork-Join",
-      "path": "Programacion Concurrente/Modelo Fork-Join.md"
     },
     {
       "basename": "Work Stealing",

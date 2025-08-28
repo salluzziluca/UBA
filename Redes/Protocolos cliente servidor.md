@@ -10,6 +10,8 @@ Permite transmitir texto formateado, imagenes, multimedia y mil cosas mas.
 	- persitente: puede mandar varios elementos juntos. Queda abierta hasta que se envia un mensaje para cerrarla.
 - Cacheo de webs. Permitia utilizar copias locales. En servidores de cacheos.
 
+
+
 ## DNS 
 Traduce o linkea un nombre con una IP. El nombre es faicl de recordar para nosotros. La IP es facil de recordar para las maquinas.
 Es una [[Bases de Datos]] jerarquica y distribuida.

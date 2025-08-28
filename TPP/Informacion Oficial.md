@@ -26,4 +26,15 @@ cursada anual -> 12 horas semanales de dedicacion
 
 Se eligen preferencia de tema y tutor.
 Se asigna un tutor 
-Se elabora la propuesta 
+Se elabora la propuesta-> Se aprueba 
+Y se arranca a desarrollar
+.
+.
+.
+Entrega de informe intermedio 
+
+Desarrollo segundo cuatrimestre 
+.
+.
+.
+Entrega 

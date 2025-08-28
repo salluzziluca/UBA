@@ -13,4 +13,6 @@ Integra contenidos y habilidades de toda la carrera. Es un *ultimo gran proyecto
 >[!important] Tiene que teneruna innovacio.Sea metodologica, tecnica o tematica. 
 
 
-Se entrega un 
+Se entrega un producto completo o un MVP de software o hardware-software. 
+
+

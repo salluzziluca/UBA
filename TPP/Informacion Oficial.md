@@ -10,3 +10,7 @@ Integra contenidos y habilidades de toda la carrera. Es un *ultimo gran proyecto
 
 >[!info] Tiene en cuenta el perifl del ingeniero en informatica (ver plan) 
 
+>[!important] Tiene que teneruna innovacio.Sea metodologica, tecnica o tematica. 
+
+
+Se entrega un 

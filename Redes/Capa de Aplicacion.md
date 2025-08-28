@@ -5,7 +5,8 @@ dg-publish: true
 ## Arquitecturas 
 
 ### Cliente Servidor 
-Esto nos lleva a tener datacenteres enormes
+Un servidor gestiona muchos request. Usando [[Protocolos cliente servidor|protocolos]]
+Esto nos lleva a tener datacenteres enormes para gestionar todo.
 
 ### Peer to Peer (p2p)
 Torrent

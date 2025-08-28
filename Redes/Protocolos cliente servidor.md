@@ -40,15 +40,22 @@ Los roots no consultan recursivas, si uno les consulta simplemente dan la direcc
 Recursiva->Mi server averigua la respuesta y me la da, no se que hizo.
 Iterativa-> Ir uno por uno buscando. 
 
+### Tipo
+- **A**: Mapea **hostname → dirección IPv4**.
+    - Ej: `(relay1.bar.foo.com, 145.37.93.126, A)`
+    - “Si pido la IP de relay1.bar.foo.com, obtengo 145.37.93.126”.
 
-### Tipo 
-A: le pido una IP(v4)
-NS: le pido un servidor DNS
-MX: mail exanger 
-CNAME: nombre canonico del host (la url, creo)
-SOA:start of zone of authority
-PTR: pointer of record. (no entendi estos ultimos)
+- **NS**: Indica qué servidor DNS es **autoritativo** para una zona.
+    - Ej: `(foo.com, dns.foo.com, NS)`
+    - “Para info de foo.com, preguntá a dns.foo.com”.
+
+- **CNAME**: Define un **alias** de un hostname.
+    - Ej: `(foo.com, relay1.bar.foo.com, CNAME)`
+    - “foo.com es un alias de relay1.bar.foo.com”.
+
+- **MX**: Específico para correo. Indica el servidor de mail oficial.
+    - Ej: `(foo.com, mail.bar.foo.com, MX)`
+    - “Los mails de foo.com se entregan a mail.bar.foo.com”.
 
 
-## P2P
 

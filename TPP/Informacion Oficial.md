@@ -20,3 +20,10 @@ Se entrega un producto completo o un MVP de software o hardware-software.
 12 creditros -> 384 horas por estudiante 
 
 cursada anual -> 12 horas semanales de dedicacion
+
+
+## Cronograma 
+
+Se eligen preferencia de tema y tutor.
+Se asigna un tutor 
+Se elabora la propuesta 

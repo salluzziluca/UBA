@@ -16,3 +16,5 @@ Integra contenidos y habilidades de toda la carrera. Es un *ultimo gran proyecto
 Se entrega un producto completo o un MVP de software o hardware-software. 
 
 
+## Dedicacion semanal 
+12 creditros -> 384 horas po

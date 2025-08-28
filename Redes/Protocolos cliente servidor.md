@@ -2,7 +2,7 @@
 Dia: 2025-08-22
 dg-publish: true
 ---
-## HTTP
+## HTTP HyperText Transfer Protocol
 Es Cliente Servidor. 
 Permite transmitir texto formateado, imagenes, multimedia y mil cosas mas. 
 - conexiones:

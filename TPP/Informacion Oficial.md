@@ -37,4 +37,6 @@ Desarrollo segundo cuatrimestre
 .
 .
 .
-Entrega 
+Entrega informe final -> aprobacion 
+
+Exposicion publica, oral y presencial

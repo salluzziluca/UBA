@@ -66,4 +66,4 @@ Iterativa-> Ir uno por uno buscando.
 
 ## QUIC 
 
-Protocolo d
+Protocolo de google que busca reemplazar a TCP, ya viene encriptado

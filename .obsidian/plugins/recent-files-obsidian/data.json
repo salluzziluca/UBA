@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Capa de Transporte",
+      "path": "Redes/Capa de Transporte.md"
+    },
+    {
       "basename": "Informacion Oficial",
       "path": "TPP/Informacion Oficial.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ss",
       "path": "Empresas de Base Tecnológica I/ss.md"
-    },
-    {
-      "basename": "Derecho Laboral",
-      "path": "Empresas de Base Tecnológica I/Derecho Laboral.md"
     }
   ],
   "omittedPaths": [],

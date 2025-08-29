@@ -19,6 +19,7 @@ Tambien puede proveer:
 
 ## Puertos y sus servicios
 443 -> HTTPs 
+80-> HTTP
 
 
 

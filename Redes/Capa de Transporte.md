@@ -12,7 +12,7 @@ Las dos cosas mas importanes son:
 
 Tambien puede proveer:
 - Confiabilidad de las comunicaciones 
-- Control de flujo
+- Control de flujo (la capa de t)
 
 > 
 

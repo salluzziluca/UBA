@@ -15,6 +15,13 @@ Tambien puede proveer:
 - Control de flujo (la capa de transporte da aviso de si el flujo es optimo o si algunos de los ends se encuentra ocupado)
 - Seguridad (asegurarnos de que la info no fue modificada, verificacion de extremos, etc)
 
+
+
+## Puertos y sus servicios
+443 -> HTTPs 
+
+
+
 > 
 
 

@@ -26,7 +26,9 @@ Tambien puede proveer:
 ![[Pasted image 20250829202425.png]]
 
 
+## Principios de comunicacion confiable
 
+- Conectadas (ocn)
 
 
 

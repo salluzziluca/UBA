@@ -64,7 +64,7 @@ Iterativa-> Ir uno por uno buscando.
 ### Multicast DNS 
 
 
-## QUIC 
+## QUIC (Quick UDP inter)
 
 Protocolo de google que busca reemplazar a TCP, ya viene encriptado
 
@@ -72,6 +72,6 @@ Corre sobre UDP. Poruqe los chequeos los hace internamente. Y era mas facil usar
 
 
 
-## TLS 
+## TLS (Transport Layer Security) 
 
 Protocolo de encriptacion para TCP. Corre sobre TCP.

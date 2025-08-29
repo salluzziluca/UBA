@@ -5075,6 +5075,7 @@ eligen
 elabora
 erorres
 ends
+encriptado
 servicios
 son
 su
@@ -14321,6 +14322,7 @@ rZB
 roots
 relay
 rige
+reemplazar
 operacion
 orden
 operaciones
@@ -17495,6 +17497,7 @@ Presentaciones
 Permitia
 Puertos
 Protocol
+Protocolo
 Interface
 ID
 Instructions
@@ -32186,6 +32189,7 @@ QZs
 QZRC
 Qsw
 Queda
+QUIC
 ximo
 xito
 xitos

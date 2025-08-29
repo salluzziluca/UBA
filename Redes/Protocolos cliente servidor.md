@@ -67,3 +67,5 @@ Iterativa-> Ir uno por uno buscando.
 ## QUIC 
 
 Protocolo de google que busca reemplazar a TCP, ya viene encriptado
+
+Corre sobre UDP. Poruqe los chequeos los hace internamente.

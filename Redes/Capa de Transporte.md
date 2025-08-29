@@ -12,7 +12,8 @@ Las dos cosas mas importanes son:
 
 Tambien puede proveer:
 - Confiabilidad de las comunicaciones 
-- Control de flujo (la capa de t)
+- Control de flujo (la capa de transporte da aviso de si el flujo es optimo o si algunos de los ends se encuentra ocupado)
+- Seguridad (asegurarnos de que la info no fue modificada, verificacion de extremos, etc)
 
 > 
 

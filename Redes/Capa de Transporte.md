@@ -30,6 +30,7 @@ Tambien puede proveer:
 
 - Conectadas (se ejecutan un par de pasos para asegurar conexion) vs no conectadas (DNS, whatsapp)
 - Asegurar entrega 
+- Asegurar el orden
 
 
 

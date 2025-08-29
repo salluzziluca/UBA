@@ -32,7 +32,7 @@ Tambien puede proveer:
 - Asegurar entrega 
 - Asegurar el orden
 - Asegurar integridad
-- Desempeño
+- Desempeño o performance. Mandar cosas y recibirlas rapi
 
 
 

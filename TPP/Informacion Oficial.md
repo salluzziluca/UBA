@@ -17,7 +17,7 @@ Se entrega un producto completo o un MVP de software o hardware-software.
 
 
 ## Dedicacion semanal 
-12 creditros -> 384 horas por estudiante 
+12 creditos -> 384 horas por estudiante 
 
 cursada anual -> 12 horas semanales de dedicacion
 

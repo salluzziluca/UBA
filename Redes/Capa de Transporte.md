@@ -32,6 +32,7 @@ Tambien puede proveer:
 - Asegurar entrega 
 - Asegurar el orden
 - Asegurar integridad
+- Desempeño
 
 
 

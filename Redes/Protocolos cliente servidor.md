@@ -64,7 +64,7 @@ Iterativa-> Ir uno por uno buscando.
 ### Multicast DNS 
 
 
-## QUIC (Quick UDP inter)
+## QUIC (Quick UDP Internet Connections)
 
 Protocolo de google que busca reemplazar a TCP, ya viene encriptado
 

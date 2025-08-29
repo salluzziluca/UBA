@@ -68,4 +68,10 @@ Iterativa-> Ir uno por uno buscando.
 
 Protocolo de google que busca reemplazar a TCP, ya viene encriptado
 
-Corre sobre UDP. Poruqe los chequeos los hace internamente.
+Corre sobre UDP. Poruqe los chequeos los hace internamente. Y era mas facil usar UDP que definir su propio protocolo.
+
+
+
+## TLS 
+
+Protocolo de encriptacion para TCP. Corre sobre TCP.

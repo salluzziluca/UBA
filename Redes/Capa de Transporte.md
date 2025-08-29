@@ -28,7 +28,8 @@ Tambien puede proveer:
 
 ## Principios de comunicacion confiable
 
-- Conectadas (ocn)
+- Conectadas (se ejecutan un par de pasos para asegurar conexion) vs no conectadas (DNS, whatsapp)
+- Asegurar entrega 
 
 
 

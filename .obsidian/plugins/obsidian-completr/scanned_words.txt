@@ -2453,6 +2453,7 @@ cacheado
 consultan
 correo
 creditros
+cerrarla
 de
 dispositivos
 del
@@ -3497,6 +3498,7 @@ dstsd
 distribution
 dns
 dedicacion
+demultiplexar
 gestion
 gran
 guarda
@@ -5071,6 +5073,8 @@ esds
 estariamos
 eligen
 elabora
+erorres
+ends
 servicios
 son
 su
@@ -9080,6 +9084,8 @@ aliasing
 averigua
 autoritativo
 aprobacion
+aviso
+asegurarnos
 hardware
 heap
 hay
@@ -9669,6 +9675,7 @@ hdlr
 hstsc
 hostname
 hito
+heredad
 que
 queda
 quien
@@ -12130,6 +12137,7 @@ CEF
 Category
 Cacheo
 CNAME
+Confiabilidad
 Es
 El
 Estos
@@ -14312,6 +14320,7 @@ rxq
 rZB
 roots
 relay
+rige
 operacion
 orden
 operaciones
@@ -17484,6 +17493,8 @@ PRB
 PaaQ
 Presentaciones
 Permitia
+Puertos
+Protocol
 Interface
 ID
 Instructions
@@ -19485,6 +19496,7 @@ meta
 mdir
 multimedia
 metodologica
+multiplexar
 tien
 tiene
 todos
@@ -21116,6 +21128,7 @@ integrador
 ingeniero
 informatica
 innovacio
+importanes
 fijo
 file
 fork
@@ -24227,6 +24240,7 @@ Mzs
 Microsoft
 Mail
 Mapea
+Mutiplexado
 Table
 Todos
 This
@@ -31111,6 +31125,8 @@ HwO
 HGR
 HqV
 Hbum
+HTTPs
+HyperText
 Jacobiano
 Job
 Jusitfique
@@ -32169,6 +32185,7 @@ QJL
 QZs
 QZRC
 Qsw
+Queda
 ximo
 xito
 xitos

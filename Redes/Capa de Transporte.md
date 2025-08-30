@@ -41,7 +41,7 @@ Tambien puede proveer:
 Mando y espero el ack. Hasta que no me llega el ack no envio otro paquete. Es lento e insoportable 
 
 #### Continuo 
-
+Tengo una ventana de x paquetes. Solo puedo mandar x paquetes sin que me llegue el ack. Si mi ventana es de 10 y yo mande 10. Hasta que no me llegue el ack del primero no voy a poder seguir mandando. A medida que me 
 
 
 

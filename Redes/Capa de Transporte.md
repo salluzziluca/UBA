@@ -34,7 +34,7 @@ Tambien puede proveer:
 - Asegurar integridad
 - Desempeño o performance. Mandar cosas y recibirlas rapido.
 - Control de flujo (hace esperar a las partes hasta que la red este disponible para la comunicacion. da avisos)
-- Compartir el canal equitativamente
+- Compartir el canal equitativamente (esto es importante porque )
 
 
 

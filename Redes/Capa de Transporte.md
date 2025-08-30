@@ -50,7 +50,7 @@ Si alguno se pierde (es decir, no me llega el AKC). Vuelvo a ese y mando de ese 
 Reenvio solo del que no me llego el ack. No todos
 
 
-Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas. Si hay muchas perdidas quiere decir que la red esta muy congestionada. Si yo achico mi ventana, bajo mi velocidad. Ese es, en c
+Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas. Si hay muchas perdidas quiere decir que la red esta muy congestionada. Si yo achico mi ventana, bajo mi velocidad. Ese es, en criollo, el control de congestion que hace TCP
 
 
 

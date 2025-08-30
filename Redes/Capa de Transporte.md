@@ -40,7 +40,8 @@ Tambien puede proveer:
 #### Stop and wait 
 Mando y espero el ack. Hasta que no me llega el ack no envio otro paquete. Es lento e insoportable 
 
-#### Continuo
+#### Continuo 
+
 
 
 

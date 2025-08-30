@@ -33,6 +33,7 @@ Tambien puede proveer:
 - Asegurar el orden
 - Asegurar integridad
 - Desempeño o performance. Mandar cosas y recibirlas rapido.
+- 
 
 
 

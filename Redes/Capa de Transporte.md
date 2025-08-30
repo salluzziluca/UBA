@@ -37,7 +37,10 @@ Tambien puede proveer:
 - Compartir el canal equitativamente (esto es importante porque siempre nos regimos por el best effort. Si no fuese equitativo volaria todo por los aires)
 
 ### Tipos de Flujo 
+#### Stop and wait 
+Mando y espero el ack. Hasta que no me llega el ack no envio otro paquete. Es lento e insoportable 
 
+#### Continuo
 
 
 

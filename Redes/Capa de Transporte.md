@@ -60,4 +60,6 @@ Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas
 - Timer para detectar paquetes perdidos (si no me llega el ack en x tiempo, reenvio)
 - Numero de secuencia para mantener el flujo de paquetes y detectar perdidos 
 - ACK 
-- NACK 
+- NACK (para avisar que el paquete llego corrupto), no se usa en TCP 
+- Ventana deslizante (ver arriba).
+

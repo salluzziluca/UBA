@@ -54,3 +54,6 @@ Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas
 
 
 
+## Variables y mecanismos del flujo confiable de datos 
+
+- Checksum o CRC ()

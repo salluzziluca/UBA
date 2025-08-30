@@ -33,7 +33,8 @@ Tambien puede proveer:
 - Asegurar el orden
 - Asegurar integridad
 - Desempeño o performance. Mandar cosas y recibirlas rapido.
-- 
+- Control de flujo (hace esperar a las partes hasta que la red este disponible para la comunicacion. da avisos)
+- Compartir el canal equitativamente
 
 
 

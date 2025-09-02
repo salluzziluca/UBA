@@ -45,4 +45,20 @@ while let Some(socket_result) = new_connections.next().await {
 }
 ```
 
-## Future
+## Future, polls y executor
+
+Un `Future` en Rust **no ejecuta nada por sí mismo**.  
+El `executor` (Tokio, async-std, etc.) es el que lo “golpea” llamando a `poll` repetidamente hasta que el Future diga:
+
+- `Poll::Ready(valor)` → “Ya terminé, acá está el resultado”.
+- `Poll::Pending` → “Todavía no terminé, volvé a llamarme más tarde”.
+
+- Llamás una función `async`, obtenés un `Future`.
+- El executor (tokio, async-std) mete ese `Future` en una cola de tareas.
+- Llama a `poll()` →
+    - Si está listo (`Ready`), devuelve el valor.
+    - Si no (`Pending`), lo saca de la cola y espera que alguien llame a `wake()` cuando haya progreso (ej. kernel dice "hay datos en el socket").
+- Cuando se despierta, el executor vuelve a llamar `poll()`.
+- Repite hasta que salga `Ready`.
+
+>[El `poll` **no bloquea nunca**. Si el future está esperando I/O, dice “Pending” y le da al executor un `Waker` para que lo despierte cuando haya datos.

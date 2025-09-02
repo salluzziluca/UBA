@@ -61,4 +61,4 @@ El `executor` (Tokio, async-std, etc.) es el que lo “golpea” llamando a `pol
 - Cuando se despierta, el executor vuelve a llamar `poll()`.
 - Repite hasta que salga `Ready`.
 
->[El `poll` **no bloquea nunca**. Si el future está esperando I/O, dice “Pending” y le da al executor un `Waker` para que lo despierte cuando haya datos.
+>[!important]  El `poll` **no bloquea nunca**. Si el future está esperando I/O, dice “Pending” y le da al executor un `Waker` para que lo despierte cuando haya datos.

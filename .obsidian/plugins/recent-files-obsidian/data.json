@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Programacion Asincronica",
+      "path": "Programacion Concurrente/Programacion Asincronica.md"
+    },
+    {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Patrones de Diseño",
       "path": "Ingeneniería del Software I/Patrones de Diseño.md"
-    },
-    {
-      "basename": "ss",
-      "path": "Empresas de Base Tecnológica I/ss.md"
     }
   ],
   "omittedPaths": [],

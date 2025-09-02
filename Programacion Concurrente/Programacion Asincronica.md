@@ -62,3 +62,9 @@ El `executor` (Tokio, async-std, etc.) es el que lo “golpea” llamando a `pol
 - Repite hasta que salga `Ready`.
 
 >[!important]  El `poll` **no bloquea nunca**. Si el future está esperando I/O, dice “Pending” y le da al executor un `Waker` para que lo despierte cuando haya datos.
+
+
+- Cada `Future` es como **tu ticket vibrador del bar**.
+- No estás parado golpeando la puerta de la cocina (polling activo).
+- El runtime te dice: “OK, ahora vos esperá tranquilo, yo te aviso cuando tu Future esté listo”.
+- Cuando el SO detecta que **ya hay datos / ya terminó el timer / lo que sea**, **activa el waker** → “vibrador” → el executor lo mete de nuevo en la cola para hacer `poll()` otra vez.

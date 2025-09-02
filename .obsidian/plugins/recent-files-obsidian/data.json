@@ -5,6 +5,14 @@
       "path": "Programacion Concurrente/Programacion Asincronica.md"
     },
     {
+      "basename": "Memoria",
+      "path": "Sistemas Operativos/Memoria.md"
+    },
+    {
+      "basename": "context switch",
+      "path": "Excalidraw/context switch.md"
+    },
+    {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "flashcards",
       "path": "Empresas de Base Tecnológica I/flashcards.md"
-    },
-    {
-      "basename": "Preguntas segundo parcial",
-      "path": "Empresas de Base Tecnológica I/Preguntas segundo parcial.md"
-    },
-    {
-      "basename": "Patrones de Diseño",
-      "path": "Ingeneniería del Software I/Patrones de Diseño.md"
     }
   ],
   "omittedPaths": [],

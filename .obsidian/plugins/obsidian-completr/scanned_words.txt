@@ -6995,6 +6995,7 @@ pregunto
 preguntando
 paralelizar
 pesada
+pool
 la
 las
 le
@@ -7635,6 +7636,7 @@ librer
 largas
 laque
 linkea
+livianas
 agnosticos
 apps
 al
@@ -8651,6 +8653,7 @@ averigua
 authority
 acronimo
 aisladas
+asincronicas
 hardware
 heap
 hay
@@ -14080,6 +14083,7 @@ ofrec
 orienta
 obligatoria
 origina
+overhead
 nombre
 nuevo
 nica
@@ -18948,6 +18952,7 @@ tardan
 transmitir
 transmisor
 tamanio
+threados
 inico
 interna
 infro
@@ -19819,6 +19824,7 @@ industriales
 insertado
 iterativas
 idel
+intecalarlas
 fijo
 file
 fork

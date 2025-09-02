@@ -68,3 +68,30 @@ El `executor` (Tokio, async-std, etc.) es el que lo “golpea” llamando a `pol
 - No estás parado golpeando la puerta de la cocina (polling activo).
 - El runtime te dice: “OK, ahora vos esperá tranquilo, yo te aviso cuando tu Future esté listo”.
 - Cuando el SO detecta que **ya hay datos / ya terminó el timer / lo que sea**, **activa el waker** → “vibrador” → el executor lo mete de nuevo en la cola para hacer `poll()` otra vez.
+
+```rust 
+use async_std::io::prelude::*;
+use async_std::net;
+
+async fn cheapo_request(host: &str, port: u16, path: &str) -> std::io::Result<String> {
+    // Conectamos al servidor
+    let mut socket = net::TcpStream::connect((host, port)).await?;
+
+    // Construimos el request HTTP básico
+    let request = format!(
+        "GET {} HTTP/1.1\r\nHost: {}\r\n\r\n",
+        path, host
+    );
+
+    // Enviamos el request
+    socket.write_all(request.as_bytes()).await?;
+    socket.shutdown(net::Shutdown::Write)?;
+
+    // Leemos la respuesta completa
+    let mut response = String::new();
+    socket.read_to_string(&mut response).await?;
+
+    Ok(response)
+}
+
+```

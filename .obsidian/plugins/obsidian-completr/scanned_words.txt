@@ -2454,6 +2454,10 @@ consultan
 correo
 creditros
 cerrarla
+canal
+congestionada
+congestion
+corrupto
 de
 dispositivos
 del
@@ -3499,6 +3503,8 @@ distribution
 dns
 dedicacion
 demultiplexar
+desplazando
+deslizante
 gestion
 gran
 guarda
@@ -5076,6 +5082,8 @@ elabora
 erorres
 ends
 encriptado
+esperar
+equitativo
 servicios
 son
 su
@@ -7341,6 +7349,9 @@ pregunto
 preguntando
 pregunt
 perifl
+packets
+perdidas
+perdidos
 la
 las
 le
@@ -9087,6 +9098,12 @@ autoritativo
 aprobacion
 aviso
 asegurarnos
+avisos
+ack
+acks
+adapta
+achico
+avisar
 hardware
 heap
 hay
@@ -11393,6 +11410,7 @@ STS
 Saw
 SHM
 SUt
+Selective
 Calls
 Cmabia
 CPU
@@ -12139,6 +12157,11 @@ Category
 Cacheo
 CNAME
 Confiabilidad
+Conectadas
+Continuo
+Checksum
+CRC
+Cyclical
 Es
 El
 Estos
@@ -14323,6 +14346,10 @@ roots
 relay
 rige
 reemplazar
+recibirlas
+regimos
+redundancy
+reenvio
 operacion
 orden
 operaciones
@@ -16184,6 +16211,8 @@ vZc
 vBw
 vide
 vmhd
+volaria
+ventana
 Application
 API
 Asigna
@@ -16818,6 +16847,7 @@ AQO
 Aom
 ART
 Autorizadas
+AKC
 Programming
 Procesos
 Partes
@@ -19500,6 +19530,8 @@ mdir
 multimedia
 metodologica
 multiplexar
+mande
+mandando
 tien
 tiene
 todos
@@ -20213,6 +20245,7 @@ tQy
 teneruna
 tematica
 tutor
+tooodos
 inico
 interna
 infro
@@ -21132,6 +21165,7 @@ ingeniero
 informatica
 innovacio
 importanes
+insoportable
 fijo
 file
 fork
@@ -22328,6 +22362,7 @@ NTYG
 Ndg
 NNEZ
 NFm
+NACK
 File
 For
 Funcion
@@ -22958,6 +22993,7 @@ FRC
 Fiz
 Fmk
 FEDEE
+Flujo
 Descriptors
 Descriptor
 Devuelve
@@ -24244,6 +24280,8 @@ Microsoft
 Mail
 Mapea
 Mutiplexado
+Mandar
+Mando
 Table
 Todos
 This
@@ -24807,6 +24845,7 @@ TWtr
 TGz
 Traduce
 TDLs
+Timer
 Realiza
 REgistrys
 Rango
@@ -25540,6 +25579,7 @@ RIT
 RzkD
 Recursivas
 Recursiva
+Reenvio
 bien
 by
 be
@@ -26623,6 +26663,7 @@ wei
 wmo
 wLU
 webs
+whatsapp
 VA
 VIEW
 Volumen
@@ -27145,6 +27186,9 @@ VBB
 VNU
 VjX
 VideoHandler
+Vuelvo
+Verificacion
+Ventana
 OPTIONS
 Operativos
 Orden

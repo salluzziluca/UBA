@@ -37,3 +37,12 @@ Devuelve la información recibida en forma de bytes y la dirección que envió l
 
 
 ## Sockets TCP
+![[Pasted image 20250904185057.png]]
+
+
+socket(address_family, type) 
+Crea un nuevo socket utilizando los parámetros seleccionados.
+- address_family define el tipo de direcciones que se utilizaran. 
+	- Normalmente se utiliza AF_INET para direcciones IPv4. 
+	- type es el tipo de que vamos a crear. 
+	- Se utiliza SOCK_STREAM para TCP

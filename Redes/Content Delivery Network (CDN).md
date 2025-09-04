@@ -47,4 +47,5 @@ Para bajar si hago polling. Los que quieren ver el contenido lo piden y la arqui
 Dentro de los ISP, muchos lugares, mas dificlutad y costos de mantenimiento 
 
 ##### Bring home. 
-Cerca de los IX
+Cerca de los IXP 
+Cluster grandes en lugares estrategicos

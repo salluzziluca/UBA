@@ -11,3 +11,8 @@ Se busca:
 - maximizar Throughput 
 - Maximizar el trafico en el nucleo de internet 
 - Usar una plataforma distribuida
+
+Para:
+- Mejorar el tiempo de descarga 
+- Respuesta de digitalizacion 
+- Redic

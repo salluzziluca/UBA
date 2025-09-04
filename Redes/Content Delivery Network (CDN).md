@@ -23,4 +23,7 @@ Para:
 	- Resiste congestiones
 
 
-## Arquitectura
+## Arquitectura 
+- Edge computing (llevar la computizacion lo mas cerca del cliente posible)
+- Puntos de presencia cerca de donde se va a consumir el recurso 
+- Servidores de origen 

@@ -40,3 +40,4 @@ Replicas a nivel IXP(todos los ISP se conectan ahi) e ISP
 ### Consultas 
 Para la subida si o si hay que hacerlo al datacenter central 
 
+Para bajar si hago polling. Los que quieren ver el contenido 

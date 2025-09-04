@@ -34,4 +34,4 @@ Se hace la consulta a DNS y este te devuelve el Point of Presence que mas conven
 ### Datacenters globales 
 Google tiene como 40 datacenters en mas de 10 paises.
 
-Replicas a nivel IXP e ISP
+Replicas a nivel IXP(todos los ISP se conectan ahi) e ISP

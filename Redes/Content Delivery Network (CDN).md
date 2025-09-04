@@ -27,3 +27,5 @@ Para:
 - Edge computing (llevar la computizacion lo mas cerca del cliente posible)
 - Puntos de presencia cerca de donde se va a consumir el recurso 
 - Servidores de origen son los que estan en el CORE. En los ISP mas abarcativos
+
+Se hace la consulta a DNS y este te devuelve el Point of Presence que mas convenga, el edge server. No te conec

@@ -14,4 +14,8 @@ addr_family define el tipo de direcciones que se utilizaran:
 - No se cual se usa para IPv6 
 
 Type especifica el tipo que vamos a crear:
-- Socket d
+- Socket dgrm para UDP 
+
+socket.bind(addrs)
+
+asocia el socket a una direccion local. Addres indica la direccion IP y puedo que el servidor o el cliente escucharan

@@ -29,3 +29,7 @@ Para:
 - Servidores de origen son los que estan en el CORE. En los ISP mas abarcativos
 
 Se hace la consulta a DNS y este te devuelve el Point of Presence que mas convenga, el edge server. No te conectas al origen. De esa forma disminuyo el [[Metricas de Performance#Latencia|tiempo de propagacion]]
+
+
+### Datacenters globales 
+	Google tenia 15 en

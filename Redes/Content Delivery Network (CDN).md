@@ -32,4 +32,4 @@ Se hace la consulta a DNS y este te devuelve el Point of Presence que mas conven
 
 
 ### Datacenters globales 
-	Google tenia 15 en
+Google tiene como 40 datacenters en mas de 10 count

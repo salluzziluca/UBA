@@ -26,4 +26,4 @@ Para:
 ## Arquitectura 
 - Edge computing (llevar la computizacion lo mas cerca del cliente posible)
 - Puntos de presencia cerca de donde se va a consumir el recurso 
-- Servidores de origen 
+- Servidores de origen son los que estan en el CORE. En los ISP mas abarcativos

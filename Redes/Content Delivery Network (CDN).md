@@ -15,4 +15,9 @@ Se busca:
 Para:
 - Mejorar el tiempo de descarga 
 - Respuesta de digitalizacion 
-- Redic
+- Reducir costos:
+	- ancho de banda
+	- volumen de transferencia 
+- Disponibilidad por redundancia
+	- Resiliencia ante DDoS
+	- Resiste 

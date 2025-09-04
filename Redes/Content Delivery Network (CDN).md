@@ -35,3 +35,8 @@ Se hace la consulta a DNS y este te devuelve el Point of Presence que mas conven
 Google tiene como 40 datacenters en mas de 10 paises.
 
 Replicas a nivel IXP(todos los ISP se conectan ahi) e ISP
+
+
+### Consultas 
+Para la subida si o si hay que hacerlo al datacenter central 
+

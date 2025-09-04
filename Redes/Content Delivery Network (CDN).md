@@ -40,4 +40,11 @@ Replicas a nivel IXP(todos los ISP se conectan ahi) e ISP
 ### Consultas 
 Para la subida si o si hay que hacerlo al datacenter central 
 
-Para bajar si hago polling. Los que quieren ver el contenido 
+Para bajar si hago polling. Los que quieren ver el contenido lo piden y la arquitectura se lo da o se lo acerca (por tiempo o por distancia)
+
+### Tipos de Infraestructura 
+##### Enter deep 
+Dentro de los ISP, muchos lugares, mas dificlutad y costos de mantenimiento 
+
+##### Bring home. 
+Cerca de los IX

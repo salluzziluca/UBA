@@ -20,4 +20,4 @@ Para:
 	- volumen de transferencia 
 - Disponibilidad por redundancia
 	- Resiliencia ante DDoS
-	- Resiste 
+	- Resiste congestiones

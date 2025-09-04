@@ -34,3 +34,6 @@ devuelve la cantidad de bytes enviados
 bloquea e huloi de ejecucion hasta que le llegue una conexion. Se le especifica el bufsize
 
 Devuelve la información recibida en forma de bytes y la dirección que envió los datos
+
+
+## Sockets TCP

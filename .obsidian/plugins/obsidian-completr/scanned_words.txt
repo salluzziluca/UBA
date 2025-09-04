@@ -7352,6 +7352,7 @@ perifl
 packets
 perdidas
 perdidos
+puertas
 la
 las
 le

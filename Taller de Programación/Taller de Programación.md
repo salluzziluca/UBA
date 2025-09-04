@@ -40,4 +40,4 @@ Hay dos tipos:
 1. Referencias compartidas: no modifican, solo lectura pero se pueden tener tantas como se desee
 2. Referencias mutables: permiten cambiar el valor pero se puede tener solo una
 [[Taller de Programación/Concurrencia]]
-[[Sockets]]
+[[Taller de Programación/Sockets]]

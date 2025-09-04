@@ -31,4 +31,4 @@ devuelve la cantidad de bytes enviados
 
 socket.recvfrom(bufsize)
 
-bloquea e huloi de ejecucion hasta que le llegue una conexion. Se le especifica el 
+bloquea e huloi de ejecucion hasta que le llegue una conexion. Se le especifica el bufsize

@@ -9,4 +9,9 @@ Son puertas que reciben entrada de un proceso y salen a otro. Este necesita sabe
 
 socket(addr_family, type)
 
-addr_family define el tipo de direcciones que se utilizaran
+addr_family define el tipo de direcciones que se utilizaran:
+- AF_INET es para IPV4 
+- No se cual se usa para IPv6 
+
+Type especifica el tipo que vamos a crear:
+- Socket d

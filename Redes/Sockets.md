@@ -19,3 +19,13 @@ Type especifica el tipo que vamos a crear:
 socket.bind(addrs)
 
 asocia el socket a una direccion local. Addres indica la direccion IP y puedo que el servidor o el cliente escucharan
+
+socket.sendto(data, addrs)
+
+Envia datos a traces dl socket 
+
+data son los datos en forma de byte 
+
+como no hay conexion, se debe especificar a donde mandarlo usando la addr 
+devuelve la cantidad de bytes enviados 
+

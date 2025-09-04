@@ -7,4 +7,6 @@ Son puertas que reciben entrada de un proceso y salen a otro. Este necesita sabe
 
 ## Sockets UDP
 
-socket(addr_family)
+socket(addr_family, type)
+
+addr_family define el tipo de direcciones que se utilizaran

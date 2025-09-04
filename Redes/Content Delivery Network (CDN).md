@@ -21,3 +21,6 @@ Para:
 - Disponibilidad por redundancia
 	- Resiliencia ante DDoS
 	- Resiste congestiones
+
+
+## Arquitectura

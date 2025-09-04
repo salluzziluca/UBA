@@ -44,5 +44,16 @@ socket(address_family, type)
 Crea un nuevo socket utilizando los parámetros seleccionados.
 - address_family define el tipo de direcciones que se utilizaran. 
 	- Normalmente se utiliza AF_INET para direcciones IPv4. 
-	- type es el tipo de que vamos a crear. 
+- type es el tipo de que vamos a crear. 
 	- Se utiliza SOCK_STREAM para TCP
+
+
+socket.bind(address) ○ Asocia el socket a una dirección local. ○ address indica la dirección IP y puerto que el servidor escuchará
+
+
+socket.listen() ○ Indica al socket que debe aceptar conexiones. ○ De no llamarse, todas las conexiones entrantes serán rechazadas}
+
+
+socket.accept() ○ Bloquea el hilo de ejecución hasta que se establece una nueva conexión TCP. ○ Devuelve un nuevo socket, representando la conexión y la dirección del host conectado.
+
+socket.connect(address) ○ Bloquea el hilo de ejecución hasta que se establece una conexión TCP con un socket remoto. ○ address indica la dirección IP y puerto donde el socket remoto está escuchando

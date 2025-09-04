@@ -29,3 +29,6 @@ data son los datos en forma de byte
 como no hay conexion, se debe especificar a donde mandarlo usando la addr 
 devuelve la cantidad de bytes enviados 
 
+socket.recvfrom(bufsize)
+
+bloquea e huloi de ejecucion hasta que le llegue una conexion. Se le especifica el 

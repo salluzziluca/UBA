@@ -57,3 +57,9 @@ socket.listen() ○ Indica al socket que debe aceptar conexiones. ○ De no llam
 socket.accept() ○ Bloquea el hilo de ejecución hasta que se establece una nueva conexión TCP. ○ Devuelve un nuevo socket, representando la conexión y la dirección del host conectado.
 
 socket.connect(address) ○ Bloquea el hilo de ejecución hasta que se establece una conexión TCP con un socket remoto. ○ address indica la dirección IP y puerto donde el socket remoto está escuchando
+
+socket.send(data) ○ Envía datos a través del socket. ○ data son los datos a enviar en forma de bytes. ○ Devuelve la cantidad de bytes enviados. ○ Puede ser llamada en el servidor y en el cliente.
+
+socket.recv(bufsize) ○ Bloquea el hilo de ejecución hasta recibir datos a través del socket. ○ bufsize especifica la cantidad de datos a recibir. ○ Devuelve los datos recibidos en forma de bytes. ○ Puede ser llamada en el servidor y en el cliente
+
+socket.close() ○ Cierra el socket actual. ○ Debe llamarse tanto en el servidor como en el cliente.

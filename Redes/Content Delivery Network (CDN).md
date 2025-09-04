@@ -7,4 +7,7 @@ En 2015 se registro que el 40% del trafico de bajada en hogares de EEUU era de N
 
 
 Se busca:
-- Minimizar latenc
+- Minimizar latencia
+- maximizar Throughput 
+- Maximizar el trafico en el nucleo de internet 
+- Usar una plataforma distribuida

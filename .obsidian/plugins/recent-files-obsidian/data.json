@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Redes/Untitled.md"
+    },
+    {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "flashcards de parciales",
       "path": "Empresas de Base Tecnológica I/flashcards de parciales.md"
-    },
-    {
-      "basename": "Régimen de Promoción de la Economía del Conocimiento",
-      "path": "Empresas de Base Tecnológica I/Régimen de Promoción de la Economía del Conocimiento.md"
     }
   ],
   "omittedPaths": [],

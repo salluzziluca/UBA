@@ -11,6 +11,6 @@ Cuando yo envio mi paquete mando un SN (sequence number o NS), este es el numero
 Si la [[Capa de Transporte#Continuo|ventana de envio]] fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafico de la red.
 
 
-[[MSS]]
+Tener siempre en cuenta el [[MSS]]
 
 

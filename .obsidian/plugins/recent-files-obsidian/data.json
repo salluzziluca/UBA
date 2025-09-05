@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Capa de Transporte",
+      "path": "Redes/Capa de Transporte.md"
+    },
+    {
       "basename": "Multiplexar",
       "path": "Redes/Multiplexar.md"
     },
     {
-      "basename": "Capa de Transporte",
-      "path": "Redes/Capa de Transporte.md"
+      "basename": "Demultiplexar",
+      "path": "Redes/Demultiplexar.md"
     },
     {
       "basename": "TCP",
@@ -195,10 +199,6 @@
     {
       "basename": "Contabilidad",
       "path": "Empresas de Base Tecnológica I/Contabilidad.md"
-    },
-    {
-      "basename": "22-06-2025",
-      "path": "22-06-2025.md"
     }
   ],
   "omittedPaths": [],

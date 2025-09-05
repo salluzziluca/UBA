@@ -2461,6 +2461,7 @@ corrupto
 congestiones
 computizacion
 conectas
+chequeos
 de
 dispositivos
 del
@@ -5093,6 +5094,7 @@ esperar
 equitativo
 edge
 estrategicos
+encriptacion
 servicios
 son
 su
@@ -12184,6 +12186,8 @@ Cyclical
 CORE
 Consultas
 Cerca
+Connections
+Corre
 Es
 El
 Estos
@@ -17553,6 +17557,7 @@ Puertos
 Protocol
 Protocolo
 Presence
+Poruqe
 Interface
 ID
 Instructions
@@ -24880,6 +24885,8 @@ TGz
 Traduce
 TDLs
 Timer
+TLS
+Transport
 Realiza
 REgistrys
 Rango
@@ -32273,6 +32280,7 @@ QZRC
 Qsw
 Queda
 QUIC
+Quick
 ximo
 xito
 xitos

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Protocolos cliente servidor",
+      "path": "Redes/Protocolos cliente servidor.md"
+    },
+    {
       "basename": "Content Delivery Network (CDN)",
       "path": "Redes/Content Delivery Network (CDN).md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "context switch",
       "path": "Excalidraw/context switch.md"
-    },
-    {
-      "basename": "Protocolos cliente servidor",
-      "path": "Redes/Protocolos cliente servidor.md"
     },
     {
       "basename": "Informacion Oficial",

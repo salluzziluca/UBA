@@ -9,16 +9,16 @@
       "path": "Redes/Capa de Aplicacion.md"
     },
     {
-      "basename": "Content Delivery Network (CDN)",
-      "path": "Redes/Content Delivery Network (CDN).md"
-    },
-    {
       "basename": "Router",
       "path": "Redes/Router.md"
     },
     {
       "basename": "Protocolos cliente servidor",
       "path": "Redes/Protocolos cliente servidor.md"
+    },
+    {
+      "basename": "Content Delivery Network (CDN)",
+      "path": "Redes/Content Delivery Network (CDN).md"
     },
     {
       "basename": "TCP",

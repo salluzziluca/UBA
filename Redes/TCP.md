@@ -11,4 +11,5 @@ Cuando yo envio mi paquete mando un SN (sequence number), este es el numero dle 
 Si la [[Capa de Transporte#Continuo|ventana de envio]] fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafico de la red.
 
 
-NS = Numero de sec
+NS = Numero de secuencia 
+NR = Numero de reconocimiento 

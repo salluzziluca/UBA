@@ -18,4 +18,4 @@ Si la [[Capa de Transporte#Continuo|ventana de envio]] fuese fija. A veces estar
 
 Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. Porque a partir de ahi ya se me pisan los numeros de NS en la vetana. Tengo overflow (revisar)
 
-
+	

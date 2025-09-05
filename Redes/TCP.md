@@ -9,7 +9,9 @@ Cuando yo envio mi paquete mando un SN (sequence number o NS), este es el numero
 >[!example] Si yo envio mi paquete con el SN= 1000. El NR en el ACK del reciever deberia valer 1001. Como el ACK no envia data. No modifica su SN en cada valor. Simplemente pone un numero random. 
 
 
->[!important] En una comunicacion emisor receptor en la que siempre una 
+>[!important] En una comunicacion emisor receptor en la que siempre una envia y la otra solo tira ACK. El NR de emisor y el NS del receptor nunca deberian cambiar.
+
+x|
 
 Si la [[Capa de Transporte#Continuo|ventana de envio]] fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafico de la red.
 

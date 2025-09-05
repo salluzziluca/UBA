@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MSS",
+      "path": "Redes/MSS.md"
+    },
+    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9.1 Introducción a la Estadística",
       "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
-    },
-    {
-      "basename": "Contabilidad",
-      "path": "Empresas de Base Tecnológica I/Contabilidad.md"
     }
   ],
   "omittedPaths": [],

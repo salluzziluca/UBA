@@ -16,6 +16,6 @@ x|
 Si la [[Capa de Transporte#Continuo|ventana de envio]] fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafico de la red.
 
 
-Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. 
+Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. Porque a partir de ahi ya se me pisan los numeros de NS en la vetana. Tengo overflow (revisar)
 
 

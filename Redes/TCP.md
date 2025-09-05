@@ -8,3 +8,4 @@ Cuando yo envio mi paquete mando un SN (sequence number), este es el numero dle 
 
 >[!example] Si yo envio mi paquete con el SN= 1000. El ACK del reciever deberia valer 1001
 
+Si la ventana de envio fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafic

@@ -28,4 +28,6 @@ Si a mi como receptor me llega un paquete cuyo NS no coincide con el NR que yo e
 ## Calculo del timeout 
 $T(i)= RTT(i) \alpha+T(i-1)(1-\alpha)$ con $0\leq \alpha \leq 1$ Se suele elegir $\alpha=\frac{1}{8}$
 
-$D=|RTT(i)-T(i)| \beta + D(i-1) (1-\beta$. Esto seria el devio del rtt con respecto al timeout. Con beta = 1/4
+$D=|RTT(i)-T(i)| \beta + D(i-1) (1-\beta$. Esto seria el desvio. Con beta = 1/4
+
+Retransmition Timeout (RTO)= T(i) + 4 D(i)

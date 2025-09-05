@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "TCP",
-      "path": "Redes/TCP.md"
+      "basename": "Multiplexar",
+      "path": "Redes/Multiplexar.md"
     },
     {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Redes/TCP.md"
     },
     {
       "basename": "Capa de Aplicacion",
@@ -195,10 +199,6 @@
     {
       "basename": "22-06-2025",
       "path": "22-06-2025.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Intro.md"
     }
   ],
   "omittedPaths": [],

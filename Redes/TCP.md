@@ -22,5 +22,6 @@ Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. Porque a part
 
 ## Reporte de errores
 
-Si a mi como receptor me llega un paquete cuyo NS no coincide con el NR que yo espero. 
+Si a mi como receptor me llega un paquete cuyo NS no coincide con el NR que yo espero. Reenvio el ultimo ack que mande. Es decir el del paquete que SI llego
+![[Pasted image 20250905202209.png]]
 

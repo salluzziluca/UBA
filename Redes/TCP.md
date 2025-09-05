@@ -26,4 +26,6 @@ Si a mi como receptor me llega un paquete cuyo NS no coincide con el NR que yo e
 ![[Pasted image 20250905202209.png]]
 
 ## Calculo del timeout 
-$T(i)= RTT(i) \alpha+T(i-1)(1-\alpha)$ con $0\leq \alpha \leq 1$ Se suele elegir $\alpha=1$
+$T(i)= RTT(i) \alpha+T(i-1)(1-\alpha)$ con $0\leq \alpha \leq 1$ Se suele elegir $\alpha=\frac{1}{8}$
+
+D=|RT

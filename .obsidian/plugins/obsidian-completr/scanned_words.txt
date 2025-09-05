@@ -2458,6 +2458,9 @@ canal
 congestionada
 congestion
 corrupto
+congestiones
+computizacion
+conectas
 de
 dispositivos
 del
@@ -3505,6 +3508,10 @@ dedicacion
 demultiplexar
 desplazando
 deslizante
+disminuyo
+datacenters
+datacenter
+dificlutad
 gestion
 gran
 guarda
@@ -5084,6 +5091,8 @@ ends
 encriptado
 esperar
 equitativo
+edge
+estrategicos
 servicios
 son
 su
@@ -6153,6 +6162,8 @@ stsz
 stbl
 stts
 semanal
+subiendo
+subida
 par
 por
 punto
@@ -7353,6 +7364,10 @@ packets
 perdidas
 perdidos
 puertas
+plataforma
+presencia
+paises
+polling
 la
 las
 le
@@ -9105,6 +9120,7 @@ acks
 adapta
 achico
 avisar
+abarcativos
 hardware
 heap
 hay
@@ -9695,6 +9711,7 @@ hstsc
 hostname
 hito
 heredad
+hogares
 que
 queda
 quien
@@ -11412,6 +11429,7 @@ Saw
 SHM
 SUt
 Selective
+Servidores
 Calls
 Cmabia
 CPU
@@ -12163,6 +12181,9 @@ Continuo
 Checksum
 CRC
 Cyclical
+CORE
+Consultas
+Cerca
 Es
 El
 Estos
@@ -12869,6 +12890,7 @@ Edge
 Espec
 Entrega
 Exposicion
+Enter
 kernel
 kt
 kU
@@ -15594,6 +15616,7 @@ nhU
 nqq
 nYE
 nam
+nucleo
 via
 vuelve
 viven
@@ -17529,6 +17552,7 @@ Permitia
 Puertos
 Protocol
 Protocolo
+Presence
 Interface
 ID
 Instructions
@@ -18123,6 +18147,8 @@ IQM
 Iterativa
 IPv
 Integra
+IXP
+Infraestructura
 Un
 UNIX
 UBA
@@ -19533,6 +19559,7 @@ metodologica
 multiplexar
 mande
 mandando
+muchisimo
 tien
 tiene
 todos
@@ -22364,6 +22391,7 @@ Ndg
 NNEZ
 NFm
 NACK
+Netflix
 File
 For
 Funcion
@@ -23593,6 +23621,9 @@ DVR
 Domains
 Define
 Dedicacion
+Disponibilidad
+DDoS
+Datacenters
 Memoria
 Multivariada
 MORE
@@ -24283,6 +24314,8 @@ Mapea
 Mutiplexado
 Mandar
 Mando
+Minimizar
+Mejorar
 Table
 Todos
 This
@@ -25581,6 +25614,9 @@ RzkD
 Recursivas
 Recursiva
 Reenvio
+Respuesta
+Resiliencia
+Resiste
 bien
 by
 be
@@ -26195,6 +26231,7 @@ bKL
 baS
 bYS
 bgAZ
+bajada
 will
 words
 with
@@ -30252,6 +30289,7 @@ BmY
 BFK
 Bvs
 BBA
+Bring
 XY
 Xg
 XQG

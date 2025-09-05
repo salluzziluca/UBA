@@ -63,3 +63,4 @@ Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas
 - NACK (para avisar que el paquete llego corrupto), no se usa en TCP 
 - Ventana deslizante (ver arriba).
 
+## [[TCP]]

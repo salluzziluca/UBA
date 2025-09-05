@@ -7370,6 +7370,7 @@ plataforma
 presencia
 paises
 polling
+prametro
 la
 las
 le
@@ -19565,6 +19566,7 @@ multiplexar
 mande
 mandando
 muchisimo
+manda
 tien
 tiene
 todos

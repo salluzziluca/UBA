@@ -14384,6 +14384,7 @@ regimos
 redundancy
 reenvio
 recolecto
+reciever
 operacion
 orden
 operaciones

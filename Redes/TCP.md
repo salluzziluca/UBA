@@ -75,5 +75,5 @@ Ahora aumento mucho mas despacio el tamaño de la ventana. Recien cuando recibo 
 El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si llegp a tener otro triple ack pero con una cwind mas grande, por lo que cwin/2 es mayor que sshtreshold, lo aumento.
 
 
-Si hay timeout, TCP reno setea el cwin en 1MSS y 
+Si hay timeout, TCP reno setea el cwin en 1MSS y ssh treshold en 2MSS. En seguida llega a los 2 MSS y vuelve a entrar en congestion avoidance
 ![[Pasted image 20250905212416.png]]

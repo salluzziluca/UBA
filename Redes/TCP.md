@@ -33,3 +33,7 @@ $D=|RTT(i)-T(i)| \beta + D(i-1) (1-\beta$. Esto seria el desvio. Con beta = 1/4
 Retransmition Timeout (RTO)= T(i) + 4 D(i)
 
 
+## Establecimiento de conexion y desconexion
+
+El emisor envia el paquete para abrir la conexion. Le manda su NS y le aclara cua
+![[Pasted image 20250905210054.png]]

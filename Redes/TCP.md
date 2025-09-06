@@ -54,3 +54,7 @@ W= min(rwin, cwind).
 W = ventana de transmision 
 rwin = recieve window del otro lado
 cwin = cogestion WIn
+
+
+La ventana de congestion arranca en 1 MSS. 
+ek ssthres aranaca en 65535 (byte)

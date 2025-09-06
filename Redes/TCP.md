@@ -80,3 +80,5 @@ Si hay timeout, TCP reno setea el cwin en 1MSS y ssh treshold en 2MSS. En seguid
 
 
 ## Fast Retransmiting y Fast recovery
+
+Si me llegan 3 acks del mismo solo reenvio el el que fallo y aumento la ventana en 3 para poder mostrar los 3 paquetes siguientes. La agrando rapido para no perder tiempo, envio 3 extras y una vez que me llegan los acks que me faltaban cierro los 3 slots extras

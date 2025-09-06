@@ -72,5 +72,8 @@ Cuando me llegan 3 acks repetidos bajo rapidisimo el tamaño de la ventana. La r
 
 Ahora aumento mucho mas despacio el tamaño de la ventana. Recien cuando recibo la ventana ENTERA aumento un MSS, no por cada ack
 
-El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si llegp a tener otro triple ack pero con una cwind mas grande, ento
+El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si llegp a tener otro triple ack pero con una cwind mas grande, por lo que cwin/2 es mayor que sshtreshold, lo aumento.
+
+
+Si hay timeout, TCP reno setea el cwin en 1MSS y 
 ![[Pasted image 20250905212416.png]]

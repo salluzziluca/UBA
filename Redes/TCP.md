@@ -35,5 +35,5 @@ Retransmition Timeout (RTO)= T(i) + 4 D(i)
 
 ## Establecimiento de conexion y desconexion
 
-El emisor envia el paquete para abrir la conexion. Le manda su NS y le aclara cual es el MSS que va a usar. Le manda el flag de SYN y el rwin(recieve window), cuando puede recibir el emisor. .
+El emisor envia el paquete para abrir la conexion. Le manda su NS y le aclara cual es el MSS que va a usar. Le manda el flag de SYN y el rwin(recieve window), cuando puede recibir el emisor.
 ![[Pasted image 20250905210054.png]]

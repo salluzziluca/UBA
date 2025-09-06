@@ -57,4 +57,7 @@ cwin = cogestion WIn
 
 
 La ventana de congestion arranca en 1 MSS. 
-ek ssthres aranaca en 65535 (byte)
+ek ssthres aranaca en 65535 (bytes)
+
+Envio lo mio, un total de un mss
+Me llega la repsuesta y por cada ACK que tengo aumento en 1 mss (en este caso )

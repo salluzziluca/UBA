@@ -2,6 +2,9 @@
 Dia: 2025-09-05
 dg-publish: true
 ---
+
+
+![[Pasted image 20250905214306.png]]
 Los paquetes de TCP se llaman segmentos porque si tienen relacion el uno con el otro 
 
 Cuando yo envio mi paquete mando un SN (sequence number o NS), este es el numero dle ultimo byte. Y en el ACK por parte del reciever me va a llegar en NR (numero de reconocimiento) el numero SN+1. Es decir, el proximo que yo quiero escuchar.

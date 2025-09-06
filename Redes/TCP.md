@@ -38,4 +38,6 @@ Retransmition Timeout (RTO)= T(i) + 4 D(i)
 El emisor envia el paquete para abrir la conexion. Le manda su NS y le aclara cual es el MSS que va a usar. Le manda el flag de SYN y el rwin(recieve window), cuanto puede recibir el emisor
 
 El receptor envia un ack con NR=ns del emisor +1. Le envia el MSS y el Rwin propios.
+
+Finalmente el emisor envia un ACK con el mismo NS, el NR +1 y el rwin
 ![[Pasted image 20250905210054.png]]

@@ -49,4 +49,8 @@ Finalmente el emisor envia un ACK con el mismo NS, el NR +1 y el rwin *en ese mo
 
 ## Tipos de Ventanas
 
-W= min(rwin, cwind). Ventana de
+W= min(rwin, cwind). 
+
+W = ventana de transmision 
+rwin = recieve window del otro lado
+cwin = cogestion WIn

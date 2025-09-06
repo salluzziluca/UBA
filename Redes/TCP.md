@@ -77,3 +77,6 @@ El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si
 
 Si hay timeout, TCP reno setea el cwin en 1MSS y ssh treshold en 2MSS. En seguida llega a los 2 MSS y vuelve a entrar en congestion avoidance
 ![[Pasted image 20250905212416.png]]
+
+
+## Fast Retransmiting y Fast recovery

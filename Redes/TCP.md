@@ -70,5 +70,7 @@ Aumenta muy rapido, exponencialmente
 ### congestion avoidance
 Cuando me llegan 3 acks repetidos bajo rapidisimo el tamaño de la ventana. La reduzco a la mitad y seteo el sshtreshold al punto en el que estoy en ese momento (ya dividida).
 
-Ahora aumento mucho mas despacio el tamaño de la ventana. Recien cuando recibo la ventana ENTERA aumento un MSS, no por cada ACK
+Ahora aumento mucho mas despacio el tamaño de la ventana. Recien cuando recibo la ventana ENTERA aumento un MSS, no por cada ack
+
+El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si llegp a tener otro triple ack pero con una cwind mas grande, ento
 ![[Pasted image 20250905212416.png]]

@@ -41,6 +41,7 @@ El receptor envia un ack con NR=ns del emisor +1. Le envia el MSS y el Rwin prop
 
 Finalmente el emisor envia un ACK con el mismo NS, el NR +1 y el rwin *en ese momento*
 
->[!important] 
->
+>[!important] El rwin se manda en cada paquete, siempre. Le digo cual es el tamaño de mi buffer en ese momento. Mi disponibilidad para redivir
+
+
 ![[Pasted image 20250905210054.png]]

@@ -60,4 +60,9 @@ La ventana de congestion arranca en 1 MSS.
 ek ssthres aranaca en 65535 (bytes)
 
 Envio lo mio, un total de un mss
-Me llega la repsuesta y por cada ACK que tengo aumento en 1 mss (en este caso )
+Me llega la repsuesta y por cada ACK que tengo aumento en 1 mss (en este caso aumento de 1 a 2 mss)
+Envio 2 ventanas completas 
+Me llegan las respuestas. Por cada ack aumento en 1 mss (aumento de 2 a 4)
+
+
+![[Pasted image 20250905212416.png]]

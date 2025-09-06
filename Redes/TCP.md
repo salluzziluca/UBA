@@ -57,7 +57,7 @@ cwin = cogestion WIn
 
 ### Slow Start
 La ventana de congestion arranca en 1 MSS. 
-ek ssthres aranaca en 65535 (bytes)
+ek ssthres aranaca en 65535 (bytes) (practicamente en +inf)
 
 Envio lo mio, un total de un mss
 Me llega la repsuesta y por cada ACK que tengo aumento en 1 mss (en este caso aumento de 1 a 2 mss)
@@ -68,5 +68,5 @@ y asi...
 Aumenta muy rapido, exponencialmente
 
 ### 
-Cuando me llegan 3 acks repetidos bajo rapidisimo el tamaño de la ventana. La reduzco a la mitad
+Cuando me llegan 3 acks repetidos bajo rapidisimo el tamaño de la ventana. La reduzco a la mitad y seteo el 
 ![[Pasted image 20250905212416.png]]

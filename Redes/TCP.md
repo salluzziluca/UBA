@@ -45,3 +45,8 @@ Finalmente el emisor envia un ACK con el mismo NS, el NR +1 y el rwin *en ese mo
 
 
 ![[Pasted image 20250905210054.png]]
+
+
+## Tipos de Ventanas
+
+W= min(rwin, cwind). Ventana de

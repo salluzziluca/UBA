@@ -2321,6 +2321,9 @@ canonico
 cultra
 computos
 cocina
+correcci
+concentrada
+centro
 de
 dispositivos
 del
@@ -4821,6 +4824,7 @@ excepto
 esperar
 executor
 esper
+estuviese
 servicios
 son
 su
@@ -5834,6 +5838,7 @@ siguen
 sync
 std
 sirven
+seguira
 par
 por
 punto
@@ -7013,6 +7018,8 @@ parado
 puerta
 polling
 primitivos
+progresar
+permanece
 la
 las
 le
@@ -12156,6 +12163,10 @@ Especifica
 Engineer
 Ejercitacion
 Exclusive
+Especificaciones
+Exclusi
+Embedded
+Evento
 kernel
 kt
 kU
@@ -14680,6 +14691,7 @@ nutricionista
 negocios
 noticia
 nanosegundos
+nulas
 via
 vuelve
 viven
@@ -15824,6 +15836,7 @@ Areas
 Arquitecturas
 Async
 Autorizadas
+Ausencia
 Programming
 Procesos
 Partes
@@ -16463,6 +16476,7 @@ Permitia
 PTR
 Paralelismo
 Pending
+Parte
 Interface
 ID
 Instructions
@@ -18305,6 +18319,10 @@ mill
 mac
 multimedia
 mete
+multiplicada
+masas
+masa
+moviera
 tien
 tiene
 todos
@@ -19863,6 +19881,9 @@ iterativas
 idel
 intecalarlas
 intermedia
+intercalarse
+intentan
+incierta
 fijo
 file
 fork
@@ -22718,6 +22739,7 @@ Manifestaci
 Modo
 Multicast
 Mail
+MRU
 Table
 Todos
 This
@@ -25913,6 +25935,7 @@ Owner
 OwkCo
 Ofw
 Obliga
+Observaciones
 ya
 yo
 yM

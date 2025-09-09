@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
+      "path": "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md"
+    },
+    {
+      "basename": "Riesgos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
+    },
+    {
+      "basename": "Drawing 2023-10-09 12.26.04.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-09 12.26.04.excalidraw.md"
+    },
+    {
+      "basename": "Seccion Critica",
+      "path": "Programacion Concurrente/Seccion Critica.md"
+    },
+    {
       "basename": "Locks",
       "path": "Programacion Concurrente/Locks.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Locks en UNIX",
       "path": "Programacion Concurrente/Locks en UNIX.md"
-    },
-    {
-      "basename": "Seccion Critica",
-      "path": "Programacion Concurrente/Seccion Critica.md"
     },
     {
       "basename": "Correccion",
@@ -187,18 +199,6 @@
     {
       "basename": "5.3 Patrones Estructurales",
       "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
-    },
-    {
-      "basename": "5.2 Patrones de Creación",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
-    },
-    {
-      "basename": "5.1 Definición de Patrones de Diseño",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
-    },
-    {
-      "basename": "estimadores",
-      "path": "Probabilidad y Estadística B/9. Estadística/estimadores.md"
     }
   ],
   "omittedPaths": [],

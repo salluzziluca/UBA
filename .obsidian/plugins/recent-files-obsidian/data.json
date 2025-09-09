@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Programacion Concurrente/Untitled.md"
+      "basename": "Locks en Rust",
+      "path": "Programacion Concurrente/Locks en Rust.md"
+    },
+    {
+      "basename": "Locks",
+      "path": "Programacion Concurrente/Locks.md"
+    },
+    {
+      "basename": "Locks en UNIX",
+      "path": "Programacion Concurrente/Locks en UNIX.md"
     },
     {
       "basename": "Seccion Critica",
@@ -191,14 +199,6 @@
     {
       "basename": "9.2 Método de Máxima Verosimilitud",
       "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
-    },
-    {
-      "basename": "3.3 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
-    },
-    {
-      "basename": "4.2 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.2 Extension a Vectores Aleatorios.md"
     }
   ],
   "omittedPaths": [],

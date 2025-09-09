@@ -5833,6 +5833,7 @@ subtareas
 siguen
 sync
 std
+sirven
 par
 por
 punto
@@ -7011,6 +7012,7 @@ polls
 parado
 puerta
 polling
+primitivos
 la
 las
 le
@@ -10797,6 +10799,8 @@ Sync
 Sube
 SOA
 Sigue
+Send
+Shared
 Calls
 Cmabia
 CPU
@@ -11493,6 +11497,7 @@ COLA
 Cacheo
 CNAME
 CALMS
+Concepto
 Es
 El
 Estos
@@ -12150,6 +12155,7 @@ Entrega
 Especifica
 Engineer
 Ejercitacion
+Exclusive
 kernel
 kt
 kU
@@ -14105,6 +14111,7 @@ obligatoria
 origina
 overhead
 obten
+ownership
 nombre
 nuevo
 nica
@@ -18982,6 +18989,7 @@ threados
 tokio
 ticket
 tranquilo
+transferir
 inico
 interna
 infro
@@ -20487,6 +20495,8 @@ fidelidad
 formateado
 faicl
 future
+ficas
+formados
 Nombre
 Notas
 Not
@@ -23226,6 +23236,7 @@ Traduce
 TDLs
 Tokio
 Todav
+Traits
 Realiza
 REgistrys
 Rango
@@ -23899,6 +23910,7 @@ Recursivas
 Recursiva
 Rust
 Repite
+RwLock
 bien
 by
 be

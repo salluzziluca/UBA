@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Locks en Rust",
-      "path": "Programacion Concurrente/Locks en Rust.md"
-    },
-    {
       "basename": "Locks",
       "path": "Programacion Concurrente/Locks.md"
+    },
+    {
+      "basename": "Concurrencia",
+      "path": "Sistemas Operativos/Concurrencia.md"
+    },
+    {
+      "basename": "Locks en Rust",
+      "path": "Programacion Concurrente/Locks en Rust.md"
     },
     {
       "basename": "Locks en UNIX",
@@ -195,10 +199,6 @@
     {
       "basename": "estimadores",
       "path": "Probabilidad y Estadística B/9. Estadística/estimadores.md"
-    },
-    {
-      "basename": "9.2 Método de Máxima Verosimilitud",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
     }
   ],
   "omittedPaths": [],

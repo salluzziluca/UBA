@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "equo chropmium",
+      "path": "equo chropmium.md"
+    },
+    {
       "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
       "path": "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5.4 Patrones de Comportamiento",
       "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
-    },
-    {
-      "basename": "5.3 Patrones Estructurales",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
     }
   ],
   "omittedPaths": [],

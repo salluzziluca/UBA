@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Equo/Untitled.md"
+    },
+    {
       "basename": "Seccion Critica",
       "path": "Programacion Concurrente/Seccion Critica.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Para el final",
       "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
-    },
-    {
-      "basename": "5.4 Patrones de Comportamiento",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
     }
   ],
   "omittedPaths": [],

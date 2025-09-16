@@ -945,3 +945,9 @@ public class Subscriber {
     public void onFullscreenModeChangeNotify(boolean fullscreen) {
         EventType eventType = fullscreen ? EventType.onFullScreenEntered : EventType.onFull
 ```
+
+step 1: lgrar que si yo pongo un return o que la funcion retorne y yo pueda agarrar el independent browser y en vez de retornar false poder retornar la ejecucion de la funcion que el cliente pueda llegar a ejecutar.
+
+hacer las modioficaciones necesarias para que subscriber.notifysubscribers devuelva lo que devuelva la funcion.
+
+segundo stP: cambiar la url de navegacion. Agarramos y hacelos el geturl de request y lo cambiamos con load

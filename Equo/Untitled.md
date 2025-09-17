@@ -956,122 +956,69 @@ segundo stP: cambiar la url de navegacion. Agarramos y hacelos el geturl de requ
 
 ```py 
 def recieve_selective_repeat(args, download_socket, filesize):
+    """ Implementación del protocolo Selective Repeat para la recepción de archivos
+    Ventana deslizante con tamaño fijo, manejo de ACKs individuales y reenvío de paquetes perdidos.
+    La función asume que los paquetes tienen el formato "seq_num:chunk" y que el servidor envía
+    los paquetes en orden secuencial, pero pueden llegar fuera de orden o perderse.
+    La función también maneja la creación del archivo de destino, ya sea en un directorio o con un nombre específico.
+    La función utiliza un diccionario para almacenar los paquetes recibidos y sus tiempos de recepción,
+    permitiendo reintentos para paquetes que no se confirman dentro de un tiempo límite.
 
-""" Implementación del protocolo Selective Repeat para la recepción de archivos
-
-Ventana deslizante con tamaño fijo, manejo de ACKs individuales y reenvío de paquetes perdidos.
-
-La función asume que los paquetes tienen el formato "seq_num:chunk" y que el servidor envía
-
-los paquetes en orden secuencial, pero pueden llegar fuera de orden o perderse.
-
-La función también maneja la creación del archivo de destino, ya sea en un directorio o con un nombre específico.
-
-La función utiliza un diccionario para almacenar los paquetes recibidos y sus tiempos de recepción,
-
-permitiendo reintentos para paquetes que no se confirman dentro de un tiempo límite.
-
-  
-
-explicacion paso a paso:
-
-1. Se determina la ruta completa del archivo de destino, ya sea en un director
-
-2. Se abre el archivo en modo escritura binaria.
-
-3. Se inicializan variables para la ventana deslizante, el número base,
-
-4. Se inicia un bucle que continúa hasta que se hayan recibido todos los bytes del archivo.
-
-5. Dentro del bucle, se intenta recibir un paquete del servidor.
-
-6. Se extrae el número de secuencia y el contenido del paquete.
-
-7. Se verifica si el número de secuencia está dentro de la ventana actual.
-
-- Si es así, se escribe el contenido en el archivo y se envía un ACK
-
-- Si no, se ignora el paquete y, si es un paquete antiguo, se reenvía el ACK correspondiente.
-
-8. Se maneja el caso de timeout y paquetes malformados.
-
-9. Finalmente, se cierra el archivo y se confirma la descarga exitosa.
-
-"""
-
-if os.path.isdir(args.dst):
-
-file_path = os.path.join(args.dst, args.name)
-
-else:
-
-file_path = args.dst
-
-print(f"Saving file to: {file_path}")
-
-with open(file_path, "wb") as file:
-
-window_size = 4 #cant_pkt_env / 2 -> #cant_pkt_env = file_size / channel_size
-
-base_num = 0
-
-bytes_sent = 0
-
-pkts = {} # Diccionario: {seq_num: (packet, sent_time)}
-
-while bytes_sent < filesize:
-
-try:
-
-packet, _ = download_socket.recvfrom(4096)
-
-seq_str, chunk = packet.split(b":", 1)
-
-seq_received = int(seq_str)
-
-if base_num <= seq_received < base_num + window_size:
-
-if seq_received not in pkts:
-
-file.write(chunk)
-
-bytes_sent += len(chunk)
-
-pkts[seq_received] = (packet, None)
-
-print(f"Received and wrote packet {seq_received}.")
-
-download_socket.sendto(f"ACK:{seq_received}".encode(), (args.host, args.port))
-
-print(f"Sent ACK for packet {seq_received}.")
-
-while base_num in pkts:
-
-del pkts[base_num]
-
-base_num += 1
-
-else:
-
-print(f"Received out-of-window packet {seq_received}, expected window [{base_num}, {base_num + window_size - 1}]. Ignoring.")
-
-if seq_received < base_num:
-
-download_socket.sendto(f"ACK:{seq_received}".encode(), (args.host, args.port))
-
-print(f"Resent ACK for old packet {seq_received}.")
-
-except socket.timeout:
-
-print("Timeout waiting for packet. The server might have stopped.")
-
-break
-
-except ValueError:
-
-print("Received a malformed packet. Ignoring.")
-
-
+    explicacion paso a paso:
+    1. Se determina la ruta completa del archivo de destino, ya sea en un director
+    2. Se abre el archivo en modo escritura binaria.
+    3. Se inicializan variables para la ventana deslizante, el número base,
+    4. Se inicia un bucle que continúa hasta que se hayan recibido todos los bytes del archivo.
+    5. Dentro del bucle, se intenta recibir un paquete del servidor.
+    6. Se extrae el número de secuencia y el contenido del paquete.
+    7. Se verifica si el número de secuencia está dentro de la ventana actual.
+       - Si es así, se escribe el contenido en el archivo y se envía un ACK
+       - Si no, se ignora el paquete y, si es un paquete antiguo, se reenvía el ACK correspondiente.
+    8. Se maneja el caso de timeout y paquetes malformados.
+    9. Finalmente, se cierra el archivo y se confirma la descarga exitosa.
+    """
+    if os.path.isdir(args.dst):
+        file_path = os.path.join(args.dst, args.name)
+    else:
+        file_path = args.dst
+    
+    print(f"Saving file to: {file_path}")
+    
+    with open(file_path, "wb") as file:
+        window_size = 4 #cant_pkt_env / 2 -> #cant_pkt_env = file_size / channel_size
+        base_num = 0
+        bytes_sent = 0 
+        pkts = {}  # Diccionario: {seq_num: (packet, sent_time)}
+        while bytes_sent < filesize:
+            try:
+                packet, _ = download_socket.recvfrom(4096)
+                seq_str, chunk = packet.split(b":", 1)
+                seq_received = int(seq_str)
+                
+                if base_num <= seq_received < base_num + window_size:
+                    if seq_received not in pkts:
+                        file.write(chunk)
+                        bytes_sent += len(chunk)
+                        pkts[seq_received] = (packet, None)  
+                        print(f"Received and wrote packet {seq_received}.")
+                    
+                    download_socket.sendto(f"ACK:{seq_received}".encode(), (args.host, args.port))
+                    print(f"Sent ACK for packet {seq_received}.")
+                    
+                    while base_num in pkts:
+                        del pkts[base_num]
+                        base_num += 1
+                else:
+                    print(f"Received out-of-window packet {seq_received}, expected window [{base_num}, {base_num + window_size - 1}]. Ignoring.")
+                    if seq_received < base_num:
+                        download_socket.sendto(f"ACK:{seq_received}".encode(), (args.host, args.port))
+                        print(f"Resent ACK for old packet {seq_received}.")
+                    
+            except socket.timeout:
+                print("Timeout waiting for packet. The server might have stopped.")
+                break
+            except ValueError:
+                print("Received a malformed packet. Ignoring.")
 
 
 def send_selective_repeat(self, client_socket, addr, file_path):

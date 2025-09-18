@@ -28,3 +28,4 @@ with header field value of 0110 arrives to a router. The router indexes into its
 ing table and determines that the output link interface for this packet is interface 2.
 
 The router then internally forwards the packet to interface 2.
+

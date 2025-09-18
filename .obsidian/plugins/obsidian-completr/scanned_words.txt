@@ -5114,6 +5114,7 @@ envian
 exponencialmente
 extras
 extrasx
+ensamblar
 servicios
 son
 su
@@ -11473,6 +11474,7 @@ SYN
 Slow
 Start
 Sube
+Separar
 Calls
 Cmabia
 CPU
@@ -20343,6 +20345,7 @@ tutor
 tooodos
 transmission
 treshold
+tratado
 inico
 interna
 infro
@@ -21949,6 +21952,8 @@ faicl
 foo
 flag
 faltaban
+fragmentos
+fragmento
 Nombre
 Notas
 Not

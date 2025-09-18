@@ -4,3 +4,4 @@ dg-publish: true
 ---
 ![[Pasted image 20250918185308.png]]
 
+IHL = largo del paquete 

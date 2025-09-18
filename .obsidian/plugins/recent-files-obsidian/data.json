@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Network layer",
+      "path": "Redes/Network layer.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Equo/Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Intervalos de COnfianzaa",
       "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
-    },
-    {
-      "basename": "Para el final",
-      "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
     }
   ],
   "omittedPaths": [],

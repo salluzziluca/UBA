@@ -13,4 +13,5 @@ flags en general
 
 Se ensamblan antes de entregarlos a TCP/UDP
 
-Si uno o mas fragmentos no llegan, se descarta la secuencia.x
+Si uno o mas fragmentos no llegan, se descarta la secuencia
+![[Pasted image 20250918182553.png]]

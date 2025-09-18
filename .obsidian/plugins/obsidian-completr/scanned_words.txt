@@ -2463,6 +2463,11 @@ computizacion
 conectas
 chequeos
 channel
+cwind
+cwin
+cogestion
+colapse
+cierro
 de
 dispositivos
 del
@@ -3515,6 +3520,8 @@ datacenters
 datacenter
 dificlutad
 deberian
+desconexion
+despacio
 gestion
 gran
 guarda
@@ -5102,6 +5109,11 @@ estaria
 evniar
 enviaria
 esperaria
+escuchar
+envian
+exponencialmente
+extras
+extrasx
 servicios
 son
 su
@@ -6175,6 +6187,10 @@ subiendo
 subida
 signal
 several
+ssthres
+seteo
+sshtreshold
+slots
 par
 por
 punto
@@ -7380,6 +7396,10 @@ presencia
 paises
 polling
 prametro
+pisan
+peudo
+push
+practicamente
 la
 las
 le
@@ -8063,6 +8083,7 @@ llr
 ljp
 ldata
 linkea
+llegp
 agnosticos
 apps
 al
@@ -9134,6 +9155,10 @@ achico
 avisar
 abarcativos
 along
+aire
+aranaca
+avoidance
+agrando
 hardware
 heap
 hay
@@ -11443,6 +11468,9 @@ SHM
 SUt
 Selective
 Servidores
+SYN
+Slow
+Start
 Calls
 Cmabia
 CPU
@@ -12906,6 +12934,9 @@ Espec
 Entrega
 Exposicion
 Enter
+Establecimiento
+Envio
+ENTERA
 kernel
 kt
 kU
@@ -14390,6 +14421,14 @@ redundancy
 reenvio
 recolecto
 reciever
+rwin
+recieve
+redivir
+repsuesta
+rapidisimo
+reduzco
+reno
+recovery
 operacion
 orden
 operaciones
@@ -16254,6 +16293,8 @@ vide
 vmhd
 volaria
 ventana
+vetana
+ventanas
 Application
 API
 Asigna
@@ -16889,6 +16930,7 @@ Aom
 ART
 Autorizadas
 AKC
+Aumenta
 Programming
 Procesos
 Partes
@@ -19581,6 +19623,7 @@ muchisimo
 manda
 messages
 multiplexando
+mio
 tien
 tiene
 todos
@@ -20296,6 +20339,7 @@ tematica
 tutor
 tooodos
 transmission
+treshold
 inico
 interna
 infro
@@ -21217,6 +21261,7 @@ innovacio
 importanes
 insoportable
 involving
+inf
 fijo
 file
 fork
@@ -21899,6 +21944,8 @@ folder
 formateado
 faicl
 foo
+flag
+faltaban
 Nombre
 Notas
 Not
@@ -24905,6 +24952,7 @@ TDLs
 Timer
 TLS
 Transport
+Timeout
 Realiza
 REgistrys
 Rango
@@ -25642,6 +25690,11 @@ Reenvio
 Respuesta
 Resiliencia
 Resiste
+Reporte
+Retransmition
+RTO
+Rwin
+Retransmiting
 bien
 by
 be
@@ -26727,6 +26780,7 @@ wmo
 wLU
 webs
 whatsapp
+window
 VA
 VIEW
 Volumen
@@ -27252,6 +27306,7 @@ VideoHandler
 Vuelvo
 Verificacion
 Ventana
+Ventanas
 OPTIONS
 Operativos
 Orden

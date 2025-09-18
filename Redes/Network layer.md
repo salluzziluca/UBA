@@ -29,3 +29,5 @@ ing table and determines that the output link interface for this packet is inter
 
 The router then internally forwards the packet to interface 2.
 
+
+

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mascara de Red",
+      "path": "Redes/Mascara de Red.md"
+    },
+    {
       "basename": "Network layer",
       "path": "Redes/Network layer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "TPP/Ideas.md"
     }
   ],
   "omittedPaths": [],

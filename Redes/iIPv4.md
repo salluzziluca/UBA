@@ -6,4 +6,8 @@ dg-publish: true
 
 IHL = largo del paquete 
 
-Identification = Id. Todos los fragmentos de un paquete van a tener el mismo id. Si cambia entre paquetes
+Identification = Id. Todos los fragmentos de un paquete van a tener el mismo id. Si cambia entre paquetes|
+
+para ver los flags de fragmentacon ver [[Fragmentacion]]
+
+TTL: cuanto saltos puede hacer un paquete antes de ser descartado

@@ -14,8 +14,9 @@ flags en general
 Se ensamblan antes de entregarlos a TCP/UDP
 
 Si uno o mas fragmentos no llegan, se descarta la secuencia
-![[Pasted image 20250918182553.png]]
 
+![[Pasted image 20250918182553.png]]
+El flag de do not fragment le dice a ip que NO fragmenet este paquete. Si no pasa porque es mas grande que el MTU, no lo fragmentes, descartalo.
 
 Ej:
 

@@ -3522,6 +3522,9 @@ dificlutad
 deberian
 desconexion
 despacio
+detalla
+descarta
+divisible
 gestion
 gran
 guarda
@@ -5115,6 +5118,8 @@ exponencialmente
 extras
 extrasx
 ensamblar
+ensamblan
+entregarlos
 servicios
 son
 su
@@ -7401,6 +7406,7 @@ pisan
 peudo
 push
 practicamente
+payload
 la
 las
 le
@@ -14433,6 +14439,7 @@ rapidisimo
 reduzco
 reno
 recovery
+reensamblado
 operacion
 orden
 operaciones
@@ -21954,6 +21961,7 @@ flag
 faltaban
 fragmentos
 fragmento
+fragment
 Nombre
 Notas
 Not

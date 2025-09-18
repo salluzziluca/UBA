@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IPv6",
+      "path": "Redes/IPv6.md"
+    },
+    {
       "basename": "iIPv4",
       "path": "Redes/iIPv4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ideas",
       "path": "TPP/Ideas.md"
-    },
-    {
-      "basename": "Lugar de juntadas",
-      "path": "TPP/Lugar de juntadas.md"
     }
   ],
   "omittedPaths": [],

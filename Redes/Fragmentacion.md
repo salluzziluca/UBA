@@ -23,6 +23,8 @@ supongamos MTU 550B
 530B payload + 20B header
 ● Quiero enviar un payload 800B
 
+
+busco el mayor valor posible a 550 divisible por 8.
 ![[Pasted image 20250918182919.png]]
 = 528B
 

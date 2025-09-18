@@ -1,1 +1,1 @@
-tamaño maximo del mensaje que puedo enviar (en bytes). Eso + header y cosas nos da el MTU (maximun transmition unit)
+tamaño maximo del mensaje que puedo enviar (en bytes). Eso + header y cosas nos da el [[MTU]] (maximun transmition unit)

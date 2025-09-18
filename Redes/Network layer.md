@@ -2,5 +2,7 @@
 Dia: 2025-09-18
 dg-publish: true
 ---
-## Routing 
-Cuando un paquete le llega al router en su input 
+## Forward 
+Cuando un paquete le llega al router en su input link, este lo forwardea al proximo router en la cadena de 
+
+## 

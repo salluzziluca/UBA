@@ -2468,6 +2468,7 @@ cwin
 cogestion
 colapse
 cierro
+calculate
 de
 dispositivos
 del
@@ -3529,6 +3530,7 @@ descartalo
 descartado
 decrementa
 destination
+determines
 gestion
 gran
 guarda
@@ -5124,6 +5126,7 @@ extrasx
 ensamblar
 ensamblan
 entregarlos
+examining
 servicios
 son
 su
@@ -6202,6 +6205,7 @@ seteo
 sshtreshold
 slots
 saltos
+sender
 par
 por
 punto
@@ -7414,6 +7418,9 @@ practicamente
 payload
 pasas
 puedes
+paths
+plane
+packet
 la
 las
 le
@@ -8098,6 +8105,7 @@ ljp
 ldata
 linkea
 llegp
+link
 agnosticos
 apps
 al
@@ -9174,6 +9182,11 @@ aranaca
 avoidance
 agrando
 andtro
+apquete
+allevar
+algorithms
+algorithm
+arriving
 hardware
 heap
 hay
@@ -14450,6 +14463,11 @@ reno
 recovery
 reensamblado
 rebota
+ruta
+route
+receiver
+referred
+routing
 operacion
 orden
 operaciones
@@ -15071,6 +15089,7 @@ oqXu
 oNR
 oficial
 oral
+outgoing
 nombre
 nuevo
 nica
@@ -15695,6 +15714,7 @@ nYE
 nam
 nucleo
 numerito
+network
 via
 vuelve
 viven
@@ -16318,6 +16338,8 @@ ventana
 vetana
 ventanas
 vas
+viaje
+values
 Application
 API
 Asigna
@@ -20370,6 +20392,7 @@ transmission
 treshold
 tratado
 topologia
+taken
 inico
 interna
 infro
@@ -21293,6 +21316,11 @@ insoportable
 involving
 inf
 ips
+interface
+implemented
+indicates
+indexes
+internally
 fijo
 file
 fork
@@ -21983,6 +22011,12 @@ fragment
 fragmenet
 fragmentes
 fragmentacon
+forwardea
+forwards
+fields
+forwarding
+forwarded
+field
 Nombre
 Notas
 Not
@@ -23130,6 +23164,8 @@ Fiz
 Fmk
 FEDEE
 Flujo
+Forward
+Forwarding
 Descriptors
 Descriptor
 Devuelve
@@ -25734,6 +25770,7 @@ Retransmition
 RTO
 Rwin
 Retransmiting
+Routing
 bien
 by
 be
@@ -27346,6 +27383,7 @@ Vuelvo
 Verificacion
 Ventana
 Ventanas
+Vendria
 OPTIONS
 Operativos
 Orden

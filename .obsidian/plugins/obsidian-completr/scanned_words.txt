@@ -3526,6 +3526,8 @@ detalla
 descarta
 divisible
 descartalo
+descartado
+decrementa
 gestion
 gran
 guarda
@@ -6198,6 +6200,7 @@ ssthres
 seteo
 sshtreshold
 slots
+saltos
 par
 por
 punto
@@ -7408,6 +7411,8 @@ peudo
 push
 practicamente
 payload
+pasas
+puedes
 la
 las
 le
@@ -9167,6 +9172,7 @@ aire
 aranaca
 avoidance
 agrando
+andtro
 hardware
 heap
 hay
@@ -10812,6 +10818,7 @@ uum
 uxn
 udta
 unit
+usarlo
 System
 Son
 Source
@@ -14441,6 +14448,7 @@ reduzco
 reno
 recovery
 reensamblado
+rebota
 operacion
 orden
 operaciones
@@ -15685,6 +15693,7 @@ nqq
 nYE
 nam
 nucleo
+numerito
 via
 vuelve
 viven
@@ -16307,6 +16316,7 @@ volaria
 ventana
 vetana
 ventanas
+vas
 Application
 API
 Asigna
@@ -17625,6 +17635,7 @@ Protocol
 Protocolo
 Presence
 Poruqe
+Podes
 Interface
 ID
 Instructions
@@ -18223,6 +18234,7 @@ IXP
 Infraestructura
 IHL
 Identification
+ISMP
 Un
 UNIX
 UBA
@@ -20356,6 +20368,7 @@ tooodos
 transmission
 treshold
 tratado
+topologia
 inico
 interna
 infro
@@ -21278,6 +21291,7 @@ importanes
 insoportable
 involving
 inf
+ips
 fijo
 file
 fork
@@ -21967,6 +21981,7 @@ fragmento
 fragment
 fragmenet
 fragmentes
+fragmentacon
 Nombre
 Notas
 Not
@@ -24975,6 +24990,7 @@ Timer
 TLS
 Transport
 Timeout
+TTL
 Realiza
 REgistrys
 Rango

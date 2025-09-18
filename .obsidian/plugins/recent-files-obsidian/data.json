@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IPv4",
+      "path": "Redes/IPv4.md"
+    },
+    {
       "basename": "Fragmentacion",
       "path": "Redes/Fragmentacion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lugar de juntadas",
       "path": "TPP/Lugar de juntadas.md"
-    },
-    {
-      "basename": "Buscador de estacionamiento",
-      "path": "TPP/Buscador de estacionamiento.md"
     }
   ],
   "omittedPaths": [],

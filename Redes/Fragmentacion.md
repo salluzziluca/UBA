@@ -15,3 +15,10 @@ Se ensamblan antes de entregarlos a TCP/UDP
 
 Si uno o mas fragmentos no llegan, se descarta la secuencia
 ![[Pasted image 20250918182553.png]]
+
+
+Ej:
+
+supongamos MTU 550B
+530B payload + 20B header
+● Quiero enviar un payload 800B

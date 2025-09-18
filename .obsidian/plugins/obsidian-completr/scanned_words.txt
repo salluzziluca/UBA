@@ -11471,6 +11471,7 @@ Servidores
 SYN
 Slow
 Start
+Sube
 Calls
 Cmabia
 CPU
@@ -31786,6 +31787,7 @@ JQI
 JOo
 JVi
 JJk
+Jitter
 Quienes
 Queue
 Quiere

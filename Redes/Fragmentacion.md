@@ -4,4 +4,4 @@ dg-publish: true
 ---
 Separar un paquete de datos en fragmentos mas pequeños para una transmision sin interrupciones. 
 
-Cada fragmento es un pquete IP diferente y tratado individualmente, no se va a poder enasmblar en el camino
+Cada fragmento es un paquete IP diferente y tratado individualmente, no se va a poder ensamblar en el camino.

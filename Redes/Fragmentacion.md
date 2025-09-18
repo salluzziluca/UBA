@@ -25,3 +25,5 @@ supongamos MTU 550B
 
 ![[Pasted image 20250918182919.png]]
 = 528B
+
+primer fragmento = 528, segundo fragmento 800-528=272

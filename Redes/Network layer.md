@@ -3,11 +3,12 @@ Dia: 2025-09-18
 dg-publish: true
 ---
 ## Forward 
-Cuando un paquete le llega al router en su input link, este lo forwardea al proximo router en la cadena de mensaje. Este termino refiere a la accion local de cada router de transmitir un paquete 
+Cuando un paquete le llega al router en su input link, este lo forwardea al proximo router en la cadena de mensaje. Este termino refiere a la accion local de cada router de transmitir un paquete desde input hasta su output link interface
 
 
 
 ## Routing 
+Este termino refiere al proceso end to end de elegir la mejor ruta para que viaje el paquete. 
 The network layer must determine the route or path taken by packets as
 they flow from a sender to a receiver. The algorithms that calculate these paths
 are referred to as routing algorithms. A routing algorithm would determine, for

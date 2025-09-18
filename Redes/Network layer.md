@@ -9,6 +9,8 @@ Cuando un paquete le llega al router en su input link, este lo forwardea al prox
 
 ## Routing 
 Este termino refiere al proceso end to end de elegir la mejor ruta para que viaje el paquete. 
+Vendria a ser como la planificacion del viaje que el apquete va allevar a cabo
+
 The network layer must determine the route or path taken by packets as
 they flow from a sender to a receiver. The algorithms that calculate these paths
 are referred to as routing algorithms. A routing algorithm would determine, for

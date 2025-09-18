@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fragmentacion",
+      "path": "Redes/Fragmentacion.md"
+    },
+    {
       "basename": "MSS",
       "path": "Redes/MSS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Buscador de estacionamiento",
       "path": "TPP/Buscador de estacionamiento.md"
-    },
-    {
-      "basename": "Organizador de Viaje con IA",
-      "path": "TPP/Organizador de Viaje con IA.md"
     }
   ],
   "omittedPaths": [],

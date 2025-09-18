@@ -10,4 +10,4 @@ Identification = Id. Todos los fragmentos de un paquete van a tener el mismo id.
 
 para ver los flags de fragmentacon ver [[Fragmentacion]]
 
-TTL: cuanto saltos puede hacer un paquete antes de ser descartado
+TTL: cuanto saltos puede hacer un paquete antes de ser descartado. Cada vez que pasas por un router, se decrementa en un o ese numerito.

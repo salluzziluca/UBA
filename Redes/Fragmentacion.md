@@ -13,4 +13,4 @@ flags en general
 
 Se ensamblan antes de entregarlos a TCP/UDP
 
-Si uno o mas fragmentos no llegan, se descarta la secuencia.
+Si uno o mas fragmentos no llegan, se descarta la secuencia.x

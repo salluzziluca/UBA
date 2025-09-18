@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MSS",
+      "path": "Redes/MSS.md"
+    },
+    {
+      "basename": "MTU",
+      "path": "Redes/MTU.md"
+    },
+    {
       "basename": "Network layer",
       "path": "Redes/Network layer.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "MSS",
-      "path": "Redes/MSS.md"
     },
     {
       "basename": "Multiplexar",
@@ -195,10 +199,6 @@
     {
       "basename": "Organizador de Viaje con IA",
       "path": "TPP/Organizador de Viaje con IA.md"
-    },
-    {
-      "basename": "Intervalos de COnfianzaa",
-      "path": "Probabilidad y Estadística B/9. Estadística/Intervalos de COnfianzaa.md"
     }
   ],
   "omittedPaths": [],

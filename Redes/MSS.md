@@ -1,1 +1,1 @@
-tamaño maximo que puedo enviar (en bytes)
+tamaño maximo del mensaje que puedo enviar (en bytes). Eso + header y cosas nos da el MTU (maximun tramsitio)

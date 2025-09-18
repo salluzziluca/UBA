@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Equo/Untitled.md"
+    },
+    {
+      "basename": "Seccion Critica",
+      "path": "Programacion Concurrente/Seccion Critica.md"
+    },
+    {
+      "basename": "equo chropmium",
+      "path": "equo chropmium.md"
+    },
+    {
+      "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
+      "path": "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md"
+    },
+    {
+      "basename": "Riesgos",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
+    },
+    {
+      "basename": "Drawing 2023-10-09 12.26.04.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-09 12.26.04.excalidraw.md"
+    },
+    {
+      "basename": "Locks",
+      "path": "Programacion Concurrente/Locks.md"
+    },
+    {
+      "basename": "Concurrencia",
+      "path": "Sistemas Operativos/Concurrencia.md"
+    },
+    {
+      "basename": "Locks en Rust",
+      "path": "Programacion Concurrente/Locks en Rust.md"
+    },
+    {
+      "basename": "Locks en UNIX",
+      "path": "Programacion Concurrente/Locks en UNIX.md"
+    },
+    {
+      "basename": "Correccion",
+      "path": "Programacion Concurrente/Correccion.md"
+    },
+    {
+      "basename": "Arquitectura",
+      "path": "Ingeneniería del Software I/Arquitectura.md"
+    },
+    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Para el final",
       "path": "Probabilidad y Estadística B/9. Estadística/Para el final.md"
-    },
-    {
-      "basename": "5.4 Patrones de Comportamiento",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.4 Patrones de Comportamiento.md"
-    },
-    {
-      "basename": "5.3 Patrones Estructurales",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.3 Patrones Estructurales.md"
-    },
-    {
-      "basename": "5.2 Patrones de Creación",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.2 Patrones de Creación.md"
-    },
-    {
-      "basename": "5.1 Definición de Patrones de Diseño",
-      "path": "Algoritmos y Programación III/5. Patrones de Diseño/5.1 Definición de Patrones de Diseño.md"
-    },
-    {
-      "basename": "estimadores",
-      "path": "Probabilidad y Estadística B/9. Estadística/estimadores.md"
-    },
-    {
-      "basename": "9.2 Método de Máxima Verosimilitud",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.2 Método de Máxima Verosimilitud.md"
-    },
-    {
-      "basename": "3.3 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.3 Extension a Vectores Aleatorios.md"
-    },
-    {
-      "basename": "4.2 Extension a Vectores Aleatorios",
-      "path": "Probabilidad y Estadística B/4. Funcion de Variable Aleatoria/4.2 Extension a Vectores Aleatorios.md"
-    },
-    {
-      "basename": "1.6 Particiones",
-      "path": "Probabilidad y Estadística B/1. Probabilidad/1.6 Particiones.md"
-    },
-    {
-      "basename": "7.0 Proceso de Poisson",
-      "path": "Probabilidad y Estadística B/7. Proceso de Poisson/7.0 Proceso de Poisson.md"
-    },
-    {
-      "basename": "9.3 Distribuciones Importantes",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.3 Distribuciones Importantes.md"
-    },
-    {
-      "basename": "9.1 Introducción a la Estadística",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.1 Introducción a la Estadística.md"
     }
   ],
   "omittedPaths": [],

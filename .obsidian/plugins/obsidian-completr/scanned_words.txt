@@ -3525,6 +3525,7 @@ despacio
 detalla
 descarta
 divisible
+descartalo
 gestion
 gran
 guarda
@@ -21964,6 +21965,8 @@ faltaban
 fragmentos
 fragmento
 fragment
+fragmenet
+fragmentes
 Nombre
 Notas
 Not

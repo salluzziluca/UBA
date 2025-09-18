@@ -9,7 +9,7 @@ Cada fragmento es un paquete IP diferente y tratado individualmente, no se va a 
 La informacion que detalla la fragmentacion se encuentra en el header IP. 
 
 fragment offset (porque los fragmentos pueden no llegar en orden, se da el offset para hacer el reensamblado)
-flags en general 
+flags en general. Su offset con respecto al paquete original. 
 
 Se ensamblan antes de entregarlos a TCP/UDP
 

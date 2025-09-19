@@ -17,7 +17,7 @@ s
 El paquete entra por el input port, pasa por la switch fabric que mapea a donde tiene que mandarlo y sale por el output correspondiente.
 ![[Pasted image 20250919201347.png]]
 
-
+Puede haber congestion si dos paquetes tienen que ir al mismo output. se genera un HOL blocking (paquetes rojos)
 
 ## Control plane 
 Como vialidad nacional que pinta los carteles en las rutas nacionales.

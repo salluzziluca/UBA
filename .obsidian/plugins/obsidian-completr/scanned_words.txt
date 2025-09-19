@@ -3541,6 +3541,7 @@ determines
 desempaquetarlo
 diga
 dbee
+dando
 gestion
 gran
 guarda
@@ -19722,6 +19723,8 @@ mapea
 mandarlo
 mascaras
 maten
+mapeado
+muere
 tien
 tiene
 todos

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Routers",
+      "path": "Redes/Routers.md"
+    },
+    {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1 Introduccion a Data Science",
       "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
-    },
-    {
-      "basename": "1.0 Data Science",
-      "path": "Organización de Datos/1. Data Science/1.0 Data Science.md"
     }
   ],
   "omittedPaths": [],

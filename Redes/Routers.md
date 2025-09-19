@@ -25,7 +25,7 @@ Llega un paquete al router. Este mira el hash, si da nula se lo tira al routing 
 ![[Pasted image 20250919202727.png]]
 
 
-Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn Robi]]
+Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn Robin]], [[Scheduling#Cola FIFO|FIFO]] o colas de prioridad 
 
 ## Control plane 
 Como vialidad nacional que pinta los carteles en las rutas nacionales.

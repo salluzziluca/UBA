@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Scheduling",
+      "path": "Sistemas Operativos/Scheduling.md"
+    },
+    {
       "basename": "Routers",
       "path": "Redes/Routers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UBA",
       "path": "UBA.md"
-    },
-    {
-      "basename": "1.1 Introduccion a Data Science",
-      "path": "Organización de Datos/1. Data Science/1.1 Introduccion a Data Science.md"
     }
   ],
   "omittedPaths": [],

@@ -1075,6 +1075,7 @@ LsR
 Lqp
 LHK
 Levels
+Llega
 capa
 controlado
 cantidad
@@ -2471,6 +2472,7 @@ cierro
 calculate
 calle
 continente
+colas
 de
 dispositivos
 del
@@ -7434,6 +7436,7 @@ planeta
 paqute
 pasarlo
 pinta
+processor
 la
 las
 le
@@ -14490,6 +14493,8 @@ referred
 routing
 reservadas
 rutas
+routeo
+rojos
 operacion
 orden
 operaciones
@@ -17684,6 +17689,7 @@ Presence
 Poruqe
 Podes
 Plata
+Prefijo
 Interface
 ID
 Instructions
@@ -22051,6 +22057,7 @@ forwarding
 forwarded
 field
 faltan
+fabric
 Nombre
 Notas
 Not
@@ -22567,6 +22574,7 @@ NNEZ
 NFm
 NACK
 Netflix
+Next
 File
 For
 Funcion
@@ -26425,6 +26433,7 @@ bgAZ
 bajada
 basandonse
 barrio
+blocking
 will
 words
 with
@@ -31411,6 +31420,7 @@ Hbum
 HTTPs
 HyperText
 Host
+HOL
 Jacobiano
 Job
 Jusitfique

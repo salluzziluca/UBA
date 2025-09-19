@@ -14,7 +14,7 @@ utiliza la
 | x.x.x.x/4 | a donde ir |
 s
 
-El paquete entra por el input port, pasa por la switch fabric que mapea a donde tiene que mandarlo y sale por el output correspondiente. Esto es [[]]
+El paquete entra por el input port, pasa por la switch fabric que mapea a donde tiene que mandarlo y sale por el output correspondiente. Esto es [[Network layer#Forward|forwarding]]
 ![[Pasted image 20250919201347.png]]
 
 Puede haber congestion si dos paquetes tienen que ir al mismo output. se genera un HOL blocking (paquetes rojos)
@@ -23,6 +23,9 @@ Puede haber congestion si dos paquetes tienen que ir al mismo output. se genera 
 Llega un paquete al router. Este mira el hash, si da nula se lo tira al routing processor. Este hace el [[Network layer#Routing|routing]] y una vez que tiene el resultado escribe en la funcion de hash que para esta IP tenes que ir a la salida x. De ahi en mas la proxima que llegue esa IP ya conocida directamente se hace [[Network layer#Forward|forwarding]]
 
 ![[Pasted image 20250919202727.png]]
+
+
+Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn Robi]]
 
 ## Control plane 
 Como vialidad nacional que pinta los carteles en las rutas nacionales.

@@ -29,7 +29,9 @@ Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn 
 
 
 ### Congestion
-La idea es que antes de que se congestione la red se maten paquetes aleatorios de cada uno de los buffers y se nevien a esos respectivos usuarios un mensaje avisando sobre congestion de red. De esa forma todas las colas se libera un poco y los usuari
+La idea es que antes de que se congestione la red se maten paquetes aleatorios de cada uno de los buffers y se nevien a esos respectivos usuarios un mensaje avisando sobre congestion de red. De esa forma todas las colas se libera un poco y los usuarios son avisados.
 
 ## Control plane 
-Como vialidad nacional que pinta los carteles en las rutas nacionales.
+Como vialidad nacional que pinta los carteles en las rutas nacionales. 
+
+Es quien escribe la tabla de routeo

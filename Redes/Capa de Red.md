@@ -32,4 +32,5 @@ Estos se identifican con mascaras que tienen 11111 en la parte de red y 00000 en
 | 3 Byte | 1 Byte | 110                           | C     | /24     |
 
 
->[!example] 157.92.
+>[!example] 157.92.0.0./16 es una IP tipo B que pertenece a la facultad de ingeneria. En este caso no se indica ningun host.
+

@@ -10,7 +10,7 @@ Identification = Id. Todos los fragmentos de un paquete van a tener el mismo id.
 
 para ver los flags de fragmentacon ver [[Fragmentacion]]
 
-TTL: cuanto saltos puede hacer un paquete antes de ser descartado. Cada vez que pasas por un [[router]], se decrementa en un o ese numerito. Podes usarlo para descubrir la topologia de la red. vas mandando paquetes con un TTL que crece de a 1. el primero te lo rebota el primer [[router]] y te manda mensaje, el segundo con TTL 2 te lo rebota el 2do [[router]] haciendo lo mismo. Y asi puedes ir sabiendo lo rtt de los [[routers]], cuantos son, sus ips.
+TTL: cuanto saltos puede hacer un paquete antes de ser descartado. Cada vez que pasas por un [[router]], se decrementa en un o ese numerito. Podes usarlo para descubrir la topologia de la red. vas mandando paquetes con un TTL que crece de a 1. el primero te lo rebota el primer [[router]] y te manda mensaje, el segundo con TTL 2 te lo rebota el 2do [[router]] haciendo lo mismo. Y asi puedes ir sabiendo lo rtt de los [[Router]], cuantos son, sus ips.
 
 Protocol: indica que esta viajando andtro del paquete ([[TCP]], UP, ISMP)
 

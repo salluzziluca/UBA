@@ -37,8 +37,9 @@ Estos se identifican con mascaras que tienen 11111 en la parte de red y 00000 en
 
 
 
-| Red             | Host            | Tipo                            |
-| --------------- | --------------- | ------------------------------- |
-| 111111....11111 | 000000....00000 | Todas las redes                 |
-| 111111....11111 | 111111....11111 | Todas las redes todos los hosts |
-111111....11111
+| Red             | Host               | Tipo                            |     |
+| --------------- | ------------------ | ------------------------------- | --- |
+| 111111....11111 | 000000....00000    | Todas las redes                 |     |
+| 111111....11111 | 111111....11111    | Todas las redes todos los hosts |     |
+| 00000....0000   | 111111....11111    | Todos los hosts de esta red     |     |
+| 00000...000000  | 00000000....000000 | Este host en e                  |     |

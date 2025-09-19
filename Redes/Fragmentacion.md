@@ -11,17 +11,17 @@ La informacion que detalla la fragmentacion se encuentra en el header IP.
 fragment offset (porque los fragmentos pueden no llegar en orden, se da el offset para hacer el reensamblado)
 flags en general. Su offset con respecto al paquete original. 
 
-Se ensamblan antes de entregarlos a TCP/UDP
+Se ensamblan antes de entregarlos a [[TCP]]/UDP
 
 Si uno o mas fragmentos no llegan, se descarta la secuencia
 
 ![[Pasted image 20250918182553.png]]
-El flag de do not fragment le dice a ip que NO fragmenet este paquete. Si no pasa porque es mas grande que el MTU, no lo fragmentes, descartalo.
+El flag de do not fragment le dice a ip que NO fragmenet este paquete. Si no pasa porque es mas grande que el [[MTU]], no lo fragmentes, descartalo.
 
 
 Ej:
 
-supongamos MTU 550B
+supongamos [[MTU]] 550B
 530B payload + 20B header
 ● Quiero enviar un payload 800B
 

@@ -38,7 +38,7 @@ En distancias cortas, el tiempo de insercion, Casi nunca son distancias cortas y
 
 queremos que llegue todo todo el tiempo
 
-Problema: $L*a = R$ la COLA desborda 
+Problema: $L*a = R$ la [[COLA]] desborda 
 
 Solucion: $L*a<R$
 La subutilizamos

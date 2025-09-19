@@ -30,7 +30,7 @@ Tier 1 son los ISP (provedores de servicio) y los provedores de contenido mas gr
 
 
 
-## Modelo TCP/IP
+## Modelo [[TCP]]/IP
 
 ![[Pasted image 20250821184724.png]]
 
@@ -54,4 +54,4 @@ El medio por el que se propaga
 Las primeras tres son las que mas vamos a ver en la materia
 
 
-Red dice: Es ese grupo de maquinas, Transporte dice: es esa maquina, Aplicacion dice: es ese proceso particular
+Red dice: Es ese grupo de maquinas, Transporte dice: es esa maquina, Aplicacion dice: es ese [[proceso]] particular

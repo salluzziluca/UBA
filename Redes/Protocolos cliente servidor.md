@@ -45,7 +45,7 @@ Recursiva->Mi server averigua la respuesta y me la da, no se que hizo.
 Iterativa-> Ir uno por uno buscando. 
 
 ### Tipo
-- **A**: Mapea **hostname → dirección IPv4**.
+- **A**: Mapea **hostname → dirección [[IPv4]]**.
     - Ej: `(relay1.bar.foo.com, 145.37.93.126, A)`
     - “Si pido la IP de relay1.bar.foo.com, obtengo 145.37.93.126”.
 
@@ -68,7 +68,7 @@ Iterativa-> Ir uno por uno buscando.
 
 ## QUIC (Quick UDP Internet Connections)
 
-Protocolo de google que busca reemplazar a TCP, ya viene encriptado
+Protocolo de google que busca reemplazar a [[TCP]], ya viene encriptado
 
 Corre sobre UDP. Poruqe los chequeos los hace internamente. Y era mas facil usar UDP que definir su propio protocolo.
 

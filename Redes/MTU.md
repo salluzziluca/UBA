@@ -5,6 +5,6 @@ dg-publish: true
 Máximo tamaño de paquete de datos que se puede
 transferir en IP
 
-[[MSS]] + IP header + TCP header
+[[MSS]] + IP header + [[TCP]] header
 
 Cuando los paquetes superan el MTU, debemos [[Fragmentacion|fragmentar]]

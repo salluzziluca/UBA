@@ -2469,6 +2469,8 @@ cogestion
 colapse
 cierro
 calculate
+calle
+continente
 de
 dispositivos
 del
@@ -3531,6 +3533,9 @@ descartado
 decrementa
 destination
 determines
+desempaquetarlo
+diga
+dbee
 gestion
 gran
 guarda
@@ -5127,6 +5132,7 @@ ensamblar
 ensamblan
 entregarlos
 examining
+envolvemos
 servicios
 son
 su
@@ -6206,6 +6212,7 @@ sshtreshold
 slots
 saltos
 sender
+salidmos
 par
 por
 punto
@@ -7421,6 +7428,12 @@ puedes
 paths
 plane
 packet
+postales
+privincia
+planeta
+paqute
+pasarlo
+pinta
 la
 las
 le
@@ -8106,6 +8119,7 @@ ldata
 linkea
 llegp
 link
+localhost
 agnosticos
 apps
 al
@@ -9779,6 +9793,8 @@ hostname
 hito
 heredad
 hogares
+hostos
+hosts
 que
 queda
 quien
@@ -11504,6 +11520,8 @@ Slow
 Start
 Sube
 Separar
+Similitud
+San
 Calls
 Cmabia
 CPU
@@ -12260,6 +12278,7 @@ Consultas
 Cerca
 Connections
 Corre
+Clase
 Es
 El
 Estos
@@ -14469,6 +14488,8 @@ route
 receiver
 referred
 routing
+reservadas
+rutas
 operacion
 orden
 operaciones
@@ -16341,6 +16362,7 @@ ventanas
 vas
 viaje
 values
+vialidad
 Application
 API
 Asigna
@@ -16977,6 +16999,7 @@ ART
 Autorizadas
 AKC
 Aumenta
+Armamos
 Programming
 Procesos
 Partes
@@ -17660,6 +17683,7 @@ Protocolo
 Presence
 Poruqe
 Podes
+Plata
 Interface
 ID
 Instructions
@@ -18806,6 +18830,8 @@ Usk
 UOQ
 Uym
 UoZ
+UNICA
+Under
 modo
 mode
 menso
@@ -19675,6 +19701,9 @@ messages
 multiplexando
 mio
 maximun
+mapea
+mandarlo
+mascaras
 tien
 tiene
 todos
@@ -21322,6 +21351,9 @@ implemented
 indicates
 indexes
 internally
+identificaciones
+inverso
+ingeneria
 fijo
 file
 fork
@@ -22018,6 +22050,7 @@ fields
 forwarding
 forwarded
 field
+faltan
 Nombre
 Notas
 Not
@@ -23768,6 +23801,7 @@ Dedicacion
 Disponibilidad
 DDoS
 Datacenters
+Direcciones
 Memoria
 Multivariada
 MORE
@@ -24461,6 +24495,8 @@ Mando
 Minimizar
 Mejorar
 MTU
+MDQ
+Mascara
 Table
 Todos
 This
@@ -26387,6 +26423,8 @@ baS
 bYS
 bgAZ
 bajada
+basandonse
+barrio
 will
 words
 with
@@ -30448,6 +30486,7 @@ BFK
 Bvs
 BBA
 Bring
+Byte
 XY
 Xg
 XQG
@@ -31371,6 +31410,7 @@ HqV
 Hbum
 HTTPs
 HyperText
+Host
 Jacobiano
 Job
 Jusitfique

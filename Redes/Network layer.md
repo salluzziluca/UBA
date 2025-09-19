@@ -3,7 +3,7 @@ Dia: 2025-09-18
 dg-publish: true
 ---
 ## Forward 
-Cuando un paquete le llega al router en su input link, este lo forwardea al proximo router en la cadena de mensaje. Este termino refiere a la accion local de cada router de transmitir un paquete desde input hasta su output link interface
+Cuando un paquete le llega al [[router]] en su input link, este lo forwardea al proximo router en la cadena de mensaje. Este termino refiere a la accion local de cada router de transmitir un paquete desde input hasta su output link interface
 
 
 

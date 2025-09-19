@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Redes/Untitled.md"
+    },
+    {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.0 Data Science",
       "path": "Organización de Datos/1. Data Science/1.0 Data Science.md"
-    },
-    {
-      "basename": "Calendarios",
-      "path": "TPP/Calendarios.md"
     }
   ],
   "omittedPaths": [],

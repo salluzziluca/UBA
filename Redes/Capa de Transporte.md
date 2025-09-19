@@ -4,7 +4,7 @@ dg-publish: true
 ---
 >[!attention] Permite *[[Multiplexar]]* y *[[Demultiplexar]]*. Esa es su funcion principal.
 
-Se rige por la maxima del best effort (intenta lo mejor que puede). Una propiedad heredad de la capa de Red. Facilita el diseño de red porque permite usar equipos mas simples y protocolos menos complejos. 
+Se rige por la maxima del best effort (intenta lo mejor que puede). Una propiedad heredad de la [[capa de Red]]. Facilita el diseño de red porque permite usar equipos mas simples y protocolos menos complejos. 
 
 Las dos cosas mas importanes son:
 - Mutiplexado
@@ -50,7 +50,7 @@ Si alguno se pierde (es decir, no me llega el AKC). Vuelvo a ese y mando de ese 
 Reenvio solo del que no me llego el ack. No todos
 
 
-Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas. Si hay muchas perdidas quiere decir que la red esta muy congestionada. Si yo achico mi ventana, bajo mi velocidad. Ese es, en criollo, el control de congestion que hace TCP
+Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas. Si hay muchas perdidas quiere decir que la red esta muy congestionada. Si yo achico mi ventana, bajo mi velocidad. Ese es, en criollo, el control de congestion que hace [[TCP]]
 
 
 
@@ -60,7 +60,7 @@ Actualmente lo que se hace es tener una ventana que se adapta segun las perdidas
 - Timer para detectar paquetes perdidos (si no me llega el ack en x tiempo, reenvio)
 - Numero de secuencia para mantener el flujo de paquetes y detectar perdidos 
 - ACK 
-- NACK (para avisar que el paquete llego corrupto), no se usa en TCP 
+- NACK (para avisar que el paquete llego corrupto), no se usa en [[TCP]] 
 - Ventana deslizante (ver arriba).
 
 ![[TCP]]

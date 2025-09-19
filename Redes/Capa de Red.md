@@ -34,3 +34,11 @@ Estos se identifican con mascaras que tienen 11111 en la parte de red y 00000 en
 
 >[!example] 157.92.0.0./16 es una IP tipo B que pertenece a la facultad de ingeneria. En este caso no se indica ningun host.
 
+
+
+
+| Red             | Host            | Tipo                            |
+| --------------- | --------------- | ------------------------------- |
+| 111111....11111 | 000000....00000 | Todas las redes                 |
+| 111111....11111 | 111111....11111 | Todas las redes todos los hosts |
+111111....11111

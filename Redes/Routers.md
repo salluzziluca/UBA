@@ -20,7 +20,7 @@ El paquete entra por el input port, pasa por la switch fabric que mapea a donde 
 Puede haber congestion si dos paquetes tienen que ir al mismo output. se genera un HOL blocking (paquetes rojos)
 
 
-Llega un paquete al router. Este mira el hash, si da nula se lo tira al routing processor. Este hace el routing y una vez que tiene el resultado escribe en la funcion de hash que para esta IP tenes que ir a la salida x
+Llega un paquete al router. Este mira el hash, si da nula se lo tira al routing processor. Este hace el [[Network layer#Routing|routing]] y una vez que tiene el resultado escribe en la funcion de hash que para esta IP tenes que ir a la salida x
 
 ![[Pasted image 20250919202727.png]]
 

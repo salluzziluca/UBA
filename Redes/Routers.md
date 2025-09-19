@@ -27,6 +27,7 @@ Llega un paquete al router. Este mira el hash, si da nula se lo tira al routing 
 
 Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn Robin]], [[Scheduling#Cola FIFO|FIFO]] o colas de prioridad. Tambien se le puede dar un tiempo no aleatorio de procesamiento asegurado. Es decir en un tiempo total t todas las colas de los puertos van a haber recibido un total de cputotal/cant_input_ports de CPU.
 
+Si esta mal mapeado y se queda dando vueltas entre routers ev
 
 ### Congestion
 La idea es que antes de que se congestione la red se maten paquetes aleatorios de cada uno de los buffers y se nevien a esos respectivos usuarios un mensaje avisando sobre congestion de red. De esa forma todas las colas se libera un poco y los usuarios son avisados.

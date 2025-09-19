@@ -2473,6 +2473,8 @@ calculate
 calle
 continente
 colas
+cputotal
+congestione
 de
 dispositivos
 del
@@ -9205,6 +9207,9 @@ algorithms
 algorithm
 arriving
 apor
+asegurado
+avisando
+avisados
 hardware
 heap
 hay
@@ -12282,6 +12287,7 @@ Cerca
 Connections
 Corre
 Clase
+Congestion
 Es
 El
 Estos
@@ -14495,6 +14501,7 @@ reservadas
 rutas
 routeo
 rojos
+respectivos
 operacion
 orden
 operaciones
@@ -15742,6 +15749,7 @@ nam
 nucleo
 numerito
 network
+nevien
 via
 vuelve
 viven
@@ -19710,6 +19718,7 @@ maximun
 mapea
 mandarlo
 mascaras
+maten
 tien
 tiene
 todos

@@ -21,4 +21,10 @@ Se separa la direccion en Red y Host. Solo tengo que mirar la red porque todos l
 
 El router tiene una tabla donde mapea prefijos de hosts. Cuando le llega un paquete con un IP destino, mira ahi para ver donde mandarlo
 
-hay 
+hay 3 grupos de IP
+
+p
+
+| Red    | Host |
+| ------ | ---- |
+| 8 byte |      |

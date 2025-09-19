@@ -3,15 +3,17 @@ Dia: 2025-09-19
 dg-publish: true
 ---
 
- Tabla de routeo 
+## Data plane
+que dbee hacer cada paquete para encontrar su destino
+
+utiliza la
+### Tabla de routeo 
 
 | Prefijo   | Next Hoṕ   |
 | --------- | ---------- |
 | x.x.x.x/4 | a donde ir |
 s
 
-## Data plane
-que dbee hacer cada paquete para encontrar su destino
 
 ## Control plane 
 Como vialidad nacional que pinta los carteles en las rutas nacionales.

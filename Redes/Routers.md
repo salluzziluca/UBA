@@ -5,9 +5,9 @@ dg-publish: true
 
  Tabla de routeo 
 
-| Pref |     |
-| ---- | --- |
-|      |     |
+| Prefijo   | Next Hoṕ   |
+| --------- | ---------- |
+| x.x.x.x/4 | a donde ir |
 
 
 ## Data plane

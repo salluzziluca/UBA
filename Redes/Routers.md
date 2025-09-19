@@ -14,6 +14,9 @@ utiliza la
 | x.x.x.x/4 | a donde ir |
 s
 
+El paquete entra por el input port, pasa por la switch fabric que mapea a donde tiene que mandarlo y sale por los output
+![[Pasted image 20250919201347.png]]
+
 
 ## Control plane 
 Como vialidad nacional que pinta los carteles en las rutas nacionales.

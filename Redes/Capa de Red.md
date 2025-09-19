@@ -25,6 +25,8 @@ hay 3 grupos de IP
 
 p
 
-| Red    | Host |
-| ------ | ---- |
-| 8 byte |      |
+| Red    | Host   | Tipo |
+| ------ | ------ | ---- |
+| 1 Byte | 3 Byte | 0    |
+| 2 Byte | 2 byte |      |
+| 3 Byte |        |      |

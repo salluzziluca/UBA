@@ -14,8 +14,11 @@ La idea es que nosotros salidmos d cierta direcciones B UNICA en el planeta. Arm
 | --- | ---- |
 |     |      |
 |     |      |
+|     |      |
 
 
 Se separa la direccion en Red y Host. Solo tengo que mirar la red porque todos los hostos van a estar en el mismo lugar. Under the same address. Es como que diga Mar del Plata. Si quiero darle a la direccion San Martin en Mar del Plata primero me fijo como llegar a MDQ.
 
 El router tiene una tabla donde mapea prefijos de hosts. Cuando le llega un paquete con un IP destino, mira ahi para ver donde mandarlo
+
+hay 

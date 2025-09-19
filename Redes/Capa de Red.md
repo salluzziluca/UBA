@@ -23,10 +23,10 @@ El router tiene una tabla donde mapea prefijos de hosts. Cuando le llega un paqu
 
 hay 3 grupos de IP
 
-p
+Estos se identifican con mascaras que tienen 11111 en la parte de red y 00000 en la parte de host. Uno cuenta la cantidad de numeros y asi indica cual es largo en bytes del host
 
-| Red    | Host   | Identificacion (como empieza) | Clase |
-| ------ | ------ | ----------------------------- | ----- |
-| 1 Byte | 3 Byte | 0                             | A     |
-| 2 Byte | 2 byte | 10                            | B     |
-| 3 Byte | 1 Byte | 110                           | C     |
+| Red    | Host   | Identificacion (como empieza) | Clase | Mascara |
+| ------ | ------ | ----------------------------- | ----- | ------- |
+| 1 Byte | 3 Byte | 0                             | A     |         |
+| 2 Byte | 2 byte | 10                            | B     |         |
+| 3 Byte | 1 Byte | 110                           | C     |         |

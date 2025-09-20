@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Algoritmos y Programación II",
+      "path": "Algoritmos y Programación II/Algoritmos y Programación II.md"
+    },
+    {
+      "basename": "Tipos de Datos Abstractos (TDA)",
+      "path": "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md"
+    },
+    {
       "basename": "Redes",
       "path": "Redes/Redes.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hipotesis",
       "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
-    },
-    {
-      "basename": "viaje de un paquete",
-      "path": "Excalidraw/viaje de un paquete.md"
-    },
-    {
-      "basename": "network",
-      "path": "Excalidraw/network.md"
     }
   ],
   "omittedPaths": [],

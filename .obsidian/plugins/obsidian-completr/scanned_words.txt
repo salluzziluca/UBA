@@ -1076,6 +1076,7 @@ Lqp
 LHK
 Levels
 Llega
+Localizaci
 capa
 controlado
 cantidad
@@ -2476,6 +2477,7 @@ colas
 cputotal
 congestione
 correspondientemente
+caracterizados
 de
 dispositivos
 del
@@ -3542,6 +3544,8 @@ desempaquetarlo
 diga
 dbee
 dando
+despojo
+detectarlo
 gestion
 gran
 guarda
@@ -7443,6 +7447,7 @@ paqute
 pasarlo
 pinta
 processor
+pues
 la
 las
 le
@@ -9214,6 +9219,7 @@ apor
 asegurado
 avisando
 avisados
+abstractos
 hardware
 heap
 hay
@@ -10862,6 +10868,8 @@ uxn
 udta
 unit
 usarlo
+utillzar
+utilizaci
 System
 Son
 Source
@@ -18301,6 +18309,7 @@ Infraestructura
 IHL
 Identification
 ISMP
+IGUAL
 Un
 UNIX
 UBA
@@ -19725,6 +19734,7 @@ mascaras
 maten
 mapeado
 muere
+modularizaci
 tien
 tiene
 todos
@@ -24521,6 +24531,7 @@ Mejorar
 MTU
 MDQ
 Mascara
+Manejan
 Table
 Todos
 This
@@ -25089,6 +25100,7 @@ TLS
 Transport
 Timeout
 TTL
+TDAs
 Realiza
 REgistrys
 Rango
@@ -25832,6 +25844,7 @@ RTO
 Rwin
 Retransmiting
 Routing
+RESUMIENDO
 bien
 by
 be
@@ -34002,6 +34015,7 @@ Zwo
 ZwT
 ZJV
 Zcs
+Zilles
 zZ
 za
 zR

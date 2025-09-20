@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NAT",
+      "path": "Redes/NAT.md"
+    },
+    {
       "basename": "DHCP",
       "path": "Redes/DHCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Apareo",
       "path": "Algoritmos y Programación I/Apareo.mp4"
-    },
-    {
-      "basename": "1.0 Desarrollo de Software",
-      "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
     }
   ],
   "omittedPaths": [],

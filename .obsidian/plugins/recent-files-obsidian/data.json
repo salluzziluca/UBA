@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Redes/Untitled.md"
+    },
+    {
+      "basename": "MSS",
+      "path": "Redes/MSS.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Redes/Untitled 1.md"
+    },
+    {
+      "basename": "Router",
+      "path": "Redes/Router.md"
+    },
+    {
+      "basename": "Capa de Red",
+      "path": "Redes/Capa de Red.md"
+    },
+    {
       "basename": "Redes",
       "path": "Redes/Redes.md"
     },
@@ -19,14 +39,6 @@
     {
       "basename": "UBA",
       "path": "UBA.md"
-    },
-    {
-      "basename": "Router",
-      "path": "Redes/Router.md"
-    },
-    {
-      "basename": "Capa de Red",
-      "path": "Redes/Capa de Red.md"
     },
     {
       "basename": "Capa de Transporte",
@@ -67,10 +79,6 @@
     {
       "basename": "Metricas de Performance",
       "path": "Redes/Metricas de Performance.md"
-    },
-    {
-      "basename": "MSS",
-      "path": "Redes/MSS.md"
     },
     {
       "basename": "MTU",
@@ -191,14 +199,6 @@
     {
       "basename": "1.0 Desarrollo de Software",
       "path": "Algoritmos y Programación III/1. Desarrollo de Software/1.0 Desarrollo de Software.md"
-    },
-    {
-      "basename": "9.4",
-      "path": "Probabilidad y Estadística B/9. Estadística/9.4.md"
-    },
-    {
-      "basename": "Hipotesis",
-      "path": "Probabilidad y Estadística B/9. Estadística/Hipotesis.md"
     }
   ],
   "omittedPaths": [],

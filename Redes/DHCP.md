@@ -9,3 +9,5 @@ Entra la IP, la mascara, la t[[Router#Tabla de routeo|tabla de routeo]] (default
 El DNS ,el dominio y el nombre del host 
 
 el MTU
+
+![[Pasted image 20250919211413.png]]

@@ -159,6 +159,7 @@ I Vamos a estudiar dos casos:
 3. Buffer infinito: sólo se presenta el primer problema
 4. Buffer acotado: se presentan ambos problemas
 
-| Productor                                                                       | Consumidor                                                                |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| dataType d<br>loop forever<br>p1: append(d, buffer)<br>p2: signal(notEmpty)<br> | dataType d<br>loop forever<br>q1: wait(notEmpty)<br>q2: d <- take(buffer) |
+| Productor                                                                                                        | Consumidor                                                                |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| dataType d<br>loop forever<br>p1: append(d, buffer)<br>p2: signal(notEmpty)<br>                                  | dataType d<br>loop forever<br>q1: wait(notEmpty)<br>q2: d <- take(buffer) |
+| dataType d<br>loop forever<br>p1: producir<br>p2: wait(notFull)<br>p3: append(d, buffer)<br>p4: signal(notEmpty) |                                                                           |

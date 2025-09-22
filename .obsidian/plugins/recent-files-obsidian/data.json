@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Monitores",
+      "path": "Programacion Concurrente/Monitores.md"
+    },
+    {
       "basename": "Sincronizacion",
       "path": "Programacion Concurrente/Sincronizacion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dato",
       "path": "Base de Datos/Dato.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.base"
     }
   ],
   "omittedPaths": [],

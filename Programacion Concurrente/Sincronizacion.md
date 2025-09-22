@@ -37,5 +37,14 @@ func signal(S){
 		q.state := ready
 }
 
-func signalBinario(S)
+func signalBinario(S){
+	if S.V = 1
+		// undefined
+	else if S.L is empty
+		S.V := 1
+	else
+		sea q un elemento arbitrario del conjunto S . L
+		S.L remove q
+		q.state := ready
+}
 ```

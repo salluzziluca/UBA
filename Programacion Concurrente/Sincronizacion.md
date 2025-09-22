@@ -63,4 +63,56 @@ sea cero
 
 
 ## Barreras en rust 
-Permite sincronizar los threads en puntos de sincronismo 
+Tipo de dato usado para **sincronizar múltiples threads** en un punto de ejecución común.  
+Se asegura que **ningún thread continúe más allá de la barrera hasta que todos hayan llegado**.
+
+Se inicializa con un entero `n > 0` que representa la **cantidad de threads participantes**.  
+
+Cuando un thread llama a `wait()`, queda bloqueado hasta que **los `n` threads hayan llegado**.  
+En ese momento, **todos se liberan a la vez** y la barrera puede volver a usarse (es *reusable*).
+
+En Rust, se implementa con la estructura `std::sync::Barrier`.
+
+---
+
+### Operaciones atómicas
+- `Barrier::new(n)`  
+  Crea una barrera para `n` threads.
+- `wait()`  
+  El thread llama a este método y:
+  - Si todavía no llegaron todos los `n` threads, queda **bloqueado**.  
+  - Cuando llega el último thread, **todos se desbloquean simultáneamente**.
+
+---
+
+### Representación conceptual
+Una barrera puede verse como:
+- `N`: número fijo de threads requeridos.  
+- `C`: contador de threads que llegaron.  
+- `L`: conjunto de threads esperando.
+
+Inicialización:
+- `C := 0`
+- `L := { }`
+
+```go
+struct Barrier {
+    N: usize,   // cantidad de threads que deben sincronizar
+    C: usize,   // contador de threads que llegaron
+    L: set<Thread> // threads esperando
+}
+```` 
+```
+
+func wait(B){
+    B.C := B.C + 1
+    if B.C < B.N
+        B.L add p
+        p.state := blocked
+    else
+        // Último thread en llegar
+        B.C := 0
+        para cada q en B.L
+            q.state := ready
+        B.L := {}
+}

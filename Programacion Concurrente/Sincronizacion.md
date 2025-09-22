@@ -101,8 +101,7 @@ struct Barrier {
     C: usize,   // contador de threads que llegaron
     L: set<Thread> // threads esperando
 }
-```` 
-```
+
 
 func wait(B){
     B.C := B.C + 1
@@ -116,3 +115,25 @@ func wait(B){
             q.state := ready
         B.L := {}
 }
+
+```
+
+```rust
+use std::sync::{Arc, Barrier};
+use std::thread;
+
+fn main() {
+    let n = 5;
+    let barrier = Arc::new(Barrier::new(n));
+    
+    for i in 0..n {
+        let c = barrier.clone();
+        thread::spawn(move || {
+            println!("Thread {} listo", i);
+            c.wait(); // todos esperan aquí
+            println!("Thread {} continúa", i);
+        });
+    }
+}
+
+```

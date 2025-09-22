@@ -36,4 +36,6 @@ func signal(S){
 		S.L remove q
 		q.state := ready
 }
+
+func signalBinario(S)
 ```

@@ -20,7 +20,9 @@ Los procesos pueden tomar distintos estados:
 - Recién completó una operación signalC
 
 
-| Semaforo                 | Monitor               |
-| ------------------------ | --------------------- |
-| wait puede o no bloquear | waitC siempre bloquea |
-|                          |                       |
+| Semaforo                                                                        | Monitor                                                                                     |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| wait puede o no bloquear                                                        | waitC siempre bloquea                                                                       |
+| signal siempre tiene efecto                                                     | signalC no tiene efecto si la                                                               |
+| signal desbloquea un proceso arbritrario                                        | signalC desbloquea el proceso del tope de la cola                                           |
+| un proceso desbloqueado con signal, puede continuar la ejecución inmediatamente | un proceso desbloqueado con signalC debe esperar que el proceso señalizador deje el monitor |

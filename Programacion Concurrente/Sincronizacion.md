@@ -48,3 +48,14 @@ func signalBinario(S){
 		q.state := ready
 }
 ```
+
+
+Tipos de semáforos
+I System V
+I POSIX
+Un semáforo System V está compuesto por:
+I El valor del semáforo
+I El process id del último proceso que utilizó el semáforo
+I La cantidad de procesos esperando por el semáforo
+I La cantidad de procesos que está esperando que el semáforo
+sea cero

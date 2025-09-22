@@ -14,8 +14,13 @@ Un monitor consta de:
 
 Los procesos pueden tomar distintos estados:
 - Esperando para entrar al monitor
-- Ejecutando el monitor (sólo un proceso a la vez - exclusión
-mutua)
+- Ejecutando el monitor (sólo un proceso a la vez - exclusión mutua)
 - Bloqueado en FIFO de variable de condición
 - Recién liberado de la wait condition
 - Recién completó una operación signalC
+
+
+| Semaforo                 | Monitor               |
+| ------------------------ | --------------------- |
+| wait puede o no bloquear | waitC siempre bloquea |
+|                          |                       |

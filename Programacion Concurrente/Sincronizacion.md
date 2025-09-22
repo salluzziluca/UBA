@@ -17,3 +17,13 @@ Si `V` menor a 0, recurso no disponible
 
 El valor del semafoto representa la cantidad de recursos disponibles. Si V vale 0 o 1, es un semaforo binario, tambien conocido como `MUTEX`
 `wait(S)` resta 1 al contador y `signal(S)`suma 1 al contador
+
+
+```
+fn wait()
+if S.V > 0
+	S.V := S.V - 1
+else
+	S.L add p
+	p.state := blocked
+```

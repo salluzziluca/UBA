@@ -4,4 +4,5 @@ dg-publish: true
 ---
 ## Semaforos
 Tipo de dato compuesto por dos campos:
-- U
+- unit V
+- un set de procesos llamado L

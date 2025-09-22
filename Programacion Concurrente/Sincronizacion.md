@@ -59,3 +59,8 @@ I El process id del último proceso que utilizó el semáforo
 I La cantidad de procesos esperando por el semáforo
 I La cantidad de procesos que está esperando que el semáforo
 sea cero
+
+
+
+## Barreras en rust 
+Permite sincronizar los threads en puntos de sincronismo 

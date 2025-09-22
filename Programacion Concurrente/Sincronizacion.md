@@ -15,4 +15,5 @@ Se definen dos operaciones atomicas
 Si `V` mayor a 0, recurso disponible 
 Si `V` menor a 0, recurso no disponible
 
-El valor del semafoto represn
+El valor del semafoto representa la cantidad de recursos disponibles. Si V vale 0 o 1, es un semaforo binario, tambien conocido como `MUTEX`
+`wait(S)` resta y `signal(S)`

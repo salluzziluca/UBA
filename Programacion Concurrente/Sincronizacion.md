@@ -33,7 +33,7 @@ func signal(S){
 		S.V := S.V + 1
 	else
 		sea q un elemento arbitrario del conjunto S.L
-S.L remove q
-q.state := ready
+		S.L remove q
+		q.state := ready
 }
 ```

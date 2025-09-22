@@ -141,3 +141,5 @@ Diferencias con semaforos
 - **Semáforo:** controla acceso a recursos (permite o bloquea según disponibilidad).
     
 - **Barrera:** fuerza sincronización en un punto común (todos esperan a todos).
+
+## Producto Consumidor

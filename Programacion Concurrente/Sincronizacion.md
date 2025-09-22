@@ -150,3 +150,11 @@ Requisitos (premisas - propiedades - invariantes):
 2. Todos los items producidos son eventualmente consumidos
 3. Al espacio de almacenamiento se accede de a uno
 4. Se debe respetar el orden de almacenamiento y retiro de los items
+
+I Al utilizar un buffer de comunicación se presentan los
+siguientes problemas de sincronización:
+1. No se puede consumir si el buffer está vacío
+2. No se puede producir si el buffer está lleno
+I Vamos a estudiar dos casos:
+3. Buffer infinito: sólo se presenta el primer problema
+4. Buffer acotado: se presentan ambos problemas

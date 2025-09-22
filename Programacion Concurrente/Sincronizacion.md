@@ -10,4 +10,4 @@ Tipo de dato compuesto por dos campos:
 Se inicializa con un  `k` mayor a 0 y con el conjunto vacio. 
 
 Se definen dos operaciones atomicas
-`wait(S)` y signal(S)``
+`wait(S)` y `signal(S)`

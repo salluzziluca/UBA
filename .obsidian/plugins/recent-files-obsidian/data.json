@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sincronizacion",
+      "path": "Programacion Concurrente/Sincronizacion.md"
+    },
+    {
       "basename": "NAT",
       "path": "Redes/NAT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.base"
-    },
-    {
-      "basename": "Apareo",
-      "path": "Algoritmos y Programación I/Apareo.mp4"
     }
   ],
   "omittedPaths": [],

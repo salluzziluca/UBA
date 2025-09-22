@@ -19,11 +19,21 @@ El valor del semafoto representa la cantidad de recursos disponibles. Si V vale 
 `wait(S)` resta 1 al contador y `signal(S)`suma 1 al contador
 
 
-```
-fn wait()
-if S.V > 0
-	S.V := S.V - 1
-else
-	S.L add p
-	p.state := blocked
+```go
+func wait(S){
+	if S.V > 0
+		S.V := S.V - 1
+	else
+		S.L add p
+		p.state := blocked
+}
+
+func signal(S){
+	if S.L is empty
+		S.V := S.V + 1
+	else
+		sea q un elemento arbitrario del conjunto S.L
+S.L remove q
+q.state := ready
+}
 ```

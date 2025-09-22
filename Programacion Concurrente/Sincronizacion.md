@@ -143,3 +143,10 @@ Diferencias con semaforos
 - **Barrera:** fuerza sincronización en un punto común (todos esperan a todos).
 
 ## Producto Consumidor
+
+Se definen dos familias de procesos: Productores y Consumidores 
+Requisitos (premisas - propiedades - invariantes):
+1. No se puede consumir lo que no hay
+2. Todos los items producidos son eventualmente consumidos
+3. Al espacio de almacenamiento se accede de a uno
+4. Se debe respetar el orden de almacenamiento y retiro de los items

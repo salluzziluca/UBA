@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
       "basename": "Monitores",
       "path": "Programacion Concurrente/Monitores.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
     },
     {
       "basename": "Capa de Transporte",

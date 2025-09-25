@@ -43,5 +43,5 @@ En el caso de IPs muy parecidas en las tablas de routeo se las pasa a binario y 
 
 paso a binario la oarte que me importa
 
-192.168.000000
-192.168.0.0
+192.168.000000001.00000000
+192.168.0000000.0000000

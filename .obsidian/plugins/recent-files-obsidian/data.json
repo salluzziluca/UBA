@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NAT",
+      "path": "Redes/NAT.md"
+    },
+    {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Sincronizacion",
       "path": "Programacion Concurrente/Sincronizacion.md"
-    },
-    {
-      "basename": "NAT",
-      "path": "Redes/NAT.md"
     },
     {
       "basename": "DHCP",

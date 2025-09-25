@@ -36,4 +36,12 @@ Direcciones reservadas
 faltan.....
 
 
-En el caso de I
+En el caso de IPs muy parecidas en las tablas de routeo se las pasa a binario y se mira cual coincide mas 
+
+192.168.1.0
+192.168.0.0
+
+paso a binario la oarte que me importa
+
+192.168.000000
+192.168.0.0

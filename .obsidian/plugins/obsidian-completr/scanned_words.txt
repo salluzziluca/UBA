@@ -2478,6 +2478,7 @@ cputotal
 congestione
 correspondientemente
 caracterizados
+contiguas
 de
 dispositivos
 del
@@ -7448,6 +7449,7 @@ pasarlo
 pinta
 processor
 pues
+parecidas
 la
 las
 le
@@ -11542,6 +11544,7 @@ Sube
 Separar
 Similitud
 San
+SALEN
 Calls
 Cmabia
 CPU
@@ -15136,6 +15139,7 @@ oNR
 oficial
 oral
 outgoing
+oarte
 nombre
 nuevo
 nica
@@ -18310,6 +18314,8 @@ IHL
 Identification
 ISMP
 IGUAL
+IPs
+INTERFAZ
 Un
 UNIX
 UBA
@@ -19735,6 +19741,7 @@ maten
 mapeado
 muere
 modularizaci
+mascara
 tien
 tiene
 todos
@@ -24532,6 +24539,7 @@ MTU
 MDQ
 Mascara
 Manejan
+MISMA
 Table
 Todos
 This

@@ -9,12 +9,7 @@ La idea es que nosotros salidmos d cierta direcciones B UNICA en el planeta. Arm
 >[!Important] Con leer solamente la parte de la capa de red ya sabemos que hacer con ese paquete. Si pasarlo o desempaquetarlo.
 
 
-
-| Red | Host |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+ver [[Mascara de Red]]
 
 
 Se separa la direccion en Red y Host. Solo tengo que mirar la red porque todos los hostos van a estar en el mismo lugar. Under the same address. Es como que diga Mar del Plata. Si quiero darle a la direccion San Martin en Mar del Plata primero me fijo como llegar a MDQ.

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "NAT",
-      "path": "Redes/NAT.md"
-    },
-    {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
     },
     {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
+    },
+    {
+      "basename": "NAT",
+      "path": "Redes/NAT.md"
     },
     {
       "basename": "Network layer",

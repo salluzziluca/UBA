@@ -45,6 +45,8 @@ Las colas de entrada se pueden leer mediante [[Scheduling#Round Robin(RR)|Roudn 
 
 Si esta mal mapeado y se queda dando vueltas entre routers eventualmente muere por el TTL (ver [[IPv4]])
 
+Se busca minimizar el routeo 
+
 ### Congestion
 La idea es que antes de que se congestione la red se maten paquetes aleatorios de cada uno de los buffers y se nevien a esos respectivos usuarios un mensaje avisando sobre congestion de red. De esa forma todas las colas se libera un poco y los usuarios son avisados.
 

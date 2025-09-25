@@ -46,4 +46,5 @@ paso a binario la oarte que me importa
 192.168.000000001.00000000
 192.168.0000000.0000000
 
-Si difieren en el ultimo bit, tienen la misma mascara Y SALEN POR LA MISMA INTERFAZ son contiguas
+>[!important] Si difieren en el ultimo bit, tienen la misma mascara Y SALEN POR LA MISMA INTERFAZ son contiguas
+>

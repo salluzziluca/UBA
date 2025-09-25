@@ -13013,6 +13013,7 @@ Enter
 Establecimiento
 Envio
 ENTERA
+Entra
 kernel
 kt
 kU

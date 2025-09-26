@@ -2482,6 +2482,8 @@ contiguas
 checksum
 congesti
 cticamente
+conectado
+connect
 de
 dispositivos
 del
@@ -5148,6 +5150,9 @@ entregarlos
 examining
 envolvemos
 enviarlos
+especifica
+envi
+enviados
 servicios
 son
 su
@@ -6232,6 +6237,9 @@ superan
 ssthresh
 sucesivamente
 ssthreshold
+sendto
+seleccionados
+send
 par
 por
 punto
@@ -8142,6 +8150,8 @@ linkea
 llegp
 link
 localhost
+listen
+llamarse
 agnosticos
 apps
 al
@@ -9229,6 +9239,7 @@ avisando
 avisados
 abstractos
 alla
+addrs
 hardware
 heap
 hay
@@ -9822,6 +9833,7 @@ heredad
 hogares
 hostos
 hosts
+huloi
 que
 queda
 quien
@@ -10879,6 +10891,7 @@ unit
 usarlo
 utillzar
 utilizaci
+utilizaran
 System
 Son
 Source
@@ -11557,6 +11570,8 @@ Secuencia
 Sequence
 Seteo
 Setea
+SOCK
+STREAM
 Calls
 Cmabia
 CPU
@@ -12316,6 +12331,7 @@ Corre
 Clase
 Congestion
 Conexi
+Cierra
 Es
 El
 Estos
@@ -14535,6 +14551,10 @@ rojos
 respectivos
 reenv
 receive
+recvfrom
+rechazadas
+representando
+recv
 operacion
 orden
 operaciones
@@ -17053,6 +17073,7 @@ Avoidance
 ACKs
 Aumento
 Ajuste
+Asocia
 Programming
 Procesos
 Partes
@@ -18340,6 +18361,7 @@ ISMP
 IGUAL
 IPs
 INTERFAZ
+INET
 Un
 UNIX
 UBA
@@ -22120,6 +22142,7 @@ field
 faltan
 fabric
 fall
+family
 Nombre
 Notas
 Not
@@ -26518,6 +26541,9 @@ bajada
 basandonse
 barrio
 blocking
+bind
+bufsize
+bloquea
 will
 words
 with
@@ -30581,6 +30607,7 @@ Bvs
 BBA
 Bring
 Byte
+Bloquea
 XY
 Xg
 XQG

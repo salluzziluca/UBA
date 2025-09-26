@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"id":"2bd16ac808a25117","x":-1064,"y":-2063,"width":400,"height":400,"type":"file","file":"Redes/Organismos Normalizadores.md"},
+		{"id":"6595d4bf3943fcf5","type":"file","file":"Redes/DHCP.md","x":-1236,"y":1541,"width":400,"height":400},
 		{"id":"2c3646383ad9c1a8","type":"file","file":"Redes/Establecimiento y cierre de conexiones en TCP.md","x":1213,"y":66,"width":400,"height":400},
 		{"id":"7385023e227926ea","type":"file","file":"Redes/TCP.md","x":640,"y":-176,"width":400,"height":400},
 		{"id":"ac0f9a06f13c4db4","type":"file","file":"Redes/Capa de Aplicacion.md","x":-510,"y":-560,"width":980,"height":420},
@@ -8,7 +10,13 @@
 		{"id":"c635cfb6cfdd1d0f","type":"file","file":"Redes/Capa de Red.md","x":-510,"y":1080,"width":980,"height":400},
 		{"id":"a83b1234a2efae60","type":"file","file":"Redes/UDP.md","x":640,"y":260,"width":400,"height":400},
 		{"id":"00f56ca537e08526","type":"file","file":"Redes/Control de Flujo y Congestion en TCP.md","x":1206,"y":-426,"width":400,"height":400},
-		{"id":"e2c28b37ddf758b9","x":-1240,"y":-1345,"width":660,"height":505,"type":"file","file":"Redes/Metricas de Performance.md"}
+		{"id":"e2c28b37ddf758b9","type":"file","file":"Redes/Metricas de Performance.md","x":-1240,"y":-1345,"width":660,"height":505},
+		{"id":"866efa1700ffcecd","type":"file","file":"Redes/IPv6.md","x":354,"y":1822,"width":400,"height":400},
+		{"id":"f00763128f5556bf","type":"file","file":"Redes/IPv4.md","x":-344,"y":1951,"width":400,"height":400},
+		{"id":"5971d0ea0bc0ea0c","type":"file","file":"Redes/Router.md","x":-921,"y":1874,"width":400,"height":400},
+		{"id":"2380a6d1bdd8b05f","type":"file","file":"Redes/Mascara de Red.md","x":-886,"y":1409,"width":400,"height":400},
+		{"id":"8d33099b0cea1f75","type":"file","file":"Redes/Fragmentacion.md","x":-1029,"y":904,"width":400,"height":400},
+		{"id":"35e9d707605416c7","x":-841,"y":-1717,"width":400,"height":400,"type":"file","file":"Redes/Content Delivery Network (CDN).md"}
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},

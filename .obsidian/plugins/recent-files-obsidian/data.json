@@ -5,6 +5,10 @@
       "path": "Redes/Protocolos de Routeo.md"
     },
     {
+      "basename": "Recorridos Grafos",
+      "path": "Algoritmos y Programación II/Recorridos Grafos.md"
+    },
+    {
       "basename": "SDN (Software Defined Networks)",
       "path": "Redes/SDN (Software Defined Networks).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Concurrencia",
       "path": "Sistemas Operativos/Concurrencia.md"
-    },
-    {
-      "basename": "Locks en Rust",
-      "path": "Programacion Concurrente/Locks en Rust.md"
     }
   ],
   "omittedPaths": [],

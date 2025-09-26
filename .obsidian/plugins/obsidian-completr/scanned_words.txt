@@ -2486,6 +2486,10 @@ cticamente
 conectado
 connect
 colapso
+comenzamos
+calculada
+cortos
+concatenando
 de
 dispositivos
 del
@@ -3555,6 +3559,7 @@ dando
 despojo
 detectarlo
 demoras
+dijkstra
 gestion
 gran
 guarda
@@ -5158,6 +5163,7 @@ enviarlos
 especifica
 envi
 enviados
+encara
 servicios
 son
 su
@@ -6245,6 +6251,8 @@ ssthreshold
 sendto
 seleccionados
 send
+spanning
+skipeo
 par
 por
 punto
@@ -7472,6 +7480,7 @@ parecidas
 proces
 propagaci
 ponia
+pesado
 la
 las
 le
@@ -8160,6 +8169,7 @@ link
 localhost
 listen
 llamarse
+liviana
 agnosticos
 apps
 al
@@ -9248,6 +9258,8 @@ avisados
 abstractos
 alla
 addrs
+anchura
+armas
 hardware
 heap
 hay
@@ -11582,6 +11594,7 @@ SOCK
 STREAM
 Sale
 SDN
+Search
 Calls
 Cmabia
 CPU
@@ -13058,6 +13071,7 @@ Entra
 Emisor
 Enlaces
 Escritura
+ENcuentra
 kernel
 kt
 kU
@@ -13534,6 +13548,7 @@ kXo
 kPk
 kcB
 kFz
+kruskal
 realicen
 resolve
 recommend
@@ -14569,6 +14584,8 @@ rechazadas
 representando
 recv
 rotativo
+recorrelo
+reemplazamos
 operacion
 orden
 operaciones
@@ -16445,6 +16462,9 @@ vas
 viaje
 values
 vialidad
+visitar
+vecinos
+visitado
 Application
 API
 Asigna
@@ -17089,6 +17109,7 @@ ACKs
 Aumento
 Ajuste
 Asocia
+Agoritmo
 Programming
 Procesos
 Partes
@@ -17779,6 +17800,8 @@ Plane
 Paquete
 Preventiva
 Prevenci
+Prim
+Partiendo
 Interface
 ID
 Instructions
@@ -19811,6 +19834,7 @@ mascara
 mand
 matan
 msa
+marcan
 tien
 tiene
 todos
@@ -20533,6 +20557,7 @@ taken
 transferir
 transmisi
 threshold
+topol
 inico
 interna
 infro
@@ -23318,6 +23343,9 @@ FEDEE
 Flujo
 Forward
 Forwarding
+Fijandonos
+FInalmente
+Floyd
 Descriptors
 Descriptor
 Devuelve
@@ -23921,6 +23949,8 @@ DDoS
 Datacenters
 Direcciones
 Desv
+DFS
+Depth
 Memoria
 Multivariada
 MORE
@@ -25950,6 +25980,8 @@ Retransmit
 Recovery
 Reenv
 Routeo
+Recorridos
+Recorriendo
 bien
 by
 be
@@ -27571,6 +27603,9 @@ Ventana
 Ventanas
 Vendria
 Vialidad
+Visitados
+VISITADO
+Volvemos
 OPTIONS
 Operativos
 Orden
@@ -28549,6 +28584,7 @@ yDe
 yTl
 yOr
 yiI
+yendo
 json
 jacobiano
 justamente
@@ -30643,6 +30679,7 @@ Bring
 Byte
 Bloquea
 Blocking
+Breath
 XY
 Xg
 XQG
@@ -33574,6 +33611,7 @@ WwV
 Wgn
 Wpi
 Way
+Warshall
 ZZZPU
 ZX
 ZQ

@@ -4,6 +4,8 @@ dg-publish: true
 ---
 Son puertas que reciben entrada de un proceso y salen a otro. Este necesita saber donde recibe y un puerto.
 
+Son parte de cada una de los dispo
+
 
 ## Sockets UDP
 

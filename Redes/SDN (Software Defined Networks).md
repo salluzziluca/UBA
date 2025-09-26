@@ -9,7 +9,7 @@ Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a
 
 El [[Network layer#Routing]] es muuuy lento, entonces cuando llega una IP que no esta en la [[Router Control Plane y Scheduling| tabla de routeo]] hay que hacer calculos que en el mejor de los casos es O(n)
 
-SDN busca resolver esto.
+SDN busca resolver esto. Es un controlador 
 
 ![[Pasted image 20250926193359.png]]
 ![[Pasted image 20250926193415.png]]

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Control de Flujo y Congestion en TCP",
-      "path": "Control de Flujo y Congestion en TCP.md"
-    },
-    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
     },
     {
+      "basename": "Control de Flujo y Congestion en TCP",
+      "path": "Redes/Control de Flujo y Congestion en TCP.md"
+    },
+    {
+      "basename": "Protocolos cliente servidor",
+      "path": "Redes/Protocolos cliente servidor.md"
+    },
+    {
+      "basename": "TCP Control de Flujo",
+      "path": "TCP Control de Flujo.md"
+    },
+    {
       "basename": "Establecimiento y cierre de conexiones en TCP",
-      "path": "Establecimiento y cierre de conexiones en TCP.md"
+      "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
     },
     {
       "basename": "Capa de Transporte",
@@ -31,10 +39,6 @@
     {
       "basename": "Capa de Aplicacion",
       "path": "Redes/Capa de Aplicacion.md"
-    },
-    {
-      "basename": "Protocolos cliente servidor",
-      "path": "Redes/Protocolos cliente servidor.md"
     },
     {
       "basename": "Metricas de Performance",
@@ -195,10 +199,6 @@
     {
       "basename": "Definición de Proceso Puntual de Poisson",
       "path": "Probabilidad y Estadística B/7. Proceso de Poisson/Definición de Proceso Puntual de Poisson.md"
-    },
-    {
-      "basename": "Programacion Asincronica",
-      "path": "Programacion Concurrente/Programacion Asincronica.md"
     }
   ],
   "omittedPaths": [],

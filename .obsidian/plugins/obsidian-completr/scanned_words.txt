@@ -2481,6 +2481,7 @@ caracterizados
 contiguas
 checksum
 congesti
+cticamente
 de
 dispositivos
 del
@@ -6228,6 +6229,9 @@ saltos
 sender
 salidmos
 superan
+ssthresh
+sucesivamente
+ssthreshold
 par
 por
 punto
@@ -11551,6 +11555,8 @@ SALEN
 SIMPLE
 Secuencia
 Sequence
+Seteo
+Setea
 Calls
 Cmabia
 CPU
@@ -17043,6 +17049,10 @@ Aumenta
 Armamos
 Aclara
 Archivo
+Avoidance
+ACKs
+Aumento
+Ajuste
 Programming
 Procesos
 Partes
@@ -20477,6 +20487,8 @@ tratado
 topologia
 taken
 transferir
+transmisi
+threshold
 inico
 interna
 infro
@@ -22107,6 +22119,7 @@ forwarded
 field
 faltan
 fabric
+fall
 Nombre
 Notas
 Not
@@ -25883,6 +25896,10 @@ Reconocimiento
 Relacionados
 Receptor
 Retransmission
+Reno
+Retransmit
+Recovery
+Reenv
 bien
 by
 be

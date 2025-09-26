@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"2c3646383ad9c1a8","x":1213,"y":66,"width":400,"height":400,"type":"file","file":"Redes/Establecimiento y cierre de conexiones en TCP.md"},
+		{"id":"2c3646383ad9c1a8","type":"file","file":"Redes/Establecimiento y cierre de conexiones en TCP.md","x":1213,"y":66,"width":400,"height":400},
 		{"id":"7385023e227926ea","type":"file","file":"Redes/TCP.md","x":640,"y":-176,"width":400,"height":400},
 		{"id":"ac0f9a06f13c4db4","type":"file","file":"Redes/Capa de Aplicacion.md","x":-510,"y":-560,"width":980,"height":420},
 		{"id":"a618cfaf8da73128","type":"file","file":"Redes/Protocolos cliente servidor.md","x":-260,"y":-1100,"width":400,"height":400},
 		{"id":"9cffe8e7762e2071","type":"file","file":"Redes/Capa de Transporte.md","x":-510,"y":0,"width":980,"height":520},
 		{"id":"c635cfb6cfdd1d0f","type":"file","file":"Redes/Capa de Red.md","x":-510,"y":1080,"width":980,"height":400},
 		{"id":"a83b1234a2efae60","type":"file","file":"Redes/UDP.md","x":640,"y":260,"width":400,"height":400},
-		{"id":"00f56ca537e08526","x":1206,"y":-426,"width":400,"height":400,"type":"file","file":"Redes/Control de Flujo y Congestion en TCP.md"}
+		{"id":"00f56ca537e08526","type":"file","file":"Redes/Control de Flujo y Congestion en TCP.md","x":1206,"y":-426,"width":400,"height":400},
+		{"id":"e2c28b37ddf758b9","x":-1240,"y":-1345,"width":660,"height":505,"type":"file","file":"Redes/Metricas de Performance.md"}
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},

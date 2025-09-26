@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IPv6",
+      "path": "Redes/IPv6.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
-    },
-    {
-      "basename": "IPv6",
-      "path": "Redes/IPv6.md"
     },
     {
       "basename": "IPv4",

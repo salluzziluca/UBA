@@ -5,7 +5,9 @@ dg-publish: true
 Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling | control plane]]
 
 
-Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a su destino final. Ahora se brinda msa informacion para que no haya que hacer recalculos en cada uno de los routers
+Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a su destino final. Ahora se brinda msa informacion para que no haya que hacer recalculos en cada uno de los routers. 
+
+El [[Network layer#Routing]] es muuuy lento, entonces cuando llega una IP que no esta en la [[Router]]
 
 ![[Pasted image 20250926193359.png]]
 ![[Pasted image 20250926193415.png]]

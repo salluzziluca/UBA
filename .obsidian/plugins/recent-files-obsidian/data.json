@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "NAT",
-      "path": "Redes/NAT.md"
-    },
-    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
+    },
+    {
+      "basename": "NAT",
+      "path": "Redes/NAT.md"
     },
     {
       "basename": "Router Data Plane",

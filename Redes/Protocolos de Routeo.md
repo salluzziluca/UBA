@@ -11,6 +11,7 @@ aliases:
 
 Corre internamente [[Recorridos Grafos#Dijkstra|Algoritmo de Dijkstra]]. Se fija en capacidades y prioridades 
 Permite autenticacion y permite multicast. 
+Se maneja por zonas
 Tiene su propio protocoo de capa de transporte  
 
 Requiere cierta config de pesos y demas variantes

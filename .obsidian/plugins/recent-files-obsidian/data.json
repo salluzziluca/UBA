@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NAT",
+      "path": "Redes/NAT.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
     },
@@ -117,10 +121,6 @@
       "path": "Redes/Demultiplexar.md"
     },
     {
-      "basename": "NAT",
-      "path": "Redes/NAT.md"
-    },
-    {
       "basename": "Network layer",
       "path": "Redes/Network layer.md"
     },
@@ -135,10 +135,6 @@
     {
       "basename": "Sincronizacion",
       "path": "Programacion Concurrente/Sincronizacion.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Redes/Untitled 1.md"
     },
     {
       "basename": "Algoritmos y Programación II",

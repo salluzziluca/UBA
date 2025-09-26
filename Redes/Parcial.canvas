@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"517f49b69043b663","x":-289,"y":1712,"width":400,"height":400,"type":"file","file":"Redes/NAT.md"},
 		{"id":"2bd16ac808a25117","type":"file","file":"Redes/Organismos Normalizadores.md","x":-1064,"y":-2063,"width":400,"height":400},
 		{"id":"2c3646383ad9c1a8","type":"file","file":"Redes/Establecimiento y cierre de conexiones en TCP.md","x":1213,"y":66,"width":400,"height":400},
 		{"id":"7385023e227926ea","type":"file","file":"Redes/TCP.md","x":640,"y":-176,"width":400,"height":400},
@@ -18,8 +19,8 @@
 		{"id":"bfc78ad85c398720","type":"file","file":"Redes/DHCP.md","x":-1740,"y":1154,"width":400,"height":400},
 		{"id":"39932fb7626b88e5","type":"file","file":"Redes/Sockets.md","x":-1310,"y":24,"width":400,"height":400},
 		{"id":"5971d0ea0bc0ea0c","type":"file","file":"Redes/Router.md","x":-710,"y":2200,"width":400,"height":400},
-		{"id":"883c95a59047d6b3","x":-1020,"y":2756,"width":400,"height":400,"type":"file","file":"Redes/Router Control Plane y Scheduling.md"},
-		{"id":"ee2f67f8ad6b865e","x":-360,"y":2756,"width":400,"height":400,"type":"file","file":"Redes/Router Data Plane.md"}
+		{"id":"883c95a59047d6b3","type":"file","file":"Redes/Router Control Plane y Scheduling.md","x":-1020,"y":2756,"width":400,"height":400},
+		{"id":"ee2f67f8ad6b865e","type":"file","file":"Redes/Router Data Plane.md","x":-360,"y":2756,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},

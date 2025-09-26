@@ -7,6 +7,6 @@
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},
-		{"id":"eb3addc61c95eced","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top"}
+		{"id":"d5e8e75200b2d5a2","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top","label":"Se conecta mediante socket con\n"}
 	]
 }

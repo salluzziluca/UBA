@@ -2,8 +2,6 @@
 Dia: 2025-09-26
 dg-publish: true
 ---
----
-
 ## Definición
 
 El **Data Plane** define qué debe hacer cada paquete para encontrar su destino.

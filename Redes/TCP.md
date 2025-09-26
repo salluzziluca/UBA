@@ -58,7 +58,7 @@ W = ventana de transmision
 rwin = recieve window del otro lado
 cwin = cogestion WIn
 
-si me envian rwin 0 0 cada tanto le peudo mandar un paquete con el flag push
+	si me envian rwin 0 0 cada tanto le peudo mandar un paquete con el flag push
 
 ### Slow Start
 La ventana de congestion arranca en 1 MSS. 

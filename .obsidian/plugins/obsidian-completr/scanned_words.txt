@@ -7464,6 +7464,8 @@ pinta
 processor
 pues
 parecidas
+proces
+propagaci
 la
 las
 le
@@ -12332,6 +12334,7 @@ Clase
 Congestion
 Conexi
 Cierra
+Congesti
 Es
 El
 Estos
@@ -15804,6 +15807,7 @@ nucleo
 numerito
 network
 nevien
+nde
 via
 vuelve
 viven
@@ -17759,6 +17763,7 @@ Poruqe
 Podes
 Plata
 Prefijo
+Procesamiento
 Interface
 ID
 Instructions
@@ -24598,6 +24603,7 @@ MISMA
 Maximum
 Manda
 Mismo
+Mira
 Table
 Todos
 This
@@ -25169,6 +25175,7 @@ TTL
 TDAs
 Transmission
 Transmisi
+Tiempos
 Realiza
 REgistrys
 Rango
@@ -30608,6 +30615,7 @@ BBA
 Bring
 Byte
 Bloquea
+Blocking
 XY
 Xg
 XQG

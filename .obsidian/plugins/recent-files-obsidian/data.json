@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Router Data Plane",
+      "path": "Redes/Router Data Plane.md"
+    },
+    {
       "basename": "Router",
       "path": "Redes/Router.md"
+    },
+    {
+      "basename": "Protocolos cliente servidor",
+      "path": "Redes/Protocolos cliente servidor.md"
+    },
+    {
+      "basename": "Métricas de Performance",
+      "path": "Métricas de Performance.md"
     },
     {
       "basename": "Parcial",
@@ -71,10 +83,6 @@
     {
       "basename": "TCP",
       "path": "Redes/TCP.md"
-    },
-    {
-      "basename": "Protocolos cliente servidor",
-      "path": "Redes/Protocolos cliente servidor.md"
     },
     {
       "basename": "TCP Control de Flujo",
@@ -191,14 +199,6 @@
     {
       "basename": "Arquitectura",
       "path": "Ingeneniería del Software I/Arquitectura.md"
-    },
-    {
-      "basename": "3.1 Esperanza",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
-    },
-    {
-      "basename": "Definición de Proceso Puntual de Poisson",
-      "path": "Probabilidad y Estadística B/7. Proceso de Poisson/Definición de Proceso Puntual de Poisson.md"
     }
   ],
   "omittedPaths": [],

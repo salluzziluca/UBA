@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
+    },
+    {
+      "basename": "Sockets",
+      "path": "Redes/Sockets.md"
+    },
+    {
       "basename": "DHCP",
       "path": "Redes/DHCP.md"
     },
     {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
+      "basename": "Mascara de Red",
+      "path": "Redes/Mascara de Red.md"
+    },
+    {
+      "basename": "Capa de Red",
+      "path": "Redes/Capa de Red.md"
     },
     {
       "basename": "Router",
@@ -21,20 +33,12 @@
       "path": "Redes/IPv4.md"
     },
     {
-      "basename": "Capa de Red",
-      "path": "Redes/Capa de Red.md"
-    },
-    {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
     },
     {
       "basename": "Content Delivery Network (CDN)",
       "path": "Redes/Content Delivery Network (CDN).md"
-    },
-    {
-      "basename": "Sockets",
-      "path": "Redes/Sockets.md"
     },
     {
       "basename": "Fragmentacion",
@@ -47,10 +51,6 @@
     {
       "basename": "Organismos Normalizadores",
       "path": "Redes/Organismos Normalizadores.md"
-    },
-    {
-      "basename": "Mascara de Red",
-      "path": "Redes/Mascara de Red.md"
     },
     {
       "basename": "Capa de Aplicacion",

@@ -13,4 +13,8 @@ Corre internamente [[Recorridos Grafos#Dijkstra|Algoritmo de Dijkstra]]. Se fija
 Permite autenticacion y permite multicast. 
 Tiene su propio protocoo de capa de transporte  
 
-## RIP
+Requiere cierta config de
+
+## RIP II 
+Es otro protoclo. Pedir apuntes de esto. 
+Si la red no es muy grande anda muy bien y es out of the box

@@ -9,4 +9,4 @@ aliases:
 
 ## OSPF 
 
-Corre internamente 
+Corre internamente [[Recorridos Grafos#Dijkstra|Algoritmo de Dijkstra]]. Se fija en capacidades y prioridades 

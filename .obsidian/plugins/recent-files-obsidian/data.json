@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
+    },
+    {
+      "basename": "Fragmentacion",
+      "path": "Redes/Fragmentacion.md"
+    },
+    {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
     {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
+      "basename": "DHCP",
+      "path": "Redes/DHCP.md"
+    },
+    {
+      "basename": "MTU",
+      "path": "Redes/MTU.md"
     },
     {
       "basename": "Organismos Normalizadores",
@@ -19,14 +31,6 @@
     {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "DHCP",
-      "path": "Redes/DHCP.md"
-    },
-    {
-      "basename": "Fragmentacion",
-      "path": "Redes/Fragmentacion.md"
     },
     {
       "basename": "Mascara de Red",
@@ -135,10 +139,6 @@
     {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
-    },
-    {
-      "basename": "MTU",
-      "path": "Redes/MTU.md"
     },
     {
       "basename": "Scheduling",

@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"c635cfb6cfdd1d0f","x":-510,"y":580,"width":980,"height":400,"type":"file","file":"Redes/Capa de Red.md"},
-		{"id":"9cffe8e7762e2071","x":-510,"y":-60,"width":980,"height":520,"type":"file","file":"Redes/Capa de Transporte.md"},
-		{"id":"ac0f9a06f13c4db4","x":-510,"y":-560,"width":980,"height":420,"type":"file","file":"Redes/Capa de Aplicacion.md"},
-		{"id":"a618cfaf8da73128","x":-260,"y":-1100,"width":400,"height":400,"type":"file","file":"Redes/Protocolos cliente servidor.md"}
+		{"id":"7385023e227926ea","x":640,"y":-176,"width":400,"height":400,"type":"file","file":"Redes/TCP.md"},
+		{"id":"ac0f9a06f13c4db4","type":"file","file":"Redes/Capa de Aplicacion.md","x":-510,"y":-560,"width":980,"height":420},
+		{"id":"a618cfaf8da73128","type":"file","file":"Redes/Protocolos cliente servidor.md","x":-260,"y":-1100,"width":400,"height":400},
+		{"id":"9cffe8e7762e2071","type":"file","file":"Redes/Capa de Transporte.md","x":-510,"y":0,"width":980,"height":520},
+		{"id":"c635cfb6cfdd1d0f","type":"file","file":"Redes/Capa de Red.md","x":-510,"y":1080,"width":980,"height":400}
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},
-		{"id":"d5e8e75200b2d5a2","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top","label":"Se conecta mediante socket con\n"}
+		{"id":"d5e8e75200b2d5a2","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top","label":"Se conecta mediante socket con\n"},
+		{"id":"79648f234d341456","fromNode":"9cffe8e7762e2071","fromSide":"right","toNode":"7385023e227926ea","toSide":"left"}
 	]
 }

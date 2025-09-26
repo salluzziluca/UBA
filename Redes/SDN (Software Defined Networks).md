@@ -7,7 +7,7 @@ Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling |
 
 Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a su destino final. Ahora se brinda msa informacion para que no haya que hacer recalculos en cada uno de los routers. 
 
-El [[Network layer#Routing]] es muuuy lento, entonces cuando llega una IP que no esta en la [[Router]]
+El [[Network layer#Routing]] es muuuy lento, entonces cuando llega una IP que no esta en la [[Router Control Plane y Scheduling| tabla de routeo]] hay que hacer calculos que
 
 ![[Pasted image 20250926193359.png]]
 ![[Pasted image 20250926193415.png]]

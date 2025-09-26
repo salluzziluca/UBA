@@ -5,16 +5,16 @@
       "path": "Redes/Router.md"
     },
     {
+      "basename": "Router Data Plane",
+      "path": "Redes/Router Data Plane.md"
+    },
+    {
       "basename": "Redes",
       "path": "Redes/Redes.md"
     },
     {
       "basename": "Router Control Plane y Scheduling",
       "path": "Redes/Router Control Plane y Scheduling.md"
-    },
-    {
-      "basename": "Router Data Plane",
-      "path": "Redes/Router Data Plane.md"
     },
     {
       "basename": "Protocolos cliente servidor",

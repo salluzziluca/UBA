@@ -1077,6 +1077,7 @@ LHK
 Levels
 Llega
 Localizaci
+Line
 capa
 controlado
 cantidad
@@ -3552,6 +3553,7 @@ dbee
 dando
 despojo
 detectarlo
+demoras
 gestion
 gran
 guarda
@@ -11574,6 +11576,7 @@ Seteo
 Setea
 SOCK
 STREAM
+Sale
 Calls
 Cmabia
 CPU
@@ -13048,6 +13051,7 @@ ENTERA
 Entra
 Emisor
 Enlaces
+Escritura
 kernel
 kt
 kU
@@ -17764,6 +17768,8 @@ Podes
 Plata
 Prefijo
 Procesamiento
+Plane
+Paquete
 Interface
 ID
 Instructions
@@ -25930,6 +25936,7 @@ Reno
 Retransmit
 Recovery
 Reenv
+Routeo
 bien
 by
 be
@@ -28113,6 +28120,9 @@ OmfS
 OJw
 OCJ
 Options
+Ocurre
+Optimizaci
+Optimizar
 ya
 yo
 yM
@@ -30077,6 +30087,7 @@ GFBT
 GkhW
 GGY
 Game
+Genera
 BX
 Bit
 Box
@@ -31542,6 +31553,8 @@ HyperText
 Host
 HOL
 Handshake
+Hop
+Head
 Jacobiano
 Job
 Jusitfique
@@ -33032,6 +33045,7 @@ xpc
 xgt
 xft
 xjU
+ximas
 Workload
 Walrus
 Whitley

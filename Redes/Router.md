@@ -42,3 +42,13 @@ El paquete entra por el **input port**, pasa por la **switch fabric** que mapea 
 > [!tip] Si está mal mapeado y se queda dando vueltas entre routers, eventualmente muere por el TTL (ver [[IPv4]])
 
 Se busca **minimizar el routeo** y **optimizar la tabla** para mejorar las [[Metricas de Performance]].
+
+
+![[Router Data Plane]]
+
+----
+
+
+
+
+![[Router Control Plane y Scheduling]]    

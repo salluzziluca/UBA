@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UDP",
+      "path": "Redes/UDP.md"
+    },
+    {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "context switch",
       "path": "Excalidraw/context switch.md"
-    },
-    {
-      "basename": "Informacion Oficial",
-      "path": "TPP/Informacion Oficial.md"
     }
   ],
   "omittedPaths": [],

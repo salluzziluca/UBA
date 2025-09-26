@@ -5,20 +5,20 @@
       "path": "Redes/Parcial.canvas"
     },
     {
-      "basename": "Capa de Aplicacion",
-      "path": "Redes/Capa de Aplicacion.md"
+      "basename": "Capa de Transporte",
+      "path": "Redes/Capa de Transporte.md"
     },
     {
       "basename": "Protocolos cliente servidor",
       "path": "Redes/Protocolos cliente servidor.md"
     },
     {
-      "basename": "Capa de Red",
-      "path": "Redes/Capa de Red.md"
+      "basename": "Capa de Aplicacion",
+      "path": "Redes/Capa de Aplicacion.md"
     },
     {
-      "basename": "Capa de Transporte",
-      "path": "Redes/Capa de Transporte.md"
+      "basename": "Capa de Red",
+      "path": "Redes/Capa de Red.md"
     },
     {
       "basename": "Metricas de Performance",

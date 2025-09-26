@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Capa de Transporte",
-      "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
-    },
-    {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
     },
     {
+      "basename": "Capa de Transporte",
+      "path": "Redes/Capa de Transporte.md"
+    },
+    {
       "basename": "Capa de Aplicacion",
       "path": "Redes/Capa de Aplicacion.md"
+    },
+    {
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
     },
     {
       "basename": "Metricas de Performance",

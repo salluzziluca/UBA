@@ -2,7 +2,11 @@
 	"nodes":[
 		{"id":"c635cfb6cfdd1d0f","x":-510,"y":580,"width":980,"height":400,"type":"file","file":"Redes/Capa de Red.md"},
 		{"id":"9cffe8e7762e2071","x":-510,"y":-60,"width":980,"height":520,"type":"file","file":"Redes/Capa de Transporte.md"},
-		{"id":"ac0f9a06f13c4db4","x":-510,"y":-560,"width":980,"height":420,"type":"file","file":"Redes/Capa de Aplicacion.md"}
+		{"id":"ac0f9a06f13c4db4","x":-510,"y":-560,"width":980,"height":420,"type":"file","file":"Redes/Capa de Aplicacion.md"},
+		{"id":"a618cfaf8da73128","x":-260,"y":-1100,"width":400,"height":400,"type":"file","file":"Redes/Protocolos cliente servidor.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},
+		{"id":"eb3addc61c95eced","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top"}
+	]
 }

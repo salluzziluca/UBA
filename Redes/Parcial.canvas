@@ -28,7 +28,7 @@
 		{"id":"3d31d94ab431c666","fromNode":"7385023e227926ea","fromSide":"right","toNode":"2c3646383ad9c1a8","toSide":"left"},
 		{"id":"9edeff01e97513df","fromNode":"9cffe8e7762e2071","fromSide":"right","toNode":"8d33099b0cea1f75","toSide":"left"},
 		{"id":"911e51aa88dd4bd3","fromNode":"9cffe8e7762e2071","fromSide":"left","toNode":"39932fb7626b88e5","toSide":"right","label":"Envia los datos\nmediante"},
-		{"id":"d9382540ae455094","fromNode":"5971d0ea0bc0ea0c","fromSide":"left","toNode":"2380a6d1bdd8b05f","toSide":"right"},
+		{"id":"d9382540ae455094","fromNode":"5971d0ea0bc0ea0c","fromSide":"left","toNode":"2380a6d1bdd8b05f","toSide":"right","label":"Utiliza"},
 		{"id":"15f6d15735f21c16","fromNode":"f00763128f5556bf","fromSide":"left","toNode":"bfc78ad85c398720","toSide":"right"},
 		{"id":"bfe28b146f1015bb","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"f00763128f5556bf","toSide":"right","label":"Utiliza"},
 		{"id":"a994f18478864ff9","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"866efa1700ffcecd","toSide":"right","label":"Utiliza"},

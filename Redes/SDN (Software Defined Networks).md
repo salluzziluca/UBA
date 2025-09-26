@@ -2,7 +2,7 @@
 Dia: 2025-09-26
 dg-publish: true
 ---
-
+Es una modalidad, pensado para redes no demasiado grandes (usualmente se usa solo para redes locales)
 
 Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling | control plane]]
 

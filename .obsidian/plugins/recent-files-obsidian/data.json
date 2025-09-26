@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Establecimiento de conexiones en TCP",
+      "path": "Establecimiento de conexiones en TCP.md"
+    },
+    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Memoria",
       "path": "Sistemas Operativos/Memoria.md"
-    },
-    {
-      "basename": "context switch",
-      "path": "Excalidraw/context switch.md"
     }
   ],
   "omittedPaths": [],

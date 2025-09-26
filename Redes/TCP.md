@@ -2,88 +2,36 @@
 Dia: 2025-09-05
 dg-publish: true
 ---
-
+# TCP (Transmission Control Protocol)
 
 ![[Pasted image 20250905214306.png]]
-Los paquetes de TCP se llaman segmentos porque si tienen relacion el uno con el otro 
 
-Cuando yo envio mi paquete mando un SN (sequence number o NS), este es el numero dle ultimo byte. Y en el ACK por parte del reciever me va a llegar en NR (numero de reconocimiento) el numero SN+1. Es decir, el proximo que yo quiero escuchar.
+Los paquetes de TCP se llaman **segmentos** porque tienen relación el uno con el otro.
 
->[!example] Si yo envio mi paquete con el SN= 1000. El NR en el ACK del reciever deberia valer 1001. Como el ACK no envia data. No modifica su SN en cada valor. Simplemente pone un numero random. 
+## Numeración de Secuencia
 
+Cuando envío mi paquete mando un **SN (Sequence Number o NS)**, este es el número del último byte. En el ACK por parte del receiver me va a llegar en **NR (Número de Reconocimiento)** el número SN+1. Es decir, el próximo que yo quiero escuchar.
 
->[!important] En una comunicacion emisor receptor en la que siempre una envia y la otra solo tira ACK. El NR de emisor y el NS del receptor nunca deberian cambiar.
+> [!example] Si yo envío mi paquete con el SN = 1000. El NR en el ACK del receiver debería valer 1001. Como el ACK no envía data, no modifica su SN en cada valor. Simplemente pone un número random.
 
-x|
+> [!important] En una comunicación emisor-receptor en la que siempre una envía y la otra solo tira ACK. El NR de emisor y el NS del receptor nunca deberían cambiar.
 
-Si la [[Capa de Transporte#Continuo|ventana de transmision]] fuese fija. A veces estaria enviando por encima y otras por debajo de la capacidad de trafico de la red.
+## Ventana de Transmisión
 
+Si la [[Capa de Transporte#Continuo|ventana de transmisión]] fuese fija, a veces estaría enviando por encima y otras por debajo de la capacidad de tráfico de la red.
 
-Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. Porque a partir de ahi ya se me pisan los numeros de NS en la vetana. Tengo overflow (revisar)
+Tener siempre en cuenta el [[MSS]]. En el aire yo puedo tener 2Gb. Porque a partir de ahí ya se me pisan los números de NS en la ventana. Tengo overflow.
+
 ![[Pasted image 20250905202248.png]]
 
+## Reporte de Errores
 
-## Reporte de errores
+Si a mí como receptor me llega un paquete cuyo NS no coincide with el NR que yo espero, reenvío el último ACK que mandé. Es decir el del paquete que SÍ llegó.
 
-Si a mi como receptor me llega un paquete cuyo NS no coincide con el NR que yo espero. Reenvio el ultimo ack que mande. Es decir el del paquete que SI llego
 ![[Pasted image 20250905202209.png]]
 
-## Calculo del timeout 
-$T(i)= RTT(i) \alpha+T(i-1)(1-\alpha)$ con $0\leq \alpha \leq 1$ Se suele elegir $\alpha=\frac{1}{8}$
+## Temas Relacionados
 
-$D=|RTT(i)-T(i)| \beta + D(i-1) (1-\beta$. Esto seria el desvio. Con beta = 1/4
-
-Retransmition Timeout (RTO)= T(i) + 4 D(i)
-
-
-## Establecimiento de conexion y desconexion
-
-El emisor envia el paquete para abrir la conexion. Le manda su NS y le aclara cual es el MSS que va a usar. Le manda el flag de SYN y el rwin(recieve window), cuanto puede recibir el emisor *en ese momento*
-
-El receptor envia un ack con NR=ns del emisor +1. Le envia el MSS y el Rwin propios.
-
-Finalmente el emisor envia un ACK con el mismo NS, el NR +1 y el rwin *en ese momento*
-
->[!important] El rwin se manda en cada paquete, siempre. Le digo cual es el tamaño de mi buffer en ese momento. Mi disponibilidad para redivir
-
-
-![[Pasted image 20250905210054.png]]
-
-
-## Tipos de Ventanas
-
-W= min(rwin, cwind). 
-
-W = ventana de transmision 
-rwin = recieve window del otro lado
-cwin = cogestion WIn
-
-	si me envian rwin 0 0 cada tanto le peudo mandar un paquete con el flag push
-
-### Slow Start
-La ventana de congestion arranca en 1 MSS. 
-ek ssthres aranaca en 65535 (bytes) (practicamente en +inf)
-
-Envio lo mio, un total de un mss
-Me llega la repsuesta y por cada ACK que tengo aumento en 1 mss (en este caso aumento de 1 a 2 mss)
-Envio 2 ventanas completas 
-Me llegan las respuestas. Por cada ack aumento en 1 mss (aumento de 2 a 4)
-y asi...
-
-Aumenta muy rapido, exponencialmente
-
-### congestion avoidance
-Cuando me llegan 3 acks repetidos bajo rapidisimo el tamaño de la ventana. La reduzco a la mitad y seteo el sshtreshold al punto en el que estoy en ese momento (ya dividida).
-
-Ahora aumento mucho mas despacio el tamaño de la ventana. Recien cuando recibo la ventana ENTERA aumento un MSS, no por cada ack
-
-El treshold puede subir o bajar segun cuando se me colapse la red nuevamente. Si llegp a tener otro triple ack pero con una cwind mas grande, por lo que cwin/2 es mayor que sshtreshold, lo aumento.
-
-
-Si hay timeout, TCP reno setea el cwin en 1MSS y ssh treshold en 2MSS. En seguida llega a los 2 MSS y vuelve a entrar en congestion avoidance
-![[Pasted image 20250905212416.png]]
-
-
-## Fast Retransmiting y Fast recovery
-
-Si me llegan 3 acks del mismo solo reenvio el el que fallo y aumento la ventana en 3 para poder mostrar los 3 paquetes siguientes. La agrando rapido para no perder tiempo, envio 3 extras y una vez que me llegan los acks que me faltaban cierro los 3 slots extrasx
+- [[TCP Conexiones]] - Establecimiento y cierre de conexiones
+- [[TCP Control de Flujo]] - Manejo de ventanas y congestión
+- [[MSS]] - Maximum Segment Size

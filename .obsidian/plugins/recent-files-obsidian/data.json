@@ -5,16 +5,16 @@
       "path": "Redes/Parcial.canvas"
     },
     {
-      "basename": "Fragmentacion",
-      "path": "Redes/Fragmentacion.md"
+      "basename": "DHCP",
+      "path": "Redes/DHCP.md"
     },
     {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
     {
-      "basename": "DHCP",
-      "path": "Redes/DHCP.md"
+      "basename": "Fragmentacion",
+      "path": "Redes/Fragmentacion.md"
     },
     {
       "basename": "MTU",

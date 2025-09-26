@@ -21,7 +21,7 @@ Tambien puede proveer:
 443 -> HTTPs 
 80-> HTTP
 
-[[UDP]]
+![[UDP]]
 ## Principios de comunicacion confiable
 
 - Conectadas (se ejecutan un par de pasos para asegurar conexion) vs no conectadas (DNS, whatsapp)

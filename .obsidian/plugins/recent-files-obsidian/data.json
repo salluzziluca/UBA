@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Content Delivery Network (CDN)",
+      "path": "Redes/Content Delivery Network (CDN).md"
+    },
+    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Organismos Normalizadores",
       "path": "Redes/Organismos Normalizadores.md"
-    },
-    {
-      "basename": "Content Delivery Network (CDN)",
-      "path": "Redes/Content Delivery Network (CDN).md"
     },
     {
       "basename": "Capa de Transporte",

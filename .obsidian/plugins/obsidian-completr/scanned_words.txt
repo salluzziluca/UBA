@@ -2480,6 +2480,7 @@ correspondientemente
 caracterizados
 contiguas
 checksum
+congesti
 de
 dispositivos
 del
@@ -11548,6 +11549,8 @@ Similitud
 San
 SALEN
 SIMPLE
+Secuencia
+Sequence
 Calls
 Cmabia
 CPU
@@ -12306,6 +12309,7 @@ Connections
 Corre
 Clase
 Congestion
+Conexi
 Es
 El
 Estos
@@ -13017,6 +13021,8 @@ Establecimiento
 Envio
 ENTERA
 Entra
+Emisor
+Enlaces
 kernel
 kt
 kU
@@ -14521,6 +14527,8 @@ rutas
 routeo
 rojos
 respectivos
+reenv
+receive
 operacion
 orden
 operaciones
@@ -17033,6 +17041,8 @@ Autorizadas
 AKC
 Aumenta
 Armamos
+Aclara
+Archivo
 Programming
 Procesos
 Partes
@@ -19746,6 +19756,7 @@ mapeado
 muere
 modularizaci
 mascara
+mand
 tien
 tiene
 todos
@@ -22613,6 +22624,8 @@ NFm
 NACK
 Netflix
 Next
+Numeraci
+Number
 File
 For
 Funcion
@@ -23848,6 +23861,7 @@ Disponibilidad
 DDoS
 Datacenters
 Direcciones
+Desv
 Memoria
 Multivariada
 MORE
@@ -24545,6 +24559,9 @@ MDQ
 Mascara
 Manejan
 MISMA
+Maximum
+Manda
+Mismo
 Table
 Todos
 This
@@ -25114,6 +25131,8 @@ Transport
 Timeout
 TTL
 TDAs
+Transmission
+Transmisi
 Realiza
 REgistrys
 Rango
@@ -25860,6 +25879,10 @@ Routing
 RESUMIENDO
 Routers
 Router
+Reconocimiento
+Relacionados
+Receptor
+Retransmission
 bien
 by
 be
@@ -31466,6 +31489,7 @@ HTTPs
 HyperText
 Host
 HOL
+Handshake
 Jacobiano
 Job
 Jusitfique
@@ -33467,6 +33491,7 @@ Wnj
 WwV
 Wgn
 Wpi
+Way
 ZZZPU
 ZX
 ZQ

@@ -14,7 +14,7 @@ dg-publish: true
 2. **Receptor** envía un ACK:
     
     - NR = NS del emisor + 1
-    - Envía el MSS propio
+    - Envía el [[MSS]] propio
     - Envía el rwin propio
 3. **Emisor** envía ACK final:
     

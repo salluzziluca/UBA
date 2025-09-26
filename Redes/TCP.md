@@ -32,6 +32,6 @@ Si a mí como receptor me llega un paquete cuyo NS no coincide with el NR que yo
 
 ## Temas Relacionados
 
-- [[TCP Conexiones]] - Establecimiento y cierre de conexiones
+- [[Establecimiento y cierre de conexiones en TCP]] - Establecimiento y cierre de conexiones
 - [[TCP Control de Flujo]] - Manejo de ventanas y congestión
 - [[MSS]] - Maximum Segment Size

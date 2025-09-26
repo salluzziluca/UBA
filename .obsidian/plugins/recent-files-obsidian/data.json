@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Establecimiento de conexiones en TCP",
-      "path": "Establecimiento de conexiones en TCP.md"
-    },
-    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
+    },
+    {
+      "basename": "Establecimiento y cierre de conexiones en TCP",
+      "path": "Establecimiento y cierre de conexiones en TCP.md"
     },
     {
       "basename": "Capa de Transporte",

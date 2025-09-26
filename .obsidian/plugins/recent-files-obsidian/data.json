@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Control de Flujo y Congestion en TCP",
-      "path": "Redes/Control de Flujo y Congestion en TCP.md"
-    },
-    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
     },
     {
+      "basename": "Metricas de Performance",
+      "path": "Redes/Metricas de Performance.md"
+    },
+    {
       "basename": "Establecimiento y cierre de conexiones en TCP",
       "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
+    },
+    {
+      "basename": "Control de Flujo y Congestion en TCP",
+      "path": "Redes/Control de Flujo y Congestion en TCP.md"
     },
     {
       "basename": "Organismos Normalizadores",
@@ -43,10 +47,6 @@
     {
       "basename": "Capa de Aplicacion",
       "path": "Redes/Capa de Aplicacion.md"
-    },
-    {
-      "basename": "Metricas de Performance",
-      "path": "Redes/Metricas de Performance.md"
     },
     {
       "basename": "DHCP",

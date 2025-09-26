@@ -66,5 +66,5 @@ Donde:
 ## Enlaces
 
 - [[TCP]] - Archivo principal
-- [[TCP Conexiones]] - Establecimiento y cierre de conexiones
+- [[Control de Flujo y Congestion en TCP]]- Establecimiento y cierre de conexiones
 - [[MSS]] - Maximum Segment Size

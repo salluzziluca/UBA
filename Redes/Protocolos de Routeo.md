@@ -1,4 +1,4 @@
 ---
 aliases:
 ---
-[[Dijks]]
+[[Recorridos Grafos#Dijkstra|Dijkstra]]

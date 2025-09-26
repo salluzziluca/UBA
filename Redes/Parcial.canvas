@@ -15,9 +15,11 @@
 		{"id":"f00763128f5556bf","type":"file","file":"Redes/IPv4.md","x":-1140,"y":800,"width":400,"height":400},
 		{"id":"866efa1700ffcecd","type":"file","file":"Redes/IPv6.md","x":-1140,"y":1354,"width":400,"height":400},
 		{"id":"2380a6d1bdd8b05f","type":"file","file":"Redes/Mascara de Red.md","x":-1540,"y":1880,"width":400,"height":400},
-		{"id":"bfc78ad85c398720","x":-1740,"y":1154,"width":400,"height":400,"type":"file","file":"Redes/DHCP.md"},
+		{"id":"bfc78ad85c398720","type":"file","file":"Redes/DHCP.md","x":-1740,"y":1154,"width":400,"height":400},
 		{"id":"39932fb7626b88e5","type":"file","file":"Redes/Sockets.md","x":-1310,"y":24,"width":400,"height":400},
-		{"id":"5971d0ea0bc0ea0c","type":"file","file":"Redes/Router.md","x":-710,"y":2200,"width":400,"height":400}
+		{"id":"5971d0ea0bc0ea0c","type":"file","file":"Redes/Router.md","x":-710,"y":2200,"width":400,"height":400},
+		{"id":"883c95a59047d6b3","x":-1020,"y":2756,"width":400,"height":400,"type":"file","file":"Redes/Router Control Plane y Scheduling.md"},
+		{"id":"ee2f67f8ad6b865e","x":-360,"y":2756,"width":400,"height":400,"type":"file","file":"Redes/Router Data Plane.md"}
 	],
 	"edges":[
 		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},
@@ -32,6 +34,8 @@
 		{"id":"15f6d15735f21c16","fromNode":"f00763128f5556bf","fromSide":"left","toNode":"bfc78ad85c398720","toSide":"right"},
 		{"id":"bfe28b146f1015bb","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"f00763128f5556bf","toSide":"right","label":"Utiliza"},
 		{"id":"a994f18478864ff9","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"866efa1700ffcecd","toSide":"right","label":"Utiliza"},
-		{"id":"b7cc6094592e802c","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"5971d0ea0bc0ea0c","toSide":"top","label":"Se comunica \nmediante"}
+		{"id":"b7cc6094592e802c","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"5971d0ea0bc0ea0c","toSide":"top","label":"Se comunica \nmediante"},
+		{"id":"cc5c3513442c5e7e","fromNode":"5971d0ea0bc0ea0c","fromSide":"bottom","toNode":"883c95a59047d6b3","toSide":"top"},
+		{"id":"57f7587b91382481","fromNode":"5971d0ea0bc0ea0c","fromSide":"bottom","toNode":"ee2f67f8ad6b865e","toSide":"top"}
 	]
 }

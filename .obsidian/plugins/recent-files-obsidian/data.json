@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Router",
-      "path": "Redes/Router.md"
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
     },
     {
       "basename": "Router Data Plane",
       "path": "Redes/Router Data Plane.md"
     },
     {
-      "basename": "Redes",
-      "path": "Redes/Redes.md"
-    },
-    {
       "basename": "Router Control Plane y Scheduling",
       "path": "Redes/Router Control Plane y Scheduling.md"
+    },
+    {
+      "basename": "Router",
+      "path": "Redes/Router.md"
+    },
+    {
+      "basename": "Redes",
+      "path": "Redes/Redes.md"
     },
     {
       "basename": "Protocolos cliente servidor",
@@ -23,10 +27,6 @@
     {
       "basename": "Métricas de Performance",
       "path": "Métricas de Performance.md"
-    },
-    {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
     },
     {
       "basename": "Capa de Red",

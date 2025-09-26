@@ -2485,6 +2485,7 @@ congesti
 cticamente
 conectado
 connect
+colapso
 de
 dispositivos
 del
@@ -4082,6 +4083,7 @@ gTz
 gkE
 gNq
 gyaW
+gradual
 especifico
 entra
 en
@@ -12338,6 +12340,7 @@ Congestion
 Conexi
 Cierra
 Congesti
+Colas
 Es
 El
 Estos
@@ -14562,6 +14565,7 @@ recvfrom
 rechazadas
 representando
 recv
+rotativo
 operacion
 orden
 operaciones
@@ -17770,6 +17774,8 @@ Prefijo
 Procesamiento
 Plane
 Paquete
+Preventiva
+Prevenci
 Interface
 ID
 Instructions
@@ -19800,6 +19806,7 @@ muere
 modularizaci
 mascara
 mand
+matan
 tien
 tiene
 todos
@@ -22673,6 +22680,7 @@ Netflix
 Next
 Numeraci
 Number
+Notificaci
 File
 For
 Funcion
@@ -25182,6 +25190,7 @@ TDAs
 Transmission
 Transmisi
 Tiempos
+Turno
 Realiza
 REgistrys
 Rango
@@ -27556,6 +27565,7 @@ Verificacion
 Ventana
 Ventanas
 Vendria
+Vialidad
 OPTIONS
 Operativos
 Orden
@@ -30088,6 +30098,7 @@ GkhW
 GGY
 Game
 Genera
+Garantizado
 BX
 Bit
 Box

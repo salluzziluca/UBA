@@ -10,3 +10,7 @@ aliases:
 ## OSPF 
 
 Corre internamente [[Recorridos Grafos#Dijkstra|Algoritmo de Dijkstra]]. Se fija en capacidades y prioridades 
+Permite autenticacion y permite multicast. 
+Tiene su propio protocoo de capa de transporte  
+
+## RIP

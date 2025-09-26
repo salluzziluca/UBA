@@ -4,7 +4,7 @@ dg-publish: true
 ---
 ## Tipos de Ventanas
  
-W=min⁡(rwin,cwin)W = \min(\text{rwin}, \text{cwin})W=min(rwin,cwin)
+$$W=min⁡(rwin,cwin)W = \min(\text{rwin}, \text{cwin})W=min(rwin,cwin)$$
 
 Donde:
 

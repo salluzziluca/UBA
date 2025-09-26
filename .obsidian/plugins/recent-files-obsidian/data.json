@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "TCP",
-      "path": "Redes/TCP.md"
-    },
-    {
       "basename": "Control de Flujo y Congestion en TCP",
       "path": "Redes/Control de Flujo y Congestion en TCP.md"
+    },
+    {
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
+    },
+    {
+      "basename": "Establecimiento y cierre de conexiones en TCP",
+      "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
+    },
+    {
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Redes/TCP.md"
     },
     {
       "basename": "Protocolos cliente servidor",
@@ -17,16 +29,8 @@
       "path": "TCP Control de Flujo.md"
     },
     {
-      "basename": "Establecimiento y cierre de conexiones en TCP",
-      "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
-    },
-    {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
     },
     {
       "basename": "UDP",
@@ -131,10 +135,6 @@
     {
       "basename": "MTU",
       "path": "Redes/MTU.md"
-    },
-    {
-      "basename": "Organismos Normalizadores",
-      "path": "Redes/Organismos Normalizadores.md"
     },
     {
       "basename": "Scheduling",

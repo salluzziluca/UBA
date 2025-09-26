@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Control de Flujo y Congestion en TCP",
+      "path": "Control de Flujo y Congestion en TCP.md"
+    },
+    {
       "basename": "TCP",
       "path": "Redes/TCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Programacion Asincronica",
       "path": "Programacion Concurrente/Programacion Asincronica.md"
-    },
-    {
-      "basename": "Memoria",
-      "path": "Sistemas Operativos/Memoria.md"
     }
   ],
   "omittedPaths": [],

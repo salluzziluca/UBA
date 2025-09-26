@@ -9,7 +9,7 @@ Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a
 
 El [[Network layer#Routing]] es muuuy lento, entonces cuando llega una IP que no esta en la [[Router Control Plane y Scheduling| tabla de routeo]] hay que hacer calculos que en el mejor de los casos es O(n)
 
-SDN busca resolver esto. Es un controlador central para evitar que cada router tenga un [[Router Control Plane y Scheduling | control plane]]. De esa forma los routers solo se encargaria de enviar las cosas. Es una configura
+SDN busca resolver esto. Es un controlador central para evitar que cada router tenga un [[Router Control Plane y Scheduling | control plane]]. De esa forma los routers solo se encargaria de enviar las cosas. Es una configuracion centralizada
 
 ![[Pasted image 20250926193359.png]]
 ![[Pasted image 20250926193415.png]]

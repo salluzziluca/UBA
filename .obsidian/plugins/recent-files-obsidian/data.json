@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fragmentacion",
+      "path": "Redes/Fragmentacion.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Redes/Parcial.canvas"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "Content Delivery Network (CDN)",
       "path": "Redes/Content Delivery Network (CDN).md"
-    },
-    {
-      "basename": "Fragmentacion",
-      "path": "Redes/Fragmentacion.md"
     },
     {
       "basename": "MTU",

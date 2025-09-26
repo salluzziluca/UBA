@@ -5,6 +5,10 @@
       "path": "Redes/Parcial.canvas"
     },
     {
+      "basename": "Capa de Red",
+      "path": "Redes/Capa de Red.md"
+    },
+    {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
-    },
-    {
-      "basename": "Capa de Red",
-      "path": "Redes/Capa de Red.md"
     },
     {
       "basename": "Router",

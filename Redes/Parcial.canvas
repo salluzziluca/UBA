@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"517f49b69043b663","type":"file","file":"Redes/NAT.md","x":-289,"y":1712,"width":400,"height":400},
+		{"id":"2bd16ac808a25117","type":"file","file":"Redes/Organismos Normalizadores.md","x":-1064,"y":-2063,"width":400,"height":400},
+		{"id":"2c3646383ad9c1a8","type":"file","file":"Redes/Establecimiento y cierre de conexiones en TCP.md","x":1213,"y":66,"width":400,"height":400},
+		{"id":"7385023e227926ea","type":"file","file":"Redes/TCP.md","x":640,"y":-176,"width":400,"height":400},
+		{"id":"ac0f9a06f13c4db4","type":"file","file":"Redes/Capa de Aplicacion.md","x":-510,"y":-560,"width":980,"height":420},
+		{"id":"a618cfaf8da73128","type":"file","file":"Redes/Protocolos cliente servidor.md","x":-260,"y":-1100,"width":400,"height":400},
+		{"id":"9cffe8e7762e2071","type":"file","file":"Redes/Capa de Transporte.md","x":-510,"y":0,"width":980,"height":520},
+		{"id":"c635cfb6cfdd1d0f","type":"file","file":"Redes/Capa de Red.md","x":-510,"y":1080,"width":980,"height":400},
+		{"id":"a83b1234a2efae60","type":"file","file":"Redes/UDP.md","x":640,"y":260,"width":400,"height":400},
+		{"id":"00f56ca537e08526","type":"file","file":"Redes/Control de Flujo y Congestion en TCP.md","x":1206,"y":-426,"width":400,"height":400},
+		{"id":"e2c28b37ddf758b9","type":"file","file":"Redes/Metricas de Performance.md","x":-1240,"y":-1345,"width":660,"height":505},
+		{"id":"35e9d707605416c7","type":"file","file":"Redes/Content Delivery Network (CDN).md","x":-360,"y":-1800,"width":400,"height":400},
+		{"id":"f00763128f5556bf","type":"file","file":"Redes/IPv4.md","x":-1140,"y":800,"width":400,"height":400},
+		{"id":"866efa1700ffcecd","type":"file","file":"Redes/IPv6.md","x":-1140,"y":1354,"width":400,"height":400},
+		{"id":"2380a6d1bdd8b05f","type":"file","file":"Redes/Mascara de Red.md","x":-1540,"y":1880,"width":400,"height":400},
+		{"id":"bfc78ad85c398720","type":"file","file":"Redes/DHCP.md","x":-1740,"y":1154,"width":400,"height":400},
+		{"id":"39932fb7626b88e5","type":"file","file":"Redes/Sockets.md","x":-1310,"y":24,"width":400,"height":400},
+		{"id":"5971d0ea0bc0ea0c","type":"file","file":"Redes/Router.md","x":-710,"y":2200,"width":400,"height":400},
+		{"id":"883c95a59047d6b3","type":"file","file":"Redes/Router Control Plane y Scheduling.md","x":-1020,"y":2756,"width":400,"height":400},
+		{"id":"ee2f67f8ad6b865e","type":"file","file":"Redes/Router Data Plane.md","x":-360,"y":2756,"width":400,"height":400},
+		{"id":"8d33099b0cea1f75","type":"file","file":"Redes/Fragmentacion.md","x":-1940,"y":520,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8ff4b2080bbac6b0","fromNode":"ac0f9a06f13c4db4","fromSide":"top","toNode":"a618cfaf8da73128","toSide":"bottom","label":"Utiliza"},
+		{"id":"d5e8e75200b2d5a2","fromNode":"ac0f9a06f13c4db4","fromSide":"bottom","toNode":"9cffe8e7762e2071","toSide":"top","label":"Se conecta mediante socket con\n"},
+		{"id":"79648f234d341456","fromNode":"9cffe8e7762e2071","fromSide":"right","toNode":"7385023e227926ea","toSide":"left"},
+		{"id":"9c5f51e283d77178","fromNode":"9cffe8e7762e2071","fromSide":"right","toNode":"a83b1234a2efae60","toSide":"left"},
+		{"id":"c8a780f9e700109b","fromNode":"7385023e227926ea","fromSide":"right","toNode":"00f56ca537e08526","toSide":"left"},
+		{"id":"3d31d94ab431c666","fromNode":"7385023e227926ea","fromSide":"right","toNode":"2c3646383ad9c1a8","toSide":"left"},
+		{"id":"911e51aa88dd4bd3","fromNode":"9cffe8e7762e2071","fromSide":"left","toNode":"39932fb7626b88e5","toSide":"right","label":"Envia los datos\nmediante"},
+		{"id":"d9382540ae455094","fromNode":"5971d0ea0bc0ea0c","fromSide":"left","toNode":"2380a6d1bdd8b05f","toSide":"right","label":"Para organizar el\n direccionamiento utiliza"},
+		{"id":"15f6d15735f21c16","fromNode":"f00763128f5556bf","fromSide":"left","toNode":"bfc78ad85c398720","toSide":"right"},
+		{"id":"bfe28b146f1015bb","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"f00763128f5556bf","toSide":"right","label":"Utiliza"},
+		{"id":"a994f18478864ff9","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"866efa1700ffcecd","toSide":"right","label":"Utiliza"},
+		{"id":"b7cc6094592e802c","fromNode":"c635cfb6cfdd1d0f","fromSide":"left","toNode":"5971d0ea0bc0ea0c","toSide":"top","label":"Se comunica \nmediante"},
+		{"id":"cc5c3513442c5e7e","fromNode":"5971d0ea0bc0ea0c","fromSide":"bottom","toNode":"883c95a59047d6b3","toSide":"top"},
+		{"id":"57f7587b91382481","fromNode":"5971d0ea0bc0ea0c","fromSide":"bottom","toNode":"ee2f67f8ad6b865e","toSide":"top"},
+		{"id":"abd84510fac116f2","fromNode":"866efa1700ffcecd","fromSide":"left","toNode":"bfc78ad85c398720","toSide":"right"},
+		{"id":"b6d0c89a52c1c303","fromNode":"f00763128f5556bf","fromSide":"top","toNode":"8d33099b0cea1f75","toSide":"right","label":"Si el paquete es muy grande puede usar"}
+	]
+}

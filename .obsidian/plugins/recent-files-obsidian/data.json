@@ -1,40 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "Monitores",
-      "path": "Programacion Concurrente/Monitores.md"
+      "basename": "Protocolos de Routeo",
+      "path": "Redes/Protocolos de Routeo.md"
     },
     {
-      "basename": "Sincronizacion",
-      "path": "Programacion Concurrente/Sincronizacion.md"
+      "basename": "Recorridos Grafos",
+      "path": "Algoritmos y Programación II/Recorridos Grafos.md"
+    },
+    {
+      "basename": "SDN (Software Defined Networks)",
+      "path": "Redes/SDN (Software Defined Networks).md"
+    },
+    {
+      "basename": "Router Control Plane y Scheduling",
+      "path": "Redes/Router Control Plane y Scheduling.md"
+    },
+    {
+      "basename": "Middle boxes",
+      "path": "Redes/Middle boxes.md"
+    },
+    {
+      "basename": "Router Data Plane",
+      "path": "Redes/Router Data Plane.md"
+    },
+    {
+      "basename": "Fragmentacion",
+      "path": "Redes/Fragmentacion.md"
+    },
+    {
+      "basename": "Parcial",
+      "path": "Redes/Parcial.canvas"
+    },
+    {
+      "basename": "IPv6",
+      "path": "Redes/IPv6.md"
     },
     {
       "basename": "NAT",
       "path": "Redes/NAT.md"
     },
     {
-      "basename": "DHCP",
-      "path": "Redes/DHCP.md"
-    },
-    {
-      "basename": "MSS",
-      "path": "Redes/MSS.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Redes/Untitled 1.md"
-    },
-    {
       "basename": "Router",
       "path": "Redes/Router.md"
+    },
+    {
+      "basename": "Redes",
+      "path": "Redes/Redes.md"
+    },
+    {
+      "basename": "Protocolos cliente servidor",
+      "path": "Redes/Protocolos cliente servidor.md"
+    },
+    {
+      "basename": "Métricas de Performance",
+      "path": "Métricas de Performance.md"
     },
     {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
     },
     {
-      "basename": "Redes",
-      "path": "Redes/Redes.md"
+      "basename": "Sockets",
+      "path": "Redes/Sockets.md"
+    },
+    {
+      "basename": "DHCP",
+      "path": "Redes/DHCP.md"
+    },
+    {
+      "basename": "Mascara de Red",
+      "path": "Redes/Mascara de Red.md"
+    },
+    {
+      "basename": "IPv4",
+      "path": "Redes/IPv4.md"
+    },
+    {
+      "basename": "Capa de Transporte",
+      "path": "Redes/Capa de Transporte.md"
+    },
+    {
+      "basename": "Content Delivery Network (CDN)",
+      "path": "Redes/Content Delivery Network (CDN).md"
+    },
+    {
+      "basename": "MTU",
+      "path": "Redes/MTU.md"
+    },
+    {
+      "basename": "Organismos Normalizadores",
+      "path": "Redes/Organismos Normalizadores.md"
+    },
+    {
+      "basename": "Capa de Aplicacion",
+      "path": "Redes/Capa de Aplicacion.md"
+    },
+    {
+      "basename": "Metricas de Performance",
+      "path": "Redes/Metricas de Performance.md"
+    },
+    {
+      "basename": "Establecimiento y cierre de conexiones en TCP",
+      "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
+    },
+    {
+      "basename": "Control de Flujo y Congestion en TCP",
+      "path": "Redes/Control de Flujo y Congestion en TCP.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Redes/TCP.md"
+    },
+    {
+      "basename": "TCP Control de Flujo",
+      "path": "TCP Control de Flujo.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "Redes/UDP.md"
+    },
+    {
+      "basename": "Multiplexar",
+      "path": "Redes/Multiplexar.md"
+    },
+    {
+      "basename": "MSS",
+      "path": "Redes/MSS.md"
+    },
+    {
+      "basename": "Introduccion a la materia",
+      "path": "Redes/Introduccion a la materia.md"
+    },
+    {
+      "basename": "Demultiplexar",
+      "path": "Redes/Demultiplexar.md"
+    },
+    {
+      "basename": "Network layer",
+      "path": "Redes/Network layer.md"
+    },
+    {
+      "basename": "UBA",
+      "path": "UBA.md"
+    },
+    {
+      "basename": "Monitores",
+      "path": "Programacion Concurrente/Monitores.md"
+    },
+    {
+      "basename": "Sincronizacion",
+      "path": "Programacion Concurrente/Sincronizacion.md"
     },
     {
       "basename": "Algoritmos y Programación II",
@@ -47,70 +163,6 @@
     {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
-    },
-    {
-      "basename": "UBA",
-      "path": "UBA.md"
-    },
-    {
-      "basename": "Capa de Transporte",
-      "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "Capa de Aplicacion",
-      "path": "Redes/Capa de Aplicacion.md"
-    },
-    {
-      "basename": "Content Delivery Network (CDN)",
-      "path": "Redes/Content Delivery Network (CDN).md"
-    },
-    {
-      "basename": "Demultiplexar",
-      "path": "Redes/Demultiplexar.md"
-    },
-    {
-      "basename": "Fragmentacion",
-      "path": "Redes/Fragmentacion.md"
-    },
-    {
-      "basename": "Introduccion a la materia",
-      "path": "Redes/Introduccion a la materia.md"
-    },
-    {
-      "basename": "IPv4",
-      "path": "Redes/IPv4.md"
-    },
-    {
-      "basename": "IPv6",
-      "path": "Redes/IPv6.md"
-    },
-    {
-      "basename": "Mascara de Red",
-      "path": "Redes/Mascara de Red.md"
-    },
-    {
-      "basename": "Metricas de Performance",
-      "path": "Redes/Metricas de Performance.md"
-    },
-    {
-      "basename": "MTU",
-      "path": "Redes/MTU.md"
-    },
-    {
-      "basename": "Network layer",
-      "path": "Redes/Network layer.md"
-    },
-    {
-      "basename": "Multiplexar",
-      "path": "Redes/Multiplexar.md"
-    },
-    {
-      "basename": "Organismos Normalizadores",
-      "path": "Redes/Organismos Normalizadores.md"
-    },
-    {
-      "basename": "Protocolos cliente servidor",
-      "path": "Redes/Protocolos cliente servidor.md"
     },
     {
       "basename": "Scheduling",
@@ -147,58 +199,6 @@
     {
       "basename": "Concurrencia",
       "path": "Sistemas Operativos/Concurrencia.md"
-    },
-    {
-      "basename": "Locks en Rust",
-      "path": "Programacion Concurrente/Locks en Rust.md"
-    },
-    {
-      "basename": "Locks en UNIX",
-      "path": "Programacion Concurrente/Locks en UNIX.md"
-    },
-    {
-      "basename": "Correccion",
-      "path": "Programacion Concurrente/Correccion.md"
-    },
-    {
-      "basename": "Arquitectura",
-      "path": "Ingeneniería del Software I/Arquitectura.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "Redes/TCP.md"
-    },
-    {
-      "basename": "Sockets",
-      "path": "Redes/Sockets.md"
-    },
-    {
-      "basename": "3.1 Esperanza",
-      "path": "Probabilidad y Estadística B/3. Momentos/3.1 Esperanza.md"
-    },
-    {
-      "basename": "Definición de Proceso Puntual de Poisson",
-      "path": "Probabilidad y Estadística B/7. Proceso de Poisson/Definición de Proceso Puntual de Poisson.md"
-    },
-    {
-      "basename": "Programacion Asincronica",
-      "path": "Programacion Concurrente/Programacion Asincronica.md"
-    },
-    {
-      "basename": "Memoria",
-      "path": "Sistemas Operativos/Memoria.md"
-    },
-    {
-      "basename": "context switch",
-      "path": "Excalidraw/context switch.md"
-    },
-    {
-      "basename": "Informacion Oficial",
-      "path": "TPP/Informacion Oficial.md"
-    },
-    {
-      "basename": "Dato",
-      "path": "Base de Datos/Dato.md"
     }
   ],
   "omittedPaths": [],

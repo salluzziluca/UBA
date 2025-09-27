@@ -4,17 +4,19 @@ dg-publish: true
 ---
 Son puertas que reciben entrada de un proceso y salen a otro. Este necesita saber donde recibe y un puerto.
 
+Son parte de cada una de los dispositivos conectados a la red y se comunican mediante [[Capa de Transporte]] y [[Capa de Red]] con [[Router|Routers]]
 
-## Sockets UDP
+
+## Sockets [[UDP]]
 
 `socket(addr_family, type)
 
 addr_family define el tipo de direcciones que se utilizaran:
-- AF_INET es para IPV4 
-- No se cual se usa para IPv6 
+- AF_INET es para [[IPV4]] 
+- No se cual se usa para [[IPv6]] 
 
 Type especifica el tipo que vamos a crear:
-- Socket dgrm para UDP 
+- Socket dgrm para [[UDP]] 
 
 `socket.bind(addrs)`
 
@@ -36,16 +38,16 @@ bloquea e huloi de ejecucion hasta que le llegue una conexion. Se le especifica 
 Devuelve la información recibida en forma de bytes y la dirección que envió los datos
 
 
-## Sockets TCP
+## Sockets [[TCP]]
 ![[Pasted image 20250904185057.png]]
 
 
 socket(address_family, type) 
 Crea un nuevo socket utilizando los parámetros seleccionados.
 - address_family define el tipo de direcciones que se utilizaran. 
-	- Normalmente se utiliza AF_INET para direcciones IPv4. 
+	- Normalmente se utiliza AF_INET para direcciones [[IPv4]]. 
 - type es el tipo de que vamos a crear. 
-	- Se utiliza SOCK_STREAM para TCP
+	- Se utiliza SOCK_STREAM para [[TCP]]
 
 
 socket.bind(address) ○ Asocia el socket a una dirección local. ○ address indica la dirección IP y puerto que el servidor escuchará
@@ -54,9 +56,9 @@ socket.bind(address) ○ Asocia el socket a una dirección local. ○ address in
 socket.listen() ○ Indica al socket que debe aceptar conexiones. ○ De no llamarse, todas las conexiones entrantes serán rechazadas}
 
 
-socket.accept() ○ Bloquea el hilo de ejecución hasta que se establece una nueva conexión TCP. ○ Devuelve un nuevo socket, representando la conexión y la dirección del host conectado.
+socket.accept() ○ Bloquea el hilo de ejecución hasta que se establece una nueva conexión [[TCP]]. ○ Devuelve un nuevo socket, representando la conexión y la dirección del host conectado.
 
-socket.connect(address) ○ Bloquea el hilo de ejecución hasta que se establece una conexión TCP con un socket remoto. ○ address indica la dirección IP y puerto donde el socket remoto está escuchando
+socket.connect(address) ○ Bloquea el hilo de ejecución hasta que se establece una conexión [[TCP]] con un socket remoto. ○ address indica la dirección IP y puerto donde el socket remoto está escuchando
 
 socket.send(data) ○ Envía datos a través del socket. ○ data son los datos a enviar en forma de bytes. ○ Devuelve la cantidad de bytes enviados. ○ Puede ser llamada en el servidor y en el cliente.
 

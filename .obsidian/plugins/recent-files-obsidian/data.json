@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Estimacion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
+    },
+    {
       "basename": "Protocolos de Routeo",
       "path": "Redes/Protocolos de Routeo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Locks",
       "path": "Programacion Concurrente/Locks.md"
-    },
-    {
-      "basename": "Concurrencia",
-      "path": "Sistemas Operativos/Concurrencia.md"
     }
   ],
   "omittedPaths": [],

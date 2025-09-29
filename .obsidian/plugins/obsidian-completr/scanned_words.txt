@@ -2490,6 +2490,7 @@ comenzamos
 calculada
 cortos
 concatenando
+config
 de
 dispositivos
 del
@@ -7481,6 +7482,9 @@ proces
 propagaci
 ponia
 pesado
+prioridades
+protocoo
+protoclo
 la
 las
 le
@@ -9260,6 +9264,7 @@ alla
 addrs
 anchura
 armas
+anda
 hardware
 heap
 hay
@@ -16465,6 +16470,7 @@ vialidad
 visitar
 vecinos
 visitado
+variantes
 Application
 API
 Asigna
@@ -17802,6 +17808,7 @@ Preventiva
 Prevenci
 Prim
 Partiendo
+Pedir
 Interface
 ID
 Instructions
@@ -19835,6 +19842,8 @@ mand
 matan
 msa
 marcan
+multicast
+maneja
 tien
 tiene
 todos
@@ -23951,6 +23960,7 @@ Direcciones
 Desv
 DFS
 Depth
+Demora
 Memoria
 Multivariada
 MORE
@@ -25982,6 +25992,7 @@ Reenv
 Routeo
 Recorridos
 Recorriendo
+RIP
 bien
 by
 be
@@ -28173,6 +28184,7 @@ Options
 Ocurre
 Optimizaci
 Optimizar
+OSPF
 ya
 yo
 yM
@@ -34669,6 +34681,7 @@ zgr
 zvX
 zRA
 zona
+zonas
 ÄB
 ÄG
 Äo

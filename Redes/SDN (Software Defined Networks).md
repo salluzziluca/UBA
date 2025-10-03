@@ -19,3 +19,10 @@ SDN busca resolver esto. Es un controlador central para evitar que cada router t
 
 
 ## Partess del SDN
+![[Pasted image 20251003192655.png]]
+
+Intefaz norte en azul y sur en verde. 
+
+Tiene un aparte de comunucauin que oibe las confugraciones 
+
+Luego el control y por enci

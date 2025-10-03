@@ -25,4 +25,4 @@ Intefaz norte en azul y sur en verde.
 
 Tiene un aparte de comunucauin que oibe las confugraciones 
 
-Luego el control y por enci
+Luego el control y por encima las aplicaicones tales como NAT, rooting, firewall, access control

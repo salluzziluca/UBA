@@ -23,4 +23,7 @@ Se guardan todos los caminos posibles, pero la salida que elegida va a ser la de
 Yo como [[AS (Autonomous System)|AS]] puedo hacer [[prepending]], repitiendo mi direccion multiples veces para que esa ruta sea menos atractiva para el trafico.
 
 
-Pa
+## Politicas de BGP 
+![[Pasted image 20251003201411.png]]
+
+Para evitar que un peer competencia use mis rutas gratis, las rutas que aprendo de mis proveedores las enseño solo a mis clientes. A mis vecinos solo les transmito las rutas que aprendo de mis clientes

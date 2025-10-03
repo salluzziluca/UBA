@@ -2,7 +2,9 @@
 Dia: 2025-09-26
 dg-publish: true
 ---
-Es una modalidad, pensada para redes no demasiado grandes (usualmente se usa solo para redes locales, sistemas autonomos no muy grandes o ). Esto es porque requiere mucha envio de informacion, mucha densidad. Manejar toda esa informacion, hacer cuentas y enviarla a todos los dispositivos es complicado.
+>[!note] 
+Es una modalidad, pensada para redes no demasiado grandes (usualmente se usa solo para redes locales, sistemas autonomos no muy grandes o no la totalidad de un sistema autonomo grande). Esto es porque requiere mucha envio de informacion, mucha densidad. Manejar toda esa informacion, hacer cuentas y enviarla a todos los dispositivos es complicado.
+
 
 Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling | control plane]]
 

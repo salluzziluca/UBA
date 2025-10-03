@@ -34,5 +34,7 @@ Para evitar que un peer competencia use mis rutas gratis, las rutas que aprendo 
 ### Filtering
 Prevenir la propagacion de informacion incorrecta, que un AS no pueda mentir con un AS Path.
 
+
+
 ![[Pasted image 20251003204550.png]]
 

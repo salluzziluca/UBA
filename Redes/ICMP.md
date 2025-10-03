@@ -17,4 +17,4 @@ Network information
 
 Source Quench (aviso de congestion)
 
-Redirect: Un router con una 
+Redirect: Un router con una mejor tabla de routeo puede enviar un mensaje de redirect avisando que no estas usando una ruta buena.

@@ -10,4 +10,11 @@ Transmite
 ## Informacion 
 
 Echo:
-	
+	-  Request 
+	- Reply 
+
+Network information 
+
+Source Quench (aviso de congestion)
+
+Redirect

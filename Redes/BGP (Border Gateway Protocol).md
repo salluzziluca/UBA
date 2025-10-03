@@ -16,4 +16,4 @@ Aclara el camino/path que hay que hacer desde el [[AS (Autonomous System)|AS]] i
 ![[Pasted image 20251003195502.png]]
 
 
-Las
+Las comunicaciones importantes se dan entre los [[Router|routers]] bordes

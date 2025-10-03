@@ -30,11 +30,16 @@ Para evitar que un peer competencia use mis rutas gratis, las rutas que aprendo 
 
 
 ## RESUMIR ESTO 
-
+De todo esto se encargan los routers de borde|
 ### Filtering
 Prevenir la propagacion de informacion incorrecta, que un AS no pueda mentir con un AS Path.
 
+### Anti spoofing
+prevenir que un router se haga pasar por otro usando su IP.
 
+### Coordination 
+
+### Global Validation
 
 ![[Pasted image 20251003204550.png]]
 

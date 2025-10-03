@@ -20,4 +20,4 @@ Las comunicaciones importantes se dan entre los [[Router|routers]] bordes
 
 Se guardan todos los caminos posibles, pero la salida que elegida va a ser la de menor AS en el AS-path
 
-Yo como AS puedo hacer prepending, repitiendo mi direccion multiples veces para que esa ruta sea menos atractiva para el 
+Yo como AS puedo hacer prepending, repitiendo mi direccion multiples veces para que esa ruta sea menos atractiva para el trafico.

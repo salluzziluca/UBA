@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AS (Autonomous System)",
+      "path": "Redes/AS (Autonomous System).md"
+    },
+    {
       "basename": "BGP (Border Gateway Protocol)",
       "path": "Redes/BGP (Border Gateway Protocol).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Riesgos",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
-    },
-    {
-      "basename": "Drawing 2023-10-09 12.26.04.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-09 12.26.04.excalidraw.md"
     }
   ],
   "omittedPaths": [],

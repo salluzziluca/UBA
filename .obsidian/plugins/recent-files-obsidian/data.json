@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BGP (Border Gateway Protocol)",
+      "path": "Redes/BGP (Border Gateway Protocol).md"
+    },
+    {
       "basename": "SDN (Software Defined Networks)",
       "path": "Redes/SDN (Software Defined Networks).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-10-09 12.26.04.excalidraw",
       "path": "Excalidraw/Drawing 2023-10-09 12.26.04.excalidraw.md"
-    },
-    {
-      "basename": "Locks",
-      "path": "Programacion Concurrente/Locks.md"
     }
   ],
   "omittedPaths": [],

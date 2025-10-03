@@ -18,3 +18,4 @@ SDN busca resolver esto. Es un controlador central para evitar que cada router t
 ![[Pasted image 20250926193415.png]]
 
 
+## Partess del SDN

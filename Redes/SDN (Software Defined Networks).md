@@ -6,6 +6,7 @@ Es una modalidad, pensado para redes no demasiado grandes (usualmente se usa sol
 
 Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling | control plane]]
 
+El plano de control esta centralizado en una nube
 
 Antes se ponia la direccion destino y listo, con eso se iba guiando al paquete a su destino final. Ahora se brinda msa informacion para que no haya que hacer recalculos en cada uno de los routers. 
 

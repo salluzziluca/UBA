@@ -3564,6 +3564,7 @@ despojo
 detectarlo
 demoras
 dijkstra
+desviar
 gestion
 gran
 guarda
@@ -5171,6 +5172,7 @@ encara
 encargaria
 enrutamiento
 enrutamiendo
+entrante
 servicios
 son
 su
@@ -6260,6 +6262,7 @@ seleccionados
 send
 spanning
 skipeo
+saliente
 par
 por
 punto
@@ -7492,6 +7495,8 @@ prioridades
 protocoo
 protoclo
 pensado
+prepending
+preferir
 la
 las
 le
@@ -9274,6 +9279,11 @@ armas
 anda
 autonomos
 aut
+atraves
+atractiva
+adir
+agresiva
+aplicables
 hardware
 heap
 hay
@@ -14600,6 +14610,7 @@ recv
 rotativo
 recorrelo
 reemplazamos
+repitiendo
 operacion
 orden
 operaciones
@@ -17128,6 +17139,8 @@ Ajuste
 Asocia
 Agoritmo
 Aut
+Agrega
+ASs
 Programming
 Procesos
 Partes
@@ -17821,6 +17834,7 @@ Prevenci
 Prim
 Partiendo
 Pedir
+PATH
 Interface
 ID
 Instructions
@@ -26630,6 +26644,7 @@ bind
 bufsize
 bloquea
 brinda
+bordes
 will
 words
 with

@@ -18,6 +18,9 @@ Aclara el camino/path que hay que hacer desde el [[AS (Autonomous System)|AS]] i
 
 Las comunicaciones importantes se dan entre los [[Router|routers]] bordes
 
-Se guardan todos los caminos posibles, pero la salida que elegida va a ser la de menor AS en el AS-path
+Se guardan todos los caminos posibles, pero la salida que elegida va a ser la de menor [[AS (Autonomous System)|AS]] en el [[AS (Autonomous System)|AS]]-path
 
-Yo como AS puedo hacer prepending, repitiendo mi direccion multiples veces para que esa ruta sea menos atractiva para el trafico.
+Yo como [[AS (Autonomous System)|AS]] puedo hacer [[prepending]], repitiendo mi direccion multiples veces para que esa ruta sea menos atractiva para el trafico.
+
+
+Pa

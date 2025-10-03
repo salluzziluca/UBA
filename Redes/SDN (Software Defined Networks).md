@@ -23,6 +23,6 @@ SDN busca resolver esto. Es un controlador central para evitar que cada router t
 
 Intefaz norte en azul y sur en verde. 
 
-Tiene un aparte de comunucauin que oibe las confugraciones a los routers
+Tiene un aparte de comunicacion que escribe las configuraciones a los routers/switches
 
 Luego el control y por encima las aplicaicones tales como NAT, rooting, firewall, access control

@@ -2491,6 +2491,9 @@ calculada
 cortos
 concatenando
 config
+controlador
+configuracion
+centralizada
 de
 dispositivos
 del
@@ -5165,6 +5168,7 @@ especifica
 envi
 enviados
 encara
+encargaria
 servicios
 son
 su
@@ -7485,6 +7489,7 @@ pesado
 prioridades
 protocoo
 protoclo
+pensado
 la
 las
 le

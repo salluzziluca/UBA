@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prepending",
+      "path": "Redes/Prepending.md"
+    },
+    {
       "basename": "BGP (Border Gateway Protocol)",
       "path": "Redes/BGP (Border Gateway Protocol).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
       "path": "Física I/4. Sistema de Partículas/Cantidad de movimiento de un Sistema de Partículas (SP).md"
-    },
-    {
-      "basename": "Riesgos",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Riesgos.md"
     }
   ],
   "omittedPaths": [],

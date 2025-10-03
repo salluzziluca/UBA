@@ -27,3 +27,7 @@ Yo como [[AS (Autonomous System)|AS]] puedo hacer [[prepending]], repitiendo mi 
 ![[Pasted image 20251003201411.png]]
 
 Para evitar que un peer competencia use mis rutas gratis, las rutas que aprendo de mis proveedores las enseño solo a mis clientes. A mis vecinos solo les transmito las rutas que aprendo de mis clientes
+
+
+![[Pasted image 20251003204550.png]]
+

@@ -5169,6 +5169,8 @@ envi
 enviados
 encara
 encargaria
+enrutamiento
+enrutamiendo
 servicios
 son
 su
@@ -9270,6 +9272,8 @@ addrs
 anchura
 armas
 anda
+autonomos
+aut
 hardware
 heap
 hay
@@ -15846,6 +15850,7 @@ numerito
 network
 nevien
 nde
+nomo
 via
 vuelve
 viven
@@ -16476,6 +16481,7 @@ visitar
 vecinos
 visitado
 variantes
+viajan
 Application
 API
 Asigna
@@ -17121,6 +17127,7 @@ Aumento
 Ajuste
 Asocia
 Agoritmo
+Aut
 Programming
 Procesos
 Partes
@@ -20572,6 +20579,7 @@ transferir
 transmisi
 threshold
 topol
+transportar
 inico
 interna
 infro
@@ -21504,6 +21512,8 @@ identificaciones
 inverso
 ingeneria
 indispensable
+identificarlo
+intercambio
 fijo
 file
 fork
@@ -30697,6 +30707,7 @@ Byte
 Bloquea
 Blocking
 Breath
+BGP
 XY
 Xg
 XQG

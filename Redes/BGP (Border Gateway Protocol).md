@@ -12,3 +12,8 @@ Agrega un campo a la tabla de routeo
 ![[Pasted image 20251003194950.png]]
 
 Aclara el camino/path que hay que hacer desde el AS inicial para poder llegar al final  atraves de todos los AS intermedios.
+
+![[Pasted image 20251003195502.png]]
+
+
+Las

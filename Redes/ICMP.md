@@ -21,3 +21,6 @@ Redirect: Un router con una mejor tabla de routeo puede enviar un mensaje de red
 
 ## Errores 
 Destination Unreachable 
+Fragmentation:
+- IPv4 fragment needed but DE=1
+- IPv6 Packet too big

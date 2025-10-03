@@ -2,7 +2,7 @@
 Dia: 2025-09-26
 dg-publish: true
 ---
-Es una modalidad, pensado para redes no demasiado grandes (usualmente se usa solo para redes locales)
+Es una modalidad, pensada para redes no demasiado grandes (usualmente se usa solo para redes locales). Esto es porque requiere mucha envio de informacion, mucha densidad. Manejar toda esa informacion, hacer cuentas y env
 
 Busca separar el [[Router Data Plane]] del [[Router Control Plane y Scheduling | control plane]]
 
@@ -25,4 +25,4 @@ Intefaz norte en azul y sur en verde.
 
 Tiene un aparte de comunicacion que escribe las configuraciones a los routers/switches
 
-Luego el control y por encima las aplicaicones tales como NAT, rooting, firewall, access control
+Luego el control y por encima las aplicaicones tales como NAT, rooting, firewall, access control.

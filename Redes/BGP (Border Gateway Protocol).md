@@ -16,6 +16,7 @@ Aclara el camino/path que hay que hacer desde el [[AS (Autonomous System)|AS]] i
 ![[Pasted image 20251003195502.png]]
 
 
-Las comunicaciones importantes se dan entre los [[Router|routers]] bordpathes
+Las comunicaciones importantes se dan entre los [[Router|routers]] bordes
 
-La salida que elegida va a ser la de menor AS en el AS-
+Se guardan todos los caminos posibles 
+La salida que elegida va a ser la de menor AS en el AS-path

@@ -29,5 +29,10 @@ Yo como [[AS (Autonomous System)|AS]] puedo hacer [[prepending]], repitiendo mi 
 Para evitar que un peer competencia use mis rutas gratis, las rutas que aprendo de mis proveedores las enseño solo a mis clientes. A mis vecinos solo les transmito las rutas que aprendo de mis clientes
 
 
+## RESUMIR ESTO 
+
+### Filtering
+Prevenir la propagacion de informacion incorrecta, que un AS no pueda mentir con un AS Path.
+
 ![[Pasted image 20251003204550.png]]
 

@@ -2,7 +2,7 @@
 Dia: 2025-09-26
 dg-publish: true
 ---
-## Tipos de Ventanas
+# Tipos de Ventanas
  
 $$W=min⁡(rwin,cwin)W = \min(\text{rwin}, \text{cwin})W=min(rwin,cwin)$$
 

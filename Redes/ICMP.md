@@ -24,3 +24,7 @@ Destination Unreachable
 Fragmentation:
 - IPv4 fragment needed but DE=1
 - IPv6 Packet too big
+Packet corruption 
+Time exceded:
+- transit: tll llego a 0 durante el transito 
+- 

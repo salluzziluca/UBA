@@ -2504,6 +2504,8 @@ controlar
 caches
 cachearse
 cocina
+contin
+consumidos
 de
 dispositivos
 del
@@ -3581,6 +3583,8 @@ deje
 desactualizados
 declaraci
 despierte
+desbloquean
+dataType
 gestion
 gran
 guarda
@@ -5197,6 +5201,7 @@ extender
 enfoques
 executor
 esper
+estudiar
 servicios
 son
 su
@@ -6297,6 +6302,9 @@ sincronizarse
 suspende
 sync
 std
+semafoto
+semaforo
+semaforos
 par
 por
 punto
@@ -7539,6 +7547,9 @@ pool
 polls
 parado
 puerta
+premisas
+producidos
+presentan
 la
 las
 le
@@ -8233,6 +8244,7 @@ lockeo
 livianas
 llamando
 llamarme
+lleno
 agnosticos
 apps
 al
@@ -9341,6 +9353,8 @@ atomicidad
 asincronicas
 ams
 async
+append
+acotdao
 hardware
 heap
 hay
@@ -10993,6 +11007,8 @@ usarlo
 utillzar
 utilizaci
 utilizaran
+utiliz
+usado
 System
 Son
 Source
@@ -11681,6 +11697,8 @@ Sincronizaci
 Secciones
 Synchronized
 Soluci
+Semaforos
+Sem
 Calls
 Cmabia
 CPU
@@ -12443,6 +12461,7 @@ Conexi
 Cierra
 Congesti
 Colas
+Consumidores
 Es
 El
 Estos
@@ -14681,6 +14700,9 @@ redirect
 rearmado
 rutinas
 reentrante
+reusable
+respetar
+retiro
 operacion
 orden
 operaciones
@@ -15934,6 +15956,9 @@ network
 nevien
 nde
 nomo
+neamente
+notEmpty
+notFull
 via
 vuelve
 viven
@@ -17918,6 +17943,10 @@ Paralelismo
 Procedimientos
 Prerequisito
 Pending
+POSIX
+Productores
+Productor
+Pirmero
 Interface
 ID
 Instructions
@@ -21629,6 +21658,7 @@ idel
 inmediatamente
 intecalarlas
 intermedia
+invariantes
 fijo
 file
 fork
@@ -22330,6 +22360,9 @@ fabric
 fall
 family
 future
+foro
+familias
+forever
 Nombre
 Notas
 Not
@@ -26141,6 +26174,7 @@ Reasembling
 Runnable
 Rust
 Repite
+Representaci
 bien
 by
 be
@@ -26764,6 +26798,8 @@ bufsize
 bloquea
 brinda
 bordes
+barrera
+bloqueado
 will
 words
 with
@@ -30850,6 +30886,8 @@ BGP
 Bloqueado
 Bloques
 Bloque
+Barreras
+Barrera
 XY
 Xg
 XQG

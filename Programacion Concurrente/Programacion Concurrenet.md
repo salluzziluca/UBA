@@ -8,4 +8,10 @@ dg-publish: true
 
 [[Modelo Fork-Join]]
 
-[[]]
+[[Chanells]]
+
+[[Programacion Asincronica]]
+
+
+[[Actores]]
+

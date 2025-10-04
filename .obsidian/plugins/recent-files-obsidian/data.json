@@ -5,6 +5,10 @@
       "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
     {
+      "basename": "Sincronizacion",
+      "path": "Programacion Concurrente/Sincronizacion.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Programacion Concurrente/Parcial.canvas"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "UBA",
       "path": "UBA.md"
-    },
-    {
-      "basename": "Sincronizacion",
-      "path": "Programacion Concurrente/Sincronizacion.md"
     },
     {
       "basename": "Algoritmos y Programación II",

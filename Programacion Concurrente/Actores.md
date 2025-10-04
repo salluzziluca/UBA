@@ -3,8 +3,7 @@ Dia: 2025-10-04
 dg-publish: true
 ---
 Es un modelo basado en el pasaje de mensajes. El actor es la entidad principal del modelo. Son
-livianos, se pueden crear miles (en lugar de threads). Encapsulan comportamiento y estado. El actor
-supervisor puede crear otros actores hijo.
+livianos, se pueden crear miles (en lugar de threads). Encapsulan comportamiento y estado. El actor supervisor puede crear otros actores hijo.
 
 Compuesto por:
 • Dirección: adonde enviarle mensajes. Es como su “nombre” o ID

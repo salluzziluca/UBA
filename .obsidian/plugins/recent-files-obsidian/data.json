@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Parcial",
+      "path": "Programacion Concurrente/Parcial.canvas"
+    },
+    {
+      "basename": "Programacion Asincronica",
+      "path": "Programacion Concurrente/Programacion Asincronica.md"
+    },
+    {
+      "basename": "Monitores",
+      "path": "Programacion Concurrente/Monitores.md"
+    },
+    {
+      "basename": "Modelo Fork-Join",
+      "path": "Programacion Concurrente/Modelo Fork-Join.md"
+    },
+    {
       "basename": "Estimacion",
       "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
     },
@@ -165,10 +181,6 @@
       "path": "UBA.md"
     },
     {
-      "basename": "Monitores",
-      "path": "Programacion Concurrente/Monitores.md"
-    },
-    {
       "basename": "Sincronizacion",
       "path": "Programacion Concurrente/Sincronizacion.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Scheduling",
       "path": "Sistemas Operativos/Scheduling.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Equo/Untitled.md"
-    },
-    {
-      "basename": "Seccion Critica",
-      "path": "Programacion Concurrente/Seccion Critica.md"
-    },
-    {
-      "basename": "equo chropmium",
-      "path": "equo chropmium.md"
     }
   ],
   "omittedPaths": [],

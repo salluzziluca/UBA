@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "KUPA",
+      "path": "Algoritmos y Programación III/Ayudantía/20252c/KUPA.md"
+    },
+    {
       "basename": "Programacion Concurrenet",
       "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Algoritmos y Programación II",
       "path": "Algoritmos y Programación II/Algoritmos y Programación II.md"
-    },
-    {
-      "basename": "Tipos de Datos Abstractos (TDA)",
-      "path": "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md"
     }
   ],
   "omittedPaths": [],

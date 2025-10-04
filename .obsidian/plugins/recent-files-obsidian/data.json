@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Actores",
+      "path": "Programacion Concurrente/Actores.md"
+    },
+    {
       "basename": "Programacion Concurrenet",
       "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tipos de Datos Abstractos (TDA)",
       "path": "Algoritmos y Programación II/Tipos de Datos Abstractos (TDA).md"
-    },
-    {
-      "basename": "Calendarios",
-      "path": "TPP/Calendarios.md"
     }
   ],
   "omittedPaths": [],

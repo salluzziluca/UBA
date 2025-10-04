@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Programacion Concurrenet",
+      "path": "Programacion Concurrente/Programacion Concurrenet.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Programacion Concurrente/Parcial.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Calendarios",
       "path": "TPP/Calendarios.md"
-    },
-    {
-      "basename": "Scheduling",
-      "path": "Sistemas Operativos/Scheduling.md"
     }
   ],
   "omittedPaths": [],

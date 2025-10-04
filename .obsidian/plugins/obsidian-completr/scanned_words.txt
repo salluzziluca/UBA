@@ -2494,6 +2494,7 @@ config
 controlador
 configuracion
 centralizada
+corruption
 de
 dispositivos
 del
@@ -5173,6 +5174,7 @@ encargaria
 enrutamiento
 enrutamiendo
 entrante
+exceded
 servicios
 son
 su
@@ -7497,6 +7499,7 @@ protoclo
 pensado
 prepending
 preferir
+porblem
 la
 las
 le
@@ -13096,6 +13099,7 @@ Emisor
 Enlaces
 Escritura
 ENcuentra
+Echo
 kernel
 kt
 kU
@@ -14611,6 +14615,8 @@ rotativo
 recorrelo
 reemplazamos
 repitiendo
+redirect
+rearmado
 operacion
 orden
 operaciones
@@ -17835,6 +17841,7 @@ Prim
 Partiendo
 Pedir
 PATH
+Paramter
 Interface
 ID
 Instructions
@@ -18438,6 +18445,7 @@ IGUAL
 IPs
 INTERFAZ
 INET
+Informacion
 Un
 UNIX
 UBA
@@ -18987,6 +18995,7 @@ Uym
 UoZ
 UNICA
 Under
+Unreachable
 modo
 mode
 menso
@@ -20594,6 +20603,8 @@ transmisi
 threshold
 topol
 transportar
+transit
+transito
 inico
 interna
 infro
@@ -22748,6 +22759,7 @@ Next
 Numeraci
 Number
 Notificaci
+Network
 File
 For
 Funcion
@@ -23384,6 +23396,7 @@ Forwarding
 Fijandonos
 FInalmente
 Floyd
+Fragmentation
 Descriptors
 Descriptor
 Devuelve
@@ -23990,6 +24003,7 @@ Desv
 DFS
 Depth
 Demora
+Destination
 Memoria
 Multivariada
 MORE
@@ -26022,6 +26036,9 @@ Routeo
 Recorridos
 Recorriendo
 RIP
+Reply
+Redirect
+Reasembling
 bien
 by
 be
@@ -27647,6 +27664,7 @@ Vialidad
 Visitados
 VISITADO
 Volvemos
+Viaja
 OPTIONS
 Operativos
 Orden
@@ -32713,6 +32731,7 @@ Qsw
 Queda
 QUIC
 Quick
+Quench
 ximo
 xito
 xitos

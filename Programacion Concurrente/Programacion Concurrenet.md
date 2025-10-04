@@ -4,7 +4,7 @@ dg-publish: true
 ---
 ## Modelos de Concurrencia 
 
-[[Estado Mutable Compartido]]}
+[[Estado Mutable Compartido]]
 
 [[Modelo Fork-Join]]
 

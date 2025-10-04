@@ -27,4 +27,7 @@ Fragmentation:
 Packet corruption 
 Time exceded:
 - transit: tll llego a 0 durante el transito 
+- Reasembling: durante el rearmado llegamos a tll 0 
+
+Paramter porblem 
 - 

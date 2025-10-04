@@ -4,4 +4,4 @@ dg-publish: true
 ---
 Muy bueno lo de los traits.
 
-codigo duplicado en gamerender
+codigo duplicado en gamerender, la rotacion del tanque

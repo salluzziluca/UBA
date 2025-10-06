@@ -3321,6 +3321,10 @@ desborda
 distribution
 diga
 despierte
+detalla
+descarta
+descartalo
+divisible
 gestion
 gran
 guarda
@@ -4826,6 +4830,9 @@ esperar
 executor
 esper
 estuviese
+ensamblar
+ensamblan
+entregarlos
 servicios
 son
 su
@@ -7022,6 +7029,7 @@ polling
 primitivos
 progresar
 permanece
+payload
 la
 las
 le
@@ -10813,6 +10821,7 @@ SOA
 Sigue
 Send
 Shared
+Separar
 Calls
 Cmabia
 CPU
@@ -13562,6 +13571,7 @@ roots
 return
 retorne
 retornar
+reensamblado
 operacion
 orden
 operaciones
@@ -19019,6 +19029,7 @@ tokio
 ticket
 tranquilo
 transferir
+tratado
 inico
 interna
 infro
@@ -20529,6 +20540,12 @@ faicl
 future
 ficas
 formados
+fragmentos
+fragmento
+fragment
+flag
+fragmenet
+fragmentes
 Nombre
 Notas
 Not

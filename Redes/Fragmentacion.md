@@ -31,3 +31,9 @@ busco el mayor valor posible a 550 divisible por 8.
 = 528B
 
 primer fragmento = 528, segundo fragmento 800-528=272
+
+
+
+| nr fragment | i   |
+| ----------- | --- |
+|             |     |

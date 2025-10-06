@@ -17,11 +17,11 @@ hay 3 grupos de IP
 
 Estos se identifican con mascaras que tienen 11111 en la parte de red y 00000 en la parte de host. Uno cuenta la cantidad de numeros y asi indica cual es largo en bytes de la red
 
-| Red    | Host   | Identificacion (como empieza) | Clase | Mascara |
-| ------ | ------ | ----------------------------- | ----- | ------- |
-| 1 Byte | 3 Byte | 0                             | A     | /8      |
-| 2 Byte | 2 byte | 10                            | B     | /16     |
-| 3 Byte | 1 Byte | 110                           | C     | /24     |
+| Red    | Host   | Identificacion (como empieza) | Clase | Mascara | Subredes disponibles |
+| ------ | ------ | ----------------------------- | ----- | ------- | -------------------- |
+| 1 Byte | 3 Byte | 0                             | A     | /8      |                      |
+| 2 Byte | 2 byte | 10                            | B     | /16     |                      |
+| 3 Byte | 1 Byte | 110                           | C     | /24     |                      |
 
 
 >[!example] 157.92.0.0./16 es una IP tipo B que pertenece a la facultad de ingeneria. En este caso no se indica ningun host.

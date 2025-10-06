@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mascara de Red",
+      "path": "Redes/Mascara de Red.md"
+    },
+    {
       "basename": "Metricas de Performance",
       "path": "Redes/Metricas de Performance.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "DHCP",
       "path": "Redes/DHCP.md"
-    },
-    {
-      "basename": "Mascara de Red",
-      "path": "Redes/Mascara de Red.md"
     },
     {
       "basename": "IPv4",

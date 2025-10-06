@@ -2324,6 +2324,7 @@ cocina
 correcci
 concentrada
 centro
+contiguas
 de
 dispositivos
 del
@@ -7030,6 +7031,7 @@ primitivos
 progresar
 permanece
 payload
+parecidas
 la
 las
 le
@@ -7675,6 +7677,7 @@ llamando
 llamarme
 lgrar
 load
+localhost
 agnosticos
 apps
 al
@@ -8695,6 +8698,7 @@ asincronicas
 ams
 async
 aviso
+apor
 hardware
 heap
 hay
@@ -9233,6 +9237,7 @@ helic
 http
 host
 hacelos
+hosts
 que
 queda
 quien
@@ -10822,6 +10827,7 @@ Sigue
 Send
 Shared
 Separar
+SALEN
 Calls
 Cmabia
 CPU
@@ -11519,6 +11525,7 @@ Cacheo
 CNAME
 CALMS
 Concepto
+Clase
 Es
 El
 Estos
@@ -13572,6 +13579,8 @@ return
 retorne
 retornar
 reensamblado
+reservadas
+routeo
 operacion
 orden
 operaciones
@@ -14141,6 +14150,7 @@ origina
 overhead
 obten
 ownership
+oarte
 nombre
 nuevo
 nica
@@ -17042,6 +17052,8 @@ IVA
 Impacta
 IETF
 Iterativa
+IPs
+INTERFAZ
 Un
 UNIX
 UBA
@@ -18344,6 +18356,8 @@ masas
 masa
 moviera
 modioficaciones
+mascaras
+mascara
 tien
 tiene
 todos
@@ -19906,6 +19920,7 @@ intermedia
 intercalarse
 intentan
 incierta
+ingeneria
 fijo
 file
 fork
@@ -20546,6 +20561,7 @@ fragment
 flag
 fragmenet
 fragmentes
+faltan
 Nombre
 Notas
 Not
@@ -22133,6 +22149,7 @@ Define
 DEspues
 DNS
 Domains
+Direcciones
 Memoria
 Multivariada
 MORE
@@ -22768,6 +22785,8 @@ Modo
 Multicast
 Mail
 MRU
+Mascara
+MISMA
 Table
 Todos
 This
@@ -28204,6 +28223,7 @@ Bienes
 Builder
 Brinda
 Broadcast
+Byte
 XY
 Xg
 XQG
@@ -29008,6 +29028,7 @@ HKqk
 Herramienta
 Hab
 Hablando
+Host
 Jacobiano
 Job
 Jusitfique

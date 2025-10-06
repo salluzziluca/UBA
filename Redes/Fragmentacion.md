@@ -34,6 +34,8 @@ primer fragmento = 528, segundo fragmento 800-528=272
 
 
 
-| nr fragment | i   |
-| ----------- | --- |
-|             |     |
+| nr fragment | offset | total len | payload len | MF  | DF  |
+| ----------- | ------ | --------- | ----------- | --- | --- |
+| 1           | 0      | 976+20    | 976         | 1   | 0   |
+| 2           | 122    | 48+20     |             |     |     |
+|             |        |           |             |     |     |

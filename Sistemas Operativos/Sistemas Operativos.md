@@ -9,6 +9,6 @@ dg-publish: true
 [[Sistemas Operativos/Concurrencia|Concurrencia]]
 [[De Programa a Proceso]]
 [[Modo Protegido x86]]
-[[Parcial]]
+[[Sistemas Operativos/Parcial]]
 [[Memoria]]
 [[Sistemas Operativos/File System|File System]]

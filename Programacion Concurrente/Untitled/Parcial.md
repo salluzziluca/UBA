@@ -97,7 +97,7 @@ Cinco minutos después, otro cliente en la misma red realiza la misma consulta, 
 
 A. El servidor autoritativo reenviará la respuesta al resolver local antes de la segunda consulta.  
 B. La segunda consulta usó una resolución iterativa en lugar de recursiva.  
-C. El resolver local almacenó la respuesta en caché y la sirvió directamente.  
+C. El resolver local almacenó la respuesta en caché y la sirvió directamente.  Esta.
 D. El TTL de 1800 segundos se ignoró porque el resolver local está configurado para actualizar la caché frecuentemente.  
 E. Ninguna de las anteriores.  
 
@@ -106,8 +106,13 @@ E. Ninguna de las anteriores.
 **7. Tablas de Ruteo (II)**  
 Dada la siguiente tabla de ruteo: }
 
-Network destination | Netmask | Interface | Next Hop
 
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+
+Network destination | Netmask | Interface | Next Hop
 220.33.217.128 | 255.255.255.128 | if0 | 10.57.22.10  
 220.33.217.0 | 255.255.255.0 | if3 | 10.57.192.85  
 220.33.220.0 | 255.255.255.0 | if3 | 10.57.192.85  

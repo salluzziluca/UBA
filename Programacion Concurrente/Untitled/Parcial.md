@@ -121,6 +121,9 @@ Dada la siguiente tabla de ruteo: }
 |220.33.220.0 | 255.255.255.255 | if3 | 10.57.192.85|  
 |0.0.0.0 | 0.0.0.0 | if3 | 10.57.22.10|
 
+
+Combino 220.33.219.0  con 220.33.220.0 porque la mascara me da 256 direcciones y llego justo 
+Combino 220.33.226.0  con 220.33.217.0 porque la mascara me da 256 direcciones y llego justo, 
 ¿Cuántas entradas tiene la tabla óptima?  
 
 A. 5  

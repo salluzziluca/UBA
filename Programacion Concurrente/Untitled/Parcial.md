@@ -43,6 +43,10 @@ Esto seria /21=2048
 2 de 32=64 
 8 punto a punto 3+2 x8 = 40 -> 64
 total = 3200
+4096−3200=896
+
+896÷64= 15. 15 subredes de tamanio de bloque = a 64.
+
 A. 10  
 B. 9  
 C. 8  

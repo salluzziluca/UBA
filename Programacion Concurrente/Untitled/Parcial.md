@@ -38,6 +38,9 @@ Dada la red 180.16.0.0/20. Cuántas subredes de tamaño de bloque de IPs igual a
 - Se necesitan 8 subredes punto a punto para conectar routers entre sí
     
 
+Esto seria /21=2048 
+
+
 A. 10  
 B. 9  
 C. 8  

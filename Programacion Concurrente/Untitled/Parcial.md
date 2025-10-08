@@ -22,6 +22,8 @@ C. Medición activa de latencia
 D. Localización por IP (GeoDNS)  
 E. Todas las anteriores
 
+E 
+
 ---
 
 **3. Subnetting**  

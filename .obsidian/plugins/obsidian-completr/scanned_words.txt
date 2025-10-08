@@ -960,6 +960,7 @@ Latencia
 Levels
 Llam
 Llama
+Localizaci
 capa
 controlado
 cantidad
@@ -2325,6 +2326,13 @@ correcci
 concentrada
 centro
 contiguas
+congestion
+congestionamiento
+cumulative
+conectar
+coincidencia
+contactar
+congestiona
 de
 dispositivos
 del
@@ -3326,6 +3334,10 @@ detalla
 descarta
 descartalo
 divisible
+duplicado
+datagrama
+destination
+decremento
 gestion
 gran
 guarda
@@ -3817,6 +3829,7 @@ gusta
 golpea
 golpeando
 geturl
+gateway
 especifico
 entra
 en
@@ -4834,6 +4847,9 @@ estuviese
 ensamblar
 ensamblan
 entregarlos
+especificaciones
+encabezado
+explica
 servicios
 son
 su
@@ -5849,6 +5865,11 @@ std
 sirven
 seguira
 subscriber
+subredes
+subred
+subnetear
+scara
+sirvi
 par
 por
 punto
@@ -7032,6 +7053,9 @@ progresar
 permanece
 payload
 parecidas
+pierden
+paginaweb
+propagaci
 la
 las
 le
@@ -8699,6 +8723,11 @@ ams
 async
 aviso
 apor
+avoidance
+acknowledgements
+afirmaciones
+autoritativo
+almacen
 hardware
 heap
 hay
@@ -10829,6 +10858,7 @@ Shared
 Separar
 SALEN
 Subredes
+Subnetting
 Calls
 Cmabia
 CPU
@@ -11527,6 +11557,10 @@ CNAME
 CALMS
 Concepto
 Clase
+Congesti
+CWND
+CDN
+Cinco
 Es
 El
 Estos
@@ -12189,6 +12223,7 @@ Especificaciones
 Exclusi
 Embedded
 Evento
+Elija
 kernel
 kt
 kU
@@ -13582,6 +13617,14 @@ retornar
 reensamblado
 reservadas
 routeo
+recepci
+retransmit
+routing
+reenv
+retransmisi
+rutas
+reenviar
+ruteo
 operacion
 orden
 operaciones
@@ -14723,6 +14766,8 @@ nanosegundos
 nulas
 notifysubscribers
 navegacion
+ntas
+neamente
 via
 vuelve
 viven
@@ -15302,6 +15347,8 @@ veria
 volv
 vibrador
 vos
+ventana
+vulnerabilidades
 Application
 API
 Asigna
@@ -15868,6 +15915,7 @@ Arquitecturas
 Async
 Autorizadas
 Ausencia
+Anycast
 Programming
 Procesos
 Partes
@@ -17055,6 +17103,8 @@ IETF
 Iterativa
 IPs
 INTERFAZ
+IPv
+ICMPv
 Un
 UNIX
 UBA
@@ -19923,6 +19973,9 @@ intercalarse
 intentan
 incierta
 ingeneria
+inverso
+instant
+ignor
 fijo
 file
 fork
@@ -20564,6 +20617,9 @@ flag
 fragmenet
 fragmentes
 faltan
+fragmenta
+fragmentaci
+frecuentemente
 Nombre
 Notas
 Not
@@ -21030,6 +21086,10 @@ NoD
 Normas
 Nacional
 Nada
+Ninguna
+Network
+Netmask
+Next
 File
 For
 Funcion
@@ -21607,6 +21667,7 @@ Fomentar
 Factory
 Fork
 Future
+Fragmentaci
 Descriptors
 Descriptor
 Devuelve
@@ -22152,6 +22213,7 @@ DEspues
 DNS
 Domains
 Direcciones
+Destino
 Memoria
 Multivariada
 MORE
@@ -22789,6 +22851,9 @@ Mail
 MRU
 Mascara
 MISMA
+Medici
+MTU
+Marque
 Table
 Todos
 This
@@ -23308,6 +23373,8 @@ TDLs
 Tokio
 Todav
 Traits
+Tahoe
+TTL
 Realiza
 REgistrys
 Rango
@@ -23982,6 +24049,9 @@ Recursiva
 Rust
 Repite
 RwLock
+Retransmisiones
+Reno
+Ruteo
 bien
 by
 be
@@ -24998,6 +25068,7 @@ whaaaaat
 windows
 webs
 waker
+window
 VA
 VIEW
 Volumen
@@ -27742,6 +27813,7 @@ GuXu
 GefCQ
 Garantiza
 Generamos
+GeoDNS
 BX
 Bit
 Box
@@ -29032,6 +29104,7 @@ Herramienta
 Hab
 Hablando
 Host
+Hop
 Jacobiano
 Job
 Jusitfique
@@ -30816,6 +30889,7 @@ WiE
 Why
 While
 WhatsApp
+Window
 ZZZPU
 ZX
 ZQ

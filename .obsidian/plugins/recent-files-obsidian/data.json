@@ -5,6 +5,10 @@
       "path": "Programacion Concurrente/Untitled/Parcial.md"
     },
     {
+      "basename": "Metricas de Performance",
+      "path": "Redes/Metricas de Performance.md"
+    },
+    {
       "basename": "Control de Flujo y Congestion en TCP",
       "path": "Redes/Control de Flujo y Congestion en TCP.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Mascara de Red",
       "path": "Redes/Mascara de Red.md"
-    },
-    {
-      "basename": "Metricas de Performance",
-      "path": "Redes/Metricas de Performance.md"
     },
     {
       "basename": "Fragmentacion",

@@ -153,5 +153,19 @@ F. ICMPv4 es utilizado para estimar la latencia
 G. ICMPv6 no se utiliza en IPv6 para estimar la latencia por vulnerabilidades del protocolo  
 H. Ninguna de las anteriores  
 
+
+1. Tiempo de Insercion/transmision
+	Tiempo que demora el paquete en ser insertado en el enlace
+	$\frac{Largo\_paquete}{velocidad\_{serializacion}}$
+2. Tiempo de propagacion 
+	Depende del medio. Es distancia/velocidad en el medio
+3. Tiempo de procesamiento(puede despreciarse porque es de nanosegundos)
+	Leer el header del paquete y ver a donde lo mando.
+4. tiempo de encolado
+	Tiempo desde que arriba hasta que es finalmente transmitido.
+	Varia con el trafico, no es el mismo para todos, es aleatorio
+No se cual de todas esas sea correcta
+
+
 ---
 

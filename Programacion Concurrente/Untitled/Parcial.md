@@ -39,7 +39,9 @@ Dada la red 180.16.0.0/20. Cuántas subredes de tamaño de bloque de IPs igual a
     
 
 Esto seria /21=2048 
-
+600 hosts +3 -> /22 =1024
+2 de 32=64 
+8 punto a punto 3+2 x8 = 40
 
 A. 10  
 B. 9  

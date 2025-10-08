@@ -93,8 +93,9 @@ E. Ninguna de las anteriores.
 ---
 
 **7. Tablas de Ruteo (II)**  
-Dada la siguiente tabla de ruteo:  
-## Network destination | Netmask | Interface | Next Hop
+Dada la siguiente tabla de ruteo: }
+
+Network destination | Netmask | Interface | Next Hop
 
 220.33.217.128 | 255.255.255.128 | if0 | 10.57.22.10  
 220.33.217.0 | 255.255.255.0 | if3 | 10.57.192.85  
@@ -103,3 +104,29 @@ Dada la siguiente tabla de ruteo:
 220.33.219.0 | 255.255.255.0 | if3 | 10.57.192.85  
 220.33.220.0 | 255.255.255.255 | if3 | 10.57.192.85  
 0.0.0.0 | 0.0.0.0 | if3 | 10.57.22.10
+
+¿Cuántas entradas tiene la tabla óptima?  
+
+A. 5  
+B. 4  
+C. 2  
+D. 7  
+E. 6  
+F. 3  
+G. Ninguna de las anteriores  
+
+---
+
+**8. Latencia**  
+¿Cuál de las siguientes afirmaciones es correcta sobre la latencia?  
+A. A menor tamaño, menor latencia  
+B. La latencia aumenta si la red se congestiona  
+C. La latencia disminuye si la distancia se reduce  
+D. El tiempo de encolado siempre es el dominante en el cálculo de la latencia  
+E. El tiempo de propagación siempre es el dominante en el cálculo de la latencia  
+F. ICMPv4 es utilizado para estimar la latencia  
+G. ICMPv6 no se utiliza en IPv6 para estimar la latencia por vulnerabilidades del protocolo  
+H. Ninguna de las anteriores  
+
+---
+

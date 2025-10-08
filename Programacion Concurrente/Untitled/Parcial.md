@@ -64,7 +64,7 @@ Marque todas las afirmaciones correctas sobre el comportamiento del host emisor:
 
 A. Ante un escenario de pérdida de paquetes, el host emisor siempre reenvía sólo los fragmentos que se pierden en el camino y no el paquete original dado que el receptor ya cuenta con algunos fragmentos.  F
 B. En caso de pérdida de algunos fragmentos, el host emisor reenvía todos los fragmentos, no solo los que se pierden.  V
-C. Ante un escenario de pérdida de paquetes, el host emisor reserva sólo los fragmentos que se pierden en el camino y no el paquete original dado que el receptor ya cuenta con algunos fragmentos, si se usa TCP.  
+C. Ante un escenario de pérdida de paquetes, el host emisor reserva sólo los fragmentos que se pierden en el camino y no el paquete original dado que el receptor ya cuenta con algunos fragmentos, si se usa TCP.  F p
 D. El emisor recibe más ACK debido al proceso de fragmentación del receptor en vez de recibir el paquete original.  
 E. El emisor recibe más ACK duplicados debido al proceso de fragmentación del receptor en vez de recibir el paquete original.  
 F. El emisor recibe más ACK duplicados debido al proceso de fragmentación del receptor y envía retransmisión cuando se utiliza TCP.  

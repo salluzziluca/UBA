@@ -11,6 +11,9 @@ A modo de multas
 
 No siempre hay consecuencias
 
+Se suele medir en uptime del sistema. Ej: 99.999%
+
+https:uptime.com
 
 # slo
-objetivo sobre nuestro sla, un porcentaje de completitud de 
+objetivo sobre nuestro sla, un porcentaje de completitud del SLA.

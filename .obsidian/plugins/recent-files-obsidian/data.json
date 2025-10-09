@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Logging",
+      "path": "Ingeneria del Software II/Logging.md"
+    },
+    {
       "basename": "Monitoreo",
       "path": "Ingeneria del Software II/Monitoreo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Multiplexar",
       "path": "Redes/Multiplexar.md"
-    },
-    {
-      "basename": "MSS",
-      "path": "Redes/MSS.md"
     }
   ],
   "omittedPaths": [],

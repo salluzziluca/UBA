@@ -15,3 +15,5 @@ Permite ver tiempos de respuesta, [[Metricas de Performance#Throughput/Tasa de e
 ![[Pasted image 20251009194753.png]]
 
 ![[Pasted image 20251009194952.png]]
+
+![[Pasted image 20251009195106.png]]

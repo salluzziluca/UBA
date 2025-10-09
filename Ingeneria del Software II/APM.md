@@ -10,3 +10,6 @@ Registro de performance en tiempo real de nuestra app
 
 
 Permite ver tiempos de respuesta, [[Metricas de Performance#Throughput/Tasa de envio|throughput]], errores, stack traces de errores y requeste individuales perfilados
+
+
+![[Pasted image 20251009194753.png]]

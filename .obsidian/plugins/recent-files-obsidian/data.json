@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Ingeneria del Software II/Untitled.md"
+      "basename": "Monitoreo",
+      "path": "Ingeneria del Software II/Monitoreo.md"
+    },
+    {
+      "basename": "Metricas",
+      "path": "Ingeneria del Software II/Metricas.md"
     },
     {
       "basename": "Parcial",
@@ -195,10 +199,6 @@
     {
       "basename": "MSS",
       "path": "Redes/MSS.md"
-    },
-    {
-      "basename": "Introduccion a la materia",
-      "path": "Redes/Introduccion a la materia.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@ No siempre hay consecuencias
 
 Se suele medir en uptime del sistema. Ej: 99.999%
 
-https://uptime.com
+https://uptime.is
 
 99.9 es que se cae 8 horas al anio
 

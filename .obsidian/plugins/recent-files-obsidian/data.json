@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "APM",
-      "path": "Ingeneria del Software II/APM.md"
+      "basename": "Incidentes",
+      "path": "Ingeneria del Software II/Incidentes.md"
+    },
+    {
+      "basename": "APM (Application Performance Monitoring)",
+      "path": "Ingeneria del Software II/APM (Application Performance Monitoring).md"
     },
     {
       "basename": "Alarmas",
@@ -195,10 +199,6 @@
     {
       "basename": "TCP",
       "path": "Redes/TCP.md"
-    },
-    {
-      "basename": "TCP Control de Flujo",
-      "path": "TCP Control de Flujo.md"
     }
   ],
   "omittedPaths": [],

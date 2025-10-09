@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Guardias",
+      "path": "Ingeneria del Software II/Guardias.md"
+    },
+    {
       "basename": "Incidentes",
       "path": "Ingeneria del Software II/Incidentes.md"
     },
     {
-      "basename": "APM (Application Performance Monitoring)",
-      "path": "Ingeneria del Software II/APM (Application Performance Monitoring).md"
-    },
-    {
       "basename": "Alarmas",
       "path": "Ingeneria del Software II/Alarmas.md"
+    },
+    {
+      "basename": "APM (Application Performance Monitoring)",
+      "path": "Ingeneria del Software II/APM (Application Performance Monitoring).md"
     },
     {
       "basename": "Logging",
@@ -195,10 +199,6 @@
     {
       "basename": "Establecimiento y cierre de conexiones en TCP",
       "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "Redes/TCP.md"
     }
   ],
   "omittedPaths": [],

@@ -13634,6 +13634,7 @@ reenviar
 ruteo
 responsable
 requeste
+responsables
 operacion
 orden
 operaciones
@@ -24070,6 +24071,7 @@ Retransmisiones
 Reno
 Ruteo
 Relic
+Rotacion
 bien
 by
 be
@@ -27832,6 +27834,7 @@ GefCQ
 Garantiza
 Generamos
 GeoDNS
+Guardia
 BX
 Bit
 Box

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "DHCP",
+      "path": "Redes/DHCP.md"
+    },
+    {
       "basename": "Programacion Concurrenet",
       "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
@@ -141,10 +149,6 @@
       "path": "Redes/Sockets.md"
     },
     {
-      "basename": "DHCP",
-      "path": "Redes/DHCP.md"
-    },
-    {
       "basename": "IPv4",
       "path": "Redes/IPv4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Introduccion a la materia",
       "path": "Redes/Introduccion a la materia.md"
-    },
-    {
-      "basename": "Demultiplexar",
-      "path": "Redes/Demultiplexar.md"
     }
   ],
   "omittedPaths": [],

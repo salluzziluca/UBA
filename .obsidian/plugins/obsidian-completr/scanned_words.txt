@@ -2333,7 +2333,6 @@ conectar
 coincidencia
 contactar
 congestiona
-configuran
 de
 dispositivos
 del
@@ -3339,7 +3338,6 @@ duplicado
 datagrama
 destination
 decremento
-devio
 gestion
 gran
 guarda
@@ -7058,8 +7056,6 @@ parecidas
 pierden
 paginaweb
 propagaci
-perfilados
-posiblemente
 la
 las
 le
@@ -8732,7 +8728,6 @@ acknowledgements
 afirmaciones
 autoritativo
 almacen
-automaticamente
 hardware
 heap
 hay
@@ -10864,8 +10859,6 @@ Separar
 SALEN
 Subredes
 Subnetting
-SLO
-Sentry
 Calls
 Cmabia
 CPU
@@ -12231,6 +12224,7 @@ Exclusi
 Embedded
 Evento
 Elija
+Entra
 kernel
 kt
 kU
@@ -13632,9 +13626,6 @@ retransmisi
 rutas
 reenviar
 ruteo
-responsable
-requeste
-responsables
 operacion
 orden
 operaciones
@@ -14778,7 +14769,6 @@ notifysubscribers
 navegacion
 ntas
 neamente
-notifica
 via
 vuelve
 viven
@@ -15927,7 +15917,6 @@ Async
 Autorizadas
 Ausencia
 Anycast
-Automatizan
 Programming
 Procesos
 Partes
@@ -18422,7 +18411,6 @@ modioficaciones
 mascaras
 mascara
 millones
-madrugada
 tien
 tiene
 todos
@@ -19109,7 +19097,6 @@ ticket
 tranquilo
 transferir
 tratado
-traces
 inico
 interna
 infro
@@ -19990,7 +19977,6 @@ ingeneria
 inverso
 instant
 ignor
-incidente
 fijo
 file
 fork
@@ -20635,7 +20621,6 @@ faltan
 fragmenta
 fragmentaci
 frecuentemente
-fines
 Nombre
 Notas
 Not
@@ -21106,7 +21091,6 @@ Ninguna
 Network
 Netmask
 Next
-New
 File
 For
 Funcion
@@ -22231,7 +22215,6 @@ DNS
 Domains
 Direcciones
 Destino
-Datadog
 Memoria
 Multivariada
 MORE
@@ -24070,8 +24053,6 @@ RwLock
 Retransmisiones
 Reno
 Ruteo
-Relic
-Rotacion
 bien
 by
 be
@@ -27834,7 +27815,6 @@ GefCQ
 Garantiza
 Generamos
 GeoDNS
-Guardia
 BX
 Bit
 Box

@@ -1,32 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Guardias",
-      "path": "Ingeneria del Software II/Guardias.md"
+      "basename": "DHCP",
+      "path": "Redes/DHCP.md"
     },
     {
-      "basename": "Incidentes",
-      "path": "Ingeneria del Software II/Incidentes.md"
-    },
-    {
-      "basename": "Alarmas",
-      "path": "Ingeneria del Software II/Alarmas.md"
-    },
-    {
-      "basename": "APM (Application Performance Monitoring)",
-      "path": "Ingeneria del Software II/APM (Application Performance Monitoring).md"
-    },
-    {
-      "basename": "Logging",
-      "path": "Ingeneria del Software II/Logging.md"
-    },
-    {
-      "basename": "Monitoreo",
-      "path": "Ingeneria del Software II/Monitoreo.md"
-    },
-    {
-      "basename": "Metricas",
-      "path": "Ingeneria del Software II/Metricas.md"
+      "basename": "Programacion Concurrenet",
+      "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
     {
       "basename": "Parcial",
@@ -39,10 +19,6 @@
     {
       "basename": "Control de Flujo y Congestion en TCP",
       "path": "Redes/Control de Flujo y Congestion en TCP.md"
-    },
-    {
-      "basename": "Programacion Concurrenet",
-      "path": "Programacion Concurrente/Programacion Concurrenet.md"
     },
     {
       "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
@@ -169,10 +145,6 @@
       "path": "Redes/Sockets.md"
     },
     {
-      "basename": "DHCP",
-      "path": "Redes/DHCP.md"
-    },
-    {
       "basename": "IPv4",
       "path": "Redes/IPv4.md"
     },
@@ -199,6 +171,30 @@
     {
       "basename": "Establecimiento y cierre de conexiones en TCP",
       "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Redes/TCP.md"
+    },
+    {
+      "basename": "TCP Control de Flujo",
+      "path": "TCP Control de Flujo.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "Redes/UDP.md"
+    },
+    {
+      "basename": "Multiplexar",
+      "path": "Redes/Multiplexar.md"
+    },
+    {
+      "basename": "MSS",
+      "path": "Redes/MSS.md"
+    },
+    {
+      "basename": "Introduccion a la materia",
+      "path": "Redes/Introduccion a la materia.md"
     }
   ],
   "omittedPaths": [],

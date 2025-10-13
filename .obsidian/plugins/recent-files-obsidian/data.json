@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Lead Time",
+      "path": "Ingeneria del Software II/Lead Time.md"
+    },
+    {
+      "basename": "Guardias",
+      "path": "Ingeneria del Software II/Guardias.md"
+    },
+    {
+      "basename": "Crossbeam",
+      "path": "Programacion Concurrente/Crossbeam.md"
+    },
+    {
+      "basename": "4.1 SOLID",
+      "path": "Algoritmos y Programación III/4. Principios de Diseño/4.1 SOLID.md"
+    },
+    {
+      "basename": "Contratos y Sociedades",
+      "path": "Empresas de Base Tecnológica I/Contratos y Sociedades.md"
+    },
+    {
+      "basename": "Empresas de Base Tecnologica I",
+      "path": "Empresas de Base Tecnológica I/Empresas de Base Tecnologica I.md"
+    },
+    {
+      "basename": "2.10 Tipos de Relaciones",
+      "path": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
+    },
+    {
+      "basename": "Derecho Constitucional y Civil",
+      "path": "Empresas de Base Tecnológica I/Derecho Constitucional y Civil.md"
+    },
+    {
+      "basename": "Estimacion",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
+    },
+    {
+      "basename": "2dos parciales",
+      "path": "Base de Datos/2dos parciales.md"
+    },
+    {
+      "basename": "Triángulo de Hierro",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Triángulo de Hierro.md"
+    },
+    {
       "basename": "DHCP",
       "path": "Redes/DHCP.md"
     },
@@ -33,10 +77,6 @@
       "path": "Redes/Fragmentacion.md"
     },
     {
-      "basename": "2.10 Tipos de Relaciones",
-      "path": "Algoritmos y Programación III/2. Programación Orientada a Objetos/2.10 Tipos de Relaciones.md"
-    },
-    {
       "basename": "KUPA-uru",
       "path": "Algoritmos y Programación III/Ayudantía/20252c/KUPA-uru.md"
     },
@@ -63,10 +103,6 @@
     {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
-    },
-    {
-      "basename": "Estimacion",
-      "path": "Gestión del Desarrollo de Sistemas Informáticos/Estimacion.md"
     },
     {
       "basename": "ICMP",
@@ -163,38 +199,6 @@
     {
       "basename": "Organismos Normalizadores",
       "path": "Redes/Organismos Normalizadores.md"
-    },
-    {
-      "basename": "Capa de Aplicacion",
-      "path": "Redes/Capa de Aplicacion.md"
-    },
-    {
-      "basename": "Establecimiento y cierre de conexiones en TCP",
-      "path": "Redes/Establecimiento y cierre de conexiones en TCP.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "Redes/TCP.md"
-    },
-    {
-      "basename": "TCP Control de Flujo",
-      "path": "TCP Control de Flujo.md"
-    },
-    {
-      "basename": "UDP",
-      "path": "Redes/UDP.md"
-    },
-    {
-      "basename": "Multiplexar",
-      "path": "Redes/Multiplexar.md"
-    },
-    {
-      "basename": "MSS",
-      "path": "Redes/MSS.md"
-    },
-    {
-      "basename": "Introduccion a la materia",
-      "path": "Redes/Introduccion a la materia.md"
     }
   ],
   "omittedPaths": [],

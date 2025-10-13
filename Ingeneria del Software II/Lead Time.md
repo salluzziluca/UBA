@@ -1,0 +1,7 @@
+---
+Dia: 2025-10-13
+dg-publish: true
+---
+Tiempo que tardamos desde la idea hasta la finalizacion de una feature (vewse llegada a users, deploy, etc).
+
+Se usa en ento

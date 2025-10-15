@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Patrones de Diseño",
+      "path": "Ingeneniería del Software I/Patrones de Diseño.md"
+    },
+    {
       "basename": "Lead Time",
       "path": "Ingeneria del Software II/Lead Time.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MTU",
       "path": "Redes/MTU.md"
-    },
-    {
-      "basename": "Organismos Normalizadores",
-      "path": "Redes/Organismos Normalizadores.md"
     }
   ],
   "omittedPaths": [],

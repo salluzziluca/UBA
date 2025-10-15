@@ -5,8 +5,9 @@ tags:
   - "#flashcard"
   - flashcards
 ---
-Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y qué relación tiene con los gráficos de dispersión? ?  El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
+Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y qué relación tiene con los gráficos de dispersión? 
 ?
+El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
 - r cercano a 1 (ej: 0.80) indica una asociación lineal positiva fuerte (a medida que una variable aumenta, la otra también).
     
 - r cercano a -1 (ej: -0.86) indica una asociación lineal negativa fuerte (a medida que una variable aumenta, la otra disminuye).

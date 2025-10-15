@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "flashcards",
+      "path": "Organización de Datos/flashcards.md"
+    },
+    {
       "basename": "Patrones de Diseño",
       "path": "Ingeneniería del Software I/Patrones de Diseño.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Content Delivery Network (CDN)",
       "path": "Redes/Content Delivery Network (CDN).md"
-    },
-    {
-      "basename": "MTU",
-      "path": "Redes/MTU.md"
     }
   ],
   "omittedPaths": [],

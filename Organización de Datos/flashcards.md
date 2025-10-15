@@ -1,6 +1,9 @@
 ---
 Dia: 2025-10-14
 dg-publish: true
+tags:
+  - "#flashcard"
+  - flashcards
 ---
 Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y qué relación tiene con los gráficos de dispersión? ? Respuesta El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
 ?
@@ -35,7 +38,9 @@ Pregunta Dada una matriz de confusión, ¿cómo se calcula la métrica Accuracy?
 
 ---
 
-Pregunta Dada una matriz de confusión, ¿cómo se calculan las métricas Precision y Recall para la clase positiva (Clase 1)? ? Respuesta
+Pregunta Dada una matriz de confusión, ¿cómo se calculan las métricas Precision y Recall para la clase positiva (Clase 1)?
+?
+Respuesta
 
 - Precision (Precisión): Mide la proporción de identificaciones positivas que fueron realmente correctas. Fórmula: Precision = TP / (TP + FP)
     

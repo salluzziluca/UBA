@@ -150,7 +150,9 @@ Respuesta La impureza de Gini es una métrica utilizada para decidir cuál es el
 
 ---
 
-Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Recall? ? Respuesta
+Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Recall?
+?
+Respuesta
 
 - Precision: De todo lo que el modelo predijo como positivo, ¿qué proporción era realmente positiva? Se enfoca en la calidad de las predicciones positivas.
     
@@ -159,7 +161,9 @@ Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Rec
 
 ---
 
-Pregunta ¿Cuándo es conveniente maximizar Precision y cuándo Recall? Da un ejemplo. ? Respuesta
+Pregunta ¿Cuándo es conveniente maximizar Precision y cuándo Recall? Da un ejemplo.
+?
+Respuesta
 
 - Maximizar Precision: Cuando el costo de un falso positivo es alto. Ejemplo: En un clasificador de spam, es preferible que un email legítimo no sea marcado como spam.
     
@@ -168,38 +172,56 @@ Pregunta ¿Cuándo es conveniente maximizar Precision y cuándo Recall? Da un ej
 
 ---
 
-Pregunta ¿Son Precision y Recall métricas adecuadas para un problema de regresión? ? Respuesta No. Estas son métricas de clasificación. Para problemas de regresión se utilizan métricas que miden el error de predicción, como MAE (Error Absoluto Medio), MSE (Error Cuadrático Medio) o RMSE (Raíz del Error Cuadrático Medio).
+Pregunta ¿Son Precision y Recall métricas adecuadas para un problema de regresión?
+?
+Respuesta No. Estas son métricas de clasificación. Para problemas de regresión se utilizan métricas que miden el error de predicción, como MAE (Error Absoluto Medio), MSE (Error Cuadrático Medio) o RMSE (Raíz del Error Cuadrático Medio).
 
 ---
 
 Flashcards de: Ejemplo de preguntas tipo parcial
 
-Pregunta ¿Para qué se utiliza el método backpropagation en redes neuronales y qué recurso matemático emplea? ? Respuesta El backpropagation (retropropagación) se utiliza para entrenar la red neuronal, ajustando los pesos de las conexiones para minimizar el error. Es un método que utiliza la regla de la cadena (un concepto del cálculo diferencial) para calcular el gradiente de la función de pérdida con respecto a cada peso de la red.
+Pregunta ¿Para qué se utiliza el método backpropagation en redes neuronales y qué recurso matemático emplea?
+?
+Respuesta El backpropagation (retropropagación) se utiliza para entrenar la red neuronal, ajustando los pesos de las conexiones para minimizar el error. Es un método que utiliza la regla de la cadena (un concepto del cálculo diferencial) para calcular el gradiente de la función de pérdida con respecto a cada peso de la red.
 
 ---
 
-Pregunta En K-Fold Cross Validation (con k=5) sobre un conjunto de 240 registros de entrenamiento, ¿cuántas veces se entrena el modelo? ? Respuesta El modelo se entrenará 5 veces (una vez por cada "fold" o pliegue).
+Pregunta En K-Fold Cross Validation (con k=5) sobre un conjunto de 240 registros de entrenamiento, ¿cuántas veces se entrena el modelo? 
+?
+Respuesta El modelo se entrenará 5 veces (una vez por cada "fold" o pliegue).
 
 ---
 
-Pregunta Verdadero o Falso: En K-Fold CV (k=5) con 240 registros, cada registro estará 4 veces en el conjunto de entrenamiento y 1 vez en el de validación. ? Respuesta Verdadero. El conjunto de datos se divide en 5 pliegues. En cada una de las 5 iteraciones, se utilizan 4 pliegues para entrenar y 1 pliegue para validar. Por lo tanto, cada registro forma parte del conjunto de validación una vez y del conjunto de entrenamiento cuatro veces.
+Pregunta Verdadero o Falso: En K-Fold CV (k=5) con 240 registros, cada registro estará 4 veces en el conjunto de entrenamiento y 1 vez en el de validación. 
+?
+Respuesta Verdadero. El conjunto de datos se divide en 5 pliegues. En cada una de las 5 iteraciones, se utilizan 4 pliegues para entrenar y 1 pliegue para validar. Por lo tanto, cada registro forma parte del conjunto de validación una vez y del conjunto de entrenamiento cuatro veces.
 
 ---
 
-Pregunta Verdadero o Falso: Un árbol ID3 usa la entropía, mientras que C4.5 usa la impureza de Gini. ? Respuesta Falso. Tanto ID3 como su sucesor C4.5 utilizan la entropía y la ganancia de información para construir el árbol. El algoritmo CART es el que utiliza la impureza de Gini.
+Pregunta Verdadero o Falso: Un árbol ID3 usa la entropía, mientras que C4.5 usa la impureza de Gini. 
+?
+Respuesta Falso. Tanto ID3 como su sucesor C4.5 utilizan la entropía y la ganancia de información para construir el árbol. El algoritmo CART es el que utiliza la impureza de Gini.
 
 ---
 
-Pregunta Verdadero o Falso: La técnica de poda se utiliza en los árboles C4.5 para evitar el underfitting. ? Respuesta Falso. La poda se utiliza para evitar el overfitting.
+Pregunta Verdadero o Falso: La técnica de poda se utiliza en los árboles C4.5 para evitar el underfitting. 
+?
+Respuesta Falso. La poda se utiliza para evitar el overfitting.
 
 ---
 
-Pregunta Si el F1-Score en entrenamiento es 0.25 y en test es 0.4, ¿el modelo está sobreajustando? ? Respuesta Falso. Un F1-Score bajo tanto en entrenamiento como en test sugiere un problema de underfitting (subajuste). El modelo no está capturando bien los patrones de los datos.
+Pregunta Si el F1-Score en entrenamiento es 0.25 y en test es 0.4, ¿el modelo está sobreajustando? 
+?
+Respuesta Falso. Un F1-Score bajo tanto en entrenamiento como en test sugiere un problema de underfitting (subajuste). El modelo no está capturando bien los patrones de los datos.
 
 ---
 
-Pregunta Verdadero o Falso: Una alta correlación entre dos variables implica causalidad. ? Respuesta Falso. Correlación no implica causalidad. Dos variables pueden estar altamente correlacionadas debido a una tercera variable oculta (variable de confusión) o por simple coincidencia.
+Pregunta Verdadero o Falso: Una alta correlación entre dos variables implica causalidad. 
+?
+Respuesta Falso. Correlación no implica causalidad. Dos variables pueden estar altamente correlacionadas debido a una tercera variable oculta (variable de confusión) o por simple coincidencia.
 
 ---
 
-Pregunta Verdadero o Falso: En un problema de regresión lineal se busca predecir un valor en un rango continuo. ? Respuesta Verdadero. El objetivo de la regresión es predecir una variable dependiente cuantitativa y continua.
+Pregunta Verdadero o Falso: En un problema de regresión lineal se busca predecir un valor en un rango continuo. 
+?
+Respuesta Verdadero. El objetivo de la regresión es predecir una variable dependiente cuantitativa y continua.

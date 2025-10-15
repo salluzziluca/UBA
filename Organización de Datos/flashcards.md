@@ -49,17 +49,23 @@ Respuesta
 
 ---
 
-Pregunta ¿Cómo se calcula el F1-Score? ? Respuesta El F1-Score es la media armónica de Precision y Recall, proporcionando un balance entre ambas métricas. Fórmula: F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+Pregunta ¿Cómo se calcula el F1-Score? 
+?
+Respuesta El F1-Score es la media armónica de Precision y Recall, proporcionando un balance entre ambas métricas. Fórmula: F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 ---
 
 Flashcards de: Resolución Parcial 26-10-2023
 
-Pregunta ¿Qué es el Underfitting y cómo se puede detectar y solucionar? ? Respuesta El Underfitting (subajuste) ocurre cuando un modelo es demasiado simple y no logra capturar la estructura subyacente de los datos. Se detecta cuando los errores de entrenamiento y validación son altos y similares. Se puede solucionar usando modelos más complejos, añadiendo más características o reduciendo la regularización.
+Pregunta ¿Qué es el Underfitting y cómo se puede detectar y solucionar?
+?
+Respuesta El Underfitting (subajuste) ocurre cuando un modelo es demasiado simple y no logra capturar la estructura subyacente de los datos. Se detecta cuando los errores de entrenamiento y validación son altos y similares. Se puede solucionar usando modelos más complejos, añadiendo más características o reduciendo la regularización.
 
 ---
 
-Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y multivariados? ? Respuesta Los outliers son observaciones que se desvían significativamente del resto de los datos.
+Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y multivariados? 
+?
+Respuesta Los outliers son observaciones que se desvían significativamente del resto de los datos.
 
 - Univariados: Son valores atípicos en una sola variable (ej: una persona de 45 años en un dataset de niños en edad escolar). Se detectan con métodos como IQR o Z-score.
     
@@ -68,7 +74,9 @@ Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y mu
 
 ---
 
-Pregunta ¿Cuáles son las diferencias clave entre los métodos de ensamble Bagging y Boosting? ? Respuesta
+Pregunta ¿Cuáles son las diferencias clave entre los métodos de ensamble Bagging y Boosting? 
+? 
+Respuesta
 
 - Bagging: Entrena modelos en paralelo sobre diferentes muestras de datos (bootstrap). Su objetivo es reducir la varianza. Ejemplo: Random Forest.
     
@@ -77,7 +85,9 @@ Pregunta ¿Cuáles son las diferencias clave entre los métodos de ensamble Bagg
 
 ---
 
-Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking? ? Respuesta Ambos combinan las predicciones de diferentes modelos.
+Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking?
+?
+Respuesta Ambos combinan las predicciones de diferentes modelos.
 
 - Voting: La predicción final se decide por votación (mayoritaria o ponderada) de los modelos base.
     
@@ -86,7 +96,9 @@ Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking?
 
 ---
 
-Pregunta ¿Cuál es la diferencia entre Clasificación, Regresión y Agrupamiento (Clustering)? ? Respuesta
+Pregunta ¿Cuál es la diferencia entre Clasificación, Regresión y Agrupamiento (Clustering)? 
+?
+Respuesta
 
 - Clasificación (Supervisado): Predice una etiqueta o categoría discreta de un conjunto conocido (ej: sano/enfermo).
     
@@ -97,27 +109,39 @@ Pregunta ¿Cuál es la diferencia entre Clasificación, Regresión y Agrupamient
 
 ---
 
-Pregunta ¿Para qué se utiliza un gráfico Scree Plot al aplicar PCA (Análisis de Componentes Principales)? ? Respuesta Se utiliza para seleccionar el número óptimo de componentes principales. Se busca un "codo" (elbow) en el gráfico, que representa el punto donde añadir más componentes ya no aporta una cantidad significativa de varianza explicada.
+Pregunta ¿Para qué se utiliza un gráfico Scree Plot al aplicar PCA (Análisis de Componentes Principales)? 
+?
+Respuesta Se utiliza para seleccionar el número óptimo de componentes principales. Se busca un "codo" (elbow) en el gráfico, que representa el punto donde añadir más componentes ya no aporta una cantidad significativa de varianza explicada.
 
 ---
 
-Pregunta ¿Qué técnica de reducción de dimensionalidad usarías si sospechas que los datos se distribuyen en una variedad (manifold) y quieres preservar la geometría intrínseca? ? Respuesta Usaría ISOMAP. Esta técnica se enfoca en preservar las distancias geodésicas (el camino más corto sobre la variedad) entre las observaciones.
+Pregunta ¿Qué técnica de reducción de dimensionalidad usarías si sospechas que los datos se distribuyen en una variedad (manifold) y quieres preservar la geometría intrínseca?
+?
+Respuesta Usaría ISOMAP. Esta técnica se enfoca en preservar las distancias geodésicas (el camino más corto sobre la variedad) entre las observaciones.
 
 ---
 
-Pregunta ¿Qué técnica de reducción de dimensionalidad es adecuada si el objetivo principal es conservar los clústeres existentes en los datos? ? Respuesta t-SNE (t-distributed Stochastic Neighbor Embedding) es una excelente opción, ya que está diseñada para preservar las estructuras locales y los clústeres de los datos en una proyección de baja dimensión.
+Pregunta ¿Qué técnica de reducción de dimensionalidad es adecuada si el objetivo principal es conservar los clústeres existentes en los datos? 
+?
+Respuesta t-SNE (t-distributed Stochastic Neighbor Embedding) es una excelente opción, ya que está diseñada para preservar las estructuras locales y los clústeres de los datos en una proyección de baja dimensión.
 
 ---
 
-Pregunta ¿Para qué se utiliza la técnica de poda (pruning) en un árbol de decisión como C4.5? ? Respuesta Se utiliza después del entrenamiento para controlar el overfitting. Consiste en eliminar nodos o ramas del árbol para mejorar su capacidad de generalización.
+Pregunta ¿Para qué se utiliza la técnica de poda (pruning) en un árbol de decisión como C4.5? 
+?
+Respuesta Se utiliza después del entrenamiento para controlar el overfitting. Consiste en eliminar nodos o ramas del árbol para mejorar su capacidad de generalización.
 
 ---
 
-Pregunta ¿Cómo maneja un árbol de decisión los atributos de entrada numéricos y continuos? ? Respuesta Sí puede manejarlos. Para un atributo numérico, el algoritmo busca el mejor umbral (C) que divida los datos en dos grupos (A < C y A >= C), de manera que se maximice la ganancia de información o se reduzca la impureza.
+Pregunta ¿Cómo maneja un árbol de decisión los atributos de entrada numéricos y continuos? 
+?
+Respuesta Sí puede manejarlos. Para un atributo numérico, el algoritmo busca el mejor umbral (C) que divida los datos en dos grupos (A < C y A >= C), de manera que se maximice la ganancia de información o se reduzca la impureza.
 
 ---
 
-Pregunta ¿Para qué se usa la impureza de Gini y qué significa que un nodo sea "puro"? ? Respuesta La impureza de Gini es una métrica utilizada para decidir cuál es el mejor atributo para dividir un nodo en un árbol de decisión.
+Pregunta ¿Para qué se usa la impureza de Gini y qué significa que un nodo sea "puro"?
+?
+Respuesta La impureza de Gini es una métrica utilizada para decidir cuál es el mejor atributo para dividir un nodo en un árbol de decisión.
 
 - Un nodo puro es aquel que contiene instancias de una sola clase (impureza = 0).
     

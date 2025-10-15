@@ -9,9 +9,7 @@ Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y q
 ?
 El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
 - r cercano a 1 (ej: 0.80) indica una asociación lineal positiva fuerte (a medida que una variable aumenta, la otra también).
-    
 - r cercano a -1 (ej: -0.86) indica una asociación lineal negativa fuerte (a medida que una variable aumenta, la otra disminuye).
-    
 - r cercano a 0 (ej: 0.35) indica una asociación lineal débil o nula.
     
 
@@ -44,7 +42,6 @@ El Accuracy (Exactitud) se calcula dividiendo la suma de las predicciones correc
 Pregunta Dada una matriz de confusión, ¿cómo se calculan las métricas Precision y Recall para la clase positiva (Clase 1)?
 ?
 - Precision (Precisión): Mide la proporción de identificaciones positivas que fueron realmente correctas. Fórmula: Precision = TP / (TP + FP)
-    
 - Recall (Sensibilidad): Mide la proporción de positivos reales que fueron identificados correctamente. Fórmula: Recall = TP / (TP + FN)
     
 
@@ -68,7 +65,6 @@ Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y mu
 ?
  Los outliers son observaciones que se desvían significativamente del resto de los datos.
 - Univariados: Son valores atípicos en una sola variable (ej: una persona de 45 años en un dataset de niños en edad escolar). Se detectan con métodos como IQR o Z-score.
-    
 - Multivariados: Son combinaciones atípicas de valores en un espacio n-dimensional (ej: una manzana de color naranja). Se detectan con algoritmos como Isolation Forest, LOF o Clustering.
     
 
@@ -77,7 +73,6 @@ Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y mu
 Pregunta ¿Cuáles son las diferencias clave entre los métodos de ensamble Bagging y Boosting? 
 ? 
 - Bagging: Entrena modelos en paralelo sobre diferentes muestras de datos (bootstrap). Su objetivo es reducir la varianza. Ejemplo: Random Forest.
-    
 - Boosting: Entrena modelos secuencialmente, donde cada nuevo modelo se enfoca en corregir los errores de los anteriores. Su objetivo es mejorar la precisión general.
     
 
@@ -87,7 +82,6 @@ Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking?
 ?
  Ambos combinan las predicciones de diferentes modelos.
 - Voting: La predicción final se decide por votación (mayoritaria o ponderada) de los modelos base.
-    
 - Stacking: Utiliza un "metamodelo" que aprende a realizar la predicción final a partir de las predicciones de los modelos base.
     
 
@@ -96,9 +90,7 @@ Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking?
 Pregunta ¿Cuál es la diferencia entre Clasificación, Regresión y Agrupamiento (Clustering)? 
 ?
 - Clasificación (Supervisado): Predice una etiqueta o categoría discreta de un conjunto conocido (ej: sano/enfermo).
-    
 - Regresión (Supervisado): Predice un valor numérico continuo (ej: precio de una propiedad).
-    
 - Agrupamiento (No Supervisado): Agrupa los datos en conjuntos distinguibles basándose en su similitud, sin conocer las etiquetas previamente (ej: segmentación de clientes).
     
 
@@ -138,7 +130,6 @@ Pregunta ¿Para qué se usa la impureza de Gini y qué significa que un nodo sea
 ?
  La impureza de Gini es una métrica utilizada para decidir cuál es el mejor atributo para dividir un nodo en un árbol de decisión.
 - Un nodo puro es aquel que contiene instancias de una sola clase (impureza = 0).
-    
 - Un nodo impuro contiene una mezcla de instancias de diferentes clases.
     
 
@@ -147,7 +138,6 @@ Pregunta ¿Para qué se usa la impureza de Gini y qué significa que un nodo sea
 Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Recall?
 ?
 - Precision: De todo lo que el modelo predijo como positivo, ¿qué proporción era realmente positiva? Se enfoca en la calidad de las predicciones positivas.
-    
 - Recall: De todos los casos que eran realmente positivos, ¿qué proporción fue capaz de identificar el modelo? Se enfoca en la capacidad del modelo para encontrar todos los casos positivos.
     
 
@@ -156,7 +146,6 @@ Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Rec
 Pregunta ¿Cuándo es conveniente maximizar Precision y cuándo Recall? Da un ejemplo.
 ?
 - Maximizar Precision: Cuando el costo de un falso positivo es alto. Ejemplo: En un clasificador de spam, es preferible que un email legítimo no sea marcado como spam.
-    
 - Maximizar Recall: Cuando el costo de un falso negativo es alto. Ejemplo: En la detección de enfermedades graves, es crucial no pasar por alto a un paciente enfermo.
     
 

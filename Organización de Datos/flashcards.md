@@ -5,7 +5,7 @@ tags:
   - "#flashcard"
   - flashcards
 ---
-Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y qué relación tiene con los gráficos de dispersión? ? Respuesta El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
+Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y qué relación tiene con los gráficos de dispersión? ?  El coeficiente r mide la fuerza y la dirección de una relación lineal entre dos variables.
 ?
 - r cercano a 1 (ej: 0.80) indica una asociación lineal positiva fuerte (a medida que una variable aumenta, la otra también).
     
@@ -18,29 +18,29 @@ Pregunta ¿Cómo se interpreta un coeficiente de correlación de Pearson (r) y q
 
 Pregunta ¿Qué es y para qué se utiliza el método Early Stopping en Redes Neuronales?
 ?
-Respuesta Es una técnica de regularización que consiste en detener el entrenamiento de la red cuando el error sobre el conjunto de validación comienza a aumentar. Su objetivo principal es evitar el overfitting (sobreajuste) y mejorar la capacidad de generalización del modelo.
+ Es una técnica de regularización que consiste en detener el entrenamiento de la red cuando el error sobre el conjunto de validación comienza a aumentar. Su objetivo principal es evitar el overfitting (sobreajuste) y mejorar la capacidad de generalización del modelo.
 
 ---
 
 Pregunta ¿Qué es el Error de Sesgo (Bias) y cómo se relaciona con la complejidad de un modelo?
 ?
-Respuesta El Bias (Sesgo) se refiere a los errores que surgen de suposiciones incorrectas en el modelo de aprendizaje. Un alto sesgo puede hacer que el algoritmo no capture las relaciones relevantes entre las características y las salidas (underfitting). Generalmente, los modelos menos complejos tienen un mayor sesgo.
+ El Bias (Sesgo) se refiere a los errores que surgen de suposiciones incorrectas en el modelo de aprendizaje. Un alto sesgo puede hacer que el algoritmo no capture las relaciones relevantes entre las características y las salidas (underfitting). Generalmente, los modelos menos complejos tienen un mayor sesgo.
 
 ---
 
 Pregunta ¿Qué es el Overfitting (sobreajuste) y cómo se relaciona con la complejidad de un modelo?
 ?
-Respuesta El Overfitting ocurre cuando un modelo aprende el detalle y el ruido de los datos de entrenamiento a tal punto que impacta negativamente su rendimiento con datos nuevos. Está asociado a una alta varianza. Generalmente, los modelos más complejos son más propensos al overfitting.
+ El Overfitting ocurre cuando un modelo aprende el detalle y el ruido de los datos de entrenamiento a tal punto que impacta negativamente su rendimiento con datos nuevos. Está asociado a una alta varianza. Generalmente, los modelos más complejos son más propensos al overfitting.
 
 ---
 
-Pregunta Dada una matriz de confusión, ¿cómo se calcula la métrica Accuracy? ? Respuesta El Accuracy (Exactitud) se calcula dividiendo la suma de las predicciones correctas (Verdaderos Positivos + Verdaderos Negativos) por el total de predicciones. Fórmula: Accuracy = (TP + TN) / (TP + TN + FP + FN)
+Pregunta Dada una matriz de confusión, ¿cómo se calcula la métrica Accuracy? ?  El Accuracy (Exactitud) se calcula dividiendo la suma de las predicciones correctas (Verdaderos Positivos + Verdaderos Negativos) por el total de predicciones. Fórmula: Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 ---
 
 Pregunta Dada una matriz de confusión, ¿cómo se calculan las métricas Precision y Recall para la clase positiva (Clase 1)?
 ?
-Respuesta
+
 
 - Precision (Precisión): Mide la proporción de identificaciones positivas que fueron realmente correctas. Fórmula: Precision = TP / (TP + FP)
     
@@ -51,7 +51,7 @@ Respuesta
 
 Pregunta ¿Cómo se calcula el F1-Score? 
 ?
-Respuesta El F1-Score es la media armónica de Precision y Recall, proporcionando un balance entre ambas métricas. Fórmula: F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+ El F1-Score es la media armónica de Precision y Recall, proporcionando un balance entre ambas métricas. Fórmula: F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 ---
 
@@ -59,13 +59,13 @@ Flashcards de: Resolución Parcial 26-10-2023
 
 Pregunta ¿Qué es el Underfitting y cómo se puede detectar y solucionar?
 ?
-Respuesta El Underfitting (subajuste) ocurre cuando un modelo es demasiado simple y no logra capturar la estructura subyacente de los datos. Se detecta cuando los errores de entrenamiento y validación son altos y similares. Se puede solucionar usando modelos más complejos, añadiendo más características o reduciendo la regularización.
+ El Underfitting (subajuste) ocurre cuando un modelo es demasiado simple y no logra capturar la estructura subyacente de los datos. Se detecta cuando los errores de entrenamiento y validación son altos y similares. Se puede solucionar usando modelos más complejos, añadiendo más características o reduciendo la regularización.
 
 ---
 
 Pregunta ¿Qué son los outliers y cuál es la diferencia entre univariados y multivariados? 
 ?
-Respuesta Los outliers son observaciones que se desvían significativamente del resto de los datos.
+ Los outliers son observaciones que se desvían significativamente del resto de los datos.
 
 - Univariados: Son valores atípicos en una sola variable (ej: una persona de 45 años en un dataset de niños en edad escolar). Se detectan con métodos como IQR o Z-score.
     
@@ -76,7 +76,7 @@ Respuesta Los outliers son observaciones que se desvían significativamente del 
 
 Pregunta ¿Cuáles son las diferencias clave entre los métodos de ensamble Bagging y Boosting? 
 ? 
-Respuesta
+
 
 - Bagging: Entrena modelos en paralelo sobre diferentes muestras de datos (bootstrap). Su objetivo es reducir la varianza. Ejemplo: Random Forest.
     
@@ -87,7 +87,7 @@ Respuesta
 
 Pregunta ¿Cuál es la diferencia entre los ensambles de tipo Voting y Stacking?
 ?
-Respuesta Ambos combinan las predicciones de diferentes modelos.
+ Ambos combinan las predicciones de diferentes modelos.
 
 - Voting: La predicción final se decide por votación (mayoritaria o ponderada) de los modelos base.
     
@@ -98,7 +98,7 @@ Respuesta Ambos combinan las predicciones de diferentes modelos.
 
 Pregunta ¿Cuál es la diferencia entre Clasificación, Regresión y Agrupamiento (Clustering)? 
 ?
-Respuesta
+
 
 - Clasificación (Supervisado): Predice una etiqueta o categoría discreta de un conjunto conocido (ej: sano/enfermo).
     
@@ -111,37 +111,37 @@ Respuesta
 
 Pregunta ¿Para qué se utiliza un gráfico Scree Plot al aplicar PCA (Análisis de Componentes Principales)? 
 ?
-Respuesta Se utiliza para seleccionar el número óptimo de componentes principales. Se busca un "codo" (elbow) en el gráfico, que representa el punto donde añadir más componentes ya no aporta una cantidad significativa de varianza explicada.
+ Se utiliza para seleccionar el número óptimo de componentes principales. Se busca un "codo" (elbow) en el gráfico, que representa el punto donde añadir más componentes ya no aporta una cantidad significativa de varianza explicada.
 
 ---
 
 Pregunta ¿Qué técnica de reducción de dimensionalidad usarías si sospechas que los datos se distribuyen en una variedad (manifold) y quieres preservar la geometría intrínseca?
 ?
-Respuesta Usaría ISOMAP. Esta técnica se enfoca en preservar las distancias geodésicas (el camino más corto sobre la variedad) entre las observaciones.
+ Usaría ISOMAP. Esta técnica se enfoca en preservar las distancias geodésicas (el camino más corto sobre la variedad) entre las observaciones.
 
 ---
 
 Pregunta ¿Qué técnica de reducción de dimensionalidad es adecuada si el objetivo principal es conservar los clústeres existentes en los datos? 
 ?
-Respuesta t-SNE (t-distributed Stochastic Neighbor Embedding) es una excelente opción, ya que está diseñada para preservar las estructuras locales y los clústeres de los datos en una proyección de baja dimensión.
+ t-SNE (t-distributed Stochastic Neighbor Embedding) es una excelente opción, ya que está diseñada para preservar las estructuras locales y los clústeres de los datos en una proyección de baja dimensión.
 
 ---
 
 Pregunta ¿Para qué se utiliza la técnica de poda (pruning) en un árbol de decisión como C4.5? 
 ?
-Respuesta Se utiliza después del entrenamiento para controlar el overfitting. Consiste en eliminar nodos o ramas del árbol para mejorar su capacidad de generalización.
+ Se utiliza después del entrenamiento para controlar el overfitting. Consiste en eliminar nodos o ramas del árbol para mejorar su capacidad de generalización.
 
 ---
 
 Pregunta ¿Cómo maneja un árbol de decisión los atributos de entrada numéricos y continuos? 
 ?
-Respuesta Sí puede manejarlos. Para un atributo numérico, el algoritmo busca el mejor umbral (C) que divida los datos en dos grupos (A < C y A >= C), de manera que se maximice la ganancia de información o se reduzca la impureza.
+ Sí puede manejarlos. Para un atributo numérico, el algoritmo busca el mejor umbral (C) que divida los datos en dos grupos (A < C y A >= C), de manera que se maximice la ganancia de información o se reduzca la impureza.
 
 ---
 
 Pregunta ¿Para qué se usa la impureza de Gini y qué significa que un nodo sea "puro"?
 ?
-Respuesta La impureza de Gini es una métrica utilizada para decidir cuál es el mejor atributo para dividir un nodo en un árbol de decisión.
+ La impureza de Gini es una métrica utilizada para decidir cuál es el mejor atributo para dividir un nodo en un árbol de decisión.
 
 - Un nodo puro es aquel que contiene instancias de una sola clase (impureza = 0).
     
@@ -152,7 +152,7 @@ Respuesta La impureza de Gini es una métrica utilizada para decidir cuál es el
 
 Pregunta ¿Cuál es la diferencia conceptual entre las métricas Precision y Recall?
 ?
-Respuesta
+
 
 - Precision: De todo lo que el modelo predijo como positivo, ¿qué proporción era realmente positiva? Se enfoca en la calidad de las predicciones positivas.
     
@@ -163,7 +163,7 @@ Respuesta
 
 Pregunta ¿Cuándo es conveniente maximizar Precision y cuándo Recall? Da un ejemplo.
 ?
-Respuesta
+
 
 - Maximizar Precision: Cuando el costo de un falso positivo es alto. Ejemplo: En un clasificador de spam, es preferible que un email legítimo no sea marcado como spam.
     
@@ -174,7 +174,7 @@ Respuesta
 
 Pregunta ¿Son Precision y Recall métricas adecuadas para un problema de regresión?
 ?
-Respuesta No. Estas son métricas de clasificación. Para problemas de regresión se utilizan métricas que miden el error de predicción, como MAE (Error Absoluto Medio), MSE (Error Cuadrático Medio) o RMSE (Raíz del Error Cuadrático Medio).
+ No. Estas son métricas de clasificación. Para problemas de regresión se utilizan métricas que miden el error de predicción, como MAE (Error Absoluto Medio), MSE (Error Cuadrático Medio) o RMSE (Raíz del Error Cuadrático Medio).
 
 ---
 
@@ -182,46 +182,46 @@ Flashcards de: Ejemplo de preguntas tipo parcial
 
 Pregunta ¿Para qué se utiliza el método backpropagation en redes neuronales y qué recurso matemático emplea?
 ?
-Respuesta El backpropagation (retropropagación) se utiliza para entrenar la red neuronal, ajustando los pesos de las conexiones para minimizar el error. Es un método que utiliza la regla de la cadena (un concepto del cálculo diferencial) para calcular el gradiente de la función de pérdida con respecto a cada peso de la red.
+ El backpropagation (retropropagación) se utiliza para entrenar la red neuronal, ajustando los pesos de las conexiones para minimizar el error. Es un método que utiliza la regla de la cadena (un concepto del cálculo diferencial) para calcular el gradiente de la función de pérdida con respecto a cada peso de la red.
 
 ---
 
 Pregunta En K-Fold Cross Validation (con k=5) sobre un conjunto de 240 registros de entrenamiento, ¿cuántas veces se entrena el modelo? 
 ?
-Respuesta El modelo se entrenará 5 veces (una vez por cada "fold" o pliegue).
+ El modelo se entrenará 5 veces (una vez por cada "fold" o pliegue).
 
 ---
 
 Pregunta Verdadero o Falso: En K-Fold CV (k=5) con 240 registros, cada registro estará 4 veces en el conjunto de entrenamiento y 1 vez en el de validación. 
 ?
-Respuesta Verdadero. El conjunto de datos se divide en 5 pliegues. En cada una de las 5 iteraciones, se utilizan 4 pliegues para entrenar y 1 pliegue para validar. Por lo tanto, cada registro forma parte del conjunto de validación una vez y del conjunto de entrenamiento cuatro veces.
+ Verdadero. El conjunto de datos se divide en 5 pliegues. En cada una de las 5 iteraciones, se utilizan 4 pliegues para entrenar y 1 pliegue para validar. Por lo tanto, cada registro forma parte del conjunto de validación una vez y del conjunto de entrenamiento cuatro veces.
 
 ---
 
 Pregunta Verdadero o Falso: Un árbol ID3 usa la entropía, mientras que C4.5 usa la impureza de Gini. 
 ?
-Respuesta Falso. Tanto ID3 como su sucesor C4.5 utilizan la entropía y la ganancia de información para construir el árbol. El algoritmo CART es el que utiliza la impureza de Gini.
+ Falso. Tanto ID3 como su sucesor C4.5 utilizan la entropía y la ganancia de información para construir el árbol. El algoritmo CART es el que utiliza la impureza de Gini.
 
 ---
 
 Pregunta Verdadero o Falso: La técnica de poda se utiliza en los árboles C4.5 para evitar el underfitting. 
 ?
-Respuesta Falso. La poda se utiliza para evitar el overfitting.
+ Falso. La poda se utiliza para evitar el overfitting.
 
 ---
 
 Pregunta Si el F1-Score en entrenamiento es 0.25 y en test es 0.4, ¿el modelo está sobreajustando? 
 ?
-Respuesta Falso. Un F1-Score bajo tanto en entrenamiento como en test sugiere un problema de underfitting (subajuste). El modelo no está capturando bien los patrones de los datos.
+ Falso. Un F1-Score bajo tanto en entrenamiento como en test sugiere un problema de underfitting (subajuste). El modelo no está capturando bien los patrones de los datos.
 
 ---
 
 Pregunta Verdadero o Falso: Una alta correlación entre dos variables implica causalidad. 
 ?
-Respuesta Falso. Correlación no implica causalidad. Dos variables pueden estar altamente correlacionadas debido a una tercera variable oculta (variable de confusión) o por simple coincidencia.
+ Falso. Correlación no implica causalidad. Dos variables pueden estar altamente correlacionadas debido a una tercera variable oculta (variable de confusión) o por simple coincidencia.
 
 ---
 
 Pregunta Verdadero o Falso: En un problema de regresión lineal se busca predecir un valor en un rango continuo. 
 ?
-Respuesta Verdadero. El objetivo de la regresión es predecir una variable dependiente cuantitativa y continua.
+ Verdadero. El objetivo de la regresión es predecir una variable dependiente cuantitativa y continua.

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Router Control Plane y Scheduling",
+      "path": "Redes/Router Control Plane y Scheduling.md"
+    },
+    {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "Recorridos Grafos",
       "path": "Algoritmos y Programación II/Recorridos Grafos.md"
-    },
-    {
-      "basename": "Router Control Plane y Scheduling",
-      "path": "Redes/Router Control Plane y Scheduling.md"
     },
     {
       "basename": "Middle boxes",

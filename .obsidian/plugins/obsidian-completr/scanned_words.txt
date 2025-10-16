@@ -2383,6 +2383,10 @@ crossbeam
 closure
 conectado
 connect
+colas
+congestione
+congesti
+colapso
 de
 dispositivos
 del
@@ -3897,6 +3901,7 @@ geturl
 gateway
 grabamos
 gratuitos
+gradual
 especifico
 entra
 en
@@ -7205,6 +7210,7 @@ paritarios
 previstos
 panic
 puertas
+pinta
 la
 las
 le
@@ -8915,6 +8921,9 @@ asambleas
 aporta
 argumento
 addrs
+asegurado
+avisando
+avisados
 hardware
 heap
 hay
@@ -11075,6 +11084,7 @@ Societarios
 Sindicatura
 SOCK
 STREAM
+Seg
 Calls
 Cmabia
 CPU
@@ -11807,6 +11817,7 @@ Capital
 Conocer
 Crossbeam
 Cierra
+Colas
 Es
 El
 Estos
@@ -12486,6 +12497,7 @@ Estados
 Emprendedor
 Empleado
 Err
+Enlaces
 kernel
 kt
 kU
@@ -13910,6 +13922,8 @@ recvfrom
 rechazadas
 representando
 recv
+rotativo
+respectivos
 operacion
 orden
 operaciones
@@ -16238,6 +16252,7 @@ Autonom
 Apoyo
 Accionista
 Asocia
+Archivo
 Programming
 Procesos
 Partes
@@ -16893,6 +16908,9 @@ Patrimonio
 Preciso
 Participaci
 Participar
+Plane
+Preventiva
+Prevenci
 Interface
 ID
 Instructions
@@ -18774,6 +18792,7 @@ manifiestan
 moral
 modificarlo
 motor
+matan
 tien
 tiene
 todos
@@ -21031,6 +21050,7 @@ financieras
 fundar
 finalizacion
 family
+forwarding
 Nombre
 Notas
 Not
@@ -21506,6 +21526,7 @@ Naci
 Nulidad
 Naturaleza
 Novaci
+Notificaci
 File
 For
 Funcion
@@ -23826,6 +23847,7 @@ Tandil
 Taqui
 Tradiciones
 Trimestral
+Turno
 Realiza
 REgistrys
 Rango
@@ -26005,6 +26027,7 @@ Variabilidad
 Voluntarios
 Vicios
 Voluntad
+Vialidad
 OPTIONS
 Operativos
 Orden
@@ -26533,6 +26556,7 @@ Obligaciones
 Obligaci
 Obligatoriedad
 Obligatorio
+Optimizaci
 ya
 yo
 yM
@@ -28305,6 +28329,7 @@ General
 Garant
 Grupos
 Gerencia
+Garantizado
 BX
 Bit
 Box

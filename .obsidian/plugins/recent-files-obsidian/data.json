@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sockets",
+      "path": "Redes/Sockets.md"
+    },
+    {
       "basename": "flashcards",
       "path": "Organización de Datos/flashcards.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
-    },
-    {
-      "basename": "Sockets",
-      "path": "Redes/Sockets.md"
     },
     {
       "basename": "IPv4",

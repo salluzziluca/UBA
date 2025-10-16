@@ -969,6 +969,7 @@ Legal
 LGS
 Lealtad
 Libros
+Line
 capa
 controlado
 cantidad
@@ -3407,6 +3408,7 @@ disposici
 desproporci
 determinable
 deploy
+demoras
 gestion
 gran
 guarda
@@ -7211,6 +7213,7 @@ previstos
 panic
 puertas
 pinta
+processor
 la
 las
 le
@@ -11085,6 +11088,7 @@ Sindicatura
 SOCK
 STREAM
 Seg
+Sale
 Calls
 Cmabia
 CPU
@@ -12498,6 +12502,7 @@ Emprendedor
 Empleado
 Err
 Enlaces
+Escritura
 kernel
 kt
 kU
@@ -13924,6 +13929,7 @@ representando
 recv
 rotativo
 respectivos
+rojos
 operacion
 orden
 operaciones
@@ -15080,6 +15086,7 @@ nacimiento
 nexo
 nero
 nalice
+nde
 via
 vuelve
 viven
@@ -16911,6 +16918,8 @@ Participar
 Plane
 Preventiva
 Prevenci
+Prefijo
+Paquete
 Interface
 ID
 Instructions
@@ -18793,6 +18802,8 @@ moral
 modificarlo
 motor
 matan
+mapea
+mandarlo
 tien
 tiene
 todos
@@ -21051,6 +21062,7 @@ fundar
 finalizacion
 family
 forwarding
+fabric
 Nombre
 Notas
 Not
@@ -22115,6 +22127,7 @@ Fundamento
 Formaci
 Fijado
 Founder
+Forwarding
 Descriptors
 Descriptor
 Devuelve
@@ -23321,6 +23334,7 @@ Multas
 MATCH
 Mixto
 Materiales
+Minimizar
 Table
 Todos
 This
@@ -24533,6 +24547,7 @@ Remisi
 Regulaci
 Registral
 Reuni
+Routeo
 bien
 by
 be
@@ -26557,6 +26572,8 @@ Obligaci
 Obligatoriedad
 Obligatorio
 Optimizaci
+Ocurre
+Optimizar
 ya
 yo
 yM
@@ -28330,6 +28347,7 @@ Garant
 Grupos
 Gerencia
 Garantizado
+Genera
 BX
 Bit
 Box
@@ -28817,6 +28835,7 @@ Byte
 Byt
 Balance
 Bloquea
+Blocking
 XY
 Xg
 XQG
@@ -29626,6 +29645,8 @@ Hop
 Hechos
 Hecho
 Habra
+HOL
+Head
 Jacobiano
 Job
 Jusitfique
@@ -30950,6 +30971,7 @@ xyJ
 xcd
 xMS
 xNb
+ximas
 Workload
 Walrus
 Whitley

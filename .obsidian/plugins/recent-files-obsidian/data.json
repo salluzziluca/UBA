@@ -5,6 +5,10 @@
       "path": "Redes/Router Control Plane y Scheduling.md"
     },
     {
+      "basename": "Router Data Plane",
+      "path": "Redes/Router Data Plane.md"
+    },
+    {
       "basename": "Sockets",
       "path": "Redes/Sockets.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "Middle boxes",
       "path": "Redes/Middle boxes.md"
-    },
-    {
-      "basename": "Router Data Plane",
-      "path": "Redes/Router Data Plane.md"
     },
     {
       "basename": "Parcial",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NP (nondetherministic polynomial)",
+      "path": "Teoría de Algoritmos/NP (nondetherministic polynomial).md"
+    },
+    {
       "basename": "Router Control Plane y Scheduling",
       "path": "Redes/Router Control Plane y Scheduling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Capa de Transporte",
       "path": "Redes/Capa de Transporte.md"
-    },
-    {
-      "basename": "Content Delivery Network (CDN)",
-      "path": "Redes/Content Delivery Network (CDN).md"
     }
   ],
   "omittedPaths": [],

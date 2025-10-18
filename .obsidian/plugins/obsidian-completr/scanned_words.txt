@@ -8803,6 +8803,7 @@ adir
 aporta
 adecuadas
 ajustando
+abruptamente
 hardware
 heap
 hay
@@ -10314,6 +10315,7 @@ usaban
 underfitting
 univariados
 umbral
+usperiores
 System
 Son
 Source
@@ -13724,6 +13726,7 @@ regularizaci
 relaciona
 reduzca
 retropropagaci
+rejugar
 operacion
 orden
 operaciones
@@ -18543,6 +18546,8 @@ maneja
 manejarlos
 mezcla
 miden
+muertos
+muere
 tien
 tiene
 todos
@@ -19230,6 +19235,8 @@ tranquilo
 transferir
 tratado
 timo
+tanques
+tapados
 inico
 interna
 infro
@@ -24795,6 +24802,7 @@ bloquea
 balance
 bootstrap
 backpropagation
+bordes
 will
 words
 with
@@ -27130,6 +27138,7 @@ justifica
 junio
 jerarqu
 jerarquica
+juego
 Ya
 Yourself
 YAGNI

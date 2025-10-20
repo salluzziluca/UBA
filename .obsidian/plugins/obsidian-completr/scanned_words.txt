@@ -3367,6 +3367,9 @@ divida
 detecci
 diferencial
 dependiente
+descripcion
+datasaet
+diferenci
 gestion
 gran
 guarda
@@ -7130,6 +7133,7 @@ preferible
 pliegue
 pliegues
 pinta
+propina
 la
 las
 le

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Router Control Plane y Scheduling",
       "path": "Redes/Router Control Plane y Scheduling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IPv4",
       "path": "Redes/IPv4.md"
-    },
-    {
-      "basename": "Capa de Transporte",
-      "path": "Redes/Capa de Transporte.md"
     }
   ],
   "omittedPaths": [],

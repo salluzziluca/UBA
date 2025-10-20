@@ -2345,6 +2345,10 @@ clasificador
 crucial
 capturando
 correlacionadas
+colas
+congestione
+congesti
+colapso
 de
 dispositivos
 del
@@ -3860,6 +3864,7 @@ geometr
 geod
 graves
 gradiente
+gradual
 especifico
 entra
 en
@@ -7124,6 +7129,7 @@ predijo
 preferible
 pliegue
 pliegues
+pinta
 la
 las
 le
@@ -8803,6 +8809,9 @@ adir
 aporta
 adecuadas
 ajustando
+asegurado
+avisando
+avisados
 hardware
 heap
 hay
@@ -10947,6 +10956,7 @@ Supervisado
 Scree
 SNE
 Stochastic
+Seg
 Calls
 Cmabia
 CPU
@@ -11652,6 +11662,7 @@ Cinco
 Cuadr
 Cross
 CART
+Colas
 Es
 El
 Estos
@@ -12319,6 +12330,7 @@ Entra
 Exactitud
 Entrena
 Embedding
+Enlaces
 kernel
 kt
 kU
@@ -13724,6 +13736,8 @@ regularizaci
 relaciona
 reduzca
 retropropagaci
+rotativo
+respectivos
 operacion
 orden
 operaciones
@@ -16026,6 +16040,7 @@ Anycast
 Agrupamiento
 Agrupa
 Absoluto
+Archivo
 Programming
 Procesos
 Partes
@@ -16675,6 +16690,9 @@ Predice
 Plot
 PCA
 Principales
+Plane
+Preventiva
+Prevenci
 Interface
 ID
 Instructions
@@ -18543,6 +18561,7 @@ maneja
 manejarlos
 mezcla
 miden
+matan
 tien
 tiene
 todos
@@ -20763,6 +20782,7 @@ frecuentemente
 ficos
 fold
 flashcard
+forwarding
 Nombre
 Notas
 Not
@@ -21236,6 +21256,7 @@ Next
 Neuronales
 Negativos
 Neighbor
+Notificaci
 File
 For
 Funcion
@@ -23528,6 +23549,7 @@ Todav
 Traits
 Tahoe
 TTL
+Turno
 Realiza
 REgistrys
 Rango
@@ -25698,6 +25720,7 @@ Verdaderos
 Voting
 Validation
 Verdadero
+Vialidad
 OPTIONS
 Operativos
 Orden
@@ -26222,6 +26245,7 @@ Ofw
 Obliga
 Observaciones
 Overfitting
+Optimizaci
 ya
 yo
 yM
@@ -27982,6 +28006,7 @@ Generamos
 GeoDNS
 Generalmente
 Gini
+Garantizado
 BX
 Bit
 Box

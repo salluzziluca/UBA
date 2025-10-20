@@ -50,4 +50,16 @@ de tiempo de CPU.
 - [[Router]] - Archivo principal
 - [[Router Data Plane]] - Tabla de routeo y forwarding
 - [[Scheduling]] - Algoritmos de scheduling
-- [[Métricas de Performance]] - Optimización del rendimiento
+- [[Métricas de Performance]] - Optimización del rendimientos ent
+
+
+- ej1
+	- descripcion del datasaet
+	- analisis de datos
+	- pregunta 1 relacion distancia propina
+	- pregunta 2 la ciudad que nunca duerme
+	- pregunta 3 diferencias entre empresas
+- ej2
+- ej3
+	- nuevo feature engineering fallido Luca
+- ej4

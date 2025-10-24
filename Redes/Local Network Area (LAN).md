@@ -35,4 +35,4 @@ Como el bride no sabe que donde esta el destino. Pasa, pero sabe que A esta de l
 Cuando b responde sabe que B esta en la izquierda pero tambien sabe que A sigue ahi, Entonces no deja pasar el mensaje al otro lado. Sabe que es al pedo. 
 
 Un switch hace esto pero con mas de 2 bocas. Solo deja pasar a la zona en la valga la pena ir.
-Con un switch 
+Con un switch incluso puedo tener bocas a diferentes velocidades.

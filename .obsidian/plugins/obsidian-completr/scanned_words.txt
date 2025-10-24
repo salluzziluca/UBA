@@ -962,6 +962,7 @@ Llam
 Llama
 Localizaci
 LOF
+Leen
 capa
 controlado
 cantidad
@@ -4898,6 +4899,7 @@ entrenar
 entrena
 entrop
 enviados
+ethernet
 servicios
 son
 su
@@ -5930,6 +5932,7 @@ steres
 sobreajustando
 sugiere
 settings
+switches
 par
 por
 punto
@@ -13740,6 +13743,7 @@ relaciona
 reduzca
 retropropagaci
 rejugar
+redirigen
 operacion
 orden
 operaciones
@@ -24822,6 +24826,7 @@ backpropagation
 bordes
 barrios
 broadcast
+bocas
 will
 words
 with

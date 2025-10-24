@@ -9,4 +9,4 @@ Se utilizan mucho las direcciones MAC (meddium access control). Son el DNI de 48
 
 Si conozco la MAC y estoy en la misma red puedo hablarle directamente sin pasar por ip.
 Puedo hacer broadcast a MAC usando 
-`FF:
+`FF:FF:FF:FF:FF:FF`

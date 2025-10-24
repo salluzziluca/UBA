@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-10-24 20.06.37.excalidraw",
+      "path": "Excalidraw/Drawing 2025-10-24 20.06.37.excalidraw.md"
+    },
+    {
       "basename": "Local Network Area (LAN)",
       "path": "Redes/Local Network Area (LAN).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Router",
       "path": "Redes/Router.md"
-    },
-    {
-      "basename": "Redes",
-      "path": "Redes/Redes.md"
     }
   ],
   "omittedPaths": [],

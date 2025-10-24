@@ -17,4 +17,5 @@ Una PC solo puede acceder a los paquetes enviados a su direccion o a broadcast
 
 
 ## Switch 
-Los switches 
+Los switches tienen varias bocas. Leen el paquete ethernet y lo redirigen. Al mismo tiempo puede reutilizar otros caminos 
+

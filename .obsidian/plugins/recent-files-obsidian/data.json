@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "Control de Flujo y Congestion en TCP",
       "path": "Redes/Control de Flujo y Congestion en TCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
-    },
-    {
-      "basename": "IPv4",
-      "path": "Redes/IPv4.md"
     }
   ],
   "omittedPaths": [],

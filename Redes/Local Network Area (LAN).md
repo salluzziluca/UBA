@@ -47,4 +47,4 @@ Es un protocolo que averigua de forma automatica lo que queremos saber.
 Yo soy la estacion A con direccion IP en una lan y conozco la IP de una estacion B.
 
 
-Yo pregunto por la direccion de broadcast
+Yo pregunto utilizando la direccion de broadcast a nivel encale por la IP que yo conozco. Quien tengas esa direccion me va a responder a mi utilizando una respuesta unica

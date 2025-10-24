@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Local Network Area (LAN)",
+      "path": "Redes/Local Network Area (LAN).md"
+    },
+    {
       "basename": "Capa de enlace",
       "path": "Redes/Capa de enlace.md"
+    },
+    {
+      "basename": "Ethernet",
+      "path": "Redes/Ethernet.md"
     },
     {
       "basename": "Untitled 1",
@@ -191,14 +199,6 @@
     {
       "basename": "Redes",
       "path": "Redes/Redes.md"
-    },
-    {
-      "basename": "Protocolos cliente servidor",
-      "path": "Redes/Protocolos cliente servidor.md"
-    },
-    {
-      "basename": "Métricas de Performance",
-      "path": "Métricas de Performance.md"
     }
   ],
   "omittedPaths": [],

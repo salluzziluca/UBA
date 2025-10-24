@@ -2349,6 +2349,7 @@ correlacionadas
 ciudades
 current
 check
+caino
 de
 dispositivos
 del
@@ -8816,6 +8817,7 @@ adecuadas
 ajustando
 abruptamente
 adentrandose
+azul
 hardware
 heap
 hay
@@ -12337,6 +12339,7 @@ Exactitud
 Entrena
 Embedding
 Excalidraw
+Envia
 kernel
 kt
 kU
@@ -13744,6 +13747,7 @@ reduzca
 retropropagaci
 rejugar
 redirigen
+rojo
 operacion
 orden
 operaciones
@@ -24827,6 +24831,8 @@ bordes
 barrios
 broadcast
 bocas
+bridge
+bride
 will
 words
 with
@@ -28503,6 +28509,7 @@ Byt
 Bias
 Bagging
 Boosting
+Bridge
 XY
 Xg
 XQG

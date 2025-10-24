@@ -10,3 +10,7 @@ dg-publish: true
 6 MAL 
 7 OK 
 8 OK
+9 B- 
+10 OK 
+11 OK
+12 OK

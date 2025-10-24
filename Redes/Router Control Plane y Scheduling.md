@@ -50,4 +50,5 @@ de tiempo de CPU.
 - [[Router]] - Archivo principal
 - [[Router Data Plane]] - Tabla de routeo y forwarding
 - [[Scheduling]] - Algoritmos de scheduling
-- [[Métricas de Performance]] - Optimización del rendimiento
+- [[Métricas de Performance]] - Optimización del rendimientos ent
+

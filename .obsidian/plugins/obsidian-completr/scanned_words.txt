@@ -2345,6 +2345,11 @@ clasificador
 crucial
 capturando
 correlacionadas
+cwin
+congesti
+cticamente
+colapse
+cierro
 de
 dispositivos
 del
@@ -3363,6 +3368,7 @@ divida
 detecci
 diferencial
 dependiente
+despacio
 gestion
 gran
 guarda
@@ -4893,6 +4899,8 @@ emplea
 entrenar
 entrena
 entrop
+exponencialmente
+extras
 servicios
 son
 su
@@ -5924,6 +5932,10 @@ sospechas
 steres
 sobreajustando
 sugiere
+ssthresh
+sucesivamente
+ssthreshold
+slots
 par
 por
 punto
@@ -7124,6 +7136,7 @@ predijo
 preferible
 pliegue
 pliegues
+push
 la
 las
 le
@@ -8803,7 +8816,7 @@ adir
 aporta
 adecuadas
 ajustando
-abruptamente
+agrando
 hardware
 heap
 hay
@@ -10315,7 +10328,6 @@ usaban
 underfitting
 univariados
 umbral
-usperiores
 System
 Son
 Source
@@ -10949,6 +10961,10 @@ Supervisado
 Scree
 SNE
 Stochastic
+Slow
+Start
+Seteo
+Setea
 Calls
 Cmabia
 CPU
@@ -11654,6 +11670,7 @@ Cinco
 Cuadr
 Cross
 CART
+Congestion
 Es
 El
 Estos
@@ -12321,6 +12338,9 @@ Entra
 Exactitud
 Entrena
 Embedding
+ENTERA
+Enlaces
+Establecimiento
 kernel
 kt
 kU
@@ -13726,7 +13746,8 @@ regularizaci
 relaciona
 reduzca
 retropropagaci
-rejugar
+rwin
+receive
 operacion
 orden
 operaciones
@@ -15459,6 +15480,7 @@ ventana
 vulnerabilidades
 votaci
 variedad
+ventanas
 Application
 API
 Asigna
@@ -16029,6 +16051,12 @@ Anycast
 Agrupamiento
 Agrupa
 Absoluto
+Aumenta
+Avoidance
+ACKs
+Aumento
+Ajuste
+Archivo
 Programming
 Procesos
 Partes
@@ -18546,8 +18574,6 @@ maneja
 manejarlos
 mezcla
 miden
-muertos
-muere
 tien
 tiene
 todos
@@ -19235,8 +19261,8 @@ tranquilo
 transferir
 tratado
 timo
-tanques
-tapados
+transmisi
+threshold
 inico
 interna
 infro
@@ -20769,7 +20795,8 @@ fragmentaci
 frecuentemente
 ficos
 fold
-flashcard
+fall
+faltaban
 Nombre
 Notas
 Not
@@ -23014,6 +23041,7 @@ Marque
 Multivariados
 MAE
 MSE
+Maximum
 Table
 Todos
 This
@@ -23535,6 +23563,7 @@ Todav
 Traits
 Tahoe
 TTL
+Timeout
 Realiza
 REgistrys
 Rango
@@ -24217,6 +24246,9 @@ Redes
 Recall
 Resoluci
 RMSE
+Retransmit
+Recovery
+Reenv
 bien
 by
 be
@@ -24802,7 +24834,6 @@ bloquea
 balance
 bootstrap
 backpropagation
-bordes
 will
 words
 with
@@ -25706,6 +25737,7 @@ Verdaderos
 Voting
 Validation
 Verdadero
+Ventanas
 OPTIONS
 Operativos
 Orden
@@ -27138,7 +27170,6 @@ justifica
 junio
 jerarqu
 jerarquica
-juego
 Ya
 Yourself
 YAGNI

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "FABRU",
-      "path": "Algoritmos y Programación III/Ayudantía/20252c/FABRU.md"
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
     },
     {
-      "basename": "NP (nondetherministic polynomial)",
-      "path": "Teoría de Algoritmos/NP (nondetherministic polynomial).md"
+      "basename": "Control de Flujo y Congestion en TCP",
+      "path": "Redes/Control de Flujo y Congestion en TCP.md"
+    },
+    {
+      "basename": "Poker Planing",
+      "path": "Gestión del Desarrollo de Sistemas Informáticos/Poker Planing.md"
     },
     {
       "basename": "Router Control Plane y Scheduling",
       "path": "Redes/Router Control Plane y Scheduling.md"
+    },
+    {
+      "basename": "NP (nondetherministic polynomial)",
+      "path": "Teoría de Algoritmos/NP (nondetherministic polynomial).md"
     },
     {
       "basename": "Router Data Plane",
@@ -87,10 +95,6 @@
     {
       "basename": "Metricas de Performance",
       "path": "Redes/Metricas de Performance.md"
-    },
-    {
-      "basename": "Control de Flujo y Congestion en TCP",
-      "path": "Redes/Control de Flujo y Congestion en TCP.md"
     },
     {
       "basename": "Cantidad de movimiento de un Sistema de Partículas (SP)",
@@ -195,10 +199,6 @@
     {
       "basename": "Capa de Red",
       "path": "Redes/Capa de Red.md"
-    },
-    {
-      "basename": "IPv4",
-      "path": "Redes/IPv4.md"
     }
   ],
   "omittedPaths": [],

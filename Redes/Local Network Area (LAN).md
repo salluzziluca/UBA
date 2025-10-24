@@ -21,3 +21,7 @@ Los switches tienen varias bocas. Leen el paquete ethernet y lo redirigen. Al mi
 ![[switch.excalidraw]]
 
 Se puede ver en rojo un caino y en azul el otro. Ambos ocurren en paralelo. No tiene que esperar a que termine un envio para realizar otro
+
+
+## Bridge 
+

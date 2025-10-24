@@ -25,3 +25,9 @@ Se puede ver en rojo un caino y en azul el otro. Ambos ocurren en paralelo. No t
 
 ## Bridge 
 
+Envia mensajes entre estaciones 
+
+![[Pasted image 20251024201225.png]]
+
+
+El bridge ve un paquete que sale de destino B y origen A. 

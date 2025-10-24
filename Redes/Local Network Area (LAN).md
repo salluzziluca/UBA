@@ -31,5 +31,5 @@ Envia mensajes entre estaciones
 
 
 El bridge ve un paquete que sale de destino B y origen A. 
-Como el bride no sabe que donde esta el destino. Pasa, pero sabe que A esta de la derecha 
+Como el bride no sabe que donde esta el destino. Pasa, pero sabe que A esta de la izq 
 Cuando b responde sabe que B esta en la izquierda pero tambien sabe que A sigue ahi, Entonces no deja pasar el mensaje al otro lado 

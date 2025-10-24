@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ICMP",
+      "path": "Redes/ICMP.md"
+    },
+    {
+      "basename": "Ethernet",
+      "path": "Redes/Ethernet.md"
+    },
+    {
       "basename": "Local Network Area (LAN)",
       "path": "Redes/Local Network Area (LAN).md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Capa de enlace",
       "path": "Redes/Capa de enlace.md"
-    },
-    {
-      "basename": "Ethernet",
-      "path": "Redes/Ethernet.md"
     },
     {
       "basename": "Untitled 1",
@@ -159,10 +163,6 @@
     {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
-    },
-    {
-      "basename": "ICMP",
-      "path": "Redes/ICMP.md"
     },
     {
       "basename": "BGP (Border Gateway Protocol)",

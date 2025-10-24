@@ -2350,6 +2350,7 @@ ciudades
 current
 check
 caino
+corruption
 de
 dispositivos
 del
@@ -4902,6 +4903,7 @@ entrop
 enviados
 ethernet
 encale
+exceded
 servicios
 son
 su
@@ -7139,6 +7141,7 @@ pliegues
 profundizando
 palette
 protocol
+porblem
 la
 las
 le
@@ -8822,6 +8825,7 @@ ajustando
 abruptamente
 adentrandose
 azul
+avisando
 hardware
 heap
 hay
@@ -12346,6 +12350,7 @@ Entrena
 Embedding
 Excalidraw
 Envia
+Echo
 kernel
 kt
 kU
@@ -13754,6 +13759,9 @@ retropropagaci
 rejugar
 redirigen
 rojo
+redirect
+ruta
+rearmado
 operacion
 orden
 operaciones
@@ -16707,6 +16715,7 @@ Predice
 Plot
 PCA
 Principales
+Paramter
 Interface
 ID
 Instructions
@@ -17259,6 +17268,7 @@ ICMPv
 IQR
 Isolation
 ISOMAP
+Informacion
 Un
 UNIX
 UBA
@@ -17752,6 +17762,7 @@ UFg
 Unicast
 Underfitting
 Univariados
+Unreachable
 modo
 mode
 menso
@@ -19269,6 +19280,8 @@ timo
 tanques
 tapados
 tengas
+transit
+transito
 inico
 interna
 infro
@@ -21857,6 +21870,7 @@ Flashcards
 Forest
 Fold
 Falso
+Fragmentation
 Descriptors
 Descriptor
 Devuelve
@@ -22404,6 +22418,7 @@ Domains
 Direcciones
 Destino
 Decompress
+Destination
 Memoria
 Multivariada
 MORE
@@ -24252,6 +24267,9 @@ Redes
 Recall
 Resoluci
 RMSE
+Reply
+Redirect
+Reasembling
 bien
 by
 be
@@ -25746,6 +25764,7 @@ Verdaderos
 Voting
 Validation
 Verdadero
+Viaja
 OPTIONS
 Operativos
 Orden
@@ -30277,6 +30296,7 @@ QPt
 Qfk
 Queens
 Quien
+Quench
 ximo
 xito
 xitos

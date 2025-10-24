@@ -3,7 +3,14 @@ Dia: 2025-10-24
 dg-publish: true
 ---
 
-| Numero de ejercicio | Respuesta correcta |
-| ------------------- | ------------------ |
-| 1                   | 4                  |
-|                     |                    |
+| Numero de ejercicio | Respuesta correcta                   |
+| ------------------- | ------------------------------------ |
+| 1                   | 4                                    |
+| 2                   | 2, 72, 596, 576, 1, 0                |
+| 3                   | F, F, F, F                           |
+| 4                   | 92,6 microsegundos                   |
+| 5                   | V, F, F, F\                          |
+| 6                   | 0.0.0.0, 0.0.0.0, IF3, 199.47.170.28 |
+| 7                   | 4                                    |
+| 8                   | IF1                                  |
+| 9                   |                                      |

@@ -14,3 +14,7 @@ Puedo hacer broadcast a MAC usando
 `FF:FF:FF:FF:FF:FF`
 
 Una PC solo puede acceder a los paquetes enviados a su direccion o a broadcast
+
+
+## Switch 
+Los switches 

@@ -5,4 +5,4 @@ dg-publish: true
 [[Local Network Area (LAN)]]
 
 
-[[Ethernet]]]
+[[Ethernet]]

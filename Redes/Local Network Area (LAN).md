@@ -38,3 +38,10 @@ Se puede ver en rojo un caino y en azul el otro. Ambos ocurren en paralelo. No t
 
 Spanning tree protocol
 ![[Pasted image 20251024202309.png]]
+
+
+## ARP 
+
+Es un protocolo que averigua de forma automatica lo que queremos saber.
+
+Yo soy la estacion A con direccion IP en una lan y conozco la IP de una estacion B.

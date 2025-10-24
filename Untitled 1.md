@@ -8,3 +8,5 @@ dg-publish: true
 4 mal 
 5 OK
 6 MAL 
+7 OK 
+8 OK

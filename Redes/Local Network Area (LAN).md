@@ -15,14 +15,6 @@ Puedo hacer broadcast a MAC usando
 
 Una PC solo puede acceder a los paquetes enviados a su direccion o a broadcast
 
-
-## Switch 
-Los switches tienen varias bocas. Leen el paquete ethernet y lo redirigen. Al mismo tiempo puede reutilizar otros caminos
-![[switch.excalidraw]]
-
-Se puede ver en rojo un caino y en azul el otro. Ambos ocurren en paralelo. No tiene que esperar a que termine un envio para realizar otro
-
-
 ## Bridge 
 
 Envia mensajes entre estaciones 
@@ -36,3 +28,13 @@ Cuando b responde sabe que B esta en la izquierda pero tambien sabe que A sigue 
 
 Un switch hace esto pero con mas de 2 bocas. Solo deja pasar a la zona en la valga la pena ir.
 Con un switch incluso puedo tener bocas a diferentes velocidades.
+
+
+## Switch 
+Los switches tienen varias bocas. Leen el paquete ethernet y lo redirigen. Al mismo tiempo puede reutilizar otros caminos
+![[switch.excalidraw]]
+
+Se puede ver en rojo un caino y en azul el otro. Ambos ocurren en paralelo. No tiene que esperar a que termine un envio para realizar otro
+
+Spanning tree protocol
+![[Pasted image 20251024202309.png]]

@@ -2345,10 +2345,11 @@ clasificador
 crucial
 capturando
 correlacionadas
-colas
-congestione
+cwin
 congesti
-colapso
+cticamente
+colapse
+cierro
 de
 dispositivos
 del
@@ -3367,9 +3368,7 @@ divida
 detecci
 diferencial
 dependiente
-descripcion
-datasaet
-diferenci
+despacio
 gestion
 gran
 guarda
@@ -3867,7 +3866,6 @@ geometr
 geod
 graves
 gradiente
-gradual
 especifico
 entra
 en
@@ -4901,7 +4899,8 @@ emplea
 entrenar
 entrena
 entrop
-ent
+exponencialmente
+extras
 servicios
 son
 su
@@ -5933,6 +5932,10 @@ sospechas
 steres
 sobreajustando
 sugiere
+ssthresh
+sucesivamente
+ssthreshold
+slots
 par
 por
 punto
@@ -7133,8 +7136,7 @@ predijo
 preferible
 pliegue
 pliegues
-pinta
-propina
+push
 la
 las
 le
@@ -8814,9 +8816,7 @@ adir
 aporta
 adecuadas
 ajustando
-asegurado
-avisando
-avisados
+agrando
 hardware
 heap
 hay
@@ -10961,7 +10961,10 @@ Supervisado
 Scree
 SNE
 Stochastic
-Seg
+Slow
+Start
+Seteo
+Setea
 Calls
 Cmabia
 CPU
@@ -11667,7 +11670,7 @@ Cinco
 Cuadr
 Cross
 CART
-Colas
+Congestion
 Es
 El
 Estos
@@ -12335,7 +12338,9 @@ Entra
 Exactitud
 Entrena
 Embedding
+ENTERA
 Enlaces
+Establecimiento
 kernel
 kt
 kU
@@ -13741,9 +13746,8 @@ regularizaci
 relaciona
 reduzca
 retropropagaci
-rotativo
-respectivos
-rendimientos
+rwin
+receive
 operacion
 orden
 operaciones
@@ -15476,6 +15480,7 @@ ventana
 vulnerabilidades
 votaci
 variedad
+ventanas
 Application
 API
 Asigna
@@ -16046,6 +16051,11 @@ Anycast
 Agrupamiento
 Agrupa
 Absoluto
+Aumenta
+Avoidance
+ACKs
+Aumento
+Ajuste
 Archivo
 Programming
 Procesos
@@ -16696,9 +16706,6 @@ Predice
 Plot
 PCA
 Principales
-Plane
-Preventiva
-Prevenci
 Interface
 ID
 Instructions
@@ -18567,7 +18574,6 @@ maneja
 manejarlos
 mezcla
 miden
-matan
 tien
 tiene
 todos
@@ -19255,6 +19261,8 @@ tranquilo
 transferir
 tratado
 timo
+transmisi
+threshold
 inico
 interna
 infro
@@ -20787,8 +20795,8 @@ fragmentaci
 frecuentemente
 ficos
 fold
-flashcard
-forwarding
+fall
+faltaban
 Nombre
 Notas
 Not
@@ -21262,7 +21270,6 @@ Next
 Neuronales
 Negativos
 Neighbor
-Notificaci
 File
 For
 Funcion
@@ -23034,6 +23041,7 @@ Marque
 Multivariados
 MAE
 MSE
+Maximum
 Table
 Todos
 This
@@ -23555,7 +23563,7 @@ Todav
 Traits
 Tahoe
 TTL
-Turno
+Timeout
 Realiza
 REgistrys
 Rango
@@ -24238,6 +24246,9 @@ Redes
 Recall
 Resoluci
 RMSE
+Retransmit
+Recovery
+Reenv
 bien
 by
 be
@@ -25726,7 +25737,7 @@ Verdaderos
 Voting
 Validation
 Verdadero
-Vialidad
+Ventanas
 OPTIONS
 Operativos
 Orden
@@ -26251,7 +26262,6 @@ Ofw
 Obliga
 Observaciones
 Overfitting
-Optimizaci
 ya
 yo
 yM
@@ -28012,7 +28022,6 @@ Generamos
 GeoDNS
 Generalmente
 Gini
-Garantizado
 BX
 Bit
 Box

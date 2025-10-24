@@ -2345,6 +2345,7 @@ clasificador
 crucial
 capturando
 correlacionadas
+ciudades
 de
 dispositivos
 del
@@ -7124,6 +7125,7 @@ predijo
 preferible
 pliegue
 pliegues
+profundizando
 la
 las
 le
@@ -8804,6 +8806,7 @@ aporta
 adecuadas
 ajustando
 abruptamente
+adentrandose
 hardware
 heap
 hay
@@ -9343,6 +9346,7 @@ http
 host
 hacelos
 hosts
+hablarle
 que
 queda
 quien
@@ -15459,6 +15463,7 @@ ventana
 vulnerabilidades
 votaci
 variedad
+vendor
 Application
 API
 Asigna
@@ -18548,6 +18553,7 @@ mezcla
 miden
 muertos
 muere
+meddium
 tien
 tiene
 todos
@@ -23014,6 +23020,7 @@ Marque
 Multivariados
 MAE
 MSE
+MAC
 Table
 Todos
 This
@@ -24803,6 +24810,8 @@ balance
 bootstrap
 backpropagation
 bordes
+barrios
+broadcast
 will
 words
 with

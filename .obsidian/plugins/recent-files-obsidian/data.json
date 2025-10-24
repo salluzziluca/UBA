@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Capa de enlace",
+      "path": "Redes/Capa de enlace.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Métricas de Performance",
       "path": "Métricas de Performance.md"
-    },
-    {
-      "basename": "Capa de Red",
-      "path": "Redes/Capa de Red.md"
     }
   ],
   "omittedPaths": [],

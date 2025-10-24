@@ -45,3 +45,6 @@ Spanning tree protocol
 Es un protocolo que averigua de forma automatica lo que queremos saber.
 
 Yo soy la estacion A con direccion IP en una lan y conozco la IP de una estacion B.
+
+
+Yo pregunto por la direccion de broadcast

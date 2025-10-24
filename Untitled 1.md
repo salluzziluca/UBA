@@ -18,4 +18,4 @@ dg-publish: true
 | 11                  | 1519                                           | 1519                                           |
 | 12                  | dig [facebook.com](http://facebook.com/), V, F | dig [facebook.com](http://facebook.com/), V, F |
 | 13                  | netstat, F, V, F, F                            | netstat, F, V, F, F                            |
-| 14                  | 9500, F, F, F                                  | 9500, F, F, F                                  |
+| 14                  | 9500, F, F, F                                  | 9500, F, V, F                                  |

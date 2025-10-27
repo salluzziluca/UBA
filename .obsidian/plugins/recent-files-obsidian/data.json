@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Capa de enlace",
+      "path": "Redes/Capa de enlace.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Drawing 2025-10-24 20.06.37.excalidraw",
       "path": "Excalidraw/Drawing 2025-10-24 20.06.37.excalidraw.md"
-    },
-    {
-      "basename": "Capa de enlace",
-      "path": "Redes/Capa de enlace.md"
     },
     {
       "basename": "Control de Flujo y Congestion en TCP",

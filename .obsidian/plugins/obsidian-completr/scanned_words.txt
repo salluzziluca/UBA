@@ -2351,6 +2351,11 @@ current
 check
 caino
 corruption
+cwin
+congesti
+cticamente
+colapse
+cierro
 de
 dispositivos
 del
@@ -3371,6 +3376,7 @@ diferencial
 dependiente
 decompress
 dig
+despacio
 gestion
 gran
 guarda
@@ -4905,6 +4911,8 @@ enviados
 ethernet
 encale
 exceded
+exponencialmente
+extras
 servicios
 son
 su
@@ -5939,6 +5947,10 @@ sugiere
 settings
 switches
 soy
+ssthresh
+sucesivamente
+ssthreshold
+slots
 par
 por
 punto
@@ -7143,6 +7155,7 @@ profundizando
 palette
 protocol
 porblem
+push
 la
 las
 le
@@ -8828,6 +8841,7 @@ adentrandose
 azul
 avisando
 acumulativo
+agrando
 hardware
 heap
 hay
@@ -10979,6 +10993,10 @@ Saving
 Sabe
 Spanning
 SYNACK
+Slow
+Start
+Seteo
+Setea
 Calls
 Cmabia
 CPU
@@ -11684,6 +11702,7 @@ Cinco
 Cuadr
 Cross
 CART
+Congestion
 Es
 El
 Estos
@@ -12354,6 +12373,9 @@ Embedding
 Excalidraw
 Envia
 Echo
+ENTERA
+Enlaces
+Establecimiento
 kernel
 kt
 kU
@@ -13765,6 +13787,8 @@ rojo
 redirect
 ruta
 rearmado
+rwin
+receive
 operacion
 orden
 operaciones
@@ -15499,6 +15523,7 @@ vulnerabilidades
 votaci
 variedad
 vendor
+ventanas
 Application
 API
 Asigna
@@ -16070,6 +16095,12 @@ Agrupamiento
 Agrupa
 Absoluto
 ARP
+Aumenta
+Avoidance
+ACKs
+Aumento
+Ajuste
+Archivo
 Programming
 Procesos
 Partes
@@ -19288,6 +19319,8 @@ tapados
 tengas
 transit
 transito
+transmisi
+threshold
 inico
 interna
 infro
@@ -20822,6 +20855,8 @@ frecuentemente
 ficos
 fold
 flashcard
+fall
+faltaban
 Nombre
 Notas
 Not
@@ -23071,6 +23106,7 @@ MAE
 MSE
 MAC
 Mando
+Maximum
 Table
 Todos
 This
@@ -23592,6 +23628,7 @@ Todav
 Traits
 Tahoe
 TTL
+Timeout
 Realiza
 REgistrys
 Rango
@@ -24277,6 +24314,9 @@ RMSE
 Reply
 Redirect
 Reasembling
+Retransmit
+Recovery
+Reenv
 bien
 by
 be
@@ -25773,6 +25813,7 @@ Validation
 Verdadero
 Viaja
 VVF
+Ventanas
 OPTIONS
 Operativos
 Orden

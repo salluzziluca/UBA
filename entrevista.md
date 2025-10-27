@@ -47,4 +47,5 @@ Beneficios: puedes pasar un mock en tests sin tocar filesystem; cambiar a Postgr
 
 Notas para entrevista:
 >[!warning]  Si en el futuro usas credenciales (cookies/Authorization con credenciales), no puedes usar wildcard y debes declarar orígenes explícitos.
-- En despliegues multi-ambiente, estos orígenes deberían venir de configuración (env).
+>En despliegues multi-ambiente, estos orígenes deberían venir de configuración (env).
+

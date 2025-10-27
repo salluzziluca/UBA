@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "entrevista",
+      "path": "entrevista.md"
+    },
+    {
+      "basename": "Métricas de Performance",
+      "path": "Métricas de Performance.md"
+    },
+    {
+      "basename": "Probabilidad de un riesgo",
+      "path": "Probabilidad de un riesgo.md"
+    },
+    {
       "basename": "MASLATON",
       "path": "MASLATON.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Protocolos de Routeo",
       "path": "Redes/Protocolos de Routeo.md"
-    },
-    {
-      "basename": "Recorridos Grafos",
-      "path": "Algoritmos y Programación II/Recorridos Grafos.md"
-    },
-    {
-      "basename": "Middle boxes",
-      "path": "Redes/Middle boxes.md"
-    },
-    {
-      "basename": "Parcial",
-      "path": "Redes/Parcial.canvas"
     }
   ],
   "omittedPaths": [],

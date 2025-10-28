@@ -65,6 +65,9 @@ Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimi
 Gracefu shutdown
 
 
+liveness vs readiness
+
+
 Reintentos solo si la operación es idempotente o sabemos que repetirla es seguro. Se podria armar para que los 500 sean retriables
 
 Circuit breaker: corta llamadas a un backend que está fallando de forma sostenida para evitar “martillar” y acelerar la recuperación (fail-fast).

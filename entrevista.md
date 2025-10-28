@@ -52,4 +52,4 @@ Notas para entrevista:
 
 
 
-Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de 
+Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit

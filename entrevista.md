@@ -50,7 +50,7 @@ Notas para entrevista:
 >En despliegues multi-ambiente, estos orígenes deberían venir de configuración (env).
 
 
-
+Hcie separatio
 
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit
 

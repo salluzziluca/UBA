@@ -49,3 +49,7 @@ Notas para entrevista:
 >[!warning]  Si en el futuro usas credenciales (cookies/Authorization con credenciales), no puedes usar wildcard y debes declarar orígenes explícitos.
 >En despliegues multi-ambiente, estos orígenes deberían venir de configuración (env).
 
+
+
+
+Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de 

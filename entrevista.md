@@ -53,3 +53,5 @@ Notas para entrevista:
 
 
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit
+
+user feature flags para cambiar cosas como el rate limit o el regex en caliente utilizando punteros

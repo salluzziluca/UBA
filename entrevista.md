@@ -57,6 +57,6 @@ Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimi
 user feature flags para cambiar cosas como el rate limit o el regex en caliente utilizando punteros
 se crea una atomic value, si compila. se reemplaza
 
-Reintentos solo si la operación es idempotente o sabemos que repetirla es seguro.
+Reintentos solo si la operación es idempotente o sabemos que repetirla es seguro. Se podria armar para que los 500 sean retriables
 
 Circuit breaker: corta llamadas a un backend que está fallando de forma sostenida para evitar “martillar” y acelerar la recuperación (fail-fast).

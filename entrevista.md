@@ -57,7 +57,7 @@ se podria usar user feature flags para cambiar cosas como el rate limit o el reg
 hay un middleware con request id para identificar cada uno de los 
 
 
-Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit
+Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit. Tambien tiene de malo que es global y no de cada proceso. Se podria hcer por IP 
 
 
 se crea una atomic value, si compila. se reemplaza

@@ -54,7 +54,7 @@ Hcie separation of concers con inyeccion de dependencias en handler
 use regex
 se podria usar user feature flags para cambiar cosas como el rate limit o el regex en caliente utilizando punteros
 
-hay un middleware con request id para
+hay un middleware con request id para identificar cada uno de los 
 
 
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit

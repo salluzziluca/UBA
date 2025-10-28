@@ -50,11 +50,16 @@ Notas para entrevista:
 >En despliegues multi-ambiente, estos orígenes deberían venir de configuración (env).
 
 
-Hcie separatio
+Hcie separation of concers con inyeccion de dependencias en handler
+use regex
+se podria usar user feature flags para cambiar cosas como el rate limit o el regex en caliente utilizando punteros
+
+hay un middleware con request id para
+
 
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit
 
-user feature flags para cambiar cosas como el rate limit o el regex en caliente utilizando punteros
+
 se crea una atomic value, si compila. se reemplaza
 
 Reintentos solo si la operación es idempotente o sabemos que repetirla es seguro. Se podria armar para que los 500 sean retriables

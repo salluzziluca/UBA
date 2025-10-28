@@ -2349,6 +2349,10 @@ colas
 congestione
 congesti
 colapso
+closure
+creen
+cookies
+configuraci
 de
 dispositivos
 del
@@ -3370,6 +3374,10 @@ dependiente
 descripcion
 datasaet
 diferenci
+diagn
+dev
+debes
+despliegues
 gestion
 gran
 guarda
@@ -4902,6 +4910,12 @@ entrenar
 entrena
 entrop
 ent
+entrevista
+expuestas
+elegidas
+expones
+electron
+estables
 servicios
 son
 su
@@ -5933,6 +5947,9 @@ sospechas
 steres
 sobreajustando
 sugiere
+series
+scrapes
+sesguen
 par
 por
 punto
@@ -7135,6 +7152,9 @@ pliegue
 pliegues
 pinta
 propina
+puedes
+parametrizada
+permitidos
 la
 las
 le
@@ -8817,6 +8837,7 @@ ajustando
 asegurado
 avisando
 avisados
+atender
 hardware
 heap
 hay
@@ -9356,6 +9377,13 @@ http
 host
 hacelos
 hosts
+handlers
+haces
+handler
+har
+habilito
+histogram
+html
 que
 queda
 quien
@@ -9830,6 +9858,8 @@ quo
 quienes
 queue
 quieres
+quantiles
+quieran
 utilizados
 un
 una
@@ -10328,6 +10358,9 @@ usaban
 underfitting
 univariados
 umbral
+unit
+usr
+usas
 System
 Son
 Source
@@ -10962,6 +10995,8 @@ Scree
 SNE
 Stochastic
 Seg
+Store
+SPA
 Calls
 Cmabia
 CPU
@@ -11668,6 +11703,9 @@ Cuadr
 Cross
 CART
 Colas
+Counter
+CORS
+Config
 Es
 El
 Estos
@@ -12336,6 +12374,7 @@ Exactitud
 Entrena
 Embedding
 Enlaces
+Excluyes
 kernel
 kt
 kU
@@ -13744,6 +13783,8 @@ retropropagaci
 rotativo
 respectivos
 rendimientos
+resources
+ruta
 operacion
 orden
 operaciones
@@ -15476,6 +15517,7 @@ ventana
 vulnerabilidades
 votaci
 variedad
+vscode
 Application
 API
 Asigna
@@ -16699,6 +16741,8 @@ Principales
 Plane
 Preventiva
 Prevenci
+Postgres
+Prometheus
 Interface
 ID
 Instructions
@@ -17251,6 +17295,9 @@ ICMPv
 IQR
 Isolation
 ISOMAP
+Inyecci
+Interfaz
+ItemRepository
 Un
 UNIX
 UBA
@@ -18568,6 +18615,8 @@ manejarlos
 mezcla
 miden
 matan
+models
+mock
 tien
 tiene
 todos
@@ -20141,6 +20190,8 @@ identificaciones
 intr
 impureza
 impuro
+interface
+intercambiabilidad
 fijo
 file
 fork
@@ -20789,6 +20840,7 @@ ficos
 fold
 flashcard
 forwarding
+finos
 Nombre
 Notas
 Not
@@ -21845,6 +21897,7 @@ Flashcards
 Forest
 Fold
 Falso
+Firma
 Descriptors
 Descriptor
 Devuelve
@@ -22391,6 +22444,7 @@ DNS
 Domains
 Direcciones
 Destino
+Desacopla
 Memoria
 Multivariada
 MORE
@@ -24238,6 +24292,7 @@ Redes
 Recall
 Resoluci
 RMSE
+Redis
 bien
 by
 be
@@ -24823,6 +24878,7 @@ bloquea
 balance
 bootstrap
 backpropagation
+backend
 will
 words
 with
@@ -25258,6 +25314,8 @@ windows
 webs
 waker
 window
+workbench
+wildcard
 VA
 VIEW
 Volumen
@@ -28013,6 +28071,8 @@ GeoDNS
 Generalmente
 Gini
 Garantizado
+GetItem
+GetItemHandler
 BX
 Bit
 Box
@@ -28501,6 +28561,7 @@ Byt
 Bias
 Bagging
 Boosting
+Bajan
 XY
 Xg
 XQG
@@ -29307,6 +29368,8 @@ Hab
 Hablando
 Host
 Hop
+HandlerFunc
+Histogram
 Jacobiano
 Job
 Jusitfique

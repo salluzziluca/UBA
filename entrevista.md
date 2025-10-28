@@ -59,5 +59,5 @@ Crea un atomic.Value que almacene `*regexp.Regexp`.
 En handler, lee `re := regexVal.Load().(*regexp.Regexp)` y usalo.
 Para actualizar:
 Compila primero: `newRe, err := regexp.Compile(newPattern)`
-Si es válida, `regexVal.Store(newRe) (swap atómico y lock-free)
+Si es válida, `regexVal.Store(newRe)` (swap atómico y lock-free)
 si falla compilación, mantén la anterior y retorna 400 al admin.

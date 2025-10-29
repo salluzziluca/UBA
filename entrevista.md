@@ -62,7 +62,7 @@ hay un middleware con request id para identificar cada uno de los
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit. Tambien tiene de malo que es global y no de cada proceso. Se podria hcer por IP 
 Rate limiting por rol/scope/tenant
 
-que las metricas miren por familia 2xx 4xx 5xx para evitar
+que las metricas miren por familia 2xx 4xx 5xx para reducir la cardinalidad
 
 
 Gracefu shutdown

@@ -82,3 +82,8 @@ logs mas profundos desde middleware
     - Identidad no sensible: user_id/sub (hash/anónimo), tenant, scopes/roles.
 - Formato:
     - JSON estructurado consistente; así lo ingerís en SIEM/ELK/CloudWatch fácilmente.
+
+
+
+
+Oa

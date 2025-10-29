@@ -60,6 +60,7 @@ hay un middleware con request id para identificar cada uno de los
 
 
 Si hay muchos 429 (rate limit exceeded) hay que subir la ventana de del ratelimit. Tambien tiene de malo que es global y no de cada proceso. Se podria hcer por IP 
+Rate limiting por rol/scope/tenant
 
 
 Gracefu shutdown
@@ -73,3 +74,9 @@ Reintentos solo si la operación es idempotente o sabemos que repetirla es segu
 Circuit breaker: corta llamadas a un backend que está fallando de forma sostenida para evitar “martillar” y acelerar la recuperación (fail-fast).
 
  GET es seguro de reintentar; no reintentes POST/PUT sin idempotency keys.
+
+logs mas profundos desde middleware
+- - request_id, timestamp, client_ip (si aplica), path, method, status, latency_ms.
+    - Identidad no sensible: user_id/sub (hash/anónimo), tenant, scopes/roles.
+- Formato:
+    - JSON estructurado consistente; así lo ingerís en SIEM/ELK/CloudWatch fácilmente.

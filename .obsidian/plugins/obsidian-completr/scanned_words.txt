@@ -2353,6 +2353,8 @@ closure
 creen
 cookies
 configuraci
+caliente
+config
 de
 dispositivos
 del
@@ -4916,6 +4918,7 @@ elegidas
 expones
 electron
 estables
+exceeded
 servicios
 son
 su
@@ -5950,6 +5953,7 @@ sugiere
 series
 scrapes
 sesguen
+sostenida
 par
 por
 punto
@@ -7802,6 +7806,7 @@ lgrar
 load
 localhost
 leg
+liveness
 agnosticos
 apps
 al
@@ -8838,6 +8843,8 @@ asegurado
 avisando
 avisados
 atender
+atomic
+acelerar
 hardware
 heap
 hay
@@ -9384,6 +9391,7 @@ har
 habilito
 histogram
 html
+hcer
 que
 queda
 quien
@@ -13785,6 +13793,14 @@ respectivos
 rendimientos
 resources
 ruta
+regex
+rate
+ratelimit
+readiness
+repetirla
+retriables
+reintentar
+reintentes
 operacion
 orden
 operaciones
@@ -18617,6 +18633,8 @@ miden
 matan
 models
 mock
+middleware
+martillar
 tien
 tiene
 todos
@@ -20192,6 +20210,8 @@ impureza
 impuro
 interface
 intercambiabilidad
+inyeccion
+idempotency
 fijo
 file
 fork
@@ -20841,6 +20861,8 @@ fold
 flashcard
 forwarding
 finos
+fallando
+fail
 Nombre
 Notas
 Not
@@ -24293,6 +24315,7 @@ Recall
 Resoluci
 RMSE
 Redis
+Reintentos
 bien
 by
 be
@@ -24879,6 +24902,7 @@ balance
 bootstrap
 backpropagation
 backend
+breaker
 will
 words
 with
@@ -28073,6 +28097,7 @@ Gini
 Garantizado
 GetItem
 GetItemHandler
+Gracefu
 BX
 Bit
 Box
@@ -29370,6 +29395,7 @@ Host
 Hop
 HandlerFunc
 Histogram
+Hcie
 Jacobiano
 Job
 Jusitfique

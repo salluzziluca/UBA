@@ -89,4 +89,6 @@ logs mas profundos desde middleware
 Payment Experience
 checkout nativo de mercadopago
 
-la parte de las tarjetitas. 
+la parte de las tarjetitas. se cruza con un monton con otras partes como QR y demas
+
+Se labura en kotlin 

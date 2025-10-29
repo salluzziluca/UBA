@@ -94,4 +94,4 @@ la parte de las tarjetitas. se cruza con un monton con otras partes como QR y de
 Se labura en kotlin 
 
 
-las guardias son por equipos. 
+las guardias son por equipos. Somos los orquestadores entre front y otros servicios. El componente principal es un BFF

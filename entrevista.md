@@ -86,4 +86,7 @@ logs mas profundos desde middleware
 
 
 
-Oa
+Payment Experience
+checkout nativo de mercadopago
+
+la parte de las tarjetitas. 

@@ -16,3 +16,10 @@ Tambien hay redes ad hoc donde los dispositivos e conectan entre ellos
 Tambien puede pasar que vayamos roteando de repetidor como en la facultad
 
 ![[Drawing 2025-10-31 19.21.25.excalidraw]]
+
+
+## caracteristicas fisicas de los medios 
+
+Difusion, alcance
+Efectos adversos como atenuacion, inteferencia (multiples caminos, otras fuentes)
+- Mediciones 

@@ -22,4 +22,5 @@ Tambien puede pasar que vayamos roteando de repetidor como en la facultad
 
 Difusion, alcance
 Efectos adversos como atenuacion, inteferencia (multiples caminos, otras fuentes)
-- Mediciones 
+- Mediciones: señales de ruido (SRN, signal to noise). Tasa de bit erroneos (BER, bit error rate)
+- dependencia del tipo de modulacion y del BER

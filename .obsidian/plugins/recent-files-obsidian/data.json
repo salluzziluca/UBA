@@ -5,6 +5,14 @@
       "path": "Redes/Capa Fisica Inalambrica.md"
     },
     {
+      "basename": "Capa de enlace",
+      "path": "Redes/Capa de enlace.md"
+    },
+    {
+      "basename": "Capa Fisica Inalambrica II",
+      "path": "Redes/Capa Fisica Inalambrica II.pdf"
+    },
+    {
       "basename": "WiFi",
       "path": "Redes/WiFi.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "UDP",
       "path": "Redes/UDP.md"
-    },
-    {
-      "basename": "Capa de enlace",
-      "path": "Redes/Capa de enlace.md"
     },
     {
       "basename": "entrevista",
@@ -195,10 +199,6 @@
     {
       "basename": "Sincronizacion",
       "path": "Programacion Concurrente/Sincronizacion.md"
-    },
-    {
-      "basename": "Parcial",
-      "path": "Programacion Concurrente/Parcial.canvas"
     }
   ],
   "omittedPaths": [],

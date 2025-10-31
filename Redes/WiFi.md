@@ -12,3 +12,7 @@ Una estacion le habla al access point. Escucha para ver si hay alguien transmiti
 
 ## Colission Avoidance 
 ![[Drawing 2025-10-31 20.11.40.excalidraw|50%]]
+
+
+![[Pasted image 20251031202541.png]]
+

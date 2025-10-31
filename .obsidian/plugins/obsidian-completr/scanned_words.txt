@@ -13867,6 +13867,8 @@ retriables
 reintentar
 reintentes
 repetirdor
+roteando
+repetidor
 operacion
 orden
 operaciones

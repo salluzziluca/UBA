@@ -24,3 +24,6 @@ Difusion, alcance
 Efectos adversos como atenuacion, inteferencia (multiples caminos, otras fuentes)
 - Mediciones: señales de ruido (SRN, signal to noise). Tasa de bit erroneos (BER, bit error rate)
 - dependencia del tipo de modulacion y del BER
+
+## Metricas de perfomance 
+![[Pasted image 20251031193227.png]]

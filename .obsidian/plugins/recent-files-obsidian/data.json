@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Redes inalambricas",
+      "path": "Redes/Redes inalambricas.md"
+    },
+    {
       "basename": "entrevista",
       "path": "entrevista.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SDN (Software Defined Networks)",
       "path": "Redes/SDN (Software Defined Networks).md"
-    },
-    {
-      "basename": "Protocolos de Routeo",
-      "path": "Redes/Protocolos de Routeo.md"
     }
   ],
   "omittedPaths": [],

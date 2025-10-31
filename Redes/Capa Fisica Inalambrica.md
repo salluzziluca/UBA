@@ -16,4 +16,6 @@ IP no esta adaptado para la movilidad.
 ## movilidad en redes celulares 
 
 
-Cuando el celular ve que la relacion señal ruida empieza a ser mala se pone a buscar otras antenas. 
+Cuando el celular ve que la relacion señal ruida empieza a ser mala se pone a buscar otras antenas. Como constantemente esta escaneando se registra con otra antena mientras sigue con la conexion actual.
+
+Una vez que se aseguro que esta registrado en la otra antena hace el ha

@@ -11,3 +11,6 @@ Computadoras conectadas por wifi a un repetirdor a un access point.
 
 
 Tambien hay redes ad hoc donde los dispositivos e conectan entre ellos
+
+
+Tambien puede pasar que vayamos roteando de repetidor como en la facultad

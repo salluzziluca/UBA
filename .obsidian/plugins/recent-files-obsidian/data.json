@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Redes inalambricas",
-      "path": "Redes/Redes inalambricas.md"
+      "basename": "Drawing 2025-10-31 19.21.25.excalidraw",
+      "path": "Excalidraw/Drawing 2025-10-31 19.21.25.excalidraw.md"
     },
     {
       "basename": "Drawing 2025-10-31 19.17.23.excalidraw",
       "path": "Excalidraw/Drawing 2025-10-31 19.17.23.excalidraw.md"
+    },
+    {
+      "basename": "Redes inalambricas",
+      "path": "Redes/Redes inalambricas.md"
     },
     {
       "basename": "entrevista",
@@ -195,10 +199,6 @@
     {
       "basename": "Prepending",
       "path": "Redes/Prepending.md"
-    },
-    {
-      "basename": "AS (Autonomous System)",
-      "path": "Redes/AS (Autonomous System).md"
     }
   ],
   "omittedPaths": [],

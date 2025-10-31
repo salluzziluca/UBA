@@ -27,3 +27,5 @@ Efectos adversos como atenuacion, inteferencia (multiples caminos, otras fuentes
 
 ## Metricas de perfomance 
 ![[Pasted image 20251031193227.png]]
+
+Para darnos una idea. La fibra tiene un BER de $10 ^-9$

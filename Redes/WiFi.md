@@ -14,5 +14,7 @@ Una estacion le habla al access point. Escucha para ver si hay alguien transmiti
 ![[Drawing 2025-10-31 20.11.40.excalidraw|50%]]
 
 
+##  datos 
+
 ![[Pasted image 20251031202541.png]]
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WiFi",
+      "path": "Redes/WiFi.md"
+    },
+    {
       "basename": "Redes inalambricas",
       "path": "Redes/Redes inalambricas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modelo Fork-Join",
       "path": "Programacion Concurrente/Modelo Fork-Join.md"
-    },
-    {
-      "basename": "BGP (Border Gateway Protocol)",
-      "path": "Redes/BGP (Border Gateway Protocol).md"
     }
   ],
   "omittedPaths": [],

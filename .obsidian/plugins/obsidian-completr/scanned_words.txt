@@ -11765,6 +11765,7 @@ Counter
 CORS
 Config
 CloudWatch
+Computadoras
 Es
 El
 Estos
@@ -13864,6 +13865,7 @@ repetirla
 retriables
 reintentar
 reintentes
+repetirdor
 operacion
 orden
 operaciones

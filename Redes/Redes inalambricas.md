@@ -31,4 +31,4 @@ Efectos adversos como atenuacion, inteferencia (multiples caminos, otras fuentes
 Para darnos una idea. La fibra tiene un BER de $10 ^-9$
 Un bit errado cada 10 mil millones de bits ooo un paquete errado cara 10 mil
 
-Todos intentan llegar a ese valor de BER. Para eso se agrega FEC (Forward Error )
+Todos intentan llegar a ese valor de BER. Para eso se agrega FEC (Forward Error Correction)

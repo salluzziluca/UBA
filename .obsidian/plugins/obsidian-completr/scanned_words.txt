@@ -2366,6 +2366,7 @@ configuraci
 caliente
 config
 client
+checkout
 de
 dispositivos
 del
@@ -3888,6 +3889,7 @@ geometr
 geod
 graves
 gradiente
+guardias
 especifico
 entra
 en
@@ -7839,6 +7841,7 @@ lan
 limiting
 liveness
 latency
+labura
 agnosticos
 apps
 al
@@ -11051,6 +11054,7 @@ Setea
 Store
 SPA
 SIEM
+Somos
 Calls
 Cmabia
 CPU
@@ -12436,6 +12440,7 @@ Enlaces
 Establecimiento
 Excluyes
 ELK
+Experience
 kernel
 kt
 kU
@@ -12864,6 +12869,7 @@ kBh
 kilo
 kilos
 kgr
+kotlin
 realicen
 resolve
 recommend
@@ -14431,6 +14437,7 @@ oarte
 overfitting
 outliers
 observaciones
+orquestadores
 nombre
 nuevo
 nica
@@ -15008,6 +15015,7 @@ nseca
 neuronales
 neuronal
 netstat
+nativo
 via
 vuelve
 viven
@@ -16823,6 +16831,7 @@ Principales
 Paramter
 Postgres
 Prometheus
+Payment
 Interface
 ID
 Instructions
@@ -18708,6 +18717,7 @@ mock
 middleware
 miren
 martillar
+mercadopago
 tien
 tiene
 todos
@@ -19403,6 +19413,7 @@ transito
 transmisi
 threshold
 tenant
+tarjetitas
 inico
 interna
 infro
@@ -20950,6 +20961,7 @@ folder
 finos
 fallando
 fail
+front
 Nombre
 Notas
 Not

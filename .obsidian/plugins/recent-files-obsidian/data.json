@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Capa Fisica Inalambrica",
+      "path": "Redes/Capa Fisica Inalambrica.md"
+    },
+    {
       "basename": "WiFi",
       "path": "Redes/WiFi.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Parcial",
       "path": "Programacion Concurrente/Parcial.canvas"
-    },
-    {
-      "basename": "Programacion Asincronica",
-      "path": "Programacion Concurrente/Programacion Asincronica.md"
     }
   ],
   "omittedPaths": [],

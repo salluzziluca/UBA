@@ -27,4 +27,4 @@ Varias antenas se conectana a una misma central office. En un barrio chico como 
 
 ![[Pasted image 20251031211018.png]]
 
-Se ponen las frecuencias de tal modo que las antenas se enfrenten con diferente frecuencia. Para que cambiar sea 
+Se ponen las frecuencias de tal modo que las antenas se enfrenten con diferente frecuencia. Para que cambiar sea mas facil porque buscas en las frecuencias que vos no estas. 

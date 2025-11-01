@@ -22,3 +22,9 @@ Una vez que se aseguro que esta registrado en la otra antena hace el handoff. Se
 
 
 Varias antenas se conectana a una misma central office. En un barrio chico como microcentro puede ser que todo el barrio este mbajo el mismo central office
+
+
+
+![[Pasted image 20251031211018.png]]
+
+Se ponen las frecuencias de tal modo que las antenas se enfrenten con diferente frecuencia. Para que cambiar sea 

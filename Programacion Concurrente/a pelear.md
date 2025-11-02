@@ -3,3 +3,4 @@ Dia: 2025-11-02
 dg-publish: true
 ---
 1. A OK OK pero imcompleta. C  inc D OK
+2.  A y B incorrectas C Ok pero icompleta  D ok 

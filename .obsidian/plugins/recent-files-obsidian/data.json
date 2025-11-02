@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "a pelear",
+      "path": "Programacion Concurrente/a pelear.md"
+    },
+    {
       "basename": "entrevista",
       "path": "entrevista.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actores",
       "path": "Programacion Concurrente/Actores.md"
-    },
-    {
-      "basename": "Sincronizacion",
-      "path": "Programacion Concurrente/Sincronizacion.md"
     }
   ],
   "omittedPaths": [],

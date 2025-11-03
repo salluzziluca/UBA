@@ -7,4 +7,6 @@ dg-publish: true
 
 
 Buenas Ariel, todo bien? Primero que nada queria agradecerte por el tiempo de correccion y sobre todo por tomarte el tiempo de digitalizar que se que es un garron. 
-Te queria hacer un par de consultas sobre la correccion
+Te queria hacer un par de consultas sobre la correccion:
+
+En el punto 1 entiendo que tanto el B como el C se resolvian por fork join. Concretamente con un caso particular que es vectorizacion, map reduce, etc. Pero el metodo padre, digamos, seria F-J. Queria consultarte si eso era correcto 

@@ -11,4 +11,7 @@ Te queria hacer un par de consultas sobre la correccion:
 
 En el punto 1 entiendo que tanto el B como el C se resolvian por fork join. Concretamente con un caso particular que es vectorizacion, map reduce, etc. Pero el metodo padre, digamos, seria F-J. Queria consultarte si eso era correcto o no. Entiendo que por ahi teniendo esto en cuenta los ejercicios no estan Bien sino OK. No creo que haya dicho algo incorrecto sino que me falto profundizar.
 
-En el ej2. 
+En el ej2 C creo que me paso algo similiar. Iba por buen camino pero me falto terminar de ahondar en la idea. 
+
+
+No termine de entender las correcciones sobre el ej 3. Entiendo que lo que dice arriba a la derecha de la pagina es ""

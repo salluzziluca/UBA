@@ -18,3 +18,6 @@ No termine de entender las correcciones sobre el ej 3. Entiendo que lo que dice 
 
 
 Finalmente en el 4 Tampoco entiendo si el 4 A esta marcado con una x o con un tilde. Porque siento que explique claramente el problema del codigo y aclare como resolverlo usando una condvar. Detecto el problema de polling/busy waiting y propongo una solucion
+
+
+Queria hacerte estas consultas para entender el por que de mi nota y poderme preparar mejor para el miercoles. Gracias por tu tiempo

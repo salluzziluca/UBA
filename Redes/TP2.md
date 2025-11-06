@@ -24,3 +24,4 @@ Le vamos a teener que implementar las siguientes reglas
 
 Se deben descartar todos los mensajes cuyo puerto de destino sea 80. CUALQUIER TIPO DE PAQUETE QUE LLEGUE A ESE PUERTO. No importa si no es HTTP
 
+Se debe descartar todos los mensajes que vengan del host 1, tengan puerto de destino 5001 y todos los qu eesten utilizando udp

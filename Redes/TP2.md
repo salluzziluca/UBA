@@ -34,3 +34,7 @@ que el firewall NO sea el controlador. JAMAS
 
 
 Si el switch no sabe que hacer con ese paquete, se lo envia al controlador 
+
+
+
+ARRANCAR POR LA TOPOLOGIA, DE AHI IR A LAS INTERFACES Y POR ULTIMO EL FIREWALL

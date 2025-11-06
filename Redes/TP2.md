@@ -28,3 +28,9 @@ Se debe descartar todos los mensajes que vengan del host 1, tengan puerto de des
 
 
 se deben elegir dos hosts cualquier y los mismos no deben poder comunicarse de ninguna forma
+
+
+que el firewall NO sea el controlador. JAMAS
+
+
+Si el switch no sabe que hacer con ese paquete, se lo envia al controlador 

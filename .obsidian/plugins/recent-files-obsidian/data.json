@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
       "basename": "Parcial",
       "path": "Programacion Concurrente/Parcial.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fragmentacion",
       "path": "Redes/Fragmentacion.md"
-    },
-    {
-      "basename": "KUPA-uru",
-      "path": "Algoritmos y Programación III/Ayudantía/20252c/KUPA-uru.md"
     }
   ],
   "omittedPaths": [],

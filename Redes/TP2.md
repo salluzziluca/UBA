@@ -12,3 +12,6 @@ Hay muchos ejemplos de tipos de topologia y se piden mchos requisitos.
 
 Se nos va a pedir una con unhost en cada extremo y n switches variables en el medio. 
 
+Una vez que esta la topologia hay que configurar un controlador open flow. 
+
+La SDN que armemos le vamos a setear reglas.

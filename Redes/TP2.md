@@ -15,3 +15,9 @@ Se nos va a pedir una con unhost en cada extremo y n switches variables en el me
 Una vez que esta la topologia hay que configurar un controlador open flow. 
 
 La SDN que armemos le vamos a setear reglas. Le vamos a armar un firewall. 
+
+
+Configurar unswitch de esa topologia (elegir y explicar cual y por que).
+
+Le vamos a teener que implementar las siguientes reglas 
+

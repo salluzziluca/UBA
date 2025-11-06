@@ -2450,6 +2450,7 @@ celular
 cuelga
 conectana
 chico
+controlador
 de
 dispositivos
 del
@@ -3496,6 +3497,7 @@ ddai
 dWws
 dFBH
 dqI
+darnos
 gestion
 gran
 guarda
@@ -5083,6 +5085,8 @@ eux
 eAiN
 escaneando
 enfrenten
+erroneos
+errado
 servicios
 son
 su
@@ -6144,6 +6148,7 @@ sFp
 sxz
 sxa
 sSP
+signal
 par
 por
 punto
@@ -7380,6 +7385,7 @@ pHnS
 pwg
 pgC
 ponen
+perfomance
 la
 las
 le
@@ -8062,6 +8068,7 @@ lfnn
 luC
 lWG
 liana
+levantamos
 agnosticos
 apps
 al
@@ -9133,6 +9140,9 @@ adaptado
 antenas
 antena
 aseguro
+adversos
+atenuacion
+armemos
 hardware
 heap
 hay
@@ -10718,6 +10728,7 @@ uIK
 uiG
 uiO
 uTe
+unhost
 System
 Son
 Source
@@ -11382,6 +11393,8 @@ SXXZt
 SxZf
 SZK
 SUI
+SRN
+SDN
 Calls
 Cmabia
 CPU
@@ -12112,6 +12125,7 @@ CDGi
 CwE
 CBG
 Czc
+Correction
 Es
 El
 Estos
@@ -12805,6 +12819,7 @@ Ejo
 EJVv
 EjG
 ENQe
+Efectos
 kernel
 kt
 kU
@@ -14868,6 +14883,7 @@ orP
 odi
 oPV
 office
+open
 nombre
 nuevo
 nica
@@ -15467,6 +15483,7 @@ naG
 nfk
 nwq
 noostros
+noise
 via
 vuelve
 viven
@@ -19315,6 +19332,8 @@ macOS
 movilidad
 microcentro
 mbajo
+modulacion
+mchos
 tien
 tiene
 todos
@@ -20036,6 +20055,7 @@ tIKF
 tZP
 tyb
 tarzan
+topologia
 inico
 interna
 infro
@@ -20958,6 +20978,7 @@ imu
 imi
 iIi
 ijH
+inteferencia
 fijo
 file
 fork
@@ -21637,6 +21658,8 @@ fRJ
 ffb
 flk
 fQXT
+fibra
+firewall
 Nombre
 Notas
 Not
@@ -22737,6 +22760,8 @@ Fnt
 FVb
 FVV
 FaB
+FEC
+Forward
 Descriptors
 Descriptor
 Devuelve
@@ -23305,6 +23330,7 @@ Dtj
 DWC
 DJJ
 DZh
+Difusion
 Memoria
 Multivariada
 MORE
@@ -23974,6 +24000,7 @@ Menlo
 MEvM
 MHM
 Mobile
+Metricas
 Table
 Todos
 This
@@ -29228,6 +29255,7 @@ Gss
 GGQUp
 GSR
 GOK
+Generala
 BX
 Bit
 Box
@@ -29747,6 +29775,7 @@ Bsa
 Bmj
 BuQ
 BYq
+BER
 XY
 Xg
 XQG

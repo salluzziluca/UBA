@@ -5,6 +5,10 @@
       "path": "Redes/TP2.md"
     },
     {
+      "basename": "Redes inalambricas",
+      "path": "Redes/Redes inalambricas.md"
+    },
+    {
       "basename": "Capa Fisica Inalambrica II",
       "path": "Redes/Capa Fisica Inalambrica II.pdf"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Drawing 2025-10-31 20.11.40.excalidraw",
       "path": "Excalidraw/Drawing 2025-10-31 20.11.40.excalidraw.md"
-    },
-    {
-      "basename": "Redes inalambricas",
-      "path": "Redes/Redes inalambricas.md"
     },
     {
       "basename": "Drawing 2025-10-31 19.21.25.excalidraw",

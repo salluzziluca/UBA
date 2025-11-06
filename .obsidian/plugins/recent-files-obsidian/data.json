@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "Parcial",
+      "path": "Programacion Concurrente/Parcial.canvas"
+    },
+    {
+      "basename": "a pelear",
+      "path": "Programacion Concurrente/a pelear.md"
+    },
+    {
+      "basename": "entrevista",
+      "path": "entrevista.md"
+    },
+    {
       "basename": "Capa Fisica Inalambrica",
       "path": "Redes/Capa Fisica Inalambrica.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "UDP",
       "path": "Redes/UDP.md"
-    },
-    {
-      "basename": "entrevista",
-      "path": "entrevista.md"
     },
     {
       "basename": "Untitled 1",
@@ -187,18 +199,6 @@
     {
       "basename": "Fragmentacion",
       "path": "Redes/Fragmentacion.md"
-    },
-    {
-      "basename": "KUPA-uru",
-      "path": "Algoritmos y Programación III/Ayudantía/20252c/KUPA-uru.md"
-    },
-    {
-      "basename": "Actores",
-      "path": "Programacion Concurrente/Actores.md"
-    },
-    {
-      "basename": "Sincronizacion",
-      "path": "Programacion Concurrente/Sincronizacion.md"
     }
   ],
   "omittedPaths": [],

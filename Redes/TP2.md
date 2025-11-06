@@ -21,3 +21,5 @@ Configurar unswitch de esa topologia (elegir y explicar cual y por que).
 
 Le vamos a teener que implementar las siguientes reglas 
 
+
+Se deben descartar todos los mensajes cuyo puerto de destino sea 80. CUALQUIER TIPO DE PAQUETE QUE LLEGUE A ESE PUERTO. No importa si no es 

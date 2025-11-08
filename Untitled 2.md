@@ -7,7 +7,7 @@ Fede es el teach lead. EL que me entrevista maniana.
 
 
 
-No termino de entender por que se me marco como incorrecto el ejercicio 1. Entiendo que describo adecuadamente la diferencia entre ambos problemas (comparandolo con la resolucion oficial). De hecho pongo el mismo ejemplo que hay en el docs
+No termino de entender por que se me marco como incorrecto el ejercicio 1. Entiendo que describo adecuadamente la diferencia entre ambos problemas (comparandolo con la resolucion oficial). De hecho pongo el mismo ejemplo que hay en el docs de los mails de spam
 
 
 En el ejercicio 2 respondo, al igual que en la resolucion oficial. " Se generaria una dimensaionalidad demasiado alta y seria poco eficiente. Se volveria muy costosa computacionalmente." Aclarando tambien la creacion de categorias para casosparticulares que aumentarian el overfitting
@@ -16,3 +16,5 @@ Luego aclaro, respondiendo a la segunda parte del punto. Que se podria usar targ
 
 
 en el 4b Pongo como ejemplo de reduccion de linealidad autoencoders. que es una tecnica de la que me entere en el laburo charlando con los chicos de data, por eso la nombre.  Por ahi no se me entendio la letra. tenia la mano muy cansada despues de haber rendido el otro parcial.
+
+en el ejercicio 6 la correccion dice: son 5, pero tiene sentido el analisis. Queria acalarar que la respuesta final de ese ejercicio fue 5. 

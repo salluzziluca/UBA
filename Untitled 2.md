@@ -16,7 +16,7 @@ Luego aclaro, respondiendo a la segunda parte del punto. Que se podria usar targ
 
 En el ejercicio 3
 
-en el 4b Pongo como ejemplo de reduccion de linealidad autoencoders. que es una tecnica de la que me entere en el laburo charlando con los chicos de data, por eso la nombre.  Por ahi no se me entendio la letra. tenia la mano muy cansada despues de haber rendido el otro parcial.
+en el 4 aclaro Pongo como ejemplo de reduccion de linealidad autoencoders. que es una tecnica de la que me entere en el laburo charlando con los chicos de data, por eso la nombre.  Por ahi no se me entendio la letra. tenia la mano muy cansada despues de haber rendido el otro parcial.
 
 en el ejercicio 5c se pregunta que mecanismo matematico utiliza backpropagation. Y yo aarespondo regla de la cadena, no entiendo por que fue tomado como incorrecto
 

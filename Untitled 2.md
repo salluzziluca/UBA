@@ -15,4 +15,4 @@ En el ejercicio 2 respondo, al igual que en la resolucion oficial. " Se generari
 Luego aclaro, respondiendo a la segunda parte del punto. Que se podria usar target encoding, frecuency encoding o un binary encoding mas compacto que el one hot. Y que tambien se podrian limpiar o combinar las categorias mas raras
 
 
-en el 4a tampo Pongo como ejemplo de reduccion de linealidad autoencoders. que es una tecnica de la que me entere en el laburo charlando con los chicos de data, por eso la nombre.  Por ahi no se me entendio la letra. tenia la mano muy cansada despues de haber rendido el otro parcial.
+en el 4b Pongo como ejemplo de reduccion de linealidad autoencoders. que es una tecnica de la que me entere en el laburo charlando con los chicos de data, por eso la nombre.  Por ahi no se me entendio la letra. tenia la mano muy cansada despues de haber rendido el otro parcial.

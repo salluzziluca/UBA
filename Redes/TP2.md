@@ -38,3 +38,16 @@ Si el switch no sabe que hacer con ese paquete, se lo envia al controlador
 
 
 ARRANCAR POR LA TOPOLOGIA, DE AHI IR A LAS INTERFACES Y POR ULTIMO EL FIREWALL
+
+
+
+
+mininet> h2 python3 -m http.server 80 &
+mininet> h1 curl http://10.0.0.2:80
+
+
+mininet> h2 iperf -s -u -p 5001 &
+mininet> h1 iperf -c 10.0.0.2 -u -p 5001 -t 5
+
+
+mininet> h1 ping -c 3 10.0.0.3

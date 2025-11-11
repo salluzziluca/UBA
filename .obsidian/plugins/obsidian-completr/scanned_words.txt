@@ -1018,6 +1018,7 @@ LBBz
 Lbm
 LqJ
 LqY
+LLEGUE
 capa
 controlado
 cantidad
@@ -5102,6 +5103,7 @@ encoding
 entere
 entendio
 entiendo
+eesten
 servicios
 son
 su
@@ -10757,6 +10759,8 @@ uiG
 uiO
 uTe
 unhost
+unswitch
+udp
 System
 Son
 Source
@@ -12154,6 +12158,8 @@ CwE
 CBG
 Czc
 Correction
+Configurar
+CUALQUIER
 Es
 El
 Estos
@@ -12850,6 +12856,7 @@ ENQe
 Efectos
 Entiendo
 Enfasis
+ESE
 kernel
 kt
 kU
@@ -16127,6 +16134,7 @@ vag
 vCZ
 vAb
 volveria
+vengan
 Application
 API
 Asigna
@@ -16734,6 +16742,8 @@ AAAAAZ
 AvF
 AAAABB
 Aclarando
+ARRANCAR
+AHI
 Programming
 Procesos
 Partes
@@ -17413,6 +17423,8 @@ PaZ
 PNE
 Pxb
 PDFContext
+PAQUETE
+PUERTO
 Interface
 ID
 Instructions
@@ -17991,6 +18003,7 @@ IOKMq
 IhB
 IEn
 ItalicMT
+INTERFACES
 Un
 UNIX
 UBA
@@ -18510,6 +18523,7 @@ UvU
 Ubb
 ULn
 UUIqZ
+ULTIMO
 modo
 mode
 menso
@@ -20102,6 +20116,7 @@ tyb
 tarzan
 topologia
 teach
+teener
 inico
 interna
 infro
@@ -22810,6 +22825,7 @@ FaB
 FEC
 Forward
 Fede
+FIREWALL
 Descriptors
 Descriptor
 Devuelve
@@ -24594,6 +24610,8 @@ TlZZ
 TZC
 Tzs
 Transcribo
+TIPO
+TOPOLOGIA
 Realiza
 REgistrys
 Rango
@@ -31156,6 +31174,7 @@ JHKKF
 Jcg
 JnI
 JPa
+JAMAS
 Quienes
 Queue
 Quiere
